@@ -1,0 +1,428 @@
+
+TY  - JOUR
+T1  - Evaluating the quality of airport service using the fuzzy multi-criteria decision-making method: a case study of Taiwanese airports
+AU  - Chien-Chang, Chou
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - doi: 10.1111/j.1468-0394.2010.00574.x
+DO  - 10.1111/j.1468-0394.2010.00574.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 246
+EP  - 260
+VL  - 29
+IS  - 3
+KW  - expert system
+KW  - fuzzy set
+KW  - MCDM
+KW  - airport
+KW  - service quality
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/j.1468-0394.2010.00574.x
+UR  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
+Y2  - 2020/10/28
+N2  - Abstract In today's highly competitive air transportation environment, the quality of airport service is an important issue. In this paper, we present a fuzzy multi-criteria decision-making (MCDM) method for the evaluation of the quality of airport service. The data are collected from the passengers who depart from two international airports in Taiwan. The fuzzy MCDM model is defuzzied using the inverse function arithmetic representation method. The results show that the average quality of the Taoyuan International Airport service is better than that of the Kaohsiung International Airport service. This paper also analyses the quality of airport service using the fuzzy expert system to improve the performance of airport service. The analysis results show that the Kaohsiung International Airport and the Taoyuan International Airports' improvement efforts should be concentrated on seven and five specific service items, respectively. The findings of this paper are to help the decision-makers and the managers of airports improve the quality of airport service.
+ER  - 
+
+TY  - JOUR
+T1  - A decision support system for fund raising management based on the Choquet integral methodology
+AU  - Barzanti, Luca
+AU  - Giove, Silvio
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - doi: 10.1111/j.1468-0394.2011.00601.x
+DO  - 10.1111/j.1468-0394.2011.00601.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 359
+EP  - 373
+VL  - 29
+IS  - 4
+KW  - fund raising management
+KW  - Choquet integral
+KW  - aggregation operators
+KW  - social economics
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/j.1468-0394.2011.00601.x
+UR  - https://doi.org/10.1111/j.1468-0394.2011.00601.x
+Y2  - 2020/10/28
+N2  - Abstract The employment of a decision support system for optimizing fund raising strategies is crucial to the management of non-profit organizations. Commonly considered methodologies utilize the organization's donor database in order to gather and analyse information. However, many organizations, especially small- and medium-sized ones, do not own or efficiently manage a database, and consequently, the usual methods are inapplicable. In this paper, a decision support system is developed that is able to identify the most promising fund raising strategies on the basis of the organization's profile. The profile factors of a non-profit organization are analysed and hierarchically organized in a decision tree in order to effectively employ the Choquet integral methodology, which is recommended in these kinds of multi-criteria decision problems. The results obtained in the real operational context show the effectiveness of the proposed system.
+ER  - 
+
+TY  - JOUR
+T1  - Goal programming to model human decision making in ultimatum games
+AU  - Beullens, Patrick
+AU  - Zaibidi, Nerda Z.
+AU  - Jones, Dylan F.
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - doi: 10.1111/j.1475-3995.2011.00826.x
+DO  - 10.1111/j.1475-3995.2011.00826.x
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 599
+EP  - 612
+VL  - 19
+IS  - 4
+KW  - goal programming
+KW  - multi criteria decision making
+KW  - game theory
+KW  - simulation
+KW  - ultimatum games
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - doi: 10.1111/j.1475-3995.2011.00826.x
+UR  - https://doi.org/10.1111/j.1475-3995.2011.00826.x
+Y2  - 2020/10/28
+N2  - Abstract Goal Programming (GP) is applied to modelling the decision making processes in the well-known Ultimatum Game and some of its variations. The decision model for a player is a Chebychev GP model that balances her individual desires with the mental model she has of the desires of other relevant players. Fairness is modelled as a universal mechanism, allowing players to differ in their belief of what a fair solution should be in any particular game. The model's conceptual framework draws upon elements considered of importance in the field of cognitive neuroscience, and results from the field of psychology are used to further specify the types of goals in the model. Computer simulations of the GP models, testing a number of Ultimatum, Dictator and Double-Blind Dictator Games, lead to distributions of proposals made and accepted that correspond reasonably well with experimental findings.
+ER  - 
+
+TY  - JOUR
+T1  - THE KOKEMÄENJOKI RIVER BASIN FLOOD RISK MANAGEMENT PLAN––A NATIONAL PILOT FROM FINLAND IN ACCORDANCE WITH THE EU FLOODS DIRECTIVE
+AU  - Verta, Olli-Matti
+AU  - Triipponen, Juha-Pekka
+Y1  - 2011/12/01
+PY  - 2011
+DA  - 2011/12/01
+N1  - doi: 10.1002/ird.668
+DO  - 10.1002/ird.668
+T2  - Irrigation and Drainage
+JF  - Irrigation and Drainage
+JO  - Irrigation and Drainage
+JA  - Irrig. and Drain.
+SP  - 84
+EP  - 90
+VL  - 60
+IS  - S1
+KW  - flood risk management plan
+KW  - flood risk
+KW  - climate change
+KW  - multi-criteria decision analysis
+KW  - Analyse de décision plan de gestion des risques d'inondation
+KW  - le risque d'inondation
+KW  - le changement climatique
+KW  - multi-critères
+PB  - John Wiley & Sons, Ltd
+SN  - 1531-0353
+M3  - doi: 10.1002/ird.668
+UR  - https://doi.org/10.1002/ird.668
+Y2  - 2020/10/28
+N2  - ABSTRACT The Kokemäenjoki River Basin is the fourth largest in Finland. The city of Pori at the delta of the river is the most significant flood risk area in Finland. The preparation of a flood risk management plan (FRMP) for the Kokemäenjoki River Basin as a national pilot began in 2007 and will be finalised during 2011. The main challenges of the FRMP are the reconciliation of flood risks and various interests in different parts of the river basin, and adaptation to climate change. It has been predicted that climate change will alter the flood dynamics of the Kokemäenjoki River: the highest flow peaks will shift from spring to late autumn and winter and the risk of ice jam floods will increase. Development of the existing early warning systems and adaptive lake regulation practices are the two most important non-structural measures for preventing and mitigating flood damage. A new channel in the mid-river reach would help to manage the increasing winter flows. Also robust structural flood protection measures will be needed in the city of Pori. Nevertheless, close collaboration among authorities, municipalities and water body regulators will be critical in successful flood risk management in the Kokemäenjoki River Basin. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - An Alternative FMEA Method for Simple and Accurate Ranking of Failure Modes
+AU  - Bradley, James R.
+AU  - Guerrero, Héctor H.
+Y1  - 2011/08/01
+PY  - 2011
+DA  - 2011/08/01
+N1  - doi: 10.1111/j.1540-5915.2011.00329.x
+DO  - 10.1111/j.1540-5915.2011.00329.x
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+SP  - 743
+EP  - 771
+VL  - 42
+IS  - 3
+KW  - Collaborative Decision Making
+KW  - Group/Team Decision Making
+KW  - Multi-Criteria Decision Making Methods
+KW  - Organizational Decision Making
+KW  - Process Improvement
+KW  - Quality Management and Systems
+KW  - Systems/Process/Service Design
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - doi: 10.1111/j.1540-5915.2011.00329.x
+UR  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+Y2  - 2020/10/28
+N2  - ABSTRACT Failure modes and effects analysis (FMEA) is a methodology for prioritizing actions to mitigate the effects of failures in products and processes. Although originally used by product designers, FMEA is currently more widely used in industry in Six Sigma quality improvement efforts. Two prominent criticisms of the traditional application of FMEA are that the risk priority number (RPN) used to rank failure modes is an invalid measure according to measurement theory, and that the RPN does not weight the three decision criteria used in FMEA. Various methods have been proposed to mitigate these concerns, including many using fuzzy logic. We develop a new ranking method in this article using a data-elicitation technique. Furthermore, we develop an efficient means of eliciting data to reduce the effort associated with the new method. Subsequently, we conduct an experimental study to evaluate that proposed method against the traditional method using RPN and against an approach using fuzzy logic.
+ER  - 
+
+TY  - JOUR
+T1  - A Dynamic Assessment Method for Urban Eco-environmental Quality Evaluation
+AU  - Kou, Gang
+AU  - Wu, Wenshuai
+AU  - Zhao, Yiyi
+AU  - Peng, Yi
+AU  - Yaw, Nti Emmanuel
+AU  - Shi, Yong
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/01/01
+N1  - doi: 10.1002/mcda.470
+DO  - 10.1002/mcda.470
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 23
+EP  - 38
+VL  - 18
+IS  - 1-2
+KW  - Dynamic Assessment method
+KW  - eco-environmental quality assessment
+KW  - time series data
+KW  - TOPSIS
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.470
+UR  - https://doi.org/10.1002/mcda.470
+Y2  - 2020/10/28
+N2  - ABSTRACT With the rapid development of urbanization, urban environmental problems become a big challenge for urban socio-economic development planning. In this paper, a new Dynamic Assessment method, which integrates technique for order preference by similarity to ideal solution, Entropy weight for time series data analysis, Grey relational analysis and Clustering, is proposed for urban eco-environmental quality assessment of the Yangtze River Delta and Pearl River Delta in China. A sensitivity analysis is also conducted to identify the influence of weight or value changes of factors. The urban eco-environmental quality ranking by the proposed method is consistent with the Chinese city competitiveness rankings in 2009 by the Chinese Academy of Social Sciences. It is much easier and more efficient to obtain the urban eco-environmental quality ranking by the proposed method than by field studies and surveys. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Introducing Uncertainty in Multidiscipline Ship Design
+AU  - HANNAPEL, SHARI
+AU  - VLAHOPOULOS, NICKOLAS
+Y1  - 2010/06/01
+PY  - 2010
+DA  - 2010/06/01
+N1  - doi: 10.1111/j.1559-3584.2010.00267.x
+DO  - 10.1111/j.1559-3584.2010.00267.x
+T2  - Naval Engineers Journal
+JF  - Naval Engineers Journal
+JO  - Naval Engineers Journal
+SP  - 41
+EP  - 52
+VL  - 122
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 0028-1425
+M3  - doi: 10.1111/j.1559-3584.2010.00267.x
+UR  - https://doi.org/10.1111/j.1559-3584.2010.00267.x
+Y2  - 2020/10/28
+N2  - Abstract Mathematical formulations of reliability-based design and robust design have been developed for addressing the presence of uncertainty during optimization. When reliability is introduced in the design process, the constraints that are influenced by uncertainty are converted into probabilistic constraints. This ensures that the optimal solution will satisfy the constraints in the presence of uncertainty within a prescribed reliability level. Robustness is introduced by modifying the objective function to depend on the mean and variance of the response of the objective function. This paper presents a formulation for applying reliability-based design and robust design within a network of parallel optimizations in order to account for uncertainty in multidiscipline design optimization. The method for multidiscipline design optimization under uncertainty is applied to a conceptual ship design. The model of a bulk carrier from the literature is used in this analysis. The optimization results are compared with previous data and they demonstrate that reliable and robust optimization can be applied effectively to ship design, and that it is important to consider uncertainty during the multidiscipline ship design process.
+ER  - 
+
+AU  - Pandey, Mayank K.
+PY  - 2010
+Y1  - 2010/06/01
+DA  - 2010/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118161883.ch6
+UR  - https://doi.org/10.1002/9781118161883.ch6
+N1  - doi:10.1002/9781118161883.ch6
+M3  - doi:10.1002/9781118161883.ch6
+N2  - Summary This chapter contains sections titled: Introduction Machine Loading Problem Solution Methodology Implementing Immune Algorithm for Machine Loading Problem Computational Result Conclusion
+SP  - 95-121
+KW  - machine loading problem
+KW  - artificial immune system
+KW  - hypermutation
+KW  - Gaussian and Cauchy mutation
+T1  - Operation Allocation in Flexible Manufacturing System Using Immune Algorithm
+T2  - Evolutionary Computing in Advanced Manufacturing
+T3  - Wiley Online Books
+SN  - 9781118161883
+
+TY  - JOUR
+T1  - Towards the prediction of business failure via computational intelligence techniques
+AU  - Divsalar, Mehdi
+AU  - Firouzabadi, Ali Khatami
+AU  - Sadeghi, Meisam
+AU  - Behrooz, Amir Hossein
+AU  - Alavi, Amir Hossein
+Y1  - 2011/07/01
+PY  - 2011
+DA  - 2011/07/01
+N1  - doi: 10.1111/j.1468-0394.2011.00580.x
+DO  - 10.1111/j.1468-0394.2011.00580.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+SP  - 209
+EP  - 226
+VL  - 28
+IS  - 3
+KW  - bankruptcy prediction
+KW  - linear genetic programming
+KW  - radial basis function
+KW  - financial ratios
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118161883
+M3  - doi: 10.1111/j.1468-0394.2011.00580.x
+UR  - https://doi.org/10.1111/j.1468-0394.2011.00580.x
+Y2  - 2020/10/28
+N2  - Abstract: This is a pioneer study that presents two branches of computational intelligence techniques, namely linear genetic programming (LGP) and radial basis function (RBF) neural network to build models for bankruptcy prediction. The main goal is to classify samples of 140 bankrupt and non-bankrupt Iranian corporations by means LGP and RBF. Another important contribution of this paper is to identify the effective predictive financial ratios based on an extensive bankruptcy prediction literature review and a sequential feature selection analysis. In order to benchmark the proposed models, a log?log regression analysis is further performed. A comparative study on the classification accuracy of the LGP, RBF and regression-based models is conducted. The results indicate that the proposed models effectively let estimate any enterprise in the aspect of bankruptcy. The LGP models have a significantly better prediction performance in comparison with the RBF and regression models.
+ER  - 
+
+TY  - JOUR
+T1  - Mobile ad hoc network broadcasting: A multi-criteria approach
+AU  - Barritt, Brian J.
+AU  - Sheikh, Shaya
+AU  - Al-Najjar, Camelia
+AU  - Malakooti, Behnam
+Y1  - 2011/04/01
+PY  - 2011
+DA  - 2011/04/01
+N1  - doi: 10.1002/dac.1162
+DO  - 10.1002/dac.1162
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int. J. Commun. Syst.
+SP  - 438
+EP  - 460
+VL  - 24
+IS  - 4
+KW  - mobile ad hoc networks
+KW  - broadcasting
+KW  - multiple criteria
+KW  - reconfigurable
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118161883
+M3  - doi: 10.1002/dac.1162
+UR  - https://doi.org/10.1002/dac.1162
+Y2  - 2020/10/28
+N2  - Abstract Nodes in a computer network often require a copy of a message to be delivered to every node in the network. The network layer can provide such a service, referred to as network-wide broadcast routing or simply ?broadcasting?. Broadcasting has many applications, including its role as a service to many routing protocols. In a mobile ad hoc network (MANET), simplistic broadcast schemes (such as flooding) inundate the network with redundancy, contention, collision, and unnecessary use of energy resources. This can prevent broadcasts from achieving their primary objective of maximizing delivery ratio, while also considering secondary objectives, such as balancing energy resources or reducing the network's burden on congested or busy nodes. As a solution, we propose multiple-criteria broadcasting (MCB). In MCB, the source of each broadcast specifies the importance assigned to broadcast objectives. Network nodes use these priorities, along with local and neighbor knowledge of distributed factors, to broadcast in accordance with the objective priorities attributed to the message. Using ns2, the performance of MCB is evaluated and compared to that of other broadcast protocols. To present knowledge, MCB constitutes the first reconfigurable, multi-objective approach to broadcasting. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Data collection for the identification of emerging risks related to food and feed
+AU  - European Food Safety Authority (EFSA)
+Y1  - 2011/08/01
+PY  - 2011
+DA  - 2011/08/01
+N1  - doi: 10.2903/sp.efsa.2011.EN-185
+DO  - 10.2903/sp.efsa.2011.EN-185
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 185E
+VL  - 8
+IS  - 8
+KW  - Emerging risk
+KW  - food
+KW  - feed
+KW  - data collection
+KW  - data source
+KW  - indicator
+KW  - signal
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118161883
+M3  - doi: 10.2903/sp.efsa.2011.EN-185
+UR  - https://doi.org/10.2903/sp.efsa.2011.EN-185
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective optimization strategy based on desirability functions used for electrophoratic separation and quantification of rosiglitazone and glimepiride in plasma and formulations
+AU  - Hefnawy, Mohamed M.
+AU  - Sultan, Maha A.
+AU  - Al-Johar, Haya I.
+AU  - Kassem, Mohamed G.
+AU  - Aboul-Enein, Hassan Y.
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - doi: 10.1002/dta.260
+DO  - 10.1002/dta.260
+T2  - Drug Testing and Analysis
+JF  - Drug Testing and Analysis
+JO  - Drug Testing and Analysis
+JA  - Drug Test Analysis
+SP  - 39
+EP  - 47
+VL  - 4
+IS  - 1
+KW  - multi-objective optimization
+KW  - desirability function
+KW  - capillary electrophoresis
+KW  - rosiglitazone and glimepiride
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118161883
+M3  - doi: 10.1002/dta.260
+UR  - https://doi.org/10.1002/dta.260
+Y2  - 2020/10/28
+N2  - Multiple response simultaneous optimization employing Derringer's desirability function was used for the development of a capillary electrophoresis method for the simultaneous determination of rosiglitazone (RSG) and glimepiride (GLM) in plasma and formulations. Twenty experiments, taking the two resolutions, the analysis time, and the capillary current as the responses with three important factors?buffer morality, volte and column temperature?were used to design mathematical models. The experimental responses were fitted into a second order polynomial and the six responses were simultaneously optimized to predict the optimum conditions for the effective separation of the studied compounds. The separation was carried out by using capillary zone electrophoresis (CZE) with a silica capillary column and diode array detector at 210 nm. The optimum assay conditions were 52 mmol l?1 phosphate buffer, pH 7, and voltage of 22 kV at 29 °C. The method showed good agreement between the experimental data and predictive value throughout the studied parameter space. The assay limit of detection was 0.02 µgml?1 and the effective working range at relative standard deviation (RSD) of ≤ 5% was 0.05?16 µgml?1 (r = 0.999) for both drugs. Analytical recoveries of the studied drugs from spiked plasma were 97.2?101.9 ± 0.31?3.0%. The precision of the assay was satisfactory; RSD was 1.07 and 1.14 for intra- and inter-assay precision, respectively. The proposed method has a great value in routine analysis of RSG and GLM for its therapeutic monitoring and pharmacokinetic studies. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Deliberate Insight in Team Creativity
+AU  - BARLOW, CHRISTOPHER M.
+Y1  - 2000/06/01
+PY  - 2000
+DA  - 2000/06/01
+N1  - doi: 10.1002/j.2162-6057.2000.tb01204.x
+DO  - 10.1002/j.2162-6057.2000.tb01204.x
+T2  - The Journal of Creative Behavior
+JF  - The Journal of Creative Behavior
+JO  - The Journal of Creative Behavior
+SP  - 101
+EP  - 117
+VL  - 34
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118161883
+M3  - doi: 10.1002/j.2162-6057.2000.tb01204.x
+UR  - https://doi.org/10.1002/j.2162-6057.2000.tb01204.x
+Y2  - 2020/10/28
+N2  - Preliminary analysis of data collected from trained expert facilitators of ad hoc creative teams suggests that complex analytical techniques such as costed function modeling and decision criteria matrix may have far more impact upon a team's creative effectiveness than frequently researched measures such as idea quantity. An intriguing relationship in these data between complex creativity and the amount of time spent in evaluating ideas and planning their implementation seems to suggest that a shift in definitional focus from ideas to the insights which reveal those ideas may facilitate both research into team creativity and planning of more effective team problem solving.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling and simulation in the pharmaceutical industry—some reflections
+AU  - Burman, Carl-Fredrik
+AU  - Wiklund, Stig Johan
+Y1  - 2011/11/01
+PY  - 2011
+DA  - 2011/11/01
+N1  - doi: 10.1002/pst.523
+DO  - 10.1002/pst.523
+T2  - Pharmaceutical Statistics
+JF  - Pharmaceutical Statistics
+JO  - Pharmaceutical Statistics
+JA  - Pharmaceut. Statist.
+SP  - 508
+EP  - 516
+VL  - 10
+IS  - 6
+KW  - dose–response models
+KW  - decision analysis
+KW  - clinical programme design
+KW  - modelling principles
+KW  - simulation efficiency
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118161883
+M3  - doi: 10.1002/pst.523
+UR  - https://doi.org/10.1002/pst.523
+Y2  - 2020/10/28
+N2  - Modelling and simulation (M&S) is increasingly being applied in (clinical) drug development. It provides an opportune area for the community of pharmaceutical statisticians to pursue. In this article, we highlight useful principles behind the application of M&S. We claim that M&S should be focussed on decisions, tailored to its purpose and based in applied sciences, not relying entirely on data-driven statistical analysis. Further, M&S should be a continuous process making use of diverse information sources and applying Bayesian and frequentist methodology, as appropriate. In addition to forming a basis for analysing decision options, M&S provides a framework that can facilitate communication between stakeholders. Besides the discussion on modelling philosophy, we also describe how standard simulation practice can be ineffective and how simulation efficiency can often be greatly improved. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+Y1  - 2011/08/01
+PY  - 2011
+DA  - 2011/08/01
+N1  - doi: 10.1002/pds.2206
+DO  - 10.1002/pds.2206
+T2  - Pharmacoepidemiology and Drug Safety
+JF  - Pharmacoepidemiology and Drug Safety
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidem. Drug Safe.
+SP  - S1
+EP  - S364
+VL  - 20
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118161883
+M3  - doi: 10.1002/pds.2206
+UR  - https://doi.org/10.1002/pds.2206
+Y2  - 2020/10/28
+ER  - 

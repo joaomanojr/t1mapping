@@ -1,0 +1,805 @@
+
+TY  - JOUR
+T1  - Benefit-Risk Assessment of Statins (Lipid Lowering Agents): A Multi-Criteria Decision Analysis
+AU  - Wanishayakorn, Tanatape
+AU  - Ngorsuraches, Surachat
+Y1  - 2016/01/04
+PY  - 2016
+DA  - 2016/01/04
+N1  - doi: 10.1002/mcda.1554
+DO  - 10.1002/mcda.1554
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 28
+EP  - 39
+VL  - 23
+IS  - 1-2
+KW  - multi-criteria decision analysis
+KW  - statins
+KW  - multi-stakeholders
+KW  - patients
+KW  - experts
+KW  - policymakers
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.1554
+UR  - https://doi.org/10.1002/mcda.1554
+Y2  - 2020/10/28
+N2  - Abstract Background Benefit-risk assessment (BRA) concept has been increasingly used in drug evaluation, and multi-criteria decision analysis (MCDA) is one of the recommended BRA tools. The objective of this study was to assess benefits and risks of statins (lipid lowering agents) by MCDA, based on patient's, clinical expert's and policymaker's perspectives. Methods Benefit and risk criteria and levels of statins were identified from literatures and interviews of stakeholders. SWING weight technique, which asked stakeholders to choose the most preferred criterion if they change its level from minimum to maximum, was used to measure the weight of each criterion. There were six patients, six clinical experts and 10 policymaker groups. Each group had four members and was asked to discuss and make consensus for giving their importance scores to four benefit and risk criteria (stroke event reduction, myocardial infarction event reduction, myalgia and hepatotoxicity). The collected scores were used to calculate the criteria weights. The criterion weights were multiplied by each statin's criterion scores to calculate the total weighted score of each statin. Total weighted scores were used to rank the order of statins, which reflected the preference order of statins in each perspective. Results From four perspectives (patients, experts, policymakers and overall), the most and least important criteria were myocardial infarction reduction and myalgia, respectively. Patients and experts agreed on the order of importance for stroke reduction and hepatotoxicity, but policymakers had a different order. From expert, policymaker and overall perspectives, atorvastatin had the highest total weighted score, followed by simvastatin, fluvastatin, lovastatin, pravastatin and rosuvastatin. However, patient group agreed only with the orders of atorvastatin, fluvastatin, pravastatin and rosuvastatin. Conclusions Atorvastatin was the most preferred statin across all perspectives. This study presented the feasibility of applying MCDA in drug evaluation process and encouraged the engagement of multi-stakeholders in decision-making process. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting Efficiency in Angolan Banks: A Two-Stage TOPSIS and Neural Networks Approach
+AU  - Wanke, Peter
+AU  - Barros, Carlos
+AU  - Macanda, Nkanga Pedro João
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - doi: 10.1111/saje.12103
+DO  - 10.1111/saje.12103
+T2  - South African Journal of Economics
+JF  - South African Journal of Economics
+JO  - South African Journal of Economics
+JA  - S Afr J Econ
+SP  - 461
+EP  - 483
+VL  - 84
+IS  - 3
+KW  - D24
+KW  - D2
+KW  - G21
+KW  - G2
+KW  - Banks
+KW  - Angola
+KW  - TOPSIS
+KW  - two-stage
+KW  - neural networks
+KW  - efficiency ranks
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-2280
+M3  - doi: 10.1111/saje.12103
+UR  - https://doi.org/10.1111/saje.12103
+Y2  - 2020/10/28
+N2  - Abstract This paper presents an efficiency assessment of the Angolan banks using Technique for Order Preference by Similarity to the Ideal Solution (TOPSIS). TOPSIS is a multi-criteria decision-making technique similar to data envelopment analysis, which ranks a finite set of units based on the minimisation of distance from an ideal point and the maximisation of distance from an anti-ideal point. In this research, TOPSIS is used first in a two-stage approach to assess the relative efficiency of Angolan banks using the most frequent indicators adopted by the literature. Then, in the second stage, neural networks are combined with TOPSIS results as part of an attempt to produce a model for banking performance with effective predictive ability. The results reveal that variables related to cost structure have a prominent negative impact on efficiency. Findings also indicate that the Angolan banking market would benefit from higher level of competition between institutions.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive Evolutionary Neural Networks for Forecasting and Trading without a Data-Snooping Bias
+AU  - Sermpinis, Georgios
+AU  - Verousis, Thanos
+AU  - Theofilatos, Konstantinos
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - doi: 10.1002/for.2338
+DO  - 10.1002/for.2338
+T2  - Journal of Forecasting
+JF  - Journal of Forecasting
+JO  - Journal of Forecasting
+JA  - J. Forecast.
+SP  - 1
+EP  - 12
+VL  - 35
+IS  - 1
+KW  - artificial intelligence
+KW  - financial forecasting
+KW  - data snooping
+KW  - trading
+PB  - John Wiley & Sons, Ltd
+SN  - 0277-6693
+M3  - doi: 10.1002/for.2338
+UR  - https://doi.org/10.1002/for.2338
+Y2  - 2020/10/28
+N2  - Abstract In this paper, we present two neural-network-based techniques: an adaptive evolutionary multilayer perceptron (aDEMLP) and an adaptive evolutionary wavelet neural network (aDEWNN). The two models are applied to the task of forecasting and trading the SPDR Dow Jones Industrial Average (DIA), the iShares NYSE Composite Index Fund (NYC) and the SPDR S&P 500 (SPY) exchange-traded funds (ETFs). We benchmark their performance against two traditional MLP and WNN architectures, a smooth transition autoregressive model (STAR), a moving average convergence/divergence model (MACD) and a random walk model. We show that the proposed architectures present superior forecasting and trading performance compared to the benchmarks and are free from the limitations of the traditional neural networks such as the data-snooping bias and the time-consuming and biased processes involved in optimizing their parameters. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Zopounidis, Constantin
+PY  - 2016
+Y1  - 2016/01/01
+DA  - 2016/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119080305.ch12
+UR  - https://doi.org/10.1002/9781119080305.ch12
+N1  - doi:10.1002/9781119080305.ch12
+M3  - doi:10.1002/9781119080305.ch12
+N2  - Summary Credit risk modeling plays a crucial role in financial risk management, in areas such as banking, corporate finance, and investments. The financial innovations introduced over the past couple of decades, the new regulatory environment for risk management in financial institutions, and the adverse effects due to the recent global crisis, have brought credit risk management into the spotlight among researchers, practitioners, and policy-makers. Credit ratings are important ingredients of the credit risk management process. Credit ratings are either obtained through models developed internally by financial institutions or are provided externally by credit rating agencies (CRAs). The latter, despite the criticisms on their scope and accuracy, are widely used by investors, financial institutions, and regulators, and they have been extensively studied in academic research. This study employs the recent advances in robust multi-criteria decision aid (MCDA) to construct models that predict the ratings issue by a major CRA. MCDA methods are powerful non-parametric tools that have been shown to be effective in several domains of financial decision making. The proposed modeling approach combines financial and market data in a non-linear value function model that not only estimates the credit risk level of the firms, but also provides insights into the relative importance of the predictor attributes. Empirical results are presented for a panel data set of European listed firms during the period 2002-2012.
+SP  - 312-334
+KW  - Credit ratings
+KW  - Rating agencies
+KW  - Multi-criteria decision making
+T1  - Predicting Credit Ratings Using a Robust Multicriteria Approach
+T2  - Quantitative Financial Risk Management
+T3  - Wiley Online Books
+SN  - 9781119080305
+
+TY  - JOUR
+T1  - Projecting a spatial shift of Ontario's sugar maple habitat in response to climate change: A GIS approach
+AU  - Brown, Laura J.
+AU  - Lamhonwah, Daniel
+AU  - Murphy, Brenda L.
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1111/cag.12197
+DO  - 10.1111/cag.12197
+T2  - The Canadian Geographer / Le Géographe canadien
+JF  - The Canadian Geographer / Le Géographe canadien
+JO  - The Canadian Geographer / Le Géographe canadien
+SP  - 369
+EP  - 381
+VL  - 59
+IS  - 3
+KW  - Sugar maple
+KW  - Multi-Criteria Decision Making
+KW  - Geographic Information Systems
+KW  - climate change
+KW  - habitat suitability maps
+KW  - érable à sucre
+KW  - aide à la décision multicritère
+KW  - systèmes d'information géographique
+KW  - changements climatiques
+KW  - cartes de l'indice de qualité de l'habitat
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1111/cag.12197
+UR  - https://doi.org/10.1111/cag.12197
+Y2  - 2020/10/28
+N2  - Canada is the world's largest producer of maple syrup. Syrup production depends on weather and climatic conditions of the sugarbush. However, forest ecosystems are highly sensitive to climate change. The effect of rapidly changing precipitation and temperature patterns on tree species is of concern as these long-lived organisms cannot quickly adapt to the new environmental conditions in which they find themselves. As temperatures increase it is expected that there will be a change in species' ranges poleward. This study uses Multi-Criteria Decision Making (MCDM) and Geographic Information System (GIS) weighted sum analysis to project near future (2050) and distant future (2100) suitability maps of sugar maple (Acer saccharum) habitat in Ontario associated with three different Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report (AR4) scenarios. Our maps project an overall decrease in the amount of suitable habitat within the current sugar maple range under the scenarios modelled, which intensifies in the later time period. Furthermore there is a projected shift in central and southern Ontario from a region dominated by suitable habitat to one dominated by unsuitable habitat.
+ER  - 
+
+TY  - JOUR
+T1  - A Parallel Computing Framework for Finding the Supported Solutions to a Biobjective Network Optimization Problem
+AU  - Medrano, Fernando Antonio
+AU  - Church, Richard Lee
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1002/mcda.1541
+DO  - 10.1002/mcda.1541
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 244
+EP  - 259
+VL  - 22
+IS  - 5-6
+KW  - multicriteria analysis
+KW  - biobjective shortest paths
+KW  - parallel computing
+KW  - GIS
+KW  - network algorithms
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1002/mcda.1541
+UR  - https://doi.org/10.1002/mcda.1541
+Y2  - 2020/10/28
+N2  - Abstract Solving multi-objective combinatorial optimization problems can quickly become computationally challenging when applied to large networks generated from big data. Present-day first-rate Mixed Integer Programming (MIP) solvers have parallelism built-in to take advantage of multicore architectures; but specialized network optimization algorithms that can often solve graph problems more efficiently than a general MIP solver are typically programmed serially. Thus, these network algorithm implementations do not take full advantage of modern multicore computer capabilities. Many parallel computing languages include a fork/join framework into their concurrency packages that allow for simple conversion of recursive serial algorithms to operate in parallel without having to use complicated low-level message-passing interfaces. Fork/join is particularly well suited to divide and conquer algorithms such as Non-Inferior Set Estimation (NISE) method for computing the supported Pareto front of a multi-objective optimization problem. This work develops a simple general parallel NISE (pNISE) implementation using the Java 7 concurrency tools, and then offers results from a specific implementation of solving a bi-objective shortest path problem. The results indicate that this method is capable of sizeable speed-ups on both small-scale personal computers as well as large-scale shared memory supercomputers. Finally, other network problems suitable to this method are discussed, including multi-objective variants of the minimum spanning tree problem, transportation problem, assignment problem, maximum flow problem, and the minimum-cost flow problem. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting performance in ASEAN banks: an integrated fuzzy MCDM–neural network approach
+AU  - Wanke, Peter
+AU  - Kalam Azad, Md. Abul
+AU  - Barros, C. P.
+AU  - Hadi-Vencheh, Abdollah
+Y1  - 2016/06/01
+PY  - 2016
+DA  - 2016/06/01
+N1  - doi: 10.1111/exsy.12144
+DO  - 10.1111/exsy.12144
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 213
+EP  - 229
+VL  - 33
+IS  - 3
+KW  - Islamic banking
+KW  - conventional banking
+KW  - FAHP
+KW  - TOPSIS
+KW  - ANN
+KW  - performance
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1111/exsy.12144
+UR  - https://doi.org/10.1111/exsy.12144
+Y2  - 2020/10/28
+N2  - Abstract This paper presents a performance assessment of 88 Association of Southeast Asian Nations banks from 2010 to 2013, using an integrated three-stage approach on financial criteria that emulates the CAMELS rating system. More precisely, fuzzy analytic hierarchy process is used first to assess the relative weights of a number of criteria related to capital adequacy (C), asset quality (A), management quality (M), earnings (E), liquidity (L), and sensitivity to market risk (S) based on the opinion of 88 Association of Southeast Asian Nations experts. Then, these weights are used as technique for order of preference by similarity to ideal solution inputs to assess their relative efficiency. Lastly, neural networks are combined with technique for order of preference by similarity to ideal solution results to produce a model for banking performance with effective predictive ability. The results reveal that contextual variables have a prominent impact on efficiency. Specifically, parsimony in equity leveraging derived from Islamic finance principles may be the underlying cause in explaining higher efficiency levels.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1002/mcda.1557
+DO  - 10.1002/mcda.1557
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 231
+EP  - 231
+VL  - 22
+IS  - 5-6
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1002/mcda.1557
+UR  - https://doi.org/10.1002/mcda.1557
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - A Process View to Evaluate and Understand Preference Elicitation
+AU  - Nikou, Shahrokh
+AU  - Mezei, József
+AU  - Sarlin, Peter
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1002/mcda.1544
+DO  - 10.1002/mcda.1544
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 305
+EP  - 329
+VL  - 22
+IS  - 5-6
+KW  - preference elicitation
+KW  - conjoint analysis
+KW  - analytic hierarchy process
+KW  - mobile service platform
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1002/mcda.1544
+UR  - https://doi.org/10.1002/mcda.1544
+Y2  - 2020/10/28
+N2  - Abstract This paper focuses on multi-attribute design problems in which several quantitative and/or qualitative attributes are simultaneously involved. Preference elicitation methods dealing with decision-makers' preferences are often employed to solve such problems. The present paper proposes a conceptual framework that considers preference elicitation as a process shaped by the interaction of different factors including the researcher, methodology, questionnaire and respondent in a given context, at the same time. The aim of the framework is to assist in choosing a decision support tool among various multi-attribute decision-making methods, as well as in evaluating and understanding preference elicitation results. To illustrate and exemplify the use of the framework, it is applied to a real-world case of end user preferences of mobile service platforms. We make use of two methods that are suitable for such a setting: analytic hierarchy process and conjoint analysis. Albeit with considerable discrepancies, the results show that both methods provide insightful information on the principle. Nonetheless, to a large degree, these methods perform differently in the case of non-complex tasks and unknowledgeable respondents, which the process view aids in evaluating and understanding. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Robust Prioritization of Climate Change Adaptation Strategies Using the VIKOR Method with Objective Weights
+AU  - Kim, Yeonjoo
+AU  - Chung, Eun-Sung
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - doi: 10.1111/jawr.12291
+DO  - 10.1111/jawr.12291
+T2  - JAWRA Journal of the American Water Resources Association
+JF  - JAWRA Journal of the American Water Resources Association
+JO  - JAWRA Journal of the American Water Resources Association
+JA  - J Am Water Resour Assoc
+SP  - 1167
+EP  - 1182
+VL  - 51
+IS  - 5
+KW  - climate change scenarios
+KW  - entropy
+KW  - robust prioritization
+KW  - VIKOR
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1111/jawr.12291
+UR  - https://doi.org/10.1111/jawr.12291
+Y2  - 2020/10/28
+N2  - Abstract This study proposes a robust prioritization framework for climate change adaptation strategies under uncertain climate change scenarios, using the VIseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR) method, a multi-criteria decision-making approach, together with the Shannon entropy-based weights. The VIKOR method allows us to find a compromise solution between two decision strategies of maximizing group utility and minimizing individual regret, and the Shannon entropy is used to determine objective weights among multiple climate change scenarios. The proposed methodology was applied to the problem of selecting locations of subwatersheds for reusing treated wastewater (TWW) in a Korean urban watershed. Selected based on the sustainability concept, hydro-environmental and socioeconomic indicators were used to evaluate the sustainability of TWW reuse under multiple climate change scenarios, using the hydrologic simulation model results and statistical data. Finally, sustainability scores under multiple scenarios were aggregated using the VIKOR together with the Shannon entropy-based weights for the robust prioritization of adaptation strategies. According to the different levels of regret aversion or affinity, our results for water quality showed different sets of adaptation strategies as the best options, suggesting that our framework would help stakeholders seeking the robust options considering both the utility and regret.
+ER  - 
+
+TY  - JOUR
+T1  - Determination of the effectiveness of the realization of enterprise business objectives and improvement strategies in an uncertain environment
+AU  - Stefanović, Miladin
+AU  - Tadic, Danijela
+AU  - Arsovski, Slavko
+AU  - Pravdic, Predrag
+AU  - Abadić, Nebojša
+AU  - Stefanović, Nikola
+Y1  - 2015/08/01
+PY  - 2015
+DA  - 2015/08/01
+N1  - doi: 10.1111/exsy.12102
+DO  - 10.1111/exsy.12102
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 494
+EP  - 506
+VL  - 32
+IS  - 4
+KW  - business objectives
+KW  - effectiveness
+KW  - fuzzy sets
+KW  - fuzzy analytic hierarchy process (FAHP)
+KW  - management initiatives
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1111/exsy.12102
+UR  - https://doi.org/10.1111/exsy.12102
+Y2  - 2020/10/28
+N2  - Abstract This study determines the effectiveness of business objectives and key performance indicators (KPIs) of the identified business objectives for different types of enterprise. The evaluations of the relative importance of KPIs are called a fuzzy group-decision-making problem. The KPI weights are determined using the fuzzy analytic hierarchical process. The effectiveness of business objectives and KPIs is determined using the adopted Balanced Scorecard Designer Pro. Determination of the KPI rank with respect to each enterprise type is on the basis of Pareto analysis. The priority of management initiatives of the improvement strategy corresponds to the calculated rank, and it has a critical effect on the competitive advantage of any enterprise. The results discuss manufacturing, public and service enterprises, which exist in central Serbia. The proposed approach can also be adapted to different businesses.
+ER  - 
+
+TY  - JOUR
+T1  - SDN-based Sensitive Information (SI) protection: sensitivity-degree measurement in software and data lifetime supervisor in software defined network
+AU  - Sha, Letian
+AU  - He, Liwen
+AU  - Fu, Jianming
+AU  - Sun, Jing
+AU  - Li, Pengwei
+Y1  - 2016/09/10
+PY  - 2016
+DA  - 2016/09/10
+N1  - doi: 10.1002/sec.1367
+DO  - 10.1002/sec.1367
+T2  - Security and Communication Networks
+JF  - Security and Communication Networks
+JO  - Security and Communication Networks
+JA  - Security Comm. Networks
+SP  - 1944
+EP  - 1957
+VL  - 9
+IS  - 13
+KW  - SDN-based
+KW  - sensitive information
+KW  - sensitivity degree
+KW  - data lifetime
+KW  - TOPSIS
+KW  - AHP
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119080305
+M3  - doi: 10.1002/sec.1367
+UR  - https://doi.org/10.1002/sec.1367
+Y2  - 2020/10/28
+N2  - Abstract With the big-data and mobile Internet era coming, sensitive information (SI) in various applications plays a key role; even more, they can be an important part of the authentication between clients and servers. However, how to measure security or sensitivity degrees of SI is an open issue. Furthermore, no effective method can detect covert channel of SI thieves in Advanced Persistent Threat attacks. To deal with these problems, we propose a new design, called software-defined networking (SDN)-based SI Protection, in which sensitivity degree can be measured by using Analytic Hierarchy Process and Technique for Order Preference by Similarity to an Ideal Solution, and SI covert channel can be detected based on OpenFlow in SDN. To our best knowledge, it is the first defined sensitivity degree for SI and novel flow-table design in SI data flow switch. Most significantly, our proposal can apply integrated semantics of leakage points and accident attacks into security analysis and switch protocol in Operating System or network. To verify our proposal, experimental tests are performed in social network platforms, field test results have demonstrated that this proposal can capture security level for SI as expected, detect any kinds of potential leakage points in data lifetime, describe fine-grained semantics of accidental attacks, and detect illegal data flow of SI in network layer. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+PY  - 2016
+Y1  - 2016/09/10
+DA  - 2016/09/10
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118826171.ch16
+UR  - https://doi.org/10.1002/9781118826171.ch16
+N1  - doi:10.1002/9781118826171.ch16
+M3  - doi:10.1002/9781118826171.ch16
+N2  - Summary This chapter focuses on multiattribute decision-making (MADM) and multiobjective decision-making (MODM) models. It describes models developed using artificial intelligence (AI) and information theoretic approaches. The chapter evaluates the role of Geographic Information Systems (GIS) integration in the development of the MADM and MODM models. Recent trends in the field of decision analytic approaches are covered here. Decision analytic models were developed using fundamental concepts derived from the fields of operations research (OR) and management science (MS). In the context of decision making, these models seek to rank and identify optimal alternatives that satisfy several criteria. The chapter provides a generic overview of some of the more common soft computing tools that have been used in water resources applications. GIS and geoprocessing tools can be very helpful in parameterizing optimization models. In particular, spatial datasets and geoprocessing tools can be helpful in developing inputs for MODM models and visualizing results.
+SP  - 235-248
+KW  - decision analytic models
+KW  - GIS
+KW  - information theoretic models
+KW  - multiattribute decision-making models
+KW  - multiobjective decision-making models
+KW  - spatial data mining
+KW  - temporal data modeling
+T1  - Decision Analytic and Information Theoretic Models
+T2  - GIS and Geocomputation for Water Resource Science and Engineering
+T3  - Wiley Online Books
+SN  - 9781118826171
+
+TY  - JOUR
+T1  - A Mixed-Method Approach to Extracting the Value of Social Media Data
+AU  - Chan, Hing Kai
+AU  - Wang, Xiaojun
+AU  - Lacka, Ewelina
+AU  - Zhang, Min
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - doi: 10.1111/poms.12390
+DO  - 10.1111/poms.12390
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+JO  - Production and Operations Management
+JA  - Prod Oper Manag
+SP  - 568
+EP  - 583
+VL  - 25
+IS  - 3
+KW  - social media
+KW  - mixed-method
+KW  - product innovation
+KW  - business intelligence
+KW  - analytics
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118826171
+M3  - doi: 10.1111/poms.12390
+UR  - https://doi.org/10.1111/poms.12390
+Y2  - 2020/10/28
+N2  - In the last decade, social media platforms have become important communication channels between businesses and consumers. As a result, a lot of consumer-generated data are available online. Unfortunately, they are not fully utilized, partly because of their nature: they are unstructured, subjective, and exist in massive databases. To make use of these data, more than one research method is needed. This study proposes a new, multiple approach to social media data analysis, which counteracts the aforementioned characteristics of social media data. In this new approach the data are first extracted systematically and coded following the principles of content analysis, after a comprehensive literature review has been conducted to guide the coding strategy. Next, the relationships between codes are identified by statistical cluster analysis. These relationships are used in the next step of the analysis, where evaluation criteria weights are derived on the basis of the social media data through probability weighting function. A case study is employed to test the proposed approach.
+ER  - 
+
+PY  - 2016
+Y1  - 2016/03/01
+DA  - 2016/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118826171.oth1
+UR  - https://doi.org/10.1002/9781118826171.oth1
+N1  - doi:10.1002/9781118826171.oth1
+M3  - doi:10.1002/9781118826171.oth1
+SP  - 519-522
+T1  - Example of a Syllabus: For Graduate 6000 Level Engineering Students
+T2  - GIS and Geocomputation for Water Resource Science and Engineering
+T3  - Wiley Online Books
+SN  - 9781118826171
+
+PY  - 2016
+Y1  - 2016/03/01
+DA  - 2016/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118826171.fmatter
+UR  - https://doi.org/10.1002/9781118826171.fmatter
+N1  - doi:10.1002/9781118826171.fmatter
+M3  - doi:10.1002/9781118826171.fmatter
+N2  - Summary This chapter contains sections titled: Half-Title Page Title Page Copyright Page Dedication Table of Contents Preface About the Companion Website List of Acronyms
+SP  - i-xxii
+T1  - Frontmatter
+T2  - GIS and Geocomputation for Water Resource Science and Engineering
+T3  - Wiley Online Books
+SN  - 9781118826171
+
+TY  - JOUR
+T1  - Partner selection of agricultural products supply chain based on data mining
+AU  - He, Xuefeng
+AU  - Ai, Xingzheng
+AU  - Jing, Yuewu
+AU  - Liu, Yuanyuan
+Y1  - 2016/03/25
+PY  - 2016
+DA  - 2016/03/25
+N1  - doi: 10.1002/cpe.3625
+DO  - 10.1002/cpe.3625
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat.: Pract. Exper.
+SP  - 1246
+EP  - 1256
+VL  - 28
+IS  - 4
+KW  - agricultural products supply chain
+KW  - partner selection
+KW  - data mining
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118826171
+M3  - doi: 10.1002/cpe.3625
+UR  - https://doi.org/10.1002/cpe.3625
+Y2  - 2020/10/28
+N2  - Summary Now, with the development of modern business, the traditional competition between enterprises has been displaced by the competition between supply chains. Any incorrect decision from supply chain member may have negative influences on other members or the whole supply chain. Therefore, choosing the appropriate supply chain partners is quite necessary and significant to the supply chain performance improvement because the partners can share risks and benefits with proper contract. Concentrating on the agricultural products supply chain, the supply chain partner selection model and indexes system are put forward in this paper, the clustering and classification analyses of potential supply chain partners are made by data mining technology, and the empirical analysis is made for agricultural products supply chain. This study may provide some insights into supply chain longitudinal governance and guidance for the Chinese agriculture economic development. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+PY  - 2016
+Y1  - 2016/03/25
+DA  - 2016/03/25
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118826171.oth4
+UR  - https://doi.org/10.1002/9781118826171.oth4
+N1  - doi:10.1002/9781118826171.oth4
+M3  - doi:10.1002/9781118826171.oth4
+SP  - 531-534
+T1  - Example of a Syllabus: For Undergraduate 4000 Level Environmental Science and Geography Students
+T2  - GIS and Geocomputation for Water Resource Science and Engineering
+T3  - Wiley Online Books
+SN  - 9781118826171
+
+PY  - 2016
+Y1  - 2016/03/25
+DA  - 2016/03/25
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118826171.oth3
+UR  - https://doi.org/10.1002/9781118826171.oth3
+N1  - doi:10.1002/9781118826171.oth3
+M3  - doi:10.1002/9781118826171.oth3
+SP  - 527-530
+T1  - Example of a Syllabus: For Undergraduate 4000 Level Engineering Students
+T2  - GIS and Geocomputation for Water Resource Science and Engineering
+T3  - Wiley Online Books
+SN  - 9781118826171
+
+PY  - 2016
+Y1  - 2016/03/25
+DA  - 2016/03/25
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118994863.indsub
+UR  - https://doi.org/10.1002/9781118994863.indsub
+N1  - doi:10.1002/9781118994863.indsub
+M3  - doi:10.1002/9781118994863.indsub
+SP  - 525-536
+T1  - Subject Index
+T2  - Sensory Discrimination Tests and Measurements
+T3  - Wiley Online Books
+SN  - 9781118994863
+
+TY  - JOUR
+T1  - Factors influencing quality decision-making: regulatory and pharmaceutical industry perspectives
+AU  - Donelan, Ronan
+AU  - Walker, Stuart
+AU  - Salek, Sam
+Y1  - 2015/03/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - doi: 10.1002/pds.3752
+DO  - 10.1002/pds.3752
+T2  - Pharmacoepidemiology and Drug Safety
+JF  - Pharmacoepidemiology and Drug Safety
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+SP  - 319
+EP  - 328
+VL  - 24
+IS  - 3
+KW  - qualitative
+KW  - interviews
+KW  - decision-making
+KW  - quality
+KW  - regulatory agencies
+KW  - pharmaceutical industry
+KW  - individual
+KW  - organisation
+KW  - framework
+KW  - pharmacoepidemiology
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118994863
+M3  - doi: 10.1002/pds.3752
+UR  - https://doi.org/10.1002/pds.3752
+Y2  - 2020/10/28
+N2  - Abstract Purpose Currently, there is no qualified understanding of the influences, behaviours and other factors that impact the decision-making of individuals and organisations involved in the development of new medicines. The aim of this qualitative study was to investigate and identify the important issues that influence quality decision-making. Methods Semi-structured interviews were carried out with 29 senior decision-makers from the pharmaceutical industry and regulatory authorities. The study participants were invited to discuss and review their perception of decision-making within their organisation, its role in drug development and the regulatory review and their awareness and use of decision-making techniques and the impact and monitoring of decisions. Results The analyses (using NVivo 8? software) resulted in the identification of 32 major and 97 sub-themes that were consolidated into 19 overarching themes. These included items such as quality and validity of data, time considerations, organisational and cultural influences, analytical and logical approach, qualification and experience, subjective and personal considerations, political influences, precedents for similar previous decisions, understanding of the decision in question, impact analyses, audit trail, education and awareness, individual versus corporate decision-making and frameworks. Relationships between themes were identified. The 19 overarching decision-making themes were integrated into a framework for quality decision-making. Conclusion This study has achieved its aim of exploring decision-making from the perspective of the individual and the organisation working in drug development and the regulatory review and has identified issues and considerations relating to making good quality decisions and allowed for the generation of a framework to aid quality decision-making. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - User-centric versus network-centric load balancing: How to provide good QoE for gold users
+AU  - Mämmelä, Olli
+AU  - Mannersalo, Petteri
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - doi: 10.1002/nem.1893
+DO  - 10.1002/nem.1893
+T2  - International Journal of Network Management
+JF  - International Journal of Network Management
+JO  - International Journal of Network Management
+JA  - Int. J. Network Mgmt
+SP  - 242
+EP  - 259
+VL  - 25
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118994863
+M3  - doi: 10.1002/nem.1893
+UR  - https://doi.org/10.1002/nem.1893
+Y2  - 2020/10/28
+N2  - Summary The predicted increase in mobile data traffic and in the number of mobile users poses challenges for network operators. Future mobile networks should support traffic volumes of several orders of magnitude larger than today. This may create situations in which the transmission capacity of the network is inadequate for the traffic demand. Intelligent and robust network management methods are thus needed to handle the upcoming changes. Because quite often the bottleneck lies in the wireless part of the network, it is essential to have methods in place to select appropriate wireless access points for the users or their applications. This can be performed either by a central entity or in a distributed manner in which the intelligence is placed in the user equipment or hybrid combinations of those. The selection criteria may vary from selfish optimization of a single user's quality of experience to global network load balancing and class-wise prioritization. This work explores the wireless access selection scheme from a system perspective in scenarios where users of different subscription classes are using progressive video streaming. Evaluation is carried out between a Q-learning based user-centric algorithm, a user class aware network-centric algorithm and a setting without handovers. Simulation results show that both user-centric and network-centric algorithms are able to improve the network performance and the quality of experience of the users. The gains of the network-centric algorithm are more evident during high congestion. In a lightly congested network, the distributed selfish optimization is also qualitatively a good solution for gold users. Copyright ? 2015?John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment and Management of Intellectual Capital: A Single Case Study on the Construction and Implementation of an IC Index
+AU  - Grimaldi, Michele
+AU  - Cricelli, Livio
+AU  - Rogo, Francesco
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - doi: 10.1002/kpm.1479
+DO  - 10.1002/kpm.1479
+T2  - Knowledge and Process Management
+JF  - Knowledge and Process Management
+JO  - Knowledge and Process Management
+JA  - Know. Process Mgmt.
+SP  - 235
+EP  - 249
+VL  - 22
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118994863
+M3  - doi: 10.1002/kpm.1479
+UR  - https://doi.org/10.1002/kpm.1479
+Y2  - 2020/10/28
+N2  - The purpose of this paper is to present an index that assesses the contribution of the intellectual capital (IC) to the value creation process of an organization. The index combines into a single measure the contributions of the individual IC elements on the basis of their strategic importance, their performance, and their reciprocal influence. Five steps, based on the Assessment and Management of Intellectual Capital (AMIC), are considered as essential to build up the index. First, a theoretical framework is developed to underpin the process of selection of the different IC categories. Then, further steps suggest how to aggregate, weigh, and normalize the value of the IC categories in order to build the AMIC index. The index has been implemented into the ?Software? community of innovation of Finmeccanica, which is the leading Italian group in Aerospace, Defence, and Security. We argue that the AMIC index can be successfully used to assess and verify the performance of the value creation process and to explain the behaviour of each specific IC category and its contribution to the combined unit value. Furthermore, the analysis of each category contribution to the value creation can be carried out both in terms of stock and flow in order to highlight the quantitative and qualitative interrelations among the categories. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Multiobjective optimization strategy based on desirability functions used for the microemulsion liquid chromatographic separation and quantification of norfloxacin and tinidazole in plasma and formulations
+AU  - Abou-Taleb, Noura Hemdan
+AU  - El-Wasseef, Dalia Rashad
+AU  - El-Sherbiny, Dina Tawfik
+AU  - El-Ashry, Saadia Mohamed
+Y1  - 2015/03/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - doi: 10.1002/jssc.201401203
+DO  - 10.1002/jssc.201401203
+T2  - Journal of Separation Science
+JF  - Journal of Separation Science
+JO  - Journal of Separation Science
+JA  - J. Sep. Science
+SP  - 901
+EP  - 908
+VL  - 38
+IS  - 6
+KW  - Derringer's desirability function
+KW  - Fractional factorial design
+KW  - Microemulsion liquid chromatography
+KW  - Norfloxacin
+KW  - Tinidazole
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118994863
+M3  - doi: 10.1002/jssc.201401203
+UR  - https://doi.org/10.1002/jssc.201401203
+Y2  - 2020/10/28
+N2  - The aim of the present study was to optimize a microemulsion liquid chromatography method for the simultaneous determination of norfloxacin and tinidazole binary mixture using a chemometric protocol. Optimization experiments were conducted through a process of screening and optimization. A 27-4 fractional factorial design was used as screening design. While the location of optimum conditions was established by applying Derringer's desirability function. The optimal mobile phase composition was predicted to be: 3.5% w/v SDS, 10.03% v/v 1-propanol, 0.5% v/v 1-octanol, and 0.3% triethylamine in 0.02 M phosphoric acid at pH 6.5. The mobile phase was delivered isocratically at a flow rate of 1 mL/min with UV detection at 290 nm. Tinidazole and norfloxacin were eluted with retention times of 1.8 and 5.8 min, respectively. The calibration plots displayed good linear relationships in the concentration ranges of 0.5?50 and 0.75?75 ?g/mL for norfloxacin and tinidazole, respectively. The method was successfully applied for determination of both drugs in pharmaceutical dosage forms and real human plasma. Where the accuracy was proved by the low values of % error and high values of recovery, also the relative standard deviation for the results did not exceed 1.5%, proving the precision of the method.
+ER  - 
+
+PY  - 2015
+Y1  - 2015/03/01
+DA  - 2015/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118994863.refs
+UR  - https://doi.org/10.1002/9781118994863.refs
+N1  - doi:10.1002/9781118994863.refs
+M3  - doi:10.1002/9781118994863.refs
+SP  - 489-515
+T1  - References
+T2  - Sensory Discrimination Tests and Measurements
+T3  - Wiley Online Books
+SN  - 9781118994863
+
+PY  - 2015
+Y1  - 2015/03/01
+DA  - 2015/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119019770.index
+UR  - https://doi.org/10.1002/9781119019770.index
+N1  - doi:10.1002/9781119019770.index
+M3  - doi:10.1002/9781119019770.index
+SP  - 553-564
+T1  - Index
+T2  - Process Simulation Using WITNESS®
+T3  - Wiley Online Books
+SN  - 9781119019770
+
+TY  - JOUR
+T1  - Exploring factors affecting decision outcome and lead time in large-scale requirements engineering
+AU  - Wnuk, Krzysztof
+AU  - Kabbedijk, Jaap
+AU  - Brinkkemper, Sjaak
+AU  - Regnell, Björn
+AU  - Callele, David
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1002/smr.1721
+DO  - 10.1002/smr.1721
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J. Softw. Evol. and Proc.
+SP  - 647
+EP  - 673
+VL  - 27
+IS  - 9
+KW  - requirements engineering
+KW  - decision making
+KW  - market-driven requirements engineering
+KW  - software product lines
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119019770
+M3  - doi: 10.1002/smr.1721
+UR  - https://doi.org/10.1002/smr.1721
+Y2  - 2020/10/28
+N2  - Abstract Lead time, defined as the duration between the moment a request was filed and the moment the decision was made, is an important aspect of decision making in market-driven requirements engineering. Minimizing lead time allows software companies to focus their resources on the most profitable functionality and enables them to remain competitive within the quickly changing software market. Achieving and sustaining low decision lead time and the resulting high decision efficiency require a better understanding of factors that may affect both decision lead time and outcome. In order to identify possible factors, we conducted an exploratory two-stage case study that combines the statistical analysis of seven possible relationships among decision characteristics at a large company with a survey of industry participants. Our results show that the number of products affected by a decision increases the time needed to make a decision. Practitioners should take this aspect into consideration when planning for efficient decision making and possibly reducing the complexity of decisions. Our results also show that when a change request originates from an important customer, the request is more often accepted. The results provide input into the discussion of whether a large company should focus on only a few of its large customers and disregard its significantly larger group of small customers. The results provide valuable insights for researchers, who can use them to plan research of decision-making processes and methods, and for practitioners, who can use them to optimize their decision-making processes. In future work, we plan to investigate other decision characteristics, such as the number of stakeholders involved in the discussion about the potential change or the number of dependencies between software components. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Key successful factors of knowledge management for university students using e-portfolios: Approach of Fuzzy Delphi and Fuzzy AHP
+AU  - Chang, Chi-Cheng
+AU  - Liang, Chaoyun
+AU  - Shu, Kuen-Ming
+AU  - Tsai, Cheng-Wei
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1002/cae.21640
+DO  - 10.1002/cae.21640
+T2  - Computer Applications in Engineering Education
+JF  - Computer Applications in Engineering Education
+JO  - Computer Applications in Engineering Education
+JA  - Comput Appl Eng Educ
+SP  - 673
+EP  - 681
+VL  - 23
+IS  - 5
+KW  - Fuzzy Delphi
+KW  - Fuzzy AHP
+KW  - e-Portfolio
+KW  - knowledge management
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119019770
+M3  - doi: 10.1002/cae.21640
+UR  - https://doi.org/10.1002/cae.21640
+Y2  - 2020/10/28
+N2  - ABSTRACT The key successful factors (KSFs) of knowledge management for university students using e-portfolio were established in the present study based on the Fuzzy Delphi method (FDM) and Fuzzy Analytic Hierarchy Process (FAHP). According to experts, the KSFs of KM using e-portfolio included knowledge sharing, innovation, acquisition, application, and accumulation. Detailed sub-KSFs were developed based on the activities of the e-portfolios including reflection, work revision, self-assessment on works, arrangement of learning content, teacher feedback, modeling, communication, and discussion. Each KSF and sub-KSF was weighted and ranked and had an acceptable reliability and validity. Among these sub-KSFs, reflection had the highest weight, followed by work revision, implying that reflection had the greatest impact on knowledge management. ? 2015 Wiley Periodicals, Inc. Comput. Appl. Eng. Educ. Comput Appl Eng Educ 23:673?681, 2015; View this article online at wileyonlinelibrary.com/journal/cae; DOI 10.1002/cae.21640
+ER  - 
+
+AU  - Dekker, Rommert
+AU  - Bloemhof-Ruwaard, Jacqueline
+AU  - Mallidis, Ioannis
+PY  - 2015
+Y1  - 2015/09/01
+DA  - 2015/09/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118937495.ch5
+UR  - https://doi.org/10.1002/9781118937495.ch5
+N1  - doi:10.1002/9781118937495.ch5
+M3  - doi:10.1002/9781118937495.ch5
+N2  - Summary This chapter updates the work of Rommert Dekker, Jacqueline Bloemhof-Ruwaard, and Ioannis Mallidis through the development of a hierarchical green supply chain management (GSCM) framework. It presents an extensive literature review of recent and representative academic research efforts, at assisting supply chain stakeholders in providing an outline of the main decisions that may affect the environmental performance of all three main physical drivers of a supply chain, namely products, facilities, and transportation. The chapter identifies the quantitative models employed for quantifying this environmental performance, and also how these decisions could transcend the strategic, tactical, and operational decision phases. The work of Dekker, Bloemhof, and Mallidis is also extended through the consideration of additional GSCM decisions, namely product design, manufacturing design and planning, transportation planning, product quality control, equipment maintenance and green work methods.
+SP  - 129-157
+KW  - academic research
+KW  - environmental performance
+KW  - hierarchical decision-making framework
+KW  - quantitative green supply chain management
+T1  - A Hierarchical Decision-Making Framework for Quantitative Green Supply Chain Management
+T2  - Supply Chain Management for Sustainable Food Networks
+T3  - Wiley Online Books
+SN  - 9781118937495
+C1  - A Critical Synthesis of Academic Research Efforts
+
+TY  - JOUR
+T1  - Methods for ranking college sports coaches based on data envelopment analysis and PageRank
+AU  - Hu, Zhi-Hua
+AU  - Zhou, Jing-Xian
+AU  - Zhang, Meng-Jun
+AU  - Zhao, Yang
+Y1  - 2015/12/01
+PY  - 2015
+DA  - 2015/12/01
+N1  - doi: 10.1111/exsy.12108
+DO  - 10.1111/exsy.12108
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 652
+EP  - 673
+VL  - 32
+IS  - 6
+KW  - ranking
+KW  - DEA
+KW  - PageRank
+KW  - network analysis
+KW  - complex network
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118937495
+M3  - doi: 10.1111/exsy.12108
+UR  - https://doi.org/10.1111/exsy.12108
+Y2  - 2020/10/28
+N2  - Abstract Two methods based on data envelopment analysis (DEA) and PageRank are proposed to rank college athletic coaches. The DEA-based method uses four processes: first, the input factors must undergo the Kendall Consistency Check to ensure the feasibility and consistency of the result; second, the Data Reduction Factor epitomizes the input?output factors; third, the Range Transfer Approach standardizes the parameters and fourth, Efficiency Assessment Values for each coach are computed using a DEA model. The PageRank-based method involves building a network for matching coaches whose algorithms are used for the ranking. Sensitivity analysis and general analysing methods are applied to examine and analyse the ranking results for baseball, basketball and football coaches. The PageRank-based method also considers dynamic and diffusion relationships among coaches. The results are analysed to reveal possible features to improve the method.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1002/pds.3838
+DO  - 10.1002/pds.3838
+T2  - Pharmacoepidemiology and Drug Safety
+JF  - Pharmacoepidemiology and Drug Safety
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+SP  - 1
+EP  - 587
+VL  - 24
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118937495
+M3  - doi: 10.1002/pds.3838
+UR  - https://doi.org/10.1002/pds.3838
+Y2  - 2020/10/28
+ER  - 

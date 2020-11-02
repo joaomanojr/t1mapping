@@ -1,0 +1,348 @@
+TY  - JOUR
+T1  - Content List
+JO  - IFAC Proceedings Volumes
+VL  - 47
+IS  - 3
+SP  - i
+EP  - ccclii
+PY  - 2014
+DA  - 2014/01/01/
+T2  - 19th IFAC World Congress
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20140824-6-ZA-1003.90001
+UR  - http://www.sciencedirect.com/science/article/pii/S147466701641582X
+ER  - 
+
+TY  - JOUR
+T1  - Particle swarm optimization with increasing topology connectivity
+AU  - Lim, Wei Hong
+AU  - Mat Isa, Nor Ashidi
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 27
+SP  - 80
+EP  - 102
+PY  - 2014
+DA  - 2014/01/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2013.09.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0952197613001851
+KW  - Particle swarm optimization (PSO)
+KW  - Increasing topology connectivity (ITC)
+KW  - Metaheuristic search (MS)
+KW  - Neighborhood search (NS) operator
+AB  - In this paper, we propose a new variant of particle swarm optimization (PSO), namely PSO with increasing topology connectivity (PSO-ITC), to solve unconstrained single-objective optimization problems with continuous search space. Specifically, an ITC module is developed to achieve better control of exploration/exploitation searches by linearly increasing the particle's topology connectivity with time as well as performing the shuffling mechanism. Furthermore, we introduce a new learning framework that consists of a new velocity update mechanism and a new neighborhood search operator that aims to enhance the algorithm's searching performance. The proposed PSO-ITC is extensively evaluated across 20 benchmark functions with various features as well as two engineering design problems. Simulation results reveal that the performance of the PSO-ITC is superior to nine other PSO variants and six cutting-edge metaheuristic search algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Designing vendor evaluation systems: An empirical analysis
+AU  - Luzzini, Davide
+AU  - Caniato, Federico
+AU  - Spina, Gianluca
+JO  - Journal of Purchasing and Supply Management
+VL  - 20
+IS  - 2
+SP  - 113
+EP  - 129
+PY  - 2014
+DA  - 2014/06/01/
+T2  - Special issue of best papers of the 22nd annual IPSERA conference 2013: Purchasing & Supply Management for a Sustainable World
+SN  - 1478-4092
+DO  - https://doi.org/10.1016/j.pursup.2014.03.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1478409214000272
+KW  - Vendor evaluation systems
+KW  - Vendor rating
+KW  - Vendor selection
+KW  - Vendor qualification
+KW  - Supplier performance
+KW  - Case study
+AB  - Companies today are increasing efforts to develop their vendor evaluation system (VES) to qualify and select the best suppliers, monitor their performance and foster continuous improvement. VES lies at the intersection of three disciplines: purchasing management, supply chain management, and performance management. The extant literature especially focuses on vendor rating tools from a mathematical modeling standpoint, whereas firms are mostly concerned with guidelines necessary to design and implement an effective VES. The present study develops an encompassing research framework to investigate VES by means of thirteen case studies. In particular, the paper investigates VES design in terms of strategic alignment, process configuration and execution, as well as corresponding benefits and costs, exploring how the combination of the previous elements determines company satisfaction. Three groups of VESs are identified, leading to different levels of satisfaction.
+ER  - 
+
+TY  - JOUR
+T1  - The impact of lowered residential speed limits on vehicle speed behavior
+AU  - Islam, Md. Tazul
+AU  - El-Basyouny, Karim
+AU  - Ibrahim, Shewkar E.
+JO  - Safety Science
+VL  - 62
+SP  - 483
+EP  - 494
+PY  - 2014
+DA  - 2014/02/01/
+SN  - 0925-7535
+DO  - https://doi.org/10.1016/j.ssci.2013.10.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0925753513002312
+KW  - Residential speed limits reduction
+KW  - Before–after study
+KW  - Speeding
+KW  - Speed limit compliance
+KW  - Confounding factors
+AB  - In 2010, the City of Edmonton reduced the posted speed limit (PSL) in six residential communities from 50 to 40km/h. This study investigates the impact of the reduced PSL on vehicle speeds using a before-and-after experimental design with a control group adjustment. Continuous speed and traffic flow data was collected at 65 locations over a period of 7months, with the first month representing the before period and the following 6months representing the after period. Speed evaluation was performed on several levels, ranging from individual speed survey locations to an overall aggregate analysis. Several performance indicators, such as mean free-flow speed, speed variance, level of compliance, and percentile speed profile, were considered. The results revealed a statistically significant reduction in mean free-flow speed and speed variances for all combinations of time-of-day and day-of-week classifications. Though absolute compliance to the reduced PSL was low, compliance to a 15km/h threshold above the PSL was significantly high. Moreover, the analysis showed that the effectiveness of the reduced PSL improved with time.
+ER  - 
+
+TY  - JOUR
+T1  - Optimization of entry-vehicle shapes during conceptual design
+AU  - Dirkx, D.
+AU  - Mooij, E.
+JO  - Acta Astronautica
+VL  - 94
+IS  - 1
+SP  - 198
+EP  - 214
+PY  - 2014
+DA  - 2014/01/01/
+SN  - 0094-5765
+DO  - https://doi.org/10.1016/j.actaastro.2013.08.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0094576513003159
+KW  - Atmospheric entry
+KW  - Multi-objective shape optimization
+KW  - Local-inclination methods
+KW  - Hypersonic aerothermodynamics
+KW  - Shape parameterization
+KW  - Spline surfaces
+AB  - During the conceptual design of a re-entry vehicle, the vehicle shape and geometry can be varied and its impact on performance can be evaluated. In this study, the shape optimization of two classes of vehicles has been studied: a capsule and a winged vehicle. Their aerodynamic characteristics were analyzed using local-inclination methods, automatically selected per vehicle segment. Entry trajectories down to Mach 3 were calculated assuming trimmed conditions. For the winged vehicle, which has both a body flap and elevons, a guidance algorithm to track a reference heat-rate was used. Multi-objective particle swarm optimization was used to optimize the shape using objectives related to mass, volume and range. The optimizations show a large variation in vehicle performance over the explored parameter space. Areas of very strong non-linearity are observed in the direct neighborhood of the two-dimensional Pareto fronts. This indicates the need for robust exploration of the influence of vehicle shapes on system performance during engineering trade-offs, which are performed during conceptual design. A number of important aspects of the influence of vehicle behavior on the Pareto fronts are observed and discussed. There is a nearly complete convergence to narrow-wing solutions for the winged vehicle. Also, it is found that imposing pitch-stability for the winged vehicle at all angles of attack results in vehicle shapes which require upward control surface deflections during the majority of the entry.
+ER  - 
+
+TY  - JOUR
+T1  - Landslide susceptibility mapping at central Zab basin, Iran: A comparison between analytical hierarchy process, frequency ratio and logistic regression models
+AU  - Shahabi, Himan
+AU  - Khezri, Saeed
+AU  - Ahmad, Baharin Bin
+AU  - Hashim, Mazlan
+JO  - CATENA
+VL  - 115
+SP  - 55
+EP  - 70
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0341-8162
+DO  - https://doi.org/10.1016/j.catena.2013.11.014
+UR  - http://www.sciencedirect.com/science/article/pii/S0341816213002841
+KW  - Landslide
+KW  - GIS
+KW  - Central Zab basin
+KW  - Remote sensing
+AB  - The purpose of this study is to compare the landslide susceptibility mapping models of logistic regression (LR), analytical hierarchy process (AHP) and frequency ratio (FR) applied in the central Zab basin (West Azerbaijan—Iran). Eight factors were used for landslide susceptibility mapping including slope, aspect, land cover, precipitation, lithology and the distance to roads, drainage, and faults that affect the occurrence of landslides. To get more precision, speed and facility in our analysis, all descriptive and spatial information was entered into GIS system. Satellite images (Landsat ETM+ and SPOT 5) are also used to prepare for land use and landslide-inventory mapping respectively. Landslide events as used as dependant variable and data layers as independent variable, making use of the correlation between these two variables in landslide susceptibility. The three models are validated using the relative landslide density index (R-index) and the receiver operating characteristic (ROC) curves. The predictive capability of each model was determined from the area under the relative operating characteristic curve and the areas under the curves obtained using the LR, AHP, and FR methods are 0.8941, 0.8115, and 0.8634, respectively. These results indicate that the LR and FR models are relatively good estimators of landslide susceptibility in the study area. The interpretations of the susceptibility map reveal that precipitation, lithology and slope played major roles in landslide occurrence and distribution in the central Zab basin. In general, all three models were reasonably accurate. The resultant maps would be useful for regional spatial planning as well as for land cover planning.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 55
+IS  - 5
+SP  - 398
+EP  - 493
+PY  - 2014
+DA  - 2014/09/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2014.08.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670114000277
+ER  - 
+
+TY  - JOUR
+T1  - Emergy-based life cycle assessment (Em-LCA) of multi-unit and single-family residential buildings in Canada
+AU  - Reza, Bahareh
+AU  - Sadiq, Rehan
+AU  - Hewage, Kasun
+JO  - International Journal of Sustainable Built Environment
+VL  - 3
+IS  - 2
+SP  - 207
+EP  - 224
+PY  - 2014
+DA  - 2014/12/01/
+SN  - 2212-6090
+DO  - https://doi.org/10.1016/j.ijsbe.2014.09.001
+UR  - http://www.sciencedirect.com/science/article/pii/S2212609014000429
+KW  - Sustainability assessment
+KW  - Emergy synthesis
+KW  - Life cycle assessment (LCA)
+KW  - Multi-unit residential building
+KW  - Single-family house
+AB  - The construction and building process depends on substantial consumption of natural resources with far-reaching impacts beyond their development area. In general, a significant portion of annual resource consumption by the building and construction industry is a result of applying traditional building strategies and practices such as designing and selecting types of development (e.g. multi-unit condo and single-family house, etc.), building materials and structure, heating/cooling systems, and planning renovation and maintenance practices. On the other hand, apart from structural suitability, building developers mostly consider the basic requirements of public owners or private occupants of the buildings, where the main criteria for selecting building strategies are costs, and long-term environmental and socio-economic impacts are generally ignored. The main purpose of this paper is to develop an improved building sustainability assessment framework to measure and integrate different sustainability factors, i.e. long-term environmental upstream and downstream impacts and associated socio-economic costs, in a unified and quantitative basis. The application of the proposed framework has been explained through a case study of single-family houses and multi-unit residential buildings in Canada. A comprehensive framework based on the integration of emergy synthesis and life cycle assessment (LCA) has been developed and applied. The results of this research prove that the proposed emergy-based life cycle assessment (Em-LCA) framework offers a practical sustainability assessment tool by providing quantitative and transparent results for informed decision-making.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 55
+IS  - 2
+SP  - 114
+EP  - 210
+PY  - 2014
+DA  - 2014/03/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2014.01.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670114000034
+ER  - 
+
+TY  - JOUR
+T1  - Strategic analysis of manufacturer-supplier partnerships: An ANP model for collaborative CO2 reduction management
+AU  - Theißen, Sebastian
+AU  - Spinler, Stefan
+JO  - European Journal of Operational Research
+VL  - 233
+IS  - 2
+SP  - 383
+EP  - 397
+PY  - 2014
+DA  - 2014/03/01/
+T2  - Eco-Efficient Green Supply Chain Management
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2013.08.023
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221713006887
+KW  - Analytic network process
+KW  - Decision support systems
+KW  - Environment
+KW  - Multiple criteria analysis
+KW  - Supply chain management
+AB  - The objective of this manuscript is to introduce a decision methodology that allows manufacturing firms to evaluate which supplier is the most suitable partner for the implementation of a collaborative CO2 reduction management approach. The decision problem is developed for the fast-moving consumer goods (FMCGs) industry, which currently ranks among the ten largest CO2 emitting industries worldwide. In this paper, the evaluation and selection of the most suitable supplier is performed using the analytic network process (ANP), a decision-making technique that allows practitioners to solve complex decision structures. The key contributions of the present paper reside in the combination of literature and case-based derived decision criteria, aimed at enhancing judgment validity, with particular emphasis on a collaborative setting, which is highly relevant in the present context as the focal firms often lack the necessary skills for sustainability and, at the same time, are responsible for sustainability in the supply chain. The practical application of the ANP model at a major FMCG company yields robust results corroborated through a sensitivity analysis.
+ER  - 
+
+TY  - CHAP
+A2  - Culyer, Anthony J.
+BT  - Encyclopedia of Health Economics
+PB  - Elsevier
+CY  - San Diego
+SP  - 503
+EP  - 604
+PY  - 2014
+DA  - 2014/01/01/
+SN  - 978-0-12-375679-4
+DO  - https://doi.org/10.1016/B978-0-12-375678-7.09001-5
+UR  - http://www.sciencedirect.com/science/article/pii/B9780123756787090015
+ER  - 
+
+TY  - JOUR
+T1  - Open source EMR software: Profiling, insights and hands-on analysis
+AU  - Kiah, M.L.M.
+AU  - Haiqi, Ahmed
+AU  - Zaidan, B.B.
+AU  - Zaidan, A.A.
+JO  - Computer Methods and Programs in Biomedicine
+VL  - 117
+IS  - 2
+SP  - 360
+EP  - 382
+PY  - 2014
+DA  - 2014/11/01/
+SN  - 0169-2607
+DO  - https://doi.org/10.1016/j.cmpb.2014.07.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0169260714002909
+KW  - Open source software
+KW  - EMR
+KW  - EHR
+KW  - Security
+KW  - Usability
+AB  - Background
+The use of open source software in health informatics is increasingly advocated by authors in the literature. Although there is no clear evidence of the superiority of the current open source applications in the healthcare field, the number of available open source applications online is growing and they are gaining greater prominence. This repertoire of open source options is of a great value for any future-planner interested in adopting an electronic medical/health record system, whether selecting an existent application or building a new one. The following questions arise. How do the available open source options compare to each other with respect to functionality, usability and security? Can an implementer of an open source application find sufficient support both as a user and as a developer, and to what extent? Does the available literature provide adequate answers to such questions? This review attempts to shed some light on these aspects.
+Objective
+The objective of this study is to provide more comprehensive guidance from an implementer perspective toward the available alternatives of open source healthcare software, particularly in the field of electronic medical/health records.
+Methods
+The design of this study is twofold. In the first part, we profile the published literature on a sample of existent and active open source software in the healthcare area. The purpose of this part is to provide a summary of the available guides and studies relative to the sampled systems, and to identify any gaps in the published literature with respect to our research questions. In the second part, we investigate those alternative systems relative to a set of metrics, by actually installing the software and reporting a hands-on experience of the installation process, usability, as well as other factors.
+Results
+The literature covers many aspects of open source software implementation and utilization in healthcare practice. Roughly, those aspects could be distilled into a basic taxonomy, making the literature landscape more perceivable. Nevertheless, the surveyed articles fall short of fulfilling the targeted objective of providing clear reference to potential implementers. The hands-on study contributed a more detailed comparative guide relative to our set of assessment measures. Overall, no system seems to satisfy an industry-standard measure, particularly in security and interoperability. The systems, as software applications, feel similar from a usability perspective and share a common set of functionality, though they vary considerably in community support and activity.
+Conclusion
+More detailed analysis of popular open source software can benefit the potential implementers of electronic health/medical records systems. The number of examined systems and the measures by which to compare them vary across studies, but still rewarding insights start to emerge. Our work is one step toward that goal. Our overall conclusion is that open source options in the medical field are still far behind the highly acknowledged open source products in other domains, e.g. operating systems market share.
+ER  - 
+
+TY  - JOUR
+T1  - Combined cooling, heating and power systems: A survey
+AU  - Liu, Mingxi
+AU  - Shi, Yang
+AU  - Fang, Fang
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 35
+SP  - 1
+EP  - 22
+PY  - 2014
+DA  - 2014/07/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2014.03.054
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032114002263
+KW  - Combined cooling
+KW  - Heating and power system
+KW  - Prime mover
+KW  - Thermally activated technologies
+KW  - System configuration
+KW  - Operation strategy
+KW  - System optimization
+AB  - The combined cooling, heating and power (CCHP) system – a typical representative of the decentralized energy system – has been increasingly attracting attention in academia and industries in recent years, thanks to its distinctive advantages of high system and economic efficiency, and less greenhouse gas (GHG) emissions. In this paper, the state of the art of CCHP research is surveyed. First, the development and working scheme of the CCHP system will be presented. Some analyses of the advantages of this system and a brief introduction of the related components are then given in the first part. In the second part of this paper, we elaborately introduce the prime mover and thermally activated facilities. Recent research progress on the management, control, system optimization and sizing will be summarized in the third part. The development of the CCHP system in representative countries and the development barriers will be discussed in the last part.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating innovative processes in french firms: Methodological proposition for firm innovation capacity evaluation
+AU  - Boly, Vincent
+AU  - Morel, Laure
+AU  - Assielou, N’Doli Guillaume
+AU  - Camargo, Mauricio
+JO  - Research Policy
+VL  - 43
+IS  - 3
+SP  - 608
+EP  - 622
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 0048-7333
+DO  - https://doi.org/10.1016/j.respol.2013.09.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0048733313001789
+KW  - Innovation
+KW  - Evaluation
+KW  - Value test
+KW  - Innovation capacity
+AB  - Measuring innovation processes is a major concern for academics and firm managers. This study proposes an innovation capacity (IC) measure framework based on a set of 15 innovation management practices. Every practice is subdivided into multiple criteria which are directly observable phenomena or facts. The statistical method of value test and a multi-criteria approach are adopted to propose a typology of four groups of innovative firms (proactive, preactive, reactive, passive). The features observed on these groups of firms allow the determination of the firms’ innovation capacity and are useful for providing recommendations and practical actions for them, with a view to reinforcing it. Data from a sample group of 39 small and medium sized enterprises (SMEs) in the manufacturing industry in Lorraine, France were collected via a field survey and were fed into the model to determine the innovation capacity of the companies.
+ER  - 
+
+TY  - JOUR
+T1  - Abstract
+JO  - Fuel and Energy Abstracts
+VL  - 55
+IS  - 6
+SP  - 510
+EP  - 606
+PY  - 2014
+DA  - 2014/11/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2014.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670114000356
+ER  - 
+
+TY  - JOUR
+T1  - Optimization of pre-treatment selection for the use of woody waste in co-combustion plants
+AU  - Pérez-Fortes, Mar
+AU  - Laínez-Aguirre, José M.
+AU  - Bojarski, Aarón David
+AU  - Puigjaner, Luis
+JO  - Chemical Engineering Research and Design
+VL  - 92
+IS  - 8
+SP  - 1539
+EP  - 1562
+PY  - 2014
+DA  - 2014/08/01/
+T2  - Green Processes and Eco-technologies – Focus on Biofuels
+SN  - 0263-8762
+DO  - https://doi.org/10.1016/j.cherd.2014.01.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0263876214000239
+KW  - Biomass supply chain
+KW  - Biomass waste
+KW  - Biomass seasonality
+KW  - Multi-objective MILP
+KW  - Co-combustion
+KW  - Superstructure of pre-treatments
+AB  - This work is focused on the use of biomass waste to feed already existing coal combustion plants as a part of paving the way toward the reduction of the environmental impact. The biomass waste supply chain optimization is critical to conceive long-term viable projects and deal with the biomass heterogeneous nature and drawbacks to be used with coal, i.e. principally high moisture content and low bulk density. This paper studies biomass transportation, storage and change of properties (moisture content and hence dry matter, energy density and bulk density) through the use of different pre-treatments: (i) torrefaction, (ii) torrefaction combined with pelletization, (iii) pelletization, (iv) fast pyrolysis and (v) fast pyrolysis combined with char grinding, which produce a range of very different pre-treated biomass. The optimization problem is formulated as a mixed integer linear program (MILP) that evaluates the net present value and the environmental impact through a life cycle assessment (LCA). The results propose location–allocation decision together with the selection/capacity of pre-treatment technologies for each scenario. The scenarios contemplate different biomass characteristics, availability and distribution for a supply chain case study located in Spain: forest and agricultural woody residues used to replace at least 10% of the total thermal inlet power provided by coal in the existing network of thermal plants.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 55
+IS  - 3
+SP  - 226
+EP  - 296
+PY  - 2014
+DA  - 2014/05/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2014.03.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670114000113
+ER  - 

@@ -1,0 +1,634 @@
+
+AU  - Hanne, Thomas
+PY  - 2013
+Y1  - 2013/03/29
+DA  - 2013/03/29
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.ch5
+UR  - https://doi.org/10.1002/9781118522516.ch5
+N1  - doi:10.1002/9781118522516.ch5
+M3  - doi:10.1002/9781118522516.ch5
+N2  - Summary This chapter outlines possibilities of applying neural networks in the area of multiple criteria decision support (MCDM). The first section starts with a review of basic neural network concepts. In second section, tasks in MCDM are briefly reconsidered. The third section is devoted to the discussion of application scenarios for neural networks in multicriteria decision support. The chapter ends with a summary and an outlook. Controlled Vocabulary Terms decision making; information processing; neural network
+SP  - 101-126
+KW  - human information processing
+KW  - intelligent decision support
+KW  - multiple criteria decision support (MCDM)
+KW  - neural networks
+T1  - Neural Networks in Multicriteria Decision Support
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+AU  - Doumpos, Michael
+AU  - Zopounidis, Constantin
+PY  - 2013
+Y1  - 2013/03/29
+DA  - 2013/03/29
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.ch1
+UR  - https://doi.org/10.1002/9781118522516.ch1
+N1  - doi:10.1002/9781118522516.ch1
+M3  - doi:10.1002/9781118522516.ch1
+N2  - Summary This chapter focuses on computational intelligence, which has emerged as a distinct sub-field of artificial intelligence involved with the study of adaptive mechanisms to enable intelligent behavior in complex and changing environments. It provides an overview of the main contributions of popular computational intelligence approaches in multicriteria decision aid (MCDA), covering areas such as multiobjective optimization, preference modeling, and model building through preference disaggregation. The first section of the chapter presents an introduction to the MCDA paradigm, its main concepts and methodological streams. The second section is devoted to the overview of the connections between MCDA and computational intelligence, focusing on three main fields of computational intelligence, namely statistical learning/data mining, fuzzy set theory, and metaheuristics. The chapter concludes with some future research directions. Controlled Vocabulary Terms artificial intelligence; data mining; decision making; decision model; fuzzy logic
+SP  - 1-23
+KW  - artificial intelligence
+KW  - computational intelligence
+KW  - data mining
+KW  - fuzzy set theory
+KW  - metaheuristics
+KW  - multicriteria decision aid (MCDA)
+KW  - preference modeling
+T1  - Computational Intelligence Techniques for Multicriteria Decision Aiding: An Overview
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+AU  - Phillips-Wren, Gloria
+PY  - 2013
+Y1  - 2013/03/29
+DA  - 2013/03/29
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.ch2
+UR  - https://doi.org/10.1002/9781118522516.ch2
+N1  - doi:10.1002/9781118522516.ch2
+M3  - doi:10.1002/9781118522516.ch2
+N2  - Summary Decision making is a fundamental human activity at the center of our interaction with the world. This chapter reviews research in decision making and the decision support systems (DSS) that are based on that understanding, along with the concomitant application of artificial intelligence (AI) techniques to create more powerful intelligent decision support systems (IDSS). First, the chapter discusses the basics of traditional DSS. Then, it turns to the integration of AI techniques to form IDSS. Evaluating IDSS, or any DSS, is critical to understanding both benefits and opportunities for enhancing the system. The chapter presents the primary research on this important, and often neglected, area. AI tools such as fuzzy logic, case-based reasoning, evolutionary computing, artificial neural networks (ANN), and intelligent agents, when combined with DSS, provide powerful aids in solving difficult applied problems that are often real-time, involve large amounts of distributed data, and benefit from complex reasoning. Controlled Vocabulary Terms artificial intelligence; decision making; decision support system (DSS); evolutionary innovation; fuzzy logic; intelligent agent; neural network
+SP  - 25-44
+KW  - artificial intelligence (AI)
+KW  - artificial neural networks (ANN)
+KW  - decision making
+KW  - intelligent decision support systems (IDSS)
+T1  - Intelligent Decision Support Systems
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+PY  - 2013
+Y1  - 2013/03/29
+DA  - 2013/03/29
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.fmatter
+UR  - https://doi.org/10.1002/9781118522516.fmatter
+N1  - doi:10.1002/9781118522516.fmatter
+M3  - doi:10.1002/9781118522516.fmatter
+N2  - Summary The prelims comprise: Half-Title Page Title Page Copyright Page Table of Contents Preface Notes on Contributors
+SP  - i-xvi
+T1  - Front Matter
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+AU  - Boussard, Matthieu
+AU  - Bouzid, Maroua
+AU  - Mouaddib, Abdel-Illah
+AU  - Sabbadin, Régis
+AU  - Weng, Paul
+PY  - 2013
+Y1  - 2013/02/28
+DA  - 2013/02/28
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118557426.ch10
+UR  - https://doi.org/10.1002/9781118557426.ch10
+N1  - doi:10.1002/9781118557426.ch10
+M3  - doi:10.1002/9781118557426.ch10
+N2  - Summary Partially observable Markov decision processes (POMDPs) allow for taking into account a partial knowledge of the environment. Reinforcement learning methods make it possible to go without the knowledge of the model itself. This chapter discusses two other limitations, those of a mono-criterion preference representation and of a well-defined probabilistic uncertainty representation. It describes the formalism of multicriteria or vector-valued MDP extending the MDP framework to multicriteria decision-making. The chapter presents an algorithm allowing the heuristic computation of satisfying policies that are close to an ideal solution. It also presents an MDP approach based on possibility theory. The chapter shows that this approach also allows for partial observability of the states to be taken into account in possibilistic POMDPs and that it allows for the resolution of compactly represented problems. It discusses the framework of algebraic MDPs generalizing both multicriteria MDPs and possibilistic MDPs in the finite-horizon case. Controlled Vocabulary Terms heuristic programming; learning (artificial intelligence); possibility theory
+SP  - 319-360
+KW  - algebraic MDPs
+KW  - Markov decision process (MDP)
+KW  - mono-criterion preference representation
+KW  - multicriteria decision-making
+KW  - partially observable Markov decision processes (POMDPs)
+KW  - possibilistic MDPs
+KW  - reinforcement learning
+T1  - Non-Standard Criteria
+T2  - Markov Decision Processes in Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118557426
+
+PY  - 2013
+Y1  - 2013/03/29
+DA  - 2013/03/29
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.index
+UR  - https://doi.org/10.1002/9781118522516.index
+N1  - doi:10.1002/9781118522516.index
+M3  - doi:10.1002/9781118522516.index
+SP  - 347-351
+T1  - Index
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+AU  - Szela̧g, Marcin
+AU  - Greco, Salvatore
+AU  - Słowiński, Roman
+PY  - 2013
+Y1  - 2013/03/29
+DA  - 2013/03/29
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.ch6
+UR  - https://doi.org/10.1002/9781118522516.ch6
+N1  - doi:10.1002/9781118522516.ch6
+M3  - doi:10.1002/9781118522516.ch6
+N2  - Summary This chapter presents a methodology for dealing with a multicriteria ranking problem using a preference model in the form of a set of decision rules induced from decision examples. In the first section, the authors present the setting of the considered multicriteria ranking problem. In the second section, they introduce the concept of the pairwise comparison table (PCT). The third section concerns rough approximation of two comprehensive preference relations specified by a decision maker (DM): outranking relation S and nonoutranking relation Sc. The fourth section discusses induction of decision rules from rough approximations of S and Sc, and application of these rules on a set of objects to be ranked. The fifth section concerns exploitation of the preference structure resulting from application of decision rules. The chapter finally presents an illustrative example that demonstrates usefulness of the proposed approach. Controlled Vocabulary Terms decision making; paired comparison; rule based system
+SP  - 127-160
+KW  - decision maker (DM)
+KW  - decision rules
+KW  - multicriteria ranking problem
+KW  - pairwise comparison table (PCT)
+T1  - Rule-Based Approach to Multicriteria Ranking
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+AU  - Yun, Yeboon
+AU  - Nakayama, Hirotaka
+PY  - 2013
+Y1  - 2013/03/29
+DA  - 2013/03/29
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.ch9
+UR  - https://doi.org/10.1002/9781118522516.ch9
+N1  - doi:10.1002/9781118522516.ch9
+M3  - doi:10.1002/9781118522516.ch9
+N2  - Summary This chapter introduces the generalized data envelopment analysis (GDEA) model for practical use in multiple criteria decision making (MCDM) problems. First, the chapter discusses the relationships between GDEA and existing data envelopment analysis (DEA) models, and shows that GDEA incorporates various preference structures of decision makers in evaluating decision making units (DMUs). Utilizing the properties of GDEA, the chapter presents several methods to combine GDEA and computational intelligence techniques for generating approximate Pareto optimal solutions which are considered as the candidates of a final solution for MCDM problems. Next, it shows that combining GDEA and aspiration level method can make it possible to show the decision makers' most interesting part of Pareto optimal solutions. Particularly, the chapter presents an account of the GDEA method in deciding adaptively parameters in multi-objective particle swarm optimization (PSO), and finally, in applying expected improvement (EI) for making good offspring in real-coded genetic algorithms (GAs). Controlled Vocabulary Terms computational model; decision making; Pareto optimality
+SP  - 209-233
+KW  - computational intelligence
+KW  - expected improvement (EI)
+KW  - generalized data envelopment analysis (GDEA)
+KW  - genetic algorithm (GA)
+KW  - multiple criteria decision making (MCDM)
+KW  - Pareto optimal solutions
+KW  - particle swarm optimization (PSO)
+T1  - Generalized Data Envelopment Analysis and Computational Intelligence in Multiple Criteria Decision Making
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+TY  - JOUR
+T1  - A Methodological Study for Optimizing Material Selection in Sustainable Product Design
+AU  - Tambouratzis, Tatiana
+AU  - Karalekas, Dimitris
+AU  - Moustakas, Nikolaos
+Y1  - 2014/08/01
+PY  - 2014
+DA  - 2014/08/01
+N1  - doi: 10.1111/jiec.12035
+DO  - 10.1111/jiec.12035
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 508
+EP  - 516
+VL  - 18
+IS  - 4
+KW  - artificial neural networks
+KW  - environmental impact
+KW  - genetic algorithms
+KW  - industrial ecology
+KW  - material selection
+KW  - sustainable product design
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118522516
+M3  - doi: 10.1111/jiec.12035
+UR  - https://doi.org/10.1111/jiec.12035
+Y2  - 2020/10/28
+N2  - Summary A computational intelligence-based identification of the properties of maximally sustainable materials for a given application, as derived from key properties of existing candidate materials, is put forward. The correlation surface between material properties (input) and environmental impact (EI) values (output) of the candidate materials is initially created using general regression (GR) artificial neural networks (ANNs). Genetic algorithms (GAs) are subsequently employed for swiftly identifying the minimum point of the correlation surface, thus exposing the properties of the maximally sustainable material. The ANN is compared to and found to be more accurate than classic polynomial regression (PR) interpolation/prediction, with sensitivity and multicriteria analyses further confirming the stability of the proposed methodology under variations in the properties of the materials as well as the relative importance values assigned to the input properties. A nominal demonstration concerning material selection for manufacturing maximally sustainable liquid containers is presented, showing that by appropriately picking the pertinent input properties and the desired material selection criteria, the proposed methodology can be applied to a wide range of material selection tasks.
+ER  - 
+
+AU  - Schneider, Gisbert
+AU  - Baringhaus, Karl-Heinz
+PY  - 2014
+Y1  - 2014/08/01
+DA  - 2014/08/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9783527677016.ch1
+UR  - https://doi.org/10.1002/9783527677016.ch1
+N1  - doi:10.1002/9783527677016.ch1
+M3  - doi:10.1002/9783527677016.ch1
+N2  - Summary Innovative bioactive agents fuel sustained drug discovery and the development of new medicines. Future success in chemical biology and pharmaceutical research alike will fundamentally rely on the combination of advanced synthetic and analytical technologies that are embedded in a theoretical framework that provides a rationale for the interplay between chemical structure and biological effect. A driving role in this setting falls on leading edge concepts in computer-assisted molecular design, by providing access to a virtually infinite source of novel druglike compounds and guiding experimental screening campaigns. In this chapter, we present concepts and ideas for the representation of molecular structure, suggest predictive models of structure?activity relationships, and discuss approaches that have proved their usefulness and will contribute to future drug discovery by generating innovative bioactive agents. We also highlight some of the current prohibitive aspects of fully automated de novo design that will require attention for future methodological breakthroughs. This chapter provides an introduction to important pillars of de novo drug design, whereas the subsequent contributions presented in this book offer in-depth treatments of current trends, methods, and approaches together with numerous practical examples. We are confident that the reading will inspire.
+SP  - 1-55
+KW  - de novo molecular design
+KW  - drug design
+KW  - drug discovery
+KW  - machine-learning
+KW  - molecular modeling
+KW  - medicinal chemistry
+KW  - molecular design cycle
+KW  - structure-activity relationships
+T1  - De Novo Design: From Models to Molecules
+T2  - De novo Molecular Design
+T3  - Wiley Online Books
+SN  - 9783527677016
+
+TY  - JOUR
+T1  - Efficient optimization of ultra-high- performance supercritical fluid chromatographic separation of Rosa sericea by response surface methodology
+AU  - Li, Jin-Rong
+AU  - Li, Min
+AU  - Xia, Bing
+AU  - Ding, Li-Sheng
+AU  - Xu, Hong-Xi
+AU  - Zhou, Yan
+Y1  - 2013/07/01
+PY  - 2013
+DA  - 2013/07/01
+N1  - doi: 10.1002/jssc.201300289
+DO  - 10.1002/jssc.201300289
+T2  - Journal of Separation Science
+JF  - Journal of Separation Science
+JO  - Journal of Separation Science
+JA  - J. Sep. Science
+SP  - 2114
+EP  - 2120
+VL  - 36
+IS  - 13
+KW  - Box–Behnken design
+KW  - Evaporative light scattering detector
+KW  - Response surface methodology
+KW  - Rosa sericea
+KW  - Ultra-high performance supercritical fluid chromatography
+PB  - John Wiley & Sons, Ltd
+SN  - 9783527677016
+M3  - doi: 10.1002/jssc.201300289
+UR  - https://doi.org/10.1002/jssc.201300289
+Y2  - 2020/10/28
+N2  - An approach for rapid optimization of ultra-high-performance supercritical fluid chromatographic (UHPSFC) gradient by response surface methodology was developed for fast separation of complex crude extracts of the leaves of Rosa sericea. The optimization was performed with Box?Behnken designs and the multicriteria response variables were described using Derringer's desirability. Based on factorial design experiments, five factors were selected for Box?Behnken designs to optimize the UHPSFC conditions, which led to 46 experiments being performed within 8 h. An evaporative light-scattering detector (ELSD) was used, and quantitative analysis of main components in R. sericea samples was employed to evaluate the statistical significance of the parameters on UHPSFC-ELSD analytes response. The results indicated that the optimized UHPSFC-ELSD method is very sensitive with LODs and LOQs below 1.19 and 4.55 ?g/mL, respectively. The overall intra- and interday variations were less than 3.91 and 6.41%, respectively. The recovery of the method ranged from 95.66 to 104.22%, with RSD < 5.91%. This newly developed UHPSFC-ELSD method was demonstrated to be fast and sensitive in analyzing complex herbal extracts of Traditional Chinese Medicines.
+ER  - 
+
+PY  - 2013
+Y1  - 2013/07/01
+DA  - 2013/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118578681.index
+UR  - https://doi.org/10.1002/9781118578681.index
+N1  - doi:10.1002/9781118578681.index
+M3  - doi:10.1002/9781118578681.index
+SP  - 203-210
+T1  - Index
+T2  - Man–Machine Dialogue
+T3  - Wiley Online Books
+SN  - 9781118578681
+
+PY  - 2013
+Y1  - 2013/07/01
+DA  - 2013/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118644898.ch11
+UR  - https://doi.org/10.1002/9781118644898.ch11
+N1  - doi:10.1002/9781118644898.ch11
+M3  - doi:10.1002/9781118644898.ch11
+N2  - Summary In this chapter Decision Deck is briefly described and a user-oriented description of Decision Evaluation for Complex Environmental Risk Network Systems (DECERNS) is put forward. It explains methods and software packages that require no priori technical knowledge and can be used by beginners and experienced practitioners alike. The chapter discusses the DECERNS project in more detail. The DECERNS platform contains three core modules: geographical information system (GIS) module, multi-criteria decision aid (MCDA) module, and group decision support system (GDSS) module.
+SP  - 275-287
+KW  - DECERNS
+KW  - Decision Deck
+KW  - group decision support system (GDSS)
+KW  - information system (GIS) module
+KW  - multi-criteria decision aid (MCDA) module
+T1  - Multi-method platforms
+T2  - Multi‐Criteria Decision Analysis
+T3  - Wiley Online Books
+SN  - 9781118644898
+
+TY  - JOUR
+T1  - 2013 Classification Criteria for Systemic Sclerosis: An American College of Rheumatology/European League Against Rheumatism Collaborative Initiative
+AU  - van den Hoogen, Frank
+AU  - Khanna, Dinesh
+AU  - Fransen, Jaap
+AU  - Johnson, Sindhu R.
+AU  - Baron, Murray
+AU  - Tyndall, Alan
+AU  - Matucci-Cerinic, Marco
+AU  - Naden, Raymond P.
+AU  - Medsger Jr., Thomas A.
+AU  - Carreira, Patricia E.
+AU  - Riemekasten, Gabriela
+AU  - Clements, Philip J.
+AU  - Denton, Christopher P.
+AU  - Distler, Oliver
+AU  - Allanore, Yannick
+AU  - Furst, Daniel E.
+AU  - Gabrielli, Armando
+AU  - Mayes, Maureen D.
+AU  - van Laar, Jacob M.
+AU  - Seibold, James R.
+AU  - Czirjak, Laszlo
+AU  - Steen, Virginia D.
+AU  - Inanc, Murat
+AU  - Kowal-Bielecka, Otylia
+AU  - Müller-Ladner, Ulf
+AU  - Valentini, Gabriele
+AU  - Veale, Douglas J.
+AU  - Vonk, Madelon C.
+AU  - Walker, Ulrich A.
+AU  - Chung, Lorinda
+AU  - Collier, David H.
+AU  - Csuka, Mary Ellen
+AU  - Fessler, Barri J.
+AU  - Guiducci, Serena
+AU  - Herrick, Ariane
+AU  - Hsu, Vivien M.
+AU  - Jimenez, Sergio
+AU  - Kahaleh, Bashar
+AU  - Merkel, Peter A.
+AU  - Sierakowski, Stanislav
+AU  - Silver, Richard M.
+AU  - Simms, Robert W.
+AU  - Varga, John
+AU  - Pope, Janet E.
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - doi: 10.1002/art.38098
+DO  - 10.1002/art.38098
+T2  - Arthritis & Rheumatism
+JF  - Arthritis & Rheumatism
+JO  - Arthritis & Rheumatism
+JA  - Arthritis & Rheumatism
+SP  - 2737
+EP  - 2747
+VL  - 65
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118644898
+M3  - doi: 10.1002/art.38098
+UR  - https://doi.org/10.1002/art.38098
+Y2  - 2020/10/28
+N2  - Objective The 1980 American College of Rheumatology (ACR) classification criteria for systemic sclerosis (SSc) lack sensitivity for early SSc and limited cutaneous SSc. The present work, by a joint committee of the ACR and the European League Against Rheumatism (EULAR), was undertaken for the purpose of developing new classification criteria for SSc. Methods Using consensus methods, 23 candidate items were arranged in a multicriteria additive point system with a threshold to classify cases as SSc. The classification system was reduced by clustering items and simplifying weights. The system was tested by 1) determining specificity and sensitivity in SSc cases and controls with scleroderma-like disorders, and 2) validating against the combined view of a group of experts on a set of cases with or without SSc. Results It was determined that skin thickening of the fingers extending proximal to the metacarpophalangeal joints is sufficient for the patient to be classified as having SSc; if that is not present, 7 additive items apply, with varying weights for each: skin thickening of the fingers, fingertip lesions, telangiectasia, abnormal nailfold capillaries, interstitial lung disease or pulmonary arterial hypertension, Raynaud's phenomenon, and SSc-related autoantibodies. Sensitivity and specificity in the validation sample were, respectively, 0.91 and 0.92 for the new classification criteria and 0.75 and 0.72 for the 1980 ACR classification criteria. All selected cases were classified in accordance with consensus-based expert opinion. All cases classified as SSc according to the 1980 ACR criteria were classified as SSc with the new criteria, and several additional cases were now considered to be SSc. Conclusion The ACR/EULAR classification criteria for SSc performed better than the 1980 ACR criteria for SSc and should allow for more patients to be classified correctly as having the disease.
+ER  - 
+
+TY  - JOUR
+T1  - Impact analysis of logistics facility relocation using the analytic hierarchy process (AHP)
+AU  - Opasanon, Sathaporn
+AU  - Lertsanti, Pattarakamol
+Y1  - 2013/05/01
+PY  - 2013
+DA  - 2013/05/01
+N1  - doi: 10.1111/itor.12002
+DO  - 10.1111/itor.12002
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 325
+EP  - 339
+VL  - 20
+IS  - 3
+KW  - analytic hierarchy process (AHP)
+KW  - pick-up and deliveries
+KW  - banking
+KW  - logistics
+KW  - distribution center
+KW  - transportation
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118644898
+M3  - doi: 10.1111/itor.12002
+UR  - https://doi.org/10.1111/itor.12002
+Y2  - 2020/10/28
+N2  - Abstract Facility relocation has a long-term impact on business competitiveness in terms of cost efficiency, service level, and accessibility to marketplace. This paper investigates the impacts of relocating a company's logistics facility. Specifically, a case study of a logistics service provider for a bank, whose services include cash pick-up and deliveries, and ATM refill, is conducted. Some of the major logistics issues caused by the relocation of the company's distribution center are identified through process observation and in-depth interview. The analytic hierarchy process (AHP) is implemented to evaluate and rank the importance of the logistics issues according to the needs and requirements of the company's policy makers. Four criteria considered in the AHP include cost, responsiveness, reliability, and utilization. Results show that, from the company's perspective, the development of logistics key performance indices is given the highest priority, followed by improvement of internal process, vehicle routing, network design, and inventory management, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Combining PCA With DEA to Improve the Evaluation of Project Performance Data: A Taiwanese Bureau of Energy Case Study
+AU  - Fu, Hsin-Pin
+AU  - Ou, Jia-Ruey
+Y1  - 2013/02/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - doi: 10.1002/pmj.21323
+DO  - 10.1002/pmj.21323
+T2  - Project Management Journal
+JF  - Project Management Journal
+JO  - Project Management Journal
+JA  - Proj Mgmt Jrnl
+SP  - 94
+EP  - 106
+VL  - 44
+IS  - 1
+KW  - energy projects
+KW  - principal component analysis
+KW  - data envelopment analysis
+KW  - performance evaluation
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118644898
+M3  - doi: 10.1002/pmj.21323
+UR  - https://doi.org/10.1002/pmj.21323
+Y2  - 2020/10/28
+N2  - Abstract This article proposes a new method of project performance evaluation, by which project performance data can be better understood. This article combines principal component analysis (PCA) and data envelopment analysis (DEA) to enhance the efficiency of decision-making units more accurately. The data used was based on energy projects promoted by the Bureau of Energy at the Ministry of Economic Affairs in Taiwan. The results of this article show that by combining PCA and DEA in evaluating the performance of energy projects, there was an improved evaluation of projects over simply using DEA data alone.
+ER  - 
+
+AU  - Azzaro-Pantel, Catherine
+PY  - 2013
+Y1  - 2013/02/01
+DA  - 2013/02/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118562130.ch8
+UR  - https://doi.org/10.1002/9781118562130.ch8
+N1  - doi:10.1002/9781118562130.ch8
+M3  - doi:10.1002/9781118562130.ch8
+N2  - Summary This chapter contains sections titled: Introduction AIChE and IChemE metrics Potential environmental impact index (waste reduction algorithm) SPI (Sustainable Process Index) Exergy as a thermodynamic base for a sustainable development metrics Indicators resulting from a lifecycle assessment Process design methods and sustainable systems Conclusion Bibliography
+SP  - 275-305
+KW  - sustainable, and industrial systems
+KW  - design/evaluation methods
+KW  - AIChE and IChemE metrics
+KW  - SPI, impact categories
+KW  - process engineering, a holistic view
+T1  - Methods for Design and Evaluation of Sustainable Processes and Industrial Systems
+T2  - Process Engineering and Industrial Management
+T3  - Wiley Online Books
+SN  - 9781118562130
+
+TY  - JOUR
+T1  - A New Approach to the Group Ranking Problem: Finding Consensus Ordered Segments from Users’ Preference Data
+AU  - Chen, Yen-Liang
+AU  - Cheng, Li-Chen
+AU  - Hsu, Weu-Yu
+Y1  - 2013/12/01
+PY  - 2013
+DA  - 2013/12/01
+N1  - doi: 10.1111/deci.12048
+DO  - 10.1111/deci.12048
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 1091
+EP  - 1119
+VL  - 44
+IS  - 6
+KW  - Artificial Intelligence
+KW  - Cluster Analysis
+KW  - Collaborative Decision Models
+KW  - Group/Team Decision Making
+KW  - Group Decision Support
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118562130
+M3  - doi: 10.1111/deci.12048
+UR  - https://doi.org/10.1111/deci.12048
+Y2  - 2020/10/28
+N2  - ABSTRACT The group ranking problem involves constructing coherent aggregated results from users? preference data. The goal of most group ranking problems is to generate an ordered list of all items that represents the user consensus. There are, however, two weaknesses to this approach. First, a complete list of ranked items is always output even when there is no consensus or only a slight consensus. Second, due to similarity of performance, in many practical situations, it is very difficult to differentiate whether one item is really better than another within a set. These weaknesses have motivated us to apply the clustering concept to the group ranking problem, to output an ordered list of segments containing a set of similarly preferred items, called consensus ordered segments. The advantages of our approach are that (i) the list of segments is based on the users? consensuses, (ii) the items with similar preferences are grouped together in the same segment, and (iii) the relationships between items can be easily seen. An algorithm is developed to construct the consensus of the ordered segments from the users? total ranking data. Finally, the experimental results indicate that the proposed method is computationally efficient, and can effectively identify consensus ordered segments.
+ER  - 
+
+AU  - Mondal, Kartick Chandra
+AU  - Pasquier, Nicolas
+PY  - 2013
+Y1  - 2013/12/01
+DA  - 2013/12/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118617151.ch35
+UR  - https://doi.org/10.1002/9781118617151.ch35
+N1  - doi:10.1002/9781118617151.ch35
+M3  - doi:10.1002/9781118617151.ch35
+N2  - Summary This chapter presents the different theoretical frameworks, condensed representations, interestingness measures, and biological applications of association rule mining. It presents concepts and frameworks for association rule mining and their applications in biology, especially in genomics and proteomics. The different theoretical frameworks proposed for itemset representation and frequent-itemset extraction are described here. The chapter describes the proposed solutions for reducing sets of extracted association rules to the most relevant and useful rules. This is an important topic in association rule mining as several thousands, and sometimes millions, of association rules can be generated for large databases, with most often numerous redundant information. The different condensed representations of association rules, such as minimal covers, bases, and inference systems, along with their properties are presented in the chapter. It presents subjective and objective interestingness measures that can be used for selecting the most relevant association rules.
+SP  - 761-802
+KW  - association rule mining
+KW  - biological applications
+KW  - biological data
+KW  - condensed representations
+KW  - frequent-itemset extraction
+KW  - Galois closure
+KW  - interestingness measures
+KW  - itemset representation
+KW  - theoretical frameworks
+T1  - Galois Closure Based Association Rule Mining From Biological Data
+T2  - Biological Knowledge Discovery Handbook
+T3  - Wiley Online Books
+SN  - 9781118617151
+
+AU  - Parte, Yogesh
+AU  - Auroux, Didier
+AU  - Clément, Joël
+AU  - Masmoudi, Mohamed
+AU  - Hermetz, Jean
+PY  - 2013
+Y1  - 2013/12/01
+DA  - 2013/12/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118600153.ch8
+UR  - https://doi.org/10.1002/9781118600153.ch8
+N1  - doi:10.1002/9781118600153.ch8
+M3  - doi:10.1002/9781118600153.ch8
+N2  - Summary This chapter contains sections titled: Introduction Definition of parameters Notations and terminology Different frameworks for multidisciplinary design optimization Reduced order models and approximations Application of MDO to conceptual design of supersonic business jets (SSBJ) Comments and conclusions Bibliography
+SP  - 321-367
+KW  - collaborative optimization
+KW  - disciplines, and interaction
+KW  - optimal, selected public parameters
+KW  - MDF/IDF/DAO/AAO/CSSO/BLISS/DIVE
+KW  - MDO, in SSBJ conceptual design
+T1  - Collaborative Optimization
+T2  - Multidisciplinary Design Optimization in Computational Mechanics
+T3  - Wiley Online Books
+SN  - 9781118600153
+
+TY  - JOUR
+T1  - Dempster-Shafer theory applied to regulatory decision process for selecting safer alternatives to toxic chemicals in consumer products
+AU  - Park, Sung Jin
+AU  - Ogunseitan, Oladele A
+AU  - Lejano, Raul P
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - doi: 10.1002/ieam.1460
+DO  - 10.1002/ieam.1460
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 12
+EP  - 21
+VL  - 10
+IS  - 1
+KW  - Bisphenol-A
+KW  - Consumer products
+KW  - Dempster-Shafer theory
+KW  - Green chemistry
+KW  - Regulatory Policy
+KW  - Risk assessment
+KW  - Risk perception
+KW  - Safer alternatives
+KW  - Scientific uncertainty
+KW  - Toxic chemicals
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118600153
+M3  - doi: 10.1002/ieam.1460
+UR  - https://doi.org/10.1002/ieam.1460
+Y2  - 2020/10/28
+N2  - ABSTRACT Regulatory agencies often face a dilemma when regulating chemicals in consumer products?namely, that of making decisions in the face of multiple, and sometimes conflicting, lines of evidence. We present an integrative approach for dealing with uncertainty and multiple pieces of evidence in toxics regulation. The integrative risk analytic framework is grounded in the Dempster?Shafer (D?S) theory that allows the analyst to combine multiple pieces of evidence and judgments from independent sources of information. We apply the integrative approach to the comparative risk assessment of bisphenol-A (BPA)-based polycarbonate and the functionally equivalent alternative, Eastman Tritan copolyester (ETC). Our results show that according to cumulative empirical evidence, the estimated probability of toxicity of BPA is 0.034, whereas the toxicity probability for ETC is 0.097. However, when we combine extant evidence with strength of confidence in the source (or expert judgment), we are guided by a richer interval measure, (Bel(t), Pl(t)). With the D?S derived measure, we arrive at various intervals for BPA, with the low-range estimate at (0.034, 0.250), and (0.097,0.688) for ETC. These new measures allow a reasonable basis for comparison and a justifiable procedure for decision making that takes advantage of multiple sources of evidence. Through the application of D?S theory to toxicity risk assessment, we show how a multiplicity of scientific evidence can be converted into a unified risk estimate, and how this information can be effectively used for comparative assessments to select potentially less toxic alternative chemicals. Integr Environ Assess Manag 2014;10:12?21. ? 2013 SETAC
+ER  - 
+
+AU  - Hobbiger, Stephen F.
+AU  - Patel, Bina
+AU  - Swain, Elizabeth
+PY  - 2014
+Y1  - 2014/01/01
+DA  - 2014/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118532331.ch11
+UR  - https://doi.org/10.1002/9781118532331.ch11
+N1  - doi:10.1002/9781118532331.ch11
+M3  - doi:10.1002/9781118532331.ch11
+N2  - Summary The science associated with monitoring and responding to safety issues throughout the life cycle of a medicine is termed pharmacovigilance. It must be remembered that no medicine is free of risk. All medicines are associated with adverse drug reactions and those taking a medicine will have both the potential for benefit as well as the risk of harm. Pharmacovigilance is tightly controlled and must rightly concern itself with meeting regulatory obligations for individual and periodic case reporting. In the process it will identify and react to new safety issues. Recent developments have seen the emergence of a more proactive approach to pharmacovigilance facilitated by the development of new analytical and methodological approaches to the interrogation of large volumes of aggregate safety data. Signal detection and signal evaluation are now mainstream activities linked to risk management. The intention is to reduce both the number and the extent of possible harms, known respectively as risk minimisation and risk mitigation. This chapter summarises the broad range of pharmacovigilance activities and will describe the key elements in more detail.
+SP  - 235-253
+KW  - pharmacovigilance
+KW  - adverse reaction
+KW  - safety signal
+KW  - expedite
+KW  - periodic report
+KW  - risk management
+T1  - Pharmacovigilance
+T2  - The Textbook of Pharmaceutical Medicine
+T3  - Wiley Online Books
+SN  - 9781118532331
+
+AU  - Puigjaner, Luis
+AU  - Laínez, José M.
+AU  - Reklaitis, Gintaras V.
+PY  - 2014
+Y1  - 2014/01/01
+DA  - 2014/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/14356007.o22_o12
+UR  - https://doi.org/10.1002/14356007.o22_o12
+N1  - doi:10.1002/14356007.o22_o12
+M3  - doi:10.1002/14356007.o22_o12
+N2  - Abstract The article contains sections titled: 1. Introduction 1.1. The Planning/Scheduling Problem 1.1.1. Enterprise-Wide Long-Term or Strategic Planning 1.1.2. Short-Term Production Scheduling 1.2. Current State of Integrated Management of Process Operations 1.2.1. Corporate Finances and International Issues 1.2.2. Product Development 1.2.3. Environmental Management 1.2.4. Sales and Marketing 1.2.5. Decision-Making under Uncertainty 1.2.5.1. Reactive Approaches 1.2.5.2. Preventive Approaches 2. Process Planning and Scheduling 2.1. Resource Planning 2.1.1. Structure of the Production Facility 2.1.2. Mode of Operation 2.1.3. Inventory Policy 2.1.4. Resources Availability 2.1.5. Structure of Demand 2.1.6. Planning Horizon 2.1.7. Performance Index 2.2. Planning of New Product Development 2.3. Planning Problem Solution Approaches 2.3.1. Hierarchical Decomposition 2.3.2. Rolling Horizon Solution Strategy 2.3.3. Enumeration Procedures 2.4. Production Planning for Parallel Multiproduct Plants 2.4.1. Solution Strategy 2.4.2. Optimization Procedure 2.4.3. Industrial Applications 2.4.3.1. The Pigment Factory 2.4.3.2. Textile Production 2.5. Single-Site Production Scheduling 2.5.1. Scheduling Requirements for Industrial Problems 2.5.2. Mathematical Models 2.6. Operation Under Uncertainty 2.6.1. Generation of Robust Schedules 2.6.2. Preventive Maintenance 2.6.3. Simultaneous Production and Maintenance Tasks Scheduling 2.6.4. Flexible Schedules 2.6.4.1. Mathematical Formulation 2.6.4.2. Processing Unit Allocation Constraints 2.6.4.3. Flexible Recipe Model 2.6.4.4. Recipe Flexibility Region 2.6.4.5. Associated Cost of Deviations from Nominal Conditions 2.6.4.6. Lower Bound on the Start Time of the Tasks 2.6.4.7. Duration of Tasks 2.6.4.8. Duration of the First Tasks 2.6.4.9. Sequencing Constraints 2.6.4.10. Tardiness and Earliness 2.6.4.11. Problem Objective Function 2.6.4.12. Illustrative Example 2.7. Heuristic/Stochastic Approaches 2.8. Software Support Tools 2.8.1. Planning 2.8.2. Scheduling 2.8.2.1. gBBS 2.8.2.2. Virtecs 2.8.2.3. BOLD 2.9. Benefits and Challenges of Scheduling/Planning Applications 2.10. Nomenclature 2.10.1. Scheduling 2.10.2. Flexible Schedules 3. Supply Chain Management 3.1. Supply Chain Modeling 3.1.1. Organizational Structure 3.1.2. Model Elements 3.1.2.1. SC Drivers 3.1.2.2. SC Decisions 3.1.2.3. SC Constraints 3.2. Supply Chain Operations Strategic and Tactical Issues 3.2.1. Operations Model 3.2.1.1. Traditional Design-Planning of Supply Chain Networks 3.2.1.2. Flexible Design-Planning of Supply Chain Networks 3.2.2. Economic Performance Indicator 3.2.3. Mapping Environmental Impacts within SCM 3.3. Treatment of Uncertainty 3.4. Detailed Scheduling Considerations in SC Design 3.5. Illustrative Example 3.5.1. The Design Problem 3.5.2. Testing Solutions Using the MPC Framework 3.5.3. Consideration of Failures 3.6. Supporting Software 3.7. Nomenclature 3.7.1. Traditional Design Planning of Supply Chain Networks 3.7.2. Flexible Design and Planning of Supply Chain Networks 3.7.3. Mapping Environmental (Additional Nomenclature) 3.7.4. Treatment of Uncertainty 3.7.5. Scheduling Consideration in SC Design 4. Conclusions and Future Directions 5. Acknowledgments
+T1  - Process Systems Engineering, 8. Plant Operation, Integration, Planning, Scheduling, and Supply Chain
+T2  - Ullmann's Encyclopedia of Industrial Chemistry
+T3  - Major Reference Works
+SN  - 9783527306732
+
+PY  - 2014
+Y1  - 2014/01/01
+DA  - 2014/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118532331.index
+UR  - https://doi.org/10.1002/9781118532331.index
+N1  - doi:10.1002/9781118532331.index
+M3  - doi:10.1002/9781118532331.index
+SP  - 788-833
+T1  - Index
+T2  - The Textbook of Pharmaceutical Medicine
+T3  - Wiley Online Books
+SN  - 9781118532331
+
+TY  - JOUR
+T1  - Abstracts
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - doi: 10.1111/dar.12077
+DO  - 10.1111/dar.12077
+T2  - Drug and Alcohol Review
+JF  - Drug and Alcohol Review
+JO  - Drug and Alcohol Review
+JA  - Drug Alcohol Rev
+SP  - 2
+EP  - 74
+VL  - 32
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118532331
+M3  - doi: 10.1111/dar.12077
+UR  - https://doi.org/10.1111/dar.12077
+Y2  - 2020/10/28
+ER  - 

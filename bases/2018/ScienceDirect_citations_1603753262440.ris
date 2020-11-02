@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Community detection algorithm evaluation with ground-truth data
+AU  - Jebabli, Malek
+AU  - Cherifi, Hocine
+AU  - Cherifi, Chantal
+AU  - Hamouda, Atef
+JO  - Physica A: Statistical Mechanics and its Applications
+VL  - 492
+SP  - 651
+EP  - 706
+PY  - 2018
+DA  - 2018/02/15/
+SN  - 0378-4371
+DO  - https://doi.org/10.1016/j.physa.2017.10.018
+UR  - http://www.sciencedirect.com/science/article/pii/S0378437117310282
+KW  - Network analysis
+KW  - Community structure
+KW  - ‘Community-graph’
+AB  - Community structure is of paramount importance for the understanding of complex networks. Consequently, there is a tremendous effort in order to develop efficient community detection algorithms. Unfortunately, the issue of a fair assessment of these algorithms is a thriving open question. If the ground-truth community structure is available, various clustering-based metrics are used in order to compare it versus the one discovered by these algorithms. However, these metrics defined at the node level are fairly insensitive to the variation of the overall community structure. To overcome these limitations, we propose to exploit the topological features of the ‘community graphs’ (where the nodes are the communities and the links represent their interactions) in order to evaluate the algorithms. To illustrate our methodology, we conduct a comprehensive analysis of overlapping community detection algorithms using a set of real-world networks with known a priori community structure. Results provide a better perception of their relative performance as compared to classical metrics. Moreover, they show that more emphasis should be put on the topology of the community structure. We also investigate the relationship between the topological properties of the community structure and the alternative evaluation measures (quality metrics and clustering metrics). It appears clearly that they present different views of the community structure and that they must be combined in order to evaluate the effectiveness of community detection algorithms.
+ER  - 

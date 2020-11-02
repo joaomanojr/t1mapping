@@ -1,0 +1,10 @@
+bases vs filenames
+--
+
+1) ACM digital library: ACM_ano.bib
+2) IEEE : IEEE Xplore*.ris
+3) scienceDirect : ScienceDirect*.ris
+4) scopus : scopus_*.ris
+5) springer : SearchResults_*.csv
+6) Wiley : pericles*.ris
+

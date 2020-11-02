@@ -1,0 +1,960 @@
+
+TY  - JOUR
+T1  - How Sustainable Is Big Data?
+AU  - Corbett, Charles J.
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - doi: 10.1111/poms.12837
+DO  - 10.1111/poms.12837
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+JO  - Production and Operations Management
+JA  - Prod Oper Manag
+SP  - 1685
+EP  - 1695
+VL  - 27
+IS  - 9
+KW  - big data
+KW  - sustainability
+KW  - energy
+KW  - operations
+KW  - life-cycle assessment
+PB  - John Wiley & Sons, Ltd
+SN  - 1059-1478
+M3  - doi: 10.1111/poms.12837
+UR  - https://doi.org/10.1111/poms.12837
+Y2  - 2020/10/28
+N2  - The rapid growth of ?big data? provides tremendous opportunities for making better decisions, where ?better? can be defined using any combination of economic, environmental, or social metrics. This essay provides a few examples of how the use of big data can precipitate more sustainable decision-making. However, as with any technology, the use of big data on a large scale will have some undesirable consequences. Some of these are foreseeable, while others are entirely unpredictable. This essay highlights some of the sustainability-related challenges posed by the use of big data. It does not intend to suggest that the advent of big data is an undesirable development. However, it is not too early to start asking what the unwanted repercussions of the big data revolution might be.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-criteria decision-making approach for geometric matching of areal objects
+AU  - Kim, Jiyoung
+AU  - Yu, Kiyun
+AU  - Bang, Yoonsik
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1111/tgis.12307
+DO  - 10.1111/tgis.12307
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 269
+EP  - 287
+VL  - 22
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - doi: 10.1111/tgis.12307
+UR  - https://doi.org/10.1111/tgis.12307
+Y2  - 2020/10/28
+N2  - Abstract We propose a method for geometric areal object matching based on multi-criteria decision making. To enable this method, we focused on determining the matched areal object pairs that have all relations, one-to-one relationships to many-to-many relationships, in different spatial data sets by fusing geometric criteria without user invention. First, we identified candidate corresponding areal object pairs with a graph-based approach in training data. Second, three matching criteria (areal hausdorff distance, intersection ratio, and turning function distance) were calculated in candidate corresponding pairs and these criteria were normalized. Third, the shape similarity was calculated by weighted linear combination using the normalized matching criteria (similarities) with the criteria importance through intercriteria correlation method. Fourth, a threshold (0.738) of the shape similarity estimated in the plot of precision versus recall versus all possible thresholds of training data was applied, and the matched pairs were determined and identified. Finally, we visually validated the detection of similar areal feature pairs and conducted statistical evaluation using precision, recall, and F-measure values from a confusion matrix. Their values were 0.905, 0.848, and 0.876, respectively. These results validate that the proposed classifier, which detects 87.6% of matched areal pairs, is highly accurate.
+ER  - 
+
+TY  - JOUR
+T1  - Approaches to Pythagorean Fuzzy Stochastic Multi-criteria Decision Making Based on Prospect Theory and Regret Theory with New Distance Measure and Score Function
+AU  - Peng, Xindong
+AU  - Dai, Jingguo
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - doi: 10.1002/int.21896
+DO  - 10.1002/int.21896
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1187
+EP  - 1214
+VL  - 32
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - doi: 10.1002/int.21896
+UR  - https://doi.org/10.1002/int.21896
+Y2  - 2020/10/28
+N2  - Abstract In this paper, we initiate a new axiomatic definition of Pythagorean fuzzy distance measure, which is expressed by Pythagorean fuzzy number that will reduce the information loss and remain more original information. Then, the objective weights of various criteria are determined via grey system theory. Combining objective weights with subjective weights, we present the combined weights, which can reflect both the subjective considerations of the decision maker and the objective information. Meanwhile, a novel score function is proposed. Later, we present two algorithms to solve stochastic multicriteria decision making problem, which takes prospect preference and regret aversion of decision makers into consideration in the decision process. Finally, the effectiveness and feasibility of approach is demonstrated by a numerical example.
+ER  - 
+
+TY  - JOUR
+T1  - A GIS-based multi-criteria seismic vulnerability assessment using the integration of granular computing rule extraction and artificial neural networks
+AU  - Sheikhian, Hossein
+AU  - Delavar, Mahmoud Reza
+AU  - Stein, Alfred
+Y1  - 2017/12/01
+PY  - 2017
+DA  - 2017/12/01
+N1  - doi: 10.1111/tgis.12274
+DO  - 10.1111/tgis.12274
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 1237
+EP  - 1259
+VL  - 21
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - doi: 10.1111/tgis.12274
+UR  - https://doi.org/10.1111/tgis.12274
+Y2  - 2020/10/28
+N2  - Abstract This study proposes multi-criteria group decision-making to address seismic physical vulnerability assessment. Granular computing rule extraction is combined with a feed forward artificial neural network to form a classifier capable of training a neural network on the basis of the rules provided by granular computing. It provides a transparent structure despite the traditional multi-layer neural networks. It also allows the classifier to be applied on a set of rules for each incoming pattern. Drawbacks of original granular computing (GrC) are covered, where some input patterns remained unclassified. The study was applied to classify seismic vulnerability of the statistical units of the city of Tehran, Iran. Slope, seismic intensity, height and age of the buildings were effective parameters. Experts ranked 150 randomly selected sample statistical units with respect to their degree of seismic physical vulnerability. Inconsistency of the experts' judgments was investigated using the induced ordered weighted averaging (IOWA) operator. Fifty-five classification rules were extracted on which a neural network was based. An overall accuracy of 88%, ??=?0.85 and R2?=?0.89 was achieved. A comparison with previously implemented methodologies proved the proposed method to be the most accurate solution to the seismic physical vulnerability of Tehran.
+ER  - 
+
+TY  - JOUR
+T1  - A decision analytic model to guide early-stage government regulatory action: Applications for synthetic biology
+AU  - Trump, Benjamin
+AU  - Cummings, Christopher
+AU  - Kuzma, Jennifer
+AU  - Linkov, Igor
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - doi: 10.1111/rego.12142
+DO  - 10.1111/rego.12142
+T2  - Regulation & Governance
+JF  - Regulation & Governance
+JO  - Regulation & Governance
+JA  - Regulation & Governance
+SP  - 88
+EP  - 100
+VL  - 12
+IS  - 1
+KW  - emerging technology
+KW  - risk governance
+KW  - synthetic biology
+KW  - technology governance
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 1748-5983
+M3  - doi: 10.1111/rego.12142
+UR  - https://doi.org/10.1111/rego.12142
+Y2  - 2020/10/28
+N2  - Abstract Synthetic biology (SB) involves the alteration of living cells and biomolecules for specific purposes. Products developed using these approaches could have significant societal benefits, but also pose uncertain risks to human and environmental health. Policymakers currently face decisions regarding how stringently to regulate and monitor various SB applications. This is a complex task, in which policymakers must balance uncertain economic, political, social, and health-related decision factors associated with SB use. We argue that formal decision analytical tools could serve as a method to integrate available evidence-based information and expert judgment on the impacts associated with SB innovations, synthesize that information into quantitative indicators, and serve as the first step toward guiding governance of these emerging technologies. For this paper, we apply multi-criteria decision analysis to a specific case of SB, a micro-robot based on biological cells called ?cyberplasm.? We use data from a Delphi study to assess cyberplasm governance options and demonstrate how such decision tools may be used for assessments of SB oversight.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria-based Plant Species Selection for Gully and Riverbank Stabilization in a Sub-humid Tropical Area
+AU  - Talema, Ayalew
+AU  - Poesen, Jean
+AU  - Muys, Bart
+AU  - Reubens, Bert
+AU  - Dibaba, Hirko
+AU  - Diels, Jan
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - doi: 10.1002/ldr.2699
+DO  - 10.1002/ldr.2699
+T2  - Land Degradation & Development
+JF  - Land Degradation & Development
+JO  - Land Degradation & Development
+JA  - Land Degrad. Develop.
+SP  - 1675
+EP  - 1686
+VL  - 28
+IS  - 5
+KW  - multi-criteria
+KW  - plant
+KW  - root
+KW  - species
+KW  - stabilization
+PB  - John Wiley & Sons, Ltd
+SN  - 1085-3278
+M3  - doi: 10.1002/ldr.2699
+UR  - https://doi.org/10.1002/ldr.2699
+Y2  - 2020/10/28
+N2  - Abstract Selection of appropriate plant species for rehabilitation of degraded lands while fulfilling socio-economic interests of local communities is one of the decision-making challenges. This research was undertaken to select multipurpose trees, shrubs and grasses to stabilize degraded lands in the Gilgel Gibe catchment of Southwest Ethiopia, situated in the sub-humid tropics. Two multi-criteria decision analysis methods, analytical hierarchy process and simple multi-attribute rating technique, integrated in the excel-based multi-criteria tree selection tool, were used. Focus group discussions were held with experts and local communities to prioritize 40 plant species from a preselected regional pool of 129 species, using six criteria groups containing 47 individual criteria. Root characteristics of the top 9 ranked plants were studied for triangulating the multi-criteria decision analysis results. Both local communities and experts gave priority to indigenous trees over shrubs and grasses as the best five species for multipurpose use, whereas the top 5 species prioritized for riverbank stabilization contained both trees and grasses. In contrast, communities preferred indigenous trees, and experts selected grasses as the best five species for gully stabilization. The root system characterization revealed that the five top-ranked multipurpose species also have the required root characteristics for effectively reinforcing unstable slopes. However, communities prefer to plant Eucalyptus and Grevillea trees because of their short-term economic benefits although they understood the multipurpose value of indigenous plants. The trade-off between direct economic benefit and multipurpose benefits could be solved by awareness creation, incentives to communities and policy re-enforcement. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria manufacturability indices for ranking high-concentration monoclonal antibody formulations
+AU  - Yang, Yang
+AU  - Velayudhan, Ajoy
+AU  - Thornhill, Nina F.
+AU  - Farid, Suzanne S.
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1002/bit.26329
+DO  - 10.1002/bit.26329
+T2  - Biotechnology and Bioengineering
+JF  - Biotechnology and Bioengineering
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+SP  - 2043
+EP  - 2056
+VL  - 114
+IS  - 9
+KW  - data mining
+KW  - high-concentration mAb formulation
+KW  - manufacturability index
+KW  - viscosity
+KW  - aggregation
+KW  - developability assessment
+PB  - John Wiley & Sons, Ltd
+SN  - 0006-3592
+M3  - doi: 10.1002/bit.26329
+UR  - https://doi.org/10.1002/bit.26329
+Y2  - 2020/10/28
+N2  - ABSTRACT The need for high-concentration formulations for subcutaneous delivery of therapeutic monoclonal antibodies (mAbs) can present manufacturability challenges for the final ultrafiltration/diafiltration (UF/DF) step. Viscosity levels and the propensity to aggregate are key considerations for high-concentration formulations. This work presents novel frameworks for deriving a set of manufacturability indices related to viscosity and thermostability to rank high-concentration mAb formulation conditions in terms of their ease of manufacture. This is illustrated by analyzing published high-throughput biophysical screening data that explores the influence of different formulation conditions (pH, ions, and excipients) on the solution viscosity and product thermostability. A decision tree classification method, CART (Classification and Regression Tree) is used to identify the critical formulation conditions that influence the viscosity and thermostability. In this work, three different multi-criteria data analysis frameworks were investigated to derive manufacturability indices from analysis of the stress maps and the process conditions experienced in the final UF/DF step. Polynomial regression techniques were used to transform the experimental data into a set of stress maps that show viscosity and thermostability as functions of the formulation conditions. A mathematical filtrate flux model was used to capture the time profiles of protein concentration and flux decay behavior during UF/DF. Multi-criteria decision-making analysis was used to identify the optimal formulation conditions that minimize the potential for both viscosity and aggregation issues during UF/DF. Biotechnol. Bioeng. 2017;114: 2043?2056. ? 2017 The Authors. Biotechnology and Bioengineering Published by Wiley Perodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehensive multi-objective model to remote sensing data processing task scheduling problem
+AU  - Xing, Lining
+AU  - Li, Wen
+AU  - He, Minfan
+AU  - Tan, Xu
+Y1  - 2017/12/25
+PY  - 2017
+DA  - 2017/12/25
+N1  - doi: 10.1002/cpe.4248
+DO  - 10.1002/cpe.4248
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat: Pract Exper
+SP  - e4248
+VL  - 29
+IS  - 24
+KW  - ant colony optimization
+KW  - comprehensive model
+KW  - remote sensing data processing
+KW  - scheduling problem
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - doi: 10.1002/cpe.4248
+UR  - https://doi.org/10.1002/cpe.4248
+Y2  - 2020/10/28
+N2  - Summary Scientific scheduling of limited resource plays an important role in the remote sensing data processing. The remote sensing data processing task scheduling is characterized as one novel comprehensive multi-objective model. In this proposed model, the remote sensing data processing task scheduling problem is divided into task dispensation and task scheduling sub-problem with hundreds of variables being considered in it. In order to effectively solve this problem, Bayes belief model is applied to generate the initial dispensation plan, and learnable ant colony optimization is proposed to solve task scheduling sub-problem. Experimental results suggest that the proposed comprehensive multi-objective model and its solving methods are feasible and efficient to remote sensing data processing task scheduling, and it also promotes processing centers interoperability among heterogeneous and dispersed processing center. The model and the method of this paper can provide a valuable reference for solving other complex scheduling problem.
+ER  - 
+
+TY  - JOUR
+T1  - An approach based on risk to dimensioning virtual organizations
+AU  - Ferreira, Jonathan Emannoel
+AU  - Fiorese, Adriano
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1111/exsy.12227
+DO  - 10.1111/exsy.12227
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12227
+VL  - 35
+IS  - 1
+KW  - dimensioning
+KW  - method
+KW  - risk analysis
+KW  - virtual organization
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/exsy.12227
+UR  - https://doi.org/10.1111/exsy.12227
+Y2  - 2020/10/28
+N2  - Abstract In an increasingly competitive market, small and medium enterprises have the temporarily option to divide their core competencies in sub-competences. In fact, this is the purpose of so-called virtual organizations (VOs), which aim to attend a particular goal joining partner forces. However, when these VOs are created, it is necessary to deal with the maximum number of participants involved in the process and the risk involved in these relationships, which should be measured through a well-defined process. This paper aims to present an approach to dimensioning the maximum number of participants involved in the formation of a VO composed of several service providers. This approach is based on the overall risk level of the participants and uses different risk analysis methods to assess the suitable number of participants to be part of a VO.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation and selection of medical tourism sites: A rough analytic hierarchy process based multi-attributive border approximation area comparison approach
+AU  - Roy, Jagannath
+AU  - Chatterjee, Kajal
+AU  - Bandyopadhyay, Abhirup
+AU  - Kar, Samarjit
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1111/exsy.12232
+DO  - 10.1111/exsy.12232
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12232
+VL  - 35
+IS  - 1
+KW  - medical tourism
+KW  - multiple criteria decision-making
+KW  - R-AHP
+KW  - R-MABAC
+KW  - rough number
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/exsy.12232
+UR  - https://doi.org/10.1111/exsy.12232
+Y2  - 2020/10/28
+N2  - Abstract This paper presents a novel Multiple Criteria Decision Making methodology for assessing and prioritizing medical tourism destinations under uncertainty. A systematic evaluation and assessment approach is proposed by incorporating analytic hierarchy process and multi-attributive border approximation area comparison methods in the rough environment. Rough number is used to aggregate individual judgements of decision makers and express their true perception to handle vagueness without any prior information. Rough analytic hierarchy process analyses the relative importance of criteria based on their preferences given by experts, whereas rough multi-attributive border approximation area comparison evaluates the alternative sites based on the criteria weights. A case study of prioritizing different sites (cities) in India for medical tourism services is shown to demonstrate the applicability of the proposed method. Among different criteria ?quality of infrastructure of healthcare institutions? is observed to be the most important criteria in our analysis, followed by ?supply of skilled human resources and new job creations? and ?Chennai? is found to be the best medical tourism site in India. Finally, a comparative analysis and validity testing of the proposed method are elaborated, and the methodology provides a standard for select medical tourism sites on the basis of different criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Crossing the Death Valley to Transfer Environmental Decision Support Systems to the Water Market
+AU  - Poch, Manel
+AU  - Comas, Joaquim
+AU  - Cortés, Ulises
+AU  - Sànchez-Marrè, Miquel
+AU  - Rodríguez-Roda, Ignasi
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - doi: 10.1002/gch2.201700009
+DO  - 10.1002/gch2.201700009
+T2  - Global Challenges
+JF  - Global Challenges
+JO  - Global Challenges
+JA  - Global Challenges
+SP  - 1700009
+VL  - 1
+IS  - 3
+KW  - adoption
+KW  - death valley
+KW  - development
+KW  - EDSS
+KW  - water
+PB  - John Wiley & Sons, Ltd
+SN  - 2056-6646
+M3  - doi: 10.1002/gch2.201700009
+UR  - https://doi.org/10.1002/gch2.201700009
+Y2  - 2020/10/28
+N2  - Environmental decision support systems (EDSSs) are attractive tools to cope with the complexity of environmental global challenges. Several thoughtful reviews have analyzed EDSSs to identify the key challenges and best practices for their development. One of the major criticisms is that a wide and generalized use of deployed EDSSs has not been observed. The paper briefly describes and compares four case studies of EDSSs applied to the water domain, where the key aspects involved in the initial conception and the use and transfer evolution that determine the final success or failure of these tools (i.e., market uptake) are identified. Those aspects that contribute to bridging the gap between the EDSS science and the EDSS market are highlighted in the manuscript. Experience suggests that the construction of a successful EDSS should focus significant efforts on crossing the death-valley toward a general use implementation by society (the market) rather than on development.
+ER  - 
+
+TY  - JOUR
+T1  - Security risk assessment and management in chemical plants: Challenges and new trends
+AU  - Khakzad, Nima
+AU  - Martinez, Imee Su
+AU  - Kwon, Hyuck-Myun
+AU  - Stewart, Constantine
+AU  - Perera, Rohan
+AU  - Reniers, Genserik
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - doi: 10.1002/prs.11914
+DO  - 10.1002/prs.11914
+T2  - Process Safety Progress
+JF  - Process Safety Progress
+JO  - Process Safety Progress
+JA  - Proc. Safety Prog.
+SP  - 211
+EP  - 220
+VL  - 37
+IS  - 2
+KW  - security vulnerability assessment
+KW  - chemical plants
+KW  - mutually interactive parameters
+KW  - Bayesian network
+PB  - John Wiley & Sons, Ltd
+SN  - 1066-8527
+M3  - doi: 10.1002/prs.11914
+UR  - https://doi.org/10.1002/prs.11914
+Y2  - 2020/10/28
+N2  - The present study is to point out the outcomes of the Seminar on the Chemical Weapon Convention and Chemical Safety and Security Management for Member States in the Asia Region held by Organization for the Prohibition of Chemical Weapons in Doha, Qatar, in February 2017. The seminar was aimed at supporting chemical safety and security (CSS) management in the chemical industry in Asian countries. Overall goal was to sensitize States Parties to the new approaches that can be adopted in relation to CSS management, with a particular focus on providing assistance to small and medium-sized enterprises. This article reflects the observations made by keynote speakers via their interaction with participants from Asian State Parties during presentations' questions & answers sessions and following workshops. The article is an attempt to highlight the challenges in security risk assessment and management of chemical facilities and discuss some new trends for further improvements. ? 2017 American Institute of Chemical Engineers Process Saf Prog 37: 211?220, 2018
+ER  - 
+
+PY  - 2018
+Y1  - 2018/06/01
+DA  - 2018/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119256267.index
+UR  - https://doi.org/10.1002/9781119256267.index
+N1  - doi:10.1002/9781119256267.index
+M3  - doi:10.1002/9781119256267.index
+N2  - Abstract No Abstract.
+SP  - 226-234
+T1  - Index
+T2  - Convergence
+T3  - Wiley Online Books
+SN  - 9781119256267
+
+PY  - 2018
+Y1  - 2018/06/01
+DA  - 2018/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119073666.index
+UR  - https://doi.org/10.1002/9781119073666.index
+N1  - doi:10.1002/9781119073666.index
+M3  - doi:10.1002/9781119073666.index
+SP  - 231-234
+T1  - Index
+T2  - Value in a Changing Built Environment
+T3  - Wiley Online Books
+SN  - 9781119073666
+
+TY  - JOUR
+T1  - Using a Structured Approach to Evaluate ICT4D: Healthcare Delivery in Uganda
+AU  - Kivunike, Florence Nameere
+AU  - Ekenberg, Love
+AU  - Danielson, Mats
+AU  - Tusubira, F. F.
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - doi: 10.1002/j.1681-4835.2015.tb00478.x
+DO  - 10.1002/j.1681-4835.2015.tb00478.x
+T2  - The Electronic Journal of Information Systems in Developing Countries
+JF  - The Electronic Journal of Information Systems in Developing Countries
+JO  - The Electronic Journal of Information Systems in Developing Countries
+JA  - The Electronic Journal of Information Systems in Developing Countries
+SP  - 1
+EP  - 16
+VL  - 66
+IS  - 1
+KW  - ICT4D
+KW  - Evaluation
+KW  - Impact
+KW  - Healthcare delivery
+KW  - decision analysis
+KW  - MCDA
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119073666
+M3  - doi: 10.1002/j.1681-4835.2015.tb00478.x
+UR  - https://doi.org/10.1002/j.1681-4835.2015.tb00478.x
+Y2  - 2020/10/28
+N2  - Abstract Using a case from the healthcare delivery sector, we demonstrate how a structured evaluation approach can facilitate the measurement of actual ICT contributions in various contexts. Typically, such are intricate due to the complexities inherent in the environments, making it difficult to evaluate the relationship between ICT and the benefits it intends to achieve to a reasonable degree. The approach suggested in this paper tries to partly remedy some of these complications, by facilitating qualitative data elicitations, aggregation, analysis and evaluation. To make this computationally meaningful, a decision support tool for handling numerically imprecise information is used for the data analysis and evaluation details. The results of this indicate that such an approach makes at least some meaningful input for practitioners and policymakers. In comparison to the qualitative in-depth approaches this approach facilitates a one-point in time assessment, which is less resource intensive, but provides prompt and substantial insight on the development performance of ICT4D initiatives. A similar approach would also be applicable to different sectors, and can utilize a broader scope of criteria, as well as incorporate views from several categories of stakeholders.
+ER  - 
+
+TY  - JOUR
+T1  - Distributed Structures: Digital Tools for Collective Design
+AU  - Mueller, Caitlin
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - doi: 10.1002/ad.2201
+DO  - 10.1002/ad.2201
+T2  - Architectural Design
+JF  - Architectural Design
+JO  - Architectural Design
+JA  - Archit. Design
+SP  - 94
+EP  - 103
+VL  - 87
+IS  - 4
+KW  - Digital Structures research group
+KW  - Massachusetts Institute of Technology (MIT)
+KW  - Cambridge
+KW  - Massachusetts
+KW  - 1972 Louvre exhibition ‘What is Design?’
+KW  - Charles and Ray Eames
+KW  - Galileo
+KW  - structureFIT
+KW  - Stormcloud
+KW  - Rhino
+KW  - Grasshopper
+KW  - 17 rules
+KW  - Renaud Danhaive
+KW  - Pareto frontier
+KW  - Kam-Ming Mark Tam
+KW  - Nathan Brown
+KW  - Abbigayle Horn
+KW  - surrogate modelling
+KW  - distinct design families
+KW  - Stress-line additive manufacturing (SLAM)
+KW  - Daniel Marshall
+KW  - fused deposition modelling (FDM)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119073666
+M3  - doi: 10.1002/ad.2201
+UR  - https://doi.org/10.1002/ad.2201
+Y2  - 2020/10/28
+N2  - How can structural, functional and fabrication aspirations be most effectively integrated into digital design, without losing its conceptual inventiveness? Over the last few years, the Digital Structures research group at the Massachusetts Institute of Technology has been investigating just that. Group leader Caitlin Mueller here offers an account of its projects. While computationally optimising the design process, they rely on human collaboration in order to evolve the best option from a range of possibilities.
+ER  - 
+
+PY  - 2017
+Y1  - 2017/07/01
+DA  - 2017/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118929896.index
+UR  - https://doi.org/10.1002/9781118929896.index
+N1  - doi:10.1002/9781118929896.index
+M3  - doi:10.1002/9781118929896.index
+SP  - 207-217
+T1  - Index
+T2  - Managing Networks in Project‐Based Organisations
+T3  - Wiley Online Books
+SN  - 9781118929896
+
+PY  - 2017
+Y1  - 2017/07/01
+DA  - 2017/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118946688.fmatter
+UR  - https://doi.org/10.1002/9781118946688.fmatter
+N1  - doi:10.1002/9781118946688.fmatter
+M3  - doi:10.1002/9781118946688.fmatter
+N2  - The prelims comprise: Half-Title Page Series Page Title Page Copyright Page Dedication Page Table of Contents List of Contributors About the Authors Preface
+SP  - i-xxxiv
+T1  - Front Matter
+T2  - Advances in DEA Theory and Applications
+T3  - Wiley Online Books
+SN  - 9781118946688
+
+PY  - 2017
+Y1  - 2017/07/01
+DA  - 2017/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119260295.index
+UR  - https://doi.org/10.1002/9781119260295.index
+N1  - doi:10.1002/9781119260295.index
+M3  - doi:10.1002/9781119260295.index
+N2  - Abstract No Abstract.
+SP  - 297-309
+T1  - Index
+T2  - Advances in Electric Power and Energy Systems
+T3  - Wiley Online Books
+SN  - 9781119260295
+
+PY  - 2017
+Y1  - 2017/07/01
+DA  - 2017/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119256267.ch1
+UR  - https://doi.org/10.1002/9781119256267.ch1
+N1  - doi:10.1002/9781119256267.ch1
+M3  - doi:10.1002/9781119256267.ch1
+N2  - Abstract This chapter explores features unique to convergence, factors that enable convergence, how convergence relates to and differs from integrated design, lean, and other industry trends, and what are the distinguishing factors of an AEC convergence. Convergence relates to, but ultimately differs from, integration, integrated design, and integrated project delivery (IPD). Convergences are triggered today by the changes brought about by computational tools, shifting work processes, the ubiquity of the cloud, and technological disruption. Some convergence factors are specific to the AECO industry, while other triggers are seen in other sectors or markets as well. The free plug-in Human UI for Grasshopper creates a user-friendly interface for non-programmers to modify designs in Rhino. Both CodeBook and DRofus fill in gaps in the critical path, making the complex that much simpler and easier. Rhynamo is an example of an interoperability tool that leverages file format conversion to achieve a desired workflow. Standards. BuildingSmart, level of detail (LOD), interoperability, and Flux, among others, are working toward common standards that will help speed up convergence.
+SP  - 20-39
+KW  - convergence
+KW  - integrated design
+KW  - integrated project delivery (IPD)
+KW  - Rhynamo
+KW  - level of detail (LOD)
+KW  - BuildingSmart
+T1  - 10 Factors Leading Toward Convergence
+T2  - Convergence
+T3  - Wiley Online Books
+SN  - 9781119256267
+
+PY  - 2017
+Y1  - 2017/07/01
+DA  - 2017/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119190691.index
+UR  - https://doi.org/10.1002/9781119190691.index
+N1  - doi:10.1002/9781119190691.index
+M3  - doi:10.1002/9781119190691.index
+SP  - 344-351
+T1  - Index
+T2  - Future Challenges in Evaluating and Managing Sustainable Development in the Built Environment
+T3  - Wiley Online Books
+SN  - 9781119190691
+
+TY  - JOUR
+T1  - Photovoltaics literature survey (No. 134)
+AU  - Hameiri, Ziv
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - doi: 10.1002/pip.2882
+DO  - 10.1002/pip.2882
+T2  - Progress in Photovoltaics: Research and Applications
+JF  - Progress in Photovoltaics: Research and Applications
+JO  - Progress in Photovoltaics: Research and Applications
+JA  - Prog. Photovolt: Res. Appl.
+SP  - 335
+EP  - 337
+VL  - 25
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/pip.2882
+UR  - https://doi.org/10.1002/pip.2882
+Y2  - 2020/10/28
+N2  - In order to help readers stay up-to-date in the field, each issue of Progress in Photovoltaics will contain a list of recently published journal articles that are most relevant to its aims and scope. This list is drawn from an extremely wide range of journals, including IEEE Journal of Photovoltaics, Solar Energy Materials and Solar Cells, Renewable Energy, Renewable and Sustainable Energy Reviews, Journal of Applied Physics, and Applied Physics Letters. To assist readers, the list is separated into broad categories, but please note that these classifications are by no means strict. Also note that inclusion in the list is not an endorsement of a paper's quality. If you have any suggestions please email Ziv Hameiri at ziv.hameiri@unsw.edu.au. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the Ordered Weighted Averaging Operator Knowledge Domain: A Bibliometric Analysis
+AU  - He, Xiaorong
+AU  - Wu, Yingyu
+AU  - Yu, Dejian
+AU  - Merigó, José M.
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - doi: 10.1002/int.21894
+DO  - 10.1002/int.21894
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1151
+EP  - 1166
+VL  - 32
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/int.21894
+UR  - https://doi.org/10.1002/int.21894
+Y2  - 2020/10/28
+N2  - Abstract Ordered weighted averaging (OWA) operator has been received increasingly widespread interest since its appearance in 1988. Recently, a topic search with the keywords ?ordered weighted averaging operator? or ?OWA operator? on Web of Science (WOS) found 1231 documents. As the publications about OWA operator increase rapidly, thus a scientometric analysis of this research field and discovery of its knowledge domain becomes very important and necessary. This paper studies the publications about OWA operator between 1988 and 2015, and it is based on 1213 bibliographic records obtained by using topic search from WOS. The disciplinary distribution, most cited papers, influential journals, as well as influential authors are analyzed through citation and cocitation analysis. The emerging trends in OWA operator research are explored by keywords and references burst detection analysis. The research methods and results in this paper are meaningful for researchers associated with OWA operator field to understand the knowledge domain and establish their own future research direction.
+ER  - 
+
+TY  - JOUR
+T1  - Aquatic Biofilms: Ecology, Water Quality and Wastewater Treatment By Anna M. Romani, Helena Guasch, and M. Dolors Balaguer (Editors) Caister Academic Press, Norfolk, United Kingdom (2016) 238 Pages ISBN No.: 978-1-910190-17-3 U.S. List Price: $319.00
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - doi: 10.1002/ep.12561
+DO  - 10.1002/ep.12561
+T2  - Environmental Progress & Sustainable Energy
+JF  - Environmental Progress & Sustainable Energy
+JO  - Environmental Progress & Sustainable Energy
+JA  - Environ. Prog. Sustainable Energy
+SP  - 338
+EP  - 340
+VL  - 36
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/ep.12561
+UR  - https://doi.org/10.1002/ep.12561
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Recent advances in rapid multiobjective optimization of expensive simulation models in microwave and antenna engineering by Pareto front exploration
+AU  - Koziel, Slawomir
+AU  - Bekasiewicz, Adrian
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1002/mmce.21190
+DO  - 10.1002/mmce.21190
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF Microw Comput Aided Eng
+SP  - e21190
+VL  - 28
+IS  - 2
+KW  - computer-aided design
+KW  - computational electromagnetics
+KW  - electromagnetic-simulation models
+KW  - multiobjective optimization
+KW  - response features
+KW  - simulation-driven design
+KW  - surrogate modeling
+KW  - space mapping
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/mmce.21190
+UR  - https://doi.org/10.1002/mmce.21190
+Y2  - 2020/10/28
+N2  - Abstract Practical engineering design problems are inherently multiobjective, that is, require simultaneous control of several (and often conflicting) criteria. In many situations, genuine multiobjective optimization is required to acquire comprehensive information about the system of interest. The most popular solution techniques are population-based metaheuristics, however, they are not practical for handling expensive electromagnetic (EM)-simulation models in microwave and antenna engineering. A workaround is to use auxiliary response surface approximation surrogates but it is challenging for higher-dimensional problems. Recently, a deterministic approach has been proposed for expedited multiobjective design optimization of expensive models in computational EMs. The method relies on variable-fidelity EM simulations, tracking the Pareto front geometry, as well as response correction. The algorithm sequentially generates Pareto-optimal designs using a series of constrained single-objective optimizations. The previously obtained design is used as a starting point for the next iteration. In this work, we review this technique and its modification based on space mapping surrogates. We also propose new variations exploiting adjoint sensitivities, as well as response features, which can be attractive depending on availability of derivatives or the characteristics of the system responses that need to be handled. We also discuss several case studies involving various antenna and microwave components.
+ER  - 
+
+TY  - JOUR
+T1  - Toward a hierarchical and architecture-based virtual machine allocation in cloud data centers
+AU  - Rahmanian, Ali Asghar
+AU  - Horri, Abbas
+AU  - Dastghaibyfard, Gholamhossein
+Y1  - 2018/03/10
+PY  - 2018
+DA  - 2018/03/10
+N1  - doi: 10.1002/dac.3490
+DO  - 10.1002/dac.3490
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e3490
+VL  - 31
+IS  - 4
+KW  - data center architecture
+KW  - dynamic consolidation
+KW  - power efficiency
+KW  - resource management
+KW  - virtualization
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/dac.3490
+UR  - https://doi.org/10.1002/dac.3490
+Y2  - 2020/10/28
+N2  - Summary Number of cloud data centers which consists of hundreds of hosts has increased tremendously around the world due to increase in demands for cloud services. It is expected energy consumption of data centers will reach 139.8 billion Kwh by 2020. Many algorithms are proposed to reduce energy consumption as well as service level agreement violationby minimizing the number of active hosts. Current proposed algorithms do not consider data center architecture, the physical position of hosts, and energy consumption of numerous switches that are in data centers. In this paper, a novel hierarchical cloud resource management is proposed that not only minimizes the number of hosts but also aggregates virtual machines on a limited subset of data center racks and modules to minimize energy consumption. Experimental results with Cloudsim show that our proposed algorithm reduces energy consumption up to 26% and service level agreement violation up to 96%.
+ER  - 
+
+TY  - JOUR
+T1  - Accelerated Reliability Demonstration Testing Design Based on Reliability Allocation of Environmental Stresses
+AU  - Li, Peng
+AU  - Li, Chuanri
+AU  - Dang, Wei
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - doi: 10.1002/qre.2115
+DO  - 10.1002/qre.2115
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual. Reliab. Engng. Int.
+SP  - 1425
+EP  - 1435
+VL  - 33
+IS  - 7
+KW  - accelerated testing
+KW  - RDT
+KW  - PoF
+KW  - AHP
+KW  - SSI model
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/qre.2115
+UR  - https://doi.org/10.1002/qre.2115
+Y2  - 2020/10/28
+N2  - The traditional reliability demonstration testing based on statistical method requires a large number of samples and long testing time, failing to satisfy the demand for short cycle and low cost. This paper proposes a new accelerated approach for determining reliability target of each environment stress, accelerated test profile, and comprehensive acceleration factor for multi-failure mode product to conduct assembly level accelerated demonstration testing under multiple stresses and levels. By decomposing the product from four levels, namely function, structure, mechanism, and stress, the products' weaknesses can be identified. The main failure modes and sensitive environmental stresses are determined based on environmental profile and FMMEA. In this design, the reliability is apportioned to each actual environmental stress by AHP. And the SSI model is used to establish accelerated stress profile. The overall acceleration factor can be derived from the model of assembly level accelerated testing. Combined with a statistical plan, the accelerated reliability demonstration testing plan and test profile is built. A case example is presented to illustrate the effectiveness of the proposed approach. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment of Consumer Behavior Towards Environmental Responsibility: A Structural Equations Modeling Approach
+AU  - Pawaskar, Uttam Shankar
+AU  - Raut, Rakesh D
+AU  - Gardas, Bhaskar B
+Y1  - 2018/05/01
+PY  - 2018
+DA  - 2018/05/01
+N1  - doi: 10.1002/bse.2020
+DO  - 10.1002/bse.2020
+T2  - Business Strategy and the Environment
+JF  - Business Strategy and the Environment
+JO  - Business Strategy and the Environment
+JA  - Bus. Strat. Env.
+SP  - 560
+EP  - 571
+VL  - 27
+IS  - 4
+KW  - customer behavior
+KW  - environmental management systems
+KW  - environmental responsibility
+KW  - India
+KW  - structural equation modeling
+KW  - sustainability
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/bse.2020
+UR  - https://doi.org/10.1002/bse.2020
+Y2  - 2020/10/28
+N2  - Abstract This paper analyses the factors impacting consumer environmental responsibility using a structural equation modeling approach. Consumer environmental responsibility is the intention of a person to act towards remediation of environmental problems not as an individual user with economic interests but as a responsible citizen having concerns about the social and environmental wellbeing of society. Therefore, awareness of environmental problems and knowledge of remedial alternatives will help individuals to pursue their chosen action and bolster a genuine desire to act and determine the measures for alleviation of environmental challenges. The four dimensions of an environmentally responsible consumer ? opinion and beliefs, willingness, awareness, and an ability to act ? are analysed. During the analysis, the dimension of ?ability to move? is found to be critical, because it has a direct influence on the capacity of the consumer to act. This research is intended to guide policy- and decision-makers of regulatory bodies in understanding consumer behavior towards improving environmental performance index. It also helps organizational managers to make their supply chains green, and competitive, which in turn improves brand image and overall organizational performance. Copyright ? 2017 John Wiley & Sons, Ltd and ERP Environment
+ER  - 
+
+TY  - JOUR
+T1  - Habitat suitability modeling for mink passage activity: A cautionary tale
+AU  - Martinig, April Robin
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - doi: 10.1002/jwmg.21307
+DO  - 10.1002/jwmg.21307
+T2  - The Journal of Wildlife Management
+JF  - The Journal of Wildlife Management
+JO  - The Journal of Wildlife Management
+JA  - Jour. Wild. Mgmt.
+SP  - 1439
+EP  - 1448
+VL  - 81
+IS  - 8
+KW  - American mink
+KW  - animal movement
+KW  - Canada
+KW  - connectivity
+KW  - geographic information system (GIS)
+KW  - habitat suitability index (HSI)
+KW  - Neovison vison
+KW  - planning
+KW  - resource selection functions (RSF)
+KW  - wildlife passages
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/jwmg.21307
+UR  - https://doi.org/10.1002/jwmg.21307
+Y2  - 2020/10/28
+N2  - ABSTRACT Many studies have evaluated wildlife passage effectiveness, but few have explored how accurately passage activity can be modeled. I created a habitat suitability index (HSI) model for American mink (Neovison vison) using a geographic information system with 17 wildlife passages located in Quebec, Canada as validation for the model. I addressed how well HSI modeling using constrained habitat data could determine mink passage activity and tested model sensitivity to different parameterizations. Uncertainty analysis revealed that the HSI model was sensitive to extreme changes in factor weights and scale. I used a generalized linear model to test how well the constrained HSI model explained the variability in passage activity (counts). For the HSI model (and all alternatives) the HSI scores were negatively associated with passage use. The predictive power of all models greatly improved after including aspects related to passage construction, with the pseudo-R2 increasing by 64?73%. These findings suggest that the constrained HSI models are a poor predicator of passage activity for mink, but wildlife passage characteristics are highly predictive. Transportation agencies would benefit from the ability to make informed planning decisions; however, greater care is required to determine passage suitability. The proper implementation of these tools requires knowledge of habitat preferences and how movement is influenced by the wildlife passages themselves. ? 2017 The Wildlife Society.
+ER  - 
+
+TY  - JOUR
+T1  - Sustainability
+AU  - Chang, Chein-Chi
+AU  - DiGiovanni, Kimberly
+AU  - Mei, Ying
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - doi: 10.2175/106143017X15023776270340
+DO  - 10.2175/106143017X15023776270340
+T2  - Water Environment Research
+JF  - Water Environment Research
+JO  - Water Environment Research
+JA  - Water Environment Research
+SP  - 1325
+EP  - 1348
+VL  - 89
+IS  - 10
+KW  - SUSTAINABILITY
+KW  - GREEN INFRASTRUCTURE
+KW  - LIFE
+KW  - CYCLE ASSESSMENT
+KW  - ASSET MANAGEMENT
+KW  - SUSTAINABLE WATER AND
+KW  - WASTEWATER UTILITY
+KW  - SUSTAINABLE ENERGY
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.2175/106143017X15023776270340
+UR  - https://doi.org/10.2175/106143017X15023776270340
+Y2  - 2020/10/28
+N2  - Selected 2016 publications on the focus of Sustainability are reviewed and discussed here. The followings are the topics presented:? ? Sustainable water and wastewater utilities? ?Sustainable water resources management? ? Stormwater and green infrastructure? ? Sustainability in water and wastewater treatment? ?Life cycle assessment (LCA) applications? ? Sustainability for water and energy,? ? Sustainability and asset management
+ER  - 
+
+TY  - JOUR
+T1  - Technologies That Support Marketing and Market Development in SMEs—Evidence from Social Networks
+AU  - Eggers, Fabian
+AU  - Hatak, Isabella
+AU  - Kraus, Sascha
+AU  - Niemand, Thomas
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - doi: 10.1111/jsbm.12313
+DO  - 10.1111/jsbm.12313
+T2  - Journal of Small Business Management
+JF  - Journal of Small Business Management
+JO  - Journal of Small Business Management
+JA  - Journal of Small Business Management
+SP  - 270
+EP  - 302
+VL  - 55
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1111/jsbm.12313
+UR  - https://doi.org/10.1111/jsbm.12313
+Y2  - 2020/10/28
+N2  - This study builds on previous research on information technology implementation and usage in small and medium-sized enterprises (SMEs) and applies a special focus on social networks. Specifically, this research investigates antecedents of social network usage in SMEs and respective performance outcomes. The results show that entrepreneurial orientation is positively related to social network usage in SMEs, whereas responsive market orientation shows no effect. Social network usage is not directly related to SME growth; yet it mediates the relationship between entrepreneurial orientation and SME growth. Interestingly, large firms show the opposite effects regarding antecedents and performance-related consequences of social network usage.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical assessment of technical debt practices in industry
+AU  - Codabux, Zadia
+AU  - Williams, Byron J.
+AU  - Bradshaw, Gary L.
+AU  - Cantor, Murray
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - doi: 10.1002/smr.1894
+DO  - 10.1002/smr.1894
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e1894
+VL  - 29
+IS  - 10
+KW  - clustering
+KW  - semi-structured interviews
+KW  - software practitioners
+KW  - survey
+KW  - technical debt
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119190691
+M3  - doi: 10.1002/smr.1894
+UR  - https://doi.org/10.1002/smr.1894
+Y2  - 2020/10/28
+N2  - Abstract Context Technical debt refers to the consequences of taking shortcuts when developing software. These consequences can impede the software growth and have financial implications. The software engineering research community needs to explore technical debt further from a practitioner standpoint. Objective This study gathers insights from practitioners on key components of technical debt such as its definition, characterization, consequences, benefits, and how it is communicated. Method We conducted semi-structured interviews with a convenience sample of 17 practitioners and a survey of 67 participants. Results Despite the lack of consensus, we identified the most commonly accepted definition, method to measure technical debt (as person hours), and method to reduce debt (by allocating time in iterations to address the debt). Defects were also identified as type of debt and the cost of technical debt is more than the cost to make changes to source code. Three distinct company profiles emerged. Conclusion Despite increasing research on technical debt, the field lacks consensus on its many facets. One interesting outcome of this study is how to assess the risks of technical debt by evaluating liabilities beyond costs of directly handling debt.
+ER  - 
+
+PY  - 2017
+Y1  - 2017/10/01
+DA  - 2017/10/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119073666.part3
+UR  - https://doi.org/10.1002/9781119073666.part3
+N1  - doi:10.1002/9781119073666.part3
+M3  - doi:10.1002/9781119073666.part3
+N2  - SummaryAs all human sciences, valuation operates in a dynamic environment. This raises several problems and challenges in the application of valuation and consultancy. Following the International Valuation Standards (IVS), the main valuation approaches accepted at international level are based on market, income and cost. Better valuations equal a more stable economic system; this is especially true after the mortgage crisis. This chapter shows the various improvements that can be achieved by various alternative approaches to the same problem. It comprises three divisions, each of them covering a specific property category. First division presents an alternative framework for residential valuation. It shows the richness and variety of value analysis approaches and methods. Next division moves the discussion onto commercial valuation and presents an alternative approach to risk premium determination and a new approach to AVM based on DCF. Finally division aims to evaluate the significance of land attributes for land use and developable land.
+SP  - 51-95
+KW  - built environment
+KW  - economic system
+KW  - land attributes
+KW  - land-use function
+KW  - market sustainability
+KW  - mortgage crisis
+KW  - premium determination
+KW  - residential property
+KW  - valuation methodology
+T1  - Valuation Methodology
+T2  - Value in a Changing Built Environment
+T3  - Wiley Online Books
+SN  - 9781119073666
+
+PY  - 2017
+Y1  - 2017/10/01
+DA  - 2017/10/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119283362.ch1
+UR  - https://doi.org/10.1002/9781119283362.ch1
+N1  - doi:10.1002/9781119283362.ch1
+M3  - doi:10.1002/9781119283362.ch1
+N2  - Summary This chapter aims to provide some fundamental information and the state-of-the-art of combined cooling, heating and power (CCHP) systems. It focuses on different prime movers for driving the CCHP systems and three main thermally activated technologies that can be used in CCHP systems to achieve energy cascade utilization. The chapter also focuses on different system configurations according to the system capacity. It introduces conventional and novel operation strategies, and system optimization methods. The chapter discusses development of CCHP systems in three main countries namely United States, United Kingdom and People's Republic of China. To construct an economical and efficient CCHP system, the type of facilities should be firstly determined according to local resources, and current and future energy market. The system configuration varies according to different usages, including commercial buildings, residential buildings, supermarkets, universities, hospitals, and so on.
+SP  - 1-48
+KW  -                CCHP systems
+KW  - energy market
+KW  -                People's Republic of China
+KW  - prime movers
+KW  - system configurations
+KW  -                United Kingdom
+KW  -                United States
+T1  - State-of-the-Art of Combined Cooling, Heating, and Power (CCHP) Systems
+T2  - Combined Cooling, Heating, and Power Systems
+T3  - Wiley Online Books
+SN  - 9781119283362
+
+TY  - JOUR
+T1  - Poster Abstracts
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - doi: 10.1111/tme.12417
+DO  - 10.1111/tme.12417
+T2  - Transfusion Medicine
+JF  - Transfusion Medicine
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+SP  - 22
+EP  - 71
+VL  - 27
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119283362
+M3  - doi: 10.1111/tme.12417
+UR  - https://doi.org/10.1111/tme.12417
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Oral Presentation Sessions
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - doi: 10.1111/tmi.12978
+DO  - 10.1111/tmi.12978
+T2  - Tropical Medicine & International Health
+JF  - Tropical Medicine & International Health
+JO  - Tropical Medicine & International Health
+JA  - Trop Med Int Health
+SP  - 2
+EP  - 114
+VL  - 22
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119283362
+M3  - doi: 10.1111/tmi.12978
+UR  - https://doi.org/10.1111/tmi.12978
+Y2  - 2020/10/28
+ER  - 

@@ -1,0 +1,1923 @@
+
+TY  - JOUR
+T1  - Multicriteria decision making for sustainable development: A systematic review
+AU  - Kandakoglu, Ahmet
+AU  - Frini, Anissa
+AU  - Ben Amor, Sarah
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/mcda.1682
+DO  - 10.1002/mcda.1682
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 202
+EP  - 251
+VL  - 26
+IS  - 5-6
+KW  - multicriteria decision making or analysis (MCDM/A)
+KW  - sustainable development
+KW  - temporal evaluation
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.1682
+UR  - https://doi.org/10.1002/mcda.1682
+Y2  - 2020/10/28
+N2  - Abstract Making decisions by integrating social and environmental concerns beyond the financial dimension involves complex decision-making processes in which innovative approaches and best practices need to be implemented. Recently, the literature on decision-making related to sustainable development has grown rapidly, and multiple criteria decision making or analysis (MCDM/A) methods appear to be the most widely used approaches. The general objective of this paper is to provide a systematic review of the literature on the use of MCDM/A in a sustainable development context. We carefully analysed 343 papers dealing with decision-making in sustainable development contexts published in the last 7 years (2010-2017) using MCDM/A methods. Descriptive statistics were provided to highlight the main trends and gaps in the literature, and future research avenues were presented. The results show that although sustainable development strives to achieve a balance between the short and the long term, most articles surveyed did not investigate either the long-term perspective related to sustainable development or the unforeseen events that could impact future project evaluations. Indeed, the need for temporal MCDM/A methods under uncertainty emerges as an important research challenge. In addition, results show that the social dimension was the most frequently ignored dimension. In future research, decision-making processes should closely investigate social well-being and encourage the participation of stakeholders (including the communities affected). Finally, the recent research on sustainability is relatively easy to implement but may not lead to the desired outcome. Future research needs to develop methods that promote sustainability without being overly difficult to implement in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria decision-making techniques for avoiding similar task scheduling conflict in cloud computing
+AU  - Nayak, Suvendu Chandan
+AU  - Parida, Sasmita
+AU  - Tripathy, Chitaranjan
+AU  - Pati, Bibudhendu
+AU  - Panigrahi, Chhabi Rani
+Y1  - 2020/09/10
+PY  - 2020
+DA  - 2020/09/10
+N1  - doi: 10.1002/dac.4126
+DO  - 10.1002/dac.4126
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e4126
+VL  - 33
+IS  - 13
+KW  - AHP
+KW  - cloud computing
+KW  - deadline-based task
+KW  - VIKOR
+KW  - task scheduling
+KW  - TOPSIS
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - doi: 10.1002/dac.4126
+UR  - https://doi.org/10.1002/dac.4126
+Y2  - 2020/10/28
+N2  - Summary An efficient task scheduling approach shows promising way to achieve better resource utilization in cloud computing. Various task scheduling approaches with optimization and decision-making techniques have been discussed up to now. These approaches ignored scheduling conflict among the similar tasks. The conflict often leads to miss the deadlines of the tasks. The work studies the implementation of the MCDM (multicriteria decision-making) techniques in backfilling algorithm to execute deadline-based tasks in cloud computing. In general, the tasks are selected as backfill tasks, whose role is to provide ideal resources to other tasks in the backfilling approach. The selection of the backfill task is challenging one, when there are similar tasks. It creates conflict in the scheduling. In cloud computing, the deadline-based tasks have multiple parameters such as arrival time, number of VMs (virtual machines), start time, duration of execution, and deadline. In this work, we present the deadline-based task scheduling algorithm as an MCDM problem and discuss the MCDM techniques: AHP (Analytical Hierarchy Process), VIKOR (VIseKriterijumska Optimizacija I Kompromisno Resenje), and TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) to avoid similar task scheduling conflicts. We simulate the backfilling algorithm along with three MCDM mechanisms to avoid scheduling conflicts among the similar tasks. The synthetic workloads are considered to study the performance of the proposed scheduling algorithm. The mechanism suggests an efficient VM allocation and its utilization for deadline-based tasks in the cloud environment.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of Multicriteria Decision Analysis Algorithms in Food Safety: A Case Study on Emerging Zoonoses Prioritization
+AU  - Garre, Alberto
+AU  - Boué, Geraldine
+AU  - Fernández, Pablo S.
+AU  - Membré, Jeanne-Marie
+AU  - Egea, Jose A.
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - doi: 10.1111/risa.13391
+DO  - 10.1111/risa.13391
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 336
+EP  - 351
+VL  - 40
+IS  - 2
+KW  - Food safety management
+KW  - MCDA
+KW  - prioritization
+KW  - risk ranking
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - doi: 10.1111/risa.13391
+UR  - https://doi.org/10.1111/risa.13391
+Y2  - 2020/10/28
+N2  - Abstract Decision making in food safety is a complex process that involves several criteria of different nature like the expected reduction in the number of illnesses, the potential economic or health-related cost, or even the environmental impact of a given policy or intervention. Several multicriteria decision analysis (MCDA) algorithms are currently used, mostly individually, in food safety to rank different options in a multifactorial environment. However, the selection of the MCDA algorithm is a decision problem on its own because different methods calculate different rankings. The aim of this study was to compare the impact of different uncertainty sources on the rankings of MCDA problems in the context of food safety. For that purpose, a previously published data set on emerging zoonoses in the Netherlands was used to compare different MCDA algorithms: MMOORA, TOPSIS, VIKOR, WASPAS, and ELECTRE III. The rankings were calculated with and without considering uncertainty (using fuzzy sets), to assess the importance of this factor. The rankings obtained differed between algorithms, emphasizing that the selection of the MCDA method had a relevant impact in the rankings. Furthermore, considering uncertainty in the ranking had a high influence on the results. Both factors were more relevant than the weights associated with each criterion in this case study. A hierarchical clustering method was suggested to aggregate results obtained by the different algorithms. This complementary step seems to be a promising way to decrease extreme difference among algorithms and could provide a strong added value in the decision-making process.
+ER  - 
+
+TY  - JOUR
+T1  - NeuroEvolution of Augmenting Topologies for predicting financial distress: A multicriteria decision analysis
+AU  - Belhaj Slimene, Senda
+AU  - Mamoghli, Chokri
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/mcda.1669
+DO  - 10.1002/mcda.1669
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 320
+EP  - 328
+VL  - 26
+IS  - 5-6
+KW  - adaptive boosting
+KW  - bankruptcy prediction
+KW  - credit scoring
+KW  - decision trees
+KW  - finance decision making
+KW  - multicriteria analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.1669
+UR  - https://doi.org/10.1002/mcda.1669
+Y2  - 2020/10/28
+N2  - Abstract This paper introduces a novel approach based on NeuroEvolution of Augmenting Topologies to early predict financial distress of Tunisian companies using an important number of inputs. Our sample covers the period of the Jasmin Revolution that led to an increase of the number of bankruptcies, making early previsions even more difficult. Furthermore, we aim to identify the factors that explain financial distress as our approach does not need a process of preselection. All the financial ratios will be used as inputs for the model, and only the ratios with the highest threshold value will remain in the final classifier. To test the accuracy of our model, we will compute a linear discriminant analysis to compare the previsions of the two approaches. Results show that our approach outperforms the traditional one.
+ER  - 
+
+TY  - JOUR
+T1  - Cloud broker proposal based on multicriteria decision-making and virtual infrastructure migration
+AU  - Rodrigues, Leonardo R.
+AU  - Cardoso Jr., Euclides
+AU  - Alves Jr., Omir C.
+AU  - Redígolo, Fernando F.
+AU  - Pillon, Maurício A.
+AU  - Miers, Charles C.
+AU  - Koslovski, Guilherme P.
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/spe.2723
+DO  - 10.1002/spe.2723
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 1331
+EP  - 1351
+VL  - 49
+IS  - 9
+KW  - broker
+KW  - container
+KW  - IaaS
+KW  - migration
+KW  - multicriteria
+KW  - network
+KW  - virtual infrastructure
+KW  - virtualization
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - doi: 10.1002/spe.2723
+UR  - https://doi.org/10.1002/spe.2723
+Y2  - 2020/10/28
+N2  - Summary The adoption of infrastructure as a Service (IaaS) is a reality for academic, industrial, and governmental institutions. Cloud tenants request dynamically provisioned virtual infrastructures (VIs) tailored to their application requirements, detailing not only the virtual compute/storage resources but also the network components, topology, and services. The creation of a large number of cloud providers came along with the widespread use of VIs. The selection of an appropriate provider is a challenging task due to the diversity of the IaaS market and formally is a multicriteria analysis (NP-hard). Notwithstanding the provider selection complexity, the mobility of VI-hosted applications is limited due to the optimization anchors introduced by providers. Although the existing IaaS cloud brokers can indicate a hosting provider, they lack on conceptual and technical skills to migrate a VI and all its internal components between providers. This work enhances the state-of-the-art on IaaS cloud brokerage by proposing virtual infrastructure multicriteria allocation and migration?based broker (VIMAM), which performs a multicriteria analysis of providers and VI migration. VIMAM is driven by an analytic hierarchy process (AHP) to select an IaaS provider, offering a set of predefined weighting schemas to represent distinct tenant perspectives. Moreover, to migrate a VI, VIMAM takes into account the virtual machines, containers, switches, and other topology elements. In addition to discussing the AHP ranking weights and frequency of providers selection, the experimental analysis details the implementation of an OpenStack and Docker?based prototype for VI migration.
+ER  - 
+
+TY  - JOUR
+T1  - Resource allocation through logistic regression and multicriteria decision making method in IoT fog computing
+AU  - Bashir, Hayat
+AU  - Lee, Seonah
+AU  - Kim, Kyong Hoon
+Y1  - 2019/12/19
+PY  - 2019
+DA  - 2019/12/19
+N1  - doi: 10.1002/ett.3824
+DO  - 10.1002/ett.3824
+T2  - Transactions on Emerging Telecommunications Technologies
+JF  - Transactions on Emerging Telecommunications Technologies
+JO  - Transactions on Emerging Telecommunications Technologies
+JA  - Trans Emerging Tel Tech
+SP  - e3824
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 2161-3915
+M3  - doi: 10.1002/ett.3824
+UR  - https://doi.org/10.1002/ett.3824
+Y2  - 2020/10/28
+N2  - Abstract Cloud computing has received a lot of attention from both researcher and developer in last decade due to its unique structure of providing services to the user. As the digitalization of world, heterogeneous devices, and with the emergence of Internet of Things (IoT), these IoT devices produce different type of data with distinct frequency, which require real-time and latency sensitive services. This provides great challenge to cloud computing framework. Fog computing is a new framework to accompaniment cloud platform and is proposed to extend services to the edge of the network. In fog computing, the entire user's tasks are offloaded to distributed fog nodes to the edge of network to avoid delay sensitivity. We select fog computing network dwell different set of fog nodes to provide required services to the users. Allocation of defined resource to the users in order to achieve optimal result is a big challenge. Therefore, we propose dynamic resource allocation strategy for cloud, fog node, and users. In the framework, we first formulate the ranks of fog node using TOPSIS to identify most suitable fog node for the incoming request. Simultaneously logistic regression calculates the load of individual fog node and updates the result to send back to the broker for next decision. Simulation results demonstrate that the proposed scheme undoubtedly improves the performance and give accuracy of 98.25%.
+ER  - 
+
+TY  - JOUR
+T1  - Traditional or behavioural? A combined decision making trial and evaluation laboratory and analytic network process approach for capital structure determinants of Turkish companies
+AU  - Bank, Semra
+AU  - Arslantürk Çöllü, Duygu
+AU  - Bulut, Halil Ibrahim
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - doi: 10.1002/mcda.1686
+DO  - 10.1002/mcda.1686
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 159
+EP  - 172
+VL  - 27
+IS  - 3-4
+KW  - ANP
+KW  - DEMATEL
+KW  - managerial-behavioural biases
+KW  - multicriteria decision-making models
+KW  - traditional capital structure
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.1686
+UR  - https://doi.org/10.1002/mcda.1686
+Y2  - 2020/10/28
+N2  - Abstract The aim of this study, following a new approach under the irrationality of managers, is to investigate the most effective determinants of capital structure decisions by combining traditional capital structure determinants with managerial-behavioural biases. In line with this objective, considering the capital structure decision as one that employs multicriteria decision making, two of the multicriteria decision-making methods?namely, Decision Making Trial and Evaluation Laboratory (DEMATEL) and Analytic Network Process (ANP)?are integrated into a hybrid method to analyse the interdependent relationships among traditional capital structure determinants and managerial-behavioural biases and to prioritize them by making dual comparisons. Our findings show that managerial-behavioural biases, not traditional capital structure determinants, are more effective in the capital structure decision and that anchoring is the most influential among managerial-behavioural biases.
+ER  - 
+
+TY  - JOUR
+T1  - Data envelopment analysis with neutrosophic inputs and outputs
+AU  - Abdelfattah, Walid
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - doi: 10.1111/exsy.12453
+DO  - 10.1111/exsy.12453
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12453
+VL  - 36
+IS  - 6
+KW  - data envelopment analysis
+KW  - interval efficiency
+KW  - neutrosophic theory
+KW  - triangular neutrosophic number
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/exsy.12453
+UR  - https://doi.org/10.1111/exsy.12453
+Y2  - 2020/10/28
+N2  - Abstract Since the recent appearance of neutrosophic theory as a generalization of fuzzy and intuitionistic fuzzy theories, many multicriteria decision methods have adopted this theory to deal with incomplete and indeterminate data. However, it has not yet been applied to the data envelopment analysis (DEA) methodology. Therefore, this study presents a DEA model with triangular neutrosophic inputs and outputs that considers the truth, indeterminacy, and falsity degrees of each data value. As an alternative, a parametric approach based on what we term the variation degree of a triangular neutrosophic number is developed. This approach transforms a neutrosophic DEA model into an interval DEA model that can be solved using one of many existing techniques. Interval efficiency scores obtained from our numerical example show the flexibility and authenticity of the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Valuation of a startup: Moving towards strategic approaches
+AU  - Dhochak, Monika
+AU  - Doliya, Prince
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1002/mcda.1703
+DO  - 10.1002/mcda.1703
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 39
+EP  - 49
+VL  - 27
+IS  - 1-2
+KW  - fuzzy analytic hierarchy process
+KW  - multicriteria decision-making
+KW  - strategic management
+KW  - venture capital
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.1703
+UR  - https://doi.org/10.1002/mcda.1703
+Y2  - 2020/10/28
+N2  - Abstract The valuation of a new venture is often considered to be a combative point of negotiation between venture capitalists and entrepreneurs. To bridge this gap, the present study aims to comprehend the link between startup valuation and established strategic management theories. The purpose of this study is to prioritize the theories from the strategic management literature in the valuation of a startup to assess firm performance using evidence from India, an emerging market. This study addresses research questions such as whether strategic theories (internal-based theory, industry-based theory, and network-based theory) enable the valuation of a new venture and how venture capitalists prioritize and vary the importance of these theories to assess the economic value of a new venture. The strategic management theories are prioritized using the fuzzy analytic hierarchy process, a multicriteria decision-making technique for the valuation of a venture. The present study develops an integrative multicriteria fuzzy decision-making approach to measure the relative importance of the strategic input variables. The results of the study validate the inclusion of strategic variables and provide a systematic approach to follow and measure the important factors when valuing a new venture. Such outcomes of the study help to theoretically and practically build a valuation foundation for both venture capitalists and entrepreneurs. This study brings increased rigor to the venture capital valuation literature by introducing a supplementary method to identify and measure the importance of these theories in new venture valuation.
+ER  - 
+
+PY  - 2020
+Y1  - 2020/01/01
+DA  - 2020/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119534860.ch2
+UR  - https://doi.org/10.1002/9781119534860.ch2
+N1  - doi:10.1002/9781119534860.ch2
+M3  - doi:10.1002/9781119534860.ch2
+N2  - Summary This chapter introduces the fundamental concepts of fuzzy sets. It focuses on the fundamental ideas of partial membership, which are conveniently quantified through membership functions and membership degrees. Fuzzy sets come as a manifestation of a general idea of information granule. Processing of information granules is realized in the framework of Granular Computing. Information granules are intuitively appealing constructs, which play a pivotal role in human cognitive and decision-making activities. The chapter then provides information on fuzzy sets by discussing the most commonly encountered classes of membership function, and relating these classes to the semantics of fuzzy sets. It elaborates on the basic operations on fuzzy sets (intersection, union, complement, negations) and discusses the concepts of fuzzy relations and their main properties, which are of direct relevance in the context of decision-making.
+SP  - 29-90
+KW  - decision-making
+KW  - fuzzy relations
+KW  - fuzzy sets
+KW  - Granular Computing
+KW  - information granule
+KW  - membership function
+T1  - Notions and Concepts of Fuzzy Sets
+T2  - Multicriteria Decision‐Making under Conditions of Uncertainty
+T3  - Wiley Online Books
+SN  - 9781119534860
+C1  - An Introduction
+
+TY  - JOUR
+T1  - A survey on semanticized and personalized health recommender systems
+AU  - Çelik Ertuğrul, Duygu
+AU  - Elçi, Atilla
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1111/exsy.12519
+DO  - 10.1111/exsy.12519
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12519
+VL  - 37
+IS  - 4
+KW  - e-health
+KW  - Health 3.0
+KW  - health care
+KW  - ontology
+KW  - recommender system
+KW  - semantic Web
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1111/exsy.12519
+UR  - https://doi.org/10.1111/exsy.12519
+Y2  - 2020/10/28
+N2  - Abstract Health 3.0 is a health-related extension of the Web 3.0 concept. It is based on the semantic Web which provides for semantically organizing electronic health records of individuals. Health 3.0 is rapidly gaining ground as a new research topic in many academic and industrial disciplines. Due to the recent rapid spread of wearable sensors and smart devices with access to social media, migrating health services from the traditional centre-based health system to personal health care is inevitable. In this current era of greater personalization, treating patients' health problems according to their profile and medical data gathered is possible using the latest information technologies. Consequently, personalized health recommender systems have gained importance. Empowering the utility of advanced Web technology in personalized health systems is still challenging due to pressing issues, such as lack of low cost and accurate smart medical sensors and wearable devices, existing investment in legacy Web system architecture in health sector, heterogeneity of medical data gathered by myriad health care institutions and isolated health services, and interoperability issues as well as multi-dimensionality of medical data. By tracing recent developments, this paper offers a systematic review through recent research on semantic Web-enabled personalized health systems, namely, semanticized personalized health recommender systems with the key enabling technologies, major applications, and successful case studies. Critical questions derived from the research studies were discussed, and main directions of open issues were identified leading to recommendations for future study in the field of personalized health recommender systems.
+ER  - 
+
+TY  - JOUR
+T1  - Equivalence analysis to support environmental safety assessment: Using nontarget organism count data from field trials with cisgenically modified potato
+AU  - van der Voet, Hilko
+AU  - Goedhart, Paul W.
+AU  - Lazebnik, Jenny
+AU  - Kessel, Geert J. T.
+AU  - Mullins, Ewen
+AU  - van Loon, Joop J. A.
+AU  - Arpaia, Salvatore
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.1002/ece3.4964
+DO  - 10.1002/ece3.4964
+T2  - Ecology and Evolution
+JF  - Ecology and Evolution
+JO  - Ecology and Evolution
+JA  - Ecol Evol
+SP  - 2863
+EP  - 2882
+VL  - 9
+IS  - 5
+KW  - environmental risk assessment
+KW  - equivalence test
+KW  - hierarchical analysis
+KW  - limit of concern
+KW  - multicriteria decision analysis
+KW  - overdispersed Poisson
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1002/ece3.4964
+UR  - https://doi.org/10.1002/ece3.4964
+Y2  - 2020/10/28
+N2  - Abstract This paper considers the statistical analysis of entomological count data from field experiments with genetically modified (GM) plants. Such trials are carried out to assess environmental safety. Potential effects on nontarget organisms (NTOs), as indicators of biodiversity, are investigated. The European Food Safety Authority (EFSA) gives broad guidance on the environmental risk assessment (ERA) of GM plants. Field experiments must contain suitable comparator crops as a benchmark for the assessment of designated endpoints. In this paper, a detailed protocol is proposed to perform data analysis for the purpose of assessing environmental safety. The protocol includes the specification of a list of endpoints and their hierarchical relations, the specification of intended levels of data analysis, and the specification of provisional limits of concern to decide on the need for further investigation. The protocol emphasizes a graphical representation of estimates and confidence intervals for the ratio of mean abundances for the GM plant and its comparator crop. Interpretation relies mainly on equivalence testing in which confidence intervals are compared with the limits of concern. The proposed methodology is illustrated with entomological count data resulting from multiyear, multilocation field trials. A cisgenically modified potato line (with enhanced resistance to late blight disease) was compared to the original conventional potato variety in the Netherlands and Ireland in two successive years (2013, 2014). It is shown that the protocol encompasses alternative schemes for safety assessment resulting from different research questions and/or expert choices. Graphical displays of equivalence testing at several hierarchical levels and their interpretation are presented for one of these schemes. The proposed approaches should be of help in the ERA of GM or other novel plants.
+ER  - 
+
+TY  - JOUR
+T1  - An stochastic multiattribute acceptability analysis-based method for the multiattribute project portfolio selection problem with rank-level information
+AU  - Song, Shiling
+AU  - Ang, Sheng
+AU  - Yang, Feng
+AU  - Xia, Qiong
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - doi: 10.1111/exsy.12447
+DO  - 10.1111/exsy.12447
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12447
+VL  - 36
+IS  - 5
+KW  - project portfolio selection
+KW  - project management
+KW  - stochastic multiattribute acceptability analysis
+KW  - multiattribute decision analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1111/exsy.12447
+UR  - https://doi.org/10.1111/exsy.12447
+Y2  - 2020/10/28
+N2  - Abstract In many cases of practical multiattribute project portfolio selection problems, it is hard to obtain accurate measurements of attributes and precise preference information. Even after a long and costly information gathering, the attribute measurements and the preference information can still be uncertain or inaccurate. Considerable cost saving will be obtained if the selection of an optimal project portfolio can be done using rank-level information based on some or all the attributes, without knowing the preference information. In this paper, we propose a stochastic multiattribute acceptability analysis-based method that can deal with mixed rank and cardinal attribute measurements and uses little or no weight information. In the proposed stochastic multiattribute acceptability analysis-based method, the decision makers need not to express their preferences explicitly or implicitly, so it is particularly useful when no weight information is available at all. A numerical example involving selection of photovoltaic plants in an industrial province in Eastern China is provided to demonstrate the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Managing evidence in food safety and nutrition
+AU  - Cavalli, Ermanno
+AU  - Gilsenan, Mary
+AU  - Van Doren, Jane
+AU  - Grahek-Ogden, Danica
+AU  - Richardson, Jane
+AU  - Abbinante, Fabrizio
+AU  - Cascio, Claudia
+AU  - Devalier, Paul
+AU  - Brun, Nikolai
+AU  - Linkov, Igor
+AU  - Marchal, Kathleen
+AU  - Meek, Bette
+AU  - Pagliari, Claudia
+AU  - Pasquetto, Irene
+AU  - Pirolli, Peter
+AU  - Sloman, Steven
+AU  - Tossounidis, Lazaros
+AU  - Waigmann, Elisabeth
+AU  - Schünemann, Holger
+AU  - Verhagen, Hans
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - doi: 10.2903/j.efsa.2019.e170704
+DO  - 10.2903/j.efsa.2019.e170704
+T2  - EFSA Journal
+JF  - EFSA Journal
+JO  - EFSA Journal
+JA  - EFSA Journal
+SP  - e170704
+VL  - 17
+IS  - S1
+KW  - data
+KW  - evidence integration
+KW  - evidence management
+KW  - food safety
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.2903/j.efsa.2019.e170704
+UR  - https://doi.org/10.2903/j.efsa.2019.e170704
+Y2  - 2020/10/28
+N2  - Abstract Evidence (?data?) is at the heart of EFSA's 2020 Strategy and is addressed in three of its operational objectives: (1) adopt an open data approach, (2) improve data interoperability to facilitate data exchange, and (3) migrate towards structured scientific data. As the generation and availability of data have increased exponentially in the last decade, potentially providing a much larger evidence base for risk assessments, it is envisaged that the acquisition and management of evidence to support future food safety risk assessments will be a dominant feature of EFSA's future strategy. During the breakout session on ?Managing evidence? of EFSA's third Scientific Conference ?Science, Food, Society?, current challenges and future developments were discussed in evidence management applied to food safety risk assessment, accounting for the increased volume of evidence available as well as the increased IT capabilities to access and analyse it. This paper reports on presentations given and discussions held during the session, which were centred around the following three main topics: (1) (big) data availability and (big) data connection, (2) problem formulation and (3) evidence integration.
+ER  - 
+
+TY  - JOUR
+T1  - Application of artificial intelligence algorithms on modeling of reflection phase characteristics of a nonuniform reflectarray element
+AU  - Mahouti, Peyman
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - doi: 10.1002/jnm.2689
+DO  - 10.1002/jnm.2689
+T2  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JF  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JO  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JA  - Int J Numer Model
+SP  - e2689
+VL  - 33
+IS  - 2
+KW  - convolutional neural network
+KW  - deep learning
+KW  - reflectarray antenna
+KW  - regression
+KW  - symbolic regression
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1002/jnm.2689
+UR  - https://doi.org/10.1002/jnm.2689
+Y2  - 2020/10/28
+N2  - Abstract Reflectarray antennas (RAs) have the ability to combine the advantages of both traditional parabolic reflector and phased array antennas without the need for feed network designs. Microstrip reflectarrays (MRAs) have the advantages of being small size, light weighted, easy to prototyped, high gain, low side-lobe level, and a predetermined radiation pattern. These can be achieved by precise calculation of reflection phase at each RA unit independently with a phase compensation proportional to the distance from the feed. The challenging problem is to have a fast and high accurate unit element to be used in multidimension, multiobjective design optimization. Herein, artificial intelligence algorithms (AIAs) have been used for prediction of reflection phase characterization of an X band MRA unit element with respect to the geometrical design parameters. Firstly, a nonuniform unit RA has been designed in 3D electromagnetic (EM) simulation tool for creating the training validation data sets. Then, the data sets are given to the different types of AIA regression models such as multilayer perceptron, symbolic regression, and convolutional neural network. From the results of the validation data set, it can be concluded that the proposed models have sufficient accuracy that can be used in a computationally efficient design optimization process of a large-scale RA design.
+ER  - 
+
+TY  - JOUR
+T1  - Life cycle assessment of emerging technologies: A review
+AU  - Moni, Sheikh Moniruzzaman
+AU  - Mahmud, Roksana
+AU  - High, Karen
+AU  - Carbajales-Dale, Michael
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - doi: 10.1111/jiec.12965
+DO  - 10.1111/jiec.12965
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 52
+EP  - 63
+VL  - 24
+IS  - 1
+KW  - emerging technology
+KW  - ex ante LCA
+KW  - industrial ecology
+KW  - life cycle assessment (LCA)
+KW  - technoeconomic analysis (TEA)
+KW  - technology readiness level (TRL)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1111/jiec.12965
+UR  - https://doi.org/10.1111/jiec.12965
+Y2  - 2020/10/28
+N2  - Abstract In recent literature, prospective application of life cycle assessment (LCA) at low technology readiness levels (TRL) has gained immense interest for its potential to enable development of emerging technologies with improved environmental performances. However, limited data, uncertain functionality, scale up issues and uncertainties make it very challenging for the standard LCA guidelines to evaluate emerging technologies and requires methodological advances in the current LCA framework. In this paper, we review published literature to identify major methodological challenges and key research efforts to resolve these issues with a focus on recent developments in five major areas: cross-study comparability, data availability and quality, scale-up issues, uncertainty and uncertainty communication, and assessment time. We also provide a number of recommendations for future research to support the evaluation of emerging technologies at low technology readiness levels: (a) the development of a consistent framework and reporting methods for LCA of emerging technologies; (b) the integration of other tools with LCA, such as multicriteria decision analysis, risk analysis, technoeconomic analysis; and (c) the development of a data repository for emerging materials, processes, and technologies.
+ER  - 
+
+TY  - JOUR
+T1  - A simplified neutrosophic multiplicative set-based TODIM using water-filling algorithm for the determination of weights
+AU  - Köseoğlu, Ali
+AU  - Şahin, Rıdvan
+AU  - Merdan, Mehmet
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1111/exsy.12515
+DO  - 10.1111/exsy.12515
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12515
+VL  - 37
+IS  - 4
+KW  - aggregation operators
+KW  - decision making
+KW  - decision support systems
+KW  - distance measure
+KW  - simplified neutrosophic multiplicative number
+KW  - simplified neutrosophic multiplicative set
+KW  - TODIM
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1111/exsy.12515
+UR  - https://doi.org/10.1111/exsy.12515
+Y2  - 2020/10/28
+N2  - Abstract Due to the technological developments around the world, the amount of information that researchers work on increases continuously. This information density contains incomplete and uncertain data that cannot be fully expressed with crisp numbers. Fuzzy sets, intuitionistic fuzzy sets, and neutrosophic sets are useful tools to manage such information, but these concepts use a symmetrical and uniform scale to express data, whereas real-life problems contain nonsymmetrical and non-uniform information. Intuitionistic multiplicative sets (IMSs) are effective tools for dealing with these real-life problems. However, IMSs cannot handle real-life problems completely because indeterminate information depends on membership and non-membership information of IMSs, which is a restriction for decision makers and also for decision problems. To overcome this limitation, this paper generalizes the IMSs by using simplified neutrosophic set and introduces a novel approach that is called simplified neutrosophic multiplicative sets (SNMSs). Firstly, we define SNMS, show their set-based operations, and then give a description of simplified neutrosophic multiplicative numbers (SNMNs). Based on SNMNs, we develop two simplified neutrosophic multiplicative aggregation operators on SNMNs that are called simplified neutrosophic multiplicative weighted arithmetic average operator and simplified neutrosophic multiplicative weighted geometric average operator. Furthermore, we define some simplified neutrosophic multiplicative distance measures. Finally, using a model based on water-filling algorithm for determining criteria weights, we give a numerical example to demonstrate the effectiveness of the introduced concept with the proposed simplified neutrosophic multiplicative simplified neutrosophic multiplicative-TODIM method.
+ER  - 
+
+TY  - JOUR
+T1  - The interval-valued hesitant Pythagorean fuzzy set and its applications with extended TOPSIS and Choquet integral-based method
+AU  - Wang, Lina
+AU  - Wang, Hai
+AU  - Xu, Zeshui
+AU  - Ren, Zhiliang
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - doi: 10.1002/int.22086
+DO  - 10.1002/int.22086
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 1063
+EP  - 1085
+VL  - 34
+IS  - 6
+KW  - Choquet integral-based method
+KW  - interval-valued hesitant Pythagorean fuzzy set (IVHPFS)
+KW  - multiple-criteria decision making (MCDM)
+KW  - technique for order preference by similarity to ideal solution (TOPSIS)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1002/int.22086
+UR  - https://doi.org/10.1002/int.22086
+Y2  - 2020/10/28
+N2  - Abstract The hesitant Pythagorean fuzzy set is frequently considered as a solution for decision making under uncertainty. Whereas the representation of uncertain information might be not sufficient in the hesitant Pythagorean fuzzy environment, thus the concept of interval-valued hesitant Pythagorean fuzzy sets (IVHPFSs) is proposed. Specifically, we first propose the concept of IVHPFSs and then study the operational rules and distance measures of IVHPFSs in detail. To ease the possible application, we explore two decision-making processes in the setting of IVHPFSs by drawing support from the technique for order preference by similarity to ideal solution and Choquet integral-based method. Finally, the selecting processes of project private partner are also presented to demonstrate the decision-making processes based on IVHPFSs and compared with some similar techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Selecting the most suitable classification algorithm for supporting assistive technology adoption for people with dementia: A multicriteria framework
+AU  - Ortiz-Barrios, Miguel
+AU  - Nugent, Chris
+AU  - Cleland, Ian
+AU  - Donnelly, Mark
+AU  - Verikas, Antanas
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1002/mcda.1678
+DO  - 10.1002/mcda.1678
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 20
+EP  - 38
+VL  - 27
+IS  - 1-2
+KW  - assistive technology
+KW  - classifier
+KW  - dementia
+KW  - FAHP
+KW  - TOPSIS
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1002/mcda.1678
+UR  - https://doi.org/10.1002/mcda.1678
+Y2  - 2020/10/28
+N2  - Abstract The number of people with dementia (PwD) is increasing dramatically. PwD exhibit impairments of reasoning, memory, and thought that require some form of self-management intervention to support the completion of everyday activities while maintaining a level of independence. To address this need, efforts have been directed to the development of assistive technology solutions, which may provide an opportunity to alleviate the burden faced by the PwD and their carers. Nevertheless, uptake of such solutions has been limited. It is therefore necessary to use classifiers to discriminate between adopters and nonadopters of these technologies in order to avoid cost overruns and potential negative effects on quality of life. As multiple classification algorithms have been developed, choosing the most suitable classifier has become a critical step in technology adoption. To select the most appropriate classifier, a set of criteria from various domains need to be taken into account by decision makers. In addition, it is crucial to define the most appropriate multicriteria decision-making approach for the modelling of technology adoption. Considering the above-mentioned aspects, this paper presents the integration of a five-phase methodology based on the Fuzzy Analytic Hierarchy Process and the Technique for Order of Preference by Similarity to Ideal Solution to determine the most suitable classifier for supporting assistive technology adoption studies. Fuzzy Analytic Hierarchy Process is used to determine the relative weights of criteria and subcriteria under uncertainty and Technique for Order of Preference by Similarity to Ideal Solution is applied to rank the classifier alternatives. A case study considering a mobile-based self-management and reminding solution for PwD is described to validate the proposed approach. The results revealed that the best classifier was k-nearest-neighbour with a closeness coefficient of 0.804, and the most important criterion when selecting classifiers is scalability. The paper also discusses the strengths and weaknesses of each algorithm that should be addressed in future research.
+ER  - 
+
+TY  - JOUR
+T1  - A geographic information system-based model for economical and eco-friendly high-speed railway route determination using analytic hierarchy process and least-cost-path analysis
+AU  - Yildirim, Volkan
+AU  - Bediroglu, Sevket
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - doi: 10.1111/exsy.12376
+DO  - 10.1111/exsy.12376
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12376
+VL  - 36
+IS  - 3
+KW  - AHP
+KW  - GIS
+KW  - route selection
+KW  - software engineering
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119534860
+M3  - doi: 10.1111/exsy.12376
+UR  - https://doi.org/10.1111/exsy.12376
+Y2  - 2020/10/28
+N2  - Abstract In this study, geographic information system (GIS)-based network analysis and analytic hierarchy process (AHP) methods were applied to the Erzincan?Trabzon segment of the Turkish high-speed railway (HSR) project. A new hybrid route, which considers both economic and environmental criteria, was created and compared with three different routes from various preconstruction studies. The route-generating analysis included the eight parameters (criteria) of slope, geology, soil quality, rivers, protected areas, roads, land cover, and lakes. The optimum route for connecting the port of Trabzon to Turkey's interior via HSR was generated. The weights for determining the route were tested for sensitivity. The study demonstrated the efficiency of GIS and AHP integration in generating optimum routes for HSR projects according to given databases. All these GIS and AHP analyses were applied automatically with our novel GIS extension for determining optimum HSR routes. The final route has preserved cultural and historical structures, environmental integrity. The new hybrid route also decreased construction costs by approximately 12%, and the least-cost-path analysis confirmed the environmental efficiency of the route.
+ER  - 
+
+AU  - Gatto, Nicolle M.
+AU  - Sobel, Rachel E.
+AU  - Geier, Jamie
+AU  - Mo, Jingping
+AU  - Bate, Andrew
+AU  - Reynolds, Robert F.
+PY  - 2019
+Y1  - 2019/06/01
+DA  - 2019/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119413431.ch7
+UR  - https://doi.org/10.1002/9781119413431.ch7
+N1  - doi:10.1002/9781119413431.ch7
+M3  - doi:10.1002/9781119413431.ch7
+N2  - Summary This chapter discusses the specific application of pharmacoepidemiology to safety assessments and the evaluation of risk mitigation interventions from the perspective of epidemiologists working within the biopharmaceutical industry. Pharmacoepidemiology is a constantly evolving field from both a scientific and regulatory standpoint. Epidemiology has become increasingly important to risk management over the last four decades. The Food and Drug Administration Amendment Act in 2007 and the European Union Pharmacovigilance Regulation No. 1235/2010 have further solidified epidemiology's role in informing the benefit/risk of medicines throughout the development life cycle. Contributions of epidemiology during pre- and postapproval phases are described and illustrated through case studies.
+SP  - 98-125
+KW  - pharmacoepidemiology
+KW  - risk management
+KW  - safety assessment
+KW  - evaluation of risk mitigation interventions
+KW  - risk evaluation and mitigation strategies (REMS)
+KW  - Food and Drug Administration Amendment Act (FDAAA)
+KW  - pharmacoepidemiology study designs
+KW  - pharmacoepidemiology study data sources
+KW  - preapproval epidemiology
+KW  - postapproval epidemiology
+KW  - real-world data
+KW  - real-world evidence
+KW  - Big Data
+T1  - The Role of Pharmacoepidemiology in Industry
+T2  - Pharmacoepidemiology
+T3  - Wiley Online Books
+SN  - 9781119413431
+
+TY  - JOUR
+T1  - Target setting with minimum improving costs in data envelopment analysis: A mixed integer linear programming approach
+AU  - Ang, Sheng
+AU  - An, Qingxian
+AU  - Yang, Feng
+AU  - Ji, Xiang
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - doi: 10.1111/exsy.12408
+DO  - 10.1111/exsy.12408
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12408
+VL  - 36
+IS  - 4
+KW  - closest targets
+KW  - data envelopment analysis
+KW  - mixed integer linear programming
+KW  - non-oriented model
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/exsy.12408
+UR  - https://doi.org/10.1111/exsy.12408
+Y2  - 2020/10/28
+N2  - Abstract This study addresses a problem called cost-minimizing target setting in data envelopment analysis (DEA) methodology. The problem is how to make an inefficient decision-making unit efficient by allocating to it as few organizational resources as possible, assuming that the marginal costs of reducing inputs or increasing outputs are known and available, which is different from previous furthest and closest DEA targets setting methods. In this study, an existed cost minimizing target setting heuristics approach based on input-oriented model is examined to show that there exist some limitations. This study develops a simple mixed integer linear programming to determine the desired targets on the strongly efficient frontier based on non-oriented DEA model considering the situation in the presence of known marginal costs of reducing inputs and increasing outputs simultaneously. Some experiments with the simulated datasets are conducted, and results show that the proposed model can obtain more accurate projections with lower costs compared with those from furthest and closest target setting approaches. Besides, the proposed model can be realistic and efficient in solving cost-minimizing target setting problem.
+ER  - 
+
+TY  - JOUR
+T1  - Improving the risk management of Type 2 diabetes mellitus in China from the perspective of social relationships
+AU  - Wang, Xiaojia
+AU  - Chen, Mi
+AU  - Xia, Wei
+AU  - Zhu, Keyu
+AU  - Zhang, Shanshan
+AU  - Xu, Weiqun
+AU  - Guan, Yuxiang
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1111/exsy.12484
+DO  - 10.1111/exsy.12484
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12484
+VL  - 37
+IS  - 2
+KW  - decision analysis
+KW  - entropy
+KW  - expert judgement
+KW  - expert system based on analytical network process
+KW  - health services
+KW  - social relationships
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/exsy.12484
+UR  - https://doi.org/10.1111/exsy.12484
+Y2  - 2020/10/28
+N2  - Abstract In China, Type 2 diabetes mellitus (T2DM) is increasingly affecting people's health. Although many risk factors related to T2DM have been researched, the association between social relationships and risk management of T2DM in China has not been fully researched. Therefore, we obtained 2,969 valid cases from the National Chinese Medicine Clinical Research Base-Key Disease of Diabetes Mellitus Study to evaluate the role of social relationships in the risk management of T2DM. We first establish an indicators system of social relationship factors and then propose a comprehensive method that integrates subjective (analytical network process) and objective (entropy weight method) evaluations to rank the importance of the 17 social relationship factors that were the most important and commonly used. The results suggest that different social relationship factors have different effects on the risk management of T2DM. Patients and health workers should pay more attention to the high-benefit factors and thus improve the efficiency of the risk management of T2DM. These findings provided theoretical support for patients and health workers by developing the positive effects of social relationships in improving the risk management of T2DM to the fullest degree.
+ER  - 
+
+TY  - JOUR
+T1  - Emergency decision making with extended axiomatic design approach under picture fuzzy environment
+AU  - Ding, Xue-Feng
+AU  - Zhang, Ling
+AU  - Liu, Hu-Chen
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1111/exsy.12482
+DO  - 10.1111/exsy.12482
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12482
+VL  - 37
+IS  - 2
+KW  - axiomatic design principles
+KW  - emergency decision making
+KW  - picture fuzzy set (PiFS)
+KW  - projection method
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/exsy.12482
+UR  - https://doi.org/10.1111/exsy.12482
+Y2  - 2020/10/28
+N2  - Abstract Timely and effective emergency decision making (EDM) is the key to control the spread of disasters and reduce the casualties and property losses caused by emergencies. However, due to limited time and insufficient data, it is difficult for decision makers to provide accurate information about emergency incidents. Moreover, the EDM problems become complicated and unstructured requiring the deployment of advanced mathematical techniques to derive the most acceptable response. In this paper, we propose a new EDM approach by using picture fuzzy sets and axiomatic design technique for determining the optimal rescue plan to reduce the damages of emergencies. The contribution of this paper is to apply the picture fuzzy sets to handle the uncertainty and ambiguity of decision makers' assessments on emergency alternatives, apply the picture fuzzy hybrid averaging operator to aggregate decision makers' opinions into a group evaluation matrix and extend the axiomatic design technique to identify the best emergency solution for EDM. Finally, a real example is provided, and the result is compared with existing methods to demonstrate the feasibility and practicability of our proposed EDM approach.
+ER  - 
+
+TY  - JOUR
+T1  - Identification and prioritization of construction projects investment risks using a hybrid fuzzy approach
+AU  - Gharanfoli, Bardeya
+AU  - Valmohammadi, Changiz
+Y1  - 2019/05/01
+PY  - 2019
+DA  - 2019/05/01
+N1  - doi: 10.1002/mcda.1661
+DO  - 10.1002/mcda.1661
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 113
+EP  - 127
+VL  - 26
+IS  - 3-4
+KW  - construction projects
+KW  - FDANP hybrid model
+KW  - fuzzy analytic network process (FANP)
+KW  - fuzzy DEMATEL
+KW  - investment risk
+KW  - Iran
+KW  - multicriteria decision-making (MCDM)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/mcda.1661
+UR  - https://doi.org/10.1002/mcda.1661
+Y2  - 2020/10/28
+N2  - Abstract Lack of sufficient knowledge of the project environment can increase investment risks. Accordingly, the identification, grading, and management of risks are essential to project success. Risk identification is an accurate, detailed, and probing process that identifies risks during project life cycle by interacting with individuals and experts. Because risks constantly recur and change during project life cycle, risk identification is an essential and iterative process in all project phases. So, this study aims to identify and prioritise construction projects risks using a hybrid quantitative approach, namely, Fuzzy Decision Making and Trial Evaluation Laboratory (FDEMATEL) and Fuzzy Analytic Network Process (FANP) techniques. After review of the relevant literature and classification of the identified investment risks into three main risks, the above-mentioned techniques were applied. Results revealed that systemic risk is the most influential factor whereas environmental risk is the most permeable factor among the main criteria. The highest weight belongs to the business risk factor whereas the lowest weight belongs to systemic risk. These were the most and least important factors of the risks involved in construction projects from the perspective of the experts.
+ER  - 
+
+TY  - JOUR
+T1  - Ranking manufacturing processes from the quality management perspective in the automotive industry
+AU  - Nestic, Snezana
+AU  - Lampón, Jesús F.
+AU  - Aleksic, Aleksandar
+AU  - Cabanelas, Pablo
+AU  - Tadic, Danijela
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - doi: 10.1111/exsy.12451
+DO  - 10.1111/exsy.12451
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12451
+VL  - 36
+IS  - 6
+KW  - automotive industry
+KW  - ELECTRE III
+KW  - fuzzy group decision making
+KW  - fuzzy sets
+KW  - quality performance
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/exsy.12451
+UR  - https://doi.org/10.1111/exsy.12451
+Y2  - 2020/10/28
+N2  - Abstract The aim of this study is to propose a fuzzy decision-making model to rank manufacturing processes from the quality management perspective in the automotive industry. This paper proposes a model for improving quality management through the assessment and ranking of manufacturing subprocesses with respect to key performance indicators (KPIs). The developed model, supported with the fuzzy extended ELECTRE III, allows for the determination of subprocesses' rank. An illustrative example indicates that the proposed model could be very useful in everyday business operations as total quality management asset. The model can handle all uncertain and vague input data by applying the theory of fuzzy sets. The research also suggests different managerial implications because it provides an adequate tool for overall quality improvement. The number of treated KPIs is relatively high, so ELECTRE III method gives an advantage over other multicriteria analysis methods because it embraces less subjective thinking and demands slightly less experts' knowledge during the process of decision making and assessment.
+ER  - 
+
+TY  - JOUR
+T1  - A two-stage fuzzy approach for Industry 4.0 project portfolio selection within criteria and project interdependencies context
+AU  - Demircan Keskin, Fatma
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1002/mcda.1691
+DO  - 10.1002/mcda.1691
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 65
+EP  - 83
+VL  - 27
+IS  - 1-2
+KW  - analytic network process
+KW  - fuzzy analytic network process
+KW  - fuzzy multi-objective nonlinear programming
+KW  - Industry 4.0
+KW  - project portfolio selection
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/mcda.1691
+UR  - https://doi.org/10.1002/mcda.1691
+Y2  - 2020/10/28
+N2  - Abstract Industry 4.0, the new vision of our age has forced companies to transform their processes. In the process of transition to Industry 4.0, one of the most crucial success factors is to select the project portfolio that best fits their objectives. The uncertainty included in the projects, the interproject priority, and various interdependence relations, interactions between project evaluation criteria, decision makers with different perspectives, and preferences make Industry 4.0 project portfolio selection decision considerably complicated. In this study, a two-stage fuzzy approach is proposed to address this complex problem. In the first stage of the approach, the main criteria and subcriteria to be used in evaluating the Industry 4.0 projects have been determined based on the literature review and expert opinions. Following this, a network structure representing outer and inner dependencies has been formed, and the priority weights of the criteria have been obtained by taking into consideration these dependencies. Then, each of the project alternatives has been evaluated under subcriteria, and desirability indexes of project alternatives have been calculated. Fuzzy analytic network process has been applied in this stage. In the second stage, fuzzy multi-objective nonlinear programming has been used to select a project portfolio. In the application of the first stage of the proposed methodology, experts from three firms, which have made significant progress in the Industry 4.0 implementation process, are the decision makers. In the application of the second stage, hypothetically created project alternatives and their dataset have been used.
+ER  - 
+
+TY  - JOUR
+T1  - Group multigranular linguistic QFD for prioritizing service designs with combined weighting method
+AU  - Tian, Zhang-peng
+AU  - Nie, Ru-xin
+AU  - Wang, Jian-qiang
+AU  - Li, Lin
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - doi: 10.1111/exsy.12419
+DO  - 10.1111/exsy.12419
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12419
+VL  - 36
+IS  - 4
+KW  - best worst method
+KW  - consensus
+KW  - group decision making
+KW  - quality function deployment
+KW  - service management
+KW  - unbalanced linguistic term set
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/exsy.12419
+UR  - https://doi.org/10.1111/exsy.12419
+Y2  - 2020/10/28
+N2  - Abstract Qualification for the importance degree of service designs (SDs) is an essential stage in promoting accommodation performances to satisfy customers and gain market shares. Although various methods have been applied to derive the priorities of SDs, they do not effectively deal with the vagueness of information and the heterogeneity of decision makers (DMs). This study presents an improved quality function deployment (QFD) for prioritizing SDs. Multigranular unbalanced linguistic term sets are used to capture evaluators' ratings to cope with vague information. The multigranular linguistic information is unified by using a novel uniform method. This kind of information then is represented as linguistic distribution assessments using the concept of random preferences based on possibility interpretations of weight information. A consensus-based mathematical programming model is established to determine the weights of DMs. Moreover, a combined structure that combines maximizing deviation and best worst methods is used to derive basic weights of SDs. Finally, an illustrative example of island accommodation management in Weizhou Island is provided to demonstrate the applicability and advantages of the proposed QFD framework.
+ER  - 
+
+TY  - JOUR
+T1  - Analyzing the factors affecting environmental risks of projects using a hybrid approach of DEMATEL-ANP, artificial neural network: A case study
+AU  - Ershadi, Mohammad Javad
+AU  - Ashtiyani, Fatemeh Karimi
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/tqem.21647
+DO  - 10.1002/tqem.21647
+T2  - Environmental Quality Management
+JF  - Environmental Quality Management
+JO  - Environmental Quality Management
+JA  - Environmental Quality Management
+SP  - 77
+EP  - 88
+VL  - 29
+IS  - 1
+KW  - DEMATEL
+KW  - environmental risk management
+KW  - fuzzy hierarchical analysis
+KW  - neural network algorithm
+KW  - optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/tqem.21647
+UR  - https://doi.org/10.1002/tqem.21647
+Y2  - 2020/10/28
+N2  - Abstract The increasing growth of the economy in each country necessitates a great amount of investment in infrastructure. The belief that projects involve various uncertainties, such as technical skills, management quality, and the like, indicates that most projects fail to achieve their aims, interests, costs, as well as their timeframes and space requirements. As the environment can pose significant uncertainty to any project, environmental risks should be deeply studied by project management departments. This study intends to analyze as a case the environmental risk management system within a consulting firm. From this analysis, each aspect of a project's environmental risk management is ranked using a fuzzy analytical network process (ANP), a neural network algorithm, and a decision-making trial and evaluation laboratory (DEMATEL) methodology. From the organizational aspect, budget risk is the most significant. From the technical aspect, the risk of regulations is the most important one. Finally, the risk of project failure from poor communication is another identified main risk in this research. By studying high-ranking items in this hierarchy, it can be understood that these criteria exist in different aspects; therefore, all aspects of the risk should be taken into account to cover and assess risk. A neural network algorithm for validating and reassessment of ranking is employed. Results of this application showed that, based on Spearman's rank correlation method, two different approaches resulted in similar rankings. Finally, some practical implications for responding to the most highly ranked risks are proposed.
+ER  - 
+
+TY  - JOUR
+T1  - Issue Information
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/int.22021
+DO  - 10.1002/int.22021
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 1983
+EP  - 1984
+VL  - 34
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/int.22021
+UR  - https://doi.org/10.1002/int.22021
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Issue Information
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - doi: 10.1002/int.22024
+DO  - 10.1002/int.22024
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 3121
+EP  - 3122
+VL  - 34
+IS  - 12
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/int.22024
+UR  - https://doi.org/10.1002/int.22024
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Tools for promoting industrial symbiosis: A systematic review
+AU  - Yeo, Zhiquan
+AU  - Masi, Donato
+AU  - Low, Jonathan Sze Choong
+AU  - Ng, Yen Ting
+AU  - Tan, Puay Siew
+AU  - Barnes, Stuart
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - doi: 10.1111/jiec.12846
+DO  - 10.1111/jiec.12846
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 1087
+EP  - 1108
+VL  - 23
+IS  - 5
+KW  - circular economy
+KW  - industrial ecology
+KW  - industrial symbiosis
+KW  - recycling
+KW  - sustainability
+KW  - waste management
+KW  - Ecological Economics: Ecosystem Services
+KW  - Biodiversity Conservation
+KW  - Bioeconomics
+KW  - Industrial Ecology
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/jiec.12846
+UR  - https://doi.org/10.1111/jiec.12846
+Y2  - 2020/10/28
+N2  - Abstract Industrial symbiosis (IS) employs a cross-organizational perspective to seek synergistic pairings of one company's waste output to another company's input, enabled by interfirm cooperation through resource and information sharing. Orchestrating IS relationships among companies, however, remains a complex process. In the literature, a wide range of qualitative and quantitative tools have emerged, tackling issues ranging from identifying IS creation opportunities to performance evaluation. Thus far, the available literature has focused on separate aspects and perspective of IS creation. Each individual work contributes, in part, to the overall process of IS creation. The disparate perspectives provided by the literature reflect the fragmented nature of available tools supporting IS, which operate in isolation of each other. An encompassing view of tools supporting the process of IS creation is missing to date. Therefore, to fill this gap, this study aims to develop a more comprehensive description of the landscape of IS tools by analyzing the associated approaches, roles, and contribution of existing tools. Through this understanding, the insights gained can be used to aid future development and advancement of tools for IS practitioners.
+ER  - 
+
+TY  - JOUR
+T1  - Ten years later: The progress and future of integrating sustainable principles, practices, and metrics into remediation projects
+AU  - Favara, Paul
+AU  - Raymond, Dick
+AU  - Ambrusch, Matthew
+AU  - Libera, Arianna
+AU  - Wolf, Gerlinde
+AU  - Simon, John A.
+AU  - Maco, Barbara
+AU  - Collins, Elizabeth R.
+AU  - Harclerode, Melissa A.
+AU  - McNally, Amanda D.
+AU  - Ridsdale, Reanne
+AU  - Smith, Maile
+AU  - Howard, Lyndsey
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/rem.21612
+DO  - 10.1002/rem.21612
+T2  - Remediation Journal
+JF  - Remediation Journal
+JO  - Remediation Journal
+JA  - Remediation
+SP  - 5
+EP  - 30
+VL  - 29
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/rem.21612
+UR  - https://doi.org/10.1002/rem.21612
+Y2  - 2020/10/28
+N2  - Abstract In 2009, the Sustainable Remediation Forum released a white paper entitled ?Integrating sustainable principles, practices, and metrics into remediation projects? (Ellis & Hadley, 2009, Remediation, 19, pp. 5?114). Sustainable remediation was a relatively new concept, and the white paper explored a range of approaches on how sustainability could be integrated into traditional remediation projects. This paper revisits the 2009 white paper, providing an overview of the early days of the evolving sustainable remediation practice and an assessment of the progress of sustainable remediation over the last 10 years with a primary focus on the United States. The current state of the sustainable remediation practice includes published literature, current practices and resources, applications, room for improvement, international progress, the virtuous cycle that applying sustainable remediation creates, and the status of the objectives cited in the 2009 white paper. Over the last decade, several sustainable remediation frontiers have emerged that will likely be a focus in advancing the practice. These frontiers include climate change and resiliency, weighting and valuation to help better consolidate different sustainable remediation metrics, programmatic implementation, and better integration of the societal impacts of sustainable remediation. Finally, as was the case for the 2009 white paper, this paper explores how sustainable remediation may evolve over the next 10 years and focuses on the events and drivers that can be significant in the pace of further development of the practice. The events and drivers include transformation impacts, societal influences, and the continued development of new technologies, approaches, and tools by remediation practitioners. The remediation industry has made significant progress in developing the practice of sustainable remediation and has implemented it successfully into hundreds of projects. While progress has been significant, an opportunity exists to implement the tenets of sustainable remediation on many more projects and explore new frontiers to help improve the communication, integration, and derived benefits from implementing sustainable remediation into future remediation projects.
+ER  - 
+
+TY  - JOUR
+T1  - EFSA's activities on emerging risks in 2018
+AU  - European Food Safety Authority (EFSA)
+AU  - Afonso, Ana
+AU  - Garcia Matas, Raquel
+AU  - Maggiore, Angelo
+AU  - Merten, Caroline
+AU  - Yin, Anran
+AU  - Robinson, Tobin
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - doi: 10.2903/sp.efsa.2019.EN-1704
+DO  - 10.2903/sp.efsa.2019.EN-1704
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 1704E
+VL  - 16
+IS  - 8
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.2903/sp.efsa.2019.EN-1704
+UR  - https://doi.org/10.2903/sp.efsa.2019.EN-1704
+Y2  - 2020/10/28
+N2  - The main objectives of EFSA's activities on emerging risks are:(i) to identify emerging risks in the areas within the remit of EFSA;and (ii) to develop and improve emerging risk identification methodologies and approaches. The current technical report summarises the activities of all groups involved in the emerging risk identification procedure, the issues identified in the course of 2018, a description of methodologies being developed and collaborative activities. EFSA networks of knowledge contributing to the emerging risks identification activity include the Emerging Risks Exchange Network, the StakeholderDiscussion Group on Emerging Risks, EFSA's scientific units, scientific panels and the Scientific Committee and its working groups. Summaries of emerging risk identification procedures in use by different stakeholders are presented.In total, 18 potential emerging issues were discussed in 2018. The issues were classified according to hazard [microbiological hazard (10), chemical hazard (2), other (e.g. antimicrobial resistance and allergies) (1)] and/or the driver underlying the emerging issues identified [illegal activity (2), new consumer trends (2), climate changerelated (1) and new process or technology (3)]. The Standing Working Group Emerging Risks revised the Emerging Risks identification process to better describe the role of EFSA networks of knowledge in identifying potential issues, the drafting and reviewing briefing notes by consultation with different stakeholders and the characterisation of issues by the already established criteria (novelty, soundness severity imminence and scale), but also byproviding clear recommendations to other stakeholders. Communication is a fundamental part of the emerging risk identification procedure. The results of the EU insights study did not indicate that emerging risks triggered significantly greater levels of concern to the public than established risks and suggested that by communicating information about the nature of the risk and the level of uncertainty that surrounds it, a proportionate perception of risk is achieved. Food fraud was of greater concern to consumers than other types of emerging risks. Food fraud can be an important driver for food safety emerging risks and it is important to better integrate risk assessment work on food safety into food fraud investigations. The review of the emerging risk identification (ERI) procedure conducted by the SWG-ER provided conclusions and recommendations that will guide the future developments of the procedure in alignment with EFSA strategic objectives
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy logic–based clinical decision support system for the evaluation of renal function in post-Transplant Patients
+AU  - Improta, Giovanni
+AU  - Mazzella, Valeria
+AU  - Vecchione, Donatella
+AU  - Santini, Stefania
+AU  - Triassi, Maria
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1111/jep.13302
+DO  - 10.1111/jep.13302
+T2  - Journal of Evaluation in Clinical Practice
+JF  - Journal of Evaluation in Clinical Practice
+JO  - Journal of Evaluation in Clinical Practice
+JA  - J Eval Clin Pract
+SP  - 1224
+EP  - 1234
+VL  - 26
+IS  - 4
+KW  - clinical decision support systems
+KW  - fuzzy logic
+KW  - health care decision problems
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/jep.13302
+UR  - https://doi.org/10.1111/jep.13302
+Y2  - 2020/10/28
+N2  - Abstract Objectives In the context of the gradual development of artificial intelligence in health care, the clinical decision support systems (CDSS) play an increasing crucial role in improving the quality of the therapeutic and diagnostic efficiency in health care. The fuzzy logic (FL) provides an effective means for dealing with uncertainties in the health decision-making process; therefore, FL-based CDSS becomes a very powerful tool for data and knowledge management, being able to think like an expert clinician. This work proposes an FL-based CDSS for the evaluation of renal function in posttransplant patients. Method Based on the data provided by the Department of Nephrology of the University Hospital Federico II of Naples, a statistical sample is selected according to appropriate inclusion criteria. Four fuzzy inference systems are implemented monitoring the renal function by the level of proteinuria and the glomerular filtration rate (GFR). Results The systems show an accuracy of more than 90% and the outputs are provided through easy to read graphics, so that physicians can intuitively monitor the patient's clinical status, with the objective to improve drugs dosage and reduce medication errors. Conclusions We propose that the CDSSs for the assessment and follow-up of kidney-transplanted patients built in this study are applicable to clinical practice.
+ER  - 
+
+TY  - JOUR
+T1  - Issue Information
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/spe.2618
+DO  - 10.1002/spe.2618
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 1329
+EP  - 1330
+VL  - 49
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/spe.2618
+UR  - https://doi.org/10.1002/spe.2618
+Y2  - 2020/10/28
+N2  - No abstract is available for this article.
+ER  - 
+
+TY  - JOUR
+T1  - Rank-based analysis method to determine OWA weights and its application in group decision making
+AU  - Gong, Chengju
+AU  - Li, Weiwei
+AU  - Yi, Pingtao
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - doi: 10.1002/int.22116
+DO  - 10.1002/int.22116
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - J. Intell. Syst
+SP  - 1685
+EP  - 1699
+VL  - 34
+IS  - 7
+KW  - group decision making
+KW  - group judgment matrix
+KW  - importance ratio
+KW  - OWA operator
+KW  - rank-based analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/int.22116
+UR  - https://doi.org/10.1002/int.22116
+Y2  - 2020/10/28
+N2  - Abstract To determine the weights of the ordered weighted averaging (OWA) operator, a new approach that is termed as rank-based analysis method with subjective information is developed. Available information called importance ratio that is obtained by subjective judgment of expert(s) is used in the OWA weights determination. The proposed approach is further extended to the situation of group decision making and is also used to obtain the weights of experts in this situation. In this case, the final OWA weights are obtained through a complete consistent group judgment matrix. Finally, a numerical example regarding the selection of the optimal R&D personnel is given to illustrate the application of the new method in group decision making.
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric mixed-scale models using shared Bayesian forests
+AU  - Linero, Antonio R.
+AU  - Sinha, Debajyoti
+AU  - Lipsitz, Stuart R.
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - doi: 10.1111/biom.13107
+DO  - 10.1111/biom.13107
+T2  - Biometrics
+JF  - Biometrics
+JO  - Biometrics
+JA  - Biometrics
+SP  - 131
+EP  - 144
+VL  - 76
+IS  - 1
+KW  - Bayesian additive regression trees
+KW  - heteroskedastic errors
+KW  - hurdle models
+KW  - nonparametric Bayes
+KW  - variable selection
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/biom.13107
+UR  - https://doi.org/10.1111/biom.13107
+Y2  - 2020/10/28
+N2  - Abstract This paper demonstrates the advantages of sharing information about unknown features of covariates across multiple model components in various nonparametric regression problems including multivariate, heteroscedastic, and semicontinuous responses. In this paper, we present a methodology which allows for information to be shared nonparametrically across various model components using Bayesian sum-of-tree models. Our simulation results demonstrate that sharing of information across related model components is often very beneficial, particularly in sparse high-dimensional problems in which variable selection must be conducted. We illustrate our methodology by analyzing medical expenditure data from the Medical Expenditure Panel Survey (MEPS). To facilitate the Bayesian nonparametric regression analysis, we develop two novel models for analyzing the MEPS data using Bayesian additive regression trees?a heteroskedastic log-normal hurdle model with a ?shrink-toward-homoskedasticity? prior and a gamma hurdle model.
+ER  - 
+
+AU  - Kabir, Golam
+AU  - Tesfamariam, Solomon
+AU  - Sadiq, Rehan
+PY  - 2020
+Y1  - 2020/03/01
+DA  - 2020/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119300762.wsts0178
+UR  - https://doi.org/10.1002/9781119300762.wsts0178
+N1  - doi:10.1002/9781119300762.wsts0178
+M3  - doi:10.1002/9781119300762.wsts0178
+N2  - Abstract Health, safety, and economic prosperity of the citizens of any country are ensured with services provided by core public infrastructures such as water, roads, transit, bridges, and wastewater. The water infrastructures are linear systems, among the most important and expensive municipal infrastructure assets. Maintaining integrity and reliability of water infrastructures is the primary goal of water utilities, governmental agencies, and other stakeholders. It has been quite challenging to maintain the integrity and reliability of water infrastructures because of the aging, aggressive environmental factors, climate change, improper maintenance and renewal, and resource shortages. In this article, the asset management framework for the water infrastructures has been discussed. The main objective of the asset management framework is to provide a desired level of service at a minimum cost. The asset management framework will provide the water utility with the capacity to make informed decisions based on the current and anticipated future performance of the asset. This framework will also help the water utility to improve strategic, tactical, and operational planning-level decisions considering different dimensions of analysis such as performance, risk, and cost analysis.
+SP  - 1-12
+KW  - asset management
+KW  - water supply system
+KW  - condition assessment
+KW  - risk management
+KW  - decision-making
+T1  - Water Infrastructure and Asset Management
+T2  - Encyclopedia of Water
+T3  - Major Reference Works
+SN  - 9781119300762
+
+TY  - JOUR
+T1  - CROSA: Context-aware cloud service ranking approach using online reviews based on sentiment analysis
+AU  - Ben-Abdallah, Emna
+AU  - Boukadi, Khouloud
+AU  - Lloret, Jaime
+AU  - Hammami, Mohamed
+Y1  - 2019/05/24
+PY  - 2019
+DA  - 2019/05/24
+N1  - doi: 10.1002/cpe.5358
+DO  - 10.1002/cpe.5358
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5358
+VL  - n/a
+IS  - n/a
+KW  - cloud service ranking
+KW  - context
+KW  - intuitionistic fuzzy set
+KW  - online reviews
+KW  - sentiment analysis
+KW  - SMI
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119300762
+M3  - doi: 10.1002/cpe.5358
+UR  - https://doi.org/10.1002/cpe.5358
+Y2  - 2020/10/28
+N2  - Summary The explosion of cloud services over the Internet has raised new challenges in cloud service selection and ranking. The existence of a great variety of offered cloud services made the users think deeply about the most appropriate services that meet their needs and at the same time are adaptable to their context. Nowadays, online reviews are used for the purpose of enhancing the effectiveness of finding useful product information, having impact on the consumers' decision-making process. In this context, the current paper suggests a context-aware cloud service ranking approach using online reviews and based on sentiment analysis (CROSA). Its main objective is to ease the cloud service selection. The CROSA approach analyzes sentiments associated with service measurement index (SMI)?based service properties for each alternative cloud service. Moreover, it enhances the cloud service decision-making by supporting fuzzy sentiments through the intuitionistic fuzzy set theory and PROMETHEE II. The experimental results presented in this paper show that this approach is efficient and performing.
+ER  - 
+
+TY  - JOUR
+T1  - Sparse Inverse Covariance Estimation: A Data Mining Technique to Unravel Holistic Patterns among Business Practices in Firms
+AU  - Li, Mei
+AU  - Wu, Ying
+AU  - He, Yi
+AU  - Huang, Shuai
+AU  - Nair, Anand
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1111/deci.12404
+DO  - 10.1111/deci.12404
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 1046
+EP  - 1073
+VL  - 51
+IS  - 4
+KW  - Bootstrapping
+KW  - Business Practices
+KW  - Firm Performance
+KW  - Holistic Patterns
+KW  - Sparse Inverse Covariance Estimation
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119300762
+M3  - doi: 10.1111/deci.12404
+UR  - https://doi.org/10.1111/deci.12404
+Y2  - 2020/10/28
+N2  - ABSTRACT Firms are seeking ways to improve managerial decision making in order to enhance operational performance. However, the complexities underlying business processes often mean that operational performance depends on a multitude of factors. Yet, at times the number of empirical cases is rather limited. This presents the challenge of discerning meaningful patterns among a large number of variables that can then be used to derive generalized frameworks and mental models for decision making. In this article, we tackle this challenge with an extension of Sparse Inverse Covariance Estimation (SICE), a novel data mining technique, to address decisions in Operations and Supply Chain Management. We conduct a simulation study to validate the effectiveness of this extension in improving the accuracy and stability of pattern detection. We then apply it to an empirical dataset that is characterized by high dimension, low sample size, and lack of multivariate normal distribution. Our study pioneers the application of SICE in Operations and Supply Chain research. We also extend SICE with bootstrapping. The extended SICE is an effective technique for mining a complex empirical dataset and is a valuable aid for decision support.
+ER  - 
+
+TY  - JOUR
+T1  - A web-based group decision support system for multicriteria problems
+AU  - Conceição, Luís
+AU  - Martinho, Diogo
+AU  - Andrade, Rui
+AU  - Carneiro, João
+AU  - Martins, Constantino
+AU  - Marreiros, Goreti
+AU  - Novais, Paulo
+Y1  - 2019/04/23
+PY  - 2019
+DA  - 2019/04/23
+N1  - doi: 10.1002/cpe.5298
+DO  - 10.1002/cpe.5298
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5298
+VL  - n/a
+IS  - n/a
+KW  - automatic negotiation
+KW  - group decision making
+KW  - group decision support systems
+KW  - multiagent systems
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119300762
+M3  - doi: 10.1002/cpe.5298
+UR  - https://doi.org/10.1002/cpe.5298
+Y2  - 2020/10/28
+N2  - Summary One of the most important factors to determine the success of an organization is the quality of decisions made. Supporting a decision-making process is a complex task, mainly when decision-makers are dispersed. Group decision support systems (GDSSs) have been studied over the last decades with the goal of providing support to decision-makers; however, their acceptance by organizations has been difficult. This happens mostly due to usability problems, loss of interaction between decision-makers, and consequently, loss of information. In this work, we present a web-based GDSS developed to support groups of decision-makers, regardless of their geographic location. The system allows the creation of multicriteria problems and the configuration of the preferences, intentions, and interests of each decision-maker. The presented system uses a multiagent system to combine and process this information, using virtual agents that represent each decision-maker. We believe that, with this approach, we will proceed in the refinements of a successful GDSS to correctly support decision-makers while preserving the valuable intelligence and knowledge that can be generated in face-to-face meetings. Furthermore, the high level of usability that the system provides will contribute to an easier acceptance and adoption of this kind of systems.
+ER  - 
+
+TY  - JOUR
+T1  - The pandora of network slicing: A multicriteria analysis
+AU  - Rosa, Raphael Vicente
+AU  - Rothenberg, Christian Esteve
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1002/ett.3651
+DO  - 10.1002/ett.3651
+T2  - Transactions on Emerging Telecommunications Technologies
+JF  - Transactions on Emerging Telecommunications Technologies
+JO  - Transactions on Emerging Telecommunications Technologies
+JA  - Trans Emerging Tel Tech
+SP  - e3651
+VL  - 31
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119300762
+M3  - doi: 10.1002/ett.3651
+UR  - https://doi.org/10.1002/ett.3651
+Y2  - 2020/10/28
+N2  - Abstract The evolving requirements of 5G communication business cases around vertical markets in addition to rich content multimedia cloud applications call for advances in enabling technologies and standardization to realize tailor-made end-to-end network services, an approach commonly referred to as network slicing. Different mappings between infrastructure capabilities and custom service requirements produce an overload of information that a network service provider must handle to rationalize possible slicing alternatives for a given business case. This article proposes a methodology exploring algorithms from multicriteria analysis (MCA) to digest a set of slicing criteria advantage points into a coherent set of slicing preferences. Through extensive experimental analysis, we reasoning about observed patterns in the slicing alternatives and discuss the utility of the proposed MCA process for the definition of classes of slices, slicing abstractions views, and recovery/scalability analysis. Altogether, the MCA methodology proposed in this article sheds light into candidate mechanisms to tackle the pandora behind the yet-to-be-understood issues and unanticipated trade-offs of alternative network slicing approaches. Contributions of this article include providing a prominent outlook towards different dimensioning angles of network slicing, scoping its criteria design, timing, and the quality of the criteria information.
+ER  - 
+
+TY  - JOUR
+T1  - 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus
+AU  - Aringer, Martin
+AU  - Costenbader, Karen
+AU  - Daikh, David
+AU  - Brinks, Ralph
+AU  - Mosca, Marta
+AU  - Ramsey-Goldman, Rosalind
+AU  - Smolen, Josef S.
+AU  - Wofsy, David
+AU  - Boumpas, Dimitrios T.
+AU  - Kamen, Diane L.
+AU  - Jayne, David
+AU  - Cervera, Ricard
+AU  - Costedoat-Chalumeau, Nathalie
+AU  - Diamond, Betty
+AU  - Gladman, Dafna D.
+AU  - Hahn, Bevra
+AU  - Hiepe, Falk
+AU  - Jacobsen, Søren
+AU  - Khanna, Dinesh
+AU  - Lerstrøm, Kirsten
+AU  - Massarotti, Elena
+AU  - McCune, Joseph
+AU  - Ruiz-Irastorza, Guillermo
+AU  - Sanchez-Guerrero, Jorge
+AU  - Schneider, Matthias
+AU  - Urowitz, Murray
+AU  - Bertsias, George
+AU  - Hoyer, Bimba F.
+AU  - Leuchten, Nicolai
+AU  - Tani, Chiara
+AU  - Tedeschi, Sara K.
+AU  - Touma, Zahi
+AU  - Schmajuk, Gabriela
+AU  - Anic, Branimir
+AU  - Assan, Florence
+AU  - Chan, Tak Mao
+AU  - Clarke, Ann Elaine
+AU  - Crow, Mary K.
+AU  - Czirják, László
+AU  - Doria, Andrea
+AU  - Graninger, Winfried
+AU  - Halda-Kiss, Bernadett
+AU  - Hasni, Sarfaraz
+AU  - Izmirly, Peter M.
+AU  - Jung, Michelle
+AU  - Kumánovics, Gábor
+AU  - Mariette, Xavier
+AU  - Padjen, Ivan
+AU  - Pego-Reigosa, José M.
+AU  - Romero-Diaz, Juanita
+AU  - Rúa-Figueroa Fernández, Íñigo
+AU  - Seror, Raphaèle
+AU  - Stummvoll, Georg H.
+AU  - Tanaka, Yoshiya
+AU  - Tektonidou, Maria G.
+AU  - Vasconcelos, Carlos
+AU  - Vital, Edward M.
+AU  - Wallace, Daniel J.
+AU  - Yavuz, Sule
+AU  - Meroni, Pier Luigi
+AU  - Fritzler, Marvin J.
+AU  - Naden, Ray
+AU  - Dörner, Thomas
+AU  - Johnson, Sindhu R.
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - doi: 10.1002/art.40930
+DO  - 10.1002/art.40930
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+SP  - 1400
+EP  - 1412
+VL  - 71
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119300762
+M3  - doi: 10.1002/art.40930
+UR  - https://doi.org/10.1002/art.40930
+Y2  - 2020/10/28
+N2  - Objective To develop new classification criteria for systemic lupus erythematosus (SLE) jointly supported by the European League Against Rheumatism (EULAR) and the American College of Rheumatology (ACR). Methods This international initiative had four phases. 1) Evaluation of antinuclear antibody (ANA) as an entry criterion through systematic review and meta-regression of the literature and criteria generation through an international Delphi exercise, an early patient cohort, and a patient survey. 2) Criteria reduction by Delphi and nominal group technique exercises. 3) Criteria definition and weighting based on criterion performance and on results of a multi-criteria decision analysis. 4) Refinement of weights and threshold scores in a new derivation cohort of 1,001 subjects and validation compared with previous criteria in a new validation cohort of 1,270 subjects. Results The 2019 EULAR/ACR classification criteria for SLE include positive ANA at least once as obligatory entry criterion; followed by additive weighted criteria grouped in 7 clinical (constitutional, hematologic, neuropsychiatric, mucocutaneous, serosal, musculoskeletal, renal) and 3 immunologic (antiphospholipid antibodies, complement proteins, SLE-specific antibodies) domains, and weighted from 2 to 10. Patients accumulating ≥10 points are classified. In the validation cohort, the new criteria had a sensitivity of 96.1% and specificity of 93.4%, compared with 82.8% sensitivity and 93.4% specificity of the ACR 1997 and 96.7% sensitivity and 83.7% specificity of the Systemic Lupus International Collaborating Clinics 2012 criteria. Conclusion These new classification criteria were developed using rigorous methodology with multidisciplinary and international input, and have excellent sensitivity and specificity. Use of ANA entry criterion, hierarchically clustered, and weighted criteria reflects current thinking about SLE and provides an improved foundation for SLE research.
+ER  - 
+
+TY  - JOUR
+T1  - From individual to joint species distribution models: A comparison of model complexity and predictive performance
+AU  - Caradima, Bogdan
+AU  - Schuwirth, Nele
+AU  - Reichert, Peter
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - doi: 10.1111/jbi.13668
+DO  - 10.1111/jbi.13668
+T2  - Journal of Biogeography
+JF  - Journal of Biogeography
+JO  - Journal of Biogeography
+JA  - J Biogeogr
+SP  - 2260
+EP  - 2274
+VL  - 46
+IS  - 10
+KW  - benthic macroinvertebrates
+KW  - biodiversity
+KW  - hierarchical multispecies models
+KW  - joint models
+KW  - predictive modelling
+KW  - richness
+KW  - species distribution models
+KW  - stacked individual models
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119300762
+M3  - doi: 10.1111/jbi.13668
+UR  - https://doi.org/10.1111/jbi.13668
+Y2  - 2020/10/28
+N2  - Abstract Aim Species distribution models (SDMs) are widely used to study geographic distributions of taxa in response to natural and anthropogenic environmental conditions. For a community, common approaches include fitting individual SDMs (iSDMs) to all taxa or directly modelling community properties such as richness. However, the parameters of iSDMs are difficult to identify for rare taxa, and community properties do not reveal taxon-specific responses. Individual models can be combined into a hierarchical multispecies distribution model (mSDM) that constrains taxon-specific parameters according to overarching community parameters, or a joint model (jSDM) in which interdependencies between taxa are jointly inferred. We compare how individual, hierarchical multispecies and joint SDMs differ in quality of fit, explanatory power and predictive performance, and analyse how these properties depend on the prevalence of taxa. Taxa Presence?absence observations of 245 benthic macroinvertebrate taxa identified at a mixed taxonomic resolution. Location Four hundred and ninety-two sites in rivers throughout Switzerland. Methods Individual, hierarchical and joint hierarchical generalized linear models (GLM) were developed for all taxa. Parameters were estimated using maximum likelihood estimation or Bayesian inference with Hamiltonian Markov chain Monte Carlo simulations. Predictive performance was assessed with cross-validation. In addition, the predicted family and species richness of the models was compared with a GLM for richness. Results Individual models show a slightly higher quality of fit largely due to overfitting for rare taxa. The mSDM achieves a similar quality of fit and explanatory power, mitigates overfitting for rare taxa and considerably improves predictive performance over the whole community. The joint models further improve the quality of fit, but decrease predictive performance and increase predictive uncertainty. Main conclusions We show that even a relatively simple mSDM combines many of the analytical capabilities of iSDMs and improves predictive performance. Increasingly complex mSDMs and jSDMs provide additional analytical possibilities, but depending on the data and research questions, different levels of complexity may be appropriate.
+ER  - 
+
+PY  - 2019
+Y1  - 2019/10/01
+DA  - 2019/10/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119454816.ch1
+UR  - https://doi.org/10.1002/9781119454816.ch1
+N1  - doi:10.1002/9781119454816.ch1
+M3  - doi:10.1002/9781119454816.ch1
+N2  - Summary The existence of optimization methods can be traced to the days of Newton, Lagrange, and Cauchy. Since the effort required or the benefit desired in any practical situation can be expressed as a function of certain decision variables, optimization can be defined as the process of finding the conditions that give the maximum or minimum value of a function. Mathematical programming techniques are useful in finding the minimum of a function of several variables under a prescribed set of constraints. Optimization, in its broadest sense, can be applied to solve any engineering problem. Any optimization problem can be classified as constrained or unconstrained, depending on whether constraints exist in the problem. The various techniques available for the solution of different types of optimization problems are described and the literature on engineering optimization is discussed in this chapter.
+SP  - 1-56
+KW  - constraints
+KW  - engineering optimization
+KW  - mathematical programming techniques
+KW  - optimization methods
+T1  - Introduction to Optimization
+T2  - Engineering Optimization Theory and Practice
+T3  - Wiley Online Books
+SN  - 9781119454816
+
+AU  - Levitan, Bennett
+AU  - DiSantostefano, Rachael L.
+AU  - Evans, Scott
+PY  - 2019
+Y1  - 2019/10/01
+DA  - 2019/10/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119413431.ch35
+UR  - https://doi.org/10.1002/9781119413431.ch35
+N1  - doi:10.1002/9781119413431.ch35
+M3  - doi:10.1002/9781119413431.ch35
+N2  - Summary Benefit?risk assessment is an evolving field that is critical to optimal medical treatment development and public health decision making. Methodology and regulatory policies for benefit?risk (B?R) have advanced considerably in the last decade, including the application of structured B?R frameworks and the increasing use of the patient perspective in regulatory submissions and review. In parallel, numerous B?R initiatives have been led by pharmaceutical organizations, patient advocacy groups, public?private partnerships and academic groups. This chapter will provide an overview of B?R assessments, including applications of structured frameworks, B?R tabular summaries, and graphical displays that have become an integral part of B-R assessments and regulatory submissions. We also introduce emerging methods that account for associations between benefits and harms. The maturation of B?R using these approaches will be described along with examples in cardiovascular disease.
+SP  - 867-896
+KW  - BRAT
+KW  - conjoint analysis
+KW  - effects table
+KW  - forest plot
+KW  - framework
+KW  - MCDA
+KW  - net clinical benefit
+KW  - preference
+KW  - value tree
+KW  - weighting
+T1  - Benefit–Risk Assessments of Medical Treatments
+T2  - Pharmacoepidemiology
+T3  - Wiley Online Books
+SN  - 9781119413431
+
+TY  - JOUR
+T1  - Using expert opinion to identify and determine the relative impact of threats to sea turtles in Mozambique
+AU  - Williams, Jessica L.
+AU  - Pierce, Simon J.
+AU  - Hamann, Mark
+AU  - Fuentes, Mariana M.P.B.
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - doi: 10.1002/aqc.3160
+DO  - 10.1002/aqc.3160
+T2  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JF  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JO  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JA  - Aquatic Conserv: Mar Freshw Ecosyst
+SP  - 1936
+EP  - 1948
+VL  - 29
+IS  - 11
+KW  - coastal
+KW  - conservation evaluation
+KW  - endangered species
+KW  - fishing
+KW  - gap analysis
+KW  - ocean
+KW  - reptiles
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/aqc.3160
+UR  - https://doi.org/10.1002/aqc.3160
+Y2  - 2020/10/28
+N2  - Abstract Although robust and consistent long-term datasets are lacking, it is commonly accepted that sea turtle populations face significant human threats while using Mozambique's coastal habitats. While multiple threats have been identified, their relative impact ? and thus the ability to prioritize limited conservation resources ? is poorly known. To obtain a better understanding of these threats, information from experts was elicited through a semi-structured survey using open and closed-ended questions. Experts in research, conservation and management of sea turtles were identified and asked to identify key threats and to complete pairwise comparison matrixes to determine the relative weight (w) of each threat (13 criterion, n = 24 questions). Weights for the perceived impact of threats were calculated from scores given in the pair-wise matrix using the analytic hierarchy process. Responses (n = 18) to open-ended survey questions were thematically coded and discussed according to common themes (e.g. extent of knowledge, limitations, conservation management tools) identified. Bycatch from commercial trawling (w = 13.65), artisanal fishing (w = 12.30) and hunting of nesting turtles (w = 11.33) were the top threats identified, in order of relative impact. While two of the three top threats are widely distributed and likely to be logistically and resource intensive to address, the top-scoring threat, ?bycatch from commercial trawling', is a clearly defined target for conservation intervention. Given a lack of baseline or published data, soliciting expert opinion was an efficient way to identify emergent threats, along with the success and limiting factors influencing sea turtle conservation in a developing nation. The methodology and technique implemented here are transferable. Expert surveys can provide valuable insights in locations with similar socio-economic environments and limited empirical data to help clarify the relative impact of various threats.
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive approach to problems of performance measurement
+AU  - Fisher, N. I.
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - doi: 10.1111/rssa.12424
+DO  - 10.1111/rssa.12424
+T2  - Journal of the Royal Statistical Society: Series A (Statistics in Society)
+JF  - Journal of the Royal Statistical Society: Series A (Statistics in Society)
+JO  - Journal of the Royal Statistical Society: Series A (Statistics in Society)
+JA  - J. R. Stat. Soc. A
+SP  - 755
+EP  - 803
+VL  - 182
+IS  - 3
+KW  - Alignment
+KW  - Bibliometrics
+KW  - Customer value management
+KW  - Key performance indicators
+KW  - Performance indicators
+KW  - Performance measurement system
+KW  - Research quality
+KW  - Satisfaction surveys
+KW  - Stakeholder value
+KW  - Text mining
+KW  - Topic modelling
+KW  - Value surveys
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/rssa.12424
+UR  - https://doi.org/10.1111/rssa.12424
+Y2  - 2020/10/28
+N2  - Summary The paper describes a comprehensive approach to problems of performance measurement that can be used to tackle a wide range of situations, including designing monthly board and leadership reports in enterprises, assessing research quality and monitoring the efficiency and effectiveness of government programmes. It provides a review of various methods for tackling these problems and outlines some current areas of research. Although technical statistical issues are buried somewhat below the surface, statistical thinking is very much part of the main line of argument, meaning that performance measurement should be an area attracting serious attention from statisticians.
+ER  - 
+
+TY  - JOUR
+T1  - On the Optimal Spatial Design for Groundwater Level Monitoring Networks
+AU  - Ohmer, M.
+AU  - Liesch, T.
+AU  - Goldscheider, N.
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - doi: 10.1029/2019WR025728
+DO  - 10.1029/2019WR025728
+T2  - Water Resources Research
+JF  - Water Resources Research
+JO  - Water Resources Research
+JA  - Water Resour. Res.
+SP  - 9454
+EP  - 9473
+VL  - 55
+IS  - 11
+KW  - groundwater level monitoring network
+KW  - sampling design
+KW  - low-discrepancy
+KW  - geostatistics
+KW  - spatial optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1029/2019WR025728
+UR  - https://doi.org/10.1029/2019WR025728
+Y2  - 2020/10/28
+N2  - Abstract Effective groundwater monitoring networks are important, as systematic data collected at observation wells provide a crucial understanding of the dynamics of hydrogeological systems as well as the basis for many other applications. This study investigates the influence of six groundwater level monitoring network (GLMN) sampling designs (random, grid, spatial coverage, and geostatistical) with varying densities on the accuracy of spatially interpolated groundwater surfaces. To obtain spatially continuous prediction errors (in contrast to point cross-validation errors), we used nine potentiometric groundwater surfaces from three regional MODFLOW groundwater flow models with different resolutions as a priori references. To assess the suitability of frequently-used cross-validation error statistics (MAE, RMSE, RMSSE, ASE, and NSE), we compared them with the actual prediction errors (APE). Additionally, we defined upper and lower thresholds for an appropriate spatial density of monitoring wells. Below the lower threshold, the observation density appears insufficient, and additional wells lead to a significant improvement of the results. Above the upper threshold, additional wells lead to only minor and inefficient improvements. According to the APE, systematic sampling lead to the best results but is often not suited for GLMN due to its nonprogressive characteristic. Geostatistical and spatial coverage sampling are considerable alternatives, which are in contrast progressive and allow evenly spaced and, in the case of spatial coverage sampling, yet reproducible coverage with accurate results. We found that the global cross-validation error statistics are not suitable to compare the performance of different sampling designs, although they allow rough conclusions about the quality of the GLMN.
+ER  - 
+
+TY  - JOUR
+T1  - Comparing the functional recognition of aesthetics, hydrology, and quality in urban stream restoration through the framework of environmental perception
+AU  - Hong, Chang-Yu
+AU  - Chang, Heejun
+AU  - Chung, Eun-Sung
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - doi: 10.1002/rra.3423
+DO  - 10.1002/rra.3423
+T2  - River Research and Applications
+JF  - River Research and Applications
+JO  - River Research and Applications
+JA  - River Res Applic
+SP  - 543
+EP  - 552
+VL  - 35
+IS  - 6
+KW  - AHP
+KW  - citizen survey
+KW  - environmental perception
+KW  - hierarchy multiple regression
+KW  - image-based survey
+KW  - social-ecological systems
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/rra.3423
+UR  - https://doi.org/10.1002/rra.3423
+Y2  - 2020/10/28
+N2  - Abstract This study explores the application of a civic perception analysis in the context of stream restoration as a social-ecological system (SES). Analysing such a SES is useful for understanding correlations between civic interests and environmental conditions in river restoration. An analytic hierarchy process (AHP) analysis was used to quantify the demand for restoration objectives. Additionally, an image-based survey was used to precisely capture residents' perceptions of urban stream restoration by comparing aesthetic images, hydrologic functions, and environmental quality. Based on the AHP results, a hierarchical multiple regression was derived. A total of 181 participants responded to our survey, and the results were summarized by each subwatershed in the An'Yang watershed. The results demonstrated that the perceptions of residents who live in various environmental and regional conditions may manifoldly reflect their personal visual and aesthetic preferences by subwatershed. The upstream subwatershed values (SW1 = 7.86 and SW2 = 7.39) were higher than those in the downstream areas (SW5 = 5.28 and SW6 = 5.15). Consequently, this hierarchical multilevel model showed that individual environmental perception was highly associated with visual preference regarding stream restoration at the subwatershed level (p < 0.001). Urban environmental and spatial planners could use such information when restoring and designing waterfront spaces.
+ER  - 
+
+TY  - JOUR
+T1  - Application of multiple-response optimization methods for the ergonomic evaluation of carpet weaving knife
+AU  - Singh, Ashish Kumar
+AU  - Meena, Makkhan Lal
+AU  - Chaudhary, Himanshu
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - doi: 10.1002/hfm.20785
+DO  - 10.1002/hfm.20785
+T2  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JF  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JO  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JA  - Hum. Factors Man.
+SP  - 293
+EP  - 311
+VL  - 29
+IS  - 4
+KW  - carpet weaving
+KW  - design ergonomics
+KW  - electromyography
+KW  - goniometry
+KW  - maximum voluntary isometric contractions
+KW  - multiple-criteria decision-making
+KW  - Taguchi loss function
+KW  - technique for order of preference by similarity to ideal solution
+KW  - VIšekriterijumsko KOmpromisno Rangiranje
+KW  - weaving knife
+KW  - wrist posture
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/hfm.20785
+UR  - https://doi.org/10.1002/hfm.20785
+Y2  - 2020/10/28
+N2  - Abstract The aim of this study is to evaluate several weaving knife configurations in response to multiple criteria?s for optimum design. Nine different knife combinations were tested over ten female weavers in a field experiment. Three levels of blade width and angular orientations were taken as the independent variables. Output response about goniometry and electromyography were taken as dependent variables. Multivariate analysis was carried out to estimate the effect of independent variables on output responses. To tackle the difficulty of knife selection with several output responses, three multicriteria optimization approaches have been compared. Multivariate analysis of variance results showed that the effect of both blade width and angle were significant at wrist angles. Also, the magnitude of effect size on both blade width and the angle was highest for the wrist angles. Despite the same weighing criteria, a slight difference was evident between the ranks from optimization methods. The higher blade widths and smaller angular orientations should be recommended for reduction of wrist deviation and muscle activity during weaving. The best possible combination of knife evaluated using multicriteria optimization was 25?mm???100°.
+ER  - 
+
+TY  - JOUR
+T1  - Analytic hierarchy process as an alternative for the selection of vocabularies for sensory characterization and consumer preference
+AU  - Ramírez-Rivera, Emmanuel de Jesús
+AU  - Morales-Carrera, Uriel Alejandro
+AU  - Limón-Rivera, Rogelio
+AU  - Castillo-Martínez, Susana Isabel
+AU  - Hernández-Salinas, Gregorio
+AU  - Ramírez-Sucre, Manuel Octavio
+AU  - Herrera-Corredor, José Andrés
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - doi: 10.1111/joss.12547
+DO  - 10.1111/joss.12547
+T2  - Journal of Sensory Studies
+JF  - Journal of Sensory Studies
+JO  - Journal of Sensory Studies
+JA  - J Sens Stud
+SP  - e12547
+VL  - 35
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1111/joss.12547
+UR  - https://doi.org/10.1111/joss.12547
+Y2  - 2020/10/28
+N2  - Abstract The objective of the present study was to investigate the Analytic Hierarchy Process (AHP) technique as an alternative to the ISO standard 11035 for the sensory characterization and consumer preference of coffee through External Preference Mapping (PREFMAP). The methodological context consisted in the generation of the sensory vocabulary applying the techniques ISO standard 11035 using a trained panel and AHP using an expert panel. PREFMAP was then carried out to explain the preference of coffee consumers according to the vocabularies generated. The results showed that the sensory vocabulary using AHP was similar to that obtained with ISO standard 11035 and the judgments of the panel of experts were consistent. The PREFMAP'S explained in a similar way the preference of coffee consumers. The use of the AHP technique is a new, reliable, and easy-to-execute alternative for the selection of sensory vocabulary for characterization and explanation of consumer preference. Practical Applications The Analytic Hierarchy Process technique is a reliable alternative for the selection of sensory attributes. The attributes are evaluated by paired comparison and, by mathematical procedure, the weight (W) of each attribute and sensory dimension is obtained. Consistency indicators are also included to support and validate panel judgments. This new proposal can be easily implemented at an industrial and academic level for the development of different sensometric investigations that require characterizing and analyzing the preference of consumers of different foods.
+ER  - 
+
+PY  - 2020
+Y1  - 2020/02/01
+DA  - 2020/02/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119413431.index
+UR  - https://doi.org/10.1002/9781119413431.index
+N1  - doi:10.1002/9781119413431.index
+M3  - doi:10.1002/9781119413431.index
+SP  - 1155-1184
+T1  - Index
+T2  - Pharmacoepidemiology
+T3  - Wiley Online Books
+SN  - 9781119413431
+
+TY  - JOUR
+T1  - Private-sector partner selection for public-private partnership projects of electric vehicle charging infrastructure
+AU  - Zhang, Lihui
+AU  - Zhao, Zhenli
+AU  - Kan, Zhinan
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - doi: 10.1002/ese3.367
+DO  - 10.1002/ese3.367
+T2  - Energy Science & Engineering
+JF  - Energy Science & Engineering
+JO  - Energy Science & Engineering
+JA  - Energy Sci Eng
+SP  - 1469
+EP  - 1484
+VL  - 7
+IS  - 5
+KW  - electric vehicle charging infrastructure
+KW  - private-sector partner selection
+KW  - public-private partnership
+KW  - VIKOR-based approach
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/ese3.367
+UR  - https://doi.org/10.1002/ese3.367
+Y2  - 2020/10/28
+N2  - Abstract Public-private partnership (PPP) models, which can mitigate the deflection of charging facilities, have been introduced for electric vehicle charging infrastructure (EVCI) projects. Private-sector partner selection is a significant step to ensure the success of EVCI-PPP projects, but it has been rarely studied. This paper therefore identifies selection criteria for private partners in EVCI-PPP projects and assesses the alternatives using an extended multicriteria operation and compromise solution (VIKOR) method. A partner selection indicator system is established through three development processes, and the factors are categorized into five factor packages: basic ability, management ability, performance of previous performance and credit performance, performance of projects, and sustainable development. These factors include 22 subcriteria. An extended VIKOR-based method incorporating an intuitionistic fuzzy set is developed to select an optimal private partner. A case study is used to verify the effectiveness and rationalization of the proposed approach. Three potential candidates, P1, P2, P3, are evaluated and ranked according to their evaluation scores, and the results show that P1 is the best partner solution. Relevant charging infrastructure project experience, technical level in charging facilities, and financing plan are the top three criteria for choosing appropriate partners for EVCI-PPP projects. This study provides a comprehensive evaluation framework for the government to select suitable private-sector partners to accelerate the sustainable development of charging facilities.
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing wind farm siting to reduce power system impacts of wind variability
+AU  - Musselman, Amelia
+AU  - Thomas, Valerie M.
+AU  - Boland, Natashia
+AU  - Nazzal, Dima
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - doi: 10.1002/we.2328
+DO  - 10.1002/we.2328
+T2  - Wind Energy
+JF  - Wind Energy
+JO  - Wind Energy
+JA  - Wind Energy
+SP  - 894
+EP  - 907
+VL  - 22
+IS  - 7
+KW  - multiobjective optimization
+KW  - siting
+KW  - variability reduction
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/we.2328
+UR  - https://doi.org/10.1002/we.2328
+Y2  - 2020/10/28
+N2  - Abstract We introduce and solve two variants of a biobjective optimization model to reduce the negative impact of wind variability on the power system by strategically locating wind farms. The first model variant considers average changes in wind power over time; the second captures extreme fluctuations in wind power. A complementary set of wind sites is selected with the aim of minimizing both residual demand and the variability in residual demand. Because exact optimization is computationally intensive, we develop two heuristics?forward and backward greedy algorithms?to find approximate solutions. The results are compared with the exact optimization results for a well-selected subset of the data as well as to the results from selecting sites based on average wind alone. The two models are solved using demand data and potential wind sites for the Southwest Power Pool. Though both objectives can be improved by adding more sites, for a fixed number of sites, minimizing residual demand and variability in residual demand are competing objectives. We find an approximate efficient frontier to compare trade-offs between the two objectives. We also vary the parameter in the heuristic that controls how the two objectives are prioritized. For the case study, the backward greedy algorithm is more effective at reducing the wind power variability than the forward greedy algorithm. Furthermore, using the backward algorithm for the full dataset is more effective than solving the exact optimization on a subset of the data when the results are evaluated using the full dataset.
+ER  - 
+
+TY  - JOUR
+T1  - Threat intelligence platform for the energy sector
+AU  - Leszczyna, Rafał
+AU  - Wróbel, Michał R.
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - doi: 10.1002/spe.2705
+DO  - 10.1002/spe.2705
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 1225
+EP  - 1254
+VL  - 49
+IS  - 8
+KW  - critical infrastructures
+KW  - cybersecurity
+KW  - information sharing
+KW  - ISAC
+KW  - power systems
+KW  - situation awareness
+KW  - testing
+KW  - threat intelligence
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/spe.2705
+UR  - https://doi.org/10.1002/spe.2705
+Y2  - 2020/10/28
+N2  - Summary In recent years, critical infrastructures and power systems in particular have been subjected to sophisticated cyberthreats, including targeted attacks and advanced persistent threats. A promising response to this challenging situation is building up enhanced threat intelligence (TI) that interlinks information sharing and fine-grained situation awareness. In this paper, a framework that integrates all levels of TI, ie, strategic, tactical, operational, and technical, is presented. The platform implements the centralized model of information exchange with peer-to-peer interactions between partners as an option. Several supportive solutions were introduced, including anonymity mechanisms or data processing and correlation algorithms. A data model that enables communication of cyberincident information, both in natural language and machine-readable formats, was defined. Similarly, security requirements for critical components were devised. A pilot implementation of the platform was developed and deployed in the operational environment, which enabled practical evaluation of the design. Also, the security of the anonymity architecture was analyzed.
+ER  - 
+
+TY  - JOUR
+T1  - The 2019 American College of Rheumatology/European League Against Rheumatism Classification Criteria for IgG4-Related Disease
+AU  - Wallace, Zachary S.
+AU  - Naden, Ray P.
+AU  - Chari, Suresh
+AU  - Choi, Hyon
+AU  - Della-Torre, Emanuel
+AU  - Dicaire, Jean-Francois
+AU  - Hart, Phil A.
+AU  - Inoue, Dai
+AU  - Kawano, Mitsuhiro
+AU  - Khosroshahi, Arezou
+AU  - Kubota, Kensuke
+AU  - Lanzillotta, Marco
+AU  - Okazaki, Kazuichi
+AU  - Perugino, Cory A.
+AU  - Sharma, Amita
+AU  - Saeki, Takako
+AU  - Sekiguchi, Hiroshi
+AU  - Schleinitz, Nicolas
+AU  - Stone, James R.
+AU  - Takahashi, Naoki
+AU  - Umehara, Hisanori
+AU  - Webster, George
+AU  - Zen, Yoh
+AU  - Stone, John H.
+AU  - for the American College of Rheumatology/European League Against Rheumatism IgG4-Related Disease Classification Criteria Working Group
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1002/art.41120
+DO  - 10.1002/art.41120
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+SP  - 7
+EP  - 19
+VL  - 72
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/art.41120
+UR  - https://doi.org/10.1002/art.41120
+Y2  - 2020/10/28
+N2  - Objective IgG4-related disease (IgG4-RD) can cause fibroinflammatory lesions in nearly any organ. Correlation among clinical, serologic, radiologic, and pathologic data is required for diagnosis. This work was undertaken to develop and validate an international set of classification criteria for IgG4-RD. Methods An international multispecialty group of 86 physicians was assembled by the American College of Rheumatology (ACR) and the European League Against Rheumatism (EULAR). Investigators used consensus exercises, existing literature, derivation and validation cohorts of 1,879 subjects (1,086 cases, 793 mimickers), and multicriterion decision analysis to identify, weight, and test potential classification criteria. Two independent validation cohorts were included. Results A 3-step classification process was developed. First, it must be demonstrated that a potential IgG4-RD case has involvement of at least 1 of 11 possible organs in a manner consistent with IgG4-RD. Second, exclusion criteria consisting of a total of 32 clinical, serologic, radiologic, and pathologic items must be applied; the presence of any of these criteria eliminates the patient from IgG4-RD classification. Third, 8 weighted inclusion criteria domains, addressing clinical findings, serologic results, radiology assessments, and pathology interpretations, are applied. In the first validation cohort, a threshold of 20 points had a specificity of 99.2% (95% confidence interval [95% CI] 97.2?99.8%) and a sensitivity of 85.5% (95% CI 81.9?88.5%). In the second, the specificity was 97.8% (95% CI 93.7?99.2%) and the sensitivity was 82.0% (95% CI 77.0?86.1%). The criteria were shown to have robust test characteristics over a wide range of thresholds. Conclusion ACR/EULAR classification criteria for IgG4-RD have been developed and validated in a large cohort of patients. These criteria demonstrate excellent test performance and should contribute substantially to future clinical, epidemiologic, and basic science investigations.
+ER  - 
+
+TY  - JOUR
+T1  - Applicability of a food chain analysis on aquaculture of Atlantic salmon to identify and monitor vulnerabilities and drivers of change for the identification of emerging risks
+AU  - Marvin, Hans
+AU  - Bouzembrak, Yamine
+AU  - van Asselt, Esther
+AU  - Meijer, Nathan
+AU  - Kleter, Gijs
+AU  - Lorentzen, Grete
+AU  - Johansen, Lill-Heidi
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - doi: 10.2903/sp.efsa.2019.EN-1619
+DO  - 10.2903/sp.efsa.2019.EN-1619
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 1619E
+VL  - 16
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.2903/sp.efsa.2019.EN-1619
+UR  - https://doi.org/10.2903/sp.efsa.2019.EN-1619
+Y2  - 2020/10/28
+N2  - The objective of Aquarius project was to test the applicability of a food chain analysis on Atlantic salmon farmed in Norway to identify and monitor vulnerabilities and drivers of change for the identification of emerging risks. To this end, a comprehensive literature review was conducted complemented with expert views collected by on-line questionnaires and in-depth interviews. This review provided an overview of the various stages in the supply chain from farm to consumer and the identification of i) existing and emerging human and animal health hazards, ii) vulnerabilities, iii) control measures, iv) drivers of change, and v) related indicators. Next step in the study was to i) complement the list of vulnerabilities followed by a prioritisation using focus group discussions and Failure Mode and Effect Analysis (FMEA) method and ii) link drivers of change acting upon the (prioritised) vulnerabilities and identification of associated indicators and data sources by means of a Delphi method. Based on the experiences obtained with the different methodologies during this project, the Aquarius team considers literature review, and a direct face-to-face interaction with experts (in-depth interviews, focus group discussions and FMEA in a workshop setting) as being most effective regarding output and effort. The comprehensive information collected formed the basis for the methodology to baseline key indicators of the selected vulnerabilities. The methodology proposed comprised a Bayesian Network (BN) that links data sources for indicators and drivers of change to the prioritised vulnerabilities and was demonstrated for salmon health. A Decision Support System (DSS) with such BN integrated was designed. The current BN and DSS could flag an increased exposure of known hazards that may occur due to changes in indicators but new hazards are not identified. The proposed methodology could be used instead to show trends in vulnerabilities, indicators, increased exposure of known hazards and for scenario studies.
+ER  - 
+
+TY  - JOUR
+T1  - 144th Annual Meeting American Neurological Association
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - doi: 10.1002/ana.25587
+DO  - 10.1002/ana.25587
+T2  - Annals of Neurology
+JF  - Annals of Neurology
+JO  - Annals of Neurology
+JA  - Ann Neurol
+SP  - S1
+EP  - S285
+VL  - 86
+IS  - S24
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.1002/ana.25587
+UR  - https://doi.org/10.1002/ana.25587
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of the applicability of existing (Q)SAR models for predicting the genotoxicity of pesticides and similarity analysis related with genotoxicity of pesticides for facilitating of grouping and read across
+AU  - Benigni, Romualdo
+AU  - Laura Battistelli, Chiara
+AU  - Bossa, Cecilia
+AU  - Giuliani, Alessandro
+AU  - Fioravanzo, Elena
+AU  - Bassan, Arianna
+AU  - Fuart Gatnik, Mojca
+AU  - Rathman, James
+AU  - Yang, Chihae
+AU  - Tcheremenskaia, Olga
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - doi: 10.2903/sp.efsa.2019.EN-1598
+DO  - 10.2903/sp.efsa.2019.EN-1598
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 1598E
+VL  - 16
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119413431
+M3  - doi: 10.2903/sp.efsa.2019.EN-1598
+UR  - https://doi.org/10.2903/sp.efsa.2019.EN-1598
+Y2  - 2020/10/28
+N2  - To facilitate the practical implementation of the guidance on the residue definition for dietary risk assessment, EFSA has organized an evaluation of applicability of existing in silico models for predicting the genotoxicity of pesticides and their metabolites, including analysis of the impact on genotoxicity of the metabolic structural changes. The prediction ability of (Q)SARs for in vitro and in vivo tests were evaluated. For the Ames test, all (Q)SAR models generated statistically significant predictions, comparable with the experimental variability of the test; instead, the reliability of the (Q)SAR models for assays / endpoints different from in vitro bacterial mutagenicity appears to be quite far from optimality. Secondly, two new Read Across approaches were applied to predict Ames mutagenicity and in vitro Chromosomal Aberrations: Read Across was largely successful for predicting the Ames test results, but much less for in vitro Chromosomal Aberrations. The worse results for endpoints different from Ames may be attributable to the several revisions of experimental protocols and evaluation criteria of results that have made the databases qualitatively non-homogeneous, and poorly suitable for modelling. A third dimension of this research is the evaluation of the impact of the structural changes-in result of metabolic or degradation processes-on the genotoxic potential of the substances. Parent/Metabolite structural differences (beyond the known Structural Alerts) that may, or may not cause changes in the Ames mutagenicity were identified and catalogued. In addition, Structural Alerts analysis applied under human expert supervision permitted the rationalization of the large majority of the changes of patterns of genotoxicity. The findings from this work are suitable for being integrated into Weight-of-Evidence and Tiered evaluation schemes. The importance of the human expert knowledge is particularly emphasized.
+ER  - 

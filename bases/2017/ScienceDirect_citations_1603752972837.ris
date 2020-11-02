@@ -1,0 +1,2193 @@
+TY  - JOUR
+T1  - An extended TODIM multi-criteria group decision making method for green supplier selection in interval type-2 fuzzy environment
+AU  - Qin, Jindong
+AU  - Liu, Xinwang
+AU  - Pedrycz, Witold
+JO  - European Journal of Operational Research
+VL  - 258
+IS  - 2
+SP  - 626
+EP  - 638
+PY  - 2017
+DA  - 2017/04/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2016.09.059
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221716308116
+KW  - Multiple criteria analysis
+KW  - Green supplier selection
+KW  - TODIM method
+KW  - Interval type-2 fuzzy sets
+KW  - Group decision making
+AB  - With the increasing economic globalization and intensification of market competition, green supply chain management (GSCM), as a new management mode to pursue both economic benefits and the coordinated of environment sustainable development, has become highly relevant topic in modern enterprise production operation management. The green supplier evaluation and selection is the essential core of the GSCM, which can directly impact the manufacturer's performance. The green supplier selection can be regarded as a multiple criteria group decision making (MCGDM) problem that involves many conflict evaluation criteria, both being of qualitative and quantitative nature. Due to the increasing complexity and uncertainty of social economic environment, some evaluations of criteria are not adequately represented by numerical assessments and type-1 fuzzy sets (T1FSs). In addition, decision makers (DMs) usually do not exhibit complete rationality under many practical decision situations. In this paper, we extend the TODIM (an acronym in Portuguese of interactive and multi-criteria decision making) technique to solve MCGDM problems within the context of interval type-2 fuzzy sets (IT2FSs) and present its application to green supplier selection problem. First, we introduce a new distance based on the fuzzy logic and α-cuts of the IT2FSs. Then, an extended novel TODIM method based on prospect theory to solve MCGDM problem under IT2FSs environment is developed. Finally, a green supplier selection example is provided to demonstrate the usefulness of the proposed method. Furthermore, a sensitivity analysis is carried out with the aid of granular computing and the comparative analysis with TOPSIS technique.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of E-Commerce Product Reviews Based on Structural, Metadata, and Readability Characteristics
+AU  - Hendrawan, Rully Agus
+AU  - Suryani, Erma
+AU  - Oktavia, Rani
+JO  - Procedia Computer Science
+VL  - 124
+SP  - 280
+EP  - 286
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 4th Information Systems International Conference 2017, ISICO 2017, 6-8 November 2017, Bali, Indonesia
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.12.157
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917329253
+KW  - Product Metadata
+KW  - Online Customer Reviews
+KW  - Metadata Quality
+AB  - Online customer reviews have important role in buying decision process. Nowadays, there are a lot of customer reviews available in online marketplace so that customer can read those reviews for better understanding about product or service that they will purchase. Customer online reviews become important complementary information besides product description, expert reviews, and recommendation from the system. However, due to abundant reviews, it become unclear whether these reviews have good quality and useful for other customers. Based on a survey, 87% customers will read at least 10 reviews before deciding to buy product. New online customer reviews might have good quality but since it wasn’t popular yet, the reviews will be missed by other customers. Therefore, it is necessary to evaluate the quality of customer reviews. Quality evaluation can be done based on three characteristics which are structural, metadata, and readability. Final calculation is being done using weighted sum. Feature that mostly affects quality rating of consumer review is the score of readability characteristics.
+ER  - 
+
+TY  - JOUR
+T1  - A Multi Attribute Value Theory approach to rank association rules for leveraging better business decision making
+AU  - Shukla, Shekhar
+AU  - Mohanty, B.K.
+AU  - Kumar, Ashwani
+JO  - Procedia Computer Science
+VL  - 122
+SP  - 1031
+EP  - 1038
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 5th International Conference on Information Technology and Quantitative Management, ITQM 2017
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.11.470
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917327230
+KW  - Market Basket Analysis
+KW  - Association Rules
+KW  - Interestingness measure
+KW  - Multi-Attribute Value Theory
+KW  - Preferences
+KW  - Business Decision Making
+AB  - Market Basket Analysis or Association Rule Mining (ARM) is an approach to discover the purchase patterns of the customers by extracting and analyzing the basket of items which sell together. Businesses are also keen to discover those rules which can generate more profits. These profitable purchase patterns of customers once identified can lead to better product assortment decision making for businesses. Better Product Assortment decisions can surely be a competitive advantage for businesses in terms of customer satisfaction and profit generation. The concepts of support and confidence in the association rules help to extract the rules with frequent and reliable co-occurrences of the items in customers’ purchases. The profitable rules can be assessed using the domain-related measures such as item set value and the cross-selling profit associated with the association rules. We propose a ranking mechanism to combine the different criteria of Confidence, Support, Item Set Value and Cross-Selling Profit to get an overall interestingness measure; using Multi-Attribute Value Theory (MAVT) approach; which in turn uses DIVIZ as the implementation tool. These association rules can be used as a leverage for the marketing activities like cross-selling promotions, shelf placement etc. and other crucial decisions like product assortment selection.
+ER  - 
+
+TY  - JOUR
+T1  - Systematic approach for the design of sustainable supply chains under quality uncertainty
+AU  - Medina-González, Sergio
+AU  - Graells, Moisès
+AU  - Guillén-Gosálbez, Gonzalo
+AU  - Espuña, Antonio
+AU  - Puigjaner, Luis
+JO  - Energy Conversion and Management
+VL  - 149
+SP  - 722
+EP  - 737
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 0196-8904
+DO  - https://doi.org/10.1016/j.enconman.2017.02.060
+UR  - http://www.sciencedirect.com/science/article/pii/S0196890417301711
+KW  - Uncertainty
+KW  - State Task Network
+KW  - Sample Average Approximation
+KW  - Sustainability
+KW  - Quality
+KW  - Industrial symbiosis
+AB  - Sustainable processes have recently awaked an increasing interest in the process systems engineering literature. In industry, this kind of problems inevitably required a multi-objective analysis to evaluate the environmental impact in addition to the economic performance. Bio-based processes have the potential to enhance the sustainability level of the energy sector. Nevertheless, such processes very often show variable conditions and present an uncertain behavior. The approaches presented for solving multi-objective problems under uncertainty have neglected the potential effects of different quality streams on the overall system. Here, it is presented an alternative approach, based on a State Task Network formulation, capable of optimizing under uncertain conditions, considering multiple selection criteria and accounting for the material quality effect. The resulting set of Pareto solutions are then assessed using the Elimination and Choice Expressing Reality-IV method, which identify the ones showing better overall performance considering the uncertain parameters space.
+ER  - 
+
+TY  - JOUR
+T1  - Technologies and decision support systems to aid solid-waste management: a systematic review
+AU  - Vitorino de Souza Melaré, Angelina
+AU  - Montenegro González, Sahudy
+AU  - Faceli, Katti
+AU  - Casadei, Vitor
+JO  - Waste Management
+VL  - 59
+SP  - 567
+EP  - 584
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 0956-053X
+DO  - https://doi.org/10.1016/j.wasman.2016.10.045
+UR  - http://www.sciencedirect.com/science/article/pii/S0956053X16306171
+KW  - Solid-waste management
+KW  - Decision support system
+KW  - Operations research
+KW  - Recycling
+KW  - Information and communication technologies
+KW  - Systematic review
+AB  - Population growth associated with population migration to urban areas and industrial development have led to a consumption relation that results in environmental, social, and economic problems. With respect to the environment, a critical concern is the lack of control and the inadequate management of the solid waste generated in urban centers. Among the challenges are proper waste-collection management, treatment, and disposal, with an emphasis on sustainable management. This paper presents a systematic review on scientific publications concerning decision support systems applied to Solid Waste Management (SWM) using ICTs and OR in the period of 2010–2013. A statistical analysis of the eighty-seven most relevant publications is presented, encompassing the ICTs and OR methods adopted in SWM, the processes of solid-waste management where they were adopted, and which countries are investigating solutions for the management of solid waste. A detailed discussion on how the ICTs and OR methods have been combined in the solutions was also presented. The analysis and discussion provided aims to help researchers and managers to gather insights on technologies/methods suitable the SWM challenges they have at hand, and on gaps that can be explored regarding technologies/methods that could be useful as well as the processes in SWM that currently do not benefit from using ICTs and OR methods.
+ER  - 
+
+TY  - JOUR
+T1  - Contents
+JO  - Procedia Computer Science
+VL  - 115
+SP  - iii
+EP  - viii
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 7th International Conference on Advances in Computing & Communications, ICACC-2017, 22-24 August 2017, Cochin, India
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/S1877-0509(17)32016-1
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917320161
+ER  - 
+
+TY  - JOUR
+T1  - Competence assessment as an expert system for human resource management: A mathematical approach
+AU  - Bohlouli, Mahdi
+AU  - Mittas, Nikolaos
+AU  - Kakarontzas, George
+AU  - Theodosiou, Theodosios
+AU  - Angelis, Lefteris
+AU  - Fathi, Madjid
+JO  - Expert Systems with Applications
+VL  - 70
+SP  - 83
+EP  - 102
+PY  - 2017
+DA  - 2017/03/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2016.10.046
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417416305875
+KW  - Competence assessment
+KW  - Human resource information system
+KW  - Mathematical representation of competences
+KW  - Competence analysis
+KW  - Competence reference model
+AB  - Efficient human resource management needs accurate assessment and representation of available competences as well as effective mapping of required competences for specific jobs and positions. In this regard, appropriate definition and identification of competence gaps express differences between acquired and required competences. Using a detailed quantification scheme together with a mathematical approach is a way to support accurate competence analytics, which can be applied in a wide variety of sectors and fields. This article describes the combined use of software technologies and mathematical and statistical methods for assessing and analyzing competences in human resource information systems. Based on a standard competence model, which is called a Professional, Innovative and Social competence tree, the proposed framework offers flexible tools to experts in real enterprise environments, either for evaluation of employees towards an optimal job assignment and vocational training or for recruitment processes. The system has been tested with real human resource data sets in the frame of the European project called ComProFITS.
+ER  - 
+
+TY  - JOUR
+T1  - CFD-driven surrogate-based multi-objective shape optimization of an elbow type draft tube
+AU  - Demirel, Gizem
+AU  - Acar, Erdem
+AU  - Celebioglu, Kutay
+AU  - Aradag, Selin
+JO  - International Journal of Hydrogen Energy
+VL  - 42
+IS  - 28
+SP  - 17601
+EP  - 17610
+PY  - 2017
+DA  - 2017/07/13/
+T2  - Special Issue on The 4th European Conference on Renewable Energy Systems (ECRES 2016), 28-31 August 2016, Istanbul, Turkey
+SN  - 0360-3199
+DO  - https://doi.org/10.1016/j.ijhydene.2017.03.082
+UR  - http://www.sciencedirect.com/science/article/pii/S0360319917310066
+KW  - Francis turbine
+KW  - Draft tube
+KW  - Optimization
+KW  - Pressure recovery factor
+KW  - Meta-model
+AB  - Draft tube is the part of Francis turbines which is used to both discharge water and recover kinetic energy at the exit of the runner. A design optimization study of an elbow type draft tube based on the combined use of Computational Fluid Dynamics (CFD), design of experiments, surrogate models and multi-objective optimization is presented in this study. The geometric variables that specify the shape of the draft tube are chosen as input variables for surrogate models and the pressure recovery factor and the head loss are selected as output responses. It is determined that, pressure recovery factor, which is the main performance parameter, can be increased by 4.3%, and head loss can be reduced by %20 compared to the initial CFD aided design. Pressure recovery factor, is represented with a second order polynomial regression model in terms of the geometrical parameters based on the optimization results. The verification of the model is also provided by comparison with CFD results for different draft tubes other than that are used in the development of the model. The model is verified using 30 different design points and it can predict the pressure recovery factor with an error of less than 8%. This model allows the fast and correct design and optimization of elbow type draft tubes, without the need for further CFD simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-View Data approaches in Recommender Systems: an Overview: (Invited Paper)
+AU  - Palomares, Iván
+AU  - Kovalchuk, Sergey V.
+JO  - Procedia Computer Science
+VL  - 119
+SP  - 30
+EP  - 41
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 6th International Young Scientist Conference on Computational Science, YSC 2017, 01-03 November 2017, Kotka, Finland
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.11.157
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917323670
+KW  - Recommender Systems
+KW  - Collaborative Filtering
+KW  - Clustering
+KW  - Multi-View Data
+KW  - Multi-View Recommendation
+KW  - User Similarity
+KW  - User Trust
+KW  - Aggregation Functions
+AB  - This paper overviews an assortment of recent research work undertaken on recommender system models based on using multiple views of user and item-related data across the recommendation process. A summary of representative literature on multi-view recommender approaches is provided, describing their main characteristics, such as: their potential to overcome most common shortcomings in conventional recommender systems, as well as the use of data science, learning techniques and aggregation processes to combine information stemming from multiple views. A tabular summary is provided to facilitate the comparison of the similarities and differences among the surveyed works, along with commonly identified directions for future research in the topic.
+ER  - 
+
+TY  - JOUR
+T1  - Industrial maintenance decision-making: A systematic literature review
+AU  - Ruschel, Edson
+AU  - Santos, Eduardo Alves Portela
+AU  - Loures, Eduardo de Freitas Rocha
+JO  - Journal of Manufacturing Systems
+VL  - 45
+SP  - 180
+EP  - 194
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2017.09.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0278612517301309
+KW  - Industrial maintenance
+KW  - Decision-making
+KW  - Systematic literature review
+AB  - The increasing competition among industries has leveraged the emergence of various tools and methods for maintenance decision-making support. This paper identifies in literature the application areas of industrial maintenance decision-making, the relationships between these areas and the ways in which authors integrate tools and methods. This information makes it possible to identify trends and deficiencies in this context, helping to centralize the efforts required for future work. This work follows a series of structured steps for a systematic literature review of papers related to the main topic available in online databases. The selected papers are subject to a content assessment and grouped according to the application areas. The direct comparison between these areas and the construction of a relational matrix provide a quantitative interpretation of the results and well-structured information. Additionally, this paper proposes a framework based on information from the literature, which summarizes the origin and flow of information used in the development of models, showing the relationship among application areas of decision making. The research undertaken identifies trends focused on joint production systems optimization and increasing the deployment of methods for autonomous equipment predictions.
+ER  - 
+
+TY  - JOUR
+T1  - ExRET-Opt: An automated exergy/exergoeconomic simulation framework for building energy retrofit analysis and design optimisation
+AU  - García Kerdan, Iván
+AU  - Raslan, Rokia
+AU  - Ruyssevelt, Paul
+AU  - Morillón Gálvez, David
+JO  - Applied Energy
+VL  - 192
+SP  - 33
+EP  - 58
+PY  - 2017
+DA  - 2017/04/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2017.02.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0306261917301204
+KW  - Building energy retrofit
+KW  - Exergy
+KW  - Exergoeconomics
+KW  - Building simulation software
+KW  - Optimisation
+AB  - Energy simulation tools have a major role in the assessment of building energy retrofit (BER) measures. Exergoeconomic analysis and optimisation is a common practice in sectors such as the power generation and chemical processes, aiding engineers to obtain more energy-efficient and cost-effective energy systems designs. ExRET-Opt, a retrofit-oriented modular-based dynamic simulation framework has been developed by embedding a comprehensive exergy/exergoeconomic calculation method into a typical open-source building energy simulation tool (EnergyPlus). The aim of this paper is to show the decomposition of ExRET-Opt by presenting modules, submodules and subroutines used for the framework’s development as well as verify the outputs with existing research data. In addition, the possibility to perform multi-objective optimisation analysis based on genetic-algorithms combined with multi-criteria decision making methods was included within the simulation framework. This addition could potentiate BER design teams to perform quick exergy/exergoeconomic optimisation, in order to find opportunities for thermodynamic improvements along the building’s active and passive energy systems. The enhanced simulation framework is tested using a primary school building as a case study. Results demonstrate that the proposed simulation framework provide users with thermodynamic efficient and cost-effective designs, even under tight thermodynamic and economic constraints, suggesting its use in everyday BER practice.
+ER  - 
+
+TY  - CHAP
+T1  - Index
+A2  - AL-Oqla, Faris M.
+A2  - Salit, Mohd S.
+BT  - Materials Selection for Natural Fiber Composites
+PB  - Woodhead Publishing
+SP  - 273
+EP  - 278
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 978-0-08-100958-1
+DO  - https://doi.org/10.1016/B978-0-08-100958-1.09994-1
+UR  - http://www.sciencedirect.com/science/article/pii/B9780081009581099941
+ER  - 
+
+TY  - JOUR
+T1  - Cyclomatic Complexity for Determining Product Complexity Level in COCOMO II
+AU  - Subandri, Muhammad Asep
+AU  - Sarno, Riyanarto
+JO  - Procedia Computer Science
+VL  - 124
+SP  - 478
+EP  - 486
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 4th Information Systems International Conference 2017, ISICO 2017, 6-8 November 2017, Bali, Indonesia
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.12.180
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917329484
+KW  - Software Cost Estimation
+KW  - COCOMO
+KW  - Product Complexity Rating
+KW  - Cyclomatic Complexity
+AB  - Cost Construction Model (COCOMO) is an algorithmic software development cost estimation model, which requires accurate input values for each attribute. Input misjudgment on an attribute will have a great impact on the estimated effort. One of the attributes in COCOMO II is product complexity. Currently, the level of product complexity is assessed subjectively by an expert. This approach tends to be inaccurate because it is influenced by emotions, opinions and experiences. This paper proposes Cyclometer, a new approach based on the cyclomatic complexity metric to measure the product complexity level objectively. A comparison study was carried out and showed that the results comply with the expert judgments as indicated by moderate kappa statistic values.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid type-2 fuzzy based supplier performance evaluation methodology: The Turkish Airlines technic case
+AU  - Görener, Ali
+AU  - Ayvaz, Berk
+AU  - Kuşakcı, A. Osman
+AU  - Altınok, Emir
+JO  - Applied Soft Computing
+VL  - 56
+SP  - 436
+EP  - 445
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2017.03.026
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494617301503
+KW  - Fuzzy logic
+KW  - Supplier performance evaluation
+KW  - Multi criteria decision making
+KW  - Interval type-2 fuzzy AHP
+KW  - Interval type-2 fuzzy TOPSIS
+AB  - In the globalized world, fatal competition ruling in almost all business sectors hits especially airline companies due to the global nature of the industry. Thus, maintaining the business operations in a cost-effective manner is of paramount importance in this destructive business environment. While realizing this goal, a special focus on Maintenance Repair and Overhaul (MRO) operations is indispensable, considering that a significant proportion of expenses in the industry are originated from them. Since the MRO departments are responsible for maintenance, repair, and overhaul of aircrafts and engines under very strict standards, a smooth, clean-cut supply chain does not only provide a solid technical ground for daily operations but also it helps to gain a comparative advantage in cost leadership which, in turn, results with high customer satisfaction. Obviously, a key component of this chain is designing a robust and reliable Supplier Performance Evaluation (SPE) methodology where numerous tangible and intangible evaluation criteria come into play reflecting the multifaceted characteristic of the decision problem. This work proposes a three-phase hybrid approach to address the SPE problem in aviation industry where the suppliers are obliged to follow tight tolerances regarding quality and delivery times. Starting with selection of the most significant evaluation criteria, in the second stage, an Interval Type-2 Fuzzy (IT2F)-Analytic Hierarchy Process (AHP) is employed to determine their relative importance. These weights are then given as input to an IT2F-Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) method. We used the IT2F extensions due to the fact that some of the evaluation criteria are subjective and qualitative in nature. To prove the merit of the proposed methodology, an application is presented to SPE problem at Turkish Technic Inc., a subsidiary of Turkish Airlines.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective optimization for resin transfer molding process
+AU  - Okabe, Tomonaga
+AU  - Oya, Yutaka
+AU  - Yamamoto, Go
+AU  - Sato, Junki
+AU  - Matsumiya, Tsubasa
+AU  - Matsuzaki, Ryosuke
+AU  - Yashiro, Shigeki
+AU  - Obayashi, Shigeru
+JO  - Composites Part A: Applied Science and Manufacturing
+VL  - 92
+SP  - 1
+EP  - 9
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 1359-835X
+DO  - https://doi.org/10.1016/j.compositesa.2016.09.023
+UR  - http://www.sciencedirect.com/science/article/pii/S1359835X1630327X
+KW  - Resin transfer molding (RTM)
+KW  - Numerical analysis
+KW  - Multi-objective optimization
+KW  - Self-organizing map (SOM)
+AB  - A multi-objective optimization (MOO) approach for multi-point injection of resin-transfer molding (RTM) is proposed to investigate the trade-off relationship between productivity and quality for composite structures. With this approach, the optimum gate positions for their molding properties are evaluated using finite-element analysis (FEA) with a multiple-objective genetic algorithm (MOGA), and the trade-offs are visualized with the combination of a self-organizing map (SOM) and a scatter plot matrix (SPM). We applied this approach to RTM for flat-plate and rib models. For the flat-plate model, we found a negative correlation between fill time and weld line contents, and between fill time and dry spot contents. These results imply difficulty for simultaneous reduction of cycle time and void contents. For the rib model, some tendencies agree with those of the flat-plate model, and others do not. This difference comes from complexity of structure. We also found Pareto solutions that satisfy both productivity and quality for the flat-plate and rib models (i.e., gate positions such as a combination of diagonal and quadrangle positions for the flat-plate model, and aggregation of gate positions at a beam part for the rib model). Furthermore, we conducted simple experiments for the flat-plate model to validate the simulation result. The trends acquired from MOO qualitatively agree with the experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Potential survey of photovoltaic power plants using Analytical Hierarchy Process (AHP) method in Iran
+AU  - Azizkhani, Mostafa
+AU  - Vakili, Abdullah
+AU  - Noorollahi, Younes
+AU  - Naseri, Farzin
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 75
+SP  - 1198
+EP  - 1206
+PY  - 2017
+DA  - 2017/08/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2016.11.103
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032116308048
+KW  - Photovoltaic
+KW  - Geographic information system
+KW  - Remote sensing
+KW  - Analytical Hierarchy Process
+AB  - Solar energy plays a crucial and high-priority role in protecting and maintaining our future environment. One of the most important and outstanding factor in building a power plant is how to choose the appropriate and suitable site for solar power plants. The purpose of this research is to investigate the most felicitous locations in order to establish the photovoltaic power stations in Iran.it is highly recommended to closely consider the economical and geographical conditions. The required data were mostly obtained from satellite images and ground measurements. The principle in this paper forms some effective factors made up of in site selection and developed some guidelines about how to divide them into four categories including the value of solar radiation on earth's surface, the economic features, the technical factors and geographical considerations. It is extremely necessary to recognize the need to closely examine an important issue that these factors were analyzed and weighted by Analytical Hierarchy Process (AHP) and then the potential map was extracted. An understanding and appreciation of results represent appropriate locations namely Fars and Sistan and Baluchistan provinces which have higher potential to build Photovoltaic power plants. Ultimately, through research, it has been developed a model and map with maximum efficiency for gaining a deeper understanding of the most suitable location for the fixed panel power plant which was obtained.
+ER  - 
+
+TY  - JOUR
+T1  - Point of truth calibration for disease prioritisation—A case study of prioritisation of exotic diseases for the pig industry in Australia
+AU  - Brookes, V.J.
+AU  - Barry, S.C.
+AU  - Hernández-Jover, M.
+AU  - Ward, M.P.
+JO  - Preventive Veterinary Medicine
+VL  - 139
+SP  - 20
+EP  - 32
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0167-5877
+DO  - https://doi.org/10.1016/j.prevetmed.2017.01.017
+UR  - http://www.sciencedirect.com/science/article/pii/S0167587717300983
+KW  - Disease prioritisation
+KW  - Point of truth calibration (POTCal)
+KW  - Multicriteria decision analysis (MCDA)
+AB  - The objective of this study was to trial point of truth calibration (POTCal) as a novel method for disease prioritisation. To illustrate the application of this method, we used a previously described case-study of prioritisation of exotic diseases for the pig industry in Australia. Disease scenarios were constructed from criteria which described potential impact and pig-producers were asked to score the importance of each scenario. POTCal was used to model participants’ estimates of disease importance as a function of the criteria, to derive a predictive model to prioritise a range of exotic diseases. The best validation of producers’ estimates was achieved using a model derived from all responses. The highest weighted criteria were attack rate, case fatality rate and market loss, and the highest priority diseases were the vesicular diseases followed by swine fevers and zoonotic encephalitides. Comparison of results with a previous study in which probabilistic inversion was used to prioritise diseases for the same group of producers highlighted differences between disease prioritisation methods. Overall, this study demonstrated that POTCal can be used for disease prioritisation. An advantage of POTCal is that valid models can be developed that reflect decision-makers’ heuristics. Specifically, this evaluation of the use of POTCal in animal health illustrates how the judgements of participants can be incorporated into a decision-making process. Further research is needed to investigate the influence of scenarios presented to participants during POTCal evaluations, and the robustness of this approach applied to different disease issues (e.g. exotic versus endemic) and production types (e.g. intensive versus extensive). To our knowledge, this is the first report of the use of POTCal for disease prioritisation.
+ER  - 
+
+TY  - JOUR
+T1  - A General Morphological Analysis to Support Strategic Management Decisions in Public Transport Companies
+AU  - de Fátima Teles, Maria
+AU  - de Sousa, Jorge Freire
+JO  - Transportation Research Procedia
+VL  - 22
+SP  - 509
+EP  - 518
+PY  - 2017
+DA  - 2017/01/01/
+T2  - "19th EURO Working Group on Transportation Meeting, EWGT2016, 5-7 September 2016, Istanbul, Turkey"
+SN  - 2352-1465
+DO  - https://doi.org/10.1016/j.trpro.2017.03.069
+UR  - http://www.sciencedirect.com/science/article/pii/S2352146517302065
+KW  - General Morphological Analysis
+KW  - Environmental Management
+KW  - Strategic-Decision Making
+AB  - Abstract:
+This paper presents a General Morphological Analysis (GMA) meta-model aiming to help decision-makers wishing to integrate sustainability concerns into the company strategy. This is made by joining Operational Research (OR) analysts, decision-makers and stakeholders as participants in the problem structuring and formulation process. This is particularly relevant in societal issues, where public transport companies are particularly important. Indeed, public transport companies play a quite visible role in the dimensions of corporate social responsibility, namely because of four reasons: (i) they provide daily services crucial to mass customers’ mobility; (ii) their investments are usually of high value and rather sensitive to technological development; (iii) they play a crucial role in the energy sector and (iv) are strongly dependent upon macro-policies.
+ER  - 
+
+TY  - JOUR
+T1  - The influence of secondary effects on global warming and cost optimization of insulation in the building envelope
+AU  - Ylmén, Peter
+AU  - Mjörnell, Kristina
+AU  - Berlin, Johanna
+AU  - Arfvidsson, Jesper
+JO  - Building and Environment
+VL  - 118
+SP  - 174
+EP  - 183
+PY  - 2017
+DA  - 2017/06/01/
+SN  - 0360-1323
+DO  - https://doi.org/10.1016/j.buildenv.2017.03.019
+UR  - http://www.sciencedirect.com/science/article/pii/S036013231730118X
+KW  - Life cycle assessment
+KW  - Life cycle cost
+KW  - Optimization
+KW  - Building envelope
+KW  - Secondary effects
+AB  - The relative environmental impact from the building construction phase is increasing compared to the operation phase for new buildings. Therefore, it is important to consider the complete environmental life cycle of energy improvement measures. Many advanced optimization methods have been developed in recent years to assess building life cycle impact. However, these previous studies have not fully addressed the secondary effects, in other words, indirect effects outside the actual design option. This may lead to conclusions of optimization studies based on misleading calculation results. The main purpose this study was to highlight the relevance of including secondary effects in optimization of building design with respect to global warming potential and cost. This was done by conducting a parameter study of the building envelope insulation thickness with regard to global warming potential and life cycle costs, while considering secondary effects induced by the different design options. Findings from this study show that secondary effects influence the system boundary, algorithm architecture, results and the final conclusions of optimal building design. Omitting secondary effects can thus lead to incorrect decision on optimal solutions with regard to global warming potential and life cycle cost. Therefore, it is therefore important to take them into consideration when performing optimization studies of building design options.
+ER  - 
+
+TY  - JOUR
+T1  - Co-Design of Embeddable Diagnostics using Reduced-Order Models**The paper has been supported by SFI grants 12/RC/2289 and 13/RC/2094
+AU  - Provan, Gregory
+JO  - IFAC-PapersOnLine
+VL  - 50
+IS  - 1
+SP  - 12222
+EP  - 12229
+PY  - 2017
+DA  - 2017/07/01/
+T2  - 20th IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2017.08.2122
+UR  - http://www.sciencedirect.com/science/article/pii/S2405896317327908
+KW  - Fault Detection
+KW  - Supervision
+KW  - Safety of Technical Process: AI methods for FDI
+KW  - Design of fault tolerant/reliable systems
+KW  - Computational methods for FDI
+AB  - We develop a system for generating embedded diagnostics from an ODE model that can isolate faults given the memory and processing limitations of the embedded processor. This system trades off diagnosis isolation accuracy for inference time and/or memory in a principled manner. We use a Polynomial Regression approach for tuning the performance of an ensemble of low-fidelity ODE diagnosis models such that we achieve the target of embedded processing limits. We demonstrate our approach on a non-linear tank benchmark system.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid entropy – TOPSIS approach for energy performance prioritization in a rectangular channel employing impinging air jets
+AU  - Chauhan, Ranchan
+AU  - Singh, Tej
+AU  - Tiwari, Avinash
+AU  - Patnaik, Amar
+AU  - Thakur, N.S.
+JO  - Energy
+VL  - 134
+SP  - 360
+EP  - 368
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2017.06.021
+UR  - http://www.sciencedirect.com/science/article/pii/S0360544217310137
+KW  - Entropy
+KW  - TOPSIS
+KW  - Heat transfer
+KW  - Friction factor
+KW  - Sensitivity analysis
+AB  - Impinging air jets released against the heat transferring surface can transfer large amount of thermal energy between the surface and the fluid. The design parameters of a jet impingement device have to be optimized for maximum output from the system, taking into account the key performance defining criteria (PDCs). In the present study, the performance of impinging air jets in a rectangular channel has been studied experimentally based upon which the PDCs have been evaluated. Each performance criterion show a disparate trend in view of which it becomes essential to optimize the parameters based upon the output of the essential criteria. The combined Entropy and TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) method, a multi criterion decision making approach is applied for optimization of process parameters considering four different performance defining criteria simultaneously. Based upon entropy-TOPSIS approach, the jet diameter ratio, streamwise pitch ratio, spanwise pitch ratio and flow Reynolds number of 0.065, 0.435, 0.869 and 16000 respectively presents the best alternative set among all others to deliver the highest overall performance. Also, sensitivity analysis is carried out to study the stability and robustness of the ranking with respect to the weights of the PDCs.
+ER  - 
+
+TY  - JOUR
+T1  - Economic evaluation of building energy retrofits: A fuzzy based approach
+AU  - Ruparathna, Rajeev
+AU  - Hewage, Kasun
+AU  - Sadiq, Rehan
+JO  - Energy and Buildings
+VL  - 139
+SP  - 395
+EP  - 406
+PY  - 2017
+DA  - 2017/03/15/
+SN  - 0378-7788
+DO  - https://doi.org/10.1016/j.enbuild.2017.01.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0378778817300944
+KW  - Built environment
+KW  - Energy retrofits
+KW  - Life cycle cost analysis
+KW  - Fuzzy set theory
+AB  - Ongoing climate action programs are prompting more stringent energy performance standards for buildings. Consequently, energy retrofitting of existing buildings has become a common climate action initiative around the world. Building owners are keen to assess the technical and financial feasibility of energy retrofitting in pre-project planning stages. Life cycle cost analysis (LCCA) involves assessment of the economic cost of an asset or a service. LCCA, which is a data-intensive process, is heavily affected by data uncertainties; however, traditional deterministic LCCA models are oblivious to data uncertainty and this can have a significant effect on the final decision. As a solution, this paper proposes a novel LCCA approach for building energy retrofits. The proposed approach calculates life cycle cost (LCC) by adopting fuzzy set theory. In order to illustrate the proposed methodology, a case study was conducted for a public building operated in the Okanagan region of British Columbia, Canada. Two energy retrofit alternatives − a major retrofit and a deep retrofit − were compared using the proposed fuzzy set theory-based approach and the traditional deterministic LCCA approach. Even though the deterministic result had a strong membership to the fuzzy membership function of the LCC, the range of possible LCC is wide. Use of the fuzzy-based approach would enable the forecasting of possible future LCC as a result of changes in macro-economic factors. This information would allow building managers to plan for adverse future scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - f-MOPSO: An alternative multi-objective PSO algorithm for conjunctive water use management
+AU  - Rezaei, Farshad
+AU  - Safavi, Hamid R.
+AU  - Mirchi, Ali
+AU  - Madani, Kaveh
+JO  - Journal of Hydro-environment Research
+VL  - 14
+SP  - 1
+EP  - 18
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 1570-6443
+DO  - https://doi.org/10.1016/j.jher.2016.05.007
+UR  - http://www.sciencedirect.com/science/article/pii/S1570644316301563
+KW  - Conjunctive use
+KW  - Simulation-optimization model
+KW  - Multi-Objective Particle Swarm Optimization (MOPSO)
+KW  - Fuzzy inference system
+KW  - Artificial neural networks
+AB  - In recent years, evolutionary techniques have been widely used to search for the global optimum of combinatorial non-linear non-convex problems. In this paper, we present a new algorithm, named fuzzy Multi-Objective Particle Swarm Optimization (f-MOPSO) to improve conjunctive surface water and groundwater management. The f-MOPSO algorithm is simple in concept, easy to implement, and computationally efficient. It is based on the role of weighting method to define partial performance of each point (solution) in the objective space. The proposed algorithm employs a fuzzy inference system to consider all the partial performances for each point when optimizing the objective function values. The f-MOPSO algorithm was compared with two other well-known MOPSOs through a case study of conjunctive use of surface and groundwater in Najafabad Plain in Iran considering two management models, including a typical 12-month operation period and a 10-year planning horizon. Overall, the f-MOPSO outperformed the other MOPSO algorithms with reference to performance criteria and Pareto-front analysis while nearly fully satisfying water demands with least monthly and cumulative groundwater level (GWL) variation. The proposed algorithm is capable of finding the unique optimal solution on the Pareto-front to facilitate decisions to address large-scale optimization problems.
+ER  - 
+
+TY  - JOUR
+T1  - Source apportionment and risk assessment of PAHs in Brisbane River sediment, Australia
+AU  - Duodu, Godfred Odame
+AU  - Ogogo, Kenneth Nduka
+AU  - Mummullage, Sandya
+AU  - Harden, Fiona
+AU  - Goonetilleke, Ashantha
+AU  - Ayoko, Godwin A.
+JO  - Ecological Indicators
+VL  - 73
+SP  - 784
+EP  - 799
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 1470-160X
+DO  - https://doi.org/10.1016/j.ecolind.2016.10.038
+UR  - http://www.sciencedirect.com/science/article/pii/S1470160X16306355
+KW  - PAHs
+KW  - Surface sediments
+KW  - Source apportionment
+KW  - Diagnostic ratios
+KW  - MCDM and risk assessment
+AB  - Sediment samples collected over a 3-year period from Brisbane River, Australia, were analysed for fifteen (15) polycyclic aromatic hydrocarbons (PAHs). The total PAH concentrations varied from 148 to 3079ng/g with a mean concentration of 849±646ng/g. The study revealed that PAH input into the river was primarily dominated by pyrogenic sources as evidenced by the predominance of the high molecular weight (HMW) PAHs. Temporal variations of PAHs can be linked to the level of urbanization, with continuous input of combustion related PAHs in the commercial area of the river. Inherent deficiencies in using a single source identification/apportionment approach were overcome by using diagnostic ratios, principal component analysis/absolute principal component scores (PCA/APCS) and positive matrix factorization (PMF). Both, PCA/APCS and PMF resolved four (4) identical factors or sources of PAHs, namely: gasoline emissions, diesel emissions, biomass burning and natural gas combustion. Diagnostic ratios, PCA/APCS and PMF analysis indicated that vehicular emissions were the principal sources especially within the lower section of the river while biomass burning had moderate contribution. The distribution, temporal trend and source apportionment suggest the containment of industrial-derived sources of PAHs in the river. From an ecological point of view, the risk posed by PAHs in the Brisbane River sediment appears to be low. Nevertheless, when the investigated sites were ranked using multi-criteria decision making methods(MCDM) the commercial stratum was the most contaminated. Assessment of potential risks posed by incidental dermal exposure to PAHs revealed some degree of cancer risk, especially to children.
+ER  - 
+
+TY  - JOUR
+T1  - Data mining applications in accounting: A review of the literature and organizing framework
+AU  - Amani, Farzaneh A.
+AU  - Fadlalla, Adam M.
+JO  - International Journal of Accounting Information Systems
+VL  - 24
+SP  - 32
+EP  - 58
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 1467-0895
+DO  - https://doi.org/10.1016/j.accinf.2016.12.004
+UR  - http://www.sciencedirect.com/science/article/pii/S1467089515300488
+KW  - Data mining
+KW  - Accounting
+KW  - Literature review
+KW  - Framework
+KW  - Prospective
+KW  - Retrospective
+AB  - This paper explores the applications of data mining techniques in accounting and proposes an organizing framework for these applications. A large body of literature reported on specific uses of the important data mining paradigm in accounting, but research that takes a holistic view of these uses is lacking. To organize the literature on the applications of data mining in accounting, we create a framework that combines the two well-known accounting reporting perspectives (retrospection and prospection), and the three well-accepted goals of data mining (description, prediction, and prescription). The framework encapsulates a taxonomy of four categories (retrospective-descriptive, retrospective-prescriptive, prospective-prescriptive, and prospective-predictive) of data mining applications in accounting. The proposed framework revealed that the area of accounting that benefited the most from data mining is assurance and compliance, including fraud detection, business health and forensic accounting. The clear gaps seem to be in the two prescriptive application categories (retrospective-prescriptive and prospective-prescriptive), indicating opportunities for benefiting from data mining in these application categories. The framework presents a holistic view of the literature and systematically organizes it in a structurally logical and thematically coherent manner.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria building energy performance benchmarking through variable clustering based compromise TOPSIS with objective entropy weighting
+AU  - Wang, Endong
+AU  - Alp, Neslihan
+AU  - Shi, Jonathan
+AU  - Wang, Chao
+AU  - Zhang, Xiaodong
+AU  - Chen, Hong
+JO  - Energy
+VL  - 125
+SP  - 197
+EP  - 210
+PY  - 2017
+DA  - 2017/04/15/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2017.02.131
+UR  - http://www.sciencedirect.com/science/article/pii/S0360544217303146
+KW  - Building energy performance
+KW  - Multi-criteria benchmarking
+KW  - Clustering around Latent Variables
+KW  - TOPSIS
+KW  - Shannon entropy
+AB  - Enabling robust energy benchmarking to reliably locate performance inefficiency for upgrading is critical to the success of building retrofitting programs in building sector. Multi-criteria benchmarking is emerging as a more rational option over the traditional single-angle method to assess building performance which is fundamentally of multi-factor nature. Particularly, with its easier concept, the compromise Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) based multi-angle benchmarking appears attractive. Nevertheless, existing TOPSIS based procedures tend to ignore the common issue of multicollinearity trap which could result in misleading decisions. Meanwhile, variable clustering renders an empirical alternative for handling multicollinearity with high traceability. Combining with information-oriented Shannon entropy, this paper develops an iterative Clustering around Latent Variables (CLV) based objective entropy weighted TOPSIS approach for benchmarking building energy performance in a multi-factor manner. It essentially integrates the benefits of variable clustering to address multicollinearity with information theory for objective weighting on decision attributes in order to pursue TOPSIS benchmarking accuracy. A 324-dwelling case shows the robustness of the constructed procedure in a temporally dynamic context.
+ER  - 
+
+TY  - JOUR
+T1  - Inside Front Cover - Editorial Board Page
+JO  - Applied Soft Computing
+VL  - 59
+SP  - IFC
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/S1568-4946(17)30450-7
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494617304507
+ER  - 
+
+TY  - JOUR
+T1  - Multi objective H∞ active anti-roll bar control for heavy vehicles
+AU  - Vu, Van-Tan
+AU  - Sename, Olivier
+AU  - Dugard, Luc
+AU  - Gaspar, Peter
+JO  - IFAC-PapersOnLine
+VL  - 50
+IS  - 1
+SP  - 13802
+EP  - 13807
+PY  - 2017
+DA  - 2017/07/01/
+T2  - 20th IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2017.08.2071
+UR  - http://www.sciencedirect.com/science/article/pii/S2405896317327143
+KW  - Active anti-roll bar
+KW  -  control
+KW  - Multi-criteria optimization
+KW  - Genetic algorithms
+AB  - In the active anti-roll bar control on heavy vehicles, roll stability and energy consumption of actuators are two essential but conflicting performance objectives. In a previous work, the authors proposed an integrated model, including four electronic servo-valve hydraulic actuators in a linear yaw-roll model on a single unit heavy vehicle. This paper aims to design an active anti-roll bar control and solves a Multi-Criteria Optimization (MCO) problem formulated as an H∞ control problem where the weighting functions are optimally selected through the use of Genetic Algorithms (GAs). Thanks to GAs, the roll stability and the energy consumption are handled using a single high level parameter and illustrated via the Pareto optimality. Simulation results emphasize the simplicity and efficiency of the use of the GAs method for a MCO problem in H∞ active anti-roll bar control on heavy vehicles.
+ER  - 
+
+TY  - JOUR
+T1  - Investigating E tailer’s perceived Website Quality using Analytical Hierarchy Process Technique
+AU  - Pathania, Anjali
+AU  - Rasool, Gowhar
+JO  - Procedia Computer Science
+VL  - 122
+SP  - 1016
+EP  - 1023
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 5th International Conference on Information Technology and Quantitative Management, ITQM 2017
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.11.468
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917327217
+KW  - WEBQUAL
+KW  - Analytical Hierarchy Process
+KW  - Customer satisfaction
+KW  - E-commerce
+AB  - In the global competitive world, the internet is empowering consumers to purchase online and make comparisons in real time. Thus, e-commerce players have been continuously accentuating upon developing strategies to improvise their website service quality. This paper takes Analytical Hierarchy Process approach to measure the website service quality referred to as AHP-WEBQUAL (AHP-WQ). It attempts to measure the customer judgment towards different criteria that define website service quality. It also applies this judgment to identify customer preferences towards existing e-commerce websites. Amongst, WEBQUAL 4.0 dimensions as considered in the present study, Indian customers perceive usage to be most significant website quality dimension followed by information quality and service interaction quality. The research adds new domain of knowledge for practitioners and academicians by proposing a novel application of AHP which can be used to measure website service quality of multiple e-commerce companies.
+ER  - 
+
+TY  - JOUR
+T1  - A research on the application of fuzzy iteration clustering in the water conservancy project
+AU  - Lu, Shibao
+AU  - Shang, Yizi
+AU  - Li, Yuwen
+JO  - Journal of Cleaner Production
+VL  - 151
+SP  - 356
+EP  - 360
+PY  - 2017
+DA  - 2017/05/10/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2017.02.064
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652617302780
+KW  - Fuzzy clustering
+KW  - Fuzzy mode recognition
+KW  - Iteration
+KW  - Project bidding
+KW  - Bidding evaluation
+AB  - Water conservancy project bidding involves many aspects including nature, society, economy, and environment. In water conservancy project bidding evaluation, both quantitative and qualitative indexes are involved; moreover, different targets are often incommensurable and compete with each other. Scientific decision-making in bidding evaluation is key to linking the stages of project bidding; selecting an appropriate contractor is not only conducive to improving the project quality, but also helpful to achieve the goal of saving on investments. This paper intends to study the problem of multi-target group decision-making in project bidding processes via the use of the mathematical method of fuzzy clustering. Bidder 3 is finally chosen as the most suitable contractor for the construction of this project by determining the score matrix and index weight vector of the four bidders concerned. Results have indicated that the aforementioned method is more reasonable and reliable; thus, the bidding evaluation decision is more scientific.
+ER  - 
+
+TY  - JOUR
+T1  - Performance evaluation of GIS-based new ensemble data mining techniques of adaptive neuro-fuzzy inference system (ANFIS) with genetic algorithm (GA), differential evolution (DE), and particle swarm optimization (PSO) for landslide spatial modelling
+AU  - Chen, Wei
+AU  - Panahi, Mahdi
+AU  - Pourghasemi, Hamid Reza
+JO  - CATENA
+VL  - 157
+SP  - 310
+EP  - 324
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 0341-8162
+DO  - https://doi.org/10.1016/j.catena.2017.05.034
+UR  - http://www.sciencedirect.com/science/article/pii/S034181621730190X
+KW  - Landslide susceptibility
+KW  - ANFIS
+KW  - Genetic algorithm
+KW  - Differential evolution
+KW  - Particle swarm optimization
+KW  - Hanyuan County
+AB  - This paper presents GIS-based new ensemble data mining techniques that involve an adaptive neuro-fuzzy inference system (ANGIS) with genetic algorithm, differential evolution, and particle swarm optimization for landslide spatial modelling. This research was tested in Hanyuan County, which is a landslide-prone area in Sichuan Province, China. Different continuous and categorical landslide conditioning factors according to a literature review and data availability were selected, and their maps were digitized in a GIS environment. These layers are the slope angle, slope aspect, altitude, plan curvature, profile curvature, topographic wetness index, distance to faults, distance to rivers, distance to roads, lithology, normalized difference vegetation index and land use. According to historical information of individual landslide events, interpretation of the aerial photographs, and field surveys supported by the Sichuan Land Resources Bureau of China, 225 landslides were identified in the study area. The landslide locations were divided into two subsets, namely, training and validating (70/30), based on a random selection scheme. In this research, a probability certainty factor (PCF) model was used for the evaluation of the relationship between the landslides and conditioning factors. In the next step, three data mining techniques combined with the ANFIS model, including ANFIS-genetic algorithm (ANFIS-GA), ANFIS-differential evolution (ANFIS-DE), and ANFIS-particle swarm optimization (ANFIS-PSO), were used for the landslide spatial modelling and its zonation. Finally, the landslide susceptibility maps produced by the mentioned models were evaluated by the ROC curve. The results showed that the area under the curve (AUC) of all of the models was >0.75. At the same time, the highest AUC value was for the ANFIS-DE model (0.844), followed by ANGIS-GA (0.821), and ANFIS-PSO (0.780). In general, the proposed ensemble data mining techniques can be applied for land use planning and management of landslide susceptibility and hazard in the study area and in other areas.
+ER  - 
+
+TY  - JOUR
+T1  - Supplier selection and order allocation with green criteria: An MCDM and multi-objective optimization approach
+AU  - Hamdan, Sadeque
+AU  - Cheaitou, Ali
+JO  - Computers & Operations Research
+VL  - 81
+SP  - 282
+EP  - 304
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0305-0548
+DO  - https://doi.org/10.1016/j.cor.2016.11.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0305054816302696
+KW  - Supplier selection
+KW  - Planning
+KW  - Order allocation
+KW  - Green criteria
+KW  - Multi-criteria decision making
+KW  - Optimization
+AB  - This research provides a decision-making tool to solve a multi-period green supplier selection and order allocation problem. The tool contains three integrated components. First, fuzzy TOPSIS (technique for order of preference by similarity to ideal solution) is used to assign two preference weights to each potential supplier according to two sets of criteria taken separately: traditional and green. Second, top management uses an analytic hierarchy process (AHP) to assign a global importance weight to each of the two sets of criteria based on the strategy of the company and independently of the potential suppliers. Third, for each supplier, the preference weight obtained from fuzzy TOPSIS regarding the traditional criteria is then multiplied by the global importance weight of the set of traditional criteria. The same is done for the green criteria. The two combined preference weights obtained for each supplier are then used in addition to total cost to select the best suppliers and to allocate orders using multi-period bi-objective and multi-objective optimization. The mathematical models are solved using the weighted comprehensive criterion method and the branch-and-cut algorithm. The approach of this research has a major advantage: it provides top management with flexibility in giving more or less importance weight to green or traditional criteria regardless of the number of criteria in each category through the use of AHP, which reduces the effect of the number of criteria on the preference weight of the suppliers. Contrary to the case in which each supplier is evaluated on the basis of all criteria at the same time, the proposed approach would not necessarily result in a supplier with poor green performance being ranked among the best for a situation in which the number of green criteria is smaller than the number of traditional criteria. In this case, the final ranking would mainly depend on the global weight of the green criteria set given by the top management using AHP as well as on the ranking of the supplier in terms of green criteria obtained from fuzzy TOPSIS. Extensive numerical experiments are conducted in which the bi-objective and multi-objective models are compared and the effect of the separation between green and traditional criteria is investigated. The results show that the two optimization approaches provide very close solutions, which leads to a preference for the bi-objective approach because of its lower computation time. Moreover, the results confirm the flexibility of the proposed approach and show that combining all criteria in one set is a special case. Finally, a time study is performed, which shows that the bi-objective integer linear programming model has a polynomial computation time.
+ER  - 
+
+TY  - JOUR
+T1  - A fuzzy multi-criteria spatial decision support system for solar farm location planning
+AU  - Tavana, Madjid
+AU  - Santos Arteaga, Francisco J.
+AU  - Mohammadi, Somayeh
+AU  - Alimohammadi, Moslem
+JO  - Energy Strategy Reviews
+VL  - 18
+SP  - 93
+EP  - 105
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 2211-467X
+DO  - https://doi.org/10.1016/j.esr.2017.09.003
+UR  - http://www.sciencedirect.com/science/article/pii/S2211467X17300445
+KW  - Spatial decision support system
+KW  - Multi-criteria evaluation
+KW  - Location planning
+KW  - Solar farm
+KW  - Adaptive Neuro Fuzzy Inference System
+KW  - Fuzzy inference process
+AB  - In recent years, investment in solar energy has increased substantially across countries. Thus, selecting convenient locations for solar farms has become a fundamental problem when determining the investment required due to differences in climatic factors, the type and availability of land, transportation infrastructures, and the quality of power lines. Multi-Criteria Evaluation approaches based on crisp data are generally used in the selection process of optimal locations. However, despite being crisp, the data available when considering the evaluation criteria of the different alternatives constitute a discrete approximation performed on a spatial grid of potential locations. Thus, we introduce a three-stage fuzzy evaluation framework designed to account for the imprecision inherent to the evaluations when identifying the most convenient location for constructing solar power farms. First, we implement ANFIS (Adaptive Neuro-Fuzzy Inference System) on the set of grid intersection crisp data points and derive a coherent set of approximations per each potential discrete location and evaluation criterion. Then, the fuzzy AHP (Analytic Hierarchy Process) method is used to determine the weights of the different criteria considered from the linguistic evaluations provided by different experts. Finally, we define a set of if-then rules combining the different ANFIS evaluation criteria and their weights within a FIS (Fuzzy Inference System) whose output is used to determine the most convenient location for constructing a solar power farm. The efficacy of the proposed evaluation framework is demonstrated through its application to the Iranian regions of Kerman and Yazd.
+ER  - 
+
+TY  - JOUR
+T1  - A Multi-User Integrated Platform for Supporting the Design and Management of Urban Mobility Systems
+AU  - Fontes, Tânia
+AU  - Correia, José
+AU  - de Sousa, Jorge Pinho
+AU  - de Sousa, Jorge Freire
+AU  - Galvão, Teresa
+JO  - Transportation Research Procedia
+VL  - 27
+SP  - 35
+EP  - 42
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 20th EURO Working Group on Transportation Meeting, EWGT 2017, 4-6 September 2017, Budapest, Hungary
+SN  - 2352-1465
+DO  - https://doi.org/10.1016/j.trpro.2017.12.158
+UR  - http://www.sciencedirect.com/science/article/pii/S2352146517310645
+KW  - Social exclusion
+KW  - Social inclusion
+KW  - urban mobility
+KW  - public transport
+KW  - multi-user platforms
+AB  - Public transport networks were, in the past, mainly designed to maximize the efficiency of commuting trips. However, with such perspective there are considerable risks to marginalize some specific population groups (e.g. disabled, elderly, children, pregnant, people in poverty). For enhancing social inclusion and improving the accessibility of more vulnerable citizens, such networks are often redesigned and adjusted. Nevertheless, even with such adjustments, it is sometimes difficult to provide efficient services that fully address the real needs and capabilities of travelers, partially because of the failure in following the fast technological and demanding changes of modern societies. Taking in mind these challenges, we have developed a conceptual model to support knowledge sharing and decision-making in urban mobility, and to improve the way travel information is addressed. The multi-user integrated platform proposed in this work is supported by the idea that information from different channels must be centralized, organized, managed and properly distributed. This idea is grounded in two main principles: (i) past and real-time information from a wide range of sources is combined for knowledge extraction, and such knowledge is going to be used not only to allow travelers to better plan their trips, but also to help transport providers to develop services adapted to the needs and preferences of their customers; and (ii) information is provided in a personalized way taking into account socio-economical differences between groups of travelers.
+ER  - 
+
+TY  - JOUR
+T1  - Model-based Optimization of Ground Source Heat Pump Systems
+AU  - Ma, Zhenjun
+AU  - Xia, Lei
+JO  - Energy Procedia
+VL  - 111
+SP  - 12
+EP  - 20
+PY  - 2017
+DA  - 2017/03/01/
+T2  - 8th International Conference on Sustainability in Energy and Buildings, SEB-16, 11-13 September 2016, Turin, Italy
+SN  - 1876-6102
+DO  - https://doi.org/10.1016/j.egypro.2017.03.003
+UR  - http://www.sciencedirect.com/science/article/pii/S1876610217300206
+KW  - Control optimization
+KW  - Model-based approach
+KW  - GSHP systems
+KW  - Variable speed pumps
+AB  - This paper presents the development of an optimization strategy for ground source heat pump (GSHP) systems equipped with variable speed pumps in the ground loop system. The optimization problem is formulated using a model-based approach, in which the component models are used to estimate the system performance under various trial settings and an exhaustive search method is used to identify the optimal settings under the search ranges defined. The variable optimized is the outlet water temperature from the ground heat exchangers, which can be used as a set-point to control the operation of the variable speed pumps in the ground loop system. The overall objective of the optimization is to minimize the system power consumption while providing required building heating and cooling demand. The performance of the proposed strategy is tested and evaluated through simulations. It is shown that, compared to a two-stage control strategy for variable speed pumps, the proposed strategy can save 4.2% of cooling power consumption of the GSHP system studied. The methodology used in the development of this proposed strategy can be potentially useful for control optimization of any types of GSHP systems. For complex systems, a performance map can be generated based on this method and then used to practically control the operation of GSHP systems.
+ER  - 
+
+TY  - JOUR
+T1  - Contents
+JO  - Procedia Computer Science
+VL  - 110
+SP  - iii
+EP  - vi
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 14th International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2017) / 12th International Conference on Future Networks and Communications (FNC 2017) / Affiliated Workshops
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/S1877-0509(17)31328-5
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917313285
+ER  - 
+
+TY  - JOUR
+T1  - DEA cross-efficiency evaluation considering undesirable output and ranking priority: a case study of eco-efficiency analysis of coal-fired power plants
+AU  - Liu, Xiaohong
+AU  - Chu, Junfei
+AU  - Yin, Pengzhen
+AU  - Sun, Jiasen
+JO  - Journal of Cleaner Production
+VL  - 142
+SP  - 877
+EP  - 885
+PY  - 2017
+DA  - 2017/01/20/
+T2  - Special Volume on Improving natural resource management and human health to ensure sustainable societal development based upon insights gained from working within ‘Big Data Environments’
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2016.04.069
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652616303377
+KW  - Data envelopment analysis
+KW  - Cross-efficiency evaluation
+KW  - Undesirable output
+KW  - Ranking priority
+KW  - Eco-efficiency analysis
+AB  - Data envelopment analysis cross-efficiency evaluation has been widely accepted as a useful tool for performance evaluation and ranking of decision making units. However, the non-uniqueness of optimal weights is a problem that has reduced the usefulness of this powerful method. In addition, current studies generally have not considered the situation in which undesirable outputs appear in the data envelopment analysis cross-efficiency evaluation. To solve these problems, firstly, we present an equitable model for efficiency evaluation of decision-making units with undesirable outputs and introduce a technique for cross-efficiency evaluation considering undesirable outputs. Then, a ranking priority model is proposed considering the decision making units' intentions of pursuing the best ranking positions. In addition, an aggressive model is given to guarantee the uniqueness of the optimal solution. The proposed approach can not only solve the problem of non-uniqueness of optimal weights in data envelopment analysis cross-efficiency evaluation but also considers undesirable outputs and ranking preferences of the decision-making units. Finally, the proposed approach is applied for eco-efficiency analysis of coal-fired power plants in a big data environment, and the results show that most coal-fired power plants in China have not performed well.
+ER  - 
+
+TY  - JOUR
+T1  - Combined Tuning of Secondary Controller along with Energy Storage Devices in a Multi Area Interconnected Power System
+AU  - Prasad, Ch. Durga
+AU  - Kumar, G. Pavan
+AU  - Prasad, D.J.V.
+AU  - Srinivasu, N.
+AU  - Veerraju, M. Sai
+JO  - Energy Procedia
+VL  - 117
+SP  - 878
+EP  - 884
+PY  - 2017
+DA  - 2017/06/01/
+T2  - "First International Conference on Power Engineering Computing and CONtrol (PECCON-2017 ) 2nd -4th March .2017." Organized by School of Electrical Engineering, VIT University, Chennai, Tamil Nadu, India.
+SN  - 1876-6102
+DO  - https://doi.org/10.1016/j.egypro.2017.05.206
+UR  - http://www.sciencedirect.com/science/article/pii/S1876610217324475
+KW  - SMES
+KW  - frequency control
+KW  - PSO
+AB  - Simultaneous tuning of conventional secondary controller along with different energy storage devices is presented in this paper. For each generating unit of an interconnected power system, in addition to primary control, a secondary controller is placed to reduce the frequency oscillations and to control power flow between the areas which are interconnected together. In this paper, along with the secondary controllers, energy storage devices are placed for better control of system frequency and tie line powers. Particle swarm optimization algorithm is chosen for obtaining proper control parameters for both units. Later, the effect of these additional components is compared with the conventional two area interconnected power system. Simulation studies are carried out in MATLAB-SIMULINK.
+ER  - 
+
+TY  - CHAP
+T1  - 3 - Materials selection
+AU  - AL-Oqla, Faris M.
+AU  - Salit, Mohd S.
+A2  - AL-Oqla, Faris M.
+A2  - Salit, Mohd S.
+BT  - Materials Selection for Natural Fiber Composites
+PB  - Woodhead Publishing
+SP  - 49
+EP  - 71
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 978-0-08-100958-1
+DO  - https://doi.org/10.1016/B978-0-08-100958-1.00003-7
+UR  - http://www.sciencedirect.com/science/article/pii/B9780081009581000037
+KW  - Product design
+KW  - Materials screening
+KW  - Ashby charts
+KW  - Materials and design
+KW  - Artificial intelligence
+KW  - Computer-based material selection
+KW  - Knowledge based system
+KW  - Genetic algorithm
+KW  - Optimization methods
+AB  - Due to the rapid growth of the accessible set of materials (in both types and numbers), sophisticated relationships among various evaluative criteria, in addition to selection parameters of materials appear. This has made the synergy between materials characteristics and their desired performance in selecting the most appropriate materials for a particular application a challenging task. This chapter focuses on various aspects and issues related to materials selection. It discusses the relationship between materials selection and design, the need for materials selection, and presents a discussion on tools and techniques in materials selection. Conventional methods of materials selection, the famous Ashby chart, various advanced materials selection tools and techniques, either using procedure-based tools or artificial intelligence tools, are covered.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehensive Approach to Efficient Planning of Formwork Utilization on the Construction Site
+AU  - Krawczyńska-Piechna, Anna
+JO  - Procedia Engineering
+VL  - 182
+SP  - 366
+EP  - 372
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 7th International Conference on Engineering, Project, and Production Management
+SN  - 1877-7058
+DO  - https://doi.org/10.1016/j.proeng.2017.03.114
+UR  - http://www.sciencedirect.com/science/article/pii/S187770581731250X
+KW  - formwork
+KW  - monolithic concrete works
+KW  - interactive planning
+KW  - efficiency of formwork utilization
+AB  - The paper presents a consistent approach to concrete works planning, which begins with formwork selection and ends with project scheduling. To work out the problem of formwork selection, selected MCDA methods are recommended. In order to apply them, the decisive criteria were recognized with a structured survey sent to contractors. The efficiency of formwork utilization is measured with a virtual cost of formwork under utilization, so when the formwork is available on the construction site but remains unused or when it should be struck but remains unremoved from the construction. Such measure was determined, after having analysed various criteria of schedule quality and optimality assessment.
+ER  - 
+
+TY  - JOUR
+T1  - Advanced mobile and wearable systems
+AU  - Jóźwiak, Lech
+JO  - Microprocessors and Microsystems
+VL  - 50
+SP  - 202
+EP  - 221
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0141-9331
+DO  - https://doi.org/10.1016/j.micpro.2017.03.008
+UR  - http://www.sciencedirect.com/science/article/pii/S0141933117300741
+KW  - Cyber-physical systems
+KW  - Mobile systems
+KW  - Heterogeneous systems
+KW  - Massively parallel systems
+KW  - Multi-processor systems on a chip
+KW  - Automated design technology
+AB  - The recent spectacular progress in the microelectronic, information, communication, material and sensor technologies created a big stimulus towards development of smart communicating cyber-physical systems (CPS) and Internet of Things (IoT). CPS and IoT are undergoing an explosive growth to a large degree related to advanced mobile systems like smart automotive and avionic systems, mobile robots and wearable devices. The huge and rapidly developing markets of sophisticated mobile cyber-physical systems represent great opportunities, but these opportunities come with a price of unusual system complexity, as well as, stringent and difficult to satisfy requirements of many modern applications. Specifically, smart cars and various wearable systems to a growing degree involve big instant data from multiple complex sensors or other systems, and are required to provide continuous autonomous service in a long time. In consequence, they demand a guaranteed (ultra-)high performance and/or (ultra-)low energy consumption, while requiring a high reliability, safety and security. To adequately address these demands, sophisticated embedded computing and embedded design technologies are needed. After an introduction to modern mobile systems, this paper discusses the huge heterogeneous area of these systems, and considers serious issues and challenges in their design. Subsequently, it discusses the embedded computing and design technologies needed to adequately address the issues and overcome the challenges in order to satisfy the stringent requirements of the modern mobile systems.
+ER  - 
+
+TY  - CHAP
+T1  - Contents of Volumes in this Series
+A2  - Memon, Atif M.
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 105
+SP  - 177
+EP  - 192
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/S0065-2458(17)30008-6
+UR  - http://www.sciencedirect.com/science/article/pii/S0065245817300086
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid Flow Shop Management: Multi Objective Optimisation
+AU  - Lassig, Lorenzo
+AU  - Mazzer, Fabio
+AU  - Nicolich, Marino
+AU  - Poloni, Carlo
+JO  - Procedia CIRP
+VL  - 62
+SP  - 147
+EP  - 152
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 10th CIRP Conference on Intelligent Computation in Manufacturing Engineering - CIRP ICME '16. [Edited by: Roberto Teti, Manager Editor: Doriana M. D'Addona]
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2016.06.007
+UR  - http://www.sciencedirect.com/science/article/pii/S2212827116306254
+KW  - Optimisation
+KW  - simulation
+KW  - management
+KW  - production
+KW  - flow
+AB  - The objectives of the optimisation management that considers both assembly and production Hybrid Flow-Shops lines are several: optimal numbers of machines, shifts, product priority and time-period scheduling. The approach uses a combination of DES software with an MDO (Multidisciplinary Design Optimization) software.. The DES model is optimized following the process: 1) A Multi-objective Genetic Algorithm cycle generates a set of optimal solutions; 2) A Clustering cycle groups the solutions into different sets; 3) The selection of the preferred solution via post-processing; 4) A mono-objective optimisation of each cluster; and 5) creation of weekly scheduling with optimal results. Finally, application and results are described and discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Towards next-generation energy planning decision-making: An expert-based framework for intelligent decision support
+AU  - Sellak, Hamza
+AU  - Ouhbi, Brahim
+AU  - Frikh, Bouchra
+AU  - Palomares, Iván
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 80
+SP  - 1544
+EP  - 1577
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2017.07.013
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032117310833
+KW  - Energy planning
+KW  - Decision-making
+KW  - Uncertainty
+KW  - Artificial intelligence
+KW  - Knowledge management
+KW  - Intelligent decision support systems
+KW  - Expert systems
+AB  - Achieving sustainable energy planning and development involves complex decision-making processes. The energy planning decision-making (EPDM) field relies on a plethora of decision analysis methods that offered many solutions to process a variety of energy management and strategic decision-making problems. However, current EPDM solutions are unable to overcome the increasing complexity of strategic energy planning situations involving a large number of stakeholders in uncertain, dynamic, and distributed environments. This raises significant new challenges for researchers in both decision sciences and renewable and sustainable energy planning. On the basis of a representative assortment of peer-reviewed related literature selected by querying multiple electronic databases and indexed in Scopus and Web of Science databases domain journals over the last 12 years, this paper exhaustively highlights and discusses limitations of existing strategic EPDM solutions. The analysis is based on a classification specially developed by holistically harmonizing important domain concepts to categorize the considered representative sample of the field of interest. Additionally, this paper integrates results and conclusions from some recent and most cited literature reviews to (i) formulate essential evidence as well as practical and conclusive literature's support– alongside with the formulated representative sample –to this paper's subsequent insights and statements, and (ii) guarantee that no relevant articles have been excluded. A total of 78 related works is gathered and analyzed to provide a general view and discussion on major complexities found in classical/traditional strategic EPDM solutions and challenges for next-generation EPDM solutions. Moreover, a comparative analysis of the two solutions and a set of “quality indexes” of a next-generation EPDM solution were identified and some proposals were made to improve future applicative research. As an original result coming from the “quality indexes” identified through the review process, an intelligent expert-based framework for next-generation EPDM solutions is developed for enhanced renewable and sustainable energy planning.
+ER  - 
+
+TY  - JOUR
+T1  - Critical review of hedonic pricing model application in property price appraisal: A case of Nigeria
+AU  - Abidoye, Rotimi Boluwatife
+AU  - Chan, Albert P.C.
+JO  - International Journal of Sustainable Built Environment
+VL  - 6
+IS  - 1
+SP  - 250
+EP  - 259
+PY  - 2017
+DA  - 2017/06/01/
+SN  - 2212-6090
+DO  - https://doi.org/10.1016/j.ijsbe.2017.02.007
+UR  - http://www.sciencedirect.com/science/article/pii/S2212609016300383
+KW  - Hedonic pricing model
+KW  - Real estate research
+KW  - Property price
+KW  - The Lagos metropolis
+KW  - Nigeria
+AB  - The hedonic pricing model (HPM) technique has been widely adopted for property price appraisal by scholars and professionals in different real estate markets around the world. Despite its popularity in this research domain, the trend of the application of HPM in Nigeria, being the largest economy in Africa, is unknown and has not been documented. This study, therefore, aims to critically review the extant literature of the HPM property price appraisal related articles published in Nigeria. Papers published in this research area were retrieved from online databases and search engines. The authors’ contributions, authors’ affiliations, the focused study areas and the annual publication trend of the articles were reviewed. The first application of HPM in Nigeria was recorded in 1986. Thereafter, there have been fluctuations in the number of annual publications. However, there have been a considerable number of articles published since 2010. The authors have largely focused on the Lagos metropolis property market as a study area. It was also found that most of the authors were university scholars and on the other side, real estate professionals have not contributed significantly to this research topic. In order to achieve a sustainable real estate practice in Nigeria, the gap between theory and practice should be bridged.
+ER  - 
+
+TY  - JOUR
+T1  - Statistical inference and adaptive design for materials discovery
+AU  - Lookman, Turab
+AU  - Balachandran, Prasanna V.
+AU  - Xue, Dezhen
+AU  - Hogden, John
+AU  - Theiler, James
+JO  - Current Opinion in Solid State and Materials Science
+VL  - 21
+IS  - 3
+SP  - 121
+EP  - 128
+PY  - 2017
+DA  - 2017/06/01/
+T2  - Materials Informatics: Insights, Infrastructure, and Methods
+SN  - 1359-0286
+DO  - https://doi.org/10.1016/j.cossms.2016.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1359028616301528
+KW  - Experimental design
+KW  - Adaptive learning
+KW  - Statistical inference
+KW  - Materials design
+AB  - A key aspect of the developing field of materials informatics is optimally guiding experiments or calculations towards parts of the relatively vast feature space where a material with desired property may be discovered. We discuss our approach to adaptive experimental design and the methods developed in decision theory and global optimization which can be used in materials science. We show that the use of uncertainties to trade-off exploration versus exploitation to guide new experiments or calculations generally leads to enhanced performance, highlighting the need to evaluate and incorporate errors in predictive materials design. We illustrate our ideas on a computed data set of M2AX phases generated using ab initio calculations to find the sample with the optimal elastic properties, and discuss how our approach leads to the discovery of new NiTi-based alloys with the smallest thermal dissipation.
+ER  - 
+
+TY  - JOUR
+T1  - Experimental investigation on the heat transfer performance of a PCM based pin fin heat sink with discrete heating
+AU  - Srikanth, R.
+AU  - Balaji, C.
+JO  - International Journal of Thermal Sciences
+VL  - 111
+SP  - 188
+EP  - 203
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 1290-0729
+DO  - https://doi.org/10.1016/j.ijthermalsci.2016.08.018
+UR  - http://www.sciencedirect.com/science/article/pii/S1290072916300539
+KW  - Phase change material
+KW  - Heat sinks
+KW  - Electronic cooling
+KW  - Multi objective optimization
+KW  - NSGA-II
+AB  - This paper reports the results of an experimental investigation of the heat transfer performance of a phase change material (PCM) based composite 72 pin fin heat sink subjected to individual heat loading of 4 discrete heaters of equal area. The investigation is then followed by multi objective optimization of the individual heat inputs, wherein the total power of the heaters is fixed. The PCM used is n-eicosane and the heat sink is made of aluminium. First, in house experiments are conducted for different combinations of power. The hotspots imposed by spatially non uniform heat flux are seen to have a considerable effect on the melting and solidification cycle and hence on the thermal performance of the heat sink. The diversity in the performance of heat sink motivates us to perform a multi objective optimization using Non-dominated sorting genetic algorithm (NSGA-II) to determine the optimum combination of the discrete power levels, that stretches the charging period and minimizes the discharging period of the heat sink simultaneously. The solutions obtained thus obtained are validated by conducting in house experiments. This study establishes the fact that discrete heating scenarios have to be considered in the future optimization of the heat sinks.
+ER  - 
+
+TY  - JOUR
+T1  - Weighted aggregation of partial rankings using Ant Colony Optimization
+AU  - Nápoles, Gonzalo
+AU  - Falcon, Rafael
+AU  - Dikopoulou, Zoumpoulia
+AU  - Papageorgiou, Elpiniki
+AU  - Bello, Rafael
+AU  - Vanhoof, Koen
+JO  - Neurocomputing
+VL  - 250
+SP  - 109
+EP  - 120
+PY  - 2017
+DA  - 2017/08/09/
+T2  - Applications in Computational Intelligence (Selected an improved papers of the 13th International Work-Conference on Artificial Neural Networks, IWANN2015)
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2016.07.073
+UR  - http://www.sciencedirect.com/science/article/pii/S0925231217302242
+KW  - Kemeny ranking problem
+KW  - Partial rankings
+KW  - Weighted aggregation
+KW  - Swarm intelligence
+KW  - Ant Colony Optimization
+AB  - The aggregation of preferences (expressed in the form of rankings) from multiple experts is a well-studied topic in a number of fields. The Kemeny ranking problem aims at computing an aggregated ranking having minimal distance to the global consensus. However, it assumes that these rankings will be complete, i.e., all elements are explicitly ranked by the expert. This assumption may not simply hold when, for instance, an expert ranks only the top-K items of interest, thus creating a partial ranking. In this paper we formalize the weighted Kemeny ranking problem for partial rankings, an extension of the Kemeny ranking problem that is able to aggregate partial rankings from multiple experts when only a limited number of relevant elements are explicitly ranked (top-K), and this number may vary from one expert to another (top-Ki). Moreover, we introduce two strategies to quantify the weight of each partial ranking. We cast this problem within the realm of combinatorial optimization and lean on the successful Ant Colony Optimization (ACO) metaheuristic algorithm to arrive at high-quality solutions. The proposed approach is evaluated through a real-world scenario and 190 synthetic datasets from www.PrefLib.org. The experimental evidence indicates that the proposed ACO-based solution is capable of significantly outperforming several evolutionary approaches that proved to be very effective when dealing with the Kemeny ranking problem.
+ER  - 
+
+TY  - JOUR
+T1  - The fuzzy cognitive pairwise comparisons for ranking and grade clustering to build a recommender system: An application of smartphone recommendation
+AU  - Yuen, Kevin Kam Fung
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 61
+SP  - 136
+EP  - 151
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2017.02.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0952197617300246
+KW  - Recommender system
+KW  - Information retrieval
+KW  - Product recommendation
+KW  - Fuzzy theory
+KW  - Pairwise comparisons
+KW  - Clustering
+KW  - Decision making
+KW  - User experience
+AB  - In a competitive high-end product market, many enterprises offer a variety of products to compete the market shares in different segments. Due to rich information of plenty of competitive product alternatives, consumers face the challenges to compare and choose the most suitable products. Whilst a product comprises different tangible and intangible features, consumers tend to buy the features rather than a product itself. A successful product has most features meeting the consumer needs. Perception values of product features from consumers are complex to be measured and predicted. To reduce information overload for searching their preferred products, this paper proposes the Fuzzy Cognitive Pairwise Comparison for Ranking and Grading Clustering (FCPC-RGC) to build a recommender system. The fuzzy number enables rating flexibility for the users to handle rating uncertainty. The Fuzzy Cognitive Pairwise Comparison (FCPC) is used to evaluate consumer preferences for multiple features of a product by pairwise comparison ratings. The Fuzzy Grade Clustering (FGC) is used to group the product alternatives into different consumer preference grades. To verify the validity and applicability of FCPC-RGC, a smartphone recommender system using the proposal approach is demonstrated how the system is able to help the consumers to recommend the suitable products according to the customers’ individual preference.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-factor and high-order stock forecast model based on Type-2 FTS using cuckoo search and self-adaptive harmony search
+AU  - Zhang, Wenyu
+AU  - Zhang, Shixiong
+AU  - Zhang, Shuai
+AU  - Yu, Dejian
+AU  - Huang, NingNing
+JO  - Neurocomputing
+VL  - 240
+SP  - 13
+EP  - 24
+PY  - 2017
+DA  - 2017/05/31/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2017.02.054
+UR  - http://www.sciencedirect.com/science/article/pii/S0925231217303454
+KW  - Type-2 fuzzy time series
+KW  - Cuckoo search
+KW  - Harmony search
+KW  - High orders and multi-factors
+KW  - Stock forecast
+AB  - With the developing economy, an increasing number of factors and high-order data have considerably influenced fluctuations in stock. The fuzzy time series (Type-1) model has been recently studied by many scholars. In this study, an enhanced model on the study of stock forecasting is proposed. This model is a multi-factor and high-order time series forecast model that the Type-2 fuzzy time series model by integrating several other factors. We first employ the cuckoo search algorithm instead of the conventional average method to partition the universe of discourse, and then propose a novel self-adaptive harmony search algorithm to optimize the high-order weight. Furthermore, the Shanghai Stock Exchange Composite Index and Taiwan Stock Exchange Capitalization Weighted Stock Index are used to verify the better performance of the proposed method. Experimental results show that the proposed method outperforms other baseline methods.
+ER  - 
+
+TY  - JOUR
+T1  - Alternative ventilation strategies in U.S. offices: Saving energy while enhancing work performance, reducing absenteeism, and considering outdoor pollutant exposure tradeoffs
+AU  - Ben-David, Tom
+AU  - Rackes, Adams
+AU  - Waring, Michael S.
+JO  - Building and Environment
+VL  - 116
+SP  - 140
+EP  - 157
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0360-1323
+DO  - https://doi.org/10.1016/j.buildenv.2017.02.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0360132317300574
+KW  - Indoor air quality (IAQ)
+KW  - Healthy buildings
+KW  - Energy efficiency
+KW  - Multi-criteria decision-making
+KW  - Building energy simulation
+KW  - Economizer controls
+AB  - Mechanical ventilation can improve occupant productivity, use or save energy, and increase outdoor-to-indoor pollutant transport. This work explores those impacts for eight ventilation strategies, relative to a baseline constant mechanical ventilation rate (VR) of 9.4 L/s/occ, in two representative offices. Strategies were unique combinations of airside economizing, demand-controlled ventilation, and supply air temperature reset, along with doubling the baseline VR. These were evaluated within a Monte Carlo analysis that varied climate and outdoor pollution, along with 19 building parameters. Energy modeling, empirical correlations, and indoor air quality (IAQ) modeling were used to quantify outcomes of: (i) energy use; (ii) profitable IAQ impacts, e.g. work performance; and (iii) negative IAQ health impacts due to indoor particle and ozone exposure. ‘Win-win’ strategies were defined as those that saved energy and increased work performance, and these always included an economizer. Relative to the baseline, the win-win strategies: increased annual geometric mean VRs by 5–10 L/s/occ; reduced mechanical system energy consumption by 12–27% (saving $1–1.75/m2/year); increased work performance by 0.5%; eliminated 5 h of absenteeism per year; and increased indoor PM2.5 by 0.5 μg/m3 and ozone by 3 ppb. A sensitivity analysis identified infiltration and climate as the largest outcome drivers. Median annual benefits for small-to-medium-large offices in the U.S. (∼75% of office floorspace) were $28 billion for implementing the win-win strategy with the greatest energy savings, and $55 billion for implementing the win-win strategy with the greatest work performance increase. Particle exposure tradeoffs were mitigated by use of efficient filters.
+ER  - 
+
+TY  - JOUR
+T1  - Contents
+JO  - Procedia Computer Science
+VL  - 108
+SP  - iii
+EP  - xviii
+PY  - 2017
+DA  - 2017/01/01/
+T2  - International Conference on Computational Science, ICCS 2017, 12-14 June 2017, Zurich, Switzerland
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/S1877-0509(17)31147-X
+UR  - http://www.sciencedirect.com/science/article/pii/S187705091731147X
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive survey of traditional, merge-split and evolutionary approaches proposed for determination of cluster number
+AU  - Hancer, Emrah
+AU  - Karaboga, Dervis
+JO  - Swarm and Evolutionary Computation
+VL  - 32
+SP  - 49
+EP  - 67
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 2210-6502
+DO  - https://doi.org/10.1016/j.swevo.2016.06.004
+UR  - http://www.sciencedirect.com/science/article/pii/S2210650216300475
+KW  - Clustering
+KW  - Validity indexes
+KW  - Automatic cluster evolution
+KW  - Knee point
+KW  - Evolutionary algorithms
+AB  - Today's data mostly does not include the knowledge of cluster number. Therefore, it is not possible to use conventional clustering approaches to partition today's data, i.e., it is necessary to use the approaches that automatically determine the cluster number or cluster structure. Although there has been a considerable attempt to analyze and categorize clustering algorithms, it is difficult to find a survey paper in the literature that has thoroughly focused on the determination of cluster number. This significant issue motivates us to introduce concepts and review methods related to automatic cluster evolution from a theoretical perspective in this study.
+ER  - 
+
+TY  - JOUR
+T1  - Managing critical supply chain issues in Indian healthcare
+AU  - Singh, Sudhanshu
+AU  - Verma, Rakesh
+AU  - Koul, Saroj
+JO  - Procedia Computer Science
+VL  - 122
+SP  - 315
+EP  - 322
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 5th International Conference on Information Technology and Quantitative Management, ITQM 2017
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.11.375
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917326182
+KW  - Supply chain
+KW  - healthcare
+KW  - hospital
+KW  - issues
+KW  - issue-based decision-making
+KW  - India
+AB  - This exploratory study proposes a new approach that utilized pre-built issues libraries in healthcare supply chain. Supply chain related issues are collected and deduced from the literature to build issues libraries. This is followed by application of group decision-making for their prioritization and defining solution requirements from doctors’ perspectives. A new approach of shared decision-making is proposed by utilizing literature for developing pre-built issues libraries as an input to shared decision-making. Quick identification and resolution mean that an organisation is continually learning and moving towards excellence. It can be used as a checklist for comparison within and across organisations. Usage of open source applications such as Google Sheets and WhatsApp was utilized for geographically dispersed experts.
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent simulation: Integration of SIMIO and MATLAB to deploy decision support systems to simulation environment
+AU  - Dehghanimohammadabadi, Mohammad
+AU  - Keyser, Thomas K.
+JO  - Simulation Modelling Practice and Theory
+VL  - 71
+SP  - 45
+EP  - 60
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 1569-190X
+DO  - https://doi.org/10.1016/j.simpat.2016.08.007
+UR  - http://www.sciencedirect.com/science/article/pii/S1569190X16301356
+KW  - Intelligent simulation
+KW  - Simulation-Optimization (SO)
+KW  - Iterative Optimization-based Simulation (IOS)
+KW  - SIMIO
+KW  - MATLAB
+AB  - Discrete-event simulation is a decision support tool which enables practitioners to model and analyze their own system behavior. Although simulation packages are capable of mimicking most tasks in a real-world system, there are some decision-making activities, which are beyond the reach of simulation packages. The Application Programmers Interface (API) of SIMIO provides a wide range of opportunities for researchers to develop their own logic and apply it during the simulation run. This paper illustrates how to deploy MATLAB, as a computational tool coupled with SIMIO, as a simulation package by using a new user-defined step instance named “CallMATLAB”. A manufacturing system case study is introduced where the CallMATLAB step instance is used to create an Iterative Optimization-based Simulation (IOS) model. This model is created to evaluate the performance of different optimizers. The benefits of this hybridization for other industries, including healthcare systems, supply chain management systems, and project management problems are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of the external forces affecting the sustainability of oil and gas supply chain using Best Worst Method
+AU  - Wan Ahmad, Wan Nurul Karimah
+AU  - Rezaei, Jafar
+AU  - Sadaghiani, Saman
+AU  - Tavasszy, Lóránt A.
+JO  - Journal of Cleaner Production
+VL  - 153
+SP  - 242
+EP  - 252
+PY  - 2017
+DA  - 2017/06/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2017.03.166
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652617306200
+KW  - Sustainable supply chain management
+KW  - Oil and gas
+KW  - External forces
+KW  - Multi-criteria decision-making
+KW  - Best Worst Method
+AB  - The world’s economy is highly dependent on oil and gas (O&G) sources. However, O&G development and use can cause negative impacts on the environment and society in terms of, for example, carbon emissions and community displacement. A sustainable O&G supply chain management practices may help to mitigate these problems. Current research on sustainable supply chain management (SSCM) in the O&G industry context, however, falls short in understanding the external forces that facilitate or hinder its implementation. This paper aims to address this gap by quantitatively assessing the importance of these forces to SSCM practices in the industry. It focuses on six external forces: economic stability, political stability, stakeholder pressure, competition, energy transition and regulations. A survey was conducted among academic experts in the SSCM and O&G field from American and European universities to obtain individual measures of importance. Similar survey was conducted in two national O&G companies from developing countries. We analyzed data gathered using the Best Worst Method (BWM) to identify the collective importance of the forces. The findings from the academic experts and practitioners indicate that economic and political stability are the most important forces; energy transition, on the other hand, is the least important force that could influence SSCM in the O&G industry. Interestingly, while academic experts think that regulatory factor is the second least important external force, it is the third most important factor according to practitioners. Our findings demonstrate the importance of identifying the context of SSCM practices in order to understand how sustainable supply chain strategies can be designed and implemented more effectively.
+ER  - 
+
+TY  - JOUR
+T1  - Review of design optimization methods for turbomachinery aerodynamics
+AU  - Li, Zhihui
+AU  - Zheng, Xinqian
+JO  - Progress in Aerospace Sciences
+VL  - 93
+SP  - 1
+EP  - 23
+PY  - 2017
+DA  - 2017/08/01/
+SN  - 0376-0421
+DO  - https://doi.org/10.1016/j.paerosci.2017.05.003
+UR  - http://www.sciencedirect.com/science/article/pii/S037604211730088X
+AB  - In today's competitive environment, new turbomachinery designs need to be not only more efficient, quieter, and “greener” but also need to be developed at on much shorter time scales and at lower costs. A number of advanced optimization strategies have been developed to achieve these requirements. This paper reviews recent progress in turbomachinery design optimization to solve real-world aerodynamic problems, especially for compressors and turbines. This review covers the following topics that are important for optimizing turbomachinery designs. (1) optimization methods, (2) stochastic optimization combined with blade parameterization methods and the design of experiment methods, (3) gradient-based optimization methods for compressors and turbines and (4) data mining techniques for Pareto Fronts. We also present our own insights regarding the current research trends and the future optimization of turbomachinery designs.
+ER  - 
+
+TY  - JOUR
+T1  - Context-aware recommender systems in mobile environment: On the road of future research
+AU  - Ben Sassi, Imen
+AU  - Mellouli, Sehl
+AU  - Ben Yahia, Sadok
+JO  - Information Systems
+VL  - 72
+SP  - 27
+EP  - 61
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 0306-4379
+DO  - https://doi.org/10.1016/j.is.2017.09.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0306437916303106
+KW  - Recommender systems
+KW  - Mobile environment
+KW  - Contextual factors
+KW  - Recommendation process
+KW  - Systematic review
+KW  - Mobile context-aware recommender
+AB  - Recommender systems have recently been singled out as a fascinating area of research, owing to the technological progress in mobile devices, such as smartphones and tablets, as well as to the rapid growth of social networking. In this respect, the main purpose of recommender systems is to suggest items that help users to make decisions from a large number of possible actions such as what place to visit, what movie to watch, or which friend to add to a social network system. In mobile environment, many personal, social and environmental contextual factors can be integrated into the recommendation process in order to provide the correct recommendation to a special user, at the perfect moment, in the appropriate location based on his/her emotional state, his/her current activity and past behavior. This paper provides an overview of context-aware recommender systems in mobile environment. The objective of this systematic review is to investigate the current state of the art in context-aware recommender systems and classify the reviewed research papers. This study aims equally to identify the possible future directions in this research area.
+ER  - 
+
+TY  - JOUR
+T1  - Towards an efficient and a more accurate web service selection using MCDM methods
+AU  - Serrai, Walid
+AU  - Abdelli, Abdelkrim
+AU  - Mokdad, Lynda
+AU  - Hammal, Youcef
+JO  - Journal of Computational Science
+VL  - 22
+SP  - 253
+EP  - 267
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 1877-7503
+DO  - https://doi.org/10.1016/j.jocs.2017.05.024
+UR  - http://www.sciencedirect.com/science/article/pii/S1877750317306154
+KW  - Web services selection
+KW  - MCDM
+KW  - Accuracy
+KW  - Efficiency
+KW  - QoS
+KW  - Similarity
+KW  - Borda
+AB  - Nowadays, due to the fast growth of the number of web services with the same functionalities, the selection of the best services becomes a tricky task. Therefore, to provide a more powerful selection tool, web services are now additionally distinguished with respect to their non-functional aspects, especially to Quality of Service (QoS) requirements. Indeed, using QoS perspective in web service selection can help to promote the best candidate web services among those holding the same functional requirements. Hitherto, various QoS based web service selection approaches have been explored in the literature. However, two main challenging and conflicting issues are still demanding a specific attention, namely how accurate is the selection and what is the cost of such a process? In this paper, we target Multi Criteria Decision Making (MCDM) methods to select web services. Within this context, we propose a hybrid method to select the optimal web services based on MCDM. First of all, we use the Skyline method to reduce the research space by removing the dominated web services. Then, the BWM (Best Worst Method) is applied to normalize the weights associated with the QoS parameters according to the user request requirements. To rank the non-dominated web services with respect to the weights normalization, we explore the use of four different MCDM approaches that enjoy an affordable complexity, which are: VIKOR, SAW, TOPSIS and COPRAS. For the sake of a comparison, each method is first tested separately in order to assess its ability to select the optimal elements. Then, in order to provide the best compromise between the different ranking methods, we apply the Borda voting method to determine the compromise solution. Hence, we are able to measure the accuracy of each technique relatively to the Borda solution by applying a similarity function. The implementation and the simulation of the different methods have permitted to assess their performances in terms of time execution and accuracy. The results show clearly that MCDM ranking methods are more likely to diverge in selecting the best elements when the number of web services is increased. This finding argues for the pertinence of computing the Borda solution in the context of MCDM based web service selection.
+ER  - 
+
+TY  - JOUR
+T1  - Approaches to learning strictly-stable weights for data with missing values
+AU  - Beliakov, Gleb
+AU  - Gómez, Daniel
+AU  - James, Simon
+AU  - Montero, Javier
+AU  - Rodríguez, J. Tinguaro
+JO  - Fuzzy Sets and Systems
+VL  - 325
+SP  - 97
+EP  - 113
+PY  - 2017
+DA  - 2017/10/15/
+T2  - Aggregation Functions: Theory and Applications, Part II
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2017.02.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011417300635
+KW  - Aggregation functions
+KW  - Strict stability
+KW  - Missing data
+KW  - Weight learning
+KW  - Linear programming
+AB  - The problem of missing data is common in real-world applications of supervised machine learning such as classification and regression. Such data often gives rise to the need for functions defined for varying dimension. Here we propose optimization methods for learning the weights of quasi-arithmetic means in the context of data with missing values. We investigate some alternative approaches depending on the number of variables that have missing values and show results for several numerical experiments.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy evaluation of comprehensive benefit in urban renewal based on the perspective of core stakeholders
+AU  - Wang, Yousong
+AU  - Li, Jianfeng
+AU  - Zhang, Guilin
+AU  - Li, Yakun
+AU  - Asare, Martin Henry
+JO  - Habitat International
+VL  - 66
+SP  - 163
+EP  - 170
+PY  - 2017
+DA  - 2017/08/01/
+SN  - 0197-3975
+DO  - https://doi.org/10.1016/j.habitatint.2017.06.003
+UR  - http://www.sciencedirect.com/science/article/pii/S019739751730214X
+KW  - Urban renewal
+KW  - Stakeholders
+KW  - Comprehensive benefit
+KW  - Evaluation system
+KW  - Fuzzy evaluation
+KW  - Factor analysis
+AB  - This paper chooses government, resident and developer for the core stakeholders of the urban renewal who can affect the realization of the urban renewal objectives during the whole life cycle of the urban renewal construction. Based on the analysis of literature summary about urban renewal, this paper confirms 30 influence factors of comprehensive benefits in urban renewal through the questionnaire. The evaluation index system of 16 factors containing three subsystems of government benefits, resident benefits and developer benefits is established through factor analysis theory. Entropy method was then used to assign weights on criteria and macro-criteria. The weights of government, residents and developers are respectively 0.343, 0.386, 0.271. Then an evaluation model of urban renewal comprehensive benefit is put up. Fuzzy theory is used to calculate the evaluation values of Lieder village renewal in Guangzhou and the evaluation result shows that the comprehensive benefit evaluation of Lieder village renewal is good. The result is accord with actual. It has a certain practical value for the evaluation model used on the comprehensive benefit evaluation of urban renewal.
+ER  - 
+
+TY  - JOUR
+T1  - A review of the emergent ecosystem of collaborative geospatial tools for addressing environmental challenges
+AU  - Palomino, Jenny
+AU  - Muellerklein, Oliver C.
+AU  - Kelly, Maggi
+JO  - Computers, Environment and Urban Systems
+VL  - 65
+SP  - 79
+EP  - 92
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0198-9715
+DO  - https://doi.org/10.1016/j.compenvurbsys.2017.05.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0198971516304458
+KW  - Spatial Data Science
+KW  - Collaboration
+KW  - Tools
+KW  - Multi-user
+KW  - Workflows
+AB  - To solve current environmental challenges such as biodiversity loss, climate change, and rapid conversion of natural areas due to urbanization and agricultural expansion, researchers are increasingly leveraging large, multi-scale, multi-temporal, and multi-dimensional geospatial data. In response, a rapidly expanding array of collaborative geospatial tools is being developed to help collaborators share data, code, and results. Successful navigation of these tools requires users to understand their strengths, synergies, and weaknesses. In this paper, we identify the key components of a collaborative Spatial Data Science workflow to develop a framework for evaluating the various functional aspects of collaborative geospatial tools. Using this framework, we then score thirty-one existing collaborative geospatial tools and apply a cluster analysis to create a typology of these tools. We present this typology as a map of the emergent ecosystem and functional niches of collaborative geospatial tools. We identify three primary clusters of tools composed of eight secondary clusters across which divergence is driven by required infrastructure and user involvement. Overall, our results highlight how environmental collaborations have benefitted from the use of these tools and propose key areas of future tool development for continued support of collaborative geospatial efforts.
+ER  - 
+
+TY  - JOUR
+T1  - Developing an intelligent expert system for streamflow prediction, integrated in a dynamic decision support system for managing multiple reservoirs: A case study
+AU  - Zamani Sabzi, Hamed
+AU  - King, James Phillip
+AU  - Abudu, Shalamu
+JO  - Expert Systems with Applications
+VL  - 83
+SP  - 145
+EP  - 163
+PY  - 2017
+DA  - 2017/10/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2017.04.039
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417417302889
+KW  - ANFIS
+KW  - ARIMA
+KW  - ANN
+KW  - Hybrid model of ANN-ARIMA
+KW  - Data mining
+KW  - Streamflow prediction
+AB  - Since fresh water is limited while agricultural and human water demands are continuously increasing, optimal prediction and management of streamflows as a source of fresh water is crucially important. This study investigates and demonstrates how data preprocessing and data mining techniques would improve the accuracy of streamflow predictive models. Based on easily accessible Snow Telemetry data (SNOTEL), four streamflow prediction models – autoregressive integrated moving average (ARIMA), artificial neural networks (ANNs), a hybrid-model of ANN and ARIMA (ANN-ARIMA), and an adaptive neuro fuzzy inference system (ANFIS) – were developed and utilized in a streamflow prediction process on Elephant Butte Reservoir. Utilizing the statistical correlation analysis and the extracting importance degrees of predictors led to efficiently select the most effective predictors for daily and monthly streamflow to Elephant Butte Reservoir. For the daily prediction time step, by preprocessing the historical data and extracting and utilizing the extracted climate variability indices through data mining techniques, the ANFIS model achieved a superior streamflow prediction performance for Elephant Butte Reservoir compared to the other three evaluated prediction models. Additionally, for predicting monthly streamflow to the Elephant Butte Reservoir, ANFIS showed significantly higher accuracy than the ANNs. As an optimal application of the developed predictive expert systems, successful integrating the prediction models in integrated reservoir operations balanced the need for a reliable supply of irrigation water against losses through evaporation. The optimal operation plan significantly minimizes the total evaporation loss from both reservoirs by providing the optimal storage levels in both reservoirs. This study provides the conceptual procedures of non-seasonal (ARIMA) model, and since the model is univariate, it demonstrates a strongly-reliable inflow prediction when existing information is limited to streamflow data as a predictor.
+ER  - 
+
+TY  - CHAP
+T1  - Contents of Volumes in this Series
+A2  - Hurson, Ali R.
+A2  - Milutinović, Veljko
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 104
+SP  - 215
+EP  - 229
+PY  - 2017
+DA  - 2017/01/01/
+T2  - Creativity in Computing and DataFlow SuperComputing
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/S0065-2458(16)30071-7
+UR  - http://www.sciencedirect.com/science/article/pii/S0065245816300717
+ER  - 
+
+TY  - JOUR
+T1  - Development of a new methodology to optimize building life cycle cost, environmental impacts, and occupant satisfaction
+AU  - Mostavi, Ehsan
+AU  - Asadi, Somayeh
+AU  - Boussaa, Djamel
+JO  - Energy
+VL  - 121
+SP  - 606
+EP  - 615
+PY  - 2017
+DA  - 2017/02/15/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2017.01.049
+UR  - http://www.sciencedirect.com/science/article/pii/S036054421730049X
+KW  - Occupant satisfaction
+KW  - Utility-theory
+KW  - Multi-objective optimization
+KW  - Building energy performance
+KW  - Building envelope
+AB  - Thermal comfort and occupant thermal satisfaction are critical aspects in the indoor environment quality assessment and have received considerable attention by designers and building occupants. Improper indoor temperature not only decreases the level of occupant thermal satisfaction, but also has serious health related consequences. Despite the importance of occupant thermal satisfaction that has been vastly emphasized, studies incorporating occupants' satisfaction during the design process are very limited. Therefore, this study aims to develop a multi-objective design optimization model to minimize life cycle cost and life cycle emission, and maximize occupant satisfaction level in a typical commercial building. To solve the multi-objective optimization problem, a Harmony Search based algorithm is developed and employed. Moreover, to identify the level of design thermal satisfaction, a novel utility-theory based thermal comfort index is defined and calculated. A small office building is selected as a case study to analyze four different designs which are identified as optimum solutions. To determine the optimum designs, the satisfaction level of all the design combinations having cost and emissions similar to previously distinguished optimum solutions are compared and best designs are identified.
+ER  - 
+
+TY  - JOUR
+T1  - Decision process in MCDM with large number of criteria and heterogeneous risk preferences
+AU  - Liu, Jian
+AU  - Zhao, Hong-Kuan
+AU  - Li, Zhao-Bin
+AU  - Liu, Si-Feng
+JO  - Operations Research Perspectives
+VL  - 4
+SP  - 106
+EP  - 112
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 2214-7160
+DO  - https://doi.org/10.1016/j.orp.2017.07.001
+UR  - http://www.sciencedirect.com/science/article/pii/S2214716016301695
+KW  - Heterogeneous
+KW  - Risk preferences
+KW  - Fairness
+KW  - Decision process
+KW  - Group decision
+AB  - A new decision process is proposed to address the challenge that a large number criteria in the multi-criteria decision making (MCDM) problem and the decision makers with heterogeneous risk preferences. First, from the perspective of objective data, the effective criteria are extracted based on the similarity relations between criterion values and the criteria are weighted, respectively. Second, the corresponding types of theoretic model of risk preferences expectations will be built, based on the possibility and similarity between criterion values to solve the problem for different interval numbers with the same expectation. Then, the risk preferences (Risk-seeking, risk-neutral and risk-aversion) will be embedded in the decision process. Later, the optimal decision object is selected according to the risk preferences of decision makers based on the corresponding theoretic model. Finally, a new algorithm of information aggregation model is proposed based on fairness maximization of decision results for the group decision, considering the coexistence of decision makers with heterogeneous risk preferences. The scientific rationality verification of this new method is given through the analysis of real case.
+ER  - 
+
+TY  - CHAP
+T1  - 1 - Introduction
+AU  - AL-Oqla, Faris M.
+AU  - Salit, Mohd S.
+A2  - AL-Oqla, Faris M.
+A2  - Salit, Mohd S.
+BT  - Materials Selection for Natural Fiber Composites
+PB  - Woodhead Publishing
+SP  - 1
+EP  - 21
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 978-0-08-100958-1
+DO  - https://doi.org/10.1016/B978-0-08-100958-1.00001-3
+UR  - http://www.sciencedirect.com/science/article/pii/B9780081009581000013
+KW  - Green products
+KW  - Design process
+KW  - Natural fiber composites
+KW  - Materials selection
+KW  - Polymeric based composites
+KW  - Sustainable materials
+AB  - It is of paramount importance for a particular design to attain success at low cost. Thus, proper materials selection become critical in the engineering design field to make successful sustainable products. In fact, several issues, constrains, and limitations can deter the implementation of specific types of materials into a particular application. Materials performance, functional requirements, as well as customer attributes are all able to be integrated in various synergies to develop green sustainable products. This chapter presents background information about the book, such as the relationship between materials and design, an introduction to composite materials, and natural fiber composites including advantages and disadvantages of composites. Moreover, applications of composite materials, as well as a brief introduction to materials selection are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Unsupervised load shape clustering for urban building performance assessment
+AU  - Fonseca, Jimeno A.
+AU  - Miller, Clayton
+AU  - Schlueter, Arno
+JO  - Energy Procedia
+VL  - 122
+SP  - 229
+EP  - 234
+PY  - 2017
+DA  - 2017/09/01/
+T2  - CISBAT 2017 International ConferenceFuture Buildings & Districts – Energy Efficiency from Nano to Urban Scale
+SN  - 1876-6102
+DO  - https://doi.org/10.1016/j.egypro.2017.07.350
+UR  - http://www.sciencedirect.com/science/article/pii/S1876610217329545
+KW  - Building performance
+KW  - Data mining
+KW  - Daily Profile Extraction
+AB  - This paper presents a method to automatically cluster typical days of energy consumption in one or several buildings. The method is based on an optimized version of the Symbolic Aggregate approXimation (SAX) method. SAX is a data mining technique for clustering time series with recent applications in building fault detection and building performance assessment. The number of clusters and accuracy of SAX highly depends on two highly sensitive input variables, i.e., the word size and the alphabet size. We propose the use of the genetic algorithm NSGA-II to optimize the number of words and alphabet size of SAX subjected to three fitness objectives, i.e., maximize data accuracy and compression and minimize complexity. In addition, we propose the use of MAVT as selection method of the optimal solution. The methodology is applied to measured energy consumption data of three representative buildings on a university campus in Singapore. Potential future uses of the approach include advanced studies in fault detection and calibration of urban building performance models.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling Contractor's Bidding Decisions
+AU  - Biruk, Sławomir
+AU  - Jaśkowski, Piotr
+AU  - Czarnigowska, Agata
+JO  - Procedia Engineering
+VL  - 182
+SP  - 91
+EP  - 98
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 7th International Conference on Engineering, Project, and Production Management
+SN  - 1877-7058
+DO  - https://doi.org/10.1016/j.proeng.2017.03.125
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705817312614
+KW  - construction management
+KW  - decision support
+KW  - decision to tender
+KW  - linear programming
+KW  - pricing
+AB  - Experience and business intuition of a contractor are often insufficient to ensure that tender procedures will provide a good trade-off between the cost of bid preparation and the benefit of a high probability of winning a money-making contract. The authors put forward a set of decision-support models: a multi-criteria analysis for assessing the desirability of a potential new contract, and two linear programming models: one for calculating the total price, and the other for distributing the bid amount among the items of the bill of quantities to maximize the contractor's cash flows. Application of the models is illustrated with a numerical example.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating and extending ecological river assessment: Concept and test with two restoration projects
+AU  - Paillex, Amael
+AU  - Schuwirth, Nele
+AU  - Lorenz, Armin W.
+AU  - Januschke, Kathrin
+AU  - Peter, Armin
+AU  - Reichert, Peter
+JO  - Ecological Indicators
+VL  - 72
+SP  - 131
+EP  - 141
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 1470-160X
+DO  - https://doi.org/10.1016/j.ecolind.2016.07.048
+UR  - http://www.sciencedirect.com/science/article/pii/S1470160X16304460
+KW  - Aquatic macroinvertebrates
+KW  - Aquatic vegetation
+KW  - Ecological state
+KW  - Fish
+KW  - Ground beetles
+KW  - Multi-criteria decision analysis
+KW  - Multi-attribute value theory
+KW  - Thur and Töss rivers
+KW  - Riparian vegetation
+KW  - River restoration
+KW  - Uncertainty
+AB  - While the number of river restoration projects is increasing, studies on their success or failure relative to expectations are still rare. Only a few decision support methodologies and integrative methods for evaluating the ecological status of rivers are used in river restoration projects, thereby limiting informed management decisions in restoration planning as well as success control. Moreover, studies quantifying river restoration effects are often based on the assessment of a single organism group, and the effects on terrestrial communities are often neglected. In addition, potential effects of water quality or hydrological degradation are often not considered for the evaluation of restoration projects. We used multi-attribute value theory to re-formulate an existing river assessment protocol and extend it to a more comprehensive, integrated ecological assessment program. We considered habitat conditions, water quality regarding nutrients, micropollutants and heavy metals, and five instream and terrestrial organism groups (fish, benthic invertebrates, aquatic vegetation, ground beetles and riparian vegetation). The physical, chemical and biological states of the rivers were assessed separately and combined to value the overall ecological state. The assessment procedure was then applied to restored and unrestored sites at two Swiss rivers to test its feasibility in quantifying the effect of river restoration. Uncertainty in observations was taken into account and propagated through the assessment framework to evaluate the significance of differences between the ecological states of restored and unrestored reaches. In the restored sites, we measured a higher width variability of the river, as well as a higher width of the riparian zone and a higher richness of organism groups. According to the ecological assessment, the river morphology and the biological states were significantly better at the restored sites, with the largest differences detected for ground beetles and fish communities, followed by benthic invertebrates and riparian vegetation. The state of the aquatic vegetation was slightly lower at the restored sites. According to our assessment, the presence of invasive plant species counteracted the potential ecological gain. Water quality could be a causal factor contributing to the absence of larger improvements. Overall, we found significantly better biological and physical states, and integrated ecological states at the restored sites. Even in the absence of comprehensive before-after data, based on the similarity of the reaches before restoration and mechanistic biological knowledge, this can be safely interpreted as a causal consequence of restoration. An integrative perspective across aquatic and riparian organism groups was important to assess the biological effects, because organism groups responded differently to restoration. In addition, the potential deteriorating effect of water quality demonstrates the importance of integrated planning for the reduction of morphological, water quality and hydrological degradation.
+ER  - 
+
+TY  - JOUR
+T1  - Web-based Visual Decision Support System (WVDSS) for letter shop
+AU  - Krishnaiyer, Krishnan
+AU  - Chen, F. Frank
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 43
+SP  - 148
+EP  - 154
+PY  - 2017
+DA  - 2017/02/01/
+T2  - Special Issue: Extended Papers Selected from FAIM 2014
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2015.09.016
+UR  - http://www.sciencedirect.com/science/article/pii/S0736584515001015
+KW  - Web-based Decision Support System
+KW  - Value stream
+KW  - Continuous improvement
+AB  - Decision Support Systems (DSS) is one of the key tools to transform data to decisions. In this paper, a successful implementation of a web based DSS in a direct mail (letter shop) is explained. Utilizing continuous improvement framework, we provide how the Web-based Visual Decision Support System (WVDSS) helped the organization to successfully turn around the scheduling and capacity planning function along with extending the success to customer service, and warehouse operations. The outcome of implementing the WVDSS were (1) attainment of 100% scheduled delivery date, (2) improved efficiencies across the value stream, and (3) real-time notification of shipment to the customer service representatives. The unique contribution of this work is the original implementation of a web based decision support system in a high variety and low volume letter shop environment spanning transactional and manufacturing value streams.
+ER  - 
+
+TY  - JOUR
+T1  - A bibliometric-based survey on AHP and TOPSIS techniques
+AU  - Zyoud, Shaher H.
+AU  - Fuchs-Hanusch, Daniela
+JO  - Expert Systems with Applications
+VL  - 78
+SP  - 158
+EP  - 181
+PY  - 2017
+DA  - 2017/07/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2017.02.016
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417417300982
+KW  - Multiple criteria decision analysis
+KW  - Scopus
+KW  - Impact factor
+KW  - Operation research
+KW  - Citation
+KW  - Bibliometric maps
+AB  - In recent years, the employment of multiple criteria decision analysis (MCDA) techniques in solving complex real-world problems has increased exponentially. The willingness to build advanced decision models, with higher capabilities to support decision making in a wide range of applications, promotes the integration of MCDA techniques with efficient systems such as intelligence and expert systems, geographic information systems, etc. Amongst the most applied MCDA techniques are Analytic Hierarchy Process (AHP) and Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS). The development of a comprehensive perspective on research activities associated with the applications of these methods provides insights into the contributions of countries, institutes, authors and journals towards the advancements of these methods. Furthermore, it helps in identifying the status and trends of research. This in turn will help researchers in shaping up and improving future research activities and investments. To meet these aims, a bibliometric analysis based on data harvested from Scopus database was carried out to identify a set of bibliometric performance indicators (i.e. quantitative indicators such as productivity, and qualitative indicators such as citations and Hirsch index (h-index)). Additionally, bibliometric visualization maps were employed to identify the hot spots of research. The total research output was 10,188 documents for AHP and 2412 documents for TOPSIS. China took a leading position in AHP research (3513 documents; 34.5%). It was also the leading country in TOPSIS research (846 documents; 35.1%). The most collaborated country in AHP research was the United States, while in case of TOPSIS it was China. The United States had gained the highest h-index (78) in AHP research, while in TOPSIS it was Taiwan with h-index of 46. Expert Systems with Applications journal was the most productive journal in AHP (204; 2.0%) and TOPSIS research (125; 5.2%), simultaneously. University of Tehran, Iran and Islamic Azad University, Iran were the most productive institutions in AHP (173; 1.7%) and TOPSIS (115; 4.8%) research, simultaneously. The major hot topics that utilized AHP and will continue to be active include different applications of geographic information systems, risk modeling and supply chain management. While for TOPSIS, they are supply chain management and sustainability research. Overall, this analysis has shown increasing recognition of powerful of MCDA techniques to support strategic decisions. The efficacy of these methods in the previous context promotes their progress and advancements.
+ER  - 
+
+TY  - JOUR
+T1  - Hesitant fuzzy decision tree approach for highly imbalanced data classification
+AU  - Sardari, Sahar
+AU  - Eftekhari, Mahdi
+AU  - Afsari, Fatemeh
+JO  - Applied Soft Computing
+VL  - 61
+SP  - 727
+EP  - 741
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2017.08.052
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494617305343
+KW  - Imbalanced data classification
+KW  - Fuzzy decision tree
+KW  - K-mean clustering
+KW  - Hesitant fuzzy set
+AB  - Fuzzy decision tree algorithms provide one of the most powerful classifiers applied to any kind of data. In this paper, some new Fuzzy Decision Tree (FDT) approaches based on Hesitant Fuzzy Sets (HFSs) have been introduced to classify highly imbalanced data sets. Our proposed classifiers employ k-means clustering algorithm to divide the majority class samples into several clusters. Then, each cluster sample is labeled by a new synthetic class label. After that, five discretization methods (Fayyad, Fusinter, Fixed Frequency, Proportional, and Uniform Frequency) are considered to generate Membership Functions (MFs) of each attribute. Five FDTs are constructed based on five discretization methods Hesitant Fuzzy Information Gain (HFIG) is proposed as a new attribute selection criterion that can be used instead of Fuzzy Information Gain (FIG). HFIG is calculated by aggregating obtained FIGs from different discretization methods by information energy. For predicting the class label of new samples, three aggregation methods are utilized. The combination of splitting criterion (HFIG or FIG), five different discretization methods (for generating MFs) and three aggregation methods (to predict class label of new samples) generate special classifiers for addressing the imbalanced classification. For illustrating the difference between our proposed methods, taxonomy is proposed in the paper that categorizes them in three general categories. The experimental results show that our proposed methods outperform the other fuzzy rule-based approaches over 20 highly imbalanced data sets of KEEL in terms of AUC.
+ER  - 
+
+TY  - JOUR
+T1  - Contents
+JO  - Process Safety and Environmental Protection
+VL  - 107
+SP  - i
+EP  - iv
+PY  - 2017
+DA  - 2017/04/01/
+SN  - 0957-5820
+DO  - https://doi.org/10.1016/S0957-5820(17)30110-6
+UR  - http://www.sciencedirect.com/science/article/pii/S0957582017301106
+ER  - 
+
+TY  - JOUR
+T1  - Supporting bidding decision using multi-criteria analysis methods
+AU  - Leśniak, Agnieszka
+AU  - Radziejowska, Aleksandra
+JO  - Procedia Engineering
+VL  - 208
+SP  - 76
+EP  - 81
+PY  - 2017
+DA  - 2017/01/01/
+T2  - Innovative Solutions in Construction Engineering and Management. Flexibility in Sustainable Construction
+SN  - 1877-7058
+DO  - https://doi.org/10.1016/j.proeng.2017.11.023
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705817360137
+KW  - bidding decision
+KW  - construction works
+KW  - multi-criteria analysis
+AB  - The bid/no bid decision is one of the first and most important decisions to make by the contractor when seeking a construction contract. In practice, a contractor repeatedly needs to choose one tender from among several announced tenders. The choice is usually decided by the necessity to involve resources to prepare the proposal. The selection of the bid that is the most advantageous for the contractor may be supported by the multi-criteria analysis method. The paper proposes three selected methods that enable the contractor to make the right decision. Their work is illustrated by an example.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy decision fusion system for fault classification with analytic hierarchy process approach
+AU  - Liu, Yue
+AU  - Ni, Weite
+AU  - Ge, Zhiqiang
+JO  - Chemometrics and Intelligent Laboratory Systems
+VL  - 166
+SP  - 61
+EP  - 68
+PY  - 2017
+DA  - 2017/07/15/
+SN  - 0169-7439
+DO  - https://doi.org/10.1016/j.chemolab.2017.05.012
+UR  - http://www.sciencedirect.com/science/article/pii/S0169743917300783
+KW  - Decision fusion system
+KW  - Analytic hierarchy process
+KW  - Ensemble system
+KW  - Model evaluation
+KW  - Fault classification
+AB  - Performance of the most existing fault detection and classification methods can only be guaranteed when each of their own assumptions are met. In other words, a method works well in one condition may not perform well in another. In this paper, a new analytic hierarchy process (AHP) based fuzzy decision fusion system is proposed to tackle the fault classification problem. The AHP approach is introduced to determine the priorities of different classifiers, which are further utilized as the weights in ensemble system. Comparing to conventional equal weighted fusion system, the proposed fuzzy fusion system is able to provide more rational and convincing fault classification result. Effectiveness of the proposed fuzzy fusion system with model evaluation is verified through the Tennessee Eastman (TE) benchmark process.
+ER  - 
+
+TY  - JOUR
+T1  - Inside Front Cover - Editorial Board Page
+JO  - Applied Soft Computing
+VL  - 58
+SP  - IFC
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/S1568-4946(17)30414-3
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494617304143
+ER  - 
+
+TY  - JOUR
+T1  - Application of Z-number concept to supplier selection problem
+AU  - Jabbarova, Aynur I.
+JO  - Procedia Computer Science
+VL  - 120
+SP  - 473
+EP  - 477
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 9th International Conference on Theory and Application of Soft Computing, Computing with Words and Perception, ICSCCW 2017, 22-23 August 2017, Budapest, Hungary
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.11.266
+UR  - http://www.sciencedirect.com/science/article/pii/S187705091732478X
+KW  - discrete Z-number
+KW  - multi-attribute decision making
+KW  - decision matrix
+KW  - continuous Z-number
+AB  - In this paper Z-number for supplier selection problem is used. After ranking all alternatives found best alternative.
+ER  - 
+
+TY  - JOUR
+T1  - Decision-making based on network visualization applied to building life cycle optimization
+AU  - Gilles, Fraisse
+AU  - Bernard, Souyri
+AU  - Ioannis, Axaopoulos
+AU  - Simon, Rouchier
+JO  - Sustainable Cities and Society
+VL  - 35
+SP  - 565
+EP  - 573
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 2210-6707
+DO  - https://doi.org/10.1016/j.scs.2017.09.006
+UR  - http://www.sciencedirect.com/science/article/pii/S221067071730731X
+KW  - Decision-making
+KW  - Surrogate model
+KW  - Computational time
+KW  - Multi-objective optimization
+KW  - Satisfaction function
+AB  - We present a building design optimization methodology that has been developed to address issues that researchers and engineers are currently facing when addressing the life cycle optimization of Nearly Zero Energy Buildings (NZEBs). In order to reduce the required computational time, a Kriging model is used to surrogate NZEB performance criteria during the optimization process. The error estimation of the Kriging model is used for an adaptive sequential design to improve the Kriging model accuracy. Α genetic algorithm (NSGA-II) is considered efficient to find the global optimal solutions. We also propose a new algorithm to reduce the calculation time even further. The new individuals of the adaptive sequential design are filtered with satisfaction functions. It means that only the useful part of the Pareto front will be determined. Finally, we use network visualization for decision-making. We show that this approach is very powerful to help designers find one solution in the context of multi-objective optimization. Moreover, the partitions can give useful information about the characteristics of the optimal solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Urban energy planning procedure for sustainable development in the built environment: A review of available spatial approaches
+AU  - Torabi Moghadam, Sara
+AU  - Delmastro, Chiara
+AU  - Corgnati, Stefano Paolo
+AU  - Lombardi, Patrizia
+JO  - Journal of Cleaner Production
+VL  - 165
+SP  - 811
+EP  - 827
+PY  - 2017
+DA  - 2017/11/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2017.07.142
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652617315445
+KW  - Urban and regional integrated energy planning
+KW  - Built environment
+KW  - Energy modelling
+KW  - Spatial decision support system
+AB  - Urban and Regional Integrated Energy Planning is crucial to define transition strategies toward sustainable development and post-carbon cities; particularly, in the built environment sector which is one of the main responsible for energy consumption and carbon emissions. The paper aims at offering a systematic review of existing urban and regional energy planning approaches. This analysis is based on literature review. The reviewed papers are critically analyzed and discussed through a Meta-analysis and a SWOT analysis. The papers are classified in order to highlight the main research trends and to illustrate the most relevant characteristics of the principal approaches. This critical analysis of the papers highlights the lack of an holistic and integrated framework which is able to take into account the large variety of dimensions related to sustainable planning. A major achievement of this study is to provide information on how the various existing approaches can be integrated to handle the entire planning procedure adequately. The result provides a preliminary theoretical framework to integrate different approaches, identify the main barriers and future challenges in the field of research. This framework will help urban actors to develop energy planning projects, guiding them in the choice among a significant number of existing planning approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Neural Systems in Distributed Computing and Artificial Intelligence
+AU  - Bajo, Javier
+AU  - Corchado, Juan M.
+JO  - Neurocomputing
+VL  - 231
+SP  - 1
+EP  - 2
+PY  - 2017
+DA  - 2017/03/29/
+T2  - Neural Systems in Distributed Computing and Artificial Intelligence
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2016.08.096
+UR  - http://www.sciencedirect.com/science/article/pii/S0925231216311560
+KW  - Intelligent systems
+KW  - Distributed systems
+KW  - Multi-agent systems
+ER  - 
+
+TY  - JOUR
+T1  - Determinants of technical efficiency in the bioenergy industry in the EU28 region
+AU  - Alsaleh, Mohd
+AU  - Abdul-Rahim, A.S.
+AU  - Mohd-Shahwahid, H.O.
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 78
+SP  - 1331
+EP  - 1349
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2017.04.049
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032117305476
+KW  - Bioenergy industry
+KW  - Technical efficiency
+KW  - EU28 region
+AB  - Most previous bioenergy industry research has concentrated on how to implement a certain level of yield. However, few articles have paid attention to rational resource allocation to increase efficiency. To enhance bioenergy production through proper use of available resources, this study identified the effects of internal (country-specific) and external (macroeconomic) determinants of technical efficiency level in the bioenergy industry for the EU28 region. The study was established based on a conceptual framework suggesting a correlation between input use and level of technical efficiency. A panel data analysis method was employed for the analysis and a panel regression analysis framework based on the Fixed Effect (FE) model and Random Effect (RE) model was used to examine the potential determinants of technical efficiency level in the bioenergy industry for the EU28 region for the period between 1990 and 2013. The results indicate that the technical efficiency level of the bioenergy industry in developing countries is higher than in developed countries. The empirical findings also suggest that technical efficiency has greater influence on pure technical efficiency levels. Capital input, labor input, gross domestic product, inflation and interest rate significantly affected the technical efficiency of the bioenergy industry in the developing and developed countries in the EU28 region during the period of this study. The findings clearly call for regulators and decision makers to review the technical efficiency level of the bioenergy industry within the EU28 region. This study also provides better information and guidance to the boards of the bioenergy industry, as they need to have a clear understanding of the influence technical efficiency has on bioenergy production performance. Moreover, the results of this study have implications for investors who focus mainly on profits from their investments.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective optimization for spectrum sharing in cognitive radio networks: A review
+AU  - Ramzan, Muhammad Rashid
+AU  - Nawaz, Nadia
+AU  - Ahmed, Ashfaq
+AU  - Naeem, Muhammad
+AU  - Iqbal, Muhammad
+AU  - Anpalagan, Alagan
+JO  - Pervasive and Mobile Computing
+VL  - 41
+SP  - 106
+EP  - 131
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 1574-1192
+DO  - https://doi.org/10.1016/j.pmcj.2017.07.010
+UR  - http://www.sciencedirect.com/science/article/pii/S1574119216303236
+KW  - Software defined radio
+KW  - Cognitive radio
+KW  - Single objective optimization
+KW  - Evolutionary algorithms
+KW  - Multi-objective optimization
+KW  - Conflicting objectives
+KW  - Pareto optimal solutions
+AB  - Due to advancements in the wireless networking technologies, a lot of new wireless services are demanding the radio spectrum for their usage. The radio spectrum is considered as a limited natural resource for radio communications, and it became crowded. In fact, this resource is not limited, rather the scarcity of the radio spectrum arises because of inefficient and fixed utilization of this valuable resource. This inefficient and under-utilization of radio spectrum has diverted the attentions of the researchers towards the different techniques in order to access the spectrum dynamically and adaptively. The concept of Cognitive Radio (CR) can be implemented by making the communication devices intelligent, in order to use the available radio spectrum efficiently. The efficient implementation of cognitive radios into the wireless networks gives rise to a tremendous number of optimization problems with multiple objectives. In most of the cases, these objectives are conflicting with each other and need to be addressed carefully. In this article, we will present the importance of multi-objective optimization (MOO) in cognitive radio networks (CRNs). We will discuss about the fundamental differences in single objective optimization (SOO) and MOO techniques, in order to solve MOO problems associated with CRNs. We will differentiate between the possible relations such as, conflicting, supporting and design dependent, among these objectives. A comparative discussion will also be provided about optimization types, solution approaches/algorithms and different combining techniques to combine multiple objectives in order to address MOO problems those comes with CRNs.
+ER  - 
+
+TY  - JOUR
+T1  - Energy efficiency of milling machining: Component modeling and online optimization of cutting parameters
+AU  - Shin, Seung-Jun
+AU  - Woo, Jungyub
+AU  - Rachuri, Sudarsan
+JO  - Journal of Cleaner Production
+VL  - 161
+SP  - 12
+EP  - 29
+PY  - 2017
+DA  - 2017/09/10/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2017.05.013
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652617309381
+KW  - Metal cutting
+KW  - Predictive modeling
+KW  - Optimization
+KW  - Energy efficiency
+KW  - STEP-NC
+KW  - MTConnect
+AB  - Energy consumption is a major sustainability focus in the metal cutting industry. As a result, process planning is increasingly concerned with reducing energy consumption in machine tools. The relevant literature has been categorized into two research areas. The first includes energy prediction models, which characterize the relationships between cutting parameters – the main outputs of process planning - and energy consumption. The second involves energy-consumption optimization, which uses the prediction models to find the cutting parameters that minimize energy use. However, previous energy prediction models are limited to predict energy for tool paths coded in a Numerical Control (NC) program. Previous energy optimization methods typically do not use online optimization, which enables fast optimization decision-making for supporting on-demand process planning and real-time machine control. This paper presents a component-based energy-modeling methodology to implement the online optimization needed for real-time control. Models that can predict energy up to the tool path-level at specific machining configurations are called component-models in this paper. These component-models are created using historical data that includes process plans, NC programs, and machine-monitoring data. The online optimization is implemented using a dynamic composition of component-models together with a divide-and-conquer technique. The feasibility and effectiveness of our methodology has been demonstrated in a milling-machine example.
+ER  - 
+
+TY  - JOUR
+T1  - BIM-based Iterative Tool for Sustainable Building Design: A Conceptual Framework
+AU  - Ahmad, Tayyab
+AU  - Aibinu, Ajibade
+AU  - Thaheem, Muhammad Jamaluddin
+JO  - Procedia Engineering
+VL  - 180
+SP  - 782
+EP  - 792
+PY  - 2017
+DA  - 2017/01/01/
+T2  - International High-Performance Built Environment Conference – A Sustainable Built Environment Conference 2016 Series (SBE16), iHBE 2016
+SN  - 1877-7058
+DO  - https://doi.org/10.1016/j.proeng.2017.04.239
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705817317460
+KW  - PSTM combinations
+KW  - building sustainable design
+KW  - BIM
+KW  - decision-making
+KW  - tool development
+AB  - Building sustainability is a multi-dimensional concept that is increasingly becoming a focus of the mainstream construction industry. The choice of right materials, techniques, and systems for a building project was always important to ensure built environment sustainability but these days it has also become a difficult and confusing task owing to the availability of a wide array of processes, systems, techniques and materials (PSTM). To achieve sustainable design a responsive design process able to assess and optimize the use of a variety of available PSTM options is required. The purpose of the study reported in this paper is to develop a conceptual framework of a futuristic BIM-based Design Iteration (BIM-DIT) tool for selecting PSTM combinations during design. Such development can support decision-making process during the design stage of residential buildings by assisting the design team in the generation of design alternatives. The model development includes discussion of various components necessary for development and successful working of the hypothetical tool. The conceptual model development exercise shows that the hypothetical BIM-DIT tool can significantly benefit from the pre-existing design approaches in the built environment. The discussion shows that the PSTM combination selection approach used for BIM-DIT tool will help decision makers with precise knowledge of available options for achieving truly sustainable building projects. Although model development is largely inspired by pre-existing approaches, the use of these approaches for finding appropriate PSTM combinations through the involvement of all three sustainability dimensions is relatively new. Further development in this area can play a significant role in building design related decision-making.
+ER  - 
+
+TY  - JOUR
+T1  - Manufacturing System on the Cloud: A Case Study on Cloud-based Process Planning
+AU  - Wang, Xi Vincent
+AU  - Givehchi, Mohammad
+AU  - Wang, Lihui
+JO  - Procedia CIRP
+VL  - 63
+SP  - 39
+EP  - 45
+PY  - 2017
+DA  - 2017/01/01/
+T2  - Manufacturing Systems 4.0 – Proceedings of the 50th CIRP Conference on Manufacturing Systems
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2017.03.103
+UR  - http://www.sciencedirect.com/science/article/pii/S2212827117302494
+KW  - Cloud
+KW  - Manufacturing System
+KW  - Process Planning
+AB  - The modern industry requires the next generation of manufacturing system to be intelligent, flexible, and interoperable. The manufacturing system also needs to offer better performance with lower cost. The huge success of cloud computing brings the opportunity to the manufacturing systems with high scalability, productivity and agility. It also provides practical solutions to the small and medium-sized enterprises with elastic investment solutions. In a cloud manufacturing system, the manufacturing resource and capability are provided in the service-oriented architecture as cloud services. In this research, the practical models of the cloud-based system are investigated, and distributed process planning services are developed accordingly. The proposed infrastructure is evaluated via a case study in which the industrial demonstrators are practised in the cloud as one specific type of process planning service.
+ER  - 
+
+TY  - JOUR
+T1  - Review: Multi-objective optimization methods and application in energy saving
+AU  - Cui, Yunfei
+AU  - Geng, Zhiqiang
+AU  - Zhu, Qunxiong
+AU  - Han, Yongming
+JO  - Energy
+VL  - 125
+SP  - 681
+EP  - 704
+PY  - 2017
+DA  - 2017/04/15/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2017.02.174
+UR  - http://www.sciencedirect.com/science/article/pii/S0360544217303584
+KW  - Multi-objective optimization
+KW  - Intelligent optimization algorithms
+KW  - Trade-off solution
+KW  - Energy saving
+KW  - Emissions reduction
+AB  - Multi-objective optimization problems are difficult to solve in that the optimized objectives are usually conflicting with each other. It is usually hard to find an optimal solution that satisfies all objectives from the mathematical point of view. Unlike analytical methods and classical numerical methods, which require strict mathematical calculation or defined initial search values, intelligent optimization algorithms are heuristic algorithms able to find global optimal solutions. In this paper, we make a brief introduction of multi-objective optimization problems and some state-of-the-art intelligent algorithms. In order to get the final optimal solution in the real-world multi-objective optimization problems, trade-off methods including a priori methods, interactive methods, Pareto-dominated methods and new dominance methods are utilized. Moreover, we give a review of multi-objective optimization methods application in the environmental protection fields, for optimization objectives of energy saving, emissions reduction and cost reduction, etc. At last, a whole summary about current difficulties existed in the multi-objective optimization problem is given out, serving as suggestions or guidance for future researches.
+ER  - 
+
+TY  - JOUR
+T1  - Contents
+JO  - Procedia Computer Science
+VL  - 111
+SP  - iii
+EP  - vi
+PY  - 2017
+DA  - 2017/01/01/
+T2  - The 8th International Conference on Advances in Information Technology
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/S1877-0509(17)31336-4
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917313364
+ER  - 
+
+TY  - JOUR
+T1  - A customer based supplier selection process that combines quality function deployment, the analytic network process and a Markov chain
+AU  - Asadabadi, Mehdi Rajabi
+JO  - European Journal of Operational Research
+VL  - 263
+IS  - 3
+SP  - 1049
+EP  - 1062
+PY  - 2017
+DA  - 2017/12/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2017.06.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221717305246
+KW  - QFD
+KW  - ANP
+KW  - Markov chain
+KW  - Supplier selection
+AB  - The overall objective of this paper is to introduce a customer oriented supplier selection method. Although the supplier selection problem has previously been investigated, an effective solution to consider the dynamics of Customer Needs (CNs) in finding the best supplier has not yet been proposed. Such a method takes into account customer needs as a determinant factor in finding the best supplier and considers possible changes in the priorities of customer needs as time passes. In this study a method integrating the analytic network process (ANP), quality function deployment (QFD), and a Markov chain is used to address the supplier selection problem. This proposed method utilizes a Markov chain to trace the changing-priorities of customer needs and find a pattern for them. The ANP–QFD method then connects this pattern to product requirements (PRs) and PRs to supplier qualifications. This combination develops a customer based supplier selection method. The best supplier is selected based on the changing-priorities of customer needs. Although the customer needs priorities keep changing, one supplier is selected as the best one. This study introduces an innovative customer based approach to select the best supplier that is independent of initial CNs.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal design of plate-fin heat exchanger by combining multi-objective algorithms
+AU  - Khan, Tariq Amin
+AU  - Li, Wei
+JO  - International Journal of Heat and Mass Transfer
+VL  - 108
+SP  - 1560
+EP  - 1572
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0017-9310
+DO  - https://doi.org/10.1016/j.ijheatmasstransfer.2017.01.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0017931016325765
+KW  - Plate-fin heat exchanger
+KW  - Multi-objective optimization
+KW  - Genetic algorithm
+KW  - Differential evolution
+KW  - Adaptive Simulated Annealing
+KW  - TOPSIS
+AB  - In this paper, a multi-objective optimization method is proposed which is a combination of Genetic algorithm, Differential Evolution and Adaptive Simulated Annealing algorithms. This technique is intended to generalize and improve the robustness of the three population based algorithms. In optimization problems, it is essential to keep the balance between local and global search abilities of algorithms. In the current method, DE, GA and ASA algorithms are linked in the variation stage to enrich the searching behavior and enhance the diversity of the population. The performance of the proposed DE-GA-ASA is tested against benchmark problems for multi-objectives and compared with two widely recognized vector optimizers. Next, the proposed technique is successfully implemented to optimize the design of plate-fin heat exchanger. The effectiveness of the present method is illustrated by comparing with various case studies. Some of the earlier case studies violated the constraints and/or only focused on single objective optimization. Results show that DE-GA-ASA method can be used effectively for the optimal design of plate-fin heat exchanger. Moreover, the effect of variation of fin and heat exchanger parameters on the optimal design is also investigated. Hot, cold and no-flow length of the heat exchanger, fin offset length, fin height and fin length are introduced as the optimization variables to obtain maximum heat transfer rate and minimum total annual cost. The investment cost and operating costs are independently optimized to provide a detailed investigation on the effect of fin and heat exchanger geometry parameters on their variation. Furthermore, a multi-criteria decision making method, TOPSIS is introduced for the selection of final optimal solution from the set of non-dominated solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling, Simulation and Optimization of the Materials Flow of a Multi-product Assembling Plant
+AU  - Nyemba, Wilson R.
+AU  - Mbohwa, Charles
+JO  - Procedia Manufacturing
+VL  - 8
+SP  - 59
+EP  - 66
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 14th Global Conference on Sustainable Manufacturing, GCSM 3-5 October 2016, Stellenbosch, South Africa
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2017.02.007
+UR  - http://www.sciencedirect.com/science/article/pii/S2351978917300112
+KW  - Arena
+KW  - materials flow
+KW  - modelling
+KW  - optimisation
+KW  - simulation
+KW  - workstation
+AB  - Various dynamic factors impact the movement of materials within a manufacturing environment, increasingly becoming complex for multi-product assembling plants owing to the multiplicity and interconnectedness of these factors. Analyzing these factors can be equally complex, requiring modelling and simulation tools. This paper looks at the modelling and simulation of the materials flow of a multi-product furniture assembling plant to develop an efficient system that accomplishes timely product deliveries at minimal cost. Generic simulation models based on 2 products were developed and constructed using Arena® Simulation Software. Following the simulation experiments and implementation of the results, the average hourly throughput was significantly increased and additional space to store materials prior to processing at workstations was created. The generic models were compatible with the company's other products and hence useful for the company's production planning and scheduling.
+ER  - 
+
+TY  - JOUR
+T1  - An application of chain code-based local descriptor and its extension to face recognition
+AU  - Karczmarek, Paweł
+AU  - Kiersztyn, Adam
+AU  - Pedrycz, Witold
+AU  - Dolecki, Michał
+JO  - Pattern Recognition
+VL  - 65
+SP  - 26
+EP  - 34
+PY  - 2017
+DA  - 2017/05/01/
+SN  - 0031-3203
+DO  - https://doi.org/10.1016/j.patcog.2016.12.008
+UR  - http://www.sciencedirect.com/science/article/pii/S0031320316303971
+KW  - Face recognition
+KW  - Local descriptor
+KW  - Chain code
+KW  - Chain code-based local descriptor
+AB  - Local descriptors are widely used technique of feature extraction to obtain information about both local and global properties of an object. Here, we discuss an application of the Chain Code-Based Local Descriptor to face recognition by focusing on various datasets and considering different variants of this description method. We augment the generic form of the descriptor by adding a possibility of grouping pixels into blocks, i.e., effectively describing larger neighborhoods. The results of experiments show the efficiency of the approach. We demonstrate that the obtained results are comparable or even better than those delivered by other important algorithms in the class of methods based on the Bag-of-Visual-Words paradigm.
+ER  - 
+
+TY  - JOUR
+T1  - An Industry 4.0 Case Study in Fashion Manufacturing
+AU  - Grieco, Antonio
+AU  - Caricato, Pierpaolo
+AU  - Gianfreda, Doriana
+AU  - Pesce, Matteo
+AU  - Rigon, Valeria
+AU  - Tregnaghi, Luca
+AU  - Voglino, Adriano
+JO  - Procedia Manufacturing
+VL  - 11
+SP  - 871
+EP  - 877
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 27th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM2017, 27-30 June 2017, Modena, Italy
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2017.07.190
+UR  - http://www.sciencedirect.com/science/article/pii/S2351978917303980
+KW  - Automated Decision Support Systems
+KW  - Manufacturing Operations
+KW  - Production Planning and Scheduling
+AB  - We present an application of the Industry 4.0 enabling technologies to Bottega Veneta, an Italian luxury goods house renowned in the world for its leather goods. In particular, we address the production process throughout the supply chain. The proposed framework introduces a uniform data model, used by all the actors involved in the production process to collect and represent the large amount of data involved in the production process. A DSS (Decision Support System) allows the production planner to focus on different scenarios to take better decisions.
+ER  - 
+
+TY  - JOUR
+T1  - Application of Fuzzy Delphi TOPSIS to Locate Logistics Centers in Vietnam: The Logisticians’ Perspective
+AU  - Pham, Thi Yen
+AU  - Ma, Hye Min
+AU  - Yeo, Gi Tae
+JO  - The Asian Journal of Shipping and Logistics
+VL  - 33
+IS  - 4
+SP  - 211
+EP  - 219
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 2092-5212
+DO  - https://doi.org/10.1016/j.ajsl.2017.12.004
+UR  - http://www.sciencedirect.com/science/article/pii/S2092521217300603
+KW  - Logistics centers
+KW  - Location selection
+KW  - Logisticians
+KW  - Vietnam
+KW  - Fuzzy Delphi TOPSIS
+AB  - ABSTRACT
+Logistics centers have emerged as an important logistics infrastructure in supply chains. Hence, the problem of locating logistics centers plays a crucial role in designing and practicing logistics and supply chain management. Acknowledging the significance of logistics centers, Vietnam approved a master plan for the development of a logistics center system. However, the plan has been difficult to implementation because of the lack of the prioritization of the determinants used to locate logistics centers. This study aims to develop a benchmarking framework for choosing the locations of logistics centers based on the findings of logisticians by applying a hybrid of the fuzzy method and the technique for order of preference by similarity to ideal solution (TOPSIS), both of which are utilized extensively to overcome problems in selecting locations. The results indicate that freight demand, closeness to market, production area, customers, and transportation costs are regarded as the most important factors in deciding the location of logistics centers. In addition, among the three locations considered, the northeast provinces of Ho Chi Minh City were the best location for logistic centers, followed by North Hanoi and Da Nang city. The findings of this study make a significant contribution to both academic and practical aspects of locating logistic centers.
+ER  - 
+
+TY  - JOUR
+T1  - Innovative solutions in engineering of construction projects
+AU  - Sobotka, Anna
+JO  - Procedia Engineering
+VL  - 208
+SP  - 160
+EP  - 165
+PY  - 2017
+DA  - 2017/01/01/
+T2  - Innovative Solutions in Construction Engineering and Management. Flexibility in Sustainable Construction
+SN  - 1877-7058
+DO  - https://doi.org/10.1016/j.proeng.2017.11.034
+UR  - http://www.sciencedirect.com/science/article/pii/S1877705817360277
+KW  - engineering of construction projects
+KW  - innovations
+KW  - tendencies
+AB  - The issue of innovation in engineering of construction projects (ECP) is considered. The nature of the ECP and the issue of application of innovations is multidimensional, therefore the problem ought to considered in vertical and horizontal aspects. Attention was paid to the imperatives of innovation. The entire subject is considered in the context of Professor O. Kapliński’s jubilee.
+ER  - 
+
+TY  - JOUR
+T1  - Interactive evolutionary optimization of fuzzy cognitive maps
+AU  - Mls, Karel
+AU  - Cimler, Richard
+AU  - Vaščák, Ján
+AU  - Puheim, Michal
+JO  - Neurocomputing
+VL  - 232
+SP  - 58
+EP  - 68
+PY  - 2017
+DA  - 2017/04/05/
+T2  - Advances in Fuzzy Cognitive Maps Theory
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2016.10.068
+UR  - http://www.sciencedirect.com/science/article/pii/S0925231216315636
+KW  - Fuzzy cognitive map
+KW  - Interactive evolutionary optimization
+KW  - Expert knowledge
+AB  - Modeling dynamic systems with Fuzzy Cognitive Maps (FCMs) is characterized by the simplicity of the model representation and its execution. Furthermore, FCMs can easily incorporate human knowledge from the given domain. Despite the many advantages of FCMs, there are some drawbacks, too. The quality of knowledge obtained from the domain experts, and any differences and uncertainties in their opinions, has to be improved by different methods. We propose a new approach for handling incompleteness and natural uncertainty in expert evaluation of the connection matrix of a particular FCM. It is based on partial expert estimations and evolutionary algorithms in the role of an expert-driven optimization and outside of the FCM optimization (adaptation) research area known as Interactive Evolutionary Computing (IEC). In the present paper, a modification of IEC for the purposes of FCM optimization is presented, referred to as the IEO-FCM method, i.e., the Interactive Evolutionary Optimization of Fuzzy Cognitive Maps. Experimental results on two control problems suggest that the IEO-FCM method can improve the quality of an FCM even in situations without any measured data necessary for other known learning algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - A computational model for ranking cloud service providers using hypergraph based techniques
+AU  - Somu, Nivethitha
+AU  - Kirthivasan, Kannan
+AU  - V.S., Shankar Sriram
+JO  - Future Generation Computer Systems
+VL  - 68
+SP  - 14
+EP  - 30
+PY  - 2017
+DA  - 2017/03/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2016.08.014
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X16302734
+KW  - Cloud service ranking
+KW  - Hypergraph
+KW  - Helly property
+KW  - Minimum distance algorithm
+KW  - Service Measurement Index (SMI)
+AB  - In a cloud marketplace, the existence of wide range of Cloud Service Providers (CSPs) makes it hard for the Cloud Users (CUs) to find an appropriate CSP based on their requirements. The design of a suitable service selection framework helps the users in the selection of a suitable CSP, while motivating the CSPs to satisfy the assured Service Level Agreement (SLA) and enhance the Quality of Service (QoS). Existing service selection models employ random assignment of weights to the QoS attributes, replacement of missing data by random values, etc. which results in an inaccurate ranking of the CSPs. Moreover, these models have high computational overhead. In this study, a novel cloud service selection architecture, Hypergraph based Computational Model (HGCM) and Minimum Distance-Helly Property (MDHP) algorithm have been proposed for ranking the cloud service providers. Helly property of the hypergraph had been used to assign weights to the attributes and reduce the complexity of the ranking model, while arithmetic residue and Expectation–Maximization (EM) algorithms were used to impute missing values. Experimental results provided by MDHP under different case studies (dataset used by various research communities and synthetic dataset) confirms the ranking algorithm to be scalable and computationally attractive.
+ER  - 
+
+TY  - JOUR
+T1  - Current research trends and application areas of fuzzy and hybrid methods to the risk assessment of construction projects
+AU  - Islam, Muhammad Saiful
+AU  - Nepal, Madhav Prasad
+AU  - Skitmore, Martin
+AU  - Attarzadeh, Meghdad
+JO  - Advanced Engineering Informatics
+VL  - 33
+SP  - 112
+EP  - 131
+PY  - 2017
+DA  - 2017/08/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2017.06.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1474034617300228
+KW  - Construction projects
+KW  - Risk assessment
+KW  - Fuzzy logic
+KW  - Bayesian belief network
+KW  - Decision making
+AB  - Fuzzy and hybrid methods have been increasingly used in construction risk management research and this study aims to compile and analyse the basic concepts and methods applied in this field to date. A content analysis is made of a comprehensive literature review of publications during 2005–2017. It is found that the nature of complex projects is such that most risks are interdependent of each other. Therefore, a fuzzy structured method such as the fuzzy analytical network process (FANP) has frequently been used for different complex projects. However, the application of FANP is limited because of the tedious and lengthy calculations required for the pairwise comparisons needed and an inability to incorporate new information into the risk structure. To overcome this constraint, a fuzzy Bayesian belief network (FBBN) has been increasingly used for risk assessment. Further project-specific studies based on FBBN are recommended to justify its broader application. Beyond fuzzy methods, the Credal network – an extended form of Bayesian network- is found to have potential for risk assessment under uncertainty.
+ER  - 
+
+TY  - JOUR
+T1  - Skypattern mining: From pattern condensed representations to dynamic constraint satisfaction problems
+AU  - Ugarte, Willy
+AU  - Boizumault, Patrice
+AU  - Crémilleux, Bruno
+AU  - Lepailleur, Alban
+AU  - Loudni, Samir
+AU  - Plantevit, Marc
+AU  - Raïssi, Chedy
+AU  - Soulet, Arnaud
+JO  - Artificial Intelligence
+VL  - 244
+SP  - 48
+EP  - 69
+PY  - 2017
+DA  - 2017/03/01/
+T2  - Combining Constraint Solving with Mining and Learning
+SN  - 0004-3702
+DO  - https://doi.org/10.1016/j.artint.2015.04.003
+UR  - http://www.sciencedirect.com/science/article/pii/S000437021500065X
+KW  - Skypatterns
+KW  - Pattern mining
+KW  - Constraint programming
+KW  - Dynamic CSP
+KW  - User preferences
+AB  - Data mining is the study of how to extract information from data and express it as useful knowledge. One of its most important subfields, pattern mining, involves searching and enumerating interesting patterns in data. Various aspects of pattern mining are studied in the theory of computation and statistics. In the last decade, the pattern mining community has witnessed a sharp shift from efficiency-based approaches to methods which can extract more meaningful patterns. Recently, new methods adapting results from studies of economic efficiency and multi-criteria decision analyses such as Pareto efficiency, or skylines, have been studied. Within pattern mining, this novel line of research allows the easy expression of preferences according to a dominance relation. This approach is useful from a user-preference point of view and tends to promote the use of pattern mining algorithms for non-experts. We present a significant extension of our previous work [1], [2] on the discovery of skyline patterns (or “skypatterns”) based on the theoretical relationships with condensed representations of patterns. We show how these relationships facilitate the computation of skypatterns and we exploit them to propose a flexible and efficient approach to mine skypatterns using a dynamic constraint satisfaction problems (CSP) framework. We present a unified methodology of our different approaches towards the same goal. This work is supported by an extensive experimental study allowing us to illustrate the strengths and weaknesses of each approach.
+ER  - 
+
+TY  - JOUR
+T1  - Comparison and combination of NLPQL and MOGA algorithms for a marine medium-speed diesel engine optimisation
+AU  - Hu, Nao
+AU  - Zhou, Peilin
+AU  - Yang, Jianguo
+JO  - Energy Conversion and Management
+VL  - 133
+SP  - 138
+EP  - 152
+PY  - 2017
+DA  - 2017/02/01/
+SN  - 0196-8904
+DO  - https://doi.org/10.1016/j.enconman.2016.11.066
+UR  - http://www.sciencedirect.com/science/article/pii/S0196890416310755
+KW  - Comparison
+KW  - Combination
+KW  - NLPQL
+KW  - MOGA
+KW  - RSM
+AB  - Seven engine design parameters were investigated by use of NLPQL algorithm and MOGA separately and together. Detailed comparisons were made on NOx, soot, SFOC, and also on the design parameters. Results indicate that NLPQL algorithm failed to approach optimal designs while MOGA offered more and better feasible Pareto designs. Then, an optimal design obtained by MOGA which has the trade-off between NOx and soot was set as the starting point of NLPQL algorithm. In this situation, an even better design with lower NOx and soot was approached. Combustion processes of the optimal designs were also disclosed and compared in detail. Late injection and small swirl were reckoned to be the main reasons for reducing NOx. In the end, RSM contour maps were applied in order to gain a better understanding of the sensitivity of import parameters on NOx, soot and SFOC.
+ER  - 

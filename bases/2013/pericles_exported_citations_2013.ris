@@ -1,0 +1,465 @@
+
+PY  - 2013
+Y1  - 2013/07/19
+DA  - 2013/07/19
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118644898.ch11
+UR  - https://doi.org/10.1002/9781118644898.ch11
+N1  - doi:10.1002/9781118644898.ch11
+M3  - doi:10.1002/9781118644898.ch11
+N2  - Summary In this chapter Decision Deck is briefly described and a user-oriented description of Decision Evaluation for Complex Environmental Risk Network Systems (DECERNS) is put forward. It explains methods and software packages that require no priori technical knowledge and can be used by beginners and experienced practitioners alike. The chapter discusses the DECERNS project in more detail. The DECERNS platform contains three core modules: geographical information system (GIS) module, multi-criteria decision aid (MCDA) module, and group decision support system (GDSS) module.
+SP  - 275-287
+KW  - DECERNS
+KW  - Decision Deck
+KW  - group decision support system (GDSS)
+KW  - information system (GIS) module
+KW  - multi-criteria decision aid (MCDA) module
+T1  - Multi-method platforms
+T2  - Multi‐Criteria Decision Analysis
+T3  - Wiley Online Books
+SN  - 9781118644898
+
+PY  - 2013
+Y1  - 2013/07/19
+DA  - 2013/07/19
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118644898.ch6
+UR  - https://doi.org/10.1002/9781118644898.ch6
+N1  - doi:10.1002/9781118644898.ch6
+M3  - doi:10.1002/9781118644898.ch6
+N2  - Summary This chapter describes the theory along with the practical utilization of the Preference Ranking Organization METHod for Enriched Evaluation (PROMETHEE) method using a case study. It discusses how to use Smart Picker Pro, a software package that helps to express preferences amongst actions (alternatives or choices). Smart Picker Pro computes, as a main output, a partial and global ranking based on the PROMETHEE methodology. The chapter explains the methodological background of PROMETHEE, and deals with the extensions of PROMETHEE in group decision and sorting problems.
+SP  - 135-179
+KW  - group decision
+KW  - PROMETHEE method
+KW  - Smart Picker Pro
+T1  - PROMETHEE
+T2  - Multi‐Criteria Decision Analysis
+T3  - Wiley Online Books
+SN  - 9781118644898
+
+TY  - JOUR
+T1  - A valedictory for Expert Systems print edition
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - doi: 10.1111/exsy.12050
+DO  - 10.1111/exsy.12050
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 381
+EP  - 384
+VL  - 30
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118644898
+M3  - doi: 10.1111/exsy.12050
+UR  - https://doi.org/10.1111/exsy.12050
+Y2  - 2020/10/28
+ER  - 
+
+PY  - 2013
+Y1  - 2013/11/01
+DA  - 2013/11/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.fmatter
+UR  - https://doi.org/10.1002/9781118522516.fmatter
+N1  - doi:10.1002/9781118522516.fmatter
+M3  - doi:10.1002/9781118522516.fmatter
+N2  - Summary The prelims comprise: Half-Title Page Title Page Copyright Page Table of Contents Preface Notes on Contributors
+SP  - i-xvi
+T1  - Front Matter
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+PY  - 2013
+Y1  - 2013/11/01
+DA  - 2013/11/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118522516.index
+UR  - https://doi.org/10.1002/9781118522516.index
+N1  - doi:10.1002/9781118522516.index
+M3  - doi:10.1002/9781118522516.index
+SP  - 347-351
+T1  - Index
+T2  - Multicriteria Decision Aid and Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118522516
+
+TY  - JOUR
+T1  - Risk-based maintenance for asset management of power transformer: practical experience in Thailand
+AU  - Suwanasri, Thanapong
+AU  - Phadungthin, Rattanakorn
+AU  - Suwanasri, Cattareeya
+Y1  - 2014/08/01
+PY  - 2014
+DA  - 2014/08/01
+N1  - doi: 10.1002/etep.1764
+DO  - 10.1002/etep.1764
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 1103
+EP  - 1119
+VL  - 24
+IS  - 8
+KW  - Analytic Hierarchy Process
+KW  - pairwise comparisons
+KW  - power transformer
+KW  - condition assessment
+KW  - failure analysis
+KW  - condition-based maintenance
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118522516
+M3  - doi: 10.1002/etep.1764
+UR  - https://doi.org/10.1002/etep.1764
+Y2  - 2020/10/28
+N2  - SUMMARY Nowadays, the requirement on diminishing operating and maintenance costs is highly concerned for utilities in competitive electricity market. Power transformer is first focused due to its acquisition costs and failure consequences (FCs). Traditional preventive maintenance for power transformer is generally applied. However, it is very costly and does not take into account actual transformer condition. Hence, risk-based maintenance is introduced in this paper to facilitate the maintenance works of power transformers. The conditions of power transformers are evaluated from electrical test, insulating oil test and visual inspection by using the ranking and weighting techniques. In addition, the Analytic Hierarchy Process (AHP) is proposed to determine the important weighting factor of each transformer component. The three main criteria of the AHP are maintenance difficulty, FC and failure history. Moreover, the Weibull distribution techniques are applied to analyze failure causes. The computerized web-application program is developed and implemented for practical use in a utility in Thailand. The power transformers installed in 115 kV and 230 kV transmission systems in Thailand are assessed due to availability and quality of data. From statistical analysis of failure records, the conditions of power transformer can be divided into three different zones as risk, moderate and healthy zone. The defective components in risk zone with higher proportion of failure should be carefully focused. The components and overall condition of the transformers are perceived from the analysis of test results. Subsequently, the risk-based maintenance is properly planned according to the actual condition. Therefore, maintenance of power transformer fleet can be effectively managed resulting in higher availability and reliability, lower risk of failure and lower cost of maintenance. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Pichon, Frédéric
+AU  - Labreuche, Christophe
+AU  - Duqueroie, Bertrand
+AU  - Delavallade, Thomas
+PY  - 2014
+Y1  - 2014/08/01
+DA  - 2014/08/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118899151.ch5
+UR  - https://doi.org/10.1002/9781118899151.ch5
+N1  - doi:10.1002/9781118899151.ch5
+M3  - doi:10.1002/9781118899151.ch5
+N2  - Summary There are different methods for estimating the reliability of a source depending on the nature of the available data about that source. This chapter presents a new method to evaluate the reliability of a source by way of a combination of the evaluations of different dimensions (or attributes) that characterize the reliability. The basic notions of multi-criteria aggregation are recalled in the chapter, and the Choquet integral is presented. The chapter shows a way of exploiting the Choquet integral in order to establish the degree of reliability of an information source. After a succinct state of the art about the problem of reliability evaluation of Twitter accounts is presented, the chapter illustrates the proposed approach on this particular type of source.
+SP  - 129-159
+KW  - Choquet integral
+KW  - information sources
+KW  - multi-criteria model
+KW  - multidimensional approach
+KW  - reliability evaluation
+KW  - Twitter account
+T1  - Multidimensional Approach to Reliability Evaluation of Information Sources
+T2  - Information Evaluation
+T3  - Wiley Online Books
+SN  - 9781118899151
+
+TY  - JOUR
+T1  - Multi-objective reservoir operation under emergency condition: Abbaspour reservoir case study with non-functional spillways
+AU  - Akbari, M.
+AU  - Afshar, A.
+AU  - Mousavi, S.J.
+Y1  - 2014/12/01
+PY  - 2014
+DA  - 2014/12/01
+N1  - doi: 10.1111/jfr3.12061
+DO  - 10.1111/jfr3.12061
+T2  - Journal of Flood Risk Management
+JF  - Journal of Flood Risk Management
+JO  - Journal of Flood Risk Management
+JA  - J. Flood Risk Manage
+SP  - 374
+EP  - 384
+VL  - 7
+IS  - 4
+KW  - Emergency condition
+KW  - flood risk management
+KW  - multi-objective reservoir operation
+KW  - real time forecasting
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118899151
+M3  - doi: 10.1111/jfr3.12061
+UR  - https://doi.org/10.1111/jfr3.12061
+Y2  - 2020/10/28
+N2  - Abstract The main objective of this study is to present a simulation-optimization approach methodology for short-term operation of multi-objective reservoirs during emergency conditions where risk of flooding and overflow from damaged spillways is significant. The paper considers flood risk management through enhancing dam safety as well as long-term objectives of the reservoir for hydropower generation and irrigation water supply simultaneously. In particular, real-time operation of Abbaspour reservoir during an emergency condition is considered where all flood discharging facilities are out of order for repairing the damaged parts. The proposed methodology combines a short-term and a long-term operation strategies to minimize risk of overflow for any possible incoming floods while preserving the long-term objectives of the reservoir. An efficient daily flow forecasting scheme provides the inflow data for the short-term (daily) operation strategy in a deterministic environment which follows the long-term operation policy. A multi-objective stochastic dynamic programming model addresses the long-term operation policy by solving the weekly operation model. The outcomes of the model application to the case study have illustrated its capabilities in developing a compromise between the risk of dam overflow and its long-term objectives.
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Asymmetric Partial Feedback on Response-Bias
+AU  - Smillie, Luke D.
+AU  - Quek, Boon-Kiat
+AU  - Dalgleish, Len I.
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - doi: 10.1002/bdm.1793
+DO  - 10.1002/bdm.1793
+T2  - Journal of Behavioral Decision Making
+JF  - Journal of Behavioral Decision Making
+JO  - Journal of Behavioral Decision Making
+JA  - J. Behav. Dec. Making
+SP  - 157
+EP  - 169
+VL  - 27
+IS  - 2
+KW  - asymmetric partial feedback
+KW  - response-bias
+KW  - signal detection theory
+KW  - accuracy maximization
+KW  - constructivist coding
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118899151
+M3  - doi: 10.1002/bdm.1793
+UR  - https://doi.org/10.1002/bdm.1793
+Y2  - 2020/10/28
+N2  - ABSTRACT For many decisions we make, we are more likely to receive feedback about some outcomes than about others, and thus we must operate under conditions of asymmetric partial feedback. In this paper, we examine the effects of asymmetric partial feedback on decision making across three experiments. Experiment 1 examines the effects of four partial feedback schedules on decision making in a single-attribute auditory detection task. Experiment 2 examines these same schedules in the context of a simulated experiment in which virtual participants perform a multi-attribute choice task. Experiment 3 then examines effects of one partial feedback schedule representative of a real-world decision-making domain (personnel selection) using an ecologically informed multi-attribute choice task. All three experiments reveal that asymmetric partial feedback primarily impacts on response-bias, a parameter of signal detection theory. These findings can be explained in terms of decision makers' attempts to maximize accuracy and the fact that shifts in response-bias will, under partial feedback, produce misleading impressions of greater accuracy. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Partial order methodology: a valuable tool in chemometrics
+AU  - Carlsen, L.
+AU  - Bruggemann, R.
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - doi: 10.1002/cem.2569
+DO  - 10.1002/cem.2569
+T2  - Journal of Chemometrics
+JF  - Journal of Chemometrics
+JO  - Journal of Chemometrics
+JA  - J. Chemometrics
+SP  - 226
+EP  - 234
+VL  - 28
+IS  - 4
+KW  - multi-indicator systems
+KW  - MCDA
+KW  - partial order ranking
+KW  - Hasse diagrams
+KW  - PyHasse
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118899151
+M3  - doi: 10.1002/cem.2569
+UR  - https://doi.org/10.1002/cem.2569
+Y2  - 2020/10/28
+N2  - Often from multi-indicator system (MIS), a composite indicator is derived by applying weighted sums of the single indicators. The eventual ranking being based on composite indicator yields a total (linear) ranking. In contrast, partial order ranking constitutes an alternative approach where assumptions about linearity or distribution of the indicators are not needed and indicators are in general used without quantification of mutual preferences. The present paper describes analyses of MIS based on a series of partial order techniques as offered by the PyHasse software. The paper describes how important information on an MIS can be obtained without lengthy and often controversial and possible subjective discussions about indicator weights and thus avoiding both covering up valuable information contained in the single indicators as well as unwanted compensation effects. The application of partial order for obtaining chemometric information is illustrated by a study of 12 chloro-organic pesticides. All calculation has been carried out applying the experimental software PyHasse. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+PY  - 2014
+Y1  - 2014/04/01
+DA  - 2014/04/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118700365.ch2
+UR  - https://doi.org/10.1002/9781118700365.ch2
+N1  - doi:10.1002/9781118700365.ch2
+M3  - doi:10.1002/9781118700365.ch2
+N2  - Summary In this chapter, an integrated design framework incorporating unscented Kalman filter is developed to utilize multi-sensor data fusion techniques for process fault monitoring. The multi-sensor data fusion technique is presented via centralized and decentralized architectures. Detailed simulation studies have been conducted to demonstrate the performance of the proposed scheme on quadruple tank system and industrial boiler. It is established that the decentralized integrated framework retrieves more effectively the critical information about presence or absence of a fault from the dynamic model with minimum time delay and provides accurate unfolding-in-time of the finer details of the fault as compared to the centralized integrated framework, thus completing the overall picture of fault monitoring of the system under test.
+SP  - 17-48
+KW  - Unscented Kalman filter
+KW  - Multi-sensor data fusion
+KW  - Quadruple tank system
+KW  - Industrial boiler
+T1  - Fault Diagnosis and Detection
+T2  - Analysis and Synthesis of Fault‐Tolerant Control Systems
+T3  - Wiley Online Books
+SN  - 9781118700365
+
+TY  - JOUR
+T1  - Resource Commitment, Organizational Diversity, and Research Performance: A Case of the National Telecommunication Program in Taiwan
+AU  - Hung, Chia-Liang
+AU  - Chou, Jerome Chih-Lung
+Y1  - 2013/06/01
+PY  - 2013
+DA  - 2013/06/01
+N1  - doi: 10.1002/pmj.21340
+DO  - 10.1002/pmj.21340
+T2  - Project Management Journal
+JF  - Project Management Journal
+JO  - Project Management Journal
+JA  - Proj Mgmt Jrnl
+SP  - 32
+EP  - 47
+VL  - 44
+IS  - 3
+KW  - data envelopment analysis
+KW  - analytical hierarchy process
+KW  - evaluation
+KW  - R&D management
+KW  - project management
+KW  - program management
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118700365
+M3  - doi: 10.1002/pmj.21340
+UR  - https://doi.org/10.1002/pmj.21340
+Y2  - 2020/10/28
+N2  - Abstract Traditionally, a project team's resource commitment and organizational diversity are thought to be helpful to project performance; however, this relationship may falter when the project performance is considered in light of both cost and benefit. This paper integrates data envelopment analysis (DEA) and analytical hierarchy process (AHP) to evaluate project performance and explores the relationship between project performance and resource commitment and organizational diversity. The empirical study of research teams in the Taiwan National Telecommunication Program shows mixed results of this relationship. Implications for project management and governmental subsidy policy in dealing with resource commitment and organizational diversity are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Bio Sketches January 2001
+Y1  - 2001/01/01
+PY  - 2001
+DA  - 2001/01/01
+N1  - doi: 10.1002/j.2168-9830.2001.tb00584.x
+DO  - 10.1002/j.2168-9830.2001.tb00584.x
+T2  - Journal of Engineering Education
+JF  - Journal of Engineering Education
+JO  - Journal of Engineering Education
+SP  - 157
+EP  - 167
+VL  - 90
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118700365
+M3  - doi: 10.1002/j.2168-9830.2001.tb00584.x
+UR  - https://doi.org/10.1002/j.2168-9830.2001.tb00584.x
+Y2  - 2020/10/28
+ER  - 
+
+AU  - Boussard, Matthieu
+AU  - Bouzid, Maroua
+AU  - Mouaddib, Abdel-Illah
+AU  - Sabbadin, Régis
+AU  - Weng, Paul
+PY  - 2001
+Y1  - 2001/01/01
+DA  - 2001/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118557426.ch10
+UR  - https://doi.org/10.1002/9781118557426.ch10
+N1  - doi:10.1002/9781118557426.ch10
+M3  - doi:10.1002/9781118557426.ch10
+N2  - Summary Partially observable Markov decision processes (POMDPs) allow for taking into account a partial knowledge of the environment. Reinforcement learning methods make it possible to go without the knowledge of the model itself. This chapter discusses two other limitations, those of a mono-criterion preference representation and of a well-defined probabilistic uncertainty representation. It describes the formalism of multicriteria or vector-valued MDP extending the MDP framework to multicriteria decision-making. The chapter presents an algorithm allowing the heuristic computation of satisfying policies that are close to an ideal solution. It also presents an MDP approach based on possibility theory. The chapter shows that this approach also allows for partial observability of the states to be taken into account in possibilistic POMDPs and that it allows for the resolution of compactly represented problems. It discusses the framework of algebraic MDPs generalizing both multicriteria MDPs and possibilistic MDPs in the finite-horizon case. Controlled Vocabulary Terms heuristic programming; learning (artificial intelligence); possibility theory
+SP  - 319-360
+KW  - algebraic MDPs
+KW  - Markov decision process (MDP)
+KW  - mono-criterion preference representation
+KW  - multicriteria decision-making
+KW  - partially observable Markov decision processes (POMDPs)
+KW  - possibilistic MDPs
+KW  - reinforcement learning
+T1  - Non-Standard Criteria
+T2  - Markov Decision Processes in Artificial Intelligence
+T3  - Wiley Online Books
+SN  - 9781118557426
+
+TY  - JOUR
+T1  - A Robust Framework for Multi-Response Surface Optimization Methodology
+AU  - Yadav, Om Prakash
+AU  - Thambidorai, Ganesh
+AU  - Nepal, Bimal
+AU  - Monplaisir, Leslie
+Y1  - 2014/03/01
+PY  - 2014
+DA  - 2014/03/01
+N1  - doi: 10.1002/qre.1499
+DO  - 10.1002/qre.1499
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual. Reliab. Engng. Int.
+SP  - 301
+EP  - 311
+VL  - 30
+IS  - 2
+KW  - multi-response optimization
+KW  - design optimization
+KW  - correlated quality characteristics
+KW  - quality loss function
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118557426
+M3  - doi: 10.1002/qre.1499
+UR  - https://doi.org/10.1002/qre.1499
+Y2  - 2020/10/28
+N2  - A robust multi-response optimization framework is proposed for simultaneously optimizing multiple conflicting quality characteristics. Unlike prior methods, the proposed approach is insensitive to subjective inputs like target specifications and improves optimization process for correlated responses. The effectiveness of the proposed approach is demonstrated and compared with existing methods considering two examples from the literature. The proposed method yields similar results consistently for different assigned target values demonstrating repeatability of the model, hence demonstrating insensitivity to assigned subjective target values. Furthermore, the study also considers multiple correlated design characteristics issue to achieve better trade-off during design optimization. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+PY  - 2014
+Y1  - 2014/03/01
+DA  - 2014/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118462706.fmatter
+UR  - https://doi.org/10.1002/9781118462706.fmatter
+N1  - doi:10.1002/9781118462706.fmatter
+M3  - doi:10.1002/9781118462706.fmatter
+N2  - Summary The prelims comprise: Half Title Title Copyright Contents List of Figures Preface Acknowledgments Editor and Contributors
+SP  - i-xxxi
+T1  - Front Matter
+T2  - Mathematical Modeling with Multidisciplinary Applications
+T3  - Wiley Online Books
+SN  - 9781118462706
+
+PY  - 2014
+Y1  - 2014/03/01
+DA  - 2014/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118506196.ch7
+UR  - https://doi.org/10.1002/9781118506196.ch7
+N1  - doi:10.1002/9781118506196.ch7
+M3  - doi:10.1002/9781118506196.ch7
+N2  - Summary This chapter focuses on how to tackle uncertainty in natural resources decision making. First, it explains two important categories of uncertainty, namely irreducible and reducible uncertainty. Describing the effects of uncertainty on decision making, the chapter introduces approaches for identifying the key or important uncertainties. Next, the chapter talks about the traditional approaches to reduce uncertainty. It introduces adaptive resource management (ARM) as a special case of structured decision making that reduces uncertainty through time and improves decision making. All decision models should be evaluated using sensitivity analysis prior to choosing and implementing the optimal or satisficing decision. The chapter discusses four types of sensitivity analysis that are commonly used in natural resource decision modeling. These are one-way sensitivity analysis, two-way sensitivity analysis, response profile sensitivity analysis, and indifference curves.
+SP  - 192-231
+KW  - adaptive resource management (ARM)
+KW  - irreducible uncertainty
+KW  - natural resource management
+KW  - natural resources decision making
+KW  - reducible uncertainty
+KW  - sensitivity analysis
+T1  - Identifying and Reducing Uncertainty in Decision Making
+T2  - Decision Making in Natural Resource Management: A Structured, Adaptive Approach
+T3  - Wiley Online Books
+SN  - 9781118506196
+
+PY  - 2014
+Y1  - 2014/03/01
+DA  - 2014/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118527085.ch7
+UR  - https://doi.org/10.1002/9781118527085.ch7
+N1  - doi:10.1002/9781118527085.ch7
+M3  - doi:10.1002/9781118527085.ch7
+N2  - Summary Data, in the form of patterns, play various roles in model design, implementation and evaluation. They can be used to select between alternative model structures and parameterisations, assess the usefulness of a specific model, and inform and guide how a model may be refined in the future. While there is a tendency to focus on the confrontation of a predictive model with empirical data, this is just one role of data in the iterative process of developing, using and evaluating a simulation model. A fundamental issue in modelling is uncertainty. Model evaluation is ?the process of determining model usefulness and estimating the range or likelihood of various interesting outcomes?. One framework to help design and evaluate models is pattern-oriented modelling (POM).
+SP  - 193-228
+KW  - model evaluation
+KW  - model uncertainty
+KW  - pattern-oriented modelling (POM)
+KW  - simulation model
+T1  - Model Uncertainty and Evaluation
+T2  - Spatial Simulation
+T3  - Wiley Online Books
+SN  - 9781118527085
+
+TY  - JOUR
+T1  - Abstract
+Y1  - 2013/10/01
+PY  - 2013
+DA  - 2013/10/01
+N1  - doi: 10.1002/pds.3512
+DO  - 10.1002/pds.3512
+T2  - Pharmacoepidemiology and Drug Safety
+JF  - Pharmacoepidemiology and Drug Safety
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+SP  - 1
+EP  - 521
+VL  - 22
+IS  - s1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118527085
+M3  - doi: 10.1002/pds.3512
+UR  - https://doi.org/10.1002/pds.3512
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - 2013 Annual Meeting Abstract Supplement
+Y1  - 2013/10/01
+PY  - 2013
+DA  - 2013/10/01
+N1  - doi: 10.1002/art.38216
+DO  - 10.1002/art.38216
+T2  - Arthritis & Rheumatism
+JF  - Arthritis & Rheumatism
+JO  - Arthritis & Rheumatism
+JA  - Arthritis & Rheumatism
+SP  - S1
+EP  - S1331
+VL  - 65
+IS  - S10
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118527085
+M3  - doi: 10.1002/art.38216
+UR  - https://doi.org/10.1002/art.38216
+Y2  - 2020/10/28
+ER  - 

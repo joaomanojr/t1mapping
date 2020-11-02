@@ -1,0 +1,1111 @@
+
+TY  - JOUR
+T1  - “Big Data” Analysis: Putting the Data Cart Before the Modelling Horse?
+AU  - Barr, Graham D.
+AU  - Stewart, Theodor J.
+AU  - Kantor, Brian S.
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - doi: 10.1111/jacf.12298
+DO  - 10.1111/jacf.12298
+T2  - Journal of Applied Corporate Finance
+JF  - Journal of Applied Corporate Finance
+JO  - Journal of Applied Corporate Finance
+JA  - Journal of Applied Corporate Finance
+SP  - 40
+EP  - 44
+VL  - 30
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 1078-1196
+M3  - doi: 10.1111/jacf.12298
+UR  - https://doi.org/10.1111/jacf.12298
+Y2  - 2020/10/28
+N2  - The statistical analysis of very large data sets, so-called Big Data or Data Analytics, has become enormously popular in Statistical Analysis and Operations Research. In some cases, such as research into the buying habits of online consumers, the results have come quickly and been very significant. Analysis of other data sets, however, is questionable. For example, time-series based statistical analysis, often under the descriptive envelope of ?neural networks? and ?data mining,? of stock market and futures prices, sometimes in combination with historical accounting figures such as earnings and cash flows. The appeal is understandable given the availability of share price data and cheap computer processing power. Nevertheless, the notion that historical data form some sort of repeatable pattern over time, and that complex time series or neural network techniques can be then be used to forecast future prices is hard to justify. Economic modeling necessarily needs to factor in human behavior, unlike modeling in the pure sciences. The authors cite Lancaster University Professor Michael Pidd who summarizes six relevant principles: Model simple, think complicated Be parsimonious, start small and add Divide and conquer, avoid mega models Use metaphors, analogies and similarities Do not fall in love with data Model building may feel like muddling through. Economic modeling must recognize three key components: (i) the incorporation of human cognitive understanding and experience of the underlying systems, (ii) the use of data to validate emerging models, and (iii) the role of mathematics to ensure internal coherence and logic. Decision-makers ought to be very skeptical of models which skimp on any one of these three components. The authors emphasize that, rather than Big Data adding value, per se, people add value by creating models that use it.
+ER  - 
+
+TY  - JOUR
+T1  - Big Data and the Precision Medicine Revolution
+AU  - Hopp, Wallace J.
+AU  - Li, Jun
+AU  - Wang, Guihua
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - doi: 10.1111/poms.12891
+DO  - 10.1111/poms.12891
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+JO  - Production and Operations Management
+JA  - Prod Oper Manag
+SP  - 1647
+EP  - 1664
+VL  - 27
+IS  - 9
+KW  - big data
+KW  - precision medicine
+KW  - observational data
+KW  - machine learning
+KW  - causal inference
+PB  - John Wiley & Sons, Ltd
+SN  - 1059-1478
+M3  - doi: 10.1111/poms.12891
+UR  - https://doi.org/10.1111/poms.12891
+Y2  - 2020/10/28
+N2  - The big data revolution is making vast amounts of information available in all sectors of the economy including health care. One important type of data that is particularly relevant to medicine is observational data from actual practice. In comparison to experimental data from clinical studies, observational data offers much larger sample sizes and much broader coverage of patient variables. Properly combining observational data with experimental data can facilitate precision medicine by enabling detection of heterogeneity in patient responses to treatments and tailoring of health care to the specific needs of individuals. However, because it is high-dimensional and uncontrolled, observational data presents unique methodological challenges. The modeling and analysis tools of the production and operations management field are well-suited to these challenges and hence POM scholars are critical to the realization of precision medicine with its many benefits to society.
+ER  - 
+
+TY  - JOUR
+T1  - Selecting optimal mixtures of natural sweeteners for carbonated soft drinks through multi-objective decision modeling and sensory validation
+AU  - Acevedo, Waldo
+AU  - Capitaine, Chloé
+AU  - Rodríguez, Ricardo
+AU  - Araya-Durán, Ingrid
+AU  - González-Nilo, Fernando
+AU  - Pérez-Correa, José R.
+AU  - Agosin, Eduardo
+Y1  - 2018/12/01
+PY  - 2018
+DA  - 2018/12/01
+N1  - doi: 10.1111/joss.12466
+DO  - 10.1111/joss.12466
+T2  - Journal of Sensory Studies
+JF  - Journal of Sensory Studies
+JO  - Journal of Sensory Studies
+JA  - J Sens Stud
+SP  - e12466
+VL  - 33
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0887-8250
+M3  - doi: 10.1111/joss.12466
+UR  - https://doi.org/10.1111/joss.12466
+Y2  - 2020/10/28
+N2  - Abstract The objective of this study was to develop a methodology to optimize mixtures of natural, noncaloric sweeteners?with the highest sweetness and the lowest bitterness?for carbonated soft drinks. To this end, and with the aid of a trained sensory panel, we first determined the most suitable mixtures of tagatose, sucrose, and stevia in a soft drink matrix, using a three-component simplex lattice mixture design. Then, we developed a multi-objective thermodynamically-based decision model to this purpose. Results indicate that both, sucrose and tagatose, were able to reduce stevia's bitterness. However, an increase of bitterness intensity was found above 0.23?g/L of stevia (sucrose equivalency or SE?>5). Both, sensory analysis and multi-objective decision modeling identified similar optimal mixtures, corresponding to 23?39?g/L sucrose, 0.19?0.34?g/L stevia, and 34?42?g/L tagatose, depending on the desired sweetness/bitterness balance. Within this constrained area, a reduction of almost 60% of sucrose can be achieved in both approaches, keeping bitterness intensity low. Practical applications Current demand of low-calorie beverages has significantly raised as a result of consumer concerns on the negative effects of refined sugars present in carbonated soft drinks. Consequently, natural sweeteners, and their mixtures, are being increasingly used for these product developments. This study provides a methodology to optimize mixtures of natural, noncaloric sweeteners for preparing carbonated soft drinks with the lowest possible caloric content, while maintaining the tastiness?high sweetness and low bitterness?of full caloric ones, containing the bulk sweetener tagatose and the high-intensity sweetener stevia.
+ER  - 
+
+AU  - Lee, Eva K.
+PY  - 2018
+Y1  - 2018/12/01
+DA  - 2018/12/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118960158.ch17
+UR  - https://doi.org/10.1002/9781118960158.ch17
+N1  - doi:10.1002/9781118960158.ch17
+M3  - doi:10.1002/9781118960158.ch17
+N2  - Summary We present novel optimization-based classification models that are of general purpose and suitable for establishing reliable predictive rules for a broad variety of biological and medical applications. Our predictive framework simultaneously incorporates the following: The ability to classify any number of distinct groups The ability to incorporate heterogeneous and temporal types of attributes as input A high-dimensional data transformation that reduces dimension and minimizes noise and errors The ability to incorporate constraints to limit the rate of misclassification and a reserved-judgment region that provides a safeguard against overtraining (which tends to lead to high misclassification rates from the resulting predictive rule). Successive multistage classification capability to handle data points placed in the reserved-judgment region To illustrate the power and flexibility of the classification model and solution engine and its multi-group prediction capability, applications of the predictive model to biological and medical problems are described. Applications include vaccine immunogenicity prediction, early detection of mild cognitive impairment and Alzheimer's disease, predicting aberrant CpG island methylation in human cancer, predicting ultrasonic cell disruption for drug delivery, uncovering tumor shape and volume in treatment of sarcoma, multistage discriminant analysis of biomarkers for detecting early atherosclerosis, and fingerprinting of native and angiogenic microvascular networks for early diagnosis of diabetes, aging, macular degeneracy, and tumor metastasis. Further, we also demonstrate the classification performance on instances from the UCI Repository of machine learning databases. In all these applications, the classification rules yield blind prediction accuracy ranging from 80% to 100%. The real-time blind prediction capability enables its use as a medical diagnostic, monitoring, and clinical decision-making tool.
+SP  - 367-400
+KW  - classification predictive health
+KW  - discriminant analysis
+KW  - machine learning
+KW  - discrete support vector machine
+KW  - multi-category classification models
+KW  - integer programming
+KW  - optimization
+KW  - reserved judgment
+KW  - multistage classification
+KW  - medical diagnosis
+T1  - MACHINE LEARNING FOR EARLY DETECTION AND TREATMENT OUTCOME PREDICTION
+T2  - Decision Analytics and Optimization in Disease Prevention and Treatment
+T3  - Wiley Online Books
+SN  - 9781118960158
+
+TY  - JOUR
+T1  - Emerging risks identification on food and feed – EFSA
+AU  - European Food Safety Authority (EFSA)
+AU  - Donohoe, Terry
+AU  - Garnett, Kenisha
+AU  - Lansink, Alfons Oude
+AU  - Afonso, Ana
+AU  - Noteborn, Hubert
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - doi: 10.2903/j.efsa.2018.5359
+DO  - 10.2903/j.efsa.2018.5359
+T2  - EFSA Journal
+JF  - EFSA Journal
+JO  - EFSA Journal
+JA  - EFSA Journal
+SP  - e05359
+VL  - 16
+IS  - 7
+KW  - emerging risks
+KW  - food systems
+KW  - horizon scanning
+KW  - big data
+KW  - drivers of change
+KW  - prioritisation
+KW  - risk communication
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118960158
+M3  - doi: 10.2903/j.efsa.2018.5359
+UR  - https://doi.org/10.2903/j.efsa.2018.5359
+Y2  - 2020/10/28
+N2  - Abstract The European Food Safety Authority's has established procedures for the identification of emerging risk in food and feed. The main objectives are to: (i) to carry out activities aiming at identifying, assessing and disseminating information on emerging issues and ensure coordination with relevant networks and international organisations; (ii) promote the identification of data sources and data collection and /or data generation in prioritised emerging issues; and the (iii) evaluate of the collected information and identify of emerging risks. The objective(s) of the Standing Working Group on Emerging Risks (SWG-ER) is to collaborate with EFSA on the emerging risks identification (ERI) procedure and provide strategic direction for EFSA work building on past and ongoing projects related to EFSA ERI procedure. The SWG-ER considered the ERI methodologies in place and results obtained by EFSA. It was concluded that a systematic approach to the identification of emerging issues based on experts? networks is the major strength of the procedure but at present, it is mainly focused on single issues, over short to medium time horizons, no consistent weighting or ranking is applied and clear governance of emerging risks with follow-up actions is missing. The analysis highlighted weaknesses with respect to data collection, analysis and integration. No methodology is in place to estimate the value of the procedure outputs in terms of avoided risk and there is urgent need for a communication strategy that addresses the lack of data and knowledge uncertainty and addresses risk perception issues. Recommendations were given in three areas: (i) Further develop a food system-based approach including the integration of social sciences to improve understanding of interactions and dynamics between actors and drivers and the development of horizon scanning protocols; (ii) Improve data processing pipelines to prepare big data analytics, implement a data validation system and develop data sharing agreements to explore mutual benefits; and (iii) Revise the EFSA procedure for emerging risk identification to increase transparency and improve communication.
+ER  - 
+
+TY  - JOUR
+T1  - Insights from a text mining survey on Expert Systems research from 2000 to 2016
+AU  - Cortez, Paulo
+AU  - Moro, Sérgio
+AU  - Rita, Paulo
+AU  - King, David
+AU  - Hall, Jon
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - doi: 10.1111/exsy.12280
+DO  - 10.1111/exsy.12280
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12280
+VL  - 35
+IS  - 3
+KW  - Expert Systems
+KW  - literature analysis
+KW  - research categorization
+KW  - research evolution
+KW  - text mining
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118960158
+M3  - doi: 10.1111/exsy.12280
+UR  - https://doi.org/10.1111/exsy.12280
+Y2  - 2020/10/28
+N2  - Abstract This study presents a literature analysis using a semiautomated text mining and topic modelling approach of the body of knowledge encompassed in 17 years (2000?2016) of literature published in the Wiley's Expert Systems journal, a key reference in Expert Systems (ESs) research, in a total of 488 research articles. The methodological approach included analysing countries from authors' affiliations, with results emphasizing the relevance of both U.S. and U.K. researchers, with Chinese, Turkish, and Spanish holding also a significant relevance. As a result of the sparsity found on the keywords, one of our goals became to devise a taxonomy for future submissions under 2 core dimensions: ESs' methods and ESs' applications. Finally, through topic modelling, data-driven methods were unveiled as the most relevant, pairing with evaluation methods in its application to managerial sciences, arts, and humanities. Findings also show that most of the application domains are well represented, including health, engineering, energy, and social sciences.
+ER  - 
+
+PY  - 2018
+Y1  - 2018/06/01
+DA  - 2018/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119549208.ch7
+UR  - https://doi.org/10.1002/9781119549208.ch7
+N1  - doi:10.1002/9781119549208.ch7
+M3  - doi:10.1002/9781119549208.ch7
+N2  - Abstract This chapter offers guidance on how to obtain and manage project resources, including outsourced deliverables, by following the procurement plan in order to ensure successful project execution. The chapter offers guidance on how to maximize team performance through leading, mentoring, training, and motivating team members. The organizational process assets input refers to the standard processes, policies, procedures, and guidelines that the organization has in place. This includes policies around acquiring external resources. Decision-making techniques used in this process include, but are not limited to, multi-criteria decision analysis. Multi-criteria decision analysis involves the use of selection criteria to make decisions on whether potential project team members are a fit. Criteria are typically assigned a weight based on their level of importance, and candidates are then rated against the criteria. Project team assignments are based on the results of negotiating and determining elements such as the roles and responsibilities and reviewing recruitment practices. This output also results in a published project team directory, which lists the names of all project team members and stakeholders.
+SP  - 243-296
+KW  - project execution
+KW  - team performance
+KW  - decision analysis
+KW  - project team assignments
+KW  - project team directory
+KW  - stakeholders
+T1  - Executing the Project
+T2  - PMP® Project Management Professional Exam
+T3  - Wiley Online Books
+SN  - 9781119549208
+
+TY  - JOUR
+T1  - Expert systems: Special issue on “New trends and Innovations in Intelligent Distributed Computing”
+AU  - Camacho, David
+AU  - Novais, Paulo
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - doi: 10.1111/exsy.12333
+DO  - 10.1111/exsy.12333
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12333
+VL  - 35
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119549208
+M3  - doi: 10.1111/exsy.12333
+UR  - https://doi.org/10.1111/exsy.12333
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - How to deal with QoS value constraints in MCDM based Web service selection
+AU  - Serrai, Walid
+AU  - Abdelli, Abdelkrim
+AU  - Mokdad, Lynda
+AU  - Serrai, Ashref
+Y1  - 2019/12/25
+PY  - 2019
+DA  - 2019/12/25
+N1  - doi: 10.1002/cpe.4512
+DO  - 10.1002/cpe.4512
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4512
+VL  - 31
+IS  - 24
+KW  - MCDM
+KW  - normalization
+KW  - QoS criteria
+KW  - RIM
+KW  - SAW
+KW  - TOPSIS
+KW  - value constraints
+KW  - VIKOR
+KW  - Web service selection
+KW  - WPM
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119549208
+M3  - doi: 10.1002/cpe.4512
+UR  - https://doi.org/10.1002/cpe.4512
+Y2  - 2020/10/28
+N2  - Summary The aim of the current research is to develop a more accurate Web service selection approach that can deal with value constraints on QoS criteria in the user request. The purpose is to be able to promote services even when all the value constraints are not satisfied and hence rank them according to their closeness to meet the latter. For this effect, we use MCDM (Multi Criteria Decision making) methods together with suitable normalization techniques at different stages of the process. First of all, we consider an extension of the AHP method to compute and normalize the weights associated with the QoS criteria considered in the Web service selection. Second, we introduce a more consistent normalization technique, called OMRI, to normalize data according to value constraints. Third, we propose to extend different ranking MCDM methods to the OMRI normalization so that it becomes possible for them to cope with value constraints. The considered methods are SAW, TOPSIS, VIKOR, and WPM. To compare the accuracy of the extended ranking methods, we use the Borda compromise solution together with different similarity ratios. To validate the solution, several experiments have been conducted on a real dataset as well as on an artificial one.
+ER  - 
+
+TY  - JOUR
+T1  - Detecting misinformation in social networks using provenance data
+AU  - Baeth, Mohamed Jehad
+AU  - Aktas, Mehmet S.
+Y1  - 2019/02/10
+PY  - 2019
+DA  - 2019/02/10
+N1  - doi: 10.1002/cpe.4793
+DO  - 10.1002/cpe.4793
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4793
+VL  - 31
+IS  - 3
+KW  - fuzzy analytic hierarchy process
+KW  - misinformation detection
+KW  - provenance data
+KW  - social networks
+KW  - social provenance
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119549208
+M3  - doi: 10.1002/cpe.4793
+UR  - https://doi.org/10.1002/cpe.4793
+Y2  - 2020/10/28
+N2  - Summary In recent years, the credibility of information on social networks has attracted considerable of interest due to its critical role in the spread of information online. In this paper, we argue that the quality of information created on social networks can be analyzed using its provenance data. In particular, we propose an algorithm that assesses information credibility on social networks in order to detect fake or malicious information using a fuzzy analytic hierarchy process to assign proper weights to the proposed metrics. In order to test the usability of the proposed algorithm, we introduce a prototype implementation and test it on a large-scale synthetic social provenance dataset. The initial results reveal a proportional relationship between our proposed distance from positivity algorithm and the provenance graph metrics-based user credibility.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid data envelopment analysis and multi-attribute decision making approach to sustainability assessment
+AU  - Keshavarz, Esmaeil
+AU  - Toloo, Mehdi
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1111/exsy.12347
+DO  - 10.1111/exsy.12347
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12347
+VL  - 37
+IS  - 4
+KW  - CRITIC method
+KW  - cross-efficiency
+KW  - data envelopment analysis
+KW  - selective measure
+KW  - sustainability
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119549208
+M3  - doi: 10.1111/exsy.12347
+UR  - https://doi.org/10.1111/exsy.12347
+Y2  - 2020/10/28
+N2  - Abstract The concept of sustainability consists of three main dimensions: environmental, techno-economic, and social. Measuring the sustainability status of a system or technology is a significant challenge, especially when it needs to consider a large number of attributes in each dimension of sustainability. In this study, we first propose a hybrid approach, involving data envelopment analysis (DEA) and a multi-attribute decision making (MADM) methodologies, for computing an index for each dimension of sustainability, and then we define the overall sustainability index as the mean of the three measured indexes. Towards this end, we define new concepts of efficiency and cross-efficiency of order (p,?q) where p and q are the number of inputs and outputs, respectively. For a given (p,?q), we address the problem of finding efficiency of order (p,?q) by developing a novel DEA-based selecting method. Finally, we define the sustainability index as a weighted sum of all possible cross-efficiencies of order (p,?q). Form a computational viewpoint, the proposed selecting model significantly decreases the computational burden in comparison with the successive solving of traditional DEA models. A case study of the electricity-generation technologies in the United Kingdom is taken as a real-world example to illustrate the potential application of our method.
+ER  - 
+
+TY  - JOUR
+T1  - Data agility through clustered edge computing and stream processing
+AU  - Dautov, Rustem
+AU  - Distefano, Salvatore
+AU  - Bruneo, Dario
+AU  - Longo, Francesco
+AU  - Merlino, Giovanni
+AU  - Puliafito, Antonio
+Y1  - 2018/12/03
+PY  - 2018
+DA  - 2018/12/03
+N1  - doi: 10.1002/cpe.5093
+DO  - 10.1002/cpe.5093
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5093
+VL  - n/a
+IS  - n/a
+KW  - cloud computing
+KW  - clustered edge computing
+KW  - data agility
+KW  - edge computing
+KW  - internet of things
+KW  - stream processing
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119549208
+M3  - doi: 10.1002/cpe.5093
+UR  - https://doi.org/10.1002/cpe.5093
+Y2  - 2020/10/28
+N2  - Summary The Internet of Things is underpinned by the global penetration of network-connected smart devices continuously generating extreme amounts of raw data to be processed in a timely manner. Supported by Cloud and Fog/Edge infrastructures ? on the one hand, and Big Data processing techniques ? on the other, existing approaches, however, primarily adopt a vertical offloading model that is heavily dependent on the underlying network bandwidth. That is, (constrained) network communication remains the main limitation to achieve truly agile IoT data management and processing. This paper aims to bridge this gap by defining Clustered Edge Computing ? a new approach to enable rapid data processing at the very edge of the IoT network by clustering edge devices into fully functional decentralized ensembles, capable of workload distribution and balancing to accomplish relatively complex computational tasks. This paper also proposes ECStream Processing that implements Clustered Edge Computing using Stream Processing techniques to enable dynamic in-memory computation close to the data source. By spreading the workload among a cluster of collocated edge devices to process data in parallel, the proposed approach aims to improve performance, thereby supporting agile data management. The experimental results confirm that such a distributed in-memory approach to data processing at the very edge of an IoT network can outperform currently adopted Cloud-enabled architectures, and has the potential to address a wide range of IoT-related data-intensive time-critical scenarios.
+ER  - 
+
+PY  - 2018
+Y1  - 2018/12/03
+DA  - 2018/12/03
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119519638.ch1
+UR  - https://doi.org/10.1002/9781119519638.ch1
+N1  - doi:10.1002/9781119519638.ch1
+M3  - doi:10.1002/9781119519638.ch1
+N2  - Summary Strategic Analytics works on the basis of providing a reasonable understanding of how a variety of quantitative methods, in conjunction with structured and unstructured data, can be used to help strategic decision making in any organization. While analytics provide the context for the use of data for decision making, management science, together with statistics, is one of the engines behind analytics. Information technology provides data and supports decision support systems, which are sustained by management science tools together with statistical analysis, for the development of analytics. Designing and implementing strategy, the realm of strategic management, requires frameworks and tools to address the uncertainty, complexity and risk underpinning it. Essentially, a strategy framework is a conceptual representation, or a model, that managers can use to design strategies with a clear description of the logic and sources used. The chapter also presents an overview of the key concepts discussed in this book.
+SP  - 1-34
+KW  - information technology
+KW  - management science
+KW  - strategic analytics
+KW  - strategic decision making
+KW  - strategic management
+T1  - Introduction to Strategic Analytics
+T2  - Strategic Analytics
+T3  - Wiley Online Books
+SN  - 9781119519638
+
+TY  - JOUR
+T1  - Decision-making under uncertainty through extending influence diagrams with interval-valued parameters
+AU  - Zhou, Lihua
+AU  - Lü, Kevin
+AU  - Liu, Weiyi
+AU  - Ren, Changchun
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - doi: 10.1111/exsy.12277
+DO  - 10.1111/exsy.12277
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12277
+VL  - 35
+IS  - 4
+KW  - Bayesian networks
+KW  - decision-making
+KW  - influence diagrams
+KW  - interval-valued parameters
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119519638
+M3  - doi: 10.1111/exsy.12277
+UR  - https://doi.org/10.1111/exsy.12277
+Y2  - 2020/10/28
+N2  - Abstract Influence diagrams (IDs) are one of the most commonly used graphical and mathematical decision models for reasoning under uncertainty. In conventional IDs, both probabilities representing beliefs and utilities representing preferences of decision makers are precise point-valued parameters. However, it is usually difficult or even impossible to directly provide such parameters. In this paper, we extend conventional IDs to allow IDs with interval-valued parameters (IIDs) and develop a counterpart method of Copper's evaluation method to evaluate IIDs. IIDs avoid the difficulties attached to the specification of precise parameters and provide the capability to model decision-making processes in a situation that the precise parameters cannot be specified. The counterpart method to Copper's evaluation method reduces the evaluation of IIDs into inference problems of Bayesian networks with interval-valued probabilities. An algorithm based on the approximate inference of Bayesian networks with interval-valued probabilities is proposed, and extensive experiments are conducted. The experimental results indicate that the proposed algorithm can find the optimal strategies effectively in IIDs, and the interval-valued expected utilities obtained by proposed algorithm are contained in those obtained by exact evaluating algorithms. The newly development approach would significantly extend the range of IDs for managerial decision support applications where parameters of variables can be specifically defined by only estimated intervals.
+ER  - 
+
+TY  - JOUR
+T1  - Parallel Semi-supervised enhanced fuzzy Co-Clustering (PSEFC) and Rapid Association Rule Mining (RARM) based frequent route mining algorithm for travel sequence recommendation on big social media
+AU  - Suresh Kumar, N.
+AU  - Thangamani, M.
+Y1  - 2019/07/25
+PY  - 2019
+DA  - 2019/07/25
+N1  - doi: 10.1002/cpe.4837
+DO  - 10.1002/cpe.4837
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4837
+VL  - 31
+IS  - 14
+KW  - Multi-Ontology based Points of Interest (MO-POIs)
+KW  - Parallel Semi-supervised enhanced fuzzy Co-Clustering (PSEFC)
+KW  - Rapid Association Rule Mining (RARM)
+KW  - semantic information
+KW  - travel recommendation
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119519638
+M3  - doi: 10.1002/cpe.4837
+UR  - https://doi.org/10.1002/cpe.4837
+Y2  - 2020/10/28
+N2  - Summary In this proposed method, with the aim of resolving the frequent route mining issue, by means of utilizing the Rapid Association Rule Mining (RARM) for frequent route mining, recurrently utilized routes as well as smaller distance routes are mined. As a result, support speedy decision of the route identify more willingly than the standard route optimization. Primarily, Multi-Ontology based Points of Interest (MO-POIs) model is presented that takes the POIs of user design in combination with the semantic info of the individual users. Furthermore, it as well takes another two steps that are along these lines: (1) routes ranking as per the similarity amid user package as well as routes packages are carried out by means of utilizing Parallel Semi-supervised enhanced fuzzy Co-Clustering (PSEFC) as well as (2) route optimizing by Parallel Ant Colony Optimization (PACO) technique in keeping with identical social users' records. The graph model is denoted as the amount of ants in the population of the identical user records. Assess the RARM-PSEFC recommendation system on a set of Flickr images uploaded by users as well as travel POIs in numerous cities and show its efficiency.
+ER  - 
+
+PY  - 2019
+Y1  - 2019/07/25
+DA  - 2019/07/25
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119519638.index
+UR  - https://doi.org/10.1002/9781119519638.index
+N1  - doi:10.1002/9781119519638.index
+M3  - doi:10.1002/9781119519638.index
+SP  - 371-375
+T1  - Index
+T2  - Strategic Analytics
+T3  - Wiley Online Books
+SN  - 9781119519638
+
+AU  - Schneider, Gisbert
+PY  - 2019
+Y1  - 2019/07/25
+DA  - 2019/07/25
+Y2  - 2020/10/28
+DO  - doi:10.1002/9783527806539.ch6m
+UR  - https://doi.org/10.1002/9783527806539.ch6m
+N1  - doi:10.1002/9783527806539.ch6m
+M3  - doi:10.1002/9783527806539.ch6m
+N2  - Summary Innovative bioactive agents fuel sustained drug discovery and the development of new medicines. Chemical synthesis of the computer-generated designs, and subsequent biochemical and biological activity determination close one round of the molecular design cycle. While this is commonly achieved by conventional organic synthesis, it is no longer science fiction to sketch fully integrated drug design automation in bench top format. The fast iteration of molecular design, synthesis, and testing enables rapid learning. In addition to the computational design concept potentially providing a partial answer to the age-old question of how to convert complex into simpler chemistry, applications of automated de novo structure generation offers protection for natural product resources and follows the principles of green chemistry. The fundamentally interdisciplinary nature of computer-assisted drug design calls for researchers who are both willing and capable of standing their ground between multiple scientific disciplines.
+SP  - 405-416
+KW  - chemical synthesis
+KW  - computational drug design
+KW  - hypothesis testing
+KW  - interdisciplinary nature
+KW  - precision medicine
+T1  - Future Perspectives of Computational Drug Design
+T2  - Applied Chemoinformatics
+T3  - Wiley Online Books
+SN  - 9783527806539
+
+TY  - JOUR
+T1  - Application of uninorms to market basket analysis
+AU  - Moodley, Raymond
+AU  - Chiclana, Francisco
+AU  - Caraffini, Fabio
+AU  - Carter, Jenny
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - doi: 10.1002/int.22039
+DO  - 10.1002/int.22039
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 39
+EP  - 49
+VL  - 34
+IS  - 1
+KW  - aggregate measures
+KW  - confidence
+KW  - frequent itemset mining
+KW  - marketbasket analysis
+KW  - support
+KW  - uninorms
+PB  - John Wiley & Sons, Ltd
+SN  - 9783527806539
+M3  - doi: 10.1002/int.22039
+UR  - https://doi.org/10.1002/int.22039
+Y2  - 2020/10/28
+N2  - Abstract The ability for grocery retailers to have a single view of customers across all their grocery purchases remains elusive and has become increasingly important in recent years (especially in the United Kingdom) where competition has intensified, shopping habits and demographics have changed and price sensitivity has increased following the 2008 recession. Numerous studies have been conducted on understanding independent items that are frequently bought together (association rule mining/frequent itemsets) with several measures proposed to aggregate item support and rule confidence with varying levels of accuracy as these measures are highly context dependent. Uninorms were used as an alternative measure to aggregate support and confidence in analysing market basket data using the UK grocery retail sector as a case study. Experiments were conducted on consumer panel data with the aim of comparing the uninorm against three other popular measures (Jaccard, Cosine and Conviction). It was found that the uninorm outperformed other models on its adherence to the fundamental monotonicity property of support in market basket analysis (MBA). Future work will include the extension of this analysis to provide a generalised model for market basket analysis.
+ER  - 
+
+PY  - 2019
+Y1  - 2019/01/01
+DA  - 2019/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119284772.index
+UR  - https://doi.org/10.1002/9781119284772.index
+N1  - doi:10.1002/9781119284772.index
+M3  - doi:10.1002/9781119284772.index
+N2  - AbstractNo Abstract.
+SP  - 363-373
+T1  - Index
+T2  - Actor and Strategy Models
+T3  - Wiley Online Books
+SN  - 9781119284772
+
+TY  - JOUR
+T1  - Spatial-temporal variations of water poverty in rural China considered through the KDE and ESDA models
+AU  - Liu, Wenxin
+AU  - Zhao, Minjuan
+AU  - Hu, Wei
+AU  - Cai, Yu
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - doi: 10.1111/1477-8947.12162
+DO  - 10.1111/1477-8947.12162
+T2  - Natural Resources Forum
+JF  - Natural Resources Forum
+JO  - Natural Resources Forum
+JA  - Nat Resour Forum
+SP  - 254
+EP  - 268
+VL  - 42
+IS  - 4
+KW  - Rural water poverty
+KW  - KDE-ESDA model
+KW  - spatial-temporal variations
+KW  - water resources management
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119284772
+M3  - doi: 10.1111/1477-8947.12162
+UR  - https://doi.org/10.1111/1477-8947.12162
+Y2  - 2020/10/28
+N2  - Water shortage is a common problem around the world, especially in rural areas of developing countries. Water shortage is closely linked to natural and social conditions, and the linkages between these natural and social conditions and their underlying spatial and temporal variations are less well explored in rural areas. The water poverty index (WPI) is a holistic tool for resource planning and management and is an effective tool in solving water shortage problems in developing countries through water resources managements. This study defines five components and 19 indicators using the WPI and assigns integrated weights to measure water poverty in rural China from 1997 to 2016. The results show that the level of water poverty has been gradually declining over time, and the improvements in the coastal and inland water poverty situation are not harmonious. This study also analyzes spatial and temporal variations of water poverty in rural China by the kernel estimation (KDE) and the exploratory spatial data analysis (ESDA) models. Hence, specific areas require special policy interventions. The research findings are intended to provide a new insight for the evaluation of water poverty in the context of sustainable development and to provide a strategy for regional water resource management to relieve rural water poverty in developing countries.
+ER  - 
+
+PY  - 2018
+Y1  - 2018/11/01
+DA  - 2018/11/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119341901.index
+UR  - https://doi.org/10.1002/9781119341901.index
+N1  - doi:10.1002/9781119341901.index
+M3  - doi:10.1002/9781119341901.index
+SP  - 589-597
+T1  - Index
+T2  - Building Performance Analysis
+T3  - Wiley Online Books
+SN  - 9781119341901
+
+PY  - 2018
+Y1  - 2018/11/01
+DA  - 2018/11/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119341901.ch8
+UR  - https://doi.org/10.1002/9781119341901.ch8
+N1  - doi:10.1002/9781119341901.ch8
+M3  - doi:10.1002/9781119341901.ch8
+N2  - Summary This chapter explores the application of the theory of building performance to the actual design and construction of buildings. It explores the general processes of performance-based design and integrated (integral) design, often discussed in the literature, as well as the early (conceptual) stages. It emphasizes that there are some subprocesses within design that have inherent process logic that may be supported, while the overall design process remains highly unique and flexible. The chapter then zooms in on specific design decisions that may be supported and theory about decision making that may be employed. It positions optimization, visualization and communication as important aspects of the design decision-making process.
+SP  - 323-385
+KW  - performance-based design
+KW  - integrated (integral) design
+KW  - decision making
+KW  - optimization
+KW  - visualization
+KW  - communication
+T1  - Design and Construction for Performance
+T2  - Building Performance Analysis
+T3  - Wiley Online Books
+SN  - 9781119341901
+
+TY  - JOUR
+T1  - Similarity measures of Pythagorean fuzzy sets based on the cosine function and their applications
+AU  - Wei, Guiwu
+AU  - Wei, Yu
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - doi: 10.1002/int.21965
+DO  - 10.1002/int.21965
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 634
+EP  - 652
+VL  - 33
+IS  - 3
+KW  - cosine function
+KW  - cosine similarity measure
+KW  - medical diagnosis
+KW  - pattern recognition
+KW  - Pythagorean fuzzy sets
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/int.21965
+UR  - https://doi.org/10.1002/int.21965
+Y2  - 2020/10/28
+N2  - Abstract In this paper, we presented 10 similarity measures between Pythagorean fuzzy sets (PFSs) based on the cosine function by considering the degree of membership, degree of nonmembership and degree of hesitation in PFSs. Then, we applied these similarity measures and weighted similarity measures between PFSs to pattern recognition and medical diagnosis. Finally, two illustrative examples are given to demonstrate the efficiency of the similarity measures for pattern recognition and medical diagnosis.
+ER  - 
+
+TY  - JOUR
+T1  - Photovoltaics literature survey (No. 144)
+AU  - Hameiri, Ziv
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - doi: 10.1002/pip.3064
+DO  - 10.1002/pip.3064
+T2  - Progress in Photovoltaics: Research and Applications
+JF  - Progress in Photovoltaics: Research and Applications
+JO  - Progress in Photovoltaics: Research and Applications
+JA  - Prog Photovolt Res Appl
+SP  - 688
+EP  - 693
+VL  - 26
+IS  - 8
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/pip.3064
+UR  - https://doi.org/10.1002/pip.3064
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Footprint of knowledge acquisition improvement in failure diagnosis analysis
+AU  - Yazdi, Mohammad
+Y1  - 2019/02/01
+PY  - 2019
+DA  - 2019/02/01
+N1  - doi: 10.1002/qre.2408
+DO  - 10.1002/qre.2408
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual Reliab Engng Int
+SP  - 405
+EP  - 422
+VL  - 35
+IS  - 1
+KW  - 2-tuple fuzzy set
+KW  - automotive industry
+KW  - fault tree analysis
+KW  - subjectivity
+KW  - tactic knowledge
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/qre.2408
+UR  - https://doi.org/10.1002/qre.2408
+Y2  - 2020/10/28
+N2  - Abstract Fault tree analysis (FTA) as an effective and efficient risk assessment tool are widely used to analyze the reliability of a complex system. In this context, FTA can properly improve the safety performance of the system by preventing an event which may lead to occurrence of a catastrophic accident. However, traditional FTA is still suffering from dynamic structure demonstration and importantly epistemic uncertainty processing. In this study, a novel methodology is introduced using Bayesian updating mechanism to deal with dynamic structure and 2-tuple fuzzy set named as intuitionistic fuzzy numbers are employed to cope with subjectivity of uncertainty processing. Accordingly, the most critical system components which affect the system reliability are recognized by using an appropriate sensitivity analysis method. The proposed methodology is then applied on a real case study application (a brake fluid filling system) in order to examine the effectiveness and feasibility of the approach. The results illustrated that the new methodology can have enough benefits for diagnosing the systems' faults compared with listing approaches of safety and reliability analysis. In terms of empirical case study, ?electromotor failure? was evaluated as the second most critical basic event in conventional-based approaches, whereas in the novel methodology ?high pressure liquefied material? was recognized as the second one.
+ER  - 
+
+PY  - 2019
+Y1  - 2019/02/01
+DA  - 2019/02/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119341901.ch11
+UR  - https://doi.org/10.1002/9781119341901.ch11
+N1  - doi:10.1002/9781119341901.ch11
+M3  - doi:10.1002/9781119341901.ch11
+N2  - Summary The final chapter of the book brings together the emergent theory of building performance analysis. It does so by short and sharp positioning of observations, explanations, hypotheses, definitions and postulates. This format has been selected to encourage discussion amongst the wider research community and stakeholder base. The chapter covers the concept of building performance itself, the measurement and quantification of building performance, the way in which building performance can be used to guide the improvement of buildings and what the building domain may learn from other disciplines.
+SP  - 447-466
+KW  - emergent theory
+KW  - observations
+KW  - explanations
+KW  - hypotheses
+KW  - definitions
+KW  - postulates
+T1  - Emergent Theory of Building Performance Analysis
+T2  - Building Performance Analysis
+T3  - Wiley Online Books
+SN  - 9781119341901
+
+TY  - JOUR
+T1  - Pythagorean fuzzy Bonferroni mean aggregation operator and its accelerative calculating algorithm with the multithreading
+AU  - Liang, Decui
+AU  - Zhang, Yinrunjie
+AU  - Xu, Zeshui
+AU  - Darko, Adjei Peter
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - doi: 10.1002/int.21960
+DO  - 10.1002/int.21960
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 615
+EP  - 633
+VL  - 33
+IS  - 3
+KW  - multicriteria decision making
+KW  - Pythagorean fuzzy sets
+KW  - Bonferroni mean
+KW  - multithreading
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/int.21960
+UR  - https://doi.org/10.1002/int.21960
+Y2  - 2020/10/28
+N2  - Abstract In this paper, we study the well-known Bonferroni mean and develop its generalized aggregation operators in the Pythagorean fuzzy environment. More specifically, by considering the interrelationship between arguments with Pythagorean fuzzy information, we develop the Pythagorean fuzzy Bonferroni mean (PFBM) and some special properties and cases of them are also discussed. Furthermore, taking the multicriteria decision making environment into consideration, we extend the results of PFBM and develop the weighted Pythagorean fuzzy Bonferroni mean (WPFBM). Meanwhile, we also propose an approach for the application of WPFBM. However, during the application of the WPFBM operator, the calculation is very complex and time consuming. Hence, we introduce the multithreading into the application of the WPFBM operator and develop an accelerative calculating algorithm for it. To validate the performance of the accelerative calculating algorithm, we further design the corresponding experimental analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Using the Value of Information to improve conservation decision making
+AU  - Bolam, Friederike C.
+AU  - Grainger, Matthew J.
+AU  - Mengersen, Kerrie L.
+AU  - Stewart, Gavin B.
+AU  - Sutherland, William J.
+AU  - Runge, Michael C.
+AU  - McGowan, Philip J. K.
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - doi: 10.1111/brv.12471
+DO  - 10.1111/brv.12471
+T2  - Biological Reviews
+JF  - Biological Reviews
+JO  - Biological Reviews
+JA  - Biol Rev
+SP  - 629
+EP  - 647
+VL  - 94
+IS  - 2
+KW  - adaptive management
+KW  - decision analysis
+KW  - decision theory
+KW  - uncertainty
+KW  - biodiversity
+KW  - ecology
+KW  - reporting standards
+KW  - funding
+KW  - research prioritisation
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1111/brv.12471
+UR  - https://doi.org/10.1111/brv.12471
+Y2  - 2020/10/28
+N2  - ABSTRACT Conservation decisions are challenging, not only because they often involve difficult conflicts among outcomes that people value, but because our understanding of the natural world and our effects on it is fraught with uncertainty. Value of Information (VoI) methods provide an approach for understanding and managing uncertainty from the standpoint of the decision maker. These methods are commonly used in other fields (e.g. economics, public health) and are increasingly used in biodiversity conservation. This decision-analytical approach can identify the best management alternative to select where the effectiveness of interventions is uncertain, and can help to decide when to act and when to delay action until after further research. We review the use of VoI in the environmental domain, reflect on the need for greater uptake of VoI, particularly for strategic conservation planning, and suggest promising areas for new research. We also suggest common reporting standards as a means of increasing the leverage of this powerful tool. The environmental science, ecology and biodiversity categories of the Web of Knowledge were searched using the terms ?Value of Information,? ?Expected Value of Perfect Information,? and the abbreviation ?EVPI.? Google Scholar was searched with the same terms, and additionally the terms decision and biology, biodiversity conservation, fish, or ecology. We identified 1225 papers from these searches. Included studies were limited to those that showed an application of VoI in biodiversity conservation rather than simply describing the method. All examples of use of VOI were summarised regarding the application of VoI, the management objectives, the uncertainties, the models used, how the objectives were measured, and the type of VoI. While the use of VoI appears to be on the increase in biodiversity conservation, the reporting of results is highly variable, which can make it difficult to understand the decision context and which uncertainties were considered. Moreover, it was unclear if, and how, the papers informed management and policy interventions, which is why we suggest a range of reporting standards that would aid the use of VoI. The use of VoI in conservation settings is at an early stage. There are opportunities for broader applications, not only for species-focussed management problems, but also for setting local or global research priorities for biodiversity conservation, making funding decisions, or designing or improving protected area networks and management. The long-term benefits of applying VoI methods to biodiversity conservation include a more structured and decision-focused allocation of resources to research.
+ER  - 
+
+PY  - 2019
+Y1  - 2019/04/01
+DA  - 2019/04/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119341901.ch5
+UR  - https://doi.org/10.1002/9781119341901.ch5
+N1  - doi:10.1002/9781119341901.ch5
+M3  - doi:10.1002/9781119341901.ch5
+N2  - Summary Working with building performance requires criteria, which allow to judge performance against the criteria of the stakeholders. This chapter reviews key terms such as ?goal? and ?target?. It explores the concept of benchmarks and how this allows to compare performance to a historical track record, the performance of a group of peers or the status in industry in general. It introduces baselines as an essential approach to quantify efficiency of using resources, since savings can never be measured directly. The chapter proceeds with a discussion of constraints, thresholds and limits and how these can be used to specify what performance range is a target for stakeholders, which areas of performance may still be acceptable and what performance would be considered failure. It concludes with different measurement scales and the potential use of performance bands.
+SP  - 171-203
+KW  - goal
+KW  - target
+KW  - benchmark
+KW  - baseline
+KW  - constraint
+KW  - threshold
+KW  - limit
+KW  - performance banding
+T1  - Performance Criteria
+T2  - Building Performance Analysis
+T3  - Wiley Online Books
+SN  - 9781119341901
+
+PY  - 2019
+Y1  - 2019/04/01
+DA  - 2019/04/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118951651.fmatter
+UR  - https://doi.org/10.1002/9781118951651.fmatter
+N1  - doi:10.1002/9781118951651.fmatter
+M3  - doi:10.1002/9781118951651.fmatter
+N2  - The prelims comprise: Half-Title Page Series Page Title Page Copyright Page Table of Contents Preface List of Abbreviations About the Companion Website
+SP  - i-xxv
+T1  - Front Matter
+T2  - Network Meta‐Analysis for Decision Making
+T3  - Wiley Online Books
+SN  - 9781118951651
+
+TY  - JOUR
+T1  - An effective application of 3D cloud printing service quality evaluation in BM-MOPSO
+AU  - Wang, Xinggang
+AU  - Sheng, Buyun
+AU  - Zhang, Chenglei
+AU  - Xiao, Zheng
+AU  - Wang, Hui
+AU  - Zhao, Feiyu
+Y1  - 2018/12/25
+PY  - 2018
+DA  - 2018/12/25
+N1  - doi: 10.1002/cpe.4977
+DO  - 10.1002/cpe.4977
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4977
+VL  - 30
+IS  - 24
+KW  - 3D printing product service
+KW  - BM-MOPSO
+KW  - multiple decision-making
+KW  - standardization management
+KW  - suitable solution
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118951651
+M3  - doi: 10.1002/cpe.4977
+UR  - https://doi.org/10.1002/cpe.4977
+Y2  - 2020/10/28
+N2  - Summary Addressing service control factors, rapid manufacturing environment change, difficulty of resource allocation evaluation, resource optimization of 3D cloud printing service in a cloud manufacturing environment, and other characteristics, this paper proposes an evaluation indicator system of innovative new product development 3D printing order task execution. The evaluation indicator has eight dimensional components, including Time (T), Quality of Service (Q), Matching (Mat), Reliability (R), Flexibility (Flex), Cost (C), Fault tolerance (Ft), and Satisfaction (Sa). It constructs a type of optimal selection model based on a Multi-Agent 3D Cloud Printing Service Quality Evaluation and a framework of cloud service evaluation of an AHP-TOPSIS evaluation model based on Pareto optimization, and it designs an algorithm involving hybrid multi-objective particle swarm optimization (PSO) based on the Baldwin Effect Model. In addition, this paper verifies the effectiveness of the algorithm through an example and offers a case study designed to test its feasibility and effectiveness.
+ER  - 
+
+PY  - 2018
+Y1  - 2018/12/25
+DA  - 2018/12/25
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119341901.ch1
+UR  - https://doi.org/10.1002/9781119341901.ch1
+N1  - doi:10.1002/9781119341901.ch1
+M3  - doi:10.1002/9781119341901.ch1
+N2  - Summary This chapter introduces the concept of building performance analysis and its importance in the architecture, engineering and construction sector. It emphasizes the complexity of buildings and the context in which buildings are operated, which is probably one reason for the current lack of a unifying theory on building performance. The chapter gives a brief overview of the history of building performance through the ages, including the development of building regulations, standards and rating schemes, as well as a small selection of some recent work on the subject. It concludes by positioning building performance as a concept that can be viewed in three ways: from an engineering, process and aesthetic perspective.
+SP  - 1-42
+KW  - definition
+KW  - systems engineering
+KW  - process management
+KW  - aesthetics
+KW  - brief history of building performance
+T1  - Introduction
+T2  - Building Performance Analysis
+T3  - Wiley Online Books
+SN  - 9781119341901
+
+TY  - JOUR
+T1  - New doctors ranking system based on VIKOR method
+AU  - Hu, Junhua
+AU  - Zhang, Xiaohong
+AU  - Yang, Yan
+AU  - Liu, Yongmei
+AU  - Chen, Xiaohong
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - doi: 10.1111/itor.12569
+DO  - 10.1111/itor.12569
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 1236
+EP  - 1261
+VL  - 27
+IS  - 2
+KW  - reviews of textual information
+KW  - TF-IDF
+KW  - VIKOR method
+KW  - doctors ranking
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1111/itor.12569
+UR  - https://doi.org/10.1111/itor.12569
+Y2  - 2020/10/28
+N2  - Abstract Nowadays, we can use different websites that help us make decisions about various aspects of our lives. However, privacy protection prevents websites from providing personalised guidelines to users. We propose a novel doctor-ranking system (DRS) based on multi-criteria group decision-making (MCGDM) method to address the problems of privacy protection. The following aspects differentiate our proposed DRS model from previous works: (a) textual information reviews are used to identify user preferences and complementary criteria, (b) criteria weights are determined by term frequency inverse document frequency (TF-IDF) instead of Delphi method or expert opinion, (c) intuitionistic fuzzy sets (IFSs) are used to replace sentiment analysis to express subjective user criteria, and (d) VIsekriterijumsko KOmpromisno Rangiranjie (VIKOR) method for MCGDM with IFSs is used to solve the doctor-ranking problem. We apply our proposed model to datasets from Haodf.com to compare the performance of our method with that of sentiment analysis and technique for order performance by similarity to ideal solution (TOPSIS) methods. The experimental results show that our method provides accurate ranking and increases the reliability of DRS.
+ER  - 
+
+AU  - Shi, Xianming
+AU  - Jungwirth, Scott
+PY  - 2020
+Y1  - 2020/03/01
+DA  - 2020/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119185161.ch17
+UR  - https://doi.org/10.1002/9781119185161.ch17
+N1  - doi:10.1002/9781119185161.ch17
+M3  - doi:10.1002/9781119185161.ch17
+N2  - Summary Presently, the most common freezing point depressants (FPDs) used for roadway winter operations are sodium chloride (NaCl), magnesium chloride, (MgCl2), calcium chloride (CaCl2), and potassium acetate (KAc). The search for ?greener? materials for WRM operations is an ongoing effort. This has led to agro-based chemicals and other non-chlorides being introduced, sometimes used alone, but more commonly as additives in chloride-based products. This chapter will first present a holistic approach to the evaluation and selection of materials for WRM operations, followed by a review of recent advances in alternative deicers and additives, and conclude with a case study of developing ?green? liquid deicers.
+SP  - 378-401
+KW  - holistic approach
+KW  - deicer evaluation
+KW  - deicer selection
+KW  - collaborative decision-making
+KW  - alternative deicer
+KW  - corrosion inhibition
+KW  - agro-based
+T1  - The Search for “Greener” Materials for Winter Road Maintenance Operations
+T2  - Sustainable Winter Road Operations
+T3  - Wiley Online Books
+SN  - 9781119185161
+
+AU  -                      Aljohani                  , Khalid
+AU  -                      Thompson                  , Russell G.
+PY  - 2020
+Y1  - 2020/03/01
+DA  - 2020/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119425472.ch2
+UR  - https://doi.org/10.1002/9781119425472.ch2
+N1  - doi:10.1002/9781119425472.ch2
+M3  - doi:10.1002/9781119425472.ch2
+N2  - Summary This chapter highlights the results of an observational study undertaken in Melbourne's CBD for the use of on-street loading zones by freight vehicles. The observational study aimed to develop a better understanding of the usage and efficiency of parking and loading activities by freight vehicles, especially light commercial vehicles in the central city area. The results raise the need to establish suitable sorting and consolidation facilities in the congested central city area to alleviate the negative impacts of last-mile delivery. The chapter proposes an integrated framework for facilitating the sustainable establishment of transshipment facilities in the central city area that enable consolidating last-mile freight and enhancing amenity of the central city area. The integrated framework of the central city transshipment facility (CCTF) is applicable for large cities with congested central city areas due to the inclusion of operational and locational requirements of the urban freight industry, and perspectives of all stakeholders involved in last-mile freight.
+SP  - 23-46
+KW  - central city transshipment facility
+KW  - freight vehicles
+KW  - last-mile freight
+KW  - loading activities
+KW  -                Melbourne
+KW  - urban freight industry
+T1  - Optimizing the Establishment of a Central City Transshipment Facility to Ameliorate Last-Mile Delivery: a Case Study in Melbourne CBD
+T2  - City Logistics 3
+T3  - Wiley Online Books
+SN  - 9781119425472
+
+TY  - JOUR
+T1  - An opportunistic resource management model to overcome resource-constraint in the Internet of Things
+AU  - Safa, Nader Sohrabi
+AU  - Maple, Carsten
+AU  - Haghparast, Mahboobeh
+AU  - Watson, Tim
+AU  - Dianati, Mehrdad
+Y1  - 2019/04/25
+PY  - 2019
+DA  - 2019/04/25
+N1  - doi: 10.1002/cpe.5014
+DO  - 10.1002/cpe.5014
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5014
+VL  - 31
+IS  - 8
+KW  - cloud
+KW  - Fog
+KW  - information security
+KW  - Internet of Things
+KW  - privacy
+KW  - resource
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119425472
+M3  - doi: 10.1002/cpe.5014
+UR  - https://doi.org/10.1002/cpe.5014
+Y2  - 2020/10/28
+N2  - Summary Experts believe that the Internet of Things (IoT) is a new revolution in technology and has brought many advantages for our society. However, there are serious challenges in terms of information security and privacy protection. Smart objects usually do not have malware detection due to resource limitations and their intrusion detection work on a particular network. Low computation power, low bandwidth, low battery, storage, and memory contribute to a resource-constrained effect on information security and privacy protection in the domain of IoT. The capacity of fog and cloud computing such as efficient computing, data access, network and storage, supporting mobility, location awareness, heterogeneity, scalability, and low latency in secure communication positively influence information security and privacy protection in IoT. This study illustrates the positive effect of fog and cloud computing on the security of IoT systems and presents a decision-making model based on the object's characteristics such as computational power, storage, memory, energy consumption, bandwidth, packet delivery, hop-count, etc. This helps an IoT system choose the best nodes for creating the fog that we need in the IoT system. Our experiment shows that the proposed approach has less computational, communicational cost, and more productivity in compare with the situation that we choose the smart objects randomly to create a fog.
+ER  - 
+
+PY  - 2019
+Y1  - 2019/04/25
+DA  - 2019/04/25
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119341901.refs
+UR  - https://doi.org/10.1002/9781119341901.refs
+N1  - doi:10.1002/9781119341901.refs
+M3  - doi:10.1002/9781119341901.refs
+SP  - 503-587
+T1  - References
+T2  - Building Performance Analysis
+T3  - Wiley Online Books
+SN  - 9781119341901
+C1  - Longlist and Secondary Sources
+
+TY  - JOUR
+T1  - JPAM Doctoral Dissertation Listing 2017
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - doi: 10.1002/pam.22068
+DO  - 10.1002/pam.22068
+T2  - Journal of Policy Analysis and Management
+JF  - Journal of Policy Analysis and Management
+JO  - Journal of Policy Analysis and Management
+JA  - J. Pol. Anal. Manage.
+SP  - 658
+EP  - 681
+VL  - 37
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/pam.22068
+UR  - https://doi.org/10.1002/pam.22068
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - “There is always a better way”: Managing uncertainty in decision making about new cancer drugs in Canada
+AU  - Driedger, S. Michelle
+AU  - Cooper, Elizabeth
+AU  - Annable, Gary
+AU  - Brouwers, Melissa
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - doi: 10.1002/hpm.2492
+DO  - 10.1002/hpm.2492
+T2  - The International Journal of Health Planning and Management
+JF  - The International Journal of Health Planning and Management
+JO  - The International Journal of Health Planning and Management
+JA  - Int J Health Plann Mgmt
+SP  - e485
+EP  - e499
+VL  - 33
+IS  - 2
+KW  - health policy
+KW  - Oncology
+KW  - pharmaceuticals
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/hpm.2492
+UR  - https://doi.org/10.1002/hpm.2492
+Y2  - 2020/10/28
+N2  - Summary Policy decisions about the approval and funding of new cancer drugs must often be made in an environment of complex uncertainty about clinical and cost-effectiveness data. The focus of this article is on the results from qualitative interviews with senior officials (n = 16) who make decisions about or influence cancer drug policy in various organizations in the Canadian cancer control system. Most participants identified the use of a limited number of informal approaches to address uncertainty, such as grounding decisions in evidence and advice from expert groups. People tended to focus on evidence informed decisions including price negotiations, the ability to implement policy changes, and stakeholder values. Lessons from the Canadian context related to continuing efforts to build a public culture of understanding into how policy decisions like cancer drug funding are made may result in greater acceptance and increased confidence in health policy decision-making processes across multiple sectors internationally.
+ER  - 
+
+TY  - JOUR
+T1  - ePoster Sessions
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - doi: 10.1111/ene.13699
+DO  - 10.1111/ene.13699
+T2  - European Journal of Neurology
+JF  - European Journal of Neurology
+JO  - European Journal of Neurology
+JA  - Eur J Neurol
+SP  - 90
+EP  - 276
+VL  - 25
+IS  - S2
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1111/ene.13699
+UR  - https://doi.org/10.1111/ene.13699
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Abstract Supplement 2018 ACR/ARHP Annual Meeting
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - doi: 10.1002/art.40700
+DO  - 10.1002/art.40700
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+SP  - 1
+EP  - 3584
+VL  - 70
+IS  - S9
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/art.40700
+UR  - https://doi.org/10.1002/art.40700
+Y2  - 2020/10/28
+N2  - Abstract For a searchable version of these abstracts, please visit www.acrabstracts.org.
+ER  - 
+
+TY  - JOUR
+T1  - ICS 2018 Philadelphia Scientific Programme
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - doi: 10.1002/nau.23760
+DO  - 10.1002/nau.23760
+T2  - Neurourology and Urodynamics
+JF  - Neurourology and Urodynamics
+JO  - Neurourology and Urodynamics
+JA  - Neurourology and Urodynamics
+SP  - 1
+EP  - 430
+VL  - 37
+IS  - S5
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/nau.23760
+UR  - https://doi.org/10.1002/nau.23760
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - HIV Glasgow 2018, 28–31 October 2018, Glasgow, UK
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - doi: 10.1002/jia2.25187
+DO  - 10.1002/jia2.25187
+T2  - Journal of the International AIDS Society
+JF  - Journal of the International AIDS Society
+JO  - Journal of the International AIDS Society
+JA  - J Intern AIDS Soc
+SP  - e25187
+VL  - 21
+IS  - S8
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119341901
+M3  - doi: 10.1002/jia2.25187
+UR  - https://doi.org/10.1002/jia2.25187
+Y2  - 2020/10/28
+ER  - 

@@ -1,0 +1,626 @@
+
+TY  - JOUR
+T1  - Linguistic Discriminative Aggregation in Multicriteria Decision Making
+AU  - Aggarwal, Manish
+Y1  - 2016/06/01
+PY  - 2016
+DA  - 2016/06/01
+N1  - doi: 10.1002/int.21793
+DO  - 10.1002/int.21793
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 529
+EP  - 555
+VL  - 31
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - doi: 10.1002/int.21793
+UR  - https://doi.org/10.1002/int.21793
+Y2  - 2020/10/28
+N2  - Several new aggregation operators are proposed in the context of multicriteria decision making (MCDM) in the linguistic domain. The proposed operators first infer the discrimination index, based on the extent of variability in the various linguistic evaluations against a criterion. This value is then utilized in the actual aggregation step to discriminate among the alternatives. Besides, the proposed operators also take into account the a priori weights associated with the criteria. The proposed concepts are illustrated through an example in group MCDM.
+ER  - 
+
+TY  - JOUR
+T1  - A model-based process to improve robustness in Multicriteria Decision Aiding interventions
+AU  - Norese, Maria Franca
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - doi: 10.1002/mcda.1597
+DO  - 10.1002/mcda.1597
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 183
+EP  - 196
+VL  - 23
+IS  - 5-6
+KW  - decision aiding
+KW  - interaction between analyst and decision system
+KW  - modelling
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.1597
+UR  - https://doi.org/10.1002/mcda.1597
+Y2  - 2020/10/28
+N2  - Abstract A model-based process is a methodological approach that facilitates interventions in new and ill or not structured problem situations. It is oriented towards improving the robustness of the intervention and its results in an incremental definition of both the problem formulation and the model, in order to reduce the uncertainty that is not only associated with the model parameters but also with the model structure, and sometimes also with the problem formulation. The nature and results of this approach, which consider the interaction between an analyst and the actors of the decision system as the decision aiding core, are proposed in relation to some actual interventions.
+ER  - 
+
+TY  - JOUR
+T1  - Total ordering for intuitionistic fuzzy numbers
+AU  - Lakshmana Gomathi Nayagam, V.
+AU  - Jeevaraj, S.
+AU  - Geetha, Sivaraman
+Y1  - 2016/11/01
+PY  - 2016
+DA  - 2016/11/01
+N1  - doi: 10.1002/cplx.21783
+DO  - 10.1002/cplx.21783
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 54
+EP  - 66
+VL  - 21
+IS  - S2
+KW  - intuitionistic fuzzy number
+KW  - upper lower dense sequence
+KW  - total ordering
+KW  - intuitionistic fuzzy interval number
+KW  - trapezoidal intuitionistic fuzzy number
+KW  - membership
+KW  - non-membership
+KW  - vague and imprecise score functions
+KW  - lexicography
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - doi: 10.1002/cplx.21783
+UR  - https://doi.org/10.1002/cplx.21783
+Y2  - 2020/10/28
+N2  - Intuitionistic fuzzy set plays a vital role in decision making, data analysis, and artificial intelligence. Many decision-making problems consist of different types of datum, where fuzzy set theoretical approaches may fail to obtain the optimal decision. Numerous approaches for intuitionistic fuzzy decision-making problem have been introduced in the literature to overcome these short comings. But there is no single approach that can be used to solve all kinds of problems because of the partial ordering defined on the collection of intuitionistic fuzzy numbers (IFNs). Even though ranking of fuzzy numbers have been studied from early seventies in the last century, a total order on the entire class of fuzzy numbers has been introduced by Wang and Wang (Fuzzy Sets Syst 2014, 243, 131?141) only on 2014. A total order on the collection of all IFN is an open problem till today. In this article, a total order on the entire class of IFN using upper lower dense sequence in the interval [0, 1] is proposed and compared with existing techniques using illustrative examples, further an algorithm (which is problem independent) for solving any intuitionistic fuzzy multicriteria decision-making problem (Intuitionistic fuzzy MCDM) is introduced. This new total ordering on IFNs generalizes the total ordering defined in Wang and Wang () for fuzzy numbers. ? 2016 Wiley Periodicals, Inc. Complexity 21: 54?66, 2016
+ER  - 
+
+PY  - 2016
+Y1  - 2016/11/01
+DA  - 2016/11/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9783527681969.ch13
+UR  - https://doi.org/10.1002/9783527681969.ch13
+N1  - doi:10.1002/9783527681969.ch13
+M3  - doi:10.1002/9783527681969.ch13
+N2  - Summary This chapter presents a list of terms regarding statistical measures for scientific productivity, commencing with the alphabet M. It includes the meaning of mean normalized citation score (MNCS), Multicriteria Decision Making (MCDM), and multivariate analysis of bibliometric indices. MNCS is a bibliometric indicator that used in the Leiden University ranking, and aims to normalize citation counts for the research field and the year in which a publication was published. In bibliometrics, MCDM approach is useful to describe researchers, institutions, universities, or countries by using, instead of a unique index, a set of bibliometric indices. Among the partition-based bibliometric indicators, it is a multidimensional extension of the Hirsch-index (h-index). Several bibliometric studies use multivariate techniques in order to take into account at the same time all the indicators describing the studied system, thus allowing a full comparison among samples and highlighting relationships between variables.
+SP  - 259-274
+KW  - bibliometric indicators
+KW  - bibliometric indices
+KW  - mean normalized citation score
+KW  - multicriteria decision making
+KW  - multidimensional h-index
+KW  - multivariate analysis
+T1  - M
+T2  - Handbook of Bibliometric Indicators
+T3  - Wiley Online Books
+SN  - 9783527681969
+
+TY  - JOUR
+T1  - Quantifier Guided Aggregation for the Veracity Assessment of Online Reviews
+AU  - Viviani, Marco
+AU  - Pasi, Gabriella
+Y1  - 2017/05/01
+PY  - 2017
+DA  - 2017/05/01
+N1  - doi: 10.1002/int.21844
+DO  - 10.1002/int.21844
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 481
+EP  - 501
+VL  - 32
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 9783527681969
+M3  - doi: 10.1002/int.21844
+UR  - https://doi.org/10.1002/int.21844
+Y2  - 2020/10/28
+N2  - The Social Web is characterized by a massive diffusion of unfiltered content, directly generated by users via the spread of different social media platforms. In this context, a challenging issue is to assess the veracity of the information generated within the sites of online reviews. To address this issue, a common practice in the literature is to select and analyze some veracity features associated with users and their reviews, by mostly applying machine learning techniques, to provide a classification in genuine and deceptive reviews. In this paper, we do not focus on the feature selection and user behavior analysis issues, but we concentrate on the aggregation process with respect to each single veracity feature. In most of the approaches based on machine learning techniques, the contribution of each feature in the classification process is not measurable by the user. For this reason, we propose a multicriteria decision making approach based both on the assessment of multiple criteria and the use of aggregation operators with the aim of obtaining a veracity score associated with each review. Based on this score, it is possible to detect fake reviews. The proposed model is evaluated on a Yelp data set by applying different aggregation schemes, and it is compared with well-known supervised machine learning techniques.
+ER  - 
+
+AU  - Lee, Eva K.
+PY  - 2017
+Y1  - 2017/05/01
+DA  - 2017/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118919408.ch6
+UR  - https://doi.org/10.1002/9781118919408.ch6
+N1  - doi:10.1002/9781118919408.ch6
+M3  - doi:10.1002/9781118919408.ch6
+N2  - Summary We present novel optimization-based classification models that are of general purpose and suitable for establishing reliable predictive rules for a broad variety of biological and medical applications. Our predictive framework simultaneously incorporates (i) the ability to classify any number of distinct groups; (ii) the ability to incorporate heterogeneous and temporal types of attributes as input; (iii) a high-dimensional data transformation that minimizes noise and errors; (iv) the ability to incorporate constraints to limit the rate of misclassification, and a reserved-judgment region that provides a safeguard against overtraining (which tends to lead to high misclassification rates from the resulting predictive rule); and (v) successive multistage classification capability to handle data points placed in the reserved-judgment region. To illustrate the power and flexibility of the classification model and solution engine and its multigroup prediction capability, applications of the predictive model to a broad class of biological and medical problems are described. Applications include vaccine immunity prediction; early detection of mild cognitive impairment (MCI) and Alzheimer's disease (AD); predicting aberrant CpG island methylation in human; predicting ultrasonic cell disruption for drug delivery; uncovering tumor shape and volume in the treatment of sarcoma; multistage discriminant analysis of biomarkers for detecting early atherosclerosis; and fingerprinting of native and angiogenic microvascular networks for early diagnosis of diabetes, aging, macular degeneracy, and tumor metastasis. Furthermore, we also demonstrate the classification performance on instances from the UCI Repository of machine learning databases. In all these applications, the classification rules yield blind prediction accuracy ranging from 80% to 100%. This provides motivation for pursuing its use as a medical diagnostic, monitoring, and decision-making tool.
+SP  - 159-187
+KW  - classification predictive health
+KW  - discriminant analysis
+KW  - machine learning
+KW  - discrete support vector machine
+KW  - multicategory classification models
+KW  - integer programming
+KW  - optimization
+KW  - reserved judgment
+KW  - multistage classification
+KW  - medical diagnosis
+T1  - Predictive Analytics: Classification in Medicine and Biology
+T2  - Healthcare Analytics
+T3  - Wiley Online Books
+SN  - 9781118919408
+
+PY  - 2017
+Y1  - 2017/05/01
+DA  - 2017/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119214403.ch6
+UR  - https://doi.org/10.1002/9781119214403.ch6
+N1  - doi:10.1002/9781119214403.ch6
+M3  - doi:10.1002/9781119214403.ch6
+N2  - Fuzzy set theory and fuzzy logic provide a different way to view the problem of modeling uncertainty and offer a wide range of computational tools to aid decision making. The mathematical basis for formal fuzzy logic can be found in infinite-valued logics, first studied by the Polish logician Jan Lukasiewicz in the 1920s. While the big economic impact of fuzzy set theory and fuzzy logic centers on control, particularly in consumer electronics, there has been, and continues to be, much research and application of these technologies in pattern recognition, information fusion, data mining, and automated decision making. All fuzzy set theory is based on the concept of a membership function. In many cases, the membership functions take on specific functional forms such as triangular, trapezoidal, S-functions, pi-functions, sigmoids, and even Gaussians for convenience in representation and computation. A neural network also acts as a membership function.
+SP  - 101-126
+KW  - computational intelligence
+KW  - decision making
+KW  - evolutionary computation
+KW  - fuzzy membership function
+KW  - fuzzy set theory
+KW  - neural network
+T1  - Basic Fuzzy Set Theory
+T2  - Fundamentals of Computational Intelligence
+T3  - Wiley Online Books
+SN  - 9781119214403
+
+TY  - JOUR
+T1  - OWA Operator-Based Hybrid Framework for Outlier Reduction in Web Mining
+AU  - Gupta, Ankit
+AU  - Kohli, Shruti
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - doi: 10.1002/int.21810
+DO  - 10.1002/int.21810
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 947
+EP  - 962
+VL  - 31
+IS  - 10
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119214403
+M3  - doi: 10.1002/int.21810
+UR  - https://doi.org/10.1002/int.21810
+Y2  - 2020/10/28
+N2  - Web mining is the process of extracting useful information from Web resources. Handling outliers is one of the primary challenges of present Web mining techniques. The complex nature of the Web, by virtue of both data and users, makes it very difficult to mine the information and convert to knowledge base with little outlier values. In this paper, a framework for reducing outliers in regression analysis with the help of ordered weighted operators (OWA) as a multicriteria decision-making problem is being formulated. First, a regression problem with a real-time Web data set will be formulated followed by solving the same with the help of a variant of OWA operators. Results, thus obtained are able to prove that outliers can be reduced significantly with the help of proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - New Distance Measure of Single-Valued Neutrosophic Sets and Its Application
+AU  - Huang, Han-Liang
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - doi: 10.1002/int.21815
+DO  - 10.1002/int.21815
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1021
+EP  - 1032
+VL  - 31
+IS  - 10
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119214403
+M3  - doi: 10.1002/int.21815
+UR  - https://doi.org/10.1002/int.21815
+Y2  - 2020/10/28
+N2  - A single-valued neutrosophic set (SVNS) is an instance of a neutrosophic set, which can be used to handle uncertainty, imprecise, indeterminate, and inconsistent information in real life. In this paper, a new distance measure between two SVNSs is defined by the full consideration of truth-membership function, indeterminacy-membership function, and falsity-membership function for the forward and backward differences. Then the similarity measure, the entropy measure, and the index of distance are also presented. Finally, two illustrative examples are given to demonstrate the effectiveness of the proposed clustering method and multicriteria decision-making method based on the distance (similarity) measure between SVNSs.
+ER  - 
+
+TY  - JOUR
+T1  - Issue information – TOC
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - doi: 10.1002/cplx.21830
+DO  - 10.1002/cplx.21830
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 1
+EP  - 5
+VL  - 21
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119214403
+M3  - doi: 10.1002/cplx.21830
+UR  - https://doi.org/10.1002/cplx.21830
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and Optimization of the Injection-Molding Process: A Review
+AU  - Fernandes, Célio
+AU  - Pontes, António José
+AU  - Viana, Júlio César
+AU  - Gaspar-Cunha, António
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - doi: 10.1002/adv.21683
+DO  - 10.1002/adv.21683
+T2  - Advances in Polymer Technology
+JF  - Advances in Polymer Technology
+JO  - Advances in Polymer Technology
+JA  - Adv. Polym. Technol.
+SP  - 429
+EP  - 449
+VL  - 37
+IS  - 2
+KW  - Computer modeling
+KW  - Injection molding
+KW  - Mathematical modeling
+KW  - Optimization
+KW  - Review
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119214403
+M3  - doi: 10.1002/adv.21683
+UR  - https://doi.org/10.1002/adv.21683
+Y2  - 2020/10/28
+N2  - ABSTRACT The purpose of this article is to review the research done in the field of mathematical modeling and optimization of the injection-molding (IM) process. Various papers related to the mathematical description of the filling, postfilling, and plasticating phases of the IM process were assessed, and some recent advances on the IM field are described. In addition, research devoted to the optimization of the IM process based on various techniques is also discussed. These optimization techniques include design of experiments, artificial neural networks, and evolutionary algorithms. The strengths and weaknesses of each approach were discussed. Finally, this paper also discusses the optimization research performed in the IM process regarding some of the specific features associated with the processes such as runner system and cooling channel configurations, process conditions, gate location, and cavity pressure balancing.
+ER  - 
+
+TY  - JOUR
+T1  - Strategic Planning in Population Health and Public Health Practice: A Call to Action for Higher Education
+AU  - PHELPS, CHARLES
+AU  - MADHAVAN, GURUPRASAD
+AU  - RAPPUOLI, RINO
+AU  - LEVIN, SCOTT
+AU  - SHORTLIFFE, EDWARD
+AU  - COLWELL, RITA
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - doi: 10.1111/1468-0009.12182
+DO  - 10.1111/1468-0009.12182
+T2  - The Milbank Quarterly
+JF  - The Milbank Quarterly
+JO  - The Milbank Quarterly
+JA  - The Milbank Quarterly
+SP  - 109
+EP  - 125
+VL  - 94
+IS  - 1
+KW  - systems analysis
+KW  - population health
+KW  - public health practice
+KW  - cost-effectiveness
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119214403
+M3  - doi: 10.1111/1468-0009.12182
+UR  - https://doi.org/10.1111/1468-0009.12182
+Y2  - 2020/10/28
+N2  - Policy Points: Scarce resources, especially in population health and public health practice, underlie the importance of strategic planning. Public health agencies? current planning and priority setting efforts are often narrow, at times opaque, and focused on single metrics such as cost-effectiveness. As demonstrated by SMART Vaccines, a decision support software system developed by the Institute of Medicine and the National Academy of Engineering, new approaches to strategic planning allow the formal incorporation of multiple stakeholder views and multicriteria decision making that surpass even those sophisticated cost-effectiveness analyses widely recommended and used for public health planning. Institutions of higher education can and should respond by building on modern strategic planning tools as they teach their students how to improve population health and public health practice. Context Strategic planning in population health and public health practice often uses single indicators of success or, when using multiple indicators, provides no mechanism for coherently combining the assessments. Cost-effectiveness analysis, the most complex strategic planning tool commonly applied in public health, uses only a single metric to evaluate programmatic choices, even though other factors often influence actual decisions. Methods Our work employed a multicriteria systems analysis approach?specifically, multiattribute utility theory?to assist in strategic planning and priority setting in a particular area of health care (vaccines), thereby moving beyond the traditional cost-effectiveness analysis approach. Findings (1) Multicriteria systems analysis provides more flexibility, transparency, and clarity in decision support for public health issues compared with cost-effectiveness analysis. (2) More sophisticated systems-level analyses will become increasingly important to public health as disease burdens increase and the resources to deal with them become scarcer. Conclusions The teaching of strategic planning in public health must be expanded in order to fill a void in the profession's planning capabilities. Public health training should actively incorporate model building, promote the interactive use of software tools, and explore planning approaches that transcend restrictive assumptions of cost-effectiveness analysis. The Strategic Multi-Attribute Ranking Tool for Vaccines (SMART Vaccines), which was recently developed by the Institute of Medicine and the National Academy of Engineering to help prioritize new vaccine development, is a working example of systems analysis as a basis for decision support.
+ER  - 
+
+TY  - JOUR
+T1  - STATISTICAL ARBITRAGE PAIRS TRADING STRATEGIES: REVIEW AND OUTLOOK
+AU  - Krauss, Christopher
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - doi: 10.1111/joes.12153
+DO  - 10.1111/joes.12153
+T2  - Journal of Economic Surveys
+JF  - Journal of Economic Surveys
+JO  - Journal of Economic Surveys
+JA  - Journal of Economic Surveys
+SP  - 513
+EP  - 545
+VL  - 31
+IS  - 2
+KW  - Mean-reversion
+KW  - Pairs Trading
+KW  - Spread Trading
+KW  - Relative-value Arbitrage
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119214403
+M3  - doi: 10.1111/joes.12153
+UR  - https://doi.org/10.1111/joes.12153
+Y2  - 2020/10/28
+N2  - Abstract This survey reviews the growing literature on pairs trading frameworks, i.e., relative-value arbitrage strategies involving two or more securities. Research is categorized into five groups: The distance approach uses nonparametric distance metrics to identify pairs trading opportunities. The cointegration approach relies on formal cointegration testing to unveil stationary spread time series. The time-series approach focuses on finding optimal trading rules for mean-reverting spreads. The stochastic control approach aims at identifying optimal portfolio holdings in the legs of a pairs trade relative to other available securities. The category ?other approaches? contains further relevant pairs trading frameworks with only a limited set of supporting literature. Finally, pairs trading profitability is reviewed in the light of market frictions. Drawing from a large set of research consisting of over 100 references, an in-depth assessment of each approach is performed, ultimately revealing strengths and weaknesses relevant for further research and for implementation.
+ER  - 
+
+PY  - 2017
+Y1  - 2017/04/01
+DA  - 2017/04/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118724194.refs
+UR  - https://doi.org/10.1002/9781118724194.refs
+N1  - doi:10.1002/9781118724194.refs
+M3  - doi:10.1002/9781118724194.refs
+SP  - 443-449
+T1  - References
+T2  - Image Processing and GIS for Remote Sensing
+T3  - Wiley Online Books
+SN  - 9781118724194
+
+TY  - JOUR
+T1  - Evaluation of sources for the sustainability of energy supply in Turkey
+AU  - Kuleli Pak, Burcu
+AU  - Albayrak, Yildiz Esra
+AU  - Erensal, Yasemin Claire
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - doi: 10.1002/ep.12507
+DO  - 10.1002/ep.12507
+T2  - Environmental Progress & Sustainable Energy
+JF  - Environmental Progress & Sustainable Energy
+JO  - Environmental Progress & Sustainable Energy
+JA  - Environ. Prog. Sustainable Energy
+SP  - 627
+EP  - 637
+VL  - 36
+IS  - 2
+KW  - energy indicators
+KW  - sustainable development
+KW  - analytic network process (ANP)
+KW  - benefits–opportunities–costs–risks (BOCR)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118724194
+M3  - doi: 10.1002/ep.12507
+UR  - https://doi.org/10.1002/ep.12507
+Y2  - 2020/10/28
+N2  - Energy is one of the main factors that must be considered in the discussions of sustainable development. Renewable, clean and cost effective energy sources are preferred but unfortunately no one of the alternative energy sources can meet these demands solely. So, the problem of determining the appropriate energy policy is a multiple criteria decision making problem. In this study, firstly sustainability indicators for energy planning are determined. Then dependencies and feedbacks between indicators and the values of the indicators were investigated and it was seen that Analytic Network Process with benefits, opportunities, costs and risks merits is a suitable method for this complex problem. Both the objective values and group decision of experts were used in the model to cover the quantitative and qualitative judgments. The results indicated that the energy system of Turkey is not sustainable and the sustainable energy scenario of Turkey must increase the share of renewables. This article is an important framework for the sustainable development pathway of Turkey. ? 2016 American Institute of Chemical Engineers Environ Prog, 36: 627?637, 2017
+ER  - 
+
+PY  - 2017
+Y1  - 2017/03/01
+DA  - 2017/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9783527681969.fmatter
+UR  - https://doi.org/10.1002/9783527681969.fmatter
+N1  - doi:10.1002/9783527681969.fmatter
+M3  - doi:10.1002/9783527681969.fmatter
+N2  - Summary The prelims comprise: Half-Title Page Related Titles Title Page Copyright Page Dedication Table of Contents Preface Acknowledgments Notations and Symbols The Authors User's Guide Introduction
+SP  - I-XXIV
+T1  - Front Matter
+T2  - Handbook of Bibliometric Indicators
+T3  - Wiley Online Books
+SN  - 9783527681969
+
+PY  - 2017
+Y1  - 2017/03/01
+DA  - 2017/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118724194.ch19
+UR  - https://doi.org/10.1002/9781118724194.ch19
+N1  - doi:10.1002/9781118724194.ch19
+M3  - doi:10.1002/9781118724194.ch19
+N2  - Summary The branch of geographic information system (GIS) activity is sometimes referred to as advanced spatial analysis, multi-criterion evaluation or multi-criterion decision analysis (MCDA) and deals with multiple conflicting criteria that need assessment and evaluation to facilitate decision making. There are a number of different approaches to multi-criteria decision making and analysis, with the aim of estimating suitability or favourability across a region, some of which pre-date GIS. This chapter deals with the complex geospatial problems. It describes several methods of multi-criterion combination, in order of complexity: Boolean combination, index-overlay, algebraic combination, weights of evidence modelling (Bayesian probability), Dempster-Shafer Theory, weight linear factors in combination (WLC) otherwise known as the Analytical Hierarchy Process, fuzzy logic and vectorial fuzzy modelling. The chapter analyses the quantitative spatial relationships between datasets representing significant criteria and known occurrences using Bayesian weights of evidence probability analysis.
+SP  - 257-272
+KW  - Bayesian probability
+KW  - decision making
+KW  - geographic information system
+KW  - multi-criterion evaluation
+KW  - spatial analysis
+T1  - Complex problems and multi-criterion evaluation
+T2  - Image Processing and GIS for Remote Sensing
+T3  - Wiley Online Books
+SN  - 9781118724194
+
+TY  - JOUR
+T1  - Thirty Years of the International Journal of Intelligent Systems: A Bibliometric Review
+AU  - Merigó, José M.
+AU  - Blanco-Mesa, Fabio
+AU  - Gil-Lafuente, Anna M.
+AU  - Yager, Ronald R.
+Y1  - 2017/05/01
+PY  - 2017
+DA  - 2017/05/01
+N1  - doi: 10.1002/int.21859
+DO  - 10.1002/int.21859
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 526
+EP  - 554
+VL  - 32
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118724194
+M3  - doi: 10.1002/int.21859
+UR  - https://doi.org/10.1002/int.21859
+Y2  - 2020/10/28
+N2  - The International Journal of Intelligent Systems was created in 1986. Today, the journal is 30 years old. To celebrate this anniversary, this study develops a bibliometric review of all of the papers published in the journal between 1986 and 2015. The results are largely based on the Web of Science Core Collection, which classifies leading bibliographic material by using several indicators including total number of publications and citations, the h-index, cites per paper, and citing articles. The work also uses the VOS viewer software for visualizing the main results through bibliographic coupling and co-citation. The results show a general overview of leading trends that have influenced the journal in terms of highly cited papers, authors, journals, universities and countries.
+ER  - 
+
+AU  - Aschberger, Karin
+AU  - Christensen, Frans M.
+AU  - Rasmussen, Kirsten
+AU  - Jensen, Keld A.
+PY  - 2017
+Y1  - 2017/05/01
+DA  - 2017/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119275855.ch21
+UR  - https://doi.org/10.1002/9781119275855.ch21
+N1  - doi:10.1002/9781119275855.ch21
+M3  - doi:10.1002/9781119275855.ch21
+N2  - Abstract This chapter presents the current regulatory basis, as well as available guidance and recommendations for human health risk assessment of nanomaterials (NMs). It builds on the traditional risk assessment framework with main focus on the challenges and a view to future developments in hazard, exposure, and risk assessment/characterization. The global dimensions of Nanotechnology require international standardization, coordination, and harmonization that go beyond national regulations, and the main roles are played by the OECD and ISO. The detection of NMs in organs/biological tissues and studying their absorption, distribution deposition, and/or elimination is usually very challenging. International collaboration in research is one important part of Horizon 2020 and it is already one of the key activities of the NanoSafety Cluster. For the workplace, elaborate exposure measurements, including real-time particle monitoring, offline physicochemical analysis, and electron microscopy, are usually required to assess both the emission of NMs and potential exposure.
+SP  - 409-441
+KW  - biological tissues
+KW  - electron microscopy
+KW  - engineered nanomaterials
+KW  - human health risk assessment
+KW  - nanotechnology
+KW  - offline physicochemical analysis
+KW  - organs
+KW  - real-time particle monitoring
+T1  - Feasibility and Challenges of Human Health Risk Assessment for Engineered Nanomaterials
+T2  - Engineered Nanoparticles and the Environment: Biophysicochemical Processes and Toxicity
+T3  - Wiley Online Books
+SN  - 9781119275855
+
+TY  - JOUR
+T1  - A Systems Design Exploration Approach that Illuminates Tradespaces Using Statistical Experimental Designs
+AU  - MacCalman, Alex D.
+AU  - Beery, Paul T.
+AU  - Paulo, Eugene P.
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - doi: 10.1002/sys.21352
+DO  - 10.1002/sys.21352
+T2  - Systems Engineering
+JF  - Systems Engineering
+JO  - Systems Engineering
+JA  - Syst Eng
+SP  - 409
+EP  - 421
+VL  - 19
+IS  - 5
+KW  - simulation metamodeling
+KW  - tradespace exploration
+KW  - design of experiments
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119275855
+M3  - doi: 10.1002/sys.21352
+UR  - https://doi.org/10.1002/sys.21352
+Y2  - 2020/10/28
+N2  - ABSTRACT This paper describes an approach that leverages computer simulation models and statistical experimental designs for exploration studies during the early conceptual design of a system. We apply the approach to a naval ship design problem and demonstrate how we can illuminate trade decisions among multiple design decisions and evaluation measures using a dynamic dashboard. After performing experimental designs on a collection of simulation models, we can fit statistical models that act as surrogates to these simulations. These surrogate models allow us to explore a wider variety of system alternatives rather than fixating on a narrow set of alternatives. The purpose of the approach is to simultaneously explore the operational and physical domains using statistical surrogate models in order to illuminate trade decisions between the system's operational effectiveness and physical design considerations.
+ER  - 
+
+TY  - JOUR
+T1  - Risk Assessment of Infrastructure System of Systems with Precursor Analysis
+AU  - Guo, Zhenyu
+AU  - Haimes, Yacov Y.
+Y1  - 2016/08/01
+PY  - 2016
+DA  - 2016/08/01
+N1  - doi: 10.1111/risa.12559
+DO  - 10.1111/risa.12559
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1630
+EP  - 1643
+VL  - 36
+IS  - 8
+KW  - Infrastructure
+KW  - precursor; risk analysis; systems of systems
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119275855
+M3  - doi: 10.1111/risa.12559
+UR  - https://doi.org/10.1111/risa.12559
+Y2  - 2020/10/28
+N2  - Physical infrastructure systems are commonly composed of interconnected and interdependent subsystems, which in their essence constitute system of systems (S-o-S). System owners and policy researchers need tools to foresee potential emergent forced changes and to understand their impact so that effective risk management strategies can be developed. We develop a systemic framework for precursor analysis to support the design of an effective and efficient precursor monitoring and decision support system with the ability to (i) identify and prioritize indicators of evolving risks of system failure; and (ii) evaluate uncertainties in precursor analysis to support informed and rational decision making. This integrated precursor analysis framework is comprised of three processes: precursor identification, prioritization, and evaluation. We use an example of a highway bridge S-o-S to demonstrate the theories and methodologies of the framework. Bridge maintenance processes involve many interconnected and interdependent functional subsystems and decision-making entities and bridge failure can have broad social and economic consequences. The precursor analysis framework, which constitutes an essential part of risk analysis, examines the impact of various bridge inspection and maintenance scenarios. It enables policy researchers and analysts who are seeking a risk perspective on bridge infrastructure in a policy setting to develop more risk informed policies and create guidelines to efficiently allocate limited risk management resources and mitigate severe consequences resulting from bridge failures.
+ER  - 
+
+PY  - 2016
+Y1  - 2016/08/01
+DA  - 2016/08/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9783527699377.ch4
+UR  - https://doi.org/10.1002/9783527699377.ch4
+N1  - doi:10.1002/9783527699377.ch4
+M3  - doi:10.1002/9783527699377.ch4
+N2  - Summary Effective experimentation and the development of optimized methods are fundamental aims of any experimenter. In principle, two approaches in experimental optimization can be distinguished. First, selection and testing of the most important factors, as well as their subsequent optimization, are based on the subjective experience of the experimenter or analytical expert. The success will, then, be dictated by the knowledge level of the domain expert. If the know-how is low, then the workload might become large. In addition a nonsystematic approach does not really guarantee finding the optimum. Second, the investigation of the factors and their optimization can be carried out in a systematic way. This chapter explores this systematic method. Systematic optimizations are carried out in the following sequence: choice of an objective function, selection of the most important factors, and optimization. The optimization criterion is simply an analytical signal or the analysis time.
+SP  - 93-133
+KW  - analytical signal
+KW  - domain expert
+KW  - nonsystematic approach
+KW  - objective function
+KW  - optimization criterion
+KW  - randomized experimentation
+KW  - systematic optimizations
+T1  - Optimization and Experimental Design
+T2  - Chemometrics
+T3  - Wiley Online Books
+SN  - 9783527699377
+
+PY  - 2016
+Y1  - 2016/08/01
+DA  - 2016/08/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9783527677047.index
+UR  - https://doi.org/10.1002/9783527677047.index
+N1  - doi:10.1002/9783527677047.index
+M3  - doi:10.1002/9783527677047.index
+SP  - 761-786
+T1  - Index
+T2  - Lead Generation
+T3  - Methods and Principles in Medicinal Chemistry
+SN  - 9783527677047
+
+TY  - JOUR
+T1  - A long and winding road: 40 years of R&D Management
+AU  - Rigby, John
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - doi: 10.1111/radm.12214
+DO  - 10.1111/radm.12214
+T2  - R&D Management
+JF  - R&D Management
+JO  - R&D Management
+JA  - R&D Management
+SP  - 1062
+EP  - 1083
+VL  - 46
+IS  - S3
+PB  - John Wiley & Sons, Ltd
+SN  - 9783527677047
+M3  - doi: 10.1111/radm.12214
+UR  - https://doi.org/10.1111/radm.12214
+Y2  - 2020/10/28
+N2  - Established in 1970, R&D Management is today one of the leading journals of the technology and innovation management (TIM) field that spans the business and management subject areas. It publishes innovative research with high academic interest. This paper reviews the journal's history and the major contributions of its first 40 years, examines its present position in the context of TIM literature, and then looks at the factors which might affect the journal in the future. Descriptive and nonparametric bibliometric methods are used to examine the historic performance of the journal and the field, its current position, and the factors shaping future development.
+ER  - 
+
+TY  - JOUR
+T1  - Sustainability
+AU  - Chang, Chein-Chi
+AU  - DiGiovanni, Kimberly
+AU  - Mei, Ying
+AU  - Wei, Li
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - doi: 10.2175/106143016X14696400494975
+DO  - 10.2175/106143016X14696400494975
+T2  - Water Environment Research
+JF  - Water Environment Research
+JO  - Water Environment Research
+JA  - Water Environment Research
+SP  - 1299
+EP  - 1333
+VL  - 88
+IS  - 10
+KW  - SUSTAINABILITY
+KW  - GREEN INFRASTRUCTURE
+KW  - LIFE CYCLE ASSESSMENT
+KW  - ASSET MANAGEMENT
+KW  - SUSTAINABLE
+KW  - WATER AND WASTEWATER UTILITY
+KW  - SUSTAINABLE ENERGY
+PB  - John Wiley & Sons, Ltd
+SN  - 9783527677047
+M3  - doi: 10.2175/106143016X14696400494975
+UR  - https://doi.org/10.2175/106143016X14696400494975
+Y2  - 2020/10/28
+N2  - This review on Sustainability covers selected 2015 publications on the focus of Sustainability. It is divided into the following sections :? ? Sustainable water and wastewater utilities? ? Sustainable water resources management? ? Stormwater and green infrastructure? ? Sustainability in wastewater treatment? ? Life cycle assessment (LCA) applications? ? Sustainability and energy in wastewater industry, ? ? Sustainability and asset management
+ER  - 

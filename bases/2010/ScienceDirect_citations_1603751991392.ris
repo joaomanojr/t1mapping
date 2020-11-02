@@ -1,0 +1,893 @@
+TY  - JOUR
+T1  - Target matching problems and an adaptive constraint strategy for multiobjective design optimization using genetic algorithms
+AU  - Wang, N.F.
+AU  - Tai, K.
+JO  - Computers & Structures
+VL  - 88
+IS  - 19
+SP  - 1064
+EP  - 1076
+PY  - 2010
+DA  - 2010/10/01/
+SN  - 0045-7949
+DO  - https://doi.org/10.1016/j.compstruc.2010.06.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0045794910001318
+KW  - Multiobjective optimization
+KW  - Structural topology optimization
+KW  - Genetic algorithms
+KW  - Morphological geometric representation
+KW  - Hybrid algorithms
+AB  - In multiobjective design optimization problems, the designer may know that some objectives are harder to extremize than others or that some regions of the objective space are more desirable/important. Such useful information can be incorporated into the genetic algorithm optimization procedure by treating the more challenging/important objectives as constraints whose ideal values are adaptively improved/tightened during the procedure to guide the search. Employing this adaptive constraint strategy and a morphological representation of geometric variables, a genetic algorithm was developed and evaluated through special ‘Target Matching’ test problems which are simulated topology/shape optimization problems with multiple objectives and constraints.
+ER  - 
+
+TY  - JOUR
+T1  - Financial crises and bank failures: A review of prediction methods
+AU  - Demyanyk, Yuliya
+AU  - Hasan, Iftekhar
+JO  - Omega
+VL  - 38
+IS  - 5
+SP  - 315
+EP  - 324
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Empirical Research in the EU Banking Sector and the Financial Crisis
+SN  - 0305-0483
+DO  - https://doi.org/10.1016/j.omega.2009.09.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0305048309000784
+KW  - Subprime
+KW  - Mortgage
+KW  - Financial crisis
+KW  - Default
+AB  - In this article we provide a summary of empirical results obtained in several economics and operations research papers that attempt to explain, predict, or suggest remedies for financial crises or banking defaults; we also outline the methodologies used in them. We analyze financial and economic circumstances associated with the US subprime mortgage crisis and the global financial turmoil that has led to severe crises in many countries. The intent of this article is to promote future empirical research for preventing bank failures and financial crises.
+ER  - 
+
+TY  - JOUR
+T1  - A new chromatographic response function for use in size-exclusion chromatography optimization strategies: Application to complex organic mixtures
+AU  - Duarte, Regina M.B.O.
+AU  - Duarte, Armando C.
+JO  - Journal of Chromatography A
+VL  - 1217
+IS  - 48
+SP  - 7556
+EP  - 7563
+PY  - 2010
+DA  - 2010/11/26/
+SN  - 0021-9673
+DO  - https://doi.org/10.1016/j.chroma.2010.10.021
+UR  - http://www.sciencedirect.com/science/article/pii/S0021967310013695
+KW  - Chromatographic response function
+KW  - Size-exclusion chromatography
+KW  - Optimization
+KW  - Experimental design
+KW  - Complex organic mixtures
+AB  - A new chromatographic response function (CRF) is presented aiming at designing an optimal chromatographic separation protocol for assessing the molecular size distribution of complex organic mixtures, such as those of natural organic matter from different sources (atmospheric, aqueous, and terrestrial). This CRF can be applied to mixtures of unknown solutes, being well suited for describing separation processes of pair of peaks of highly unequal area, and also for overlapping and asymmetric peaks. The performance of the developed CRF was compared to that of an existing response function, using simulated chromatograms. The capability of the new function to qualify the resolution degree that it is attained under different chromatographic conditions was further assessed through a size-exclusion chromatography study of a variety of different organic compounds, via a two-level full factorial design. It was proved that this function is a reliable alternative to optimize simultaneously the composition of the mobile phase (pH, ionic strength, and organic modifier concentration) and the instrumental variables (flow rate).
+ER  - 
+
+TY  - JOUR
+T1  - Identification of priority areas for controlling soil erosion
+AU  - Zhang, Xiwang
+AU  - Wu, Bingfang
+AU  - Ling, Feng
+AU  - Zeng, Yuan
+AU  - Yan, Nana
+AU  - Yuan, Chao
+JO  - CATENA
+VL  - 83
+IS  - 1
+SP  - 76
+EP  - 86
+PY  - 2010
+DA  - 2010/10/15/
+SN  - 0341-8162
+DO  - https://doi.org/10.1016/j.catena.2010.06.012
+UR  - http://www.sciencedirect.com/science/article/pii/S0341816210001074
+KW  - Soil erosion
+KW  - Conservation priorities
+KW  - Erosion changing trends
+KW  - GIS
+KW  - Remote sensing
+KW  - Guanting reservoir
+AB  - Conservation prioritization is an important consideration for planning of natural resources management, allowing decison makers to implement management strategies that are more sustainable in the long-term. However, only a current erosion status or a relative index cannot exactly identify priority area for conservation. The objective of this paper is to identify conservation priorities by a specific multicriteria evaluation method. Trends in erosion risk indicate regions of increasing erosion risk and are also chosen as one of the evaluation criteria to identify the priorities based on the instability of soil erosion in the Yongding river basin. In this paper, vegetation cover, land-use, and slope gradient are used to assess erosion risk and trends in erosion risk are obtained by comparing the results of erosion risk between 2000 and 2006. Using this information, the priority conservation areas are graded into six levels. The two highest priority levels cover the regions with severe erosion or a substantial recent increase in erosion risk (4722.56km2, or 11.82% of the study area), and are recommended as erosion control regions with appropriate conservation strategies. The middle two levels cover the regions with stable erosion status or slight change, needing only minor measures. The method presented is fast and straightforward, showing good potential for successful application in other areas.
+ER  - 
+
+TY  - JOUR
+T1  - Use of Probabilistic Relational Model (PRM) for Dependability Analysis of Complex Systems
+AU  - Oliva, G. Medina
+AU  - Weber, P.
+AU  - Levrat, E.
+AU  - Iung, B.
+JO  - IFAC Proceedings Volumes
+VL  - 43
+IS  - 8
+SP  - 501
+EP  - 506
+PY  - 2010
+DA  - 2010/01/01/
+T2  - 12th IFAC Symposium on Large Scale Systems: Theory and Applications
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20100712-3-FR-2020.00082
+UR  - http://www.sciencedirect.com/science/article/pii/S1474667015334418
+KW  - 
+KW  - 
+KW  - 
+KW  - 
+KW  - 
+KW  - 
+AB  - This paper proposes a methodology to develop a aided decision-making tool for assessing the dependability and performances (i.e. reliability) of an industrial system. This tool is built on a model based on a new formalism, called the probabilistic relational model (PRM) which is adapted to deal with large and complex systems. The model is formalized from functional, dysfunctional and informational studies of the technical industrial systems. An application of this methodology is done on a water heater system to illustrate its feasibility and added value.
+ER  - 
+
+TY  - JOUR
+T1  - The prediction of bank acquisition targets with discriminant and logit analyses: Methodological issues and empirical evidence
+AU  - Pasiouras, Fotios
+AU  - Tanna, Sailesh
+JO  - Research in International Business and Finance
+VL  - 24
+IS  - 1
+SP  - 39
+EP  - 61
+PY  - 2010
+DA  - 2010/01/01/
+SN  - 0275-5319
+DO  - https://doi.org/10.1016/j.ribaf.2009.01.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0275531909000051
+KW  - Acquisitions
+KW  - Banks
+KW  - Discriminant
+KW  - Logit
+KW  - Prediction
+KW  - Targets
+AB  - This paper uses discriminant and logit analyses to develop prediction models to identify bank acquisition targets. We consider several methodological issues, such as whether the choice of the estimation technique, the selection of variables, the use of raw versus industry relative data, the train-and-test sampling scheme, and the criteria for model evaluation affect the predictive accuracy of the developed models. Both estimation methods generate remarkably similar model performance rankings, while differences are revealed in the relative importance of variables when using raw versus industry relative data. We find that in most cases there is a fair amount of misclassification, consistent with previous studies in non-financial sectors, which is hard to avoid given the nature of the problem.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-machine power system stabilizers design using chaotic optimization algorithm
+AU  - Shayeghi, H.
+AU  - Shayanfar, H.A.
+AU  - Jalilzadeh, S.
+AU  - Safari, A.
+JO  - Energy Conversion and Management
+VL  - 51
+IS  - 7
+SP  - 1572
+EP  - 1580
+PY  - 2010
+DA  - 2010/07/01/
+SN  - 0196-8904
+DO  - https://doi.org/10.1016/j.enconman.2010.02.015
+UR  - http://www.sciencedirect.com/science/article/pii/S0196890410000725
+KW  - PSS design
+KW  - Chaotic optimization algorithm
+KW  - Power system dynamics
+KW  - Multiobjective optimization
+AB  - In this paper, a multiobjective design of the multi-machine power system stabilizers (PSSs) using chaotic optimization algorithm (COA) is proposed. Chaotic optimization algorithms, which have the features of easy implementation, short execution time and robust mechanisms of escaping from the local optimum, is a promising tool for the engineering applications. The PSSs parameters tuning problem is converted to an optimization problem which is solved by a chaotic optimization algorithm based on Lozi map. Since chaotic mapping enjoys certainty, ergodicity and the stochastic property, the proposed chaotic optimization problem introduces chaos mapping using Lozi map chaotic sequences which increases its convergence rate and resulting precision. Two different objective functions are proposed in this study for the PSSs design problem. The first objective function is the eigenvalues based comprising the damping factor, and the damping ratio of the lightly damped electro-mechanical modes, while the second is the time domain-based multi-objective function. The robustness of the proposed COA-based PSSs (COAPSS) is verified on a multi-machine power system under different operating conditions and disturbances. The results of the proposed COAPSS are demonstrated through eigenvalue analysis, nonlinear time-domain simulation and some performance indices. In addition, the potential and superiority of the proposed method over the classical approach and genetic algorithm is demonstrated.
+ER  - 
+
+TY  - JOUR
+T1  - A GEP-based spatial decision support system for multisite land use allocation
+AU  - Eldrandaly, Khalid
+JO  - Applied Soft Computing
+VL  - 10
+IS  - 3
+SP  - 694
+EP  - 702
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2009.07.014
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494609001379
+KW  - Spatial decision support systems
+KW  - Multisite land use allocation
+KW  - GIS
+KW  - Gene expression programming
+AB  - Multisite Land Use Allocation Problem (MLUA) refers to the problem of allocating more than one land use type in an area. MLUA problem is one of the truly NP Complete (combinatorial optimization) problems. To cope with this type of problems, intelligent techniques such as genetic algorithms, and simulated annealing, have been used. Research in the area of Spatial Decision Support Systems (SDSS) for resource allocation issues, a new scientific area of information system applications developed to support semi-structured or unstructured spatial decisions, has recently generated attention for integrating Artificial Intelligence (AI) techniques with Geographic Information Systems (GIS). In this paper we demonstrate how GIS can be integrated with Gene Expression Programming (GEP), a recently developed AI approach, for solving MLUA problems. The feasibility of the proposed approach in solving MLUA problems was checked using a fictive case study. The results indicated that the proposed approach gives good and satisfactory results.
+ER  - 
+
+TY  - JOUR
+T1  - An outcome-oriented approach to multicriteria decision analysis with intuitionistic fuzzy optimistic/pessimistic operators
+AU  - Chen, Ting-Yu
+JO  - Expert Systems with Applications
+VL  - 37
+IS  - 12
+SP  - 7762
+EP  - 7774
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2010.04.064
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417410003647
+KW  - Intuitionistic fuzzy set
+KW  - Point operator
+KW  - Optimism
+KW  - Pessimism
+KW  - Multiple criteria decision analysis
+KW  - Score function
+KW  - Optimization model
+AB  - The concept of Atanassov’s intuitionistic fuzzy sets is a generalization of ordinary fuzzy sets. Under the intuitionistic fuzzy decision environment, this paper develops optimistic and pessimistic point operators to draw the influences of optimism and pessimism on multiple criteria decision analysis. We propose the optimistic and pessimistic score functions based on point operators to measure evaluations of the alternative with respect to each criterion. The suitability function can then be established to determine the degree to which the alternative satisfies the decision maker’s requirement. An optimization model with suitability functions is propounded on account of ill-known membership grades to generate optimal weights for criteria. Finally, an outcome-oriented approach is adopted to validate the proposed methods. Several multiattribute evaluation cases in consumer decision making reality are addressed to examine the feasibility and applicability of the current method. From the empirical results of effectiveness examination, the proposed intuitionistic fuzzy multicriteria decision making method with optimistic/pessimistic score functions performed significantly better than the method without consideration of optimism/pessimism. Therefore, we can conclude that the proposed methods by using intuitionistic fuzzy optimistic/pessimistic point operators have desirable potentials in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Inconsistency of pair-wise comparison matrix with fuzzy elements based on geometric mean
+AU  - Ramík, Jaroslav
+AU  - Korviny, Petr
+JO  - Fuzzy Sets and Systems
+VL  - 161
+IS  - 11
+SP  - 1604
+EP  - 1613
+PY  - 2010
+DA  - 2010/06/01/
+T2  - Theme: Decision Systems
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2009.10.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011409004370
+KW  - Data analysis
+KW  - Decision making
+KW  - Uncertainty
+KW  - Pair-wise comparison
+KW  - Reciprocal matrix
+KW  - Inconsistency
+KW  - Triangular fuzzy numbers
+AB  - In this paper, inconsistency of pair-wise comparison matrix with fuzzy elements is investigated. Inconsistency is based on the distance of the matrix to a special matrix measured by a particular metric. New inconsistency index of reciprocal matrix with fuzzy elements is introduced and newly designed method of logarithmic least squares for eliciting associated weights is applied. Some basic properties of the index are derived, simple illustrating examples and results of numerical simulation for comparing the new index with Saaty's consistency ratio are supplied.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing bank efficiency and performance with operational research and artificial intelligence techniques: A survey
+AU  - Fethi, Meryem Duygun
+AU  - Pasiouras, Fotios
+JO  - European Journal of Operational Research
+VL  - 204
+IS  - 2
+SP  - 189
+EP  - 198
+PY  - 2010
+DA  - 2010/07/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2009.08.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221709005438
+KW  - Artificial intelligence
+KW  - Banks
+KW  - Data envelopment analysis
+KW  - Efficiency
+KW  - Operational research
+KW  - Literature review
+AB  - This paper presents a comprehensive review of 196 studies which employ operational research (O.R.) and artificial intelligence (A.I.) techniques in the assessment of bank performance. Several key issues in the literature are highlighted. The paper also points to a number of directions for future research. We first discuss numerous applications of data envelopment analysis which is the most widely applied O.R. technique in the field. Then we discuss applications of other techniques such as neural networks, support vector machines, and multicriteria decision aid that have also been used in recent years, in bank failure prediction studies and the assessment of bank creditworthiness and underperformance.
+ER  - 
+
+TY  - JOUR
+T1  - Accounting and non-accounting determinants of default: An analysis of privately-held firms
+AU  - Bhimani, Alnoor
+AU  - Gulamhussen, Mohamed Azzim
+AU  - Lopes, Samuel Da-Rocha
+JO  - Journal of Accounting and Public Policy
+VL  - 29
+IS  - 6
+SP  - 517
+EP  - 532
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0278-4254
+DO  - https://doi.org/10.1016/j.jaccpubpol.2010.09.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0278425410000608
+AB  - We model default with novel loan data maintained by the Portuguese Central Bank for 31,025 accounts of privately-held firms that include 30 accounting ratios and non-accounting information on size, age, industry and geographic regions. Interest costs to gross income, number of days in payables and receivables have a positive and significant influence on the probability of default. Financial and asset coverage, the investment ratio, return on equity and investment, solidity, variation in gross income and working capital to total assets are negatively related to default. Interest costs to gross income, solidity and working capital to total assets show larger marginal influence on the probability of default compared to return on investment, financial coverage, days in payables, days in receivables, and return on equity. Asset coverage, investment ratio and variation in gross income show relatively low marginal influence. While size influences default positively, age influences default negatively. The analysis of the joint influence of size and accounting ratios shows that size significantly alters the relation and the magnitude of the marginal influence of the accounting ratios on default. Our findings also indicate that industry and geography influence default. Besides assessing default in privately-held firms, our study identifies the important role of non-accounting information on default prediction and the practical significance of assessing the marginal influence of predictors instead of the classical coefficients. The factors we find as influencing default can be used as early warning signals in policies underlying supervision, and the default probabilities in the assessment of financial pressures in the corporate sector.
+ER  - 
+
+TY  - JOUR
+T1  - Development of the Metropolitan Water Availability Index (MWAI) and short-term assessment with multi-scale remote sensing technologies
+AU  - Chang, Ni-Bin
+AU  - Yang, Y. Jeffrey
+AU  - Goodrich, James A.
+AU  - Daranpob, Ammarin
+JO  - Journal of Environmental Management
+VL  - 91
+IS  - 6
+SP  - 1397
+EP  - 1413
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0301-4797
+DO  - https://doi.org/10.1016/j.jenvman.2010.02.024
+UR  - http://www.sciencedirect.com/science/article/pii/S0301479710000526
+KW  - Water resources management
+KW  - Climate change
+KW  - Drought management
+KW  - Multi-sensor remote sensing
+KW  - Water infrastructure
+KW  - Risk management
+KW  - Risk communication
+AB  - Global climate change will influence environmental conditions including temperature, surface radiation, soil moisture, and sea level, and it will also significantly impact regional-scale hydrologic processes such as evapotranspiration (ET), precipitation, runoff, and snowmelt. The quantity and quality of water available for drinking and other domestic usage is also likely to be affected by changes in these processes. Consequently, it is necessary to assess and reflect upon the challenges ahead for water infrastructure and the general public in metropolitan regions. One approach to the problem is to use index-based assessment, forecasting and planning. The drought indices previously developed were not developed for domestic water supplies, and thus are insufficient for the purpose of such an assessment. This paper aims to propose and develop a “Metropolitan Water Availability Index (MWAI)” to assess the status of both the quantity and quality of available potable water sources diverted from the hydrologic cycle in a metropolitan region. In this approach, the accessible water may be expressed as volume per month or week (i.e., m3/month or m3/week) relative to a prescribed historical record, and such a trend analysis may result in final MWAI values ranging from −1 to +1 for regional water management decision making. The MWAI computation uses data and information from both historical point measurements and spatial remote-sensing based monitoring. Variables such as precipitation, river discharge, and water quality changes at drinking water plant intakes at specific locations are past “point” measurements in MWAI calculations. On the other hand, remote sensing provides information on both spatial and temporal distributions of key variables. Examples of remote-sensing images and sensor network technologies are in-situ sensor networks, ground-based radar, air-borne aircraft, and even space-borne satellites. A case study in Tampa Bay, Florida is described to demonstrate the short-term assessment of the MWAI concept at a practical level. It is anticipated that such a forecasting methodology may be extended for middle-term and long-term water supply assessment.
+ER  - 
+
+TY  - JOUR
+T1  - A multicriteria decision support system for bank rating
+AU  - Doumpos, Michael
+AU  - Zopounidis, Constantin
+JO  - Decision Support Systems
+VL  - 50
+IS  - 1
+SP  - 55
+EP  - 63
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0167-9236
+DO  - https://doi.org/10.1016/j.dss.2010.07.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923610001089
+KW  - Banking
+KW  - Financial risk management
+KW  - Decision support systems
+KW  - Multicriteria decision aid
+KW  - Sensitivity analysis
+AB  - Bank rating refers to the analysis of a bank's overall viability, performance and risk exposure. Within the recent financial turmoil, bank rating has become extremely important. Typically, bank rating is performed through empirical procedures that combine financial and qualitative data into an overall performance index. This paper presents a case study on the implementation of a multicriteria approach to bank rating. The proposed methodology is based on the PROMETHEE II method implemented in an integrated decision support system. Special emphasis is put on the sensitivity of the results with regard to the relative importance of the evaluation criteria and the parameters of the evaluation process.
+ER  - 
+
+TY  - JOUR
+T1  - Application of chemometrics to analysis of soil pollutants
+AU  - Mostert, Maria M.R.
+AU  - Ayoko, Godwin A.
+AU  - Kokot, Serge
+JO  - TrAC Trends in Analytical Chemistry
+VL  - 29
+IS  - 5
+SP  - 430
+EP  - 445
+PY  - 2010
+DA  - 2010/05/01/
+SN  - 0165-9936
+DO  - https://doi.org/10.1016/j.trac.2010.02.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0165993610000610
+KW  - Chemometrics
+KW  - Geometrical Analysis for Interactive (GAIA)
+KW  - Multivariate analysis
+KW  - Preference Ranking Organization Method for Enrichment Evaluation (PROMETHEE)
+KW  - Principal Components Analysis/Absolute Principal Component Scores (PCA/APCS)
+KW  - Soil studies
+KW  - Source contribution
+KW  - Source identification
+AB  - This overview focuses on the application of chemometrics techniques to the investigation of soils contaminated by polycyclic aromatic hydrocarbons (PAHs) and metals, because these two important and very diverse groups of pollutants are ubiquitous in soils. We highlight the salient features of studies carried out in the microenvironments and recreational environments of humans in the context of the multivariate statistical techniques available across the boundaries of disciplines used in soil studies. We pay particular attention to techniques employed in the geosciences that may be effectively utilized for environmental soil studies. We also discuss classical multivariate approaches that may be used in isolation or as complementary methods to these. Chemometrics techniques widely applied in atmospheric studies for identifying sources of pollutants or for determining the importance of contributions of contaminant sources to a particular site have seen little use in soil studies, but they may be employed effectively in such investigations. Suitable programs are also available for suggesting measures of mitigation in cases of soil contamination, and we also consider these. Specific techniques reviewed include:•pattern-recognition techniques [e.g., Principal Components Analysis (PCA), Fuzzy Clustering (FC) and Cluster Analysis (CA);•geostatistical tools [e.g., variograms, Geographical Information Systems (GISs), contour mapping and kriging]; and,•source-identification and contribution-estimation methods [e.g., Positive Matrix Factorization (PMF), and PCA on Absolute Principal Component Scores (PCA/APCS)]. Mitigating measures to limit or to eliminate pollutant sources may be suggested through the use of ranking analysis and multi-criteria decision-making methods (MCDMs), mainly represented in this review by studies employing the Preference Ranking Organization Method for Enrichment Evaluation (PROMETHEE) and its associated graphic output, Geometrical Analysis for Interactive Aid (GAIA).
+ER  - 
+
+TY  - CHAP
+T1  - Authors
+A2  - Brown, Steven D.
+A2  - Tauler, Romá
+A2  - Walczak, Beata
+BT  - Comprehensive Chemometrics
+PB  - Elsevier
+CY  - Oxford
+SP  - 1
+EP  - 7
+PY  - 2010
+DA  - 2010/01/01/
+SN  - 978-0-444-52701-1
+DO  - https://doi.org/10.1016/B978-0-444-52701-1.09050-5
+UR  - http://www.sciencedirect.com/science/article/pii/B9780444527011090505
+ER  - 
+
+TY  - JOUR
+T1  - Assigning priorities to actions in a pipeline transporting hydrogen based on a multicriteria decision model
+AU  - Alencar, M.H.
+AU  - de Almeida, A.T.
+JO  - International Journal of Hydrogen Energy
+VL  - 35
+IS  - 8
+SP  - 3610
+EP  - 3619
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0360-3199
+DO  - https://doi.org/10.1016/j.ijhydene.2010.01.122
+UR  - http://www.sciencedirect.com/science/article/pii/S0360319910002193
+KW  - Hydrogen pipeline safety
+KW  - Multidimensional risk analysis
+KW  - Multiattribute utility theory
+KW  - Decision analysis
+AB  - Nowadays there is a pressing need to implement changes in the global energy structure, such that it incorporates new features and changes the way that we use fossil fuels. In this scenario, hydrogen is projected as the fuel of the future. Among the possible modes that can be used for its transportation, the pipeline is singled out as it is the safest and the most economically viable means of transporting large quantities of the gas. However, accidents to pipelines have been recorded and they often result in catastrophic consequences for society. In this context, this paper proposes novelties in multidimensional risk assessment for the transportation of hydrogen by pipeline. Thus, a multicriteria decision model is proposed, using multiattribute utility theory, which incorporates the behavior of a decision maker and considers three dimensions of risk assessment: the human, financial and environmental dimensions. By taking these into consideration, the decision maker may well get precious and differentiated information about the risk management of pipelines.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy-preserving data mining: A feature set partitioning approach
+AU  - Matatov, Nissim
+AU  - Rokach, Lior
+AU  - Maimon, Oded
+JO  - Information Sciences
+VL  - 180
+IS  - 14
+SP  - 2696
+EP  - 2720
+PY  - 2010
+DA  - 2010/07/15/
+T2  - Including Special Section on Hybrid Intelligent Algorithms and Applications
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2010.03.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025510001234
+KW  - Data mining
+KW  - Privacy
+KW  - Genetic algorithms
+KW  - -Anonymity
+KW  - Feature set partitioning
+AB  - In privacy-preserving data mining (PPDM), a widely used method for achieving data mining goals while preserving privacy is based on k-anonymity. This method, which protects subject-specific sensitive data by anonymizing it before it is released for data mining, demands that every tuple in the released table should be indistinguishable from no fewer than k subjects. The most common approach for achieving compliance with k-anonymity is to replace certain values with less specific but semantically consistent values. In this paper we propose a different approach for achieving k-anonymity by partitioning the original dataset into several projections such that each one of them adheres to k-anonymity. Moreover, any attempt to rejoin the projections, results in a table that still complies with k-anonymity. A classifier is trained on each projection and subsequently, an unlabelled instance is classified by combining the classifications of all classifiers. Guided by classification accuracy and k-anonymity constraints, the proposed data mining privacy by decomposition (DMPD) algorithm uses a genetic algorithm to search for optimal feature set partitioning. Ten separate datasets were evaluated with DMPD in order to compare its classification performance with other k-anonymity-based methods. The results suggest that DMPD performs better than existing k-anonymity-based algorithms and there is no necessity for applying domain dependent knowledge. Using multiobjective optimization methods, we also examine the tradeoff between the two conflicting objectives in PPDM: privacy and predictive performance.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment of ground subsidence using GIS and the weights-of-evidence model
+AU  - Oh, Hyun-Joo
+AU  - Lee, Saro
+JO  - Engineering Geology
+VL  - 115
+IS  - 1
+SP  - 36
+EP  - 48
+PY  - 2010
+DA  - 2010/09/06/
+SN  - 0013-7952
+DO  - https://doi.org/10.1016/j.enggeo.2010.06.015
+UR  - http://www.sciencedirect.com/science/article/pii/S0013795210001171
+KW  - Ground subsidence
+KW  - GIS
+KW  - Weights-of-evidence
+KW  - Abandoned underground coal mines (AUCMs)
+KW  - Korea
+AB  - The weights-of-evidence model, one of the Bayesian probability models was applied in evaluating a ground subsidence spatial hazard near abandoned underground coal mines (AUCMs) at Magyori area, Samcheok City in Korea using GIS. Using ground subsidence location and a spatial database containing information such as mining tunnel, borehole, topography, geology, and land use, the weights-of-evidence model was applied to calculate each relevant factor's rating for the Magyori area in Korea. Seven major factors controlling or related to ground subsidence were determined from the probability analysis of the existing ground subsidence area; depth of drift and distance from drift from the mining tunnel map, slope gradient obtained from the topographical map, ground water level and permeability from borehole data, geology and land use. Tests of conditional independence were performed for the selection of factors, allowing 6 combinations of factors to be analyzed. For the analysis of mapping ground subsidence spatial hazard, the contrast values, W+ and W−, of each factor's rating were overlaid spatially. The results of the analysis were validated using receiver operating characteristic (ROC) with the previous ground subsidence locations. In the case of all factor used, the area under the ROC curve (AUC) showed 0.9667, which corresponds to an accuracy of 96.67%. In the case of the combinations, the case of distance from drift, depth of ground water and land use used, showed the 90.71% (AUC: 0.9071) accuracy which is the best result produced in this analysis. The results can be used for hazard prevention and land-use planning near AUCM areas.
+ER  - 
+
+TY  - JOUR
+T1  - Advances in Study on Water Resources Carrying Capacity in China
+AU  - Mei, Han
+AU  - Liuyuan, 
+AU  - Duhuan, 
+AU  - Yangxiaoyan, 
+JO  - Procedia Environmental Sciences
+VL  - 2
+SP  - 1894
+EP  - 1903
+PY  - 2010
+DA  - 2010/01/01/
+T2  - International Conference on Ecological Informatics and Ecosystem Conservation (ISEIS 2010)
+SN  - 1878-0296
+DO  - https://doi.org/10.1016/j.proenv.2010.10.201
+UR  - http://www.sciencedirect.com/science/article/pii/S1878029610002343
+KW  - Water resources bearing capacity Stage division the tendency of research Research content Research methods Research areas
+AB  - The article systematically reviews the history of water resource carrying capacity and shows that water resource carrying capacity through three exhibition stages: initial, prosperity and development. The initial stage of the study is concentrated on environmental vulnerability arid area of northwest, and put forward the concept of water resource carrying capacity. it focus on the research of the theory, quantitative research is only initial. In this phase, the writer mainly uses two methods, which are trend in conventional and fuzzy comprehensive evaluation, to study. The prosperous phase of the study extends to urban areas, drainage basin, etc. In this stage, the research mainly probes into water resource carrying capacity from characteristic, connotation and the index system, which are using a variety of new mathematical models, in order to let the study gradually transmute into quantitative-rization. The expansion phase of the study refers to groundwater resources carrying capacity, the areas of Karst and irrigation .In this stage, theory study has been especially mature, there are the artificial neural network mode and projection trace appraises model besides the first two stages methods in quantitative-rization evaluation. In the future, the study of water resources bearing capacity will be combined with water resource optional distribution and ecological water requirement enhance study representative area, simultaneously, paying more attention to the issue of recycling Reclaimed Water; During the study, quantitative analysis should be combined with advanced means such as remote sensing, etc. which can realize the development of study from static to dynamics.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy decision support system for crisis management with a new structure for decision making
+AU  - Nokhbatolfoghahaayee, Hoda
+AU  - Menhaj, Mohammad Bagher
+AU  - Shafiee, Masoud
+JO  - Expert Systems with Applications
+VL  - 37
+IS  - 5
+SP  - 3545
+EP  - 3552
+PY  - 2010
+DA  - 2010/05/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2009.10.011
+UR  - http://www.sciencedirect.com/science/article/pii/S095741740900877X
+KW  - Decision support system
+KW  - Multicriteria decision making
+KW  - Fuzzy decision making
+AB  - This paper introduces a fuzzy decision support system (FDSS) with a new decision making structure, which can be applied to manage the crisis conditions in any large scale systems with many parameters. After receiving both functional variables of the system and fault signals, the FDSS makes proper decisions to make up and repair the distorted situation and the affected elements of the network according to its data base established through experience gathered from expert managers and decision models properly developed. These decisions are expressed in the form of some scenarios with different desirability degrees, which are determined by some properly developed fuzzy multi-criteria decision making methods, helping the manager choose the best one according to his discretion.
+ER  - 
+
+TY  - JOUR
+T1  - Methodological approach and road safety system evaluation
+AU  - Pacaux-Lemoine, M.-P.
+AU  - Crévits, I.
+JO  - IFAC Proceedings Volumes
+VL  - 43
+IS  - 13
+SP  - 198
+EP  - 203
+PY  - 2010
+DA  - 2010/01/01/
+T2  - 11th IFAC/IFIP/IFORS/IEA Symposium on Analysis, Design, and Evaluation of Human-Machine Systems
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20100831-4-FR-2021.00036
+UR  - http://www.sciencedirect.com/science/article/pii/S1474667015325313
+KW  - Motion sickness
+KW  - Car sickness
+KW  - Human factors
+KW  - Ride comfort
+KW  - Vehicle motion
+AB  - Car drivers receive the acceleration stimulation and the rotational stimulation when negotiating with a curve. In such a situation, the driver controls his/her posture such as the head and the body appropriately. It is known that the driver tilts his/her head toward the curve direction while the passengers’ head movement is likely to occur in the opposite direction. There are some interpretations of the role of the driver's active head movement such as increasing visibility and decreasing of effect of the inertial force to the body including the trunk and the neck. The goals of this research are to understand relationship between head tilt strategy and motion sickness incidence and apply its result to the design of comfortable vehicle motion. First, we derive a mathematical model of the motion sickness incidence caused by the head movement in 3D space based on subjective vertical conflict. Then, we analyze effect of the head movement on decrease of motion sickness incidence using the mathematical model.
+ER  - 
+
+TY  - JOUR
+T1  - An integrated decision support approach for project investors in risky and uncertain environments
+AU  - Armaneri, Özgür
+AU  - Özdağoğlu, Güzin
+AU  - Yalçınkaya, Özgür
+JO  - Journal of Computational and Applied Mathematics
+VL  - 234
+IS  - 8
+SP  - 2530
+EP  - 2542
+PY  - 2010
+DA  - 2010/08/15/
+SN  - 0377-0427
+DO  - https://doi.org/10.1016/j.cam.2010.03.018
+UR  - http://www.sciencedirect.com/science/article/pii/S0377042710001664
+KW  - Project evaluation
+KW  - Simulation
+KW  - Fuzzy sets
+KW  - Project risk assessment
+AB  - In project investment decisions, it is often assumed that estimated values of project parameters are certain and they would not deviate by the time. However, project parameters normally change during a life cycle of the project. Therefore, an existence of a deviation or gap between forecasted values and actual values is inevitable. Because of the uncertainty of the future, forecasting the true and exact values of project parameters is almost impossible. In this study, an integrated decision support approach based on simulation and fuzzy set theory is proposed for project investors in risky and uncertain environments. This approach determines the risk levels of the projects and helps investors to make investment decisions. In the scope of the study, a flowchart is presented to guide to decision maker in different situations of information uncertainty that belongs to project parameter values. Via this flowchart, the values of project parameters can be chosen depending on how they are determined (deterministic, stochastic or fuzzy) by project analyst. Besides, calculating and analyzing the project risk in all possible situations would be easier. Illustrative examples are given to demonstrate the application of this approach.
+ER  - 
+
+TY  - JOUR
+T1  - Combining GIS with multicriteria decision making for siting water harvesting ponds in Northern Jordan
+AU  - Al-Adamat, Rida
+AU  - Diabat, Abdullah
+AU  - Shatnawi, Ghada
+JO  - Journal of Arid Environments
+VL  - 74
+IS  - 11
+SP  - 1471
+EP  - 1477
+PY  - 2010
+DA  - 2010/11/01/
+SN  - 0140-1963
+DO  - https://doi.org/10.1016/j.jaridenv.2010.07.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0140196310001874
+KW  - Boolean
+KW  - GIS
+KW  - Harvesting
+KW  - Jordan
+KW  - Ponds
+KW  - WLC
+AB  - Jordan is characterised as a ‘water scarce’ country. It is considered as one of the lowest countries in the world on a per capita basis. The available water resources per capita are falling as a result of population growth and are projected to fall from less than 160m3 per capita per year at present to about 90m3 per capita per year by 2025. Water harvesting has been practiced in Jordan for thousands of years. There are indications of early water harvesting structures believed to have been constructed over 9000 years ago. There is a need to establish water harvesting projects at various places in Jordan to collect more surface water for domestic, agricultural and livestock watering usages. The selection of best sites for water harvesting schemes must be based on certain criteria that take into consideration the socio-economic and the physical characteristics of the targeted area. This research aimed to use both the Weighted Linear Combination and the Boolean techniques within GIS environment to select suitable areas in Northern Jordan for establishing water harvesting ponds. This resulted in having ca. 25% of the study area (64,184.8ha) with high potential for constructing water harvesting ponds.
+ER  - 
+
+TY  - JOUR
+T1  - The balancing Choquet integral
+AU  - Mesiarová-Zemánková, A.
+AU  - Mesiar, R.
+AU  - Ahmad, K.
+JO  - Fuzzy Sets and Systems
+VL  - 161
+IS  - 17
+SP  - 2243
+EP  - 2255
+PY  - 2010
+DA  - 2010/09/01/
+T2  - Theme: Aggregations, Connectives and Non-Additive Measures
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2010.02.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011410000527
+KW  - Choquet integral
+KW  - Symmetric Choquet integral
+KW  - Asymmetric Choquet integral
+KW  - Fuzzy measure
+AB  - In this paper a new extension of Choquet integral to real inputs is introduced. While the symmetric and the asymmetric Choquet integrals aggregate positive and negative inputs separately, the balancing Choquet integral merges both positive and negative inputs and thus allows the compensation effect for oppositely oriented inputs with the same magnitude.
+ER  - 
+
+TY  - JOUR
+T1  - Aggregating multiple classification results using fuzzy integration and stochastic feature selection
+AU  - Pizzi, Nick J.
+AU  - Pedrycz, Witold
+JO  - International Journal of Approximate Reasoning
+VL  - 51
+IS  - 8
+SP  - 883
+EP  - 894
+PY  - 2010
+DA  - 2010/10/01/
+T2  - North American Fuzzy Information Processing Society Annual Conference NAFIPS ’2007
+SN  - 0888-613X
+DO  - https://doi.org/10.1016/j.ijar.2010.05.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0888613X10000721
+KW  - Data classification
+KW  - Fuzzy sets
+KW  - Pattern recognition
+KW  - Fuzzy integrals
+KW  - Feature selection
+KW  - Computational intelligence
+AB  - Classifying magnetic resonance spectra is often difficult due to the curse of dimensionality; scenarios in which a high-dimensional feature space is coupled with a small sample size. We present an aggregation strategy that combines predicted disease states from multiple classifiers using several fuzzy integration variants. Rather than using all input features for each classifier, these multiple classifiers are presented with different, randomly selected, subsets of the spectral features. Results from a set of detailed experiments using this strategy are carefully compared against classification performance benchmarks. We empirically demonstrate that the aggregated predictions are consistently superior to the corresponding prediction from the best individual classifier.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding nutrient build-up on urban road surfaces
+AU  - Miguntanna, Nandika Prasadani
+AU  - Goonetilleke, Ashantha
+AU  - Egodowatta, Prasanna
+AU  - Kokot, Serge
+JO  - Journal of Environmental Sciences
+VL  - 22
+IS  - 6
+SP  - 806
+EP  - 812
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 1001-0742
+DO  - https://doi.org/10.1016/S1001-0742(09)60181-9
+UR  - http://www.sciencedirect.com/science/article/pii/S1001074209601819
+KW  - nutrient pollution
+KW  - pollutant build-up
+KW  - stormwater pollution
+AB  - This article discusses the outcomes of a research project on nutrients build-up on urban road surfaces. Nutrient build-up was investigated on road sites belonging to residential, industrial and commercial land use. Collected build-up samples were separated into five particle size ranges and were tested for total nitrogen (TN), total phosphorus (TP) and sub species of nutrients, namely, NO2−, NO3−, TKN and PO43−. Multivariate analytical techniques were used to analyse the data and to develop detailed understanding on build-up. Data analysis revealed that the solids loads on urban road surfaces are highly influenced by factors such as land use, antecedent dry period and traffc volume. However, the nutrient build-up process was found to be independent of the type of land use. It was solely dependent on the particle size of solids build-up. Most of the nutrients were associated with the particle size range <150 μm. Therefore, the removal of particles below 150 μm from road surfaces is of importance for the removal of nitrogen and phosphorus from road surface solids build-up. It is also important to consider the difference in the composition of nitrogen and phosphorus build-up in the context of designing effective stormwater quality mitigation strategies.
+ER  - 
+
+TY  - JOUR
+T1  - Possibilistic signal processing: How to handle noise?
+AU  - Loquin, Kevin
+AU  - Strauss, Olivier
+AU  - Crouzet, Jean-Francois
+JO  - International Journal of Approximate Reasoning
+VL  - 51
+IS  - 9
+SP  - 1129
+EP  - 1144
+PY  - 2010
+DA  - 2010/11/01/
+T2  - Imprecise probability in statistical inference and decision making
+SN  - 0888-613X
+DO  - https://doi.org/10.1016/j.ijar.2010.08.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0888613X1000099X
+KW  - Signal processing
+KW  - Kernel methods
+KW  - Possibility distribution
+KW  - Noise quantization
+KW  - Choquet integral
+AB  - We propose a novel approach for noise quantifier at each location of a signal. This method is based on replacing the conventional kernel-based approach extensively used in signal processing by an approach involving another kind of kernel: a possibility distribution. Such an approach leads to interval-valued resulting methods instead of point-valued ones. We propose a theoretical justification to this approach and we show, on real and artificial data sets, that the length of the obtained interval and the local noise level are highly correlated. This method is non-parametric and has an advantage over other methods since no assumption about the nature of the noise has to be made, except its local ergodicity. Besides, the propagation of the noise in the involved signal processing method is direct and does not require any additional computation.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-agent neural business control system
+AU  - Lourdes Borrajo, M.
+AU  - Corchado, Juan M.
+AU  - Corchado, Emilio S.
+AU  - Pellicer, María A.
+AU  - Bajo, Javier
+JO  - Information Sciences
+VL  - 180
+IS  - 6
+SP  - 911
+EP  - 927
+PY  - 2010
+DA  - 2010/03/15/
+T2  - Special Issue on Modelling Uncertainty
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2009.11.028
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025509004988
+KW  - Agents technology
+KW  - Business control system
+KW  - Case-based reasoning
+KW  - Maximum Likelihood Hebbian Learning
+KW  - Reasoning
+KW  - Experience management
+AB  - Small to medium sized companies require a business control mechanism in order to monitor their modus operandi and analyse whether they are achieving their goals. A tool for the decision support process was developed based on a multi-agent system that incorporates a case-based reasoning system and automates the business control process. The case-based reasoning system automates the organization of cases and the retrieval stage by means of a Maximum Likelihood Hebbian Learning-based method, an extension of the Principal Component Analysis which groups similar cases by automatically identifying clusters in a data set in an unsupervised mode. The multi-agent system was tested with 22 small and medium sized companies in the textile sector located in the northwest of Spain during 29 months, and the results obtained have been very satisfactory.
+ER  - 
+
+TY  - JOUR
+T1  - Subject Index
+JO  - Applied Soft Computing
+VL  - 10
+IS  - 4
+SP  - 1304
+EP  - 1316
+PY  - 2010
+DA  - 2010/09/01/
+T2  - Optimisation Methods & Applications in Decision-Making Processes
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/S1568-4946(10)00181-X
+UR  - http://www.sciencedirect.com/science/article/pii/S156849461000181X
+ER  - 
+
+TY  - JOUR
+T1  - A stochastic optimization model under modeling uncertainty and parameter certainty for groundwater remediation design: Part II. Model application
+AU  - He, L.
+AU  - Huang, G.H.
+AU  - Lu, H.W.
+JO  - Journal of Hazardous Materials
+VL  - 176
+IS  - 1
+SP  - 527
+EP  - 534
+PY  - 2010
+DA  - 2010/04/15/
+SN  - 0304-3894
+DO  - https://doi.org/10.1016/j.jhazmat.2009.11.061
+UR  - http://www.sciencedirect.com/science/article/pii/S0304389409018457
+KW  - Groundwater remediation
+KW  - Remediation design
+KW  - Modeling uncertainty
+KW  - Petroleum contaminants
+AB  - A new stochastic optimization model under modeling uncertainty (SOMUM) and parameter certainty is applied to a practical site located in western Canada. Various groundwater remediation strategies under different significance levels are obtained from the SOMUM model. The impact of modeling uncertainty (proxy-simulator residuals) on optimal remediation strategies is compared to that of parameter uncertainty (arising from physical properties). The results show that the increased remediation cost for mitigating modeling-uncertainty impact would be higher than those from models where the coefficient of variance of input parameters approximates to 40%. This provides new evidence that the modeling uncertainty in proxy-simulator residuals can hardly be ignored; there is thus a need of investigating and mitigating the impact of such uncertainties on groundwater remediation design. This work would be helpful for lowering the risk of system failure due to potential environmental-standard violation when determining optimal groundwater remediation strategies.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria classification models for the identification of targets and acquirers in the Asian banking sector
+AU  - Pasiouras, Fotios
+AU  - Gaganis, Chrysovalantis
+AU  - Zopounidis, Constantin
+JO  - European Journal of Operational Research
+VL  - 204
+IS  - 2
+SP  - 328
+EP  - 335
+PY  - 2010
+DA  - 2010/07/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2009.10.026
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221709007942
+KW  - Multiple criteria analysis
+KW  - Acquisitions
+KW  - Banks
+AB  - The purpose of the present study is the development of classification models for the identification of acquirers and targets in the Asian banking sector. We use a sample of 52 targets and 47 acquirers that were involved in acquisitions in 9 Asian banking markets during 1998–2004 and match them by country and time with an equal number of non-involved banks. The models are developed and validated through a tenfold cross-validation approach using two multicriteria decision aid techniques. For comparison purposes we also develop models through discriminant analysis. The results indicate that the multicriteria decision aid models are more efficient that the ones developed through discriminant analysis. Furthermore, in all the cases the models are more efficient in distinguishing between acquirers and non-involved banks than between targets and non-involved banks. Finally, the models with a binary outcome achieve higher accuracies than the ones which simultaneously distinguish between acquirers, targets and non-involved banks.
+ER  - 
+
+TY  - JOUR
+T1  - Credit scorecard based on logistic regression with random coefficients
+AU  - Dong, Gang
+AU  - Lai, Kin Keung
+AU  - Yen, Jerome
+JO  - Procedia Computer Science
+VL  - 1
+IS  - 1
+SP  - 2463
+EP  - 2468
+PY  - 2010
+DA  - 2010/05/01/
+T2  - ICCS 2010
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2010.04.278
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050910002796
+KW  - Credit scorecard
+KW  - Logistic regression
+KW  - Random coefficients
+KW  - Bayesian procedures
+AB  - Many credit scoring techniques have been used to build credit scorecards. Among them, logistic regression model is the most commonly used in the banking industry due to its desirable features (e.g., robustness and transparency). Although some new techniques (e.g., support vector machine) have been applied to credit scoring and shown superior prediction accuracy, they have problems with the results interpretability. Therefore, these advanced techniques have not been widely applied in practice. To improve the prediction accuracy of logistic regression, logistic regression with random coefficients is proposed. The proposed model can improve prediction accuracy of logistic regression without sacrificing desirable features. It is expected that the proposed credit scorecard building method can contribute to effective management of credit risk in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Supercritical fluid extraction: Recent advances and applications
+AU  - Herrero, Miguel
+AU  - Mendiola, Jose A.
+AU  - Cifuentes, Alejandro
+AU  - Ibáñez, Elena
+JO  - Journal of Chromatography A
+VL  - 1217
+IS  - 16
+SP  - 2495
+EP  - 2511
+PY  - 2010
+DA  - 2010/04/16/
+T2  - Extraction Techniques
+SN  - 0021-9673
+DO  - https://doi.org/10.1016/j.chroma.2009.12.019
+UR  - http://www.sciencedirect.com/science/article/pii/S0021967309018056
+KW  - Supercritical fluid extraction
+KW  - Foods
+KW  - Natural products
+KW  - By-products
+KW  - Pharmaceutical
+KW  - Heavy metal
+KW  - Environmental
+AB  - Among the different extraction techniques used at analytical and preparative scale, supercritical fluid extraction (SFE) is one of the most used. This review covers the most recent developments of SFE in different fields, such as food science, natural products, by-product recovery, pharmaceutical and environmental sciences, during the period 2007–2009. The revision is focused on the most recent advances and applications in the different areas; among them, it is remarkable the strong impact of SFE to extract high value compounds from food and natural products but also its increasing importance in areas such as heavy metals recovery, enantiomeric resolution or drug delivery systems.
+ER  - 
+
+TY  - JOUR
+T1  - Multiattribute decision making method based on generalized OWA operators with intuitionistic fuzzy sets
+AU  - Li, Deng-Feng
+JO  - Expert Systems with Applications
+VL  - 37
+IS  - 12
+SP  - 8673
+EP  - 8678
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2010.06.062
+UR  - http://www.sciencedirect.com/science/article/pii/S095741741000566X
+KW  - Multiattribute decision making
+KW  - Uncertainty
+KW  - Generalized ordered weighted averaging operators (GOWA)
+KW  - Intuitionistic fuzzy set
+KW  - Fuzzy set
+AB  - The intuitionistic fuzzy (IF) set characterized by two functions was a generalization of the fuzzy set. In this paper, we investigate multiattribute decision making (MADM) problems with ratings of alternatives being expressed using IF sets and attribute weights given as real numbers. Firstly, the generalized ordered weighted averaging (GOWA) operators introduced by Yager [Yager, R. (2004). Generalized OWA aggregation operators. Fuzzy Optimization and Decision Making, 3, 93–107] are extended to aggregate IF sets. Secondly, MADM problems with IF sets are formulated through transforming the ratings of alternatives on both qualitative and quantitative attributes into IF sets in a unified way. The method and procedure based on the extended GOWA operators are developed to solve the MADM problems with IF sets. Finally, the effectiveness and practicability of the proposed method are illustrated with a numerical example.
+ER  - 
+
+TY  - JOUR
+T1  - Scheduling jobs on computational grids using a fuzzy particle swarm optimization algorithm
+AU  - Liu, Hongbo
+AU  - Abraham, Ajith
+AU  - Hassanien, Aboul Ella
+JO  - Future Generation Computer Systems
+VL  - 26
+IS  - 8
+SP  - 1336
+EP  - 1343
+PY  - 2010
+DA  - 2010/10/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2009.05.022
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X09000636
+KW  - Swarm intelligence
+KW  - Grid computing
+KW  - Particle swarm optimization
+KW  - Fuzzy system
+AB  - Grid computing is a computational framework used to meet growing computational demands. This paper introduces a novel approach based on Particle Swarm Optimization (PSO) for scheduling jobs on computational grids. The representations of the position and velocity of the particles in conventional PSO is extended from the real vectors to fuzzy matrices. The proposed approach is to dynamically generate an optimal schedule so as to complete the tasks within a minimum period of time as well as utilizing the resources in an efficient way. We evaluate the performance of the proposed PSO algorithm with a Genetic Algorithm (GA) and Simulated Annealing (SA) approach. Empirical results illustrate that an important advantage of the PSO algorithm is its speed of convergence and the ability to obtain faster and feasible schedules.
+ER  - 
+
+TY  - JOUR
+T1  - Author Index
+JO  - Decision Support Systems
+VL  - 48
+IS  - 4
+SP  - 646
+EP  - 649
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0167-9236
+DO  - https://doi.org/10.1016/S0167-9236(10)00024-2
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923610000242
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 51
+IS  - 4
+SP  - 240
+EP  - 310
+PY  - 2010
+DA  - 2010/07/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2010.06.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670110000275
+ER  - 
+
+TY  - JOUR
+T1  - On predictive accuracy and risk minimization in pairwise label ranking
+AU  - Hüllermeier, Eyke
+AU  - Fürnkranz, Johannes
+JO  - Journal of Computer and System Sciences
+VL  - 76
+IS  - 1
+SP  - 49
+EP  - 62
+PY  - 2010
+DA  - 2010/02/01/
+T2  - Special Issue on Intelligent Data Analysis
+SN  - 0022-0000
+DO  - https://doi.org/10.1016/j.jcss.2009.05.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0022000009000440
+KW  - Machine learning
+KW  - Preference learning
+KW  - Pairwise classification
+KW  - Label ranking
+KW  - Risk minimization
+KW  - Ranking error
+KW  - Rank correlation
+AB  - We study the problem of label ranking, a machine learning task that consists of inducing a mapping from instances to rankings over a finite number of labels. Our learning method, referred to as ranking by pairwise comparison (RPC), first induces pairwise order relations (preferences) from suitable training data, using a natural extension of so-called pairwise classification. A ranking is then derived from a set of such relations by means of a ranking procedure. In this paper, we first elaborate on a key advantage of such a decomposition, namely the fact that it allows the learner to adapt to different loss functions without re-training, by using different ranking procedures on the same predicted order relations. In this regard, we distinguish between two types of errors, called, respectively, ranking error and position error. Focusing on the position error, which has received less attention so far, we then propose a ranking procedure called ranking through iterated choice as well as an efficient pairwise implementation thereof. Apart from a theoretical justification of this procedure, we offer empirical evidence in favor of its superior performance as a risk minimizer for the position error.
+ER  - 
+
+TY  - JOUR
+T1  - Drug harms in the UK: a multicriteria decision analysis
+AU  - Nutt, David J
+AU  - King, Leslie A
+AU  - Phillips, Lawrence D
+JO  - The Lancet
+VL  - 376
+IS  - 9752
+SP  - 1558
+EP  - 1565
+PY  - 2010
+DA  - 2010/11/06/
+SN  - 0140-6736
+DO  - https://doi.org/10.1016/S0140-6736(10)61462-6
+UR  - http://www.sciencedirect.com/science/article/pii/S0140673610614626
+AB  - Summary
+Background
+Proper assessment of the harms caused by the misuse of drugs can inform policy makers in health, policing, and social care. We aimed to apply multicriteria decision analysis (MCDA) modelling to a range of drug harms in the UK.
+Methods
+Members of the Independent Scientific Committee on Drugs, including two invited specialists, met in a 1-day interactive workshop to score 20 drugs on 16 criteria: nine related to the harms that a drug produces in the individual and seven to the harms to others. Drugs were scored out of 100 points, and the criteria were weighted to indicate their relative importance.
+Findings
+MCDA modelling showed that heroin, crack cocaine, and metamfetamine were the most harmful drugs to individuals (part scores 34, 37, and 32, respectively), whereas alcohol, heroin, and crack cocaine were the most harmful to others (46, 21, and 17, respectively). Overall, alcohol was the most harmful drug (overall harm score 72), with heroin (55) and crack cocaine (54) in second and third places.
+Interpretation
+These findings lend support to previous work assessing drug harms, and show how the improved scoring and weighting approach of MCDA increases the differentiation between the most and least harmful drugs. However, the findings correlate poorly with present UK drug classification, which is not based simply on considerations of harm.
+Funding
+Centre for Crime and Justice Studies (UK).
+ER  - 

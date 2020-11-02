@@ -1,0 +1,800 @@
+
+AU  - Jankowski, Piotr
+PY  - 2017
+Y1  - 2017/03/06
+DA  - 2017/03/06
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118786352.wbieg0903
+UR  - https://doi.org/10.1002/9781118786352.wbieg0903
+N1  - doi:10.1002/9781118786352.wbieg0903
+M3  - doi:10.1002/9781118786352.wbieg0903
+N2  - Multicriteria decision-making (MCDM) has been a vibrant field of research for over 40 years with practical applications in such diverse domains as business, engineering, health care, environmental management, and regional planning. In geographical sciences, the interest in methods and applications of MCDM began initially in planning and accelerated with the ascent of geographic information systems. The entry reviews the origins of MCDM, its fundamental concepts, and methods relevant to applications in the geographical domain. It closes with a brief discussion of three areas holding promise for future developments at the intersection of MCDM and geography.
+SP  - 1-13
+KW  - GIS
+KW  - GIScience
+KW  - spatial analysis
+KW  - spatial decision-support systems
+T1  - Multicriteria Decision-Making
+T2  - International Encyclopedia of Geography
+T3  - Major Reference Works
+SN  - 9781118786352
+
+TY  - JOUR
+T1  - Use of multicriteria decision analysis for assessing the benefit and risk of over-the-counter analgesics
+AU  - Moore, Andrew
+AU  - Crossley, Anne
+AU  - Ng, Bernard
+AU  - Phillips, Lawrence
+AU  - Sancak, Özgür
+AU  - Rainsford, K.D.
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - doi: 10.1111/jphp.12770
+DO  - 10.1111/jphp.12770
+T2  - Journal of Pharmacy and Pharmacology
+JF  - Journal of Pharmacy and Pharmacology
+JO  - Journal of Pharmacy and Pharmacology
+JA  - J Pharm Pharmacol
+SP  - 1364
+EP  - 1373
+VL  - 69
+IS  - 10
+KW  - decision conferencing
+KW  - group judgements
+KW  - multicriteria decision analysis
+KW  - over-the-counter analgesics
+KW  - pain relief
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1111/jphp.12770
+UR  - https://doi.org/10.1111/jphp.12770
+Y2  - 2020/10/28
+N2  - Abstract Objectives To test the ability of a multicriteria decision analysis (MCDA) model to incorporate disparate data sources of varying quality along with clinical judgement in a benefit?risk assessment of six well-known pain-relief drugs. Methods Six over-the-counter (OTC) analgesics were evaluated against three favourable effects and eight unfavourable effects by seven experts who specialise in the relief of pain, two in a 2-day facilitated workshop whose input data and judgements were later peer-reviewed by five additional experts. Key findings Ibuprofen salts and solubilised emerged with the best benefit?risk profile, followed by naproxen, ibuprofen acid, diclofenac, paracetamol and aspirin. Conclusions Multicriteria decision analysis enabled participants to evaluate the OTC analgesics against a range of favourable and unfavourable effects in a group setting that enabled all issues to be openly aired and debated. The model was easily communicated and understood by the peer reviewers, so the model should be comprehensible to physicians, pharmacists and other health professionals.
+ER  - 
+
+TY  - JOUR
+T1  - Credibility in social media: opinions, news, and health information—a survey
+AU  - Viviani, Marco
+AU  - Pasi, Gabriella
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1002/widm.1209
+DO  - 10.1002/widm.1209
+T2  - WIREs Data Mining and Knowledge Discovery     
+JF  - WIREs Data Mining and Knowledge Discovery     
+JO  - WIREs Data Mining and Knowledge Discovery     
+JA  - WIREs Data Mining Knowl Discov
+SP  - e1209
+VL  - 7
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/widm.1209
+UR  - https://doi.org/10.1002/widm.1209
+Y2  - 2020/10/28
+N2  - In the Social Web scenario, where large amounts of User Generated Content diffuse through Social Media, the risk of running into misinformation is not negligible. For this reason, assessing and mining the credibility of both sources of information and information itself constitute nowadays a fundamental issue. Credibility, also referred as believability, is a quality perceived by individuals, who are not always able to discern with their cognitive capacities genuine information from the fake one. For this reason, in the recent years several approaches have been proposed to automatically assess credibility in Social Media. Most of them are based on data-driven models, i.e., they employ machine-learning techniques to identify misinformation, but recently also model-driven approaches are emerging, as well as graph-based approaches focusing on credibility propagation. Since multiple social applications have been developed for different aims and in different contexts, several solutions have been considered to address the issue of credibility assessment in Social Media. Three of the main tasks facing this issue and considered in this article concern: (1) the detection of opinion spam in review sites, (2) the detection of fake news and spam in microblogging, and (3) the credibility assessment of online health information. Despite the high number of interesting solutions proposed in the literature to tackle the above three tasks, some issues remain unsolved; they mainly concern both the absence of predefined benchmarks and gold standard datasets, and the difficulty of collecting and mining large amount of data, which has not yet received the attention it deserves. WIREs Data Mining Knowl Discov 2017, 7:e1209. doi: 10.1002/widm.1209 This article is categorized under: Algorithmic Development > Web Mining Application Areas > Science and Technology Technologies > Machine Learning
+ER  - 
+
+TY  - JOUR
+T1  - Individual Trade-Offs Between Possible Benefits and Risks of Cancer Treatments: Results from a Stated Preference Study with Patients with Multiple Myeloma
+AU  - Postmus, Douwe
+AU  - Richard, Sarah
+AU  - Bere, Nathalie
+AU  - van Valkenhoef, Gert
+AU  - Galinsky, Jayne
+AU  - Low, Eric
+AU  - Moulon, Isabelle
+AU  - Mavris, Maria
+AU  - Salmonsson, Tomas
+AU  - Flores, Beatriz
+AU  - Hillege, Hans
+AU  - Pignatti, Francesco
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1634/theoncologist.2017-0257
+DO  - 10.1634/theoncologist.2017-0257
+T2  - The Oncologist
+JF  - The Oncologist
+JO  - The Oncologist
+JA  - The Oncol
+SP  - 44
+EP  - 51
+VL  - 23
+IS  - 1
+KW  - Patient preferences
+KW  - Regulatory science
+KW  - Benefit-risk assessment
+KW  - Multicriteria decision analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1634/theoncologist.2017-0257
+UR  - https://doi.org/10.1634/theoncologist.2017-0257
+Y2  - 2020/10/28
+N2  - Abstract Background The objectives of this study were to elicit the preferences of patients with multiple myeloma regarding the possible benefits and risks of cancer treatments and to illustrate how such data may be used to estimate patients? acceptance of new treatments. Patients and Methods Patients with multiple myeloma from the cancer charity Myeloma UK were invited to participate in an online survey based on multicriteria decision analysis and swing weighting to elicit individual stated preferences for the following attributes: (a) 1-year progression-free survival (PFS, ranging from 50% to 90%), (b) mild or moderate toxicity for 2 months or longer (ranging from 85% to 45%), and (c) severe or life-threatening toxicity (ranging from 80% to 20%). Results A total of 560 participants completed the survey. The average weight given to PFS was 0.54, followed by 0.32 for severe or life-threatening toxicity and 0.14 for mild or moderate chronic toxicity. Participants who ranked severe or life-threatening toxicity above mild or moderate chronic toxicity (56%) were more frequently younger, working, and looking after dependent family members and had more frequently experienced severe or life-threatening side effects. The amount of weight given to PFS did not depend on any of the collected covariates. The feasibility of using the collected preference data to estimate the patients? acceptance of specific multiple myeloma treatments was demonstrated in a subsequent decision analysis example. Conclusion Stated preference studies provide a systematic approach to gain knowledge about the distribution of preferences in the population and about what this implies for patients? acceptance of specific treatments. Implications for Practice This study demonstrated how quantitative preference statements from a large group of participants can be collected through an online survey and how such information may be used to explore the acceptability of specific treatments based on the attributes studied. Results from such studies have the potential to become an important new tool for gathering patient views and studying heterogeneity in preferences in a systematic way, along with other methods, such as focus groups and expert opinions.
+ER  - 
+
+TY  - JOUR
+T1  - Approaches to Pythagorean Fuzzy Stochastic Multi-criteria Decision Making Based on Prospect Theory and Regret Theory with New Distance Measure and Score Function
+AU  - Peng, Xindong
+AU  - Dai, Jingguo
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - doi: 10.1002/int.21896
+DO  - 10.1002/int.21896
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1187
+EP  - 1214
+VL  - 32
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/int.21896
+UR  - https://doi.org/10.1002/int.21896
+Y2  - 2020/10/28
+N2  - Abstract In this paper, we initiate a new axiomatic definition of Pythagorean fuzzy distance measure, which is expressed by Pythagorean fuzzy number that will reduce the information loss and remain more original information. Then, the objective weights of various criteria are determined via grey system theory. Combining objective weights with subjective weights, we present the combined weights, which can reflect both the subjective considerations of the decision maker and the objective information. Meanwhile, a novel score function is proposed. Later, we present two algorithms to solve stochastic multicriteria decision making problem, which takes prospect preference and regret aversion of decision makers into consideration in the decision process. Finally, the effectiveness and feasibility of approach is demonstrated by a numerical example.
+ER  - 
+
+TY  - JOUR
+T1  - Recent advances in rapid multiobjective optimization of expensive simulation models in microwave and antenna engineering by Pareto front exploration
+AU  - Koziel, Slawomir
+AU  - Bekasiewicz, Adrian
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1002/mmce.21190
+DO  - 10.1002/mmce.21190
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF Microw Comput Aided Eng
+SP  - e21190
+VL  - 28
+IS  - 2
+KW  - computer-aided design
+KW  - computational electromagnetics
+KW  - electromagnetic-simulation models
+KW  - multiobjective optimization
+KW  - response features
+KW  - simulation-driven design
+KW  - surrogate modeling
+KW  - space mapping
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/mmce.21190
+UR  - https://doi.org/10.1002/mmce.21190
+Y2  - 2020/10/28
+N2  - Abstract Practical engineering design problems are inherently multiobjective, that is, require simultaneous control of several (and often conflicting) criteria. In many situations, genuine multiobjective optimization is required to acquire comprehensive information about the system of interest. The most popular solution techniques are population-based metaheuristics, however, they are not practical for handling expensive electromagnetic (EM)-simulation models in microwave and antenna engineering. A workaround is to use auxiliary response surface approximation surrogates but it is challenging for higher-dimensional problems. Recently, a deterministic approach has been proposed for expedited multiobjective design optimization of expensive models in computational EMs. The method relies on variable-fidelity EM simulations, tracking the Pareto front geometry, as well as response correction. The algorithm sequentially generates Pareto-optimal designs using a series of constrained single-objective optimizations. The previously obtained design is used as a starting point for the next iteration. In this work, we review this technique and its modification based on space mapping surrogates. We also propose new variations exploiting adjoint sensitivities, as well as response features, which can be attractive depending on availability of derivatives or the characteristics of the system responses that need to be handled. We also discuss several case studies involving various antenna and microwave components.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying and prioritizing factors influencing the selection of the top suppliers of e-procurement using FDEMATEL and FANP
+AU  - Soleimani, Negar
+AU  - Valmohammadi, Changiz
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1002/mcda.1619
+DO  - 10.1002/mcda.1619
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 286
+EP  - 295
+VL  - 24
+IS  - 5-6
+KW  - electronic procurement
+KW  - fuzzy analytical network process (FANP)
+KW  - fuzzy DEMATEL
+KW  - Iran
+KW  - multicriteria decision making (MCDM)
+KW  - supplier selection
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/mcda.1619
+UR  - https://doi.org/10.1002/mcda.1619
+Y2  - 2020/10/28
+N2  - Abstract The aim of this study is to identify, rank, and determine the importance of factors influencing the selection of the top supplier of electronic procurement in organizations using a hybrid approach. This is a case study of Irancell Telecommunication Service Company in which fuzzy decision-making trial and evaluation (FDEMATEL) and fuzzy analytical network process (FANP) were used. FDEMATEL was employed to determine the interaction and interrelationships among the identified criteria and subcriteria, while utilizing FANP to calculate the weights of the criteria and their relevant subcriteria to determine their priorities. Therefore, the research literature was first reviewed to identify the factors influencing the selection of suppliers. For this purpose, the experts on communication networks were interviewed to select 16 final factors as the most important subcriteria that were then categorized as 5 groups (technology, environmental, services, organizational, and commercial) on which the study was based. After extracting the criteria for ranking the suppliers, codifying evaluation questionnaire, and converting the opinions in the Likert scale, 16 criteria were finally chosen with scores above the mean. FDEMATEL was used to determine the weights of subcriteria. In the final step, FANP was employed for prioritization. Results indicate that the organizational criterion is the most influential factor; however, the criterion services is the most permeable factor. The greatest weights were obtained from production capacity and provisions and geographical situation which were weighted 0.097 and 0.039, respectively. They are also regarded as the most and least important criteria for the selection of the top supplier of e-procurement by the experts.
+ER  - 
+
+TY  - JOUR
+T1  - Developing and Refining New Candidate Criteria for Systemic Lupus Erythematosus Classification: An International Collaboration
+AU  - Tedeschi, Sara K.
+AU  - Johnson, Sindhu R.
+AU  - Boumpas, Dimitrios
+AU  - Daikh, David
+AU  - Dörner, Thomas
+AU  - Jayne, David
+AU  - Kamen, Diane
+AU  - Lerstrøm, Kirsten
+AU  - Mosca, Marta
+AU  - Ramsey-Goldman, Rosalind
+AU  - Sinnette, Corine
+AU  - Wofsy, David
+AU  - Smolen, Josef S.
+AU  - Naden, Raymond P.
+AU  - Aringer, Martin
+AU  - Costenbader, Karen H.
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - doi: 10.1002/acr.23317
+DO  - 10.1002/acr.23317
+T2  - Arthritis Care & Research
+JF  - Arthritis Care & Research
+JO  - Arthritis Care & Research
+JA  - Arthritis Care Res
+SP  - 571
+EP  - 581
+VL  - 70
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/acr.23317
+UR  - https://doi.org/10.1002/acr.23317
+Y2  - 2020/10/28
+N2  - Objective To define candidate criteria within multiphase development of systemic lupus erythematosus (SLE) classification criteria, jointly supported by the American College of Rheumatology and the European League Against Rheumatism. Prior steps included item generation and reduction by Delphi exercise, further narrowed to 21 items in a nominal group technique exercise. Our objectives were to apply an evidence-based approach to the 21 candidate criteria, and to develop hierarchical organization of criteria within domains. Methods A literature review identified the sensitivity and specificity of the 21 candidate criteria. Data on the performance of antinuclear antibody (ANA) as an entry criterion and operating characteristics of the candidate criteria in early SLE patients were evaluated. Candidate criteria were hierarchically organized into clinical and immunologic domains, and definitions were refined in an iterative process. Results Based on the data, consensus was reached to use a positive ANA of ≥1:80 titer (HEp-2 cells immunofluorescence) as an entry criterion and to have 7 clinical and 3 immunologic domains, with hierarchical organization of criteria within domains. Definitions of the candidate criteria were specified. Conclusion Using a data-driven process, consensus was reached on new, refined criteria definitions and organization based on operating characteristics. This work will be followed by a multicriteria decision analysis exercise to weight criteria and to identify a threshold score for classification on a continuous probability scale.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation and selection of medical tourism sites: A rough analytic hierarchy process based multi-attributive border approximation area comparison approach
+AU  - Roy, Jagannath
+AU  - Chatterjee, Kajal
+AU  - Bandyopadhyay, Abhirup
+AU  - Kar, Samarjit
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1111/exsy.12232
+DO  - 10.1111/exsy.12232
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12232
+VL  - 35
+IS  - 1
+KW  - medical tourism
+KW  - multiple criteria decision-making
+KW  - R-AHP
+KW  - R-MABAC
+KW  - rough number
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1111/exsy.12232
+UR  - https://doi.org/10.1111/exsy.12232
+Y2  - 2020/10/28
+N2  - Abstract This paper presents a novel Multiple Criteria Decision Making methodology for assessing and prioritizing medical tourism destinations under uncertainty. A systematic evaluation and assessment approach is proposed by incorporating analytic hierarchy process and multi-attributive border approximation area comparison methods in the rough environment. Rough number is used to aggregate individual judgements of decision makers and express their true perception to handle vagueness without any prior information. Rough analytic hierarchy process analyses the relative importance of criteria based on their preferences given by experts, whereas rough multi-attributive border approximation area comparison evaluates the alternative sites based on the criteria weights. A case study of prioritizing different sites (cities) in India for medical tourism services is shown to demonstrate the applicability of the proposed method. Among different criteria ?quality of infrastructure of healthcare institutions? is observed to be the most important criteria in our analysis, followed by ?supply of skilled human resources and new job creations? and ?Chennai? is found to be the best medical tourism site in India. Finally, a comparative analysis and validity testing of the proposed method are elaborated, and the methodology provides a standard for select medical tourism sites on the basis of different criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Multicarrier energy systems: Optimization model based on real data and application to a case study
+AU  - Noussan, Michel
+AU  - Jarre, Matteo
+Y1  - 2018/03/10
+PY  - 2018
+DA  - 2018/03/10
+N1  - doi: 10.1002/er.3936
+DO  - 10.1002/er.3936
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+SP  - 1338
+EP  - 1351
+VL  - 42
+IS  - 3
+KW  - CHP
+KW  - data analysis
+KW  - energy conversion
+KW  - operation
+KW  - optimization model
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/er.3936
+UR  - https://doi.org/10.1002/er.3936
+Y2  - 2020/10/28
+N2  - Summary Multicarrier energy systems are increasingly used for a number of applications, among which the supply of electricity, heating, and cooling in buildings. The possibility of switching between different energy sources is a crucial advantage for the optimal fulfillment of the energy demand. The flexibility of these systems can benefit from the integration with smart grids, which have strong variations in time during their operation. The energy price is the parameter that is usually considered, but also the primary energy factor and the greenhouse gases emissions need to be accounted. This paper presents an application of an operational optimization method for a multicarrier energy system, based on real data?driven model and applied to different countries. The generation plant of a hospital is considered as case study, coping with multiple energy needs by relying on different conversion technologies. The optimal operation of the system shows a wide range of variability, depending on the chosen objective function, the hour of the day, the season, and the country. The results are affected mostly by the energy mix of the electricity supplied from the power grid, which has a direct influence on the primary energy consumption and the greenhouse gases emissions and an indirect influence on the electricity prices.
+ER  - 
+
+TY  - JOUR
+T1  - Distance Measure of Pythagorean Fuzzy Sets
+AU  - Li, Deqing
+AU  - Zeng, Wenyi
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - doi: 10.1002/int.21934
+DO  - 10.1002/int.21934
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 348
+EP  - 361
+VL  - 33
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/int.21934
+UR  - https://doi.org/10.1002/int.21934
+Y2  - 2020/10/28
+N2  - Abstract The main feature of Pythagorean fuzzy sets is that it is characterized by four parameters, namely membership degree, nonmembership degree, strength of commitment about membership, and direction of commitment. In this paper, we propose a variety of distance measures for Pythagorean fuzzy sets and Pythagorean fuzzy numbers, which take into account the four parameters of Pythagorean fuzzy sets. Finally, a numerical example is provided to illustrate the validity and applicability of the presented distance measures.
+ER  - 
+
+TY  - JOUR
+T1  - Contents: Biometrical Journal 3'17
+Y1  - 2017/05/01
+PY  - 2017
+DA  - 2017/05/01
+N1  - doi: 10.1002/bimj.201770034
+DO  - 10.1002/bimj.201770034
+T2  - Biometrical Journal
+JF  - Biometrical Journal
+JO  - Biometrical Journal
+JA  - Biom. J.
+VL  - 59
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/bimj.201770034
+UR  - https://doi.org/10.1002/bimj.201770034
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - A multicriteria framework for inventory classification and control with application to intermittent demand
+AU  - Lolli, F.
+AU  - Ishizaka, A.
+AU  - Gamberini, R.
+AU  - Rimini, B.
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1002/mcda.1620
+DO  - 10.1002/mcda.1620
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 275
+EP  - 285
+VL  - 24
+IS  - 5-6
+KW  - AHP
+KW  - intermittent demand
+KW  - multicriteria inventory classification
+KW  - reorder policies
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/mcda.1620
+UR  - https://doi.org/10.1002/mcda.1620
+Y2  - 2020/10/28
+N2  - Abstract Several papers have studied inventory classification in order to group items with a view to facilitating their management. The generated classes are then coupled with the specific reorder policies composing the overall inventory control system. However, the effectiveness of inventory classification and control system is strictly interrelated. That is to say, different classification approaches could show different performance if applied to a different set of reorder policies, and vice versa. Furthermore, when the cost structure is subjected to uncertainty, a pure cost-based analysis of the inventory control system could be corrupted. This paper presents a multicriteria framework for the concurrent selection of the item classification approach and the inventory control system through a discrete-event simulation approach. The key performance indicators provided by the simulator (i.e., average holding value, average number of backorders, and average number of emitted orders) are indicative of the multidimensional effectiveness of the adopted inventory control system when coupled with a specific classification approach. By this way, a multicriteria problem arises, where the alternatives are given by exhaustively coupling the item classes, which are generated by different classification approaches, with the reorder policies composing the inventory system. An analytical hierarchy process is then used for selecting the best alternative, as well as for evaluating the effect of the weights assigned to the key performance indicators through a sensitivity analysis. This approach has been validated in a real case study with a company operating in the field of electrical resistor manufacturing, with a view of facilitating the management of items showing intermittent demand.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria ABC inventory classification using acceptability analysis
+AU  - Li, Zhi
+AU  - Wu, Xunbo
+AU  - Liu, Fan
+AU  - Fu, Yelin
+AU  - Chen, Ke
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - doi: 10.1111/itor.12412
+DO  - 10.1111/itor.12412
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 2494
+EP  - 2507
+VL  - 26
+IS  - 6
+KW  - ABC inventory classification
+KW  - stochastic multicriteria acceptability analysis
+KW  - preference
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1111/itor.12412
+UR  - https://doi.org/10.1111/itor.12412
+Y2  - 2020/10/28
+N2  - Abstract This paper introduces a new procedure for handling the multicriteria ABC inventory classification problem using stochastic multicriteria acceptability analysis. All possible preferences among the evaluation criteria have been considered. Due to the fact that even under certain preference, it is difficult to reach a group consensus on the exact weight values along with each criterion, we calculate preference-specific intervals under each preference and then formulate a stochastic decision-making problem. To tackle this problem, we consider different distribution functions of the intervals and then compute the holistic acceptability indices to classify stock-keeping units. The results derived from our method are compared to the previous results to show the robustness and superiority of our method.
+ER  - 
+
+TY  - JOUR
+T1  - Security risk assessment and management in chemical plants: Challenges and new trends
+AU  - Khakzad, Nima
+AU  - Martinez, Imee Su
+AU  - Kwon, Hyuck-Myun
+AU  - Stewart, Constantine
+AU  - Perera, Rohan
+AU  - Reniers, Genserik
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - doi: 10.1002/prs.11914
+DO  - 10.1002/prs.11914
+T2  - Process Safety Progress
+JF  - Process Safety Progress
+JO  - Process Safety Progress
+JA  - Proc. Safety Prog.
+SP  - 211
+EP  - 220
+VL  - 37
+IS  - 2
+KW  - security vulnerability assessment
+KW  - chemical plants
+KW  - mutually interactive parameters
+KW  - Bayesian network
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/prs.11914
+UR  - https://doi.org/10.1002/prs.11914
+Y2  - 2020/10/28
+N2  - The present study is to point out the outcomes of the Seminar on the Chemical Weapon Convention and Chemical Safety and Security Management for Member States in the Asia Region held by Organization for the Prohibition of Chemical Weapons in Doha, Qatar, in February 2017. The seminar was aimed at supporting chemical safety and security (CSS) management in the chemical industry in Asian countries. Overall goal was to sensitize States Parties to the new approaches that can be adopted in relation to CSS management, with a particular focus on providing assistance to small and medium-sized enterprises. This article reflects the observations made by keynote speakers via their interaction with participants from Asian State Parties during presentations' questions & answers sessions and following workshops. The article is an attempt to highlight the challenges in security risk assessment and management of chemical facilities and discuss some new trends for further improvements. ? 2017 American Institute of Chemical Engineers Process Saf Prog 37: 211?220, 2018
+ER  - 
+
+TY  - JOUR
+T1  - The Essential Elements of a Risk Governance Framework for Current and Future Nanotechnologies
+AU  - Stone, Vicki
+AU  - Führ, Martin
+AU  - Feindt, Peter H.
+AU  - Bouwmeester, Hans
+AU  - Linkov, Igor
+AU  - Sabella, Stefania
+AU  - Murphy, Finbarr
+AU  - Bizer, Kilian
+AU  - Tran, Lang
+AU  - Ågerstrand, Marlene
+AU  - Fito, Carlos
+AU  - Andersen, Torben
+AU  - Anderson, Diana
+AU  - Bergamaschi, Enrico
+AU  - Cherrie, John W.
+AU  - Cowan, Sue
+AU  - Dalemcourt, Jean-Francois
+AU  - Faure, Michael
+AU  - Gabbert, Silke
+AU  - Gajewicz, Agnieszka
+AU  - Fernandes, Teresa F.
+AU  - Hristozov, Danail
+AU  - Johnston, Helinor J.
+AU  - Lansdown, Terry C.
+AU  - Linder, Stefan
+AU  - Marvin, Hans J. P.
+AU  - Mullins, Martin
+AU  - Purnhagen, Kai
+AU  - Puzyn, Tomasz
+AU  - Sanchez Jimenez, Araceli
+AU  - Scott-Fordsmand, Janeck J.
+AU  - Streftaris, George
+AU  - van Tongeren, Martie
+AU  - Voelcker, Nicolas H.
+AU  - Voyiatzis, George
+AU  - Yannopoulos, Spyros N.
+AU  - Poortvliet, P. Marijn
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - doi: 10.1111/risa.12954
+DO  - 10.1111/risa.12954
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1321
+EP  - 1331
+VL  - 38
+IS  - 7
+KW  - Decision making
+KW  - nano-regulation
+KW  - risk communication
+KW  - risk governance
+KW  - risk management
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1111/risa.12954
+UR  - https://doi.org/10.1111/risa.12954
+Y2  - 2020/10/28
+N2  - Abstract Societies worldwide are investing considerable resources into the safe development and use of nanomaterials. Although each of these protective efforts is crucial for governing the risks of nanomaterials, they are insufficient in isolation. What is missing is a more integrative governance approach that goes beyond legislation. Development of this approach must be evidence based and involve key stakeholders to ensure acceptance by end users. The challenge is to develop a framework that coordinates the variety of actors involved in nanotechnology and civil society to facilitate consideration of the complex issues that occur in this rapidly evolving research and development area. Here, we propose three sets of essential elements required to generate an effective risk governance framework for nanomaterials. (1) Advanced tools to facilitate risk-based decision making, including an assessment of the needs of users regarding risk assessment, mitigation, and transfer. (2) An integrated model of predicted human behavior and decision making concerning nanomaterial risks. (3) Legal and other (nano-specific and general) regulatory requirements to ensure compliance and to stimulate proactive approaches to safety. The implementation of such an approach should facilitate and motivate good practice for the various stakeholders to allow the safe and sustainable future development of nanotechnology.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating Environmental and Social Life Cycle Assessment: Asking the Right Question
+AU  - Suckling, James R
+AU  - Lee, Jacquetta
+Y1  - 2017/12/01
+PY  - 2017
+DA  - 2017/12/01
+N1  - doi: 10.1111/jiec.12565
+DO  - 10.1111/jiec.12565
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 1454
+EP  - 1463
+VL  - 21
+IS  - 6
+KW  - end-of-life product
+KW  - industrial ecology
+KW  - life cycle assessment (LCA)
+KW  - mobile phone
+KW  - recycling
+KW  - reuse
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1111/jiec.12565
+UR  - https://doi.org/10.1111/jiec.12565
+Y2  - 2020/10/28
+N2  - Summary Mobile phones offer many potential social benefits throughout their lifetime, but this life is often much shorter than design intent. Reuse of the phone in a developing country allows these social benefits to be fully realized. Unfortunately, under the current state of development of recycling infrastructure, recovery rates of phones after reuse are very low in those markets, which may lead to an environmental burden attributed to loss of materials to landfill. In order to recover those materials most effectively, recycling in developed countries may be the best option, but at a cost of the ability to reuse the phones. The issues facing integration of social and environmental concerns into a single life cycle assessment (LCA) and resulting challenges of identifying the disposal option with the most sustainable outcome are explored using mobile phones as a case study. These include obtaining sufficient geographical and temporal detail of the end-of-life options, collation and analysis of the large amounts of data generated, and weighting of the disparate environmental and social impact categories. The numerous challenges may mount up to make performing LCA of mobile phones unwieldy. Instead of trying to encompass every aspect in full, it is proposed that focus is given to answering a question that takes into account the resources available: It is important to ask the question that has the best chance of being answered.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring the social responsibility of European companies: a goal programming approach
+AU  - García-Martínez, Gabriel
+AU  - Guijarro, Francisco
+AU  - Poyatos, Juan A.
+Y1  - 2019/05/01
+PY  - 2019
+DA  - 2019/05/01
+N1  - doi: 10.1111/itor.12438
+DO  - 10.1111/itor.12438
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 1074
+EP  - 1095
+VL  - 26
+IS  - 3
+KW  - social behavior
+KW  - EIRIS, goal programming
+KW  - dimensionality reduction
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1111/itor.12438
+UR  - https://doi.org/10.1111/itor.12438
+Y2  - 2020/10/28
+N2  - Abstract Corporate social responsibility (CSR) can be measured by a number of different criteria, some of which are similar to each other, while others can be manifestly contrary to the general tendency. This means that some companies can obtain a good valuation in some criteria but a bad valuation in others, which makes it difficult to assess the company's overall CSR valuation. It is not easy to find a single measure that covers all aspects of corporate social performance. This paper aims to estimate multicriteria CSR performance through different models of goal programming and by taking into account all the dimensions that make up CSR. An illustrative example shows the result of applying these models to a database composed of 212 European companies, which enabled us to identify the most socially responsible group, regardless of the approach considered in the construction of the multicriteria performance. The results show that environmental and corporate governance dimensions are the most important elements in measuring this performance.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying outlier opinions in an online intelligent argumentation system
+AU  - Arvapally, Ravi S.
+AU  - Liu, Xiaoqing Frank
+AU  - Nah, Fiona Fui-Hoon
+AU  - Jiang, Wei
+Y1  - 2017/04/27
+PY  - 2017
+DA  - 2017/04/27
+N1  - doi: 10.1002/cpe.4107
+DO  - 10.1002/cpe.4107
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat: Pract Exper
+SP  - e4107
+VL  - n/a
+IS  - n/a
+KW  - argumentation
+KW  - computer-supported collaborative work
+KW  - decision support
+KW  - human-centered computing
+KW  - outlier opinion detection
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/cpe.4107
+UR  - https://doi.org/10.1002/cpe.4107
+Y2  - 2020/10/28
+N2  - Summary Online argumentation systems enable stakeholders to post their problems under consideration and solution alternatives and to exchange arguments over the alternatives posted in an argumentation tree. In an argumentation process, stakeholders have their own opinions, which very often contrast and conflict with opinions of others. Some of these opinions may be outliers with respect to the mean group opinion. This paper presents a method for identifying stakeholders with outlier opinions in an argumentation process. It detects outlier opinions on the basis of individual stakeholder's opinions, as well as collective opinions on them from other stakeholders. Decision makers and other participants in an argumentation process therefore have an opportunity to explore the outlier opinions within their groups from both individual and group perspectives. In a large argumentation tree, it is often difficult to identify stakeholders with outlier opinions manually. The system presented in this paper identifies them automatically. Experiments are presented to evaluate the proposed method. Their results show that the method detects outlier opinions in an online argumentation process effectively.
+ER  - 
+
+TY  - JOUR
+T1  - Pythagorean Fuzzy LINMAP Method Based on the Entropy Theory for Railway Project Investment Decision Making
+AU  - Xue, Wenting
+AU  - Xu, Zeshui
+AU  - Zhang, Xiaolu
+AU  - Tian, Xiaoli
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - doi: 10.1002/int.21941
+DO  - 10.1002/int.21941
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 93
+EP  - 125
+VL  - 33
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118786352
+M3  - doi: 10.1002/int.21941
+UR  - https://doi.org/10.1002/int.21941
+Y2  - 2020/10/28
+N2  - Abstract The uncertainty and complexity of the decision-making environment and the subjectivity of the decision makers will lead to the inevitable errors of the decision-making data. A poor decision will be produced with those errors, whereas the linear programming technique for multidimensional analysis of preference (LINMAP) method can adjust such errors through constructing an optimal programming model based on the consistency of the decision-making information, and it has been applied widely in multiple attribute group decision making (MAGDM). Moreover, Pythagorean fuzzy information is useful to simulate the ambiguous and uncertain decision-making environment. Therefore, the LINMAP method under the Pythagorean fuzzy circumstance will be proposed in this paper to solve MAGDM problems. To measure the fuzziness and uncertainty of Pythagorean fuzzy set (PFS) and interval-valued PFS, Pythagorean fuzzy entropy (PFE) and interval-valued PFE (IVPFE) grounded on the similarity and hesitancy parts have been defined, respectively. Then, Pythagorean fuzzy LINMAP (PF LINMAP) methods are constructed on the basis of the PFE and IVPFE correspondingly. Under the given preference relations, the maximum consistency and the amount of knowledge can be realized by the proposed methods. After investigating the relevant indicator system, the decision-making problem concerning railway project investment has been solved through the proposed PF LINMAP method with PFE. Finally, the practicability and effectiveness of the PF LINMAP method has been verified via the comparative analysis with the existing methods.
+ER  - 
+
+AU  - Ascough II, James C.
+AU  - Flanagan, Dennis C.
+AU  - Tatarko, John
+AU  - Nearing, Mark A.
+AU  - Kipka, Holm
+PY  - 2018
+Y1  - 2018/01/01
+DA  - 2018/01/01
+Y2  - 2020/10/28
+DO  - doi:10.2134/agronmonogr59.c1
+UR  - https://doi.org/10.2134/agronmonogr59.c1
+N1  - doi:10.2134/agronmonogr59.c1
+M3  - doi:10.2134/agronmonogr59.c1
+N2  - Summary Accelerated soil erosion induced by human activities is a primary cause of soil degradation worldwide. The main driver behind the problem is agriculture, and at stake is the long-term sustainability of global agricultural production capacity. Barring major, unforeseen scientific advances in the future, and if soil erosion and population growth remain unconstrained from their current rates, humankind may eventually lose the ability to feed itself. A significant problem associated with soil erosion is off-site sediment pollution. Costs related to the delivery of sediment to streams and other water bodies worldwide are enormous. Simulation modeling is one of the most powerful scientific tools available to address questions, assess alternatives, and support decision making for natural resource management. Over the past three decades, a number of erosion models with varying levels of complexity have been developed to address a wide range of environmental issues and describe/understand the behavior of land and water systems under prevailing and projected land use and climate conditions. They are increasingly used to evaluate potential water and air quality impacts of pollution control strategies, including agricultural practices. For example, process-based models are commonly used to assess field- to watershed-scale management practice effects (including conservation practices) on both on-site and off-site erosion concerns. Selection, development, and application of erosion models should be conducted according to the intended modeling purpose, i.e., prediction, exploratory analysis, or knowledge building. Whatever the modeling purpose, the key issue is establishing reasonable practical credibility in the model-based analysis. This book chapter focuses on models of soil erosion as they are used for purposes of soil conservation planning. In particular, we concentrate here primarily on soil erosion by water but will also briefly touch on models of other agricultural erosion processes, such as wind erosion, that apply similar principles for modeling and conservation planning.
+SP  - 1-25
+KW  - AnnAGNPS
+KW  - Annualized Agricultural Non-Point Source
+KW  - APEX
+KW  - Agricultural Policy/Environmental extender
+KW  - GIS
+KW  - geographic information systems
+KW  - RHEM
+KW  - Rangeland Hydrology and Erosion Model
+KW  - RS
+KW  - remote sensing
+KW  - RUSLE
+KW  - Revised Universal Soil Loss Equation
+KW  - SWAT
+KW  - Soil and Water Assessment Tool
+KW  - USLE
+KW  - Universal Soil Loss Equation
+KW  - WEPP
+KW  - Water Erosion Prediction Project
+KW  - WEPS
+KW  - Wind Erosion Prediction System
+T1  - Soil Erosion Modeling and Conservation Planning
+T2  - Precision Conservation: Geospatial Techniques for Agricultural and Natural Resources Conservation
+T3  - Agronomy Monographs
+SN  - 9780891183563
+
+TY  - JOUR
+T1  - Guidance on the use of the weight of evidence approach in scientific assessments
+AU  - EFSA Scientific Committee
+AU  - Hardy, Anthony
+AU  - Benford, Diane
+AU  - Halldorsson, Thorhallur
+AU  - Jeger, Michael John
+AU  - Knutsen, Helle Katrine
+AU  - More, Simon
+AU  - Naegeli, Hanspeter
+AU  - Noteborn, Hubert
+AU  - Ockleford, Colin
+AU  - Ricci, Antonia
+AU  - Rychen, Guido
+AU  - Schlatter, Josef R
+AU  - Silano, Vittorio
+AU  - Solecki, Roland
+AU  - Turck, Dominique
+AU  - Benfenati, Emilio
+AU  - Chaudhry, Qasim Mohammad
+AU  - Craig, Peter
+AU  - Frampton, Geoff
+AU  - Greiner, Matthias
+AU  - Hart, Andrew
+AU  - Hogstrand, Christer
+AU  - Lambre, Claude
+AU  - Luttik, Robert
+AU  - Makowski, David
+AU  - Siani, Alfonso
+AU  - Wahlstroem, Helene
+AU  - Aguilera, Jaime
+AU  - Dorne, Jean-Lou
+AU  - Fernandez Dumont, Antonio
+AU  - Hempen, Michaela
+AU  - Valtueña Martínez, Silvia
+AU  - Martino, Laura
+AU  - Smeraldi, Camilla
+AU  - Terron, Andrea
+AU  - Georgiadis, Nikolaos
+AU  - Younes, Maged
+Y1  - 2017/08/01
+PY  - 2017
+DA  - 2017/08/01
+N1  - doi: 10.2903/j.efsa.2017.4971
+DO  - 10.2903/j.efsa.2017.4971
+T2  - EFSA Journal
+JF  - EFSA Journal
+JO  - EFSA Journal
+JA  - EFSA Journal
+SP  - e04971
+VL  - 15
+IS  - 8
+KW  - risk assessment
+KW  - weight of evidence
+KW  - biological relevance
+KW  - uncertainty
+KW  - lines of evidence
+PB  - John Wiley & Sons, Ltd
+SN  - 9780891183563
+M3  - doi: 10.2903/j.efsa.2017.4971
+UR  - https://doi.org/10.2903/j.efsa.2017.4971
+Y2  - 2020/10/28
+N2  - Abstract EFSA requested the Scientific Committee to develop a guidance document on the use of the weight of evidence approach in scientific assessments for use in all areas under EFSA's remit. The guidance document addresses the use of weight of evidence approaches in scientific assessments using both qualitative and quantitative approaches. Several case studies covering the various areas under EFSA's remit are annexed to the guidance document to illustrate the applicability of the proposed approach. Weight of evidence assessment is defined in this guidance as a process in which evidence is integrated to determine the relative support for possible answers to a question. This document considers the weight of evidence assessment as comprising three basic steps: (1) assembling the evidence into lines of evidence of similar type, (2) weighing the evidence, (3) integrating the evidence. The present document identifies reliability, relevance and consistency as three basic considerations for weighing evidence.
+ER  - 
+
+TY  - JOUR
+T1  - 2017 ACR/ARHP Annual Meeting Abstract Supplement
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - doi: 10.1002/art.40321
+DO  - 10.1002/art.40321
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+SP  - 1
+EP  - 4481
+VL  - 69
+IS  - S10
+PB  - John Wiley & Sons, Ltd
+SN  - 9780891183563
+M3  - doi: 10.1002/art.40321
+UR  - https://doi.org/10.1002/art.40321
+Y2  - 2020/10/28
+N2  - Abstract For a searchable version of these abstracts, please visit www.acrabstracts.org.
+ER  - 
+
+TY  - JOUR
+T1  - Oral Presentation Sessions
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - doi: 10.1111/tmi.12978
+DO  - 10.1111/tmi.12978
+T2  - Tropical Medicine & International Health
+JF  - Tropical Medicine & International Health
+JO  - Tropical Medicine & International Health
+JA  - Trop Med Int Health
+SP  - 2
+EP  - 114
+VL  - 22
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9780891183563
+M3  - doi: 10.1111/tmi.12978
+UR  - https://doi.org/10.1111/tmi.12978
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - XLIV ESAO and VII IFAO Congress, 6-9 September 2017, Vienna, Austria
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - doi: 10.1111/aor.13019
+DO  - 10.1111/aor.13019
+T2  - Artificial Organs
+JF  - Artificial Organs
+JO  - Artificial Organs
+JA  - Artificial Organs
+SP  - A1
+EP  - A81
+VL  - 41
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 9780891183563
+M3  - doi: 10.1111/aor.13019
+UR  - https://doi.org/10.1111/aor.13019
+Y2  - 2020/10/28
+ER  - 

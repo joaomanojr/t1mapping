@@ -1,0 +1,63 @@
+#!/bin/bash
+
+all_year_hits=0
+
+all_acm_hits=0
+all_ieee_hits=0
+all_wile_hits=0
+all_scid_hits=0
+all_scop_hits=0
+all_spri_hits=0
+
+
+
+for year in 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+do
+	year_hits=0
+	printf "Year: %s\n" $year
+	printf -- "----------------------------------------\n"
+	cd $year
+
+	# account ACM hits
+	acm_hits=$(grep -Irn "author =" acm* | wc -l)
+	printf "ACM hits: %d\n" $acm_hits
+	year_hits=$(($year_hits + $acm_hits))
+
+	# account IEEE hits
+	ieee_hits=$(grep -Irn "TY  -" IEE* | wc -l)
+	printf "IEEE hits: %d\n" $ieee_hits
+	year_hits=$(($year_hits + $ieee_hits))
+
+	# account ScienceDirect hits
+	scid_hits=$(grep -Irn "TY  -" Sci* | wc -l)
+	printf "ScienceDirect hits: %d\n" $scid_hits
+	year_hits=$(($year_hits + $scid_hits))
+
+	# account scopus hits
+	scop_hits=$(grep -Irn "TY  -" scopus* | wc -l)
+	printf "Scopus hits: %d\n" $scop_hits
+	year_hits=$(($year_hits + $scop_hits))
+
+	# account springer hits (minus 1 to remove header line, assume 2 files per year) *** not reliable!! ***
+	# sprc_hits=$(cat SearchResults*.csv | echo $(($(wc -l) - 2)))
+	# printf "Springer hits (csv): %d\n" $sprc_hits
+	spri_hits=$(grep -Irn "author =" SearchR* | wc -l)
+	printf "Springer hits (bib): %d\n" $spri_hits
+	year_hits=$(($year_hits + $spri_hits))
+
+	# account Wiley hits
+	wile_hits=$(grep -Irn "TY  -" per* | wc -l)
+	printf "Wiley hits: %d\n" $wile_hits
+	year_hits=$(($year_hits + $wile_hits))
+
+	printf -- "----------------------------------------\n"
+	printf "Total %s hits: %d\n" $year $year_hits
+	printf -- "----------------------------------------\n\n"
+	all_year_hits=$(($all_year_hits + $year_hits))
+	cd ..
+done
+
+printf -- "----------------------------------------\n"
+printf "Total all year hits: %d\n" $all_year_hits
+printf -- "----------------------------------------\n"
+

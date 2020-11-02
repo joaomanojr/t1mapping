@@ -1,0 +1,1041 @@
+TY  - JOUR
+T1  - Assessing and managing sediment contamination in transitional waters
+AU  - Chapman, Peter M.
+AU  - Wang, Feiyue
+AU  - Caeiro, Sandra Sofia
+JO  - Environment International
+VL  - 55
+SP  - 71
+EP  - 91
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 0160-4120
+DO  - https://doi.org/10.1016/j.envint.2013.02.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0160412013000482
+KW  - Estuaries
+KW  - Lagoons
+KW  - Contaminants
+KW  - Toxicity
+KW  - Bioindicators
+KW  - Biomarkers
+AB  - Sediment contamination remains a global problem, particularly in transitional waters such as estuaries and coastal lagoons, which are the recipients of chemicals from multiple near- and far-field sources. Although transitional waters are highly productive ecosystems, approaches for assessing and managing their sediment contamination are not as well developed as in marine and fresh waters. Further, although transitional waters remain defined by their variable and unique natural water quality characteristics, particularly salinity, the biota inhabiting such ecosystems, once thought to be defined by Remane's “paradox of brackish water”, are being redefined. The purpose of the present paper is to build on an earlier but now dated (>12years old) review of methods to assess sediment contamination in estuaries, extending this to all transitional waters, including information on integrative assessments and on management decision-making. The following are specifically discussed: chemical assessments; bioindicators; biomarkers; and, biological surveys. Assessment and management of sediment contamination in transitional waters need to be focused on ecosystem services and, where appropriate and possible, be proactive rather than reactive when uncertainty has been suitably reduced.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial prediction of flood susceptible areas using rule based decision tree (DT) and a novel ensemble bivariate and multivariate statistical models in GIS
+AU  - Tehrany, Mahyat Shafapour
+AU  - Pradhan, Biswajeet
+AU  - Jebur, Mustafa Neamah
+JO  - Journal of Hydrology
+VL  - 504
+SP  - 69
+EP  - 79
+PY  - 2013
+DA  - 2013/11/11/
+SN  - 0022-1694
+DO  - https://doi.org/10.1016/j.jhydrol.2013.09.034
+UR  - http://www.sciencedirect.com/science/article/pii/S0022169413006872
+KW  - Flood susceptibility
+KW  - Decision tree (DT)
+KW  - Ensemble
+KW  - GIS
+KW  - Remote sensing
+KW  - Malaysia
+AB  - Summary
+Flood is one of the natural hazards which occur all over the world and it is critical to be controlled through proper management. Severe flood events in Kelantan, Malaysia cause damage to both life and property every year, and therefore the development of flood model to recognize the susceptible areas in watersheds is important for decision makers. Remote sensing (RS) and geographic information system (GIS) techniques could be useful in hydrological studies while they are able to fulfill all the requirements for comprehensive, rapid and accurate analysis. The aim of the current research is to compare the prediction performances of two different approaches such as rule-based decision tree (DT) and combination of frequency ratio (FR) and logistic regression (LR) statistical methods for flood susceptibility mapping at Kelantan, Malaysia. DT is based on the rules which are created precisely and strongly by considering all the characteristics of the variables which can enhance the performance of the flood susceptibility mapping. On the other hand, LR as multivariate statistical analysis (MSA) has some weak points. For that reason, FR was used to analyze the impact of classes of each variable on flood occurrence and overcome the weakness of LR. At first, flood inventory map with a total of 155 flood locations was extracted from various sources over the part of the Kelantan. Then the flood inventory data was randomly divided into a testing dataset 70% (115 flood locations) for training the models and the remaining 30% (40 flood locations) was used for validation purpose. The spatial database includes digital elevation model (DEM), curvature, geology, river, stream power index (SPI), rainfall, land use/cover (LULC), soil type, topographic wetness index (TWI) and slope. For validation both success and prediction rate curves were performed. The validation results showed that, area under the curve for the results of DT and integrated method of FR and LR was 87% and 90% for success rate and 82% and 83% for prediction rate respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Bi-objective feature selection for discriminant analysis in two-class classification
+AU  - Pacheco, Joaquı´n
+AU  - Casado, Silvia
+AU  - Angel-Bello, Francisco
+AU  - Álvarez, Ada
+JO  - Knowledge-Based Systems
+VL  - 44
+SP  - 57
+EP  - 64
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2013.01.019
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705113000312
+KW  - Classification
+KW  - Discriminant analysis
+KW  - Feature selection
+KW  - Bi-objective optimization
+KW  - NSGA-II algorithm
+AB  - This works deals with the problem of selecting variables (features) that are subsequently used in discriminant analysis. The aim is to find, from a set of m variables, smaller subsets which enable an efficient classification of cases in two classes. We consider two objectives, each one associated with the misclassification error in each class (type I and type II errors). Thus, we establish a bi-objective problem and develop an algorithm based on the NSGA-II strategy to this specific problem, in order to obtain a set of non-dominated solutions. Managing these two objectives separately (and not jointly) allows an enhanced analysis of the obtained solutions by observing the approach to efficient frontier. This is especially significant when each type of error has a different level of importance or when they cannot be compared. To illustrate these issues, several known databases from literature are used, as well as an additional database with several Spanish firms featured by financial variables and two classes: “creditworthy” and “non-creditworthy”. Finally, we show that when solutions obtained by our NSGA-II implementation are evaluated from the classic mono-objective perspective (minimizing the ratio of both error types jointly) they are better than those obtained by classic methods for feature selection and similar than those provided by other recently published methods.
+ER  - 
+
+TY  - JOUR
+T1  - Connotative land degradation mapping: A knowledge-based approach to land degradation assessment
+AU  - Bojórquez-Tapia, Luis A.
+AU  - Cruz-Bello, Gustavo M.
+AU  - Luna-González, Laura
+JO  - Environmental Modelling & Software
+VL  - 40
+SP  - 51
+EP  - 64
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2012.07.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1364815212002071
+KW  - GIS-MCDA
+KW  - ANP
+KW  - Fuzzy pattern recognition
+KW  - Geo-visualization
+KW  - Land degradation
+KW  - Mexico
+AB  - Land degradation mapping is a problem-solving task that aims to provide information for allocating budgets and materials to counter the deterioration of land resources. Typically, it entails the implementation of a set of indicators in a GIS to appraise the severity of land degradation across a territory. Nevertheless, the selection of these indicators has proved to be challenging in practice and often this selection reflects one particular and thus limited perspective of land degradation. Because land degradation is intrinsically complex and involves decisions by many agencies and individuals, land degradation mapping should be used as a learning tool through which managers, experts and stakeholders can re-examine their views within a wider semantic context. In this paper, we introduce an analytical framework, called Connotative Land Degradation Mapping, which aims to depict the meaning of a multiplicity of interacting drivers and effects The CLDM entails the implementation of (1) geographic information systems and multicriteria decision analysis (GIS-MCDA), and (2) geo-visualization. The approach is illustrated through a case study of two urban watersheds in central Mexico. Results showed that the main land degradation drivers in the study area were related to natural processes, which were exacerbated by human activities. The output of the CLDM enabled a better communication of the land degradation issues and concerns in a way relevant for policymakers.
+ER  - 
+
+TY  - JOUR
+T1  - Finding academic experts on a multisensor approach using Shannon’s entropy
+AU  - Moreira, Catarina
+AU  - Wichert, Andreas
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 14
+SP  - 5740
+EP  - 5754
+PY  - 2013
+DA  - 2013/10/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2013.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417413002388
+KW  - Data fusion
+KW  - Dempster–Shafer
+KW  - Shannon’s entropy
+KW  - Expert finding
+AB  - Expert finding is an information retrieval task concerned with the search for the most knowledgeable people, in some topic, with basis on documents describing peoples activities. The task involves taking a user query as input and returning a list of people sorted by their level of expertise regarding the user query. This paper introduces a novel approach for combining multiple estimators of expertise based on a multisensor data fusion framework together with the Dempster–Shafer theory of evidence and Shannon’s entropy. More specifically, we defined three sensors which detect heterogeneous information derived from the textual contents, from the graph structure of the citation patterns for the community of experts, and from profile information about the academic experts. Given the evidences collected, each sensor may define different candidates as experts and consequently do not agree in a final ranking decision. To deal with these conflicts, we applied the Dempster–Shafer theory of evidence combined with Shannon’s Entropy formula to fuse this information and come up with a more accurate and reliable final ranking list. Experiments made over two datasets of academic publications from the Computer Science domain attest for the adequacy of the proposed approach over the traditional state of the art approaches. We also made experiments against representative supervised state of the art algorithms. Results revealed that the proposed method achieved a similar performance when compared to these supervised techniques, confirming the capabilities of the proposed framework.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy multiobjective nonlinear operation planning in district heating and cooling plants
+AU  - Sakawa, Masatoshi
+AU  - Matsui, Takeshi
+JO  - Fuzzy Sets and Systems
+VL  - 231
+SP  - 58
+EP  - 69
+PY  - 2013
+DA  - 2013/11/16/
+T2  - Theme: Optimization and games
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2011.10.020
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011411005148
+KW  - District heating and cooling plant
+KW  - Operation planning
+KW  - Nonlinear programming
+KW  - Interactive fuzzy satisficing method
+KW  - Particle swarm optimization
+AB  - This paper formulates an operation planning problem of an actual district heating and cooling plant as a multiobjective nonlinear programming problem. For the formulated multiobjective nonlinear programming problem, an interactive fuzzy satisficing method to derive a satisficing solution for the decision maker is presented. Observing the problem is nonconvex and involves hundreds of decision variables, an approximate solution method through particle swarm optimization for nonlinear programming is introduced. Using the operation planning problem of an actual district heating and cooling plant, the feasibility and effectiveness of the proposed method are investigated.
+ER  - 
+
+TY  - JOUR
+T1  - Useful tools for non-linear systems: Several non-linear integral inequalities
+AU  - Agahi, Hamzeh
+AU  - Mohammadpour, Adel
+AU  - Mesiar, Radko
+AU  - Mansour Vaezpour, S.
+JO  - Knowledge-Based Systems
+VL  - 49
+SP  - 73
+EP  - 80
+PY  - 2013
+DA  - 2013/09/01/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2013.04.016
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705113001366
+KW  - Monotone measure
+KW  - Universal integral
+KW  - Integral inequalities
+KW  - Comonotone functions
+AB  - Integral inequalities play important roles in classical probability and measure theory. Universal integrals provide a useful tool in many problems in engineering and non-linear systems where the aggregation of data is required. We discuss several inequalities including Hardy, Berwald, Barnes–Godunova–Levin, Markov and Chebyshev for a monotone measure-based universal integral. Some recent results are obtained as corollaries. Finally, we provide some applications of our results in intelligent decision support systems, estimation and information fusion.
+ER  - 
+
+TY  - CHAP
+T1  - 4.05 - Chemometrics in QSAR
+AU  - Todeschini, R.
+AU  - Consonni, V.
+AU  - Gramatica, P.
+A2  - Brown, Steven D.
+A2  - Tauler, Romá
+A2  - Walczak, Beata
+BT  - Comprehensive Chemometrics
+PB  - Elsevier
+CY  - Oxford
+SP  - 129
+EP  - 172
+PY  - 2009
+DA  - 2009/01/01/
+SN  - 978-0-444-52701-1
+DO  - https://doi.org/10.1016/B978-044452701-1.00007-7
+UR  - http://www.sciencedirect.com/science/article/pii/B9780444527011000077
+KW  - applicability domain
+KW  - consensus analysis
+KW  - Free–Wilson approach
+KW  - genetic algorithms
+KW  - group contribution methods
+KW  - Hansch approach
+KW  - -multivariate correlation
+KW  - model distance
+KW  - molecular descriptors
+KW  - prediction ability
+KW  - QSAR
+KW  - QSPR
+KW  - quantitative structure–activity relationships
+KW  - quantitative structure–property relationships
+KW  - validation techniques
+KW  - variable selection
+AB  - Quantitative Structure–Activity Relationships (QSARs) and Quantitative Structure–Property Relationships (QSPRs) are scientific fields in which the use of chemometric methods is of outstanding importance. Indeed, chemometric methods, as well as statistics and chemoinformatics, are the basic tools for finding mathematical meaningful relationships between the molecular structure and biological activities, physicochemical, toxicological, and environmental properties of chemicals. Three main topics are involved in the QSAR/QSPR approach to the scientific research: the concept of molecular structure, the definition of molecular descriptors, and the chemometric tools. After a short historical presentation, QSAR modeling approaches, both those based on the classical chemometric methods and those defined by some peculiar strategies, are presented. Then, after an introduction to molecular descriptors, some basic modeling methodologies based on the variable descriptor selection are described. Finally, the general principles for QSAR/QSPR analysis are reported, paying special attention to the concept of applicability domain (AD) and model validation. These principles have been recently received from the Organization for Economic Co-operation and Development (OECD) as the principles for accepting QSAR models for regulatory purposes and adopted as guidelines for the new European Community Regulation on Chemicals (Registration, Evaluation and Authorisation of Chemicals (REACH)).
+ER  - 
+
+TY  - JOUR
+T1  - Linear versus nonlinear dimensionality reduction for banks’ credit rating prediction
+AU  - Orsenigo, C.
+AU  - Vercellis, C.
+JO  - Knowledge-Based Systems
+VL  - 47
+SP  - 14
+EP  - 22
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2013.03.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705113000816
+KW  - Dimensionality reduction
+KW  - Manifold learning
+KW  - Isometric feature mapping
+KW  - Banks’ credit rating prediction
+KW  - Multi-category classification
+AB  - Dimensionality reduction methods have shown their usefulness for both supervised and unsupervised tasks in a wide range of application domains. Several linear and nonlinear approaches have been proposed in order to derive meaningful low-dimensional representations of high-dimensional data. Among nonlinear algorithms manifold learning methods, such as isometric feature mapping (Isomap), have recently attracted great attention by providing noteworthy results on artificial and real world data sets. The paper presents an empirical evaluation of two linear and nonlinear techniques, namely principal component analysis (PCA) and double-bounded tree-connected Isomap (dbt-Isomap), in order to assess their effectiveness for dimensionality reduction in banks’ credit rating prediction, and to determine the key financial variables endowed with the most explanatory power. Extensive computational tests concerning the classification of six banks’ rating data sets showed that the use of dimensionality reduction accomplished by nonlinear projections often induced an improvement in the classification accuracy, and that dbt-Isomap outperformed PCA by consistently providing more accurate predictions.
+ER  - 
+
+TY  - JOUR
+T1  - Application of selected partial order tools to analyze fate and toxicity indicators of environmentally hazardous chemicals
+AU  - Carlsen, Lars
+AU  - Bruggemann, Rainer
+AU  - Sailaukhanuly, Yerbolat
+JO  - Ecological Indicators
+VL  - 29
+SP  - 191
+EP  - 202
+PY  - 2013
+DA  - 2013/06/01/
+SN  - 1470-160X
+DO  - https://doi.org/10.1016/j.ecolind.2012.12.028
+UR  - http://www.sciencedirect.com/science/article/pii/S1470160X1300006X
+KW  - Partial order ranking
+KW  - Multi-indicator systems
+KW  - Relations among indicators
+KW  - Hasse diagram technique (HDT) decision support
+KW  - Environmental impact assessment
+KW  - Obsolete pesticides
+AB  - Studies on fate and toxicity are important aspects in environmental impact assessments of chemicals. In order to elucidate “what is worst” a ranking of the chemicals under investigation is of significant interest, which obviously constitutes a multi-indicator system (MIS). Partial order methodologies turn out to be advantageous tools for analyses of such systems. In the present paper we focus on QSAR generated fate and toxicity indicators of 30 chemicals, comprising of a variety of chemical structures. In many risk assessment studies the level of a multi-indicator system is abandoned and the data are aggregated in order to obtain a composite index. However, such aggregation techniques are far from being trivial. The present paper describes an alternative strategy to handle MIS, i.e., applying partial order methodology leading to useful information. The paper demonstrate how partial order techniques lead to a weak order of the 30 chemicals as well as to the relative importance of the single indicators included in the study. Specifically, the paper addresses the topics on the “relations between the indicators” and “do chemical structures constitute a valid basis for ranking chemicals according to their environmental impact?”.
+ER  - 
+
+TY  - JOUR
+T1  - Rule based functional description of genes – Estimation of the multicriteria rule interestingness measure by the UTA method
+AU  - Gruca, Aleksandra
+AU  - Sikora, Marek
+JO  - Biocybernetics and Biomedical Engineering
+VL  - 33
+IS  - 4
+SP  - 222
+EP  - 234
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0208-5216
+DO  - https://doi.org/10.1016/j.bbe.2013.09.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0208521613000387
+KW  - Multicriteria rule evaluation
+KW  - Rule interestingness
+KW  - UTA method
+KW  - Logical rules
+KW  - Gene Ontology
+KW  - Expression data
+AB  - In this paper we present new extension of RuleGO rule generation method. The method was designed to discover logical rules including combination of GO terms in their premises in order to provide functional description of analyzed gene signatures. As the number of obtained rules is typically huge, filtration algorithm is required to select only the most interesting ones. Rule interestingness measures currently used within the RuleGO method do not always allow for the selection of the rules according to user's subjective preferences. In this paper we propose an application of the UTA method for estimation of the multicriteria rule interestingness measure reflecting expert's subjective rule evaluation. In the presented method, each of the rules is characterized by a vector of values reflecting its quality due to the different parial interestingness measures. From the designated set of rules a set of representative rules is selected and presented to an expert who orders the rules based on his preferences. Using the information about the order and values of the partial interestingness measures, the additive multicriteria interestingness measure is estimated. The measure is estimated in such a way that the rule ranking obtained by this function is consistent with the ranking given by an expert. The presented approach is applied to three microarray data sets and obtained rule orders are compared with rule orders generated with the standard RuleGO rule evaluation method. Presented method allows obtaining the rule ranking that is better correlated with expert ranking than the ranking obtained in the standard way.
+ER  - 
+
+TY  - JOUR
+T1  - Algoritmos Evolutivos y su empleo en el ajuste de controladores del tipo PID: Estado Actual y Perspectivas
+AU  - Reynoso-Meza, Gilberto
+AU  - Sanchis, Javier
+AU  - Blasco, Xavier
+AU  - Martínez, Miguel
+JO  - Revista Iberoamericana de Automática e Informática Industrial RIAI
+VL  - 10
+IS  - 3
+SP  - 251
+EP  - 268
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 1697-7912
+DO  - https://doi.org/10.1016/j.riai.2013.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1697791213000344
+KW  - Controlador PID
+KW  - PID convencional
+KW  - PID borroso
+KW  - PID fraccionario
+KW  - Algoritmos Evolutivos
+KW  - Optimización
+KW  - PID controller
+KW  - Conventional PID
+KW  - Fuzzy PID
+KW  - Fractional order PID
+KW  - Evolutionary algorithms
+KW  - Optimization.
+AB  - Resumen
+Los controladores PID continúan siendo una solución fiable, robusta, práctica y sencilla para el control de procesos. Actualmente constituyen la primera capa de control de la gran mayoría de las aplicaciones industriales. De ahí que un número importante de trabajos de investigación se han orientado a mejorar su rendimiento y prestaciones. Las líneas de investigación en este campo van desde nuevos métodos de ajuste, pasando por nuevos tipos de estructura hasta metodologías de diseño integrales. Particularizando en el ajuste de parámetros, una de las formas de obtener una solución novedosa consiste en plantear un problema de optimización, el cual puede llegar a ser no-lineal, no-convexo y con restricciones. Dado que los algoritmos evolutivos han mostrado un buen desempeño para solucionar problemas complejos de optimización, han sido utilizados en diversas propuestas relacionadas con el ajuste de controladores PID. Este trabajo muestra un revisión de estas propuestas y las prestaciones obtenidas en cada caso. Así mismo, se identifican algunas tendencias y posibles líneas de trabajo futuras.
+PID controllers are a reliable, robust, practical and easy to implement control solution for industrial processes. They provide the first control layer for a vast majority of industrial applications. Owing to this, several researches invest time and resources to improve their performance. The research lines in this field scope with new tuning methods, new types of structures and integral design methods. For tuning methods, improvements could be fulfilled stating an optimization problem, which could be non-linear, non-convex and highly constrained. In such instances, evolutionary algorithms have shown a good performance and have been used in various proposals related with PID controllers tuning. This work shows a review of these proposals and the benefits obtained in each case. Some trends and possible future research lines are also identified.
+ER  - 
+
+TY  - JOUR
+T1  - Applying a selection method to choose Quality Attribute Techniques
+AU  - Chiam, Yin Kia
+AU  - Staples, Mark
+AU  - Ye, Xin
+AU  - Zhu, Liming
+JO  - Information and Software Technology
+VL  - 55
+IS  - 8
+SP  - 1419
+EP  - 1436
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2013.02.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0950584913000347
+KW  - Quality Attribute Techniques
+KW  - Technique selection
+KW  - Risk management
+KW  - AHP
+AB  - Context
+Software products have requirements on software quality attributes such as safety and performance. Development teams use various specific techniques to achieve these quality requirements. We call these “Quality Attribute Techniques” (QATs). QATs are used to identify, analyse and control potential product quality problems. Although QATs are widely used in practice, there is no systematic approach to represent, select, and integrate them in existing approaches to software process modelling and tailoring.
+Objective
+This research aims to provide a systematic approach to better select and integrate QATs into tailored software process models for projects that develop products with specific product quality requirements.
+Method
+A selection method is developed to support the choice of appropriate techniques for any quality attribute, across the lifecycle. The selection method is based on three perspectives: (1) risk management; (2) process integration; and (3) cost/benefit using Analytic Hierarchy Process (AHP). An industry case study is used to validate the feasibility and effectiveness of applying the selection method.
+Results
+The case study demonstrates that the selection method provides a more methodological and effective approach to choose QATs for projects that target a specific quality attribute, compared to the ad hoc selection performed by development teams.
+Conclusion
+The proposed selection method can be used to systematically choose QATs for projects to target specific product qualities throughout the software development lifecycle.
+ER  - 
+
+TY  - JOUR
+T1  - Prioritized Multi-Criteria Decision Making based on the Idea of PROMETHEE
+AU  - Yu, Xiaohan
+AU  - Xu, Zeshui
+AU  - Ma, Ying
+JO  - Procedia Computer Science
+VL  - 17
+SP  - 449
+EP  - 456
+PY  - 2013
+DA  - 2013/01/01/
+T2  - First International Conference on Information Technology and Quantitative Management
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2013.05.058
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050913001919
+KW  - Multi-criteria decision making
+KW  - Prioritization
+KW  - PROMETHEE
+KW  - Intuitionistic preference relation
+AB  - There may be prioritizations among criteria in some practical multi-criteria decision making (MCDM) problems, which are called prioritized MCDM ones. The investigation of such a kind of problems benefits the development of the MCDM. However, the existing methods of prioritized MCDM cannot cover all situations, so we develop a new method based on the idea of PROMETHEE in this paper so as to overcome the drawbacks of the existing methods. After determining the preferences among alternatives by compare them in pairs, we construct an intuitionistic preference relation. A linear optimization model is then established to derive the ranking order of the alternatives. At length, a simple example is taken to illustrate the feasibility and practicability of our new method.
+ER  - 
+
+TY  - JOUR
+T1  - An expert system based material selection approach to manufacturing
+AU  - İpek, Mümtaz
+AU  - Selvi, İhsan H.
+AU  - Findik, Fehim
+AU  - Torkul, Orhan
+AU  - Cedimoğlu, I.H.
+JO  - Materials & Design
+VL  - 47
+SP  - 331
+EP  - 340
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 0261-3069
+DO  - https://doi.org/10.1016/j.matdes.2012.11.060
+UR  - http://www.sciencedirect.com/science/article/pii/S0261306912008187
+KW  - Expert system
+KW  - H. Selection of materials
+KW  - E. Engineering design
+KW  - Intelligent decision making
+KW  - Knowledge-based system
+AB  - Selection of proper materials for a diverse mechanism is one of the hardest tasks in the design and product improvements in various industrial applications. Materials play a vital and important function during the entire design and manufacturing process. The wrong selection of materials often leads to huge prices and ultimately results in product breakdown. Hence, the designers need to identify and select suitable materials with specific functionalities in order to attain the preferred output with the minimum cost concern and specific applicability. This paper tries to solve the materials selection problem by means of an expert system approach to manufacturing. According to this method either four or five different properties are inspected for each automotive part such as impact resistance, lightness, formability, corrosion resistance and low prices for bumpers; strength, formability, vibration absorption and low cost for flywheels; and strength, formability, corrosion resistance, biocompatibility and a small price for implants. Then, these were made more efficient using the expert system approach. Due to performing most of the above mentioned properties, polymeric materials {such as PP (polypropylene), HDPE (high density polyethylene) and PMMA (polymethyl methacrylate)} are selected for the bumpers; GFRPs (glass fiber reinforced plastics) and CFRPs (carbon fiber reinforced plastics) composites for high speed running, and cast iron and steel for low speeds for the flywheels; and finally stainless steel and polymeric materials {such as PVC (polyvinyl chloride) and PE (polyethylene)} were found to be the best materials for automotive parts. The selected materials were almost identical to those obtained by previous authors.
+ER  - 
+
+TY  - JOUR
+T1  - Credit risk management: A multicriteria approach to assess creditworthiness
+AU  - García, Fernando
+AU  - Giménez, Vicente
+AU  - Guijarro, Francisco
+JO  - Mathematical and Computer Modelling
+VL  - 57
+IS  - 7
+SP  - 2009
+EP  - 2015
+PY  - 2013
+DA  - 2013/04/01/
+T2  - Public Key Services and Infrastructures EUROPKI-2010-Mathematical Modelling in Engineering & Human Behaviour 2011
+SN  - 0895-7177
+DO  - https://doi.org/10.1016/j.mcm.2012.03.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0895717712000623
+KW  - Credit risk
+KW  - Firm solvency
+KW  - Default probability
+KW  - Goal programming
+AB  - Credit risk management is a key issue for any company at anytime, but is especially important in the case of the banking industry. This fact is more than evident in times of financial crises, when financial institutions can suffer high losses due to unpaid credits. For this reason, international financial supervisors and authorities have forced banks to monitor their credit risk and this risk is a variable that is constantly under the scrutiny of all financial agents in the international markets. There are currently several methodologies that aim to predict the default probability of debtors. Many of them use logit analysis to discriminate among debtors. New methodologies make use of neural networks or multicriteria methods. This paper presents a new proposal based on goal programming, which allows the judgement of experts to be incorporated into the model, as suggested by the Basel Committee. Our approach combines the objective information of financial variables with the subjective judgement of experts about the different relevance of these variables, so observing the Basel Committee guidelines.
+ER  - 
+
+TY  - JOUR
+T1  - Towards the Definition of Relations between Clusters in Multicriteria Decision Aid Clustering
+AU  - Rouba, Baroudi
+AU  - Bahloul, Safia Nait
+JO  - Procedia Computer Science
+VL  - 17
+SP  - 134
+EP  - 140
+PY  - 2013
+DA  - 2013/01/01/
+T2  - First International Conference on Information Technology and Quantitative Management
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2013.05.019
+UR  - http://www.sciencedirect.com/science/article/pii/S187705091300152X
+KW  - Clustering
+KW  - Multicriteria decision aid
+KW  - Preference information
+KW  - K-medoids
+KW  - Dominant relation
+AB  - This paper tackles the problem of defining relations between clusters in multicriteria decision aid clustering. In multicriteria decision aid field, the comparison between objects is based on preference relations that express whether these objects are indifferent, incomparable or one is preferred to the other. In this paper, these preference relations will be used, at the same time, to build a clustering and to define relations between clusters. The definition of a relation between two clusters will be based on the determination of the dominant relation between the objects belonging to the clusters.
+ER  - 
+
+TY  - JOUR
+T1  - Nonlinear multicriteria clustering based on multiple dissimilarity matrices
+AU  - Queiroz, Sergio
+AU  - de Carvalho, Francisco de A.T.
+AU  - Lechevallier, Yves
+JO  - Pattern Recognition
+VL  - 46
+IS  - 12
+SP  - 3383
+EP  - 3394
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0031-3203
+DO  - https://doi.org/10.1016/j.patcog.2013.06.008
+UR  - http://www.sciencedirect.com/science/article/pii/S0031320313002604
+KW  - Clustering analysis
+KW  - Relational data
+KW  - Multicriteria decision support
+KW  - Nonlinear optimization
+AB  - We present a new algorithm capable of partitioning sets of objects by taking simultaneously into account their relational descriptions given by multiple dissimilarity matrices. The novelty of the algorithm is that it is based on a nonlinear aggregation criterion, weighted Tchebycheff distances, more appropriate than linear combinations (such as weighted averages) for the construction of compromise solutions. We obtain a hard partition of the set of objects, the prototype of each cluster and a weight vector that indicates the relevance of each matrix in each cluster. Since this is a clustering algorithm for relational data, it is compatible with any distance function used to measure the dissimilarity between objects. Results obtained in experiments with data sets (synthetic and real) show the usefulness of the proposed algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - Information measures for hesitant fuzzy sets and interval-valued hesitant fuzzy sets
+AU  - Farhadinia, B.
+JO  - Information Sciences
+VL  - 240
+SP  - 129
+EP  - 144
+PY  - 2013
+DA  - 2013/08/10/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2013.03.034
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025513002399
+KW  - Hesitant fuzzy set
+KW  - Interval-valued hesitant fuzzy set
+KW  - Entropy
+KW  - Similarity measure
+KW  - Distance measure
+KW  - Clustering algorithm
+AB  - The main purpose of this paper is to investigate the relationship between the entropy, the similarity measure and the distance measure for hesitant fuzzy sets (HFSs) and interval-valued hesitant fuzzy sets (IVHFSs). The primary goal of the study is to suggest the systematic transformation of the entropy into the similarity measure for HFSs and vice versa. Achieving this goal is important to the task of introducing new formulas for the entropy and the similarity measure of HFSs. With results having been obtained for HFSs, similar results are also obtainable for IVHFSs. This paper also discusses the need for proposing a new entropy for HFSs and subsequently a new similarity measure for HFSs. Finally, two clustering algorithms are developed under a hesitant fuzzy environment in which indices of similarity measures of HFSs and IVHFSs are applied in data analysis and classification. Moreover, two practical examples are examined to compare the proposed methods with the existing ones.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 27 - Towards Energy Efficiency in Next-Generation Green Mobile Networks: A Queueing Theory Perspective
+AU  - Carvalho, Glaucio H.S.
+AU  - Woungang, Isaac
+AU  - Anpalagan, Alagan
+A2  - Obaidat, Mohammad S.
+A2  - Anpalagan, Alagan
+A2  - Woungang, Isaac
+BT  - Handbook of Green Information and Communication Systems
+PB  - Academic Press
+SP  - 691
+EP  - 723
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 978-0-12-415844-3
+DO  - https://doi.org/10.1016/B978-0-12-415844-3.00027-9
+UR  - http://www.sciencedirect.com/science/article/pii/B9780124158443000279
+ER  - 
+
+TY  - JOUR
+T1  - Application of decision-making techniques in supplier selection: A systematic review of literature
+AU  - Chai, Junyi
+AU  - Liu, James N.K.
+AU  - Ngai, Eric W.T.
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 10
+SP  - 3872
+EP  - 3885
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2012.12.040
+UR  - http://www.sciencedirect.com/science/article/pii/S095741741201281X
+KW  - Supplier selection
+KW  - Decision-making techniques
+KW  - Uncertainty
+KW  - Literature review
+AB  - Despite the importance of decision-making (DM) techniques for construction of effective decision models for supplier selection, there is a lack of a systematic literature review for it. This paper provides a systematic literature review on articles published from 2008 to 2012 on the application of DM techniques for supplier selection. By using a methodological decision analysis in four aspects including decision problems, decision makers, decision environments, and decision approaches, we finally selected and reviewed 123 journal articles. To examine the research trend on uncertain supplier selection, these articles are roughly classified into seven categories according to different uncertainties. Under such classification framework, 26 DM techniques are identified from three perspectives: (1) Multicriteria decision making (MCDM) techniques, (2) Mathematical programming (MP) techniques, and (3) Artificial intelligence (AI) techniques. We reviewed each of the 26 techniques and analyzed the means of integrating these techniques for supplier selection. Our survey provides the recommendation for future research and facilitates knowledge accumulation and creation concerning the application of DM techniques in supplier selection.
+ER  - 
+
+TY  - JOUR
+T1  - Policy making for broadband adoption and usage in Chile through machine learning
+AU  - Ruz, Gonzalo A.
+AU  - Varas, Samuel
+AU  - Villena, Marcelo
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 17
+SP  - 6728
+EP  - 6734
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2013.06.039
+UR  - http://www.sciencedirect.com/science/article/pii/S095741741300434X
+KW  - Broadband penetration
+KW  - Policy making
+KW  - Clustering analysis
+KW  - Bayesian networks
+AB  - For developing countries, such as Chile, we study the influential factors for adoption and usage of broadband services. In particular, subsidies on the broadband price are analyzed to see if this initiative has a significant effect in the broadband penetration. To carry out this study, machine learning techniques are used to identify different household profiles using the data obtained from a survey on access, use, and users of broadband Internet from Chile. Different policies are proposed for each group found, which were then evaluated empirically through Bayesian networks. Results show that an unconditional subsidy for the Internet price does not seem to be very appropriate for everyone since it is only significant for some households groups. The evaluation using Bayesian networks showed that other polices should be considered as well such as the incorporation of computers, Internet applications development, and digital literacy training.
+ER  - 
+
+TY  - JOUR
+T1  - Knowledge-based Decision Support System Quality Function Deployment (KBDSS-QFD) tool for assessment of building envelopes
+AU  - Singhaputtangkul, Natee
+AU  - Low, Sui Pheng
+AU  - Teo, Ai Lin
+AU  - Hwang, Bon-Gang
+JO  - Automation in Construction
+VL  - 35
+SP  - 314
+EP  - 328
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2013.05.017
+UR  - http://www.sciencedirect.com/science/article/pii/S0926580513000848
+KW  - Decision support system
+KW  - Knowledge-based system
+KW  - Quality Function Deployment
+KW  - Building envelopes
+KW  - Design team
+KW  - Design management
+AB  - A building design team has faced several decision-making problems when assessing building envelope materials and designs for a private high-rise residential building in the early design stage. This study developed an automated fuzzy Knowledge-based Decision Support System Quality Function Deployment (KBDSS-QFD) tool to facilitate the team to mitigate such problems. A case study of the design team comprising an architect, a civil and structural (C&S) engineer and a mechanical and electrical (M&E) engineer was selected as the research design of this study. Results from the qualitative data analysis showed that the tool has the potential to mitigate the decision-making problems. The contributions of using this automated tool include not only achieving better design management but also raising the level of productivity in the construction industry.
+ER  - 
+
+TY  - JOUR
+T1  - FGP Approach for Solving Fractional Multiobjective Decision Making Problems Using GA with Tournament Selection and Arithmetic Crossover
+AU  - Chakraborti, Debjani
+AU  - Biswas, Papun
+AU  - Pal, Bijay Baran
+JO  - Procedia Technology
+VL  - 10
+SP  - 505
+EP  - 514
+PY  - 2013
+DA  - 2013/01/01/
+T2  - First International Conference on Computational Intelligence: Modeling Techniques and Applications (CIMTA) 2013
+SN  - 2212-0173
+DO  - https://doi.org/10.1016/j.protcy.2013.12.389
+UR  - http://www.sciencedirect.com/science/article/pii/S2212017313005513
+KW  - Fuzzy programming
+KW  - Goal programming
+KW  - Fuzzy goal programming
+KW  - Genetic algorithm
+KW  - Multiobjective decision making
+AB  - This article presents an effective genetic algorithm (GA) based fuzzy goal programming (FGP) for modelling and solving multiobjective decision making (MODM) problems with fractional criteria. In the proposed approach, GA, inspired by the natural selection and population genetics, is introduced first for searching of solutions at different stages and thereby solving the problem. In the proposed GA scheme, tournament selection scheme, arithmetic crossover and uniform mutation are adopted to search a satisfactory solution in complex decision making environment. To illustrate the potential use of the approach, a numerical example is solved and compared with the solutions obtained in previous study.
+ER  - 
+
+TY  - JOUR
+T1  - A generalization of universal integrals by means of level dependent capacities
+AU  - Klement, Erich Peter
+AU  - Kolesárová, Anna
+AU  - Mesiar, Radko
+AU  - Stupňanová, Andrea
+JO  - Knowledge-Based Systems
+VL  - 38
+SP  - 14
+EP  - 18
+PY  - 2013
+DA  - 2013/01/01/
+T2  - Special Issue on "Advances in Fuzzy Knowledge Systems: Theory and Application"
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2012.08.021
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705112002419
+KW  - Capacity
+KW  - Copula
+KW  - Choquet integral
+KW  - Level dependent capacities
+KW  - Sugeno integral
+KW  - Universal integral
+AB  - An axiomatic approach to universal integrals based on level dependent capacities is presented. Based on a given semicopula, two corresponding extremal universal integrals based on level dependent capacities are given. If the underlying semicopula is even a copula, another class of universal integrals based on level dependent capacities is studied, generalizing, among others, both the Choquet and the Sugeno integral based on level dependent capacities which were introduced recently.
+ER  - 
+
+TY  - JOUR
+T1  - GA based FGP Approach for Optimal Reactive Power Dispatch
+AU  - Pal, Bijay Baran
+AU  - Biswas, Papun
+AU  - Mukhopadhyay, Anirban
+JO  - Procedia Technology
+VL  - 10
+SP  - 464
+EP  - 473
+PY  - 2013
+DA  - 2013/01/01/
+T2  - First International Conference on Computational Intelligence: Modeling Techniques and Applications (CIMTA) 2013
+SN  - 2212-0173
+DO  - https://doi.org/10.1016/j.protcy.2013.12.384
+UR  - http://www.sciencedirect.com/science/article/pii/S221201731300546X
+KW  - Fuzzy goal programming
+KW  - Genetic algorithm
+KW  - L-index
+KW  - Reactive power dispatch
+KW  - Voltage profile
+KW  - Voltage stability
+AB  - Reactive power dispatch (RPD) is one of the major issues of modern energy management system. This article presents an efficient genetic algorithm (GA) approach for modelling and solving RPD problem of power system in the framework of fuzzy goal programming (FGP) in uncertain environment. In the proposed approach, the objectives of the problem concerned with RPD problem are fuzzily described. In the solution process, the proposed GA method is used in the framework of FGP model in an iterative manner to reach a satisfactory decision. The proposed approach is tested on the standard IEEE 6-Generator 30-Bus System and compared with the solutions obtained in previous study.
+ER  - 
+
+TY  - JOUR
+T1  - Optimization of passive solar design strategies: A review
+AU  - Stevanović, Sanja
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 25
+SP  - 177
+EP  - 196
+PY  - 2013
+DA  - 2013/09/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2013.04.028
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032113002803
+KW  - Passive solar design
+KW  - Building form
+KW  - Opaque envelope components
+KW  - Windows and shading
+KW  - Optimization
+AB  - Passive solar design strategies comprise important ways of reducing the heating, cooling and lighting energy consumption of buildings. Although it is relatively simple to reduce the energy use up to some extent by applying individual strategies, very high levels of energy performance require application of the optimal combination of several strategies, verified through building energy simulations. Here we give an exhaustive review of the previous studies of simulation-based optimization of passive solar design strategies, with particular focus on recent research results.
+ER  - 
+
+TY  - JOUR
+T1  - Probabilistic implications
+AU  - Grzegorzewski, Przemysław
+JO  - Fuzzy Sets and Systems
+VL  - 226
+SP  - 53
+EP  - 66
+PY  - 2013
+DA  - 2013/09/01/
+T2  - Theme: Aggregation functions
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2013.01.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011413000201
+KW  - Fuzzy implication
+KW  - S-implication
+KW  - Copula
+KW  - Conditional probability
+KW  - Dependence
+KW  - Approximate reasoning
+AB  - A new family of implication operators, called probabilistic implications, is discussed. The suggested implications are based on conditional copulas and make a bridge between probability theory and fuzzy logic. It is shown that probabilistic fuzzy implications have some interesting properties, especially those connected with the dependence structure of the underlying environment. Moreover, some other approaches for combining probability and theory of fuzzy implications are considered. In particular, it is shown that in probabilistic environment S-implications coincide with QL-implications.
+ER  - 
+
+TY  - JOUR
+T1  - Atmospheric deposition as a source of heavy metals in urban stormwater
+AU  - Gunawardena, Janaka
+AU  - Egodawatta, Prasanna
+AU  - Ayoko, Godwin A.
+AU  - Goonetilleke, Ashantha
+JO  - Atmospheric Environment
+VL  - 68
+SP  - 235
+EP  - 242
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 1352-2310
+DO  - https://doi.org/10.1016/j.atmosenv.2012.11.062
+UR  - http://www.sciencedirect.com/science/article/pii/S1352231012011302
+KW  - Air pollutants
+KW  - Atmospheric deposition
+KW  - Heavy metals
+KW  - Stormwater pollution
+KW  - Traffic emissions
+AB  - Atmospheric deposition is one of the most important pathways of urban stormwater pollution. Atmospheric deposition, which can be in the form of either wet or dry deposition have distinct characteristics in terms of associated particulate sizes, pollutant types and influential parameters. This paper discusses the outcomes of a comprehensive research study undertaken to identify important traffic characteristics and climate factors such as antecedent dry period and rainfall characteristics which influences the characteristics of wet and dry deposition of solids and heavy metals. The outcomes confirmed that Zinc (Zn) is correlated with traffic volume whereas Lead (Pb), Cadmium (Cd), Nickel (Ni), and Copper (Cu) are correlated with traffic congestion. Consequently, reducing traffic congestion will be more effective than reducing traffic volume for improving air quality particularly in relation to Pb, Cd, Ni, and Cu. Zn was found to have the highest atmospheric deposition rate compared to other heavy metals. Zn in dry deposition is associated with relatively larger particle size fractions (>10 μm), whereas Pb, Cd, Ni and Cu are associated with relatively smaller particle size fractions (<10 μm). The analysis further revealed that bulk (wet plus dry) deposition which is correlated with rainfall depth and contains a relatively higher percentage of smaller particles compared to dry deposition which is correlated with the antecedent dry period. As particles subjected to wet deposition are smaller, they disperse over a larger area from the source of origin compared to particles subjected to dry deposition as buoyancy forces become dominant for smaller particles compared to the influence of gravity. Furthermore, exhaust emission particles were found to be primarily associated with bulk deposition compared to dry deposition particles which mainly originate from vehicle component wear.
+ER  - 
+
+TY  - JOUR
+T1  - Agriculture Land Suitability Evaluator (ALSE): A decision and planning support tool for tropical and subtropical crops
+AU  - Elsheikh, Ranya
+AU  - Mohamed Shariff, Abdul Rashid B.
+AU  - Amiri, Fazel
+AU  - Ahmad, Noordin B.
+AU  - Balasundram, Siva Kumar
+AU  - Soom, Mohd Amin Mohd
+JO  - Computers and Electronics in Agriculture
+VL  - 93
+SP  - 98
+EP  - 110
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2013.02.003
+UR  - http://www.sciencedirect.com/science/article/pii/S016816991300032X
+KW  - Biophysical modeling
+KW  - Expert system
+KW  - GIS
+KW  - Land evaluation
+KW  - Land use planning
+KW  - Multi-criteria analysis
+AB  - Agricultural land suitability evaluation for crop production is a process that requires specialized geo-environmental information and the expertise of a computer scientist to analyze and interpret the information. This paper presents ALSE, an intelligent system for assessing land suitability for different types of crops in tropical and subtropical regions (e.g. mango, banana, papaya, citrus, and guava) based on geo-environmental factors that automates the process of evaluation and illustrates the results on an attribute table. Its main features include support of GIS capabilities on the digital map of an area with the FAO-SYS framework model with some necessary modifications to suit the local environmental conditions for land evaluation, and the support of expert knowledge through on spatial tools to derive criteria weights with their relative importance. A dynamic program for calculation of eigenvalues and eigenvectors of a weighting matrix is provided. Expertise and knowledge help ensure that ALSE databases represent realistic, practicable and functional systems. It is useful for decision makers to determine the quality of land for agricultural uses and is intended as a decision and planning support. Responsibility for any decisions based partly or wholly on the output of ALSE rests with the decision maker. ALSE ensures that the results are interpreted correctly within the relevant context, and contributes by maximizing land-use planning and decision support.
+ER  - 
+
+TY  - JOUR
+T1  - Ecological land suitability analysis through spatial indicators: An application of the Analytic Network Process technique and Ordered Weighted Average approach
+AU  - Ferretti, Valentina
+AU  - Pomarico, Silvia
+JO  - Ecological Indicators
+VL  - 34
+SP  - 507
+EP  - 519
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 1470-160X
+DO  - https://doi.org/10.1016/j.ecolind.2013.06.005
+UR  - http://www.sciencedirect.com/science/article/pii/S1470160X13002367
+KW  - Multicriteria-Spatial Decision Support Systems
+KW  - Geographic Information Systems
+KW  - Analytic Network Process
+KW  - Ordered Weighted Average
+KW  - Ecological suitability analysis
+KW  - Indicators
+AB  - Multicriteria-Spatial Decision Support Systems (MC-SDSS) are increasingly popular tools in decision-making processes and in policy making, thanks to their significant new capabilities in the use of spatial or geospatial information. Many spatial problems are complex and require the use of integrated analysis and models. The present paper illustrates the development of a MC-SDSS approach for studying the ecological connectivity of the Piedmont Region in Italy. The MC-SDSS model considers ecological and environmental spatial indicators which are combined by integrating the Multicriteria Decision Aiding (MCDA) technique named Analytic Network Process (ANP) and the Ordered Weighted Average (OWA) approach. The ANP is used for the elicitation of attribute weights while the OWA operator function is used to generate a wide range of decision alternatives for addressing uncertainty associated with interaction between multiple criteria. The usefulness of the approach is illustrated by different OWA scenarios that report the ecological connectivity index on a scale between 0 and 1. The OWA scenarios are intended to quantify the level of risk taking (i.e., optimistic, pessimistic, and neutral) and to facilitate a better understanding of patterns that emerge from decision alternatives involved in the decision-making process. The purpose of the research is to generate a final map representing the ecological connectivity index of each area in the region under analysis, to be used as a decision variable in spatial planning. In particular, by using the resulting index map as a means of analysis, it is possible to identify, for the sake of nature conservation, some critical areas needing mitigation measures. In addition, areas with high ecological connectivity values can be identified and monitoring procedures can therefore be planned. The study concludes highlighting that the applied methodology is an effective tool in providing decision support for spatial planning and sustainability assessments.
+ER  - 
+
+TY  - JOUR
+T1  - Operational tools to build a multicriteria territorial risk scale with multiple stakeholders
+AU  - Cailloux, Olivier
+AU  - Mayag, Brice
+AU  - Meyer, Patrick
+AU  - Mousseau, Vincent
+JO  - Reliability Engineering & System Safety
+VL  - 120
+SP  - 88
+EP  - 97
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0951-8320
+DO  - https://doi.org/10.1016/j.ress.2013.06.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0951832013001695
+KW  - Multicriteria decision aid
+KW  - Group decision making
+KW  - Disaggregation
+KW  - Software
+KW  - Group decision support system
+AB  - Evaluating and comparing the threats and vulnerabilities associated with territorial zones according to multiple criteria (industrial activity, population, etc.) can be a time-consuming task and often requires the participation of several stakeholders. Rather than a direct evaluation of these zones, building a risk assessment scale and using it in a formal procedure permits to automate the assessment and therefore to apply it in a repeated way and in large-scale contexts and, provided the chosen procedure and scale are accepted, to make it objective. One of the main difficulties of building such a formal evaluation procedure is to account for the multiple decision makers' preferences. The procedure used in this article, Electre Tri, uses the performances of each territorial zone on multiple criteria, together with preferential parameters from multiple decision makers, to qualitatively assess their associated risk level. We also present operational tools in order to implement such a procedure in practice, and show their use on a detailed example.
+ER  - 
+
+TY  - JOUR
+T1  - A fuzzy inference and categorization approach for supplier selection using compensatory and non-compensatory decision rules
+AU  - Lima, Francisco Rodrigues
+AU  - Osiro, Lauro
+AU  - Carpinetti, Luiz Cesar R.
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 10
+SP  - 4133
+EP  - 4147
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2013.06.020
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494613002093
+KW  - Supplier selection
+KW  - Supplier categorization
+KW  - Fuzzy inference
+KW  - Simple fuzzy grid classification method
+KW  - Multicriteria decision making
+AB  - Fuzzy set theory has been used as an approach to deal with uncertainty in the supplier selection decision process. However, most studies limit applications of fuzzy set theory to outranking potential suppliers, not including a qualification stage in the decision process, in which non-compensatory types of decision rules can be used to reduce the set of potential suppliers. This paper presents a supplier selection decision method based on fuzzy inference that integrates both types of approaches: a non-compensatory rule for sorting in qualification stages and a compensatory rule for ranking in the final selection. Fuzzy inference rules model human reasoning and are embedded in the system, which is an advantage when compared to approaches that combine fuzzy set theory with multicriteria decision making methods. Fuzzy inference combined with a fuzzy rule-based classification method is used to categorize suppliers in qualification stages. Classes of supplier performance can be represented by linguistic terms, which allow decision makers to deal with subjectivity and to express qualification requirements in linguistic formats. Implementation of the proposed method and techniques were analyzed and discussed using an illustrative case. Three defuzzification operators were used in the final selection, yielding the same ranking. Factorial design was applied to test consistency and sensitivity of the inference rules. The findings reinforce the argument that including stages of qualification based on fuzzy inference and categorization makes this method especially useful for selecting from a large set of potential suppliers and also for first time purchase.
+ER  - 
+
+TY  - CHAP
+T1  - 2.16 - Hydrological Modeling
+AU  - Solomatine, D.P.
+AU  - Wagener, T.
+A2  - Wilderer, Peter
+BT  - Treatise on Water Science
+PB  - Elsevier
+CY  - Oxford
+SP  - 435
+EP  - 457
+PY  - 2011
+DA  - 2011/01/01/
+SN  - 978-0-444-53199-5
+DO  - https://doi.org/10.1016/B978-0-444-53199-5.00044-0
+UR  - http://www.sciencedirect.com/science/article/pii/B9780444531995000440
+KW  - Artificial neural networks
+KW  - Conceptual models
+KW  - Data-driven models
+KW  - Distributed models
+KW  - Hydrological models
+KW  - Parameter estimation
+KW  - Physically based models
+KW  - Uncertainty analysis
+AB  - This chapter provides a basic introduction and overview of hydrological modeling. It outlines the modeling process in general and the history of hydrological modeling specifically. It classifies and discusses the main model types used today (conceptual and physically based models), with a particular focus on data-driven models. The topic of uncertainty in the context of hydrological modeling is discussed in detail. The chapter concludes with discussions of model integration and future directions in hydrological modeling. This chapter provides a starting point for readers interested in understanding the fundamentals of hydrological modeling, with a number of references for further study.
+ER  - 
+
+TY  - JOUR
+T1  - Revised HLMS: A useful algorithm for fuzzy measure identification
+AU  - Murillo, Javier
+AU  - Guillaume, Serge
+AU  - Tapia, Elizabeth
+AU  - Bulacio, Pilar
+JO  - Information Fusion
+VL  - 14
+IS  - 4
+SP  - 532
+EP  - 540
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2013.01.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1566253513000183
+KW  - Choquet integral
+KW  - Gradient descent
+KW  - Convergence
+KW  - Multicriteria
+AB  - An important limitation of fuzzy integrals for information fusion is the exponential growth of coefficients for an increasing number of information sources. To overcome this problem a variety of fuzzy measure identification algorithms has been proposed. HLMS is a simple gradient-based algorithm for fuzzy measure identification which suffers from some convergence problems. In this paper, two proposals for HLMS convergence improvement are presented, a modified formula for coefficients update and new policy for monotonicity check. A comprehensive experimental work shows that these proposals indeed contribute to HLMS convergence, accuracy and robustness.
+ER  - 
+
+TY  - JOUR
+T1  - Urban Development Pressure: Challenges in Ensuring Sustainable Tourism Development in Langkawi Island
+AU  - Samat, Narimah
+AU  - Harun, Norhidayah
+JO  - Procedia - Social and Behavioral Sciences
+VL  - 91
+SP  - 385
+EP  - 394
+PY  - 2013
+DA  - 2013/10/10/
+T2  - PSU-USM International Conference on Humanities and Social Sciences
+SN  - 1877-0428
+DO  - https://doi.org/10.1016/j.sbspro.2013.08.435
+UR  - http://www.sciencedirect.com/science/article/pii/S1877042813025664
+AB  - Significant growth in tourism sector has created major challenges in planning and managing the environment and landscapes of tourism sites. This is due to the need to provide attractive tourism sites and supporting products such as accommodations and transportation networks as well as protecting the environment. This study used GIS to map and measure land use transformation from 1974 to 2005 and examine areas that are likely to experience urban development pressure. Zoning strategies such as by containing urban built-up areas within existing urban areas and promoting sustainable ecotourism development within Langkawi Geopark have succeeded in controlling expansion of built-up areas.
+ER  - 
+
+TY  - JOUR
+T1  - Application of decision tree model for the ground subsidence hazard mapping near abandoned underground coal mines
+AU  - Lee, Saro
+AU  - Park, Inhye
+JO  - Journal of Environmental Management
+VL  - 127
+SP  - 166
+EP  - 176
+PY  - 2013
+DA  - 2013/09/30/
+SN  - 0301-4797
+DO  - https://doi.org/10.1016/j.jenvman.2013.04.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0301479713002545
+KW  - GIS
+KW  - Abandoned underground coal mine
+KW  - Ground subsidence
+KW  - Decision tree
+KW  - Korea
+AB  - Subsidence of ground caused by underground mines poses hazards to human life and property. This study analyzed the hazard to ground subsidence using factors that can affect ground subsidence and a decision tree approach in a geographic information system (GIS). The study area was Taebaek, Gangwon-do, Korea, where many abandoned underground coal mines exist. Spatial data, topography, geology, and various ground-engineering data for the subsidence area were collected and compiled in a database for mapping ground-subsidence hazard (GSH). The subsidence area was randomly split 50/50 for training and validation of the models. A data-mining classification technique was applied to the GSH mapping, and decision trees were constructed using the chi-squared automatic interaction detector (CHAID) and the quick, unbiased, and efficient statistical tree (QUEST) algorithms. The frequency ratio model was also applied to the GSH mapping for comparing with probabilistic model. The resulting GSH maps were validated using area-under-the-curve (AUC) analysis with the subsidence area data that had not been used for training the model. The highest accuracy was achieved by the decision tree model using CHAID algorithm (94.01%) comparing with QUEST algorithms (90.37%) and frequency ratio model (86.70%). These accuracies are higher than previously reported results for decision tree. Decision tree methods can therefore be used efficiently for GSH analysis and might be widely used for prediction of various spatial events.
+ER  - 
+
+TY  - JOUR
+T1  - Robust optimization of the Choquet integral
+AU  - Timonin, Mikhail
+JO  - Fuzzy Sets and Systems
+VL  - 213
+SP  - 27
+EP  - 46
+PY  - 2013
+DA  - 2013/02/16/
+T2  - Theme: Decision and Optimisation
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2012.04.014
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011412001856
+KW  - Multicriteria decision making
+KW  - Choquet integral
+KW  - Capacity identification
+KW  - Robust optimization
+AB  - We study the problem of the Choquet integral maximization for the case when preferences of the decision maker do not define a unique capacity but rather some convex set. We introduce a robust version of the problem based on the minimax-regret criterion and construct a global optimization algorithm. It is shown that the decision rule based on regret minimization over a set of capacities is equivalent to maximization of the Choquet integral with respect to a certain capacity belonging to this set. We compare our method to various capacity identification approaches developed in the literature and provide a semantic interpretation in terms of information value.
+ER  - 
+
+TY  - JOUR
+T1  - Simultaneous topology and sizing optimization of a water distribution network using a hybrid multiobjective evolutionary algorithm
+AU  - Bureerat, Sujin
+AU  - Sriworamas, Krit
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 8
+SP  - 3693
+EP  - 3702
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2013.04.005
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494613001154
+KW  - Hybrid differential evolution
+KW  - Pipe network
+KW  - Population-based incremental learning
+KW  - Topology optimization
+KW  - Water distribution systems
+AB  - This paper proposes a new direction for design optimization of a water distribution network (WDN). The new approach introduces an optimization process to the conceptual design stage of a WDN. The use of multiobjective evolutionary algorithms (MOEAs) for simultaneous topology and sizing design of piping networks is presented. The design problem includes both topological and sizing design variables while the objective functions are network cost and total head loss in pipes. The numerical technique, called a network repairing technique (NRT), is proposed to overcome difficulties in operating MOEAs for network topological design. The problem is then solved by using a number of established and newly developed MOEAs. Also, two new MOEAs namely multiobjective real code population-based incremental learning (RPBIL) and a hybrid algorithm of RPBIL with differential evolution (termed RPBIL–DE) are proposed to tackle the design problems. The optimum results obtained are illustrated and compared. It is shown that the proposed network repairing technique is an efficient and effective tool for topological design of WDNs. Based on the hypervolume indicator, the proposed RPBIL–DE is among the best MOEA performers.
+ER  - 
+
+TY  - JOUR
+T1  - Pollutant concentrations and pollution loads in stormwater runoff from different land uses in Chongqing
+AU  - Wang, Shumin
+AU  - He, Qiang
+AU  - Ai, Hainan
+AU  - Wang, Zhentao
+AU  - Zhang, Qianqian
+JO  - Journal of Environmental Sciences
+VL  - 25
+IS  - 3
+SP  - 502
+EP  - 510
+PY  - 2013
+DA  - 2013/03/01/
+SN  - 1001-0742
+DO  - https://doi.org/10.1016/S1001-0742(11)61032-2
+UR  - http://www.sciencedirect.com/science/article/pii/S1001074211610322
+KW  - urban land uses
+KW  - stormwater runoff
+KW  - pollution load
+KW  - pollutant concentration
+KW  - distribution
+AB  - To investigate the distribution of pollutant concentrations and pollution loads in stormwater runoff in Chongqing, six typical land use types were selected and studied from August 2009 to September 2011. Statistical analysis on the distribution of pollutant concentrations in all water samples shows that pollutant concentrations fluctuate greatly in rainfall-runoff, and the concentrations of the same pollutant also vary greatly in different rainfall events. In addition, it indicates that the event mean concentrations (EMCs) of total suspended solids (TSS) and chemical oxygen demand (COD) from urban traffic roads (UTR) are significantly higher than those from residential roads (RR), commercial areas (CA), concrete roofs (CR), tile roofs (TRoof), and campus catchment areas (CCA); and the EMCs of total phosphorus (TP) and NH3-N from UTR and CA are 2.35–5 and 3 times of the class-III standard values specified in the Environmental Quality Standards for Surface Water (GB 3838-2002). The EMCs of Fe, Pb and Cd are also much higher than the class-III standard values. The analysis of pollution load producing coefficients (PLPC) reveals that the main pollution source of TSS, COD and TP is UTR. The analysis of correlations between rainfall factors and EMCs/PLPC indicates that rainfall duration is correlated with EMCs/PLPC of TSS for TRoof and TP for UTR, while rainfall intensity is correlated with EMCs/PLPC of TP for both CR and CCA. The results of this study provide a reference for better management of non-point source pollution in urban regions.
+ER  - 
+
+TY  - JOUR
+T1  - Triple bottom line analysis of oil and gas industry with multicriteria decision making
+AU  - Infante, Carlos Eduardo Durange de C.
+AU  - Mendonça, Fabricio Molica de
+AU  - Purcidonio, Paula Michele
+AU  - Valle, Rogerio
+JO  - Journal of Cleaner Production
+VL  - 52
+SP  - 289
+EP  - 300
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2013.02.037
+UR  - http://www.sciencedirect.com/science/article/pii/S095965261300108X
+KW  - Multicriteria analysis
+KW  - Electre III
+KW  - Oil and gas industry
+KW  - Sustainability
+AB  - A few years ago became notorious the inclusion of environmental and social issues in economic decisions, which led to a new strategic framework for organizations. Thus, it is of fundamental importance to know the present limitations and new paradigms in the operational and tactical developing of organizations, aiming at less striking and balanced actions. Thus, the objective was to develop an integrated interpretation of economic, environmental and social issues of the main companies in the oil and gas sectors in the world, featuring their activities through sustainability indicators covered in the three pillars of development (Triple Bottom Line). For the research robustness the decision support multicriteria analysis (AMD) was used as methodology, which in the application of the method ELECTRE III was possible to verify the ranking of companies according to direct sustainable reports. It was concluded that sustainable strategies allied to the Triple Bottom Line are a corporate and operational differential. Thus, it is expected to contribute to the deepening of enterprise policies across all strategic decisions focused on sustainability.
+ER  - 
+
+TY  - JOUR
+T1  - Contents
+JO  - Procedia Computer Science
+VL  - 17
+SP  - iii
+EP  - viii
+PY  - 2013
+DA  - 2013/01/01/
+T2  - First International Conference on Information Technology and Quantitative Management
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/S1877-0509(13)00300-1
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050913003001
+ER  - 
+
+TY  - JOUR
+T1  - Rough sets for pattern classification using pairwise-comparison-based tables
+AU  - Hu, Yi-Chung
+JO  - Applied Mathematical Modelling
+VL  - 37
+IS  - 12
+SP  - 7330
+EP  - 7337
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0307-904X
+DO  - https://doi.org/10.1016/j.apm.2013.03.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0307904X13001625
+KW  - Rough set
+KW  - Pattern classification
+KW  - PROMETHEE
+KW  - Pairwise comparison
+KW  - Genetic algorithm
+AB  - Rough set theory is a useful mathematical tool to deal with vagueness and uncertainty in available information. The results of a rough set approach are usually presented in the form of a set of decision rules derived from a decision table. Because using the original decision table is not the only way to implement a rough set approach, it could be interesting to investigate possible improvement in classification performance by replacing the original table with an alternative table obtained by pairwise comparisons among patterns. In this paper, a decision table based on pairwise comparisons is generated using the preference relation as in the Preference Ranking Organization Methods for Enrichment Evaluations (PROMETHEE) methods, to gauges the intensity of preference for one pattern over another pattern on each criterion before classification. The rough-set-based rule classifier (RSRC) provided by the well-known library for the Rough Set Exploration System (RSES) running under Windows as been successfully used to generate decision rules by using the pairwise-comparisons-based tables. Specifically, parameters related to the preference function on each criterion have been determined using a genetic-algorithm-based approach. Computer simulations involving several real-world data sets have revealed that of the proposed classification method performs well compared to other well-known classification methods and to RSRC using the original tables.
+ER  - 
+
+TY  - JOUR
+T1  - Improving metro–airport connection service for tourism development: Using hybrid MCDM models
+AU  - Liu, Chui-Hua
+AU  - Tzeng, Gwo-Hshiung
+AU  - Lee, Ming-Huei
+AU  - Lee, Po-Yen
+JO  - Tourism Management Perspectives
+VL  - 6
+SP  - 95
+EP  - 107
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 2211-9736
+DO  - https://doi.org/10.1016/j.tmp.2012.09.004
+UR  - http://www.sciencedirect.com/science/article/pii/S2211973612000682
+KW  - Tourism and transport
+KW  - DEMATEL (decision-making trial and evaluation laboratory)
+KW  - DANP (DEMATEL-based analytic network process)
+KW  - VIKOR
+KW  - MCDM (multiple criteria decision-making)
+AB  - Few studies in tourism and transport have discussed the connection service between metro systems with urban airports or proposed strategies to assist in improving performance for long-term development. The purpose of this study is to address this problem using the novel method of hybrid MCDM (multiple criteria decision-making), including DEMATEL (decision-making trial and evaluation laboratory), DANP (the DEMATEL-based analytic network process) and VIKOR, to examine the influential relationships among dimensions and criteria of the empirical case and to ultimately present the best improvement schemes, which are valuable for both practitioners and researchers and for those destinations attempted to integrate the urban transport with tourism development.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring the maturity of risk management in large-scale construction projects
+AU  - Jia, Guangshe
+AU  - Ni, Xiaochuan
+AU  - Chen, Zhen
+AU  - Hong, Baonan
+AU  - Chen, Yuting
+AU  - Yang, Fangjun
+AU  - Lin, Chen
+JO  - Automation in Construction
+VL  - 34
+SP  - 56
+EP  - 66
+PY  - 2013
+DA  - 2013/09/01/
+T2  - Information Technologies in Safety Management
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2012.10.015
+UR  - http://www.sciencedirect.com/science/article/pii/S0926580512001823
+KW  - Risk management
+KW  - Process management
+KW  - Organizational management
+KW  - Capabilities
+KW  - Maturity
+KW  - ANP
+KW  - Emergence
+AB  - The uncertainties and randomness in multi-dimensional risk management (RM) in large-scale construction projects should be effectively detected and measured through reliable managerial procedures to eliminate or reduce adverse consequences such as casualties and asset damages in advance. This paper aims at an innovative technical solution for project managers to better understand the level of RM practice by means of RM maturity measurement. Based on the theory of system science and previous research into project management in the maturity of RM, this paper describes the prototype of an RM Maturity System (RMMS) for large-scale construction projects. The system is underpinned by using the Analytic Network Process (ANP) method in order to measure the overall effectiveness of RM against major risk factors. The RMMS consists of three components to focus on capabilities, evaluation and evolution in RM. A case study is given at the end to verify the feasibility of the system.
+ER  - 

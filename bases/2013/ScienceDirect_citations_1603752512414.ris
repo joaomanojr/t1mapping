@@ -1,0 +1,1737 @@
+TY  - JOUR
+T1  - Assessing and managing sediment contamination in transitional waters
+AU  - Chapman, Peter M.
+AU  - Wang, Feiyue
+AU  - Caeiro, Sandra Sofia
+JO  - Environment International
+VL  - 55
+SP  - 71
+EP  - 91
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 0160-4120
+DO  - https://doi.org/10.1016/j.envint.2013.02.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0160412013000482
+KW  - Estuaries
+KW  - Lagoons
+KW  - Contaminants
+KW  - Toxicity
+KW  - Bioindicators
+KW  - Biomarkers
+AB  - Sediment contamination remains a global problem, particularly in transitional waters such as estuaries and coastal lagoons, which are the recipients of chemicals from multiple near- and far-field sources. Although transitional waters are highly productive ecosystems, approaches for assessing and managing their sediment contamination are not as well developed as in marine and fresh waters. Further, although transitional waters remain defined by their variable and unique natural water quality characteristics, particularly salinity, the biota inhabiting such ecosystems, once thought to be defined by Remane's “paradox of brackish water”, are being redefined. The purpose of the present paper is to build on an earlier but now dated (>12years old) review of methods to assess sediment contamination in estuaries, extending this to all transitional waters, including information on integrative assessments and on management decision-making. The following are specifically discussed: chemical assessments; bioindicators; biomarkers; and, biological surveys. Assessment and management of sediment contamination in transitional waters need to be focused on ecosystem services and, where appropriate and possible, be proactive rather than reactive when uncertainty has been suitably reduced.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective optimization for dynamic task allocation in a multi-robot system
+AU  - Tolmidis, Avraam Th.
+AU  - Petrou, Loukas
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 26
+IS  - 5
+SP  - 1458
+EP  - 1468
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2013.03.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0952197613000377
+KW  - Multi-agent
+KW  - Task allocation
+KW  - Multi-objective
+KW  - Optimization
+KW  - Multi-robot
+AB  - In this paper, we propose a solution to the Multi-Robot Dynamic Task Allocation problem. We use Multi-Objective optimization in order to estimate, and subsequently, make an offer for its assignment. The motivation is to provide a generic solution, independent of the domain, with an aim to better utilize resources such as time or energy. The algorithm provides a significant degree of flexibility, and can be implemented in a number of diverse domains, provided the modeling of the parameters follows the convention presented. For this, we take into account – besides the distance traveled – the efficiency of a robot in a specific task type. The system has been shown to demonstrate scalability, as the experimental results indicate. It is also capable of responding to changes in the environment.
+ER  - 
+
+TY  - JOUR
+T1  - Comparison of modeling approaches to prioritize chemicals based on estimates of exposure and exposure potential
+AU  - Mitchell, Jade
+AU  - Arnot, Jon A.
+AU  - Jolliet, Olivier
+AU  - Georgopoulos, Panos G.
+AU  - Isukapalli, Sastry
+AU  - Dasgupta, Surajit
+AU  - Pandian, Muhilan
+AU  - Wambaugh, John
+AU  - Egeghy, Peter
+AU  - Cohen Hubal, Elaine A.
+AU  - Vallero, Daniel A.
+JO  - Science of The Total Environment
+VL  - 458-460
+SP  - 555
+EP  - 567
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0048-9697
+DO  - https://doi.org/10.1016/j.scitotenv.2013.04.051
+UR  - http://www.sciencedirect.com/science/article/pii/S0048969713004828
+KW  - Exposure
+KW  - Modeling
+KW  - Prioritization
+KW  - Chemicals
+KW  - Expocast
+AB  - While only limited data are available to characterize the potential toxicity of over 8million commercially available chemical substances, there is even less information available on the exposure and use-scenarios that are required to link potential toxicity to human and ecological health outcomes. Recent improvements and advances such as high throughput data gathering, high performance computational capabilities, and predictive chemical inherency methodology make this an opportune time to develop an exposure-based prioritization approach that can systematically utilize and link the asymmetrical bodies of knowledge for hazard and exposure. In response to the US EPA's need to develop novel approaches and tools for rapidly prioritizing chemicals, a “Challenge” was issued to several exposure model developers to aid the understanding of current systems in a broader sense and to assist the US EPA's effort to develop an approach comparable to other international efforts. A common set of chemicals were prioritized under each current approach. The results are presented herein along with a comparative analysis of the rankings of the chemicals based on metrics of exposure potential or actual exposure estimates. The analysis illustrates the similarities and differences across the domains of information incorporated in each modeling approach. The overall findings indicate a need to reconcile exposures from diffuse, indirect sources (far-field) with exposures from directly, applied chemicals in consumer products or resulting from the presence of a chemical in a microenvironment like a home or vehicle. Additionally, the exposure scenario, including the mode of entry into the environment (i.e. through air, water or sediment) appears to be an important determinant of the level of agreement between modeling approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Facilitating enterprise application integration adoption: An empirical analysis of UK local government authorities
+AU  - Kamal, Muhammad Mustafa
+AU  - Hackney, Ray
+AU  - Ali, Maged
+JO  - International Journal of Information Management
+VL  - 33
+IS  - 1
+SP  - 61
+EP  - 75
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2012.06.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0268401212000862
+KW  - LGA
+KW  - EAI
+KW  - Integration
+KW  - IT infrastructure operations
+KW  - Adoption lifecycle phases
+KW  - Mapping
+KW  - Prioritisation
+AB  - local government authorities (LGAs) are organised around operational structures with business processes spanning within departments and across other government organisations. In such an organisational setting, the harmonisation of Information Technology (IT) operations, integration of cross-departmental processes and the underlying Information Systems (IS) signifies a challenge in delivering integrated services. This paper attempts to explore enterprise application integration (EAI) adoption in the UK local government authorities (LGAs). Despite the hype of EAI adoption in private domain, its application in LGAs is inadequate as there is a lack of adoption models/frameworks that can be used by the public sector. The context of the study is to consider the transformation of IT infrastructure management and operations with EAI technologies. The empirical findings, generated through a detailed case analysis, manifestly exemplify that EAI predominantly acts as a ‘back-office’ technology that facilitates operations by developing a flexible and maintainable integrated IT infrastructure. Our proposed framework is believed to be imperative and unique as it provides a more systematic way to examine the adoption of integration technologies, extends the established norms for EAI adoption by utilising a prioritisation technique to classify the importance of factors. The contribution of the research extends the literature on EAI and identifies theoretical and practical opportunities that facilitate LGAs in their decision-making process to produce more robust proposals for EAI adoption.
+ER  - 
+
+TY  - JOUR
+T1  - Prioritization of intellectual capital indicators in knowledge-based industries: Evidence from pharmaceutical industry
+AU  - Mehralian, Gholamhossein
+AU  - Rasekh, Hamid Reza
+AU  - Akhavan, Peyman
+AU  - Ghatari, Ali Rajabzadeh
+JO  - International Journal of Information Management
+VL  - 33
+IS  - 1
+SP  - 209
+EP  - 216
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2012.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0268401212001235
+KW  - Intangible assets
+KW  - Intellectual capital
+KW  - Pharmaceuticals industry
+KW  - Knowledge-based industry
+AB  - During the last decade, intellectual capital (IC) and intangible assets have been widely considered as critical tool to deliver successful business in an intensive-knowledge environment. Accordingly, the main goal of this paper is therefore to develop and prioritize the most important indicators of intellectual capital in knowledge-based industries. Based on an extensive literature review, a valid and reliable questionnaire was designed. In order to data gathering, it was sent out to participants from both academic and university who qualified well in pharmaceutical practice. In order to exact prioritization of indicators, fuzzy TOPSIS technique as a MADM model was used. The fuzzy TOPSIS results revealed participants remark high concerns especially about knowledge and skills of managers and employees regarding to human capital, high concerns particularly about positive climate, ratio of investment in R&D and numbers of R&D projects according to structural capital, while considering the relational capital, more attention was paid to customers and strategic cooperation such as alliances and licensing.
+ER  - 
+
+TY  - JOUR
+T1  - Correlation coefficients of hesitant fuzzy sets and their applications to clustering analysis
+AU  - Chen, Na
+AU  - Xu, Zeshui
+AU  - Xia, Meimei
+JO  - Applied Mathematical Modelling
+VL  - 37
+IS  - 4
+SP  - 2197
+EP  - 2211
+PY  - 2013
+DA  - 2013/02/15/
+SN  - 0307-904X
+DO  - https://doi.org/10.1016/j.apm.2012.04.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0307904X12002624
+KW  - Correlation coefficient
+KW  - Hesitant fuzzy set (HFS)
+KW  - Interval-valued HFS
+AB  - Hesitant fuzzy sets (HFSs), which allow the membership degree of an element to a set represented by several possible values, can be considered as a powerful tool to express uncertain information in the process of group decision making. We derive some correlation coefficient formulas for HFSs and apply them to clustering analysis under hesitant fuzzy environments. Two real world examples, i.e. software evaluation and classification as well as the assessment of business failure risk, are employed to illustrate the actual need of the clustering algorithm based on HFSs, which can incorporate the difference of evaluation information provided by different experts in clustering processes. In order to extend the application domain of the clustering algorithm in the framework of HFSs, we develop the interval-valued HFSs and the corresponding correlation coefficient formulas, and then demonstrate their application in clustering with interval-valued hesitant fuzzy information through a specific numerical example.
+ER  - 
+
+TY  - CHAP
+T1  - 3 - Optimization techniques in diesel engine system design
+AU  - Xin, Qianfan
+A2  - Xin, Qianfan
+BT  - Diesel Engine System Design
+PB  - Woodhead Publishing
+SP  - 203
+EP  - 296
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 978-1-84569-715-0
+DO  - https://doi.org/10.1533/9780857090836.1.203
+UR  - http://www.sciencedirect.com/science/article/pii/B9781845697150500030
+KW  - system optimization
+KW  - single- and multi-objective optimizations
+KW  - deterministic and nondeterministic probabilistic optimizations
+KW  - design of experiments (DoE)
+KW  - response surface methodology (RSM)
+KW  - Monte Carlo simulation
+KW  - Taguchi method
+KW  - variability- and reliability-based optimizations
+KW  - robust design
+KW  - statistical probability distribution
+AB  - Abstract:
+This chapter discusses the fundamental concepts, advanced techniques, and theory in diesel engine system optimization to address the complex interactions between engine subsystems, from single- and multi-objective optimizations to deterministic and nondeterministic probabilistic optimizations. It begins with an overview of system optimization theory by introducing design of experiments (DoE), response surface methodology (RSM) and the Monte Carlo simulation to address the optimizations in design for target, design for variability and design for reliability. It then elaborates the theory of using RSM, advanced DoE optimization, and Monte Carlo simulation in engine system design. Finally, it details the optimizations of robust design for variability and reliability.
+ER  - 
+
+TY  - JOUR
+T1  - Speeding up many-objective optimization by Monte Carlo approximations
+AU  - Bringmann, Karl
+AU  - Friedrich, Tobias
+AU  - Igel, Christian
+AU  - Voß, Thomas
+JO  - Artificial Intelligence
+VL  - 204
+SP  - 22
+EP  - 29
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 0004-3702
+DO  - https://doi.org/10.1016/j.artint.2013.08.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0004370213000738
+KW  - Evolutionary algorithm
+KW  - Multi-objective optimization
+KW  - Pareto-front approximation
+KW  - Hypervolume indicator
+AB  - Many state-of-the-art evolutionary vector optimization algorithms compute the contributing hypervolume for ranking candidate solutions. However, with an increasing number of objectives, calculating the volumes becomes intractable. Therefore, although hypervolume-based algorithms are often the method of choice for bi-criteria optimization, they are regarded as not suitable for many-objective optimization. Recently, Monte Carlo methods have been derived and analyzed for approximating the contributing hypervolume. Turning theory into practice, we employ these results in the ranking procedure of the multi-objective covariance matrix adaptation evolution strategy (MO-CMA-ES) as an example of a state-of-the-art method for vector optimization. It is empirically shown that the approximation does not impair the quality of the obtained solutions given a budget of objective function evaluations, while considerably reducing the computation time in the case of multiple objectives. These results are obtained on common benchmark functions as well as on two design optimization tasks. Thus, employing Monte Carlo approximations makes hypervolume-based algorithms applicable to many-objective optimization.
+ER  - 
+
+TY  - JOUR
+T1  - A reverse logistics social responsibility evaluation framework based on the triple bottom line approach
+AU  - Nikolaou, Ioannis E.
+AU  - Evangelinos, Konstantinos I.
+AU  - Allan, S.
+JO  - Journal of Cleaner Production
+VL  - 56
+SP  - 173
+EP  - 184
+PY  - 2013
+DA  - 2013/10/01/
+T2  - Sustainability management beyond corporate boundaries
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2011.12.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652611005348
+KW  - Environmental management
+KW  - Corporate social responsibility (CSR)
+KW  - Sustainable development
+KW  - Supply chain
+AB  - Today, reverse logistics systems are considered very important for businesses to improve their overall environmental and financial performance. The majority of the present models of environmental and sustainable reverse logistics systems mainly focus on a number of environmental and economic aspects. However, these models have recently incorporated a limited number of social aspects and much more must be done to have a more complete picture of the quality performance of reverse logistics systems as well as being a critical factor in measuring the contribution of a firm to sustainable development. This paper proposes an integrated model for introducing Corporate Social Responsibility (CSR) and sustainability issues in reverse logistics systems as a means of developing a complete performance framework model. This will be done by developing a framework of performance indicators for measuring reverse logistics social responsibility performance based on the Triple Bottom Line approach (economic, environmental and social aspects). Finally, two numerical examples are presented in order to test the validity of the proposed framework.
+ER  - 
+
+TY  - JOUR
+T1  - A three phase supplier selection method based on fuzzy preference degree
+AU  - Mukherjee, Supratim
+AU  - Kar, Samarjit
+JO  - Journal of King Saud University - Computer and Information Sciences
+VL  - 25
+IS  - 2
+SP  - 173
+EP  - 185
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 1319-1578
+DO  - https://doi.org/10.1016/j.jksuci.2012.11.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1319157812000419
+KW  - Triangular fuzzy numbers
+KW  - Fuzzy preference degree
+KW  - Grey possibility degree
+KW  - Suppliers’ classification
+AB  - As competition is growing high on this globalized world, the companies are imposing more and more importance on the process of supplier selection. After the foundation of fuzzy logic, the problem of supplier selection has been treated from the viewpoint of uncertainty. The present work reviews and classifies different approaches towards this problem. A new fuzzy preference degree between two triangular fuzzy numbers is introduced and a new approach is prescribed to solve the problem using this preference degree. The weights of the Decision Makers are considered and a methodology is proposed to determine the weights. Moreover, a unique process of classifying the suppliers in different groups is proposed. The methodologies are exemplified by a suitable case study.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 54
+IS  - 4
+SP  - 322
+EP  - 418
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2013.05.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670113000192
+ER  - 
+
+TY  - JOUR
+T1  - Refurbishment decision support tools: A review from a Portuguese user’s perspective
+AU  - Ferreira, J.
+AU  - Duarte Pinheiro, M.
+AU  - de Brito, J.
+JO  - Construction and Building Materials
+VL  - 49
+SP  - 425
+EP  - 447
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0950-0618
+DO  - https://doi.org/10.1016/j.conbuildmat.2013.08.064
+UR  - http://www.sciencedirect.com/science/article/pii/S0950061813007940
+KW  - Decision-making
+KW  - Portugal
+KW  - Refurbishment
+KW  - Review
+KW  - Sustainability
+AB  - The importance of the refurbishment market in the construction industry has grown considerably in recent decades, especially in developed countries, where it sometimes represents nearly 50% of the market. At the same time, sustainability has become an imperative target for development, and therefore sustainable principles will have to be an integral part of refurbishment projects in the near future. However, financial resources are very limited and the ability of decision-support tools to embrace all these aspects needs urgent assessment. The aim of this paper is to review what has been done in terms of refurbishment decision support tools, from a user’s perspective. Thus, it first reviews the objectives and criteria of each tool to help users (architects, engineers and owners) to select the most suitable method for each particular situation. Their approaches and applicability are also discussed and classified on a simple scale to help users to choose the best algorithm from those tools whose objectives and criteria might meet their expectations. A complementary review is reported on what has been started in Portugal. Finally, the paper considers the likely options in terms of the main needs and areas of future research.
+ER  - 
+
+TY  - JOUR
+T1  - Content List
+JO  - IFAC Proceedings Volumes
+VL  - 46
+IS  - 9
+SP  - i
+EP  - lxx
+PY  - 2013
+DA  - 2013/01/01/
+T2  - 7th IFAC Conference on Manufacturing Modelling, Management, and Control
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20130619-3-RU-3018.90001
+UR  - http://www.sciencedirect.com/science/article/pii/S1474667016342537
+ER  - 
+
+TY  - JOUR
+T1  - A multiple strategic evaluation for fault detection in electrical power system
+AU  - Singh, A.K.
+AU  - Parida, S.K.
+JO  - International Journal of Electrical Power & Energy Systems
+VL  - 48
+SP  - 21
+EP  - 30
+PY  - 2013
+DA  - 2013/06/01/
+SN  - 0142-0615
+DO  - https://doi.org/10.1016/j.ijepes.2012.11.033
+UR  - http://www.sciencedirect.com/science/article/pii/S0142061512006862
+KW  - Admittance matrix
+KW  - Analytical approach
+KW  - Fault detection
+KW  - Optimization technique
+KW  - Power system
+KW  - State space model
+AB  - A new combined formalism is described to detect faults in electrical power systems in this work. The aim of fault detection is to monitor and control the system which guarantees stable supply of electrical energy to consumers. To solve this problem, it has been proposed an integrated use between state space, optimization and analytical method by establishing a methodology for its completion. Initially, state space method performs through deviations signaled by its output, an analysis with relation to direction of fault in each component of power system. Though, state space is in possession of as much information as possible coming from output signals, can identify direction where disturbance has been occurred. Finally, the processing is done by optimization and analytical methods, which analyze the exact fault type and locations, using these signs, corrective action have been taken. By using proposed technique, the tasks of fault detection, classification, and location are accomplished. The common case of faults occurring in the electrical power system has been illustrated to verify the proposed methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Synergizing fitness learning with proximity-based food source selection in artificial bee colony algorithm for numerical optimization
+AU  - Das, Swagatam
+AU  - Biswas, Subhodip
+AU  - Kundu, Souvik
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 12
+SP  - 4676
+EP  - 4694
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2013.07.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494613002354
+KW  - Swarm intelligence
+KW  - Artificial bee colony algorithm
+KW  - Biologically-inspired optimization
+KW  - Exploration
+KW  - Exploitation
+KW  - Fitness learning
+AB  - Evolutionary computation (EC) paradigm has undergone extensions in the recent years diverging from the natural process of genetic evolution to the simulation of natural life processes exhibited by the living organisms. Bee colonies exemplify a high level of intrinsic interdependence and co-ordination among its members, and algorithms inspired from the bee colonies have gained recent prominence in the field of swarm based metaheuristics. The artificial bee colony (ABC) algorithm was recently developed, by simulating the minimalistic foraging model of honeybees in search of food sources, for solving real-parameter, non-convex, and non-smooth optimization problems. The single parameter perturbation in classical ABC resulted in fairly commendable performance for simple problems without epistasis of variables (separable). However, it suffered from narrow search zone and slow convergence which eventually led to poor exploitation tendency. Even with the increase in dimensionality, a significant deterioration was observed in the ability of ABC to locate the optimum in a huge search volume. Some of the probable shortcomings in the basic ABC approach, as observed, are the single parameter perturbation instead of a multiple one, ignoring the fitness to reward ratio while selecting food sites, and most importantly the absence of environmental factors in the algorithm design. Research has shown that spatial environmental factors play a crucial role in insect locomotion and foragers seem to learn the direction to be undertaken based on the relative analysis of its proximal surroundings. Most importantly, the mapping of the forager locomotion from three dimensional search spaces to a multidimensional solution space calls forth the implementation of multiple modification schemes. Based on the fundamental observation pertaining to the dynamics of ABC, this article proposes an improved variant of ABC aimed at improving the optimizing ability of the algorithm over an extended set of problems. The hybridization of the proposed fitness learning mechanism with a weighted selection scheme and proximity based stimuli helps to achieve a fine blending of explorative and exploitative behaviour by enhancing both local and global searching ability of the algorithm. This enhances the ability of the swarm agents to detect optimal regions in the unexplored fitness basins. With respect to its immediate surroundings, a proximity based component is added to the normal positional modification of the onlookers and is enacted through an improved probability selection scheme that takes the T/E (total reward to distance) ratio metric into account. The biologically-motivated, hybridized variant of ABC achieves a statistically superior performance on majority of the tested benchmark instances, as compared to some of the most prominent state-of-the-art algorithms, as is demonstrated through a detailed experimental evaluation and verified statistically.
+ER  - 
+
+TY  - JOUR
+T1  - ANP model for sustainable Building Energy Efficiency Retrofit (BEER) using Energy Performance Contracting (EPC) for hotel buildings in China
+AU  - Xu, Pengpeng
+AU  - Chan, Edwin H.W.
+JO  - Habitat International
+VL  - 37
+SP  - 104
+EP  - 112
+PY  - 2013
+DA  - 2013/01/01/
+T2  - Low-Carbon Cities and Institutional Response
+SN  - 0197-3975
+DO  - https://doi.org/10.1016/j.habitatint.2011.12.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0197397511001019
+KW  - Building energy efficiency
+KW  - Retrofit
+KW  - Energy performance contracting (EPC)
+KW  - ANP
+AB  - Building Energy Efficiency Retrofit (BEER) is an attractive way toward low carbon buildings through improving energy efficiency of high-energy-consumption existing buildings. Sustainable development strategy has been reaching many spheres of human activities. Sustainable BEER aims to integrate the sustainable development concept into existing buildings and retrofit projects. To ensure BEER projects that can fulfill the sustainable development strategy, a project delivery model is one major consideration and Energy Performance Contracting (EPC) is one possible market mechanism to deliver energy efficiency projects. This paper aims to use Analytic Network Process (ANP) to develop a model for sustainable BEER under the EPC mechanism. Key performance indicators (KPIs) for sustainable BEER in hotel buildings and critical success factors (CSFs) for EPC have been identified based on a set of interview and questionnaire survey previously conducted by the authors. In this study, the relationships among sustainable dimensions, KPIs, and CSFs are identified through a focus group discussion. Finally, an ANP model is built based on the data collected in the group discussion using the SuperDecision software.
+ER  - 
+
+TY  - JOUR
+T1  - Developing green management standards for restaurants: An application of green supply chain management
+AU  - Wang, Yao-Fen
+AU  - Chen, Su-Ping
+AU  - Lee, Yi-Ching
+AU  - Tsai, Chen-Tsang (Simon)
+JO  - International Journal of Hospitality Management
+VL  - 34
+SP  - 263
+EP  - 273
+PY  - 2013
+DA  - 2013/09/01/
+SN  - 0278-4319
+DO  - https://doi.org/10.1016/j.ijhm.2013.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0278431913000480
+KW  - Green restaurant
+KW  - Food and beverage industry
+KW  - Sustainable development
+KW  - Green supply chain management
+KW  - Delphi Technique
+AB  - Hospitality businesses influence the sustainability of their natural environment by consuming significant amounts of natural resources. However, research on applying green supply chain management (GrSCM) with process of food production to construct green management indicators for restaurants is lacking. This study thus establishes a green management standard with GrSCM that green restaurants can implement. This study combines GrSCM and food and beverage management to develop green restaurant standards, and primarily adopts the Delphi Technique to develop green standards of restaurant management. A total of 23 experts from government, industry, and academia were invited to participate. The results show that green restaurant management standards comprise three facets (green foods; green environment and equipment; and green management and social responsibility), nine sub-facets, and 81 indicators: besides five indicators for the new established restaurant, the remaining 76 were standards for existing restaurants in Taiwan. In addition to its practical implications, an important contribution of this study is its application of GrSCM to establish a green management standard for restaurants.
+ER  - 
+
+TY  - JOUR
+T1  - Toward renewable energy geo-information infrastructures: Applications of GIScience and remote sensing that build institutional capacity
+AU  - Calvert, K.
+AU  - Pearce, J.M.
+AU  - Mabee, W.E.
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 18
+SP  - 416
+EP  - 429
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2012.10.024
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032112005667
+KW  - Renewable energy
+KW  - Geo-information
+KW  - GIS
+KW  - Constraint analysis
+KW  - Methodological scale
+AB  - Sustained policy support is necessary in order to drive a transition toward renewable energy (RE). The ability to realize RE policy objectives is constrained by a range of geographic factors related to resource potential, the distribution of resources, land availability/suitability, the absorptive capacity of proximal infrastructure, and local socio-political acceptance. With this in mind, this paper provides a systematic review of how geographic information science and remote sensing techniques have been applied to reduce uncertainties surrounding renewable energy development, with emphasis on policy and planning needs. The concept of a ‘geo-information infrastructure’ is used to bring coherence and direction to this growing body of literature. The review highlights four underdeveloped research areas, including: Resolving issues of scalar discordance through comprehensive analysis at local and regional scales; mapping interactions in space of multiple supply options to deliver more accurate and sophisticated estimates of RE potential in an area and to identify competitive and symbiotic land-use situations; using energy resource maps as primary inputs into the development of technology road-maps; and developing geographically explicit indicators which can signal priority areas for RE recovery based on social and environmental returns on investments. In each case, suggestions moving forward are provided. The paper identifies knowledge-based institutional networking as a pathway through which local and regional public authorities can be equipped with the resources necessary to build and mobilize a geo-information infrastructure.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy probabilistic rough set model on two universes and its applications
+AU  - Yang, Hai-Long
+AU  - Liao, Xiuwu
+AU  - Wang, Shouyang
+AU  - Wang, Jue
+JO  - International Journal of Approximate Reasoning
+VL  - 54
+IS  - 9
+SP  - 1410
+EP  - 1420
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 0888-613X
+DO  - https://doi.org/10.1016/j.ijar.2013.05.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0888613X13001138
+KW  - Rough sets
+KW  - Fuzzy relations
+KW  - Fuzzy probabilistic approximation spaces
+KW  - Fuzzy probabilistic rough sets
+AB  - The classical probabilistic rough set model is established based on a crisp binary relation. As a generalization of crisp binary relation, fuzzy relation makes descriptions of the objective world more realistic, practical, and accurate in some cases. Thus probabilistic rough set model based on a crisp binary relation limits its application domain. In this paper, based on a fuzzy relation, we propose a fuzzy probabilistic rough set model on two universes. Meanwhile, the concepts of the inverse lower and upper approximation operators are presented. We also study some properties of these approximation operators. Finally, a numerical example of the clinical diagnosis systems is applied to illustrate the validity of the proposed model. And we compare the proposed model with other models to show the superiority of the proposed model.
+ER  - 
+
+TY  - JOUR
+T1  - Ranking generalized fuzzy numbers in fuzzy decision making based on the left and right transfer coefficients and areas
+AU  - Yu, Vincent F.
+AU  - Chi, Ha Thi Xuan
+AU  - Dat, Luu Quoc
+AU  - Phuc, Phan Nguyen Ky
+AU  - Shen, Chien-wen
+JO  - Applied Mathematical Modelling
+VL  - 37
+IS  - 16
+SP  - 8106
+EP  - 8117
+PY  - 2013
+DA  - 2013/09/01/
+SN  - 0307-904X
+DO  - https://doi.org/10.1016/j.apm.2013.03.022
+UR  - http://www.sciencedirect.com/science/article/pii/S0307904X13001777
+KW  - Ranking
+KW  - Generalized fuzzy numbers
+KW  - MCDM
+AB  - Although a number of recent studies have proposed ranking fuzzy numbers based on the deviation degree, most of them have exhibited several shortcomings associated with non-discriminative and counter-intuitive problems. In fact, none of the existing deviation degree methods has guaranteed consistencies between the ranking of fuzzy numbers and that of their images under all situations. They have also ignored decision maker’s attitude toward risk, which significantly influences final ranking result. To overcome the above-mentioned drawbacks, this study proposes a new approach for ranking fuzzy numbers that ensures full consideration for all information of fuzzy numbers. Accordingly, an overall ranking index is obtained by the integration of the information from the left and the right (LR) areas between fuzzy numbers, the centroid points of fuzzy numbers and the decision maker’s attitude toward risk. This new method is efficient for evaluating generalized fuzzy numbers and distinguishing symmetric fuzzy numbers. It also overcomes the shortcomings of the existing approaches based on deviation degree. Several numerical examples are provided to illustrate the superiority of the proposed approach. Lastly, a new fuzzy MCDM approach for generalized fuzzy numbers is proposed based on the proposed ranking approach and the concept of generalized fuzzy numbers. The proposed fuzzy MCDM approach does not require the normalization process and thus avoids the loss of information results from transforming generalized fuzzy numbers to normal form.
+ER  - 
+
+TY  - JOUR
+T1  - A Multiple-Criteria and Multiple-Constraint Levels Linear Programming Based Error Correction Classification Model
+AU  - Wang, B.
+AU  - Wang, Y.
+JO  - Procedia Computer Science
+VL  - 17
+SP  - 1073
+EP  - 1082
+PY  - 2013
+DA  - 2013/01/01/
+T2  - First International Conference on Information Technology and Quantitative Management
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2013.05.136
+UR  - http://www.sciencedirect.com/science/article/pii/S187705091300269X
+KW  - Classification
+KW  - Two Types of Error
+KW  - Multiple-Criteria Linear Programming
+KW  - Multiple-Criteria and Multiple-Constraint Levels Linear Programming
+KW  - Matrix Representation
+AB  - Optimization based classification methods find classifier of a classification problem by solving one or a series of optimization problems, such as linear programming, convex programming and so on. In addition to this, in many applications, for example, credit card account classification, how to handle two types of error is a key issue. Combining linear programming method and error correction, using the structure of a multiple-criteria and multiple-constraint levels linear programming (MC2LP), which allows two alterable cutoffs, two types of error can be systematically corrected. Therefore, in this paper, we pose a new MC2LP model that can correct two types of error. In the new model, two parallel hyperplanes are used to indicate the relative positions between the points and hyperplanes. In other words, it can treat two types of error differently. Especially, it can be developed into a pair of models, which can deal with two types of error respectively. Besides, we will give the matrix representation of the new models and discuss some properties of them. Moreover, experiment result will show the effectiveness of this new dual-hyperplane model.
+ER  - 
+
+TY  - JOUR
+T1  - Systematic Approach to Successful Implementation of ITIL
+AU  - Ahmad, Norita
+AU  - Shamsudin, Zulkifli M.
+JO  - Procedia Computer Science
+VL  - 17
+SP  - 237
+EP  - 244
+PY  - 2013
+DA  - 2013/01/01/
+T2  - First International Conference on Information Technology and Quantitative Management
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2013.05.032
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050913001658
+KW  - Information Technology Infrastructure Library
+KW  - ITIL
+KW  - Critical Success Factors
+KW  - Analytical Hierarchy Process
+KW  - Systematic Approach
+AB  - Information Technology and Infrastructure Library implementation is not well spelled out in documentation and therefore can be very challenging. In this study, a literature review is conducted to identify critical success factors (CSFs) for ITIL implementation. The CSFs are then used in an improved solution to the decision problem using Analytical Hierarchy Process. In order to validate the proposed model, it was applied to a case study of a company in the United Arab Emirates, where the ITIL implementation project failed.
+ER  - 
+
+TY  - JOUR
+T1  - Location and allocation decisions for multi-echelon supply chain network – A multi-objective evolutionary approach
+AU  - Latha Shankar, B.
+AU  - Basavarajappa, S.
+AU  - Chen, Jason C.H.
+AU  - Kadadevaramath, Rajeshwar S.
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 2
+SP  - 551
+EP  - 562
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2012.07.065
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417412009219
+KW  - Four-echelon supply chain architecture
+KW  - Evolutionary approach
+KW  - Non-dominated sorting algorithm
+KW  - MOHPSO
+KW  - Swarm intelligence
+AB  - This paper aims at multi-objective optimization of single-product for four-echelon supply chain architecture consisting of suppliers, production plants, distribution centers (DCs) and customer zones (CZs). The key design decisions considered are: the number and location of plants in the system, the flow of raw materials from suppliers to plants, the quantity of products to be shipped from plants to DCs, from DCs to CZs so as to minimize the combined facility location and shipment costs subject to a requirement that maximum customer demands be met. To optimize these two objectives simultaneously, four-echelon network model is mathematically represented considering the associated constraints, capacity, production and shipment costs and solved using swarm intelligence based Multi-objective Hybrid Particle Swarm Optimization (MOHPSO) algorithm. This evolutionary based algorithm incorporates non-dominated sorting algorithm into particle swarm optimization so as to allow this heuristic to optimize two objective functions simultaneously. This can be used as decision support system for location of facilities, allocation of demand points and monitoring of material flow for four-echelon supply chain network.
+ER  - 
+
+TY  - JOUR
+T1  - A fuzzy-decision-tree approach for manufacturing technology selection exploiting experience-based information
+AU  - Evans, Liam
+AU  - Lohse, Niels
+AU  - Summers, Mark
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 16
+SP  - 6412
+EP  - 6426
+PY  - 2013
+DA  - 2013/11/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2013.05.047
+UR  - http://www.sciencedirect.com/science/article/pii/S095741741300345X
+KW  - Experience-based decision support
+KW  - Manufacturing technology selection
+KW  - Fuzzy decision tree
+KW  - Data mining
+AB  - Manufacturing technology selection is traditionally a human-driven approach where the trade-off of alternative manufacturing investments is steered by a group of experts. The problem is a semi-structured and subjective-based decision practice influenced by the experience and intuitive feeling of the decision-makers involved. This paper presents a distinct experience-based decision support system that uses factual information of historical decisions to calculate confidence factors for the successful adoption of potential technologies for a given set of requirements. A fuzzy-decision-tree algorithm is applied to provide a more objective approach given the evidence of previous manufacturing technology implementation cases. The model uses the information relationship of key technology decision variables, project requirements of an implemented technology case and the success outcome of a project to support decision problems. An empirical study was conducted at an aircraft manufacturer to support their technology decision for a typical medium complexity assembly investment project. The experimental analysis demonstrated encouraging results and practical viability of the approach.
+ER  - 
+
+TY  - JOUR
+T1  - Ecosilient Index to assess the greenness and resilience of the upstream automotive supply chain
+AU  - Azevedo, Susana G.
+AU  - Govindan, Kannan
+AU  - Carvalho, Helena
+AU  - Cruz-Machado, V.
+JO  - Journal of Cleaner Production
+VL  - 56
+SP  - 131
+EP  - 146
+PY  - 2013
+DA  - 2013/10/01/
+T2  - Sustainability management beyond corporate boundaries
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2012.04.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652612001989
+KW  - Green
+KW  - Resilient
+KW  - Supply chain management
+KW  - Index
+KW  - Automotive industry
+AB  - This paper suggests an Ecosilient Index to assess the greenness and resilience of automotive companies and the corresponding supply chain. An integrated assessment model is proposed based on green and resilient practices. The Delphi technique is used to obtain the weights of the supply chain paradigms that are the focus of the study and the corresponding practices. The application of the proposed index is then illustrated using a case study approach in the automotive supply chain; in particular the case study is focused in the link supplier/manufacturer. The case study findings confirm the applicability of this index in a real-world supply chain and highlight its managerial implications. The results show that the resilient paradigm is considered to be the one that contributes more to the competitiveness of the automotive supply chain. The green practice identified as the most important to the greenness of this industry is to reduce energy consumption. The significant contributions to resilience are sourcing strategies that allow switching of suppliers, flexible supply base/flexible sourcing and creating total supply chain visibility. The proposed index was developed in the context of automotive sector; this constitutes an initial effort to close the gap between theory and practice. Future research is needed to investigate the index applicability in different industry contexts.
+ER  - 
+
+TY  - JOUR
+T1  - Curriculum planning of MICE course in continuing education
+AU  - Hsieh, Pi-feng
+JO  - Journal of Hospitality, Leisure, Sport & Tourism Education
+VL  - 13
+SP  - 107
+EP  - 122
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 1473-8376
+DO  - https://doi.org/10.1016/j.jhlste.2013.08.002
+UR  - http://www.sciencedirect.com/science/article/pii/S147383761300018X
+KW  - Curriculum
+KW  - MICE course
+KW  - Continuing education
+KW  - Analytic hierarchy process (AHP)
+KW  - Fuzzy Delphi technique
+KW  - Sensitivity analysis
+AB  - The rapid development on the MICE industry has created an increased demand for labor. This study explores the curriculum frameworks of the MICE course for continuing education, rather than the baccalaureate program, to educate the prospective workforce to be immediately available for the industry. The fuzzy Delphi technique, analytic hierarchical process, and sensitivity analysis are applied to analyze the curriculum framework. Additionally, two objectives are proposed to the needs of the MICE profession: the planning-focused and the operation-focused programs. The proposed curriculum frameworks provide systematic planning for MICE programs and offer a solution to the labor shortage in the industry.
+ER  - 
+
+TY  - JOUR
+T1  - A probabilistic framework for the evaluation of products' environmental performance using life cycle approach and Principal Component Analysis
+AU  - Bersimis, Sotirios
+AU  - Georgakellos, Dimitrios
+JO  - Journal of Cleaner Production
+VL  - 42
+SP  - 103
+EP  - 115
+PY  - 2013
+DA  - 2013/03/01/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2012.10.038
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652612005707
+KW  - Principal Component Analysis
+KW  - Life Cycle Assessment
+KW  - Aggregation
+KW  - Beverage containers
+AB  - Life-cycle thinking is the scientific approach behind modern business decision support related to sustainable consumption and production. However, such techniques provide a large amount of multi-dimensional data that are difficult to comprehend and to interpret. Thus, the present work intends to provide a useful tool to aid the assessment of the environmental performance of products, which will be as unambiguous and reliable as possible. This tool will be based on the life cycle inventory results, on Principal Component Analysis and on probability distributions providing in that way an objective framework for evaluating products' environmental performance. Furthermore, a graphical representation that may be used as a tag in each product providing its environmental efficiency has been developed and proposed. This tool is being presented through a real application of various beverage containers of the Greek market, to better highlight its use. As was revealed by this application, the tool can be used for categorizing the examined products according to the impact severity as well as the impact types associated with them. Finally, a consistency appraisal test has been accomplished, confirming the consistency of the proposed model.
+ER  - 
+
+TY  - JOUR
+T1  - Rallying competencies in virtual communities: A study of core processes and user interest in open source software projects
+AU  - Ghapanchi, Amir Hossein
+JO  - Information and Organization
+VL  - 23
+IS  - 2
+SP  - 129
+EP  - 148
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 1471-7727
+DO  - https://doi.org/10.1016/j.infoandorg.2013.03.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1471772713000146
+AB  - Managing work practices has become one of the key challenges facing virtual communities. This paper seeks to broaden the research on virtual communities by applying the theory of competency rallying (TCR) in a longitudinal manner to examine the impact of task identification, task assignment, task execution and task management on user interest in open source software (OSS) projects defined by popularity and communication. The aim of this paper is: (1) re-conceptualizing the concept of user interest and broadening our understanding of user interest by incorporating users' post-usage behaviors, (2) examining the effect of various tasks involved in an OSS project's key processes of defect-fixing and feature-enhancement on user interest. The current study found that project popularity is positively influenced by task assignment, task execution and task management. Additionally, user communication was found to be positively impacted by task identification and task execution. The data collected from 1178 OSS projects in a longitudinal manner (at 3 time points over a period of 16months) confirmed the expectations from TCR and also demonstrated that over time the effects that development of competencies and managing short term cooperative work have on project success might increase, while the impact of identifying market needs and marshalling competencies may not significantly change.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 54
+IS  - 1
+SP  - 2
+EP  - 92
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2012.12.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670112000537
+ER  - 
+
+TY  - JOUR
+T1  - An invitation to contribute to a strategic research agenda in radioecology
+AU  - Hinton, T.G.
+AU  - Garnier-Laplace, J.
+AU  - Vandenhove, H.
+AU  - Dowdall, M.
+AU  - Adam-Guillermin, C.
+AU  - Alonzo, F.
+AU  - Barnett, C.
+AU  - Beaugelin-Seiller, K.
+AU  - Beresford, N.A.
+AU  - Bradshaw, C.
+AU  - Brown, J.
+AU  - Eyrolle, F.
+AU  - Fevrier, L.
+AU  - Gariel, J.-C.
+AU  - Gilbin, R.
+AU  - Hertel-Aas, T.
+AU  - Horemans, N.
+AU  - Howard, B.J.
+AU  - Ikäheimonen, T.
+AU  - Mora, J.C.
+AU  - Oughton, D.
+AU  - Real, A.
+AU  - Salbu, B.
+AU  - Simon-Cornu, M.
+AU  - Steiner, M.
+AU  - Sweeck, L.
+AU  - Vives i Batlle, J.
+JO  - Journal of Environmental Radioactivity
+VL  - 115
+SP  - 73
+EP  - 82
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0265-931X
+DO  - https://doi.org/10.1016/j.jenvrad.2012.07.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0265931X12001920
+KW  - Radioecology
+KW  - Research
+KW  - Agenda
+KW  - Vision
+KW  - STAR
+KW  - ALLIANCE
+AB  - With intentions of integrating a portion of their respective research efforts into a trans-national programme that will enhance radioecology, eight European organisations recently formed the European Radioecology ALLIANCE (www.er-alliance.org). The ALLIANCE is an Association open to other organisations throughout the world with similar interests in promoting radioecology. The ALLIANCE members recognised that their shared radioecological research could be enhanced by efficiently pooling resources among its partner organizations and prioritising group efforts along common themes of mutual interest. A major step in this prioritisation process was to develop a Strategic Research Agenda (SRA). An EC-funded Network of Excellence in Radioecology, called STAR (Strategy for Allied Radioecology), was formed, in part, to develop the SRA. This document is the first published draft of the SRA. The SRA outlines a suggested prioritisation of research topics in radioecology, with the goal of improving research efficiency and more rapidly advancing the science. It responds to the question: “What topics, if critically addressed over the next 20 years, would significantly advance radioecology?” The three Scientific Challenges presented within the SRA, with their 15 associated research lines, are a strategic vision of what radioecology can achieve in the future. Meeting these challenges will require a directed effort and collaboration with many organisations the world over. Addressing these challenges is important to the advancement of radioecology and in providing scientific knowledge to decision makers. Although the development of the draft SRA has largely been a European effort, the hope is that it will initiate an open dialogue within the international radioecology community and its stakeholders. This is an abbreviated document with the intention of introducing the SRA and inviting contributions from interested stakeholders. Critique and input for improving the SRA are welcomed via a link on the STAR website (www.star-radioecology.org).
+ER  - 
+
+TY  - JOUR
+T1  - APhA2013 abstracts of contributed papers
+JO  - Journal of the American Pharmacists Association
+VL  - 53
+IS  - 2
+SP  - e8
+EP  - e117
+PY  - 2013
+DA  - 2013/03/01/
+SN  - 1544-3191
+DO  - https://doi.org/10.1331/JAPhA.2013.13508
+UR  - http://www.sciencedirect.com/science/article/pii/S1544319115303204
+ER  - 
+
+TY  - JOUR
+T1  - Mining consensus preference graphs from users' ranking data
+AU  - Chen, Yen-Liang
+AU  - Cheng, Li-Chen
+AU  - Huang, Po-Hsiang
+JO  - Decision Support Systems
+VL  - 54
+IS  - 2
+SP  - 1055
+EP  - 1064
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0167-9236
+DO  - https://doi.org/10.1016/j.dss.2012.10.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923612002862
+KW  - Data mining
+KW  - Decision making
+KW  - Group decision making
+KW  - Maximum consensus sequence
+KW  - Preference graph
+AB  - The group ranking problem consists of constructing coherent aggregated results from preference data provided by decision makers. Traditionally, the output of a group ranking problem can be classified into ranking lists and maximum consensus sequences. In this study, we propose a consensus preference graph approach to represent the coherent aggregated results of users' preferences. The advantages of our approach are that (1) the graph is built based on users' consensuses, (2) the graph can be understood intuitively, and (3) the relationships between items can be easily seen. An algorithm is developed to construct the consensus preference graph from users' total ranking data. Finally, extensive experiments are carried out using synthetic and real data sets. The experimental results indicate that the proposed method is computationally efficient, and can effectively identify consensus graphs.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria robust design of a JIT-based cross-docking distribution center for an auto parts supply chain
+AU  - Shi, Wen
+AU  - Liu, Zhixue
+AU  - Shang, Jennifer
+AU  - Cui, Yujia
+JO  - European Journal of Operational Research
+VL  - 229
+IS  - 3
+SP  - 695
+EP  - 706
+PY  - 2013
+DA  - 2013/09/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2013.03.013
+UR  - http://www.sciencedirect.com/science/article/pii/S037722171300221X
+KW  - Cross docking
+KW  - Supply chain simulation
+KW  - Robust optimization
+KW  - Response surface methodology
+KW  - Latin hypercube sampling
+KW  - Bootstrapping
+AB  - We present a solution framework based on discrete-event simulation and enhanced robust design technique to address a multi-response optimization problem inherent in logistics management. The objective is to design a robust configuration for a cross-docking distribution center so that the system is insensitive to the disturbances of supply uncertainty, and provides steady parts supply to downstream assembly plants. In the proposed approach, we first construct a simulation model using factorial design and central composite design (CCD), and then identify the models that best describe the relationship between the simulation responses and system factors. We employ the response surface methodology (RSM) to identify factor levels that would maximize system potential. To make the system immune to factors that could adversely affect performance, we propose a robust design approach by incorporating Latin hypercube sampling and take the noise factors (disturbances) into account. Due to the need of accommodating multiple performance measures and to ensure all responses stay within the desired targets, we adapt Derringer–Suich’s desirability function to determine the optimal operating conditions. Finally, we use bootstrapping to compare the results obtained by the classic RSM and the proposed robust design. The proposed model helps the studied auto parts supply chain to develop insights into the system dynamics, and to identify the operating setting that minimize the impact of supply uncertainty on the performance of the cross-docking facility.
+ER  - 
+
+TY  - JOUR
+T1  - A fuzzy inference and categorization approach for supplier selection using compensatory and non-compensatory decision rules
+AU  - Lima, Francisco Rodrigues
+AU  - Osiro, Lauro
+AU  - Carpinetti, Luiz Cesar R.
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 10
+SP  - 4133
+EP  - 4147
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2013.06.020
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494613002093
+KW  - Supplier selection
+KW  - Supplier categorization
+KW  - Fuzzy inference
+KW  - Simple fuzzy grid classification method
+KW  - Multicriteria decision making
+AB  - Fuzzy set theory has been used as an approach to deal with uncertainty in the supplier selection decision process. However, most studies limit applications of fuzzy set theory to outranking potential suppliers, not including a qualification stage in the decision process, in which non-compensatory types of decision rules can be used to reduce the set of potential suppliers. This paper presents a supplier selection decision method based on fuzzy inference that integrates both types of approaches: a non-compensatory rule for sorting in qualification stages and a compensatory rule for ranking in the final selection. Fuzzy inference rules model human reasoning and are embedded in the system, which is an advantage when compared to approaches that combine fuzzy set theory with multicriteria decision making methods. Fuzzy inference combined with a fuzzy rule-based classification method is used to categorize suppliers in qualification stages. Classes of supplier performance can be represented by linguistic terms, which allow decision makers to deal with subjectivity and to express qualification requirements in linguistic formats. Implementation of the proposed method and techniques were analyzed and discussed using an illustrative case. Three defuzzification operators were used in the final selection, yielding the same ranking. Factorial design was applied to test consistency and sensitivity of the inference rules. The findings reinforce the argument that including stages of qualification based on fuzzy inference and categorization makes this method especially useful for selecting from a large set of potential suppliers and also for first time purchase.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling uncertainty in the sustainability of Intelligent Transport Systems for highways using probabilistic data fusion
+AU  - Kolosz, Ben
+AU  - Grant-Muller, Susan
+AU  - Djemame, Karim
+JO  - Environmental Modelling & Software
+VL  - 49
+SP  - 78
+EP  - 97
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2013.07.011
+UR  - http://www.sciencedirect.com/science/article/pii/S1364815213001709
+KW  - Uncertainty modelling
+KW  - Low carbon-energy policy
+KW  - Intelligent Transport Systems
+AB  - The implementation of ITS to increase the efficiency of saturated highways has become increasingly prevalent. It is a high level objective for many international governments and operators that highways should be managed in a way that is both sustainable i.e. environmental, social and economically sound and supportive of a Low-Carbon-Energy Future. Some clarity is therefore needed to understand how Intelligent Transport Systems perform within the constraints of that objective. The paper describes the development of performance criteria that reflect the contributions of Information Communication Technology (ICT) emissions, vehicle emissions and the embedded carbon within the physical transport infrastructure that typically comprises one type of Intelligent Transport System i.e. Active Traffic Management – a scheme that is used to reduce inter-urban congestion. The performance criteria form part of a new framework methodology ‘EnvFUSION’ (Environmental Fusion for ITS) outlined here. This is illustrated using a case study where environmental performance and pollution baselines (collected from independent experts, academic, governmental sources and suppliers) are processed using an attributional Lifecycle Assessment tool. The tool assesses the production and operational processes of the physical infrastructure of Active Traffic Management using inputs from the ‘Ecoinvent’ database. The ICT component (responsible for data links) is assessed using direct observation, whilst vehicle emissions are estimated using data from a National Atmospheric Emissions Laboratory. Analytical Hierarchy Process and Dempster–Shafer theory are used to create a prioritised performance hierarchy: the Intelligent Transport Sustainability Index, which includes weighted criteria based on stakeholder expertise. A synthesis of the individual criteria is then used to reflect the overall performance of the Active Traffic Management scheme in terms of sustainability (low-carbon-energy and socio-economic) objectives.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-machine power system stabilizer design by using cultural algorithms
+AU  - Khodabakhshian, Amin
+AU  - Hemmati, Reza
+JO  - International Journal of Electrical Power & Energy Systems
+VL  - 44
+IS  - 1
+SP  - 571
+EP  - 580
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0142-0615
+DO  - https://doi.org/10.1016/j.ijepes.2012.07.049
+UR  - http://www.sciencedirect.com/science/article/pii/S0142061512004097
+KW  - Power system stabilizer
+KW  - Low frequency oscillations
+KW  - Cultural algorithms
+KW  - Genetic algorithms
+AB  - Conventional power system stabilizer (CPSS) has been widely used as a supplementary controller to damp out the low frequency oscillations. The tuning of CPSS parameters for nonlinear power systems in a robust way in order that the overall system stability can be improved is a major drawback of CPSS. Several meta-heuristic optimization techniques have been tried out to overcome this shortcoming. This paper presents a new technique named cultural algorithms (CAs) to tune the PSS parameters. This technique is robust and computationally efficient as compared with other meta-heuristic algorithms. Simulations are carried out on two typical multi-machine electric power systems. The results clearly verify that the proposed method improves the dynamic stability of the system, especially when the operating point changes.
+ER  - 
+
+TY  - JOUR
+T1  - Introducing a mixed-integer non-linear fuzzy model for risk management in designing supply chain networks
+AU  - Tabrizi, Babak H.
+AU  - Razmi, Jafar
+JO  - Journal of Manufacturing Systems
+VL  - 32
+IS  - 2
+SP  - 295
+EP  - 307
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2012.12.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0278612512001045
+KW  - Supply chain management
+KW  - Network design
+KW  - Uncertainty
+KW  - Fuzzy logic
+KW  - Benders decomposition
+AB  - Nowadays, supply chains play an inevitable role in prompt handling of varying customers’ needs. Administration of a successful supply chain depends on how efficiently the network design is accomplished. Therefore, a supply chain network design problem is considered in this paper. The network addresses an uncertain environment threatened by different risk sources in order to captivate the real world conditions. A mixed-integer non-linear mathematical model is developed in which the uncertainties are represented by the fuzzy set theory. Benders decomposition is then applied to solve the proposed problem; consequently, the model is transformed into a mixed-integer one. Moreover, an interactive resolution method is applied to provide the decision maker with alternative decision plans in regard to different satisfaction degrees. Finally, the accuracy of the proposed model is checked by sensitivity analysis test and its performance is considered by different numerical examples.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing secondary soil salinization risk based on the PSR sustainability framework
+AU  - Zhou, De
+AU  - Lin, Zhulu
+AU  - Liu, Liming
+AU  - Zimmermann, David
+JO  - Journal of Environmental Management
+VL  - 128
+SP  - 642
+EP  - 654
+PY  - 2013
+DA  - 2013/10/15/
+SN  - 0301-4797
+DO  - https://doi.org/10.1016/j.jenvman.2013.06.025
+UR  - http://www.sciencedirect.com/science/article/pii/S0301479713004283
+KW  - Secondary soil salinization
+KW  - Salinity risk assessment
+KW  - Agricultural sustainability
+KW  - PSR framework
+KW  - Grey theory model
+KW  - Yinchuan Plain
+AB  - Risk assessment of secondary soil salinization, which is caused in part by the way people manage the land, is an essential challenge to agricultural sustainability. The objective of our study was to develop a soil salinity risk assessment methodology by selecting a consistent set of risk factors based on the conceptual Pressure-State-Response (PSR) sustainability framework and incorporating the grey relational analysis and the Analytic Hierarchy Process methods. The proposed salinity risk assessment methodology was demonstrated through a case study of developing composite risk index maps for the Yinchuan Plain, a major irrigation agriculture district in northwest China. Fourteen risk factors were selected in terms of the three PSR criteria: pressure, state, and response. The results showed that the salinity risk in the Yinchuan Plain was strongly influenced by the subsoil and groundwater salinity, land use, distance to irrigation canals, and depth to groundwater. To maintain agricultural sustainability in the Yinchuan Plain, a suite of remedial and preventative actions were proposed to manage soil salinity risk in the regions that are affected by salinity at different levels and by different salinization processes. The weight sensitivity analysis results also showed that the overall salinity risk of the Yinchuan Plain would increase or decrease as the weights for pressure or response risk factors increased, signifying the importance of human activities on secondary soil salinization. Ideally, the proposed methodology will help us develop more consistent management tools for risk assessment and management and for control of secondary soil salinization.
+ER  - 
+
+TY  - JOUR
+T1  - Reducing the energy consumption and CO2 emissions of energy intensive industries through decision support systems – An example of application to the steel industry
+AU  - Porzio, Giacomo Filippo
+AU  - Fornai, Barbara
+AU  - Amato, Alessandro
+AU  - Matarese, Nicola
+AU  - Vannucci, Marco
+AU  - Chiappelli, Lisa
+AU  - Colla, Valentina
+JO  - Applied Energy
+VL  - 112
+SP  - 818
+EP  - 833
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2013.05.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0306261913003942
+KW  - Simulation
+KW  - Energy consumption reduction
+KW  - CO reduction
+KW  - Decision support
+KW  - Process optimisation
+AB  - The management of process industries is becoming in the recent years more and more challenging, given the stringent environmental policies as well as raising energy costs and the always-present drive for profit. A way to help plant decision makers in their daily choices is to refer to decision-support tools, which can give advice on the best practices on how to operate a plant in order to reduce the energy consumption and the CO2 emissions keeping at the same time the costs under control. Such an approach can be useful in a variety of industries, particularly the most energy-intensive ones such as iron and steel industries. In this paper, an approach to the realisation of a software system, which allows to generate internal reports on the plant performances, as well as to simulate the plant behaviour in different scenarios, is described. The main production processes (coke plant, blast furnace, steel shop, hot rolling mill) are described and simulated focusing on the prediction of products flow rates and composition, energy consumption and GHGs (Greenhouse Gases) emissions in different operating conditions. The importance of a correct management of the CO2 within the plant is underlined, particularly with regard to the new EU Emission Trading System, which will be based on European benchmarks. The software tool is illustrated and a case study is included, which focuses on the simultaneous minimisation of the CO2 emissions and maximisation of the profit through an optimised management of the by-product gases. The results from the case study show a good potential for process improvement, by a reduction in the cost and environmental impact.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy cognitive strategic maps in business process performance measurement
+AU  - Glykas, M.
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 1
+SP  - 1
+EP  - 14
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2012.01.078
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417412000917
+KW  - Strategic simulation
+KW  - Fuzzy Cognitive Mapping
+KW  - Business metrics
+KW  - Management tools
+AB  - This paper elaborates on the application of Fuzzy Cognitive Maps (FCMs) in strategy maps (SMs). The limitations of the Balanced Scorecards (BSCs) and SMs are first discussed and analyzed. The need for simulated scenario based SMs is discussed and the use of FCMs as one of the best alternatives is presented. A software tool for the development, simulation and analysis of FCM based SMs is also presented. The effectiveness of the resulting software tool and FCM theory in SMs is experimented in two case studies in Banking.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of mobile services and substantial adoption factors with Analytic Hierarchy Process (AHP)
+AU  - Nikou, Shahrokh
+AU  - Mezei, József
+JO  - Telecommunications Policy
+VL  - 37
+IS  - 10
+SP  - 915
+EP  - 929
+PY  - 2013
+DA  - 2013/11/01/
+T2  - Regulating and investment in new communications infrastructure
+T2  - Understanding ICT adoption and market trends: Papers from recent European ITS regional conferences
+SN  - 0308-5961
+DO  - https://doi.org/10.1016/j.telpol.2012.09.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0308596112001772
+KW  - Mobile services
+KW  - Service adoption
+KW  - Adoption factors
+KW  - Mobile service categories
+KW  - Analytic Hierarchy Process
+AB  - Emergence of new technological innovations in networks, platforms, and applications has enabled service providers to gain back their massive investment in their infrastructures. However, due to lagging adoption, many service innovations have failed to generate profit. The adoption of different mobile service categories depends on several factors. The current explorative study aims to use Analytic Hierarchy Process (AHP) to identify the most relevant mobile services for consumers and the factors driving the adoption. The results of the AHP analyses indicate that functionality of services is of utmost important for the majority of respondents. The results reveal that basic mobile communication services are the most preferred ones, although several services within different categories are available. The results have important implications for mobile network operators, service and application providers on how to develop and implement specific mobile services. The current study also offers new insights for researchers by showing that AHP is applicable to analyze consumers' preferences.
+ER  - 
+
+TY  - JOUR
+T1  - The Comprehensive Research on Scheme Evaluation of Urban Expressway
+AU  - Jing, Guoqing
+AU  - Fu, Pengfei
+AU  - Peng, Wang
+AU  - Xu, Jing
+JO  - Procedia - Social and Behavioral Sciences
+VL  - 96
+SP  - 856
+EP  - 864
+PY  - 2013
+DA  - 2013/11/06/
+T2  - Intelligent and Integrated Sustainable Multimodal Transportation Systems Proceedings from the 13th COTA International Conference of Transportation Professionals (CICTP2013)
+SN  - 1877-0428
+DO  - https://doi.org/10.1016/j.sbspro.2013.08.097
+UR  - http://www.sciencedirect.com/science/article/pii/S1877042813022234
+KW  - Urban Expressway
+KW  - Evaluation Index System
+KW  - Fuzzy Comprehensive Evaluation
+KW  - Grey Relational Evaluation
+AB  - This paper studies the evaluation system of urban expressway schemes. By comparing the most widely-used evaluation methods, analytic hierarchy process method is selected to build the framework of the indexes system. After the classification and screening, technical indexes, economic indexes, construction indexes and environmental indexes are selected as the first grade containing second representative indexes. The methods to define and to quantify these qualitative evaluation indexes and determination of the weight of each index are studied in this paper. Next, the evaluation value is calculated by establish mathematical model with fuzzy evaluation method and gray correlation analysis method, so the optimal scheme can be gained by sorting analysis. Finally, an urban expressway of Nantong as an example is evaluated according this system to verify the correctness of this evaluation method. In general, the research presents a specific method of urban expressway scheme evaluation, quantifies each scheme into specific value in order to make comparison easy, and provides a reference for future evaluation.
+ER  - 
+
+TY  - JOUR
+T1  - From mixed to separate collection of solid waste: Benefits for the town of Zavidovići (Bosnia and Herzegovina)
+AU  - Vaccari, Mentore
+AU  - Bella, Veronica Di
+AU  - Vitali, Francesco
+AU  - Collivignarelli, Carlo
+JO  - Waste Management
+VL  - 33
+IS  - 2
+SP  - 277
+EP  - 286
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0956-053X
+DO  - https://doi.org/10.1016/j.wasman.2012.09.012
+UR  - http://www.sciencedirect.com/science/article/pii/S0956053X12004242
+KW  - Decision making
+KW  - Recycling
+KW  - Scenarios
+KW  - Solid waste management
+KW  - Separate collection
+KW  - Transitional economies
+AB  - In Bosnia and Herzegovina only 50% of the municipalities have a well-organized service for (mixed) waste collection and disposal. Illegal dumping is very common, in particular in rural areas, which are not regularly served by any service of collection. This situation leads to serious risks for public health and has dangerous environmental impacts. In Zavidovići the municipality is trying to meet high standards in the delivery of services of waste collection, but is constrained by scarce financial and technical resources. Different scenarios for the implementation of a system of separate collection in Zavidovići were elaborated in order to provide a useful tool for decision making by comparing costs and environmental & economic benefits of each scenario. Six scenarios were considered, based on different recovery rates for plastic, paper & cardboard, and metals. Benefits resulting from the implementation of each of the proposed scenarios are compared in terms of savings of landfill volume and costs. The study concludes that the adoption of a system of separate collection could generate positive impacts on all the stakeholders involved in the solid waste management sector in Zavidovići and could contribute to the compliance of European standards in many Central and Eastern European countries as established by a number of national environmental protection strategies.
+ER  - 
+
+TY  - JOUR
+T1  - A social recommender mechanism for e-commerce: Combining similarity, trust, and relationship
+AU  - Li, Yung-Ming
+AU  - Wu, Chun-Te
+AU  - Lai, Cheng-Yang
+JO  - Decision Support Systems
+VL  - 55
+IS  - 3
+SP  - 740
+EP  - 752
+PY  - 2013
+DA  - 2013/06/01/
+SN  - 0167-9236
+DO  - https://doi.org/10.1016/j.dss.2013.02.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923613000705
+KW  - E-commerce
+KW  - Social recommender systems
+KW  - Preference similarity
+KW  - Trust
+KW  - Social relation
+KW  - Analytic hierarchy process
+AB  - Online business transactions and the success of e-commerce depend greatly on the effective design of a product recommender mechanism. This study proposes a social recommender system that can generate personalized product recommendations based on preference similarity, recommendation trust, and social relations. Compared with traditional collaborative filtering approaches, the advantage of the proposed mechanism is its comprehensive consideration of recommendation sources. Accordingly, our experimental results show that the proposed model outperforms other benchmark methodologies in terms of recommendation accuracy. The proposed framework can also be effectively applied to e-commerce retailers to promote their products and services.
+ER  - 
+
+TY  - JOUR
+T1  - Examining influence of national culture on individuals’ attitude and use of information and communication technology: Assessment of moderating effect of culture through cross countries study
+AU  - Kaba, Bangaly
+AU  - Osei-Bryson, Kweku-Muata
+JO  - International Journal of Information Management
+VL  - 33
+IS  - 3
+SP  - 441
+EP  - 452
+PY  - 2013
+DA  - 2013/06/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2013.01.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0268401213000133
+KW  - National culture
+KW  - Perceptions of IT
+KW  - Cellular phone
+KW  - Quebec
+KW  - Guinea
+AB  - Few studies have examined the influence of national culture on individuals’ perceptions of Information and Communication Technology (ICT). Moreover the few existing studies have contradictory findings. While some researchers have suggested a relationship between culture and individuals’ interactions with and perceptions of ICT innovations, other research found no such link. The purpose of this article is to better understand the influence of culture on individuals’ attitudes by comparing the use of cellular phones in Quebec and Guinea. The findings suggest that Ease of Use and Usefulness are sensitive to cultural influence. However, the hypotheses relative to the moderating effects of culture on the Social Pressure, Image, average calls made and average turnaround time spent on the call are not supported.
+ER  - 
+
+TY  - JOUR
+T1  - Ranking fuzzy quantities based on the angle of the reference functions
+AU  - Nasseri, S.H.
+AU  - Zadeh, M.M.
+AU  - Kardoost, M.
+AU  - Behmanesh, E.
+JO  - Applied Mathematical Modelling
+VL  - 37
+IS  - 22
+SP  - 9230
+EP  - 9241
+PY  - 2013
+DA  - 2013/11/15/
+SN  - 0307-904X
+DO  - https://doi.org/10.1016/j.apm.2013.04.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0307904X13002497
+KW  - Fuzzy ranking
+KW  - Angle of fuzzy number
+KW  - α-Cut
+KW  - Fuzzy quantities
+AB  - Ordering fuzzy quantities and their comparison play a key tool in many applied models in the world and in particular decision-making procedures. However a huge number of researches is attracted to this filed but until now there is any unique accepted method to rank the fuzzy quantities. In fact, each proposed method may has some shortcoming. So we are going to present a novel method based on the angle of the reference functions to cover a wide range of fuzzy quantities by over coming the draw backs of some existing methods. In the mentioned firstly, the angle between the left and right membership functions (the reference functions) of every fuzzy set is called Angle of Fuzzy Set (AFS), and then in order to extend ranking of two fuzzy sets the angle of fuzzy sets and α-cuts is used. The method is illustrated by some numerical examples and in particular the results of ranking by the proposed method and some common and existing methods for ranking fuzzy sets is compared to verify the advantage of the new approach. In particular, based on the results of comparison of our method with well known methods which are exist in the literature, we will see that against of most existing ranking approaches, our proposed approach can rank fuzzy numbers that have the same mode and symmetric spreads. In fact, the proposed method in this paper can effectively rank symmetric fuzzy numbers as well as the effective methods which are appeared in the literature. Moreover, unlike of most existing ranking approaches, our proposed approach can rank non-normal fuzzy sets. Finally, we emphasize that the concept of fuzzy ordering is one of key role in establishing the numerical algorithms in operations research such as fuzzy primal simplex algorithms, fuzzy dual simplex algorithms and as well as discussed in the works of Ebrahimnejad and Nasseri and coworkers [1], [2], [3], [4], [5], [6], [7].
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid models based on rough set classifiers for setting credit rating decision rules in the global banking industry
+AU  - Chen, You-Shyang
+AU  - Cheng, Ching-Hsue
+JO  - Knowledge-Based Systems
+VL  - 39
+SP  - 224
+EP  - 239
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2012.11.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705112003139
+KW  - Credit rating
+KW  - Factor analysis
+KW  - Attribute reduction
+KW  - Rough Set Theory (RST)
+KW  - Minimum Entropy Principle Approach (MEPA)
+AB  - Banks are important to national, and even global, economic stability. Banking panics that follow bank insolvency or bankruptcy, especially of large banks, can severely jeopardize economic stability. Therefore, issuers and investors urgently need a credit rating indicator to help identify the financial status and operational competence of banks. A credit rating provides financial entities with an assessment of credit worthiness, investment risk, and default probability. Although numerous models have been proposed to solve credit rating problems, they have the following drawbacks: (1) lack of explanatory power; (2) reliance on the restrictive assumptions of statistical techniques; and (3) numerous variables, which result in multiple dimensions and complex data. To overcome these shortcomings, this work applies two hybrid models that solve the practical problems in credit rating classification. For model verification, this work uses an experimental dataset collected from the Bankscope database for the period 1998–2007. Experimental results demonstrate that the proposed hybrid models for credit rating classification outperform the listing models in this work. A set of decision rules for classifying credit ratings is extracted. Finally, study findings and managerial implications are provided for academics and practitioners.
+ER  - 
+
+TY  - CHAP
+T1  - REMOTE SENSING | GIS☆
+AU  - Mason, P.J.
+BT  - Reference Module in Earth Systems and Environmental Sciences
+PB  - Elsevier
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 978-0-12-409548-9
+DO  - https://doi.org/10.1016/B978-0-12-409548-9.02955-9
+UR  - http://www.sciencedirect.com/science/article/pii/B9780124095489029559
+KW  - Decision support
+KW  - Digital mapping
+KW  - Geological application fields
+KW  - Geological information system
+KW  - Georeferencing
+KW  - Geostatistics
+KW  - Multi-criteria evaluation
+KW  - Raster
+KW  - Software
+KW  - Spatial analysis
+KW  - Spatial data
+KW  - Spatial modeling
+KW  - Tools for spatial analysis
+KW  - Uncertainty
+KW  - Vector
+KW  - Visualisation
+AB  - Geological phenomena vary in space and time, a trait that makes geology a very suitable application field for Geographical Information Systems and science (GIS). A GIS is a computer-based tool for the mapping, display and analysis of entities and events on Earth, which has transformed the working lives of geoscientists, especially over the last 10–15 years. Here the basic concepts and functionality of GIS which are most relevant to the work of a geologist are briefly described and some examples are given, as well the scope and limitations of some of the software tools currently available. GIS touches on everyone's lives in some way today and there are myriad other applications fields. From grass roots field mapping and spatial modeling to data management and market predictions, GIS has important roles in the everyday lives of geologists, geophysicists and geographers
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - Fuel and Energy Abstracts
+VL  - 54
+IS  - 6
+SP  - 526
+EP  - 622
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 0140-6701
+DO  - https://doi.org/10.1016/j.fueleneab.2013.09.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0140670113000374
+ER  - 
+
+TY  - JOUR
+T1  - A novel combination of Particle Swarm Optimization and Genetic Algorithm for Pareto optimal design of a five-degree of freedom vehicle vibration model
+AU  - Mahmoodabadi, M.J.
+AU  - Safaie, A. Adljooy
+AU  - Bagheri, A.
+AU  - Nariman-zadeh, N.
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 5
+SP  - 2577
+EP  - 2591
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2012.11.028
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494612005121
+KW  - Hybrid algorithms
+KW  - Particle Swarm Optimization
+KW  - Genetic Algorithm
+KW  - Single-objective problems
+KW  - Multi-objective problems
+KW  - Vehicle vibration model
+AB  - In this paper, at first, a novel combination of Particle Swarm Optimization (PSO) and Genetic Algorithm (GA) is introduced. This hybrid algorithm uses the operators such as mutation, traditional or classical crossover, multiple-crossover, and PSO formula. The selection of these operators in each iteration for each particle or chromosome is based on a fuzzy probability. The performance of the proposed hybrid algorithm for solving both single and multi-objective optimization problems is challenged by using of some well-known benchmark problems. Obtained numerical results are compared with those of other optimization algorithms. At the end, the proposed multi-objective hybrid algorithm is used for the Pareto optimal design of a five-degree of freedom vehicle vibration model. The comparison of the obtained results with it in the literature demonstrates the superiority of this work.
+ER  - 
+
+TY  - JOUR
+T1  - Hierarchical multi-criteria risk-benefit analysis in fuzzy environment
+AU  - Mehrjerdi, Yahia Zare
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 1
+SP  - 590
+EP  - 599
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2012.08.018
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494612003651
+KW  - RFID technology
+KW  - RFID-based system selection
+KW  - Library applications
+KW  - Hierarchical fuzzy TOPSIS
+AB  - The objectives of this paper are: (1) to utilize hierarchical fuzzy technique for order preference by similarity to ideal solution (TOPSIS) to evaluate the most suitable RFID-based systems decision and (2) to list key risks and benefits of radio frequency identification technology in library services. Researcher explains the importance of selection criteria for evaluation of RFID-based systems. It provides key elements on radio frequency identification, fuzzy hierarchical TOPSIS methodology and an algorithm that can be followed to solve the problem. A sample problem using the algorithm is solved and results are explained. Due to the fact that a better management of a library system is related to the full understanding of the technologies implemented and the system under consideration, some background on the radio frequency identification technology is provided and the kind of systems that most likely managements would face with and select are provided.
+ER  - 
+
+TY  - JOUR
+T1  - Attribute reduction for dynamic data sets
+AU  - Wang, Feng
+AU  - Liang, Jiye
+AU  - Dang, Chuangyin
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 1
+SP  - 676
+EP  - 689
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2012.07.018
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494612003341
+KW  - Dynamic data sets
+KW  - Rough sets
+KW  - Information entropy
+KW  - Attribute reduction
+AB  - Many real data sets in databases may vary dynamically. With such data sets, one has to run a knowledge acquisition algorithm repeatedly in order to acquire new knowledge. This is a very time-consuming process. To overcome this deficiency, several approaches have been developed to deal with dynamic databases. They mainly address knowledge updating from three aspects: the expansion of data, the increasing number of attributes and the variation of data values. This paper focuses on attribute reduction for data sets with dynamically varying data values. Information entropy is a common measure of uncertainty and has been widely used to construct attribute reduction algorithms. Based on three representative entropies, this paper develops an attribute reduction algorithm for data sets with dynamically varying data values. When a part of data in a given data set is replaced by some new data, compared with the classic reduction algorithms based on the three entropies, the developed algorithm can find a new reduct in a much shorter time. Experiments on six data sets downloaded from UCI show that the algorithm is effective and efficient.
+ER  - 
+
+TY  - JOUR
+T1  - Algoritmos Evolutivos y su empleo en el ajuste de controladores del tipo PID: Estado Actual y Perspectivas
+AU  - Reynoso-Meza, Gilberto
+AU  - Sanchis, Javier
+AU  - Blasco, Xavier
+AU  - Martínez, Miguel
+JO  - Revista Iberoamericana de Automática e Informática Industrial RIAI
+VL  - 10
+IS  - 3
+SP  - 251
+EP  - 268
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 1697-7912
+DO  - https://doi.org/10.1016/j.riai.2013.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1697791213000344
+KW  - Controlador PID
+KW  - PID convencional
+KW  - PID borroso
+KW  - PID fraccionario
+KW  - Algoritmos Evolutivos
+KW  - Optimización
+KW  - PID controller
+KW  - Conventional PID
+KW  - Fuzzy PID
+KW  - Fractional order PID
+KW  - Evolutionary algorithms
+KW  - Optimization.
+AB  - Resumen
+Los controladores PID continúan siendo una solución fiable, robusta, práctica y sencilla para el control de procesos. Actualmente constituyen la primera capa de control de la gran mayoría de las aplicaciones industriales. De ahí que un número importante de trabajos de investigación se han orientado a mejorar su rendimiento y prestaciones. Las líneas de investigación en este campo van desde nuevos métodos de ajuste, pasando por nuevos tipos de estructura hasta metodologías de diseño integrales. Particularizando en el ajuste de parámetros, una de las formas de obtener una solución novedosa consiste en plantear un problema de optimización, el cual puede llegar a ser no-lineal, no-convexo y con restricciones. Dado que los algoritmos evolutivos han mostrado un buen desempeño para solucionar problemas complejos de optimización, han sido utilizados en diversas propuestas relacionadas con el ajuste de controladores PID. Este trabajo muestra un revisión de estas propuestas y las prestaciones obtenidas en cada caso. Así mismo, se identifican algunas tendencias y posibles líneas de trabajo futuras.
+PID controllers are a reliable, robust, practical and easy to implement control solution for industrial processes. They provide the first control layer for a vast majority of industrial applications. Owing to this, several researches invest time and resources to improve their performance. The research lines in this field scope with new tuning methods, new types of structures and integral design methods. For tuning methods, improvements could be fulfilled stating an optimization problem, which could be non-linear, non-convex and highly constrained. In such instances, evolutionary algorithms have shown a good performance and have been used in various proposals related with PID controllers tuning. This work shows a review of these proposals and the benefits obtained in each case. Some trends and possible future research lines are also identified.
+ER  - 
+
+TY  - JOUR
+T1  - Electronic information sharing in local government authorities: Factors influencing the decision-making process
+AU  - Bigdeli, Alinaghi Ziaee
+AU  - Kamal, Muhammad Mustafa
+AU  - de Cesare, Sergio
+JO  - International Journal of Information Management
+VL  - 33
+IS  - 5
+SP  - 816
+EP  - 830
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2013.05.008
+UR  - http://www.sciencedirect.com/science/article/pii/S0268401213000807
+KW  - Electronic information sharing
+KW  - Information integration
+KW  - G2G collaboration
+KW  - Local government authority
+KW  - Socio-technical factor
+AB  - Local Government Authorities (LGAs) are mainly characterised as information-intensive organisations. To satisfy their information requirements, effective information sharing within and among LGAs is necessary. Nevertheless, the dilemma of Inter-Organisational Information Sharing (IOIS) has been regarded as an inevitable issue for the public sector. Despite a decade of active research and practice, the field lacks a comprehensive framework to examine the factors influencing Electronic Information Sharing (EIS) among LGAs. The research presented in this paper contributes towards resolving this problem by developing a conceptual framework of factors influencing EIS in Government-to-Government (G2G) collaboration. By presenting this model, we attempt to clarify that EIS in LGAs is affected by a combination of environmental, organisational, business process, and technological factors and that it should not be scrutinised merely from a technical perspective. To validate the conceptual rationale, multiple case study based research strategy was selected. From an analysis of the empirical data from two case organisations, this paper exemplifies the importance (i.e. prioritisation) of these factors in influencing EIS by utilising the Analytical Hierarchy Process (AHP) technique. The intent herein is to offer LGA decision-makers with a systematic decision-making process in realising the importance (i.e. from most important to least important) of EIS influential factors. This systematic process will also assist LGA decision-makers in better interpreting EIS and its underlying problems. The research reported herein should be of interest to both academics and practitioners who are involved in IOIS, in general, and collaborative e-Government, in particular.
+ER  - 
+
+TY  - JOUR
+T1  - Applying a selection method to choose Quality Attribute Techniques
+AU  - Chiam, Yin Kia
+AU  - Staples, Mark
+AU  - Ye, Xin
+AU  - Zhu, Liming
+JO  - Information and Software Technology
+VL  - 55
+IS  - 8
+SP  - 1419
+EP  - 1436
+PY  - 2013
+DA  - 2013/08/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2013.02.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0950584913000347
+KW  - Quality Attribute Techniques
+KW  - Technique selection
+KW  - Risk management
+KW  - AHP
+AB  - Context
+Software products have requirements on software quality attributes such as safety and performance. Development teams use various specific techniques to achieve these quality requirements. We call these “Quality Attribute Techniques” (QATs). QATs are used to identify, analyse and control potential product quality problems. Although QATs are widely used in practice, there is no systematic approach to represent, select, and integrate them in existing approaches to software process modelling and tailoring.
+Objective
+This research aims to provide a systematic approach to better select and integrate QATs into tailored software process models for projects that develop products with specific product quality requirements.
+Method
+A selection method is developed to support the choice of appropriate techniques for any quality attribute, across the lifecycle. The selection method is based on three perspectives: (1) risk management; (2) process integration; and (3) cost/benefit using Analytic Hierarchy Process (AHP). An industry case study is used to validate the feasibility and effectiveness of applying the selection method.
+Results
+The case study demonstrates that the selection method provides a more methodological and effective approach to choose QATs for projects that target a specific quality attribute, compared to the ad hoc selection performed by development teams.
+Conclusion
+The proposed selection method can be used to systematically choose QATs for projects to target specific product qualities throughout the software development lifecycle.
+ER  - 
+
+TY  - CHAP
+A2  - Obaidat, Mohammad S.
+A2  - Anpalagan, Alagan
+A2  - Woungang, Isaac
+BT  - Handbook of Green Information and Communication Systems
+PB  - Academic Press
+SP  - 725
+EP  - 773
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 978-0-12-415844-3
+DO  - https://doi.org/10.1016/B978-0-12-415844-3.00037-1
+UR  - http://www.sciencedirect.com/science/article/pii/B9780124158443000371
+ER  - 
+
+TY  - JOUR
+T1  - Quality-driven optimization of system architecture: Industrial case study on an automotive sub-system
+AU  - Etemaadi, Ramin
+AU  - Lind, Kenneth
+AU  - Heldal, Rogardt
+AU  - Chaudron, Michel R.V.
+JO  - Journal of Systems and Software
+VL  - 86
+IS  - 10
+SP  - 2559
+EP  - 2573
+PY  - 2013
+DA  - 2013/10/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2013.05.109
+UR  - http://www.sciencedirect.com/science/article/pii/S0164121213001404
+KW  - Component-based software engineering (CBSE)
+KW  - System architecture for embedded systems
+KW  - Optimization of software architecture design
+AB  - Due to the complexity of today's embedded systems and time-to-market competition between companies developing embedded systems, system architects have to perform a complex task. To design a system which meets all its quality requirements becomes increasingly difficult because of customer demand for new innovative user functions. Methods and tools are needed to assist the architect during system design. The goal of this paper is to show how metaheuristic optimization approaches can improve the process of designing efficient architectures for a set of given quality attributes. A case study is conducted in which an architecture optimization framework is applied to an existing sub-system in the automotive industry. The case study shows that metaheuristic optimization approaches can find efficient solutions for all quality attributes while fulfilling given constraints. By optimizing multiple quality attributes the framework proposes revolutionary architecture solutions in contrast to human architects, who tend to propose solutions based on previous architectures. Although the case study shows savings in manual effort, it also shows that the proposed architecture solutions should be assessed by the human architect. So, the paper demonstrates how an architecture optimization framework complements the domain knowledge and experience of the architect.
+ER  - 
+
+TY  - JOUR
+T1  - Content presentation personalisation and media adaptation in tourism web sites using Fuzzy Delphi Method and Fuzzy Cognitive Maps
+AU  - Kardaras, Dimitris K.
+AU  - Karakostas, Bill
+AU  - Mamakou, Xenia J.
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 6
+SP  - 2331
+EP  - 2342
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2012.10.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417412011554
+KW  - Fuzzy Cognitive Maps
+KW  - Fuzzy Delphi Method
+KW  - Web personalisation
+KW  - Presentation personalisation
+KW  - Media adaptation
+AB  - Web sites become more powerful when they can adjust to their users’ needs. Web personalisation refers to adapting both the content and the presentation of web sites, so that to deliver the maximum effect to the user in the most appropriate way. A main objective of web personalisation is to adapt the presentation of the web content in a manner that increases the user’s perceived quality. This paper focuses on the applicability of fuzzy logic techniques to content presentation and media adaptation. More specifically, it applies Fuzzy Delphi Method (FDM) and Fuzzy Cognitive Maps (FCMs) in order to highlight the services features that are most preferred by the customer and to adapt presentation media and layout. Fuzzy logic is utilised to deal with the subjectivity inherent in web design choices and in customers’ perception of services priorities. FDM is used to capture the experts’ knowledge regarding media adaptation with respect to hotel service quality. A prototype that adapts the web site presentation according to customer preferences has been developed and evaluated.
+ER  - 
+
+TY  - JOUR
+T1  - A fuzzy group data envelopment analysis model for high-technology project selection: A case study at NASA
+AU  - Tavana, Madjid
+AU  - Khalili-Damghani, Kaveh
+AU  - Sadi-Nezhad, Soheil
+JO  - Computers & Industrial Engineering
+VL  - 66
+IS  - 1
+SP  - 10
+EP  - 23
+PY  - 2013
+DA  - 2013/09/01/
+SN  - 0360-8352
+DO  - https://doi.org/10.1016/j.cie.2013.06.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0360835213001770
+KW  - Data envelopment analysis
+KW  - Project portfolio selection
+KW  - NASA
+KW  - Fuzzy sets
+KW  - Ambiguity
+KW  - Vagueness
+AB  - The assessment and selection of high-technology projects is a difficult decision making process at the National Aeronautic and Space Administration (NASA). This difficulty is due to the multiple and often conflicting objectives in addition to the inherent technical complexities and valuation uncertainties involved in the assessment process. As such, a systematic and transparent decision making process is needed to guide the assessment process, shape the decision outcomes and enable confident choices to be made. Various methods have been proposed to assess and select high-technology projects. However, applying these methods has become increasingly difficult in the space industry because there are many emerging risks implying that decisions are subject to significant uncertainty. The source of uncertainty can be vagueness or ambiguity. While vague data are uncertain because they lack detail or precision, ambiguous data are uncertain because they are subject to multiple interpretations. We propose a data envelopment analysis (DEA) model with ambiguity and vagueness. The vagueness of the objective functions is modeled by means of multi-objective fuzzy linear programming. The ambiguity of the input and output data is modeled with fuzzy sets and a new α-cut based method. The proposed models are linear, independent of α-cut variables, and capable of maximizing the satisfaction level of the fuzzy objectives and efficiency scores, simultaneously. Moreover, these models are capable of generating a common set of multipliers for all projects in a single run. A case study involving high-technology project selection at NASA is used to demonstrate the applicability of the proposed models and the efficacy of the procedures and algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Risk evaluation approaches in failure mode and effects analysis: A literature review
+AU  - Liu, Hu-Chen
+AU  - Liu, Long
+AU  - Liu, Nan
+JO  - Expert Systems with Applications
+VL  - 40
+IS  - 2
+SP  - 828
+EP  - 838
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2012.08.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417412009712
+KW  - Reliability management
+KW  - Failure mode and effects analysis
+KW  - Risk evaluation
+KW  - Risk priority number
+AB  - Failure mode and effects analysis (FMEA) is a risk assessment tool that mitigates potential failures in systems, processes, designs or services and has been used in a wide range of industries. The conventional risk priority number (RPN) method has been criticized to have many deficiencies and various risk priority models have been proposed in the literature to enhance the performance of FMEA. However, there has been no literature review on this topic. In this study, we reviewed 75 FMEA papers published between 1992 and 2012 in the international journals and categorized them according to the approaches used to overcome the limitations of the conventional RPN method. The intention of this review is to address the following three questions: (i) Which shortcomings attract the most attention? (ii) Which approaches are the most popular? (iii) Is there any inadequacy of the approaches? The answers to these questions will give an indication of current trends in research and the best direction for future research in order to further address the known deficiencies associated with the traditional FMEA.
+ER  - 
+
+TY  - JOUR
+T1  - How the internet of things technology enhances emergency response operations
+AU  - Yang, L.
+AU  - Yang, S.H.
+AU  - Plotnick, L.
+JO  - Technological Forecasting and Social Change
+VL  - 80
+IS  - 9
+SP  - 1854
+EP  - 1867
+PY  - 2013
+DA  - 2013/11/01/
+T2  - Planning and Foresight Methodologies in Emergency Preparedness and Management
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2012.07.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0040162512001801
+KW  - Internet of Things
+KW  - Wireless sensor networks
+KW  - Radio frequency identification
+KW  - Emergency response operations
+KW  - Task-technology fit
+KW  - Strategic value
+AB  - The Internet of Things (IoT) is a novel paradigm that connects the pervasive presence around us of a variety of things or objects to the Internet by using wireless/wired technologies to reach desired goals. Since the concept of the IoT was introduced in 2005, we see the deployment of a new generation of networked smart objects with communication, sensory and action capabilities for numerous applications, mainly in global supply chain management, environment monitoring and other non-stress environments. This paper introduces the IoT technology for use in the emergency management community. Considering the information required for supporting three sequential and distinct rhythms in emergency response operations: mobilization rhythm, preliminary situation assessment rhythm, and intervention rhythm, the paper proposes a modified task-technology fit approach that is used to investigate how the IoT technology can be incorporated into the three rhythms and enhance emergency response operations. The findings from our research support our two hypotheses: H1: IoT technology fits the identified information requirements; and H2: IoT technology provides added value to emergency response operations in terms of obtaining efficient cooperation, accurate situational awareness, and complete visibility of resources.
+ER  - 
+
+TY  - JOUR
+T1  - An integrated framework for RFID adoption and diffusion with a stage-scale-scope cubicle model: A case of Indonesia
+AU  - Adhiarna, Nyoman
+AU  - Hwang, Yoon Min
+AU  - Park, Min Jae
+AU  - Rho, Jae Jeung
+JO  - International Journal of Information Management
+VL  - 33
+IS  - 2
+SP  - 378
+EP  - 389
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2012.10.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0268401212001223
+KW  - Radio frequency identification (RFID)
+KW  - IT diffusion and adoption
+KW  - Stages of adoption
+KW  - Delphi method
+KW  - Analytic hierarchy process (AHP)
+AB  - This study presents a comprehensive framework to identify dynamic radio frequency identification (RFID) adoption and diffusion from three different perspectives: stages of adoption, levels of analysis, and domain of issues. The main concern of this study is stages of adoption, which covers three phases in respect of the maturity of the RFID project and the sophistication of business applications and RFID technology. The level of analysis involves different units of analysis beyond the organization level, including the industry- and country-level, which is lacking in the current literature. To understand dimensions of RFID issues, a strategy, technology, organization, people and environment (STOPE) based approach was applied. An extensive review of prior literature was conducted to find various RFID success factors and the Delphi method was applied to find positions of these factors within the framework. Based on the Delphi, some factors belong to early stage of adoption, and some others persist in the later stages of adoption. At the country level, factors such as RFID national policy, R&D policy and income per capita were accepted by most experts at the preliminary and intermediate stage; strategy and environment were accepted as important domains. To find practical implications of the framework, a case study of Indonesia was conducted at each level of analysis. Analytic hierarchy process (AHP) was applied to identify most important factors and important domains of issues with respect to the factors from the Delphi results. At country level, RFID policy, vision of leadership and RFID potential market are the most important factors; strategy and environment are the most important domains.
+ER  - 
+
+TY  - JOUR
+T1  - Stability of weighted penalty-based aggregation functions
+AU  - Beliakov, Gleb
+AU  - James, Simon
+JO  - Fuzzy Sets and Systems
+VL  - 226
+SP  - 1
+EP  - 18
+PY  - 2013
+DA  - 2013/09/01/
+T2  - Theme: Aggregation functions
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2013.01.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011413000389
+KW  - Aggregation functions
+KW  - Means
+KW  - Medians
+KW  - Quasi-arithmetic means
+KW  - OWA
+KW  - Stability
+KW  - Weighting triangles
+AB  - In many practical applications, the need arises to aggregate data of varying dimension. Following from the self-identity property, some recent studies have looked at the stability of aggregation operators in terms of their behavior as the dimensionality is increased from n−1 to n. We use the penalty-based representation of aggregation functions in order to investigate the conditions for weighting vectors associated with some important weighted families, extending on the results already established for quasi-arithmetic means. In particular, we obtain results for quasi-medians and functions that involve a reordering of the inputs such as the OWA and order statistics.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 24 - Rice
+AU  - Cheajesadagul, Pracha
+AU  - Shiowatana, Juwadee
+AU  - Siripinyanond, Atitaya
+AU  - Szpunar, Joanna
+A2  - de la Guardia, Miguel
+A2  - Gonzálvez, Ana
+BT  - Comprehensive Analytical Chemistry
+PB  - Elsevier
+VL  - 60
+SP  - 623
+EP  - 655
+PY  - 2013
+DA  - 2013/01/01/
+T2  - Food Protected Designation of Origin
+SN  - 0166-526X
+DO  - https://doi.org/10.1016/B978-0-444-59562-1.00024-4
+UR  - http://www.sciencedirect.com/science/article/pii/B9780444595621000244
+KW  - Rice
+KW  - Geographical origin
+KW  - Authentication
+KW  - Source identification
+KW  - Elemental fingerprint
+KW  - Elemental composition
+KW  - Isotope ratios
+KW  - Molecular spectroscopy
+KW  - Chemometrics
+KW  - Multivariate statistical techniques
+AB  - In recent years, research efforts have focused on the potential of analytical techniques for the determination of agricultural products according to the source or geographical origin. Rice is one of the most important staple food crops and plays a vital role as the main source of energy and protein intake for almost half of the world’s population. With the increase in the globalization of food markets, the enthusiasm of consumers for high quality food with a clear regional identity has grown rapidly. Regarding rice, source identification is a more complex issue since it can depend on both geographical origin and botanical/cultivar type. Rice cultivar and cultivation area are important factors in the market prices of rice. The determination of rice authenticity is indeed essential to resolve the problems of mislabeling and misleading about origin and adulteration, which is defined as a process by adding inferior rice to premium rice, affecting the credibility of producers and traders and the right of consumers. Currently, a number of different analytical strategies such as multi-element and isotope analyses, stable isotopic analysis, molecular spectroscopy, and DNA analysis have been utilized, with the ultimate goal for the determination of the geographical origin of rice products. A combination of methods for analyzing a variety of rice seems to be the most promising approach to establish the geographical origin. The application of multivariate statistical techniques to data obtained by the analytical instrument is essentially helpful and allows effective discrimination of rice products according to their geographical origins. The aim of this chapter is to provide an overview concerning the current analytical methodologies that have been developed for determining the geographical origin in combination with or without multivariate analysis in order to discriminate different origin of rice products, confirming their authenticity.
+ER  - 
+
+TY  - JOUR
+T1  - An integrated multi-criteria scenario evaluation web tool for participatory land-use planning in urbanized areas: The Ecosystem Portfolio Model
+AU  - Labiosa, W.B.
+AU  - Forney, W.M.
+AU  - Esnard, A.-M.
+AU  - Mitsova-Boneva, D.
+AU  - Bernknopf, R.
+AU  - Hearn, P.
+AU  - Hogan, D.
+AU  - Pearlstine, L.
+AU  - Strong, D.
+AU  - Gladwin, H.
+AU  - Swain, E.
+JO  - Environmental Modelling & Software
+VL  - 41
+SP  - 210
+EP  - 222
+PY  - 2013
+DA  - 2013/03/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2012.10.012
+UR  - http://www.sciencedirect.com/science/article/pii/S1364815212003118
+KW  - Land-use planning
+KW  - Decision support
+KW  - Sustainability
+KW  - Sea level rise mitigation
+KW  - Quality of life
+KW  - Ecological value
+KW  - Ecosystem restoration
+AB  - Land-use land-cover change is one of the most important and direct drivers of changes in ecosystem functions and services. Given the complexity of the decision-making, there is a need for Internet-based decision support systems with scenario evaluation capabilities to help planners, resource managers and communities visualize, compare and consider trade-offs among the many values at stake in land use planning. This article presents details on an Ecosystem Portfolio Model (EPM) prototype that integrates ecological, socio-economic information and associated values of relevance to decision-makers and stakeholders. The EPM uses a multi-criteria scenario evaluation framework, Geographic Information Systems (GIS) analysis and spatially-explicit land-use/land-cover change-sensitive models to characterize changes in important land-cover related ecosystem values related to ecosystem services and functions, land parcel prices, and community quality-of-life (QoL) metrics. Parameters in the underlying models can be modified through the interface, allowing users in a facilitated group setting to explore simultaneously issues of scientific uncertainty and divergence in the preferences of stakeholders. One application of the South Florida EPM prototype reported in this article shows the modeled changes (which are significant) in aggregate ecological value, landscape patterns and fragmentation, biodiversity potential and ecological restoration potential for current land uses compared to the 2050 land-use scenario. Ongoing refinements to EPM, and future work especially in regard to modifiable sea level rise scenarios are also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized hesitant fuzzy synergetic weighted distance measures and their application to multiple criteria decision-making
+AU  - Peng, Ding-Hong
+AU  - Gao, Chang-Yuan
+AU  - Gao, Zhi-Fang
+JO  - Applied Mathematical Modelling
+VL  - 37
+IS  - 8
+SP  - 5837
+EP  - 5850
+PY  - 2013
+DA  - 2013/04/15/
+SN  - 0307-904X
+DO  - https://doi.org/10.1016/j.apm.2012.11.016
+UR  - http://www.sciencedirect.com/science/article/pii/S0307904X12007329
+KW  - Hesitant fuzzy sets
+KW  - Synergetic weighted distance measures
+KW  - Multiple criteria decision making
+AB  - The purpose of this paper is to present a generalized hesitant fuzzy synergetic weighted distance (GHFSWD) measure, which is based on the generalized hesitant fuzzy weighted distance (GHFWD) measure and the generalized hesitant fuzzy ordered weighted distance (GHFOWD) measure proposed by Xu and Xia [Z. Xu, M. Xia, Distance and similarity measures for hesitant fuzzy sets, Inf. Sci. 181 (2011) 2128–2138.], and investigate its some desirable properties and special cases. The GHFSWD measure not only generalizes both the GHFWD and GHFOWD measures as well as the common hesitant fuzzy distance measures, but also reflects the importance degrees of both the given individual distances and their ordered positions. Then, based on the defined notions of positive ideal hesitant fuzzy set and negative ideal hesitant fuzzy set, we utilize the proposed GHFSWD measure to develop a method for multiple criteria decision making with hesitant fuzzy information. The method is flexible because it allows decision makers to provide preference with hesitancy and determine different decision results by choosing different decision strategies. Finally, a numerical example is provided to illustrate the feasibility and practicality of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Calibration and uncertainty analysis for computer models – A meta-model based approach for integrated building energy simulation
+AU  - Manfren, Massimiliano
+AU  - Aste, Niccolò
+AU  - Moshksar, Reza
+JO  - Applied Energy
+VL  - 103
+SP  - 627
+EP  - 641
+PY  - 2013
+DA  - 2013/03/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2012.10.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0306261912007374
+KW  - Model calibration
+KW  - Uncertainty and sensitivity analysis
+KW  - Bayesian analysis
+KW  - Kernel regression
+KW  - Gaussian processes
+AB  - In energy and environment field models are constructed, in general, based on well-defined physical phenomena and properties. Calibration and uncertainty analysis hold a particular interest because models represent a simplification of reality and, therefore, it is necessary to quantify to what degree they are imperfect before employing them in design, prediction and decision making processes. Integrated building energy models attempt to describe the effect of various internal and external actions (weather, occupancy, appliances, etc.) through physical relations (both algebraic and differential) and they are being widely used to design and operate high performance buildings, which are an essential component of a global energy strategy to reduce carbon emission and fossil sources depletion. An approach oriented to systems and able to integrate effectively field measured data and computer simulations for calibration in the modeling process has the potential to revolutionize the way buildings are designed and operated, and to stimulate also the development of new technologies and solutions in the field. The research presented in this paper aims to represent an initial step towards this integrated approach.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy approach to select machining parameters in electrical discharge machining (EDM) and ultrasonic-assisted EDM processes
+AU  - Shabgard, M.R.
+AU  - Badamchizadeh, M.A.
+AU  - Ranjbary, G.
+AU  - Amini, K.
+JO  - Journal of Manufacturing Systems
+VL  - 32
+IS  - 1
+SP  - 32
+EP  - 39
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2012.09.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0278612512000726
+KW  - Electrical discharge machining (EDM)
+KW  - Fuzzy modeling
+KW  - Tungsten carbide (WC–10%Co)
+KW  - Ultrasonic assisted EDM (US/EDM)
+AB  - Condition monitoring of the machining process is very important in today's precision manufacturing, especially in the electrical discharge machining (EDM). This paper introduces a fuzzy-based algorithm for prediction of material removal rate (MRR), tool wear ratio (TWR), and surface roughness (Rz, Rk) in the EDM and ultrasonic-assisted EDM (US/EDM) processes. In this system, discharge current, pulse duration, and ultrasonic vibration of tool are the input variables and outputs are MRR, TWR, Rz, and Rk. The proposed fuzzy model in this study provides a more precise and easy selection of EDM and US/EDM input parameters, respectively for the required MRR, TWR, Rz, and Rk, which leads to better machining conditions and decreases the machining costs. The fuzzy modeling of EDM and US/EDM were able to predict the experimental results with accuracies more than 90%.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting and optimization of energy consumption using system dynamics-fuzzy multiple objective programming in world heritage areas
+AU  - Wu, Zhibin
+AU  - Xu, Jiuping
+JO  - Energy
+VL  - 49
+SP  - 19
+EP  - 31
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2012.10.030
+UR  - http://www.sciencedirect.com/science/article/pii/S036054421200792X
+KW  - System dynamics
+KW  - Energy consumption
+KW  - Fuzzy multi-objective programming
+KW  - Industrial structure
+KW  - CO emissions
+AB  - Energy consumption and efficiency are important in regional low-carbon economic development and environmental protection. This paper provides a system dynamics and fuzzy multi-objective programming integrated approach for the prediction of energy consumption and CO2 emissions at a regional level. First, a general system dynamics model is constructed to analyze an economy-energy system. To deal with the uncertainties and optimize the parameters in the system, a fuzzy multiple objective programming model is used. This decision support model is then applied to predict the energy consumption of a world heritage area in China during 2010–2020. The results reveal that the energy consumption and CO2 emissions increase dramatically with rapid economic growth. In the scenario herein considered, which is based on the proposed optimization model, a 19.32% reduction was found in the energy intensity decreases from 0.88 tce/104 RMB to 0.71 tce/104 RMB, and a 23.26% reduction in the CO2 emission intensity, from 2.15 t/104 RMB to 1.65 t/104 RMB. Policy suggestions such as adjusting the industrial structure, enhancing local hydro-power and renewable energy and increasing investment in energy technology and efficiency are indicated for the promotion of a low-carbon oriented economy in world heritage areas.
+ER  - 
+
+TY  - JOUR
+T1  - The effect of job rotation during assembly on the quality of final product
+AU  - Michalos, George
+AU  - Makris, Sotiris
+AU  - Chryssolouris, George
+JO  - CIRP Journal of Manufacturing Science and Technology
+VL  - 6
+IS  - 3
+SP  - 187
+EP  - 197
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 1755-5817
+DO  - https://doi.org/10.1016/j.cirpj.2013.03.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1755581713000114
+KW  - Job rotation
+KW  - Product quality
+KW  - Human error
+AB  - In this study, the effect of job rotation techniques on the final product's quality is investigated in the case of human based assembly environments. High product diversification challenges the limited human capabilities by exposing them to an environment of high fatigue accumulation and high task repetitiveness. The result is a reduction in the final product's quality due to human errors during the assembly. This paper investigates the effect of applying job rotation techniques for the derivation of the operators’ schedules. In this case, the fatigue distribution and the enrichment of the working environment can lead to the reduction of assembly errors. Human error probability quantification techniques have been applied to predict the performance of the assembly line, under a given workload in both cases – with and without job rotation. The approach takes into consideration the characteristics of the operator, the product as well as the assembly environment in order for the probability of error occurrence to be calculated for each assembly task. The method is applied on a case study, involving the assembly of heavy vehicles. The findings indicate that the adoption of job rotation techniques can significantly enhance product quality by drastically reducing the total number of assembly errors.
+ER  - 
+
+TY  - JOUR
+T1  - Influence of rainfall and catchment characteristics on urban stormwater quality
+AU  - Liu, An
+AU  - Egodawatta, Prasanna
+AU  - Guan, Yuntao
+AU  - Goonetilleke, Ashantha
+JO  - Science of The Total Environment
+VL  - 444
+SP  - 255
+EP  - 262
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0048-9697
+DO  - https://doi.org/10.1016/j.scitotenv.2012.11.053
+UR  - http://www.sciencedirect.com/science/article/pii/S0048969712014799
+KW  - Urban stormwater quality
+KW  - Water quality modelling
+KW  - Rainfall characteristics
+KW  - Catchment characteristics
+KW  - Modelling errors
+AB  - The accuracy and reliability of urban stormwater quality modelling outcomes are important for stormwater management decision making. The commonly adopted approach where only a limited number of factors are used to predict urban stormwater quality may not adequately represent the complexity of the quality response to a rainfall event or site-to-site differences to support efficient treatment design. This paper discusses an investigation into the influence of rainfall and catchment characteristics on urban stormwater quality in order to investigate the potential areas for errors in current stormwater quality modelling practices. It was found that the influence of rainfall characteristics on pollutant wash-off is step-wise based on specific thresholds. This means that a modelling approach where the wash-off process is predicted as a continuous function of rainfall intensity and duration is not appropriate. Additionally, other than conventional catchment characteristics, namely, land use and impervious surface fraction, other catchment characteristics such as impervious area layout, urban form and site specific characteristics have an important influence on both, pollutant build-up and wash-off processes. Finally, the use of solids as a surrogate to estimate other pollutant species was found to be inappropriate. Individually considering build-up and wash-off processes for each pollutant species should be the preferred option.
+ER  - 
+
+TY  - JOUR
+T1  - Material selection using PROMETHEE combined with analytic network process under hybrid environment
+AU  - Peng, An-Hua
+AU  - Xiao, Xing-Ming
+JO  - Materials & Design
+VL  - 47
+SP  - 643
+EP  - 652
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 0261-3069
+DO  - https://doi.org/10.1016/j.matdes.2012.12.058
+UR  - http://www.sciencedirect.com/science/article/pii/S0261306912008874
+KW  - Material selection
+KW  - Hybrid environment
+KW  - Analytic network process
+KW  - Preference ranking organization method for enrichment evaluations
+KW  - Journal bearings
+AB  - Material selection involves a great number of attributes, including quantitative and qualitative ones, among which there exist dependences of various degrees, and so belongs to multi-attribute decision making problem (MADM) under hybrid environment in the presence of interdependences. The method of preference ranking organization method for enrichment evaluations (PROMETHEE) combined with analytic network process (ANP) is presented to select the best material for a given application, where ANP is used to identify weights, and PROMETHEE to rank alternatives. Taking the material selection for a journal bearing as example, the decision-making procedure is enunciated, first determining the attributes according to the failure analysis and the requirements of customers, then screening out the feasible solutions, and last fixing the optimal solution, Aluminum bronze, which is in conformity with practice test. Finally, the method of expediting the calculation process is presented developing graphical user interface-based (GUI-based) related software.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of structural models using a modified Artificial Bee Colony algorithm
+AU  - Sun, Hao
+AU  - Luş, Hilmi
+AU  - Betti, Raimondo
+JO  - Computers & Structures
+VL  - 116
+SP  - 59
+EP  - 74
+PY  - 2013
+DA  - 2013/01/15/
+SN  - 0045-7949
+DO  - https://doi.org/10.1016/j.compstruc.2012.10.017
+UR  - http://www.sciencedirect.com/science/article/pii/S0045794912002519
+KW  - Parameter estimation
+KW  - Structural system identification
+KW  - Artificial Bee Colony algorithm
+KW  - Optimization
+AB  - A modified version of the Artificial Bee Colony (ABC) algorithm is presented to identify structural systems. ABC is a heuristic algorithm with simple structure, ease of implementation and robustness. A nonlinear factor for convergence control is introduced in the algorithm to enhance the balance of global and local searches. To investigate the applicability of this proposed technique to system identification, three examples are studied under different conditions regarding data availability, noise pollution level, priori knowledge of parameters, etc. Simulation results show the proposed technique produces excellent parameter estimation, even with few measurements and high noise corruptions.
+ER  - 
+
+TY  - JOUR
+T1  - Developing a rapid response production system for aircraft manufacturing
+AU  - Shan, Siqing
+AU  - Wang, Li
+AU  - Xin, Tenglong
+AU  - Bi, Zhuming
+JO  - International Journal of Production Economics
+VL  - 146
+IS  - 1
+SP  - 37
+EP  - 47
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 0925-5273
+DO  - https://doi.org/10.1016/j.ijpe.2012.12.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0925527312004987
+KW  - Agile manufacturing
+KW  - Rapid response systems
+KW  - System architecture
+KW  - Aerospace manufacturing
+KW  - Enterprise architecture
+KW  - Planning and scheduling
+AB  - In this paper, the modeling methodology of rapid response production systems (RRPS) is proposed, and a case study in an aircraft manufacturing company has been developed to illustrate the application of the methodology. A new RRPS model has been proposed, and 12 components included in the model are alarming system of abnormal events, rapid response service station, coordination processing center, evaluation management, problem management, response visualization platform, unified graphic user interface, database, knowledge base, rapid response team, operation procedure standards (OPS), and rapid response training. The developed RRPS has been illustrated and implemented in Shanghai Aircraft Manufacturing Company (SAMC); the test has shown that the proposed methodology and the corresponding RRPS model has improved the capability of rapid response to changes and reduced the economic losses caused by abnormal events. Besides, the discussion and analysis has suggested that the developed RRPS has the distinguishing characteristics of agility, integration, robustness, and leanness.
+ER  - 
+
+TY  - JOUR
+T1  - Value chain optimization of forest biomass for bioenergy production: A review
+AU  - Shabani, Nazanin
+AU  - Akhtari, Shaghaygh
+AU  - Sowlati, Taraneh
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 23
+SP  - 299
+EP  - 311
+PY  - 2013
+DA  - 2013/07/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2013.03.005
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032113001548
+KW  - Forest bioenergy supply chain
+KW  - Renewable and sustainable energies
+KW  - Optimization
+KW  - Uncertainty
+AB  - Forest biomass is one of the renewable and sustainable sources of energy that can be used for producing electricity, heat, and biofuels. The complex supply chain of forest biomass for energy generation, which consists of different players and products and is affected by biomass characteristics, such as low density and unpredictable quality, makes the energy generation cost from biomass higher than that of the conventional sources of energy, such as fossil fuels. Moreover, variability and uncertainty in this supply chain, mainly due to the nature of material, economic condition and market fluctuation, affect the amount of produced energy and its cost. Mathematical modeling, in particular optimization techniques, can be employed to manage the supply chain and achieve the optimum design. This paper reviews studies which used deterministic and stochastic mathematical models to optimize forest biomass supply chains for electricity, heat and biofuels production. Optimization models were used to provide the optimum solution for decisions related to the network design, technology choice, plant size and location, storage location, mix of products and raw materials, logistics options, supply areas, and material flows. Mainly, economic objectives were considered in these models. Further studies should consider environmental and social objectives, in addition to the economic ones, in the models. In non-deterministic models uncertainty mainly in the demand, supply, prices, and conversion yields were incorporated. Although material quality is an important uncertain parameter in the forest biomass supply chain that affects the amount and cost of produced energy, its variation was not considered in previous studies.
+ER  - 
+
+TY  - JOUR
+T1  - Simulation-based framework to improve patient experience in an emergency department
+AU  - Abo-Hamad, Waleed
+AU  - Arisha, Amr
+JO  - European Journal of Operational Research
+VL  - 224
+IS  - 1
+SP  - 154
+EP  - 166
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2012.07.028
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221712005693
+KW  - Simulation
+KW  - Multiple criteria decision analysis
+KW  - Emergency department
+KW  - Healthcare management
+AB  - The global economic crisis has a significant impact on healthcare resource provision worldwide. The management of limited healthcare resources is further challenged by the high level of uncertainty in demand, which can lead to unbalanced utilization of the available resources and a potential deterioration of patient satisfaction in terms of longer waiting times and perceived reduced quality of services. Therefore, healthcare managers require timely and accurate tools to optimize resource utility in a complex and ever-changing patient care process. An interactive simulation-based decision support framework is presented in this paper for healthcare process improvement. Complexity and different levels of variability within the process are incorporated into the process modeling phase, followed by developing a simulation model to examine the impact of potential alternatives. As a performance management tool, balanced scorecard (BSC) is incorporated within the framework to support continual and sustainable improvement by using strategic-linked performance measures and actions. These actions are evaluated by the simulation model developed, whilst the trade-off between objectives, though somewhat conflicting, is analysed by a preference model. The preference model is designed in an interactive and iterative process considering decision makers preferences regarding the selected key performance indicators (KPIs). A detailed implementation of the framework is demonstrated on an emergency department (ED) of an adult teaching hospital in north Dublin, Ireland. The results show that the unblocking of ED outflows by in-patient bed management is more effective than increasing only the ED physical capacity or the ED workforce.
+ER  - 

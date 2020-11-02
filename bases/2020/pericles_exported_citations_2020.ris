@@ -1,0 +1,1304 @@
+
+TY  - JOUR
+T1  - An outranking method for multicriteria decision making with probabilistic hesitant information
+AU  - Li, Jian
+AU  - Chen, Qiongxia
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - doi: 10.1111/exsy.12513
+DO  - 10.1111/exsy.12513
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12513
+VL  - 37
+IS  - 3
+KW  - ELECTRE
+KW  - Hausdorff distance
+KW  - multicriteria decision making
+KW  - outranking relation
+KW  - probabilistic hesitant fuzzy set
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/exsy.12513
+UR  - https://doi.org/10.1111/exsy.12513
+Y2  - 2020/10/28
+N2  - Abstract Defects of hesitant fuzzy set (HFS) manifest in actual decision-making process, so adding probabilities to the values in HFS is necessary. The probabilistic HFS (PHFS) is a useful tool to describe the uncertainty of elements in HFS by introducing occurrence probabilities. However, some important issues in PHFS utilization remain to be addressed. In this study, an outranking method for multicriteria decision making (MCDM) with probabilistic hesitant information is presented. First, the binary relations between two probabilistic hesitant fuzzy elements (PHFEs) are defined on the basis of the elimination and choice translating reality method. Some outranking relations between the alternatives are then introduced. Second, we provide a Hausdorff distance between two PHFEs. The main characteristic of the proposed Hausdorff distance is that it does not require the same length and arrangement of the PHFEs. Third, a maximizing Hausdorff distance deviation method is developed to obtain the evaluation criteria weights under a probabilistic hesitant fuzzy environment. Finally, an illustrative example in conjunction with comparative analysis is used to demonstrate that the proposed method is feasible for practical MCDM problems.
+ER  - 
+
+TY  - JOUR
+T1  - Accelerated multiobjective design of miniaturized microwave components by means of nested kriging surrogates
+AU  - Pietrenko-Dabrowska, Anna
+AU  - Koziel, Slawomir
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1002/mmce.22124
+DO  - 10.1002/mmce.22124
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF Microw Comput Aided Eng
+SP  - e22124
+VL  - 30
+IS  - 4
+KW  - EM-driven design
+KW  - microwave design
+KW  - miniaturized components
+KW  - multiobjective optimization
+KW  - nested kriging
+KW  - surrogate modeling
+PB  - John Wiley & Sons, Ltd
+SN  - 1096-4290
+M3  - doi: 10.1002/mmce.22124
+UR  - https://doi.org/10.1002/mmce.22124
+Y2  - 2020/10/28
+N2  - Abstract Design of microwave components is an inherently multiobjective task. Often, the objectives are at least partially conflicting and the designer has to work out a suitable compromise. In practice, generating the best possible trade-off designs requires multiobjective optimization, which is a computationally demanding task. If the structure of interest is evaluated through full-wave electromagnetic (EM) analysis, the employment of widely used population-based metaheuristics algorithms may become prohibitive in computational terms. This is a common situation for miniaturized components, where considerable cross-coupling effects make traditional representations (eg, network equivalents) grossly inaccurate. This article presents a framework for accelerated EM-driven multiobjective design of compact microwave devices. It adopts a recently reported nested kriging methodology to identify the parameter space region containing the Pareto front and to render a fast surrogate, subsequently used to find the first approximation of the Pareto set. The final trade-off designs are produced in a separate, surrogate-assisted refinement process. Our approach is demonstrated using a three-section impedance matching transformer designed for the best matching and the minimum footprint area. The Pareto set is generated at the cost of only a few hundred of high-fidelity EM simulations of the transformer circuit despite a large number of geometry parameters involved.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria decision-making taxonomy for DevOps challenging factors using analytical hierarchy process
+AU  - Khan, Arif Ali
+AU  - Shameem, Mohammad
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - doi: 10.1002/smr.2263
+DO  - 10.1002/smr.2263
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2263
+VL  - 32
+IS  - 10
+KW  - AHP
+KW  - Challenging Factors
+KW  - DevOps
+KW  - Prioritization
+KW  - Taxonomy
+PB  - John Wiley & Sons, Ltd
+SN  - 2047-7473
+M3  - doi: 10.1002/smr.2263
+UR  - https://doi.org/10.1002/smr.2263
+Y2  - 2020/10/28
+N2  - Abstract Development and operations (DevOps) practices significantly accelerate and automate the continuous delivery and deployment of software systems. However, adopting DevOps concepts is not a straightforward job. Most organizations are not able to keep pace with the rhythm of continuous delivery and deployment, which are key DevOps attributes. Despite the significance of DevOps programs, it is still unknown why software development firms are demotivated or unable to adopt them. We tried to fill this gap by investigating, prioritizing, and developing the taxonomy of the key factors that could impact the adaptation and implementation of DevOps practices. We extracted a total of 16 factors from the available literature and empirically assessed them using the survey approach. The identified factors are further classified into three core categories of the software process improvement (SPI) manifesto. The analytical hierarchy process (AHP) approach was used to calculate the prioritization weight for each factor and present it as a taxonomy. The developed taxonomy provides a roadmap to tackle the key challenges to implementing DevOps and offers suggestions for streamlining DevOps practices.
+ER  - 
+
+TY  - JOUR
+T1  - Creating a flexible business credit rating model using multicriteria decision analysis
+AU  - Katsimperis, Valentinos
+AU  - Andrikopoulos, Athanasios
+Y1  - 2020/10/08
+PY  - 2020
+DA  - 2020/10/08
+N1  - doi: 10.1002/mcda.1726
+DO  - 10.1002/mcda.1726
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+VL  - n/a
+IS  - n/a
+KW  - AHP
+KW  - business rating
+KW  - ideal customer
+KW  - multicriteria analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - doi: 10.1002/mcda.1726
+UR  - https://doi.org/10.1002/mcda.1726
+Y2  - 2020/10/28
+N2  - Abstract To decide for the approval or rejection of a business loan application, banks are following a rating procedure. However, in many cases this procedure is not simply and properly structured. This may lead to unpleasant results so, for a long time, banks are struggling to find quite flexible and simple rating methods, widely applicable, easily comprehensible, and modifiable from their analysts. This study presents an empirical model of mass business rating with the use of multicriteria analysis (AHP method) and other techniques. Two main scenarios of a two-stage evaluation procedure will be analysed that demonstrate its flexibility, stability, and simplicity. The performance of this method is measured for both presented scenarios showing its capability. Furthermore, this method saves time and sources while ensuring the quality of the produced results. The outcome will be a list of rated businesses which, depending on the score they succeed in each of the two scenarios, will be approved or rejected for a business loan.
+ER  - 
+
+TY  - JOUR
+T1  - Internet of Things data analytics for parking availability prediction and guidance
+AU  - Atif, Yacine
+AU  - Kharrazi, Sogol
+AU  - Jianguo, Ding
+AU  - Andler, Sten F.
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - doi: 10.1002/ett.3862
+DO  - 10.1002/ett.3862
+T2  - Transactions on Emerging Telecommunications Technologies
+JF  - Transactions on Emerging Telecommunications Technologies
+JO  - Transactions on Emerging Telecommunications Technologies
+JA  - Trans Emerging Tel Tech
+SP  - e3862
+VL  - 31
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 2161-3915
+M3  - doi: 10.1002/ett.3862
+UR  - https://doi.org/10.1002/ett.3862
+Y2  - 2020/10/28
+N2  - Abstract Cutting-edge sensors and devices are increasingly deployed within urban areas to make-up the fabric of transmission control protocol/internet protocol connectivity driven by Internet of Things (IoT). This immersion into physical urban environments creates new data streams, which could be exploited to deliver novel cloud-based services. Connected vehicles and road-infrastructure data are leveraged in this article to build applications that alleviate notorious parking and induced traffic-congestion issues. To optimize the utility of parking lots, our proposed SmartPark algorithm employs a discrete Markov-chain model to demystify the future state of a parking lot, by the time a vehicle is expected to reach it. The algorithm features three modular sections. First, a search process is triggered to identify the expected arrival-time periods to all parking lots in the targeted central business district (CBD) area. This process utilizes smart-pole data streams reporting congestion rates across parking area junctions. Then, a predictive analytics phase uses consolidated historical data about past parking dynamics to infer a state-transition matrix, showing the transformation of available spots in a parking lot over short periods of time. Finally, this matrix is projected against similar future seasonal periods to figure out the actual vacancy-expectation of a lot. The performance evaluation over an actual busy CBD area in Stockholm (Sweden) shows increased scalability capabilities, when further parking resources are made available, compared to a baseline case algorithm. Using standard urban-mobility simulation packages, the traffic-congestion-aware SmartPark is also shown to minimize the journey duration to the selected parking lot while maximizing the chances to find an available spot at the selected lot.
+ER  - 
+
+TY  - JOUR
+T1  - Sensitivity analysis and multiobjective design optimization of flux switching permanent magnet motor using MLP-ANN modeling and NSGA-II algorithm
+AU  - Mahmouditabar, Farshid
+AU  - Vahedi, Abolfazl
+AU  - Mosavi, Mohammad R.
+AU  - Bafghi, Mohammad H. B.
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1002/2050-7038.12511
+DO  - 10.1002/2050-7038.12511
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e12511
+VL  - 30
+IS  - 9
+KW  - FSPM motor
+KW  - optimization
+KW  - FEM
+KW  - DOE
+KW  - MLP-ANN
+KW  - NSGA-II
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - doi: 10.1002/2050-7038.12511
+UR  - https://doi.org/10.1002/2050-7038.12511
+Y2  - 2020/10/28
+N2  - Summary The flux switching permanent magnet (FSPM) motor is relatively a new topology of the permanent magnet (PM) motors, which both PM and armature winding are placed at the stator. This feature leads to more robust design, better heat dissipation, and a proper option for a wide range of industrial applications. The critical part of the development of FSPM motor is the design optimization of the structure to improve the electromagnetic performance of the motor. In this article, first to reduce the computation time and required memory of the optimization procedure, the multiobjective sensitivity analysis based on design of experiment is performed to specify the most effective parameters on the objectives. Then, the initial samples data of the optimization procedure is obtained by 2D finite element method (FEM) model of the FSPM motor, which is validated by the prototype of the motor. Furthermore, based on FEM results the multilayers perceptron artificial neural network for the approximation of relation between design variables and objectives is implemented. Finally, using the nondominated sorting genetic algorithm-II, the optimization procedure of the FSPM motor is done. The accuracy of the presented optimization procedure is validated by a comparison of the initial prototype and final design of the motor.
+ER  - 
+
+TY  - JOUR
+T1  - Joint computation offloading and resource provisioning for edge-cloud computing environment: A machine learning-based approach
+AU  - Shahidinejad, Ali
+AU  - Ghobaei-Arani, Mostafa
+Y1  - 2020/09/03
+PY  - 2020
+DA  - 2020/09/03
+N1  - doi: 10.1002/spe.2888
+DO  - 10.1002/spe.2888
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+VL  - n/a
+IS  - n/a
+KW  - edge computing
+KW  - learning automata
+KW  - long short-term memory
+KW  - offloading
+KW  - reinforcement learning
+KW  - resource provisioning
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - doi: 10.1002/spe.2888
+UR  - https://doi.org/10.1002/spe.2888
+Y2  - 2020/10/28
+N2  - Summary In recent years, the usage of smart mobile applications to facilitate day-to-day activities in various domains for enhancing the quality of human life has increased widely. With rapid developments of smart mobile applications, the edge computing paradigm has emerged as a distributed computing solution to support serving these applications closer to mobile devices. Since the submitted workloads to the smart mobile applications changes over the time, decision making about offloading and edge server provisioning to handle the dynamic workloads of mobile applications is one of the challenging issues into the resource management scope. In this work, we utilized learning automata as a decision-maker to offload the incoming dynamic workloads into the edge or cloud servers. In addition, we propose an edge server provisioning approach using long short-term memory model to estimate the future workload and reinforcement learning technique to make an appropriate scaling decision. The simulation results obtained under real and synthetic workloads demonstrate that the proposed solution increases the CPU utilization and reduces the execution time and energy consumption, compared with the other algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid MCDM model combining DANP with TODIM to evaluate the information quality of community question answering in a two-dimensional linguistic environment
+AU  - Li, Ming
+AU  - Li, Ying
+AU  - Peng, Qijin
+AU  - Wang, Jun
+Y1  - 2020/08/11
+PY  - 2020
+DA  - 2020/08/11
+N1  - doi: 10.1111/exsy.12619
+DO  - 10.1111/exsy.12619
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12619
+VL  - n/a
+IS  - n/a
+KW  - two-dimensional uncertain linguistic variables
+KW  - community question answering
+KW  - fuzzy multicriteria decision-making
+KW  - information quality
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/exsy.12619
+UR  - https://doi.org/10.1111/exsy.12619
+Y2  - 2020/10/28
+N2  - Abstract Evaluating the information quality of cQA (community question-answering) websites helps users select a cQA website with high-quality information and improves the information quality. In this paper, an approach to evaluating the information quality of cQA based on a novel hybrid multicriteria decision-making (MCDM) model is proposed. First, the source, content, expression and usefulness criteria for evaluating the information quality of the cQA are established. Then, considering the ambiguity and inner correlations of the criteria, DANP ([DEMATEL]-based Analytic Network Process) and TODIM (interactive and multiple attribute decision making, in Portuguese) methods are combined in a two-dimensional linguistic environment to process linguistic evaluation information. Lastly, the proposed approach is applied to evaluate the quality of five popular cQA websites. The key criteria are identified, and the evaluation results are derived comprehensively. The key factors consist of reputation, coverage, politeness, usability, helpfulness, clarity, readability and conciseness. The websites, Know almost and Baidu knows, perform better in terms of information quality. The application, along with the sensitivity analysis and comparative analysis, shows the effectiveness of the proposed model. The proposed approach has both practical and research implications. It provides an approach for users to choose websites, and, for operators, to improve the information quality of their website. The evaluation criteria and their relations provide a reference for research on the information quality. The evaluation method considers the user's psychological information to provide a more accurate MCDM approach. The comprehensive aspects of the experiment can be used to verify the other MCDM methods.
+ER  - 
+
+TY  - JOUR
+T1  - A new system for automatic analysis and quality adjustment in audiovisual subtitled-based contents by means of genetic algorithms
+AU  - Souto-Rico, Monica
+AU  - González-Carrasco, Israel
+AU  - López-Cuadrado, José-Luis
+AU  - Ruíz-Mezcua, Belén
+Y1  - 2020/01/08
+PY  - 2020
+DA  - 2020/01/08
+N1  - doi: 10.1111/exsy.12512
+DO  - 10.1111/exsy.12512
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+VL  - n/a
+IS  - n/a
+KW  - automatic subtitle adjustment
+KW  - big data
+KW  - genetic algorithms
+KW  - massive knowledge integration
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/exsy.12512
+UR  - https://doi.org/10.1111/exsy.12512
+Y2  - 2020/10/28
+N2  - Abstract In Spain, the subtitling service on television for the deaf has been improving in quantity since the General Law on Audiovisual Communication was enacted in 2010. This law establishes a series of quality standards that must be followed in the subtitling process. One of the most relevant aspects of subtitle quality is the speed at which they are shown on the screen, due to the fact that a too high speed (less time on screen) will make them difficult to read and the information hard to understand. In order to determine whether the speed at which the subtitles are being shown is adequate, first, it is necessary to process all the information associated with the broadcast of the digital TV channels including data from different sources. In this research, the authors have worked with the data obtained within the time period between July 2012 and December 2017, that is, with more than 950 million records. This article presents a framework for integration and processing of heterogeneous information associated with the subtitling of audiovisual content from different sources. Moreover, the framework will provide an automatic adjustment of subtitles in broadcasting regarding quality indicators by means of a genetic algorithm approach. The results show that the system is able to estimate the best relationship between the time and size of the subtitles and maintaining the quality levels established for this research. These results have been validated by experts and users of this domain.
+ER  - 
+
+TY  - JOUR
+T1  - An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory
+AU  - Wu, Dongdong
+AU  - Tang, Yongchuan
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1002/qre.2660
+DO  - 10.1002/qre.2660
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual Reliab Engng Int
+SP  - 1786
+EP  - 1807
+VL  - 36
+IS  - 5
+KW  - ambiguity measure
+KW  - Dempster–Shafer evidence theory
+KW  - failure mode and effects analysis
+KW  - gray relational projection method
+KW  - risk priority numbers
+KW  - uncertainty measure
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - doi: 10.1002/qre.2660
+UR  - https://doi.org/10.1002/qre.2660
+Y2  - 2020/10/28
+N2  - Abstract mode and effects analysis (FMEA) is an effective tool to assess the risk of a system or process under uncertain environment. However, how to handle the uncertainty in the subjective assessment is an open issue. In this paper, a novel method to deal with the uncertainty coming from subjective assessments of FMEA experts is proposed in the framework of Dempster?Shafer evidence theory. First, the uncertain degree of the assessment is measured by the ambiguity measure. Then, the uncertainty is transformed to the reliability of each FMEA expert and the relative importance of each risk factor. After that, the assessments from FMEA team will be fused with a discounting-based combination rule to address the potential conflict. Moreover, to avoid the situation that different risk priorities of failure modes may have the same ranking based on classical risk priority number method, the gray relational projection method (GRPM) is adopted for ranking risk priorities of failure modes. Finally, an application of the improved FMEA model in sheet steel production process verifies the reliability and validity of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Mining specific and representative information by the attribute-oriented induction method
+AU  - Wu, Chia-Chi
+AU  - Chen, Yen-Liang
+AU  - Yu, Mei-Ru
+Y1  - 2020/10/20
+PY  - 2020
+DA  - 2020/10/20
+N1  - doi: 10.1111/exsy.12643
+DO  - 10.1111/exsy.12643
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12643
+VL  - n/a
+IS  - n/a
+KW  - attribute-oriented induction
+KW  - concept hierarchy
+KW  - cost
+KW  - data mining
+KW  - noise
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - doi: 10.1111/exsy.12643
+UR  - https://doi.org/10.1111/exsy.12643
+Y2  - 2020/10/28
+N2  - Abstract Attribute-oriented induction (AOI) is a data analysis technique based on induction. The traditional AOI algorithm requires a threshold given by users to determine the number of output tuples. However, it is not easy to set an appropriate tuple threshold, and there is usually noise contained in a dataset. The traditional AOI algorithm can only generate a summary output of a fixed size, but it cannot guarantee that all generalized tuples have sufficient specificity and representativeness. In this article, a new AOI method is proposed to make up for the shortcomings. We introduce the concept of cost to measure the loss of accuracy due to attribute ascension. We also propose two algorithms based on the hierarchical clustering method. By setting cost constraints on each generalized tuple, our method can generate accurate output while eliminating noise, and help users get more informative and clearer results.
+ER  - 
+
+AU  - Olum, Solomon
+AU  - Wesana, Joshua
+AU  - Odongo, Walter
+AU  - Mogendi, Joseph
+AU  - Okello, Collins
+AU  - Webale, Dominic
+AU  - Makokha, Anselimo
+AU  - Ongeng, Duncan
+AU  - Gellynck, Xavier
+AU  - De Steur, Hans
+PY  - 2020
+Y1  - 2020/10/20
+DA  - 2020/10/20
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119511144.ch8
+UR  - https://doi.org/10.1002/9781119511144.ch8
+N1  - doi:10.1002/9781119511144.ch8
+M3  - doi:10.1002/9781119511144.ch8
+N2  - Summary This chapter provides an overview of two case studies that examine stakeholder reactions toward iodine biofortification in Uganda. The first case applies the protection motivation theory and evaluates the intention of school heads and parents of school-aged children to include iodine-biofortified legumes in school feeding programs. The second case study takes a broader scope of stakeholder groups and applies the analytical hierarchy process, a multicriteria decision-making tool, to understand the stakeholders' evaluation of the relative importance of Strengths, Weaknesses, Opportunities, and Threats (SWOT) factors in implementing agronomic iodine biofortification in Uganda. Results from the two cases demonstrate that stakeholders are generally optimistic about the iodine biofortification strategy to improve iodine intake and address the prevalent iodine deficiency disorders. Both cases provide insights into key factors that need to be considered in implementing iodine biofortification technology in a developing country.
+SP  - 163-189
+KW  - agronomic iodine biofortification
+KW  - analytical hierarchy process
+KW  - iodine deficiency disorders
+KW  - protection motivation theory
+KW  - stakeholder reactions
+KW  - SWOT factors
+KW  - Uganda
+T1  - Agronomic Biofortification from a Stakeholder's Viewpoint
+T2  - Vitamins and Minerals Biofortification of Edible Plants
+T3  - Wiley Online Books
+SN  - 9781119511144
+C1  - Evidence from Studies on Iodine&#x2010;Enriched Foods in Uganda
+
+TY  - JOUR
+T1  - On some correlation coefficients in Pythagorean fuzzy environment with applications
+AU  - Singh, Surender
+AU  - Ganie, Abdul Haseeb
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1002/int.22222
+DO  - 10.1002/int.22222
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 682
+EP  - 717
+VL  - 35
+IS  - 4
+KW  - clustering
+KW  - correlation coefficient
+KW  - medical diagnosis
+KW  - pattern recognition
+KW  - Pythagorean fuzzy set
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1002/int.22222
+UR  - https://doi.org/10.1002/int.22222
+Y2  - 2020/10/28
+N2  - Abstract A Pythagorean fuzzy set (PFS) is an extension of an intuitionistic FS that can be extended by relaxing the restriction on the grades of satisfaction and dissatisfaction. PFS is a powerful tool for dealing with uncertainty and vagueness. Correlation analysis of PFSs is a hot research topic in Pythagorean fuzzy (PF) theory and has practical applications in many areas, such as decision-making, pattern recognition, medical diagnosis, engineering, and so forth. In this communication, we introduce some novel correlation coefficients in the PF-environment satisfying the condition that the correlation coefficient of two PFSs is one if and only if the two sets are equal. We discuss the properties and applications of the proposed measures in pattern recognition, medical diagnosis, multicriteria decision-making, and clustering analysis. Furthermore, the superiority of our proposed correlation coefficients over some existing ones is also established. We also extend the correlation coefficients to interval-valued PFSs.
+ER  - 
+
+TY  - JOUR
+T1  - An urban growth simulation model based on integration of local weights and decision risk values
+AU  - Karimi Firozjaei, Mohammad
+AU  - Sedighi, Amir
+AU  - Jelokhani-Niaraki, Mohammadreza
+Y1  - 2020/07/28
+PY  - 2020
+DA  - 2020/07/28
+N1  - doi: 10.1111/tgis.12668
+DO  - 10.1111/tgis.12668
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/tgis.12668
+UR  - https://doi.org/10.1111/tgis.12668
+Y2  - 2020/10/28
+N2  - Abstract Monitoring and managing the rapid growth of cities, especially in developing countries, highlights the need for appropriate spatio-temporal models to predict urban growth. The parameters affecting the spatio-temporal analysis of urban growth play a key role in the prediction results. This study proposes an urban growth simulation model by integrating local subjective?objective weights and decision risk values (ORness) into a CA?Markov model. This involves the use of ordered weighting averaging as one of the multicriteria decision analysis methods to combine the weights and degree of risk for generating a variety of risk-averse and/or risk-taking urban growth prediction scenarios. The proposed model has been applied to predict the physical growth of Babol city, located in Mazandaran, Iran. The results indicate that the degrees of ORness = 0.3 and ORness = 0.9 yield better prediction results in the case of using the local and global weighting strategies, respectively. Furthermore, the overall accuracy of local and global weighting strategies at different degrees of risk was 87.6 and 86.8, respectively. This implies that the use of local subjective?objective weights leads to more accurate results than the global weights for simulating urban growth.
+ER  - 
+
+TY  - JOUR
+T1  - Engineering Systems and Risk Analytics
+AU  - Wu, Desheng
+AU  - Lambert, James H.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1111/risa.13433
+DO  - 10.1111/risa.13433
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1
+EP  - 7
+VL  - 40
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/risa.13433
+UR  - https://doi.org/10.1111/risa.13433
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Soil multifunctionality: Synergies and trade-offs across European climatic zones and land uses
+AU  - Zwetsloot, Marie J.
+AU  - van Leeuwen, Jeroen
+AU  - Hemerik, Lia
+AU  - Martens, Henk
+AU  - Simó Josa, Iolanda
+AU  - Van de Broek, Marijn
+AU  - Debeljak, Marko
+AU  - Rutgers, Michiel
+AU  - Sandén, Taru
+AU  - Wall, David P.
+AU  - Jones, Arwyn
+AU  - Creamer, Rachel E.
+Y1  - 2020/09/21
+PY  - 2020
+DA  - 2020/09/21
+N1  - doi: 10.1111/ejss.13051
+DO  - 10.1111/ejss.13051
+T2  - European Journal of Soil Science
+JF  - European Journal of Soil Science
+JO  - European Journal of Soil Science
+JA  - Eur J Soil Sci
+VL  - n/a
+IS  - n/a
+KW  - arable land
+KW  - climate
+KW  - grassland
+KW  - monitoring
+KW  - soil multifunctionality
+KW  - synergies
+KW  - trade-offs
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/ejss.13051
+UR  - https://doi.org/10.1111/ejss.13051
+Y2  - 2020/10/28
+N2  - Abstract With increasing societal demands for food security and environmental sustainability on land, the question arises: to what extent do synergies and trade-offs exist between soil functions and how can they be measured across Europe? To address this challenge, we followed the functional land management approach and assessed five soil functions: primary productivity, water regulation and purification, climate regulation, soil biodiversity and nutrient cycling. Soil, management and climate data were collected from 94 sites covering 13 countries, five climatic zones and two land-use types (arable and grassland). This dataset was analysed using the Soil Navigator, a multicriteria decision support system developed to assess the supply of the five soil functions simultaneously. Most sites scored high for two to three soil functions, demonstrating that managing for multifunctionality in soil is possible but that local constraints and trade-offs do exist. Nutrient cycling, biodiversity and climate regulation were less frequently delivered at high capacity than the other two soil functions. Using correlation and co-occurrence analyses, we also found that synergies and trade-offs between soil functions vary among climatic zones and land-use types. This study provides a new framework for monitoring soil quality at the European scale where both the supply of soil functions and their interactions are considered. Highlights Managing and monitoring soil multifunctionality across Europe is possible. Synergies and trade-offs between soil functions exist, making it difficult to maximize the supply of all five soil functions simultaneously. Synergies and trade-offs between soil functions vary by climatic zone and land-use type. Climate regulation, biodiversity and nutrient cycling are less frequently delivered at high capacity.
+ER  - 
+
+TY  - JOUR
+T1  - Neural network structure identification in inflation forecasting
+AU  - Šestanović, Tea
+AU  - Arnerić, Josip
+Y1  - 2020/05/12
+PY  - 2020
+DA  - 2020/05/12
+N1  - doi: 10.1002/for.2698
+DO  - 10.1002/for.2698
+T2  - Journal of Forecasting
+JF  - Journal of Forecasting
+JO  - Journal of Forecasting
+JA  - Journal of Forecasting
+VL  - n/a
+IS  - n/a
+KW  - euro zone
+KW  - feedforward neural network
+KW  - inflation forecasting
+KW  - Jordan neural network
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1002/for.2698
+UR  - https://doi.org/10.1002/for.2698
+Y2  - 2020/10/28
+N2  - Abstract Neural networks (NNs) are appropriate to use in time series analysis under conditions of unfulfilled assumptions, i.e., non-normality and nonlinearity. The aim of this paper is to propose means of addressing identified shortcomings with the objective of identifying the NN structure for inflation forecasting. The research is based on a theoretical model that includes the characteristics of demand-pull and cost-push inflation; i.e., it uses the labor market, financial and external factors, and lagged inflation variables. It is conducted at the aggregate level of euro area countries from January 1999 to January 2017. Based on the estimated 90 feedforward NNs (FNNs) and 450 Jordan NNs (JNNs), which differ in variable parameters (number of iterations, learning rate, initial weight value intervals, number of hidden neurons, and weight value of the context unit), the mean square error (MSE), and the Akaike Information Criterion (AIC) are calculated for two periods: in-the-sample and out-of-sample. Ranking NNs simultaneously on both periods according to either MSE or AIC does not lead to the selection of the ?best? NN because the optimal NN in-the-sample, based on MSE and/or AIC criteria, often has high out-of-sample values of both indicators. To achieve the best compromise solution, i.e., to select an optimal NN, the preference ranking organization method for enrichment of evaluations (PROMETHEE) is used. Comparing the optimal FNN and JNN, i.e., FNN(4,5,1) and JNN(4,3,1), it is concluded that under approximately equal conditions, fewer hidden layer neurons are required in JNN than in FNN, confirming that JNN is parsimonious compared to FNN. Moreover, JNN has a better forecasting performance than FNN.
+ER  - 
+
+TY  - JOUR
+T1  - Analytics Curriculum for Undergraduate and Graduate Students
+AU  - Paul, Jomon A.
+AU  - MacDonald, Leo
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - doi: 10.1111/dsji.12196
+DO  - 10.1111/dsji.12196
+T2  - Decision Sciences Journal of Innovative Education
+JF  - Decision Sciences Journal of Innovative Education
+JO  - Decision Sciences Journal of Innovative Education
+JA  - Decision Sciences Journal of Innovative Education
+SP  - 22
+EP  - 58
+VL  - 18
+IS  - 1
+KW  - Analytics, Graduate and Undergraduate Curriculum
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/dsji.12196
+UR  - https://doi.org/10.1111/dsji.12196
+Y2  - 2020/10/28
+N2  - ABSTRACT In recent years, analytics has gained considerable momentum in both industry as well as academia. This study aims to develop an analytics curriculum for undergraduate and graduate programs by identifying skill-based gaps between industry and academia and then clustering them based on methodological and semantic similarities among other criteria. Specifically, we compare industry requirements and related skills for analytics jobs to three types of analytics domains, that is, descriptive, predictive, and prescriptive analytics. We also address several sought-after intangible student characteristics, such as communication skills, intellectual curiosity, and business acumen. We then cluster these skills by similarity based upon methodology, skill type, and semantics to develop courses based on these clusters. Our study thus provides a comprehensive analysis linking specific industry needs to specific coursework that allows any university to create a well-rounded analytics program at both the undergraduate and graduate level. Finally, realizing the significant difference between undergraduate and graduate students in terms of expectations and maturity, we use personality-job fit theory to recommend strategies to better promote the field to undergraduate students. Regarding the latter, we recommend best practices that graduate analytics program can employ to be easy to market and sell to prospective students.
+ER  - 
+
+TY  - JOUR
+T1  - From the Editors
+AU  - Cox, Tony
+AU  - Lowrie, Karen
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1111/risa.13559
+DO  - 10.1111/risa.13559
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1321
+EP  - 1322
+VL  - 40
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/risa.13559
+UR  - https://doi.org/10.1111/risa.13559
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - A groundbreaking journal for high technology and innovative computing in civil engineering
+AU  - Graf, Wolfgang
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1111/mice.12603
+DO  - 10.1111/mice.12603
+T2  - Computer-Aided Civil and Infrastructure Engineering
+JF  - Computer-Aided Civil and Infrastructure Engineering
+JO  - Computer-Aided Civil and Infrastructure Engineering
+JA  - Computer‐Aided Civil and Infrastructure Engineering
+SP  - 907
+EP  - 908
+VL  - 35
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/mice.12603
+UR  - https://doi.org/10.1111/mice.12603
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - A bibliometric review on the application of fuzzy optimization to sustainable energy technologies
+AU  - Arriola, Emmanuel R.
+AU  - Ubando, Aristotle T.
+AU  - Chen, Wei-Hsin
+Y1  - 2020/08/06
+PY  - 2020
+DA  - 2020/08/06
+N1  - doi: 10.1002/er.5729
+DO  - 10.1002/er.5729
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+VL  - n/a
+IS  - n/a
+KW  - bibliometric analysis
+KW  - energy
+KW  - fuzzy optimization
+KW  - optimization
+KW  - sustainability
+KW  - VosViewer
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1002/er.5729
+UR  - https://doi.org/10.1002/er.5729
+Y2  - 2020/10/28
+N2  - Summary Sustainable energy production has been one of the contemporary concerns of society. In order to mitigate carbon dioxide emissions while generating the required demand for energy, various energy technologies, and production systems must be considered. In the consideration of different energy technologies, optimization is one of the important tools to optimally design energy systems. This study aims to analyze the progress of current research related to energy and sustainability that utilizes fuzzy optimization approach. Bibliometric methods based on the database of Web of Science core collection are used for the analysis. Of the 96 retrieved publications, 87% were journal articles. Analysis on the patterns for these articles were conducted such as highly cited articles, journals, subject categories, institutions, countries, and impact factor. The articles are evaluated into three categories such as technological, environmental, and economy and are comprehensively reviewed. The results showed a significant increase in publication related to fuzzy optimization in sustainability and energy technologies. The analysis showed China with 26 publications, which has the largest contribution in terms of the number of articles published. North China Electric Power University ranked as the number 1 institution with 10 publications. Based on the comprehensive analysis, fuzzy optimization showed significant results on technological, environmental, and economical factors. These findings help to identify hotspots in energy technology optimization for sustainability research. Similarly, the study gives useful inputs for selecting subtopics and strategy on publication related to fuzzy optimization on energy technologies.
+ER  - 
+
+TY  - JOUR
+T1  - Sustainable personnel scheduling supported by an artificial neural network model in a natural gas combined cycle power plant
+AU  - Özder, Emir Hüseyin
+AU  - Özcan, Evrencan
+AU  - Eren, Tamer
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1002/er.5480
+DO  - 10.1002/er.5480
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+SP  - 7525
+EP  - 7547
+VL  - 44
+IS  - 9
+KW  - analytic network process
+KW  - artificial neural network
+KW  - goal programming
+KW  - natural gas combined cycle power plant
+KW  - skill-based personnel scheduling
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1002/er.5480
+UR  - https://doi.org/10.1002/er.5480
+Y2  - 2020/10/28
+N2  - Summary Despite the impact of personnel scheduling on the sustainability of production processes, it is a rarely studied problem in the electricity generation sector, whose main purpose is sustainable energy generation. From this point of view, personnel scheduling problem is handled in this study based on the impact of this problem, which focuses on fair and balanced job distribution according to the personnel qualifications, on the sustainable generation in the power plants. With its advantages such as ease of operation and maintenance, fast commissioning, lower greenhouse gas emissions compared to other fossil fuels and etc. one of the biggest Natural Gas Combined Cycle Power Plant (NGCCPP) in Turkey is chosen as application area. The main purpose of the study is to demonstrate the effect of fair, balanced and competency-based personnel scheduling on generation stoppages resulting from personnel planning in power plants, which have great importance in energy supply security of the countries. This study is the first in the literature in terms of three different aspects. Firstly, in the energy sector, it is different in that it is a personnel scheduling study that takes into consideration the job assignment of the personnel according to their abilities and minimizes costs. Secondly, the large size of the problem is different from that of previous studies in the literature. Finally, the number of personnel employed in this generation facility varies according to the season. At this point, the past generation data are analyzed using an Artificial Neural Network (ANN) method and an estimation is made, and personnel scheduling is performed in the light of this information. Consequently, the proposed multi-objective mathematical model supported with multi-criteria decision making and ANN, shutdown rate of the power plant due to operator error is reduced 67.3%, and personnel satisfaction level is increased from 42% to 89%as solution.
+ER  - 
+
+TY  - JOUR
+T1  - A Dominance-Based Rough Set Approach for an Enhanced Assessment of Seasonal Influenza Risk
+AU  - Younsi, Fatima-Zohra
+AU  - Chakhar, Salem
+AU  - Ishizaka, Alessio
+AU  - Hamdadou, Djamila
+AU  - Boussaid, Omar
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1111/risa.13478
+DO  - 10.1111/risa.13478
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1323
+EP  - 1341
+VL  - 40
+IS  - 7
+KW  - Dominance-based rough set approach
+KW  - multicriteria classification
+KW  - risk assessment
+KW  - seasonal influenza
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/risa.13478
+UR  - https://doi.org/10.1111/risa.13478
+Y2  - 2020/10/28
+N2  - Abstract Accounting for about 290,000?650,000 deaths across the globe, seasonal influenza is estimated by the World Health Organization to be a major cause of mortality. Hence, there is a need for a reliable and robust epidemiological surveillance decision-making system to understand and combat this epidemic disease. In a previous study, the authors proposed a decision support system to fight against seasonal influenza. This system is composed of three subsystems: (i) modeling and simulation, (ii) data warehousing, and (iii) analysis. The analysis subsystem relies on spatial online analytical processing (S-OLAP) technology. Although the S-OLAP technology is useful in analyzing multidimensional spatial data sets, it cannot take into account the inherent multicriteria nature of seasonal influenza risk assessment by itself. Therefore, the objective of this article is to extend the existing decision support system by adding advanced multicriteria analysis capabilities for enhanced seasonal influenza risk assessment and monitoring. Bearing in mind the characteristics of the decision problem considered in this article, a well-known multicriteria classification method, the dominance-based rough set approach (DRSA), was selected to boost the existing decision support system. Combining the S-OLAP technology and the multicriteria classification method DRSA in the same decision support system will largely improve and extend the scope of analysis capabilities. The extended decision support system has been validated by its application to assess seasonal influenza risk in the northwest region of Algeria.
+ER  - 
+
+TY  - JOUR
+T1  - Issue Information
+Y1  - 2020/10/10
+PY  - 2020
+DA  - 2020/10/10
+N1  - doi: 10.1002/er.4659
+DO  - 10.1002/er.4659
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+SP  - 9241
+EP  - 9243
+VL  - 44
+IS  - 12
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1002/er.4659
+UR  - https://doi.org/10.1002/er.4659
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - TOPSIS-based approach for network slice selection in 5G mobile systems
+AU  - Bakmaz, Bojan
+AU  - Bojkovic, Zoran
+AU  - Bakmaz, Miodrag
+Y1  - 2020/07/25
+PY  - 2020
+DA  - 2020/07/25
+N1  - doi: 10.1002/dac.4395
+DO  - 10.1002/dac.4395
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e4395
+VL  - 33
+IS  - 11
+KW  - network slice selection function
+KW  - rank reversal
+KW  - TOPSIS
+KW  - virtualization
+KW  - 5G mobile systems
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1002/dac.4395
+UR  - https://doi.org/10.1002/dac.4395
+Y2  - 2020/10/28
+N2  - Summary Fifth-generation (5G) mobile networks can be perceived as highly manageable systems that provide increased performance while supporting a variety of services with widely diverse requirements. Recently, network slicing has been proposed by academia and industry as a resource provisioning technique capable to meet these requirements with reduced operating costs while opening new horizons for network efficiency. The aim of network slice selection function (NSSF) is an optimal selection of network instances serving the users, based on local configuration, and other available information including radio access networks (RANs) performances in the registration area. In this paper, NSSF based on Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) is proposed. Here, the network slices are treated as alternatives while their performance indicators are considered as the criteria for decision making. The influences of various alternative techniques, taking into account all the three stages of decision making process, that is, normalization, weighting, and ranking, are analyzed through the rank reversal phenomenon and computational complexity. Simulation results reveal that the proposed techniques can significantly improve the network slice selection procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Risk Analysis: Celebrating the Accomplishments and Embracing Ongoing Challenges
+AU  - Greenberg, Michael
+AU  - Cox, Anthony
+AU  - Bier, Vicki
+AU  - Lambert, Jim
+AU  - Lowrie, Karen
+AU  - North, Warner
+AU  - Siegrist, Michael
+AU  - Wu, Felicia
+Y1  - 2020/06/24
+PY  - 2020
+DA  - 2020/06/24
+N1  - doi: 10.1111/risa.13487
+DO  - 10.1111/risa.13487
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+VL  - n/a
+IS  - n/a
+KW  - Risk analysis
+KW  - risk challenges
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119511144
+M3  - doi: 10.1111/risa.13487
+UR  - https://doi.org/10.1111/risa.13487
+Y2  - 2020/10/28
+N2  - Abstract As part of the celebration of the 40th anniversary of the Society for Risk Analysis and Risk Analysis: An International Journal, this essay reviews the 10 most important accomplishments of risk analysis from 1980 to 2010, outlines major accomplishments in three major categories from 2011 to 2019, discusses how editors circulate authors? accomplishments, and proposes 10 major risk-related challenges for 2020?2030. Authors conclude that the next decade will severely test the field of risk analysis.
+ER  - 
+
+PY  - 2020
+Y1  - 2020/06/24
+DA  - 2020/06/24
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119434016.fmatter
+UR  - https://doi.org/10.1002/9781119434016.fmatter
+N1  - doi:10.1002/9781119434016.fmatter
+M3  - doi:10.1002/9781119434016.fmatter
+N2  - Summary The prelims comprise: Half-Title Page Title Page Copyright Table of Contents Editor Biographies List of Contributors Preface
+SP  - i-xxxiv
+T1  - Front Matter
+T2  - Sustainability
+T3  - Wiley Online Books
+SN  - 9781119434016
+
+TY  - JOUR
+T1  - Flood Risk Assessment and Regionalization from Past and Future Perspectives at Basin Scale
+AU  - Lai, Chengguang
+AU  - Chen, Xiaohong
+AU  - Wang, Zhaoli
+AU  - Yu, Haijun
+AU  - Bai, Xiaoyan
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1111/risa.13493
+DO  - 10.1111/risa.13493
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1399
+EP  - 1417
+VL  - 40
+IS  - 7
+KW  - Flood risk
+KW  - fuzzy comprehensive evaluation
+KW  - game theory
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119434016
+M3  - doi: 10.1111/risa.13493
+UR  - https://doi.org/10.1111/risa.13493
+Y2  - 2020/10/28
+N2  - Abstract Flooding is a major natural disaster that has brought tremendous losses to mankind throughout the ages. Even so, floods can be controlled by appropriate measures to minimize loss and damage. Flood risk assessment is an essential analytic step in preventing floods and reducing losses. Identifying previous flood risk and predicting future features are conducive to understanding the changing patterns and laws of flood risk. Taking the Dongjiang River basin as a study case, we assessed and regionalized flood risk in 1990, 2000, and 2010 from the past perspective and explored dynamic expansion during 1990?2010. Then, we projected land-use type, population, and gross domestic product in 2030 and 2050 and finally assessed and regionalized the risk from a future perspective. Results show that areas with very high risk accounted for 14.98?18.08% during 1990?2010; approximately 13.90% areas of the basin transformed from lower-level risk to higher-level risk whereas 9.07% fell from a higher level to a lower level during the period. For the future scenario, areas with very high and high risk in 2030 and 2050 are expected to account for 21.55% and 24.84%, respectively. Generally, our study can better identify changes in flood risk at a spatial scale and reveal the dynamic evolution rule, which provides a synthetical means of flood prevention and reduction, flood insurance, urban planning, and water resource management in the future under global climate change, especially for developing or high-speed urbanization regions.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial fine-resolution model of malaria risk for the Colombian Pacific region
+AU  - Piedrahita, Stefani
+AU  - Altamiranda-Saavedra, Mariano
+AU  - Correa, Margarita M.
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1111/tmi.13443
+DO  - 10.1111/tmi.13443
+T2  - Tropical Medicine & International Health
+JF  - Tropical Medicine & International Health
+JO  - Tropical Medicine & International Health
+JA  - Trop Med Int Health
+SP  - 1024
+EP  - 1031
+VL  - 25
+IS  - 8
+KW  - malaria
+KW  - incidence
+KW  - risk
+KW  - Anopheles
+KW  - environmental variables
+KW  - Colombia
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119434016
+M3  - doi: 10.1111/tmi.13443
+UR  - https://doi.org/10.1111/tmi.13443
+Y2  - 2020/10/28
+N2  - Abstract Objective To categorise and map, at high resolution, the risk of malaria incidence in the Pacific region, the main malaria-endemic region of Colombia. Methods The relationship between the environmental variables Normalized Difference Vegetation Index Normalized Difference Water Index, Topographic Wetness Index, precipitation and temperature with the observed Annual Parasitic Index was evaluated using a generalised linear model. An incidence risk map at a resolution of 1 km2 was constructed and projected to the entire endemic region. Associations of malaria risk categories with both presence records and co-occurrence of the three main malaria vectors were determined. Results A significant correlation was found for the incidence of malaria with precipitation and Normalized Difference Vegetation Index (R2 = 0.98, P < 0.05), whereas there was no significant correlation with the remaining environmental and topographic variables. Moderate- to high-risk areas were located mainly in central Chocó Department along the San Juan and Atrato rivers and in areas west of the Cauca River and Pacific lowlands of the Andes Mountains. There was a statistically significant relationship for the presence of the two main vectors Anopheles darlingi and Anopheles nuneztovari with the high malaria risk category. Furthermore, malaria risk was directly proportional to the number of co-occurring vector species. Conclusions The map obtained provides useful information on the risk of malaria in particular places of the Colombian Pacific region. The data can be used by public entities to optimise the allocation of economic resources for vector control interventions and surveillance.
+ER  - 
+
+TY  - JOUR
+T1  - Probabilistic linguistic information fusion: A survey on aggregation operators in terms of principles, definitions, classifications, applications, and challenges
+AU  - Mi, Xiaomei
+AU  - Liao, Huchang
+AU  - Wu, Xingli
+AU  - Xu, Zeshui
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - doi: 10.1002/int.22216
+DO  - 10.1002/int.22216
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 529
+EP  - 556
+VL  - 35
+IS  - 3
+KW  - aggregation operator
+KW  - cognitive complex information
+KW  - information fusion
+KW  - probabilistic linguistic term set
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119434016
+M3  - doi: 10.1002/int.22216
+UR  - https://doi.org/10.1002/int.22216
+Y2  - 2020/10/28
+N2  - Abstract The probabilistic linguistic term set is a flexible and efficient tool to represent the cognitive complex information of experts. It has attracted many scholars? attention since it was proposed. Information fusion over the cognitive complex information is a significant issue for decision-making problems. Over the past years, more than 40 aggregation operators have been proposed to fuse the probabilistic linguistic term sets. The aim of this paper is to survey the existing probabilistic linguistic aggregation operators from the perspectives of principles, definitions, classifications, and applications. To do so, first, we summarize the present normalization techniques and operations of probabilistic linguistic term sets. Afterward, this study classifies the existing probabilistic linguistic aggregation operators into 12 kinds. Then, the application areas of these probabilistic linguistic aggregation operators are outlined. Future research directions with interests are proposed to tackle present challenges.
+ER  - 
+
+TY  - JOUR
+T1  - Performance optimization of pharmaceutical supply chain by a unique resilience engineering and fuzzy mathematical framework
+AU  - Salehi, Vahid
+AU  - Salehi, Razieh
+AU  - Mirzayi, Mahsa
+AU  - Akhavizadegan, Faezeh
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - doi: 10.1002/hfm.20845
+DO  - 10.1002/hfm.20845
+T2  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JF  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JO  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JA  - Hum Factors Man
+SP  - 336
+EP  - 348
+VL  - 30
+IS  - 5
+KW  - data envelopment analysis
+KW  - fuzzy data envelopment analysis
+KW  - pharmaceutical supply chain
+KW  - resilience engineering
+KW  - statistical methods
+KW  - veterinary pharmaceutical industry
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119434016
+M3  - doi: 10.1002/hfm.20845
+UR  - https://doi.org/10.1002/hfm.20845
+Y2  - 2020/10/28
+N2  - Abstract Pharmaceutical supply chains (PSCs) are responsible for guaranteeing that the right people receive the right medication at the right time and in the right conditions. These responsibilities make PSC very complex and subsequently increase their vulnerability and disturbance probability. Resilience engineering (RE) can enable supply chain managers to cope with disruptions and to help them maintain their efficient performance. This study proposes a unique RE framework for performance optimization of the pharmaceutical sector in a veterinary organization. A standard questionnaire was used to collect the required data. Next, data envelopment analysis (DEA) and fuzzy data envelopment analysis (FDEA) approaches were employed to formulate the problem. Sensitivity analysis was performed based on the most appropriate model of DEA and FDEA. The results showed that redundancy was the most effective factor in enhancing efficiency in PSCs in the veterinary organization. This is one of the first studies that investigate the influence of resilience indicators on PSC through DEA/FDEA and statistical methods.
+ER  - 
+
+TY  - JOUR
+T1  - A robust framework for cloud-based software development outsourcing factors using analytical hierarchy process
+AU  - Akbar, Muhammad Azeem
+AU  - Khan, Arif Ali
+AU  - Mahmood, Sajjad
+AU  - Alsanad, Ahmed
+AU  - Gumaei, Abdu
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1002/smr.2275
+DO  - 10.1002/smr.2275
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2275
+VL  - n/a
+IS  - n/a
+KW  - cloud-based software development outsourcing (CSDO)
+KW  - success factors
+KW  - systematic literature review (SLR)
+KW  - analytical hierarchy process (AHP)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119434016
+M3  - doi: 10.1002/smr.2275
+UR  - https://doi.org/10.1002/smr.2275
+Y2  - 2020/10/28
+N2  - Abstract Managing the cloud-based software development outsourcing (CSDO) activities across the geographically distributed development sites are much challenging. This study aims to identify the success factors (SFs) for CSDO and prioritize them based on their significance. To achieve this objective, we conducted a systematic literature review (SLR) and survey study with industrial and academic experts. Finally, we applied the analytical hierarchy process (AHP) to develop the framework based on the prioritization of the identified SFs. We believe that the findings of this study will assist the industry practitioners and researchers in developing effective strategies for the successful implementation of CSDO activities.
+ER  - 
+
+TY  - JOUR
+T1  - Chaotropic chromatography method development for the determination of aripiprazole and its impurities following analytical quality by design principles
+AU  - Rmandić, Milena
+AU  - Malenović, Anħelija
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - doi: 10.1002/jssc.201900985
+DO  - 10.1002/jssc.201900985
+T2  - Journal of Separation Science
+JF  - Journal of Separation Science
+JO  - Journal of Separation Science
+JA  - J. Sep. Sci.
+SP  - 3242
+EP  - 3250
+VL  - 43
+IS  - 16
+KW  - alias matrix approach
+KW  - analytical quality by design
+KW  - aripiprazole impurities
+KW  - chaotropic chromatography
+KW  - robustness testing
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119434016
+M3  - doi: 10.1002/jssc.201900985
+UR  - https://doi.org/10.1002/jssc.201900985
+Y2  - 2020/10/28
+N2  - Abstract In this paper, development of robust and reliable chaotropic chromatography method for the determination of aripiprazole and its impurities, following Analytical Quality by Design principles is presented. The efficient baseline separation and accurate determination of aripiprazole and its four impurities from tablets were set as Analytical Target Profile. In line with it, the influence of Critical Method Parameters (acetonitrile content, concentration of perchloric acid in water phase, and column temperature) on predefined Critical Method Attributes (separation of the critical pair of peaks, retention of the first and last eluting peak) was investigated with aid of the Central Composite Design. Further on Design Space, where Critical Method Parameters meet predefined acceptance limits with a high level of probability (π ≥ 85%), was computed as a result of performed Monte Carlo simulations. A normal operating conditions corresponding to 34% of acetonitrile, 66% of 42.5 mM perchloric acid, and column temperature at 35°C were selected from created Design Space. Robustness testing of the quantitative performances of the developed method was conducted combining Plackett?Burman design with alias matrix approach. Through the additional validation testing, reliability of the developed method for the use in the routine practice was completely confirmed.
+ER  - 
+
+PY  - 2020
+Y1  - 2020/08/01
+DA  - 2020/08/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119669814.bindex
+UR  - https://doi.org/10.1002/9781119669814.bindex
+N1  - doi:10.1002/9781119669814.bindex
+M3  - doi:10.1002/9781119669814.bindex
+N2  - Abstract No Abstract.
+SP  - 329-341
+T1  - Index
+T2  - 
+               PMP® Project Management Professional Practice Tests
+T3  - Wiley Online Books
+SN  - 9781119669814
+
+TY  - JOUR
+T1  - Technological ecosystems in capability development: A case study in emerging technologies
+AU  - Ivanova, Ksenia
+AU  - Elsawah, Sondoss
+AU  - Fidock, Justin
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1002/sys.21535
+DO  - 10.1002/sys.21535
+T2  - Systems Engineering
+JF  - Systems Engineering
+JO  - Systems Engineering
+JA  - Syst Eng
+SP  - 423
+EP  - 435
+VL  - 23
+IS  - 4
+KW  - SEE01 Systems Thinking
+KW  - SEE17 Logistics and Supportability
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1002/sys.21535
+UR  - https://doi.org/10.1002/sys.21535
+Y2  - 2020/10/28
+N2  - Abstract The concept of technological ecosystems has been increasingly applied across different domains but rarely in the area of capability development. This paper contributes to addressing this knowledge gap by demonstrating the potential value of applying the technological ecosystems perspective to support technology investment decisions. We present a practical step-by-step approach to show how this approach can be used in practice and illustrate it using two case studies in the military domain. Case A looks at emerging technologies in health support; and Case B is concerned with driverless vehicles in dangerous environments. In both instances, the concepts are developed via facilitated workshops and the technological ecosystem maps are derived by analyzing the enabling technological elements and the relationships between them. Subsequent analysis shows how the technological ecosystem framing assists in gaining a holistic picture of the potential impacts of technology adoption and how it can be used to reframe capability options in terms of technology groupings. Technological ecosystem analysis across the two cases is used to identify common capability enablers and multidomain capability enhancing elements. We discuss the types of components within the generated technological ecosystem maps and point to directions for future work enabled by technological ecosystem mapping in capability development.
+ER  - 
+
+TY  - JOUR
+T1  - Managing healthcare waste for sustainable environmental development: A hybrid decision approach
+AU  - Thakur, Vikas
+AU  - Mangla, Sachin Kumar
+AU  - Tiwari, Binita
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - doi: 10.1002/bse.2625
+DO  - 10.1002/bse.2625
+T2  - Business Strategy and the Environment
+JF  - Business Strategy and the Environment
+JO  - Business Strategy and the Environment
+JA  - Bus Strat Env
+VL  - n/a
+IS  - n/a
+KW  - climate change
+KW  - community wellbeing
+KW  - decision making
+KW  - environmental pollution and emissions
+KW  - healthcare waste
+KW  - sustainable development
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1002/bse.2625
+UR  - https://doi.org/10.1002/bse.2625
+Y2  - 2020/10/28
+N2  - Abstract Healthcare waste management (HCWM) has become the most concerned issue for hospitals to enhance their environmental performance while reducing the waste disposal costs. The present study aims to standardize the evaluation criteria for the stakeholders to ensure sustainable environmental development by safe disposal of infectious healthcare waste (HCW). The present study applied the fuzzy-Delphi method to scrutinize the criteria identified from the literature and experts' opinions and resulted in 20 subcriteria under the following six main dimensions: experience, relationship, environmental factors, technology and qualification, economic factors, and firm's capabilities. Further, this study proposed a hybrid approach based on analytic hierarchy process (AHP) and decision-making trial and evaluation laboratory (DEMATEL) under fuzzy environment to analyze the importance and interrelationships of these listed criteria. The study also showed that the experts have given approximately 70% weightage to three main criteria: firms' capabilities, economic factors, and technology and qualification. The implications of the study would help the healthcare administration and Pollution Control Boards to prepare check sheets for recording HCWM practices and, hence, contribute to sustainable environmental development in an efficient way. Understanding the prioritized cause-group criteria would further protect hospitals' environment from the spread of infection caused by the HCW in the long run.
+ER  - 
+
+TY  - JOUR
+T1  - Basic theory of line integrals under the q-rung orthopair fuzzy environment and their applications
+AU  - Shao, Yabin
+AU  - Zhuo, Junle
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1002/int.22238
+DO  - 10.1002/int.22238
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 1163
+EP  - 1199
+VL  - 35
+IS  - 7
+KW  - multiple attribute decision making
+KW  - nonstandard fuzzy set
+KW  - q-rung orthopair fuzzy aggregation operator
+KW  - q-rung orthopair fuzzy line integral
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1002/int.22238
+UR  - https://doi.org/10.1002/int.22238
+Y2  - 2020/10/28
+N2  - Abstract In the process of decision making (DM), to have more freedom in expressing DM experts' belief about membership and nonmembership grade, Yager presented the q-rung orthopair fuzzy sets (q-ROFSs) as an extension of fuzzy sets. Recently, for aggregating discrete and continuous q-ROF information, many scholars provided various aggregation operators. However, there are still some kinds of continuous q-ROF information cannot be aggregated through existing aggregation operators. In this paper, we present two novel kinds of line integrals under the q-rung orthopair fuzzy environment (q-ROFE), which supply a wider range on method choice for multiple attribute decision making (MADM) concerning discrete or continuous q-ROF information. We first construct the first form of line integral under the q-ROFE and study their properties, we prove the specific condition mean valued theorem but negate the general condition for it. Besides, several inequalities with regard to it are also provided. After that, we give two characterization forms of the second form of line integral under the q-ROFE, we study the relationship between two kinds of line integrals. What is more important, we show the Green formula under q-ROFE, which connect the existing q-rung orthopair fuzzy integration theory. Afterward, we provide two kinds of aggregation operators on the basis of two line integrals, respectively. As their applications, we give two novel MADM methods based on two kinds of line integral aggregation operators. And some examples are shown to demonstrate the aggregation process of line integral operators. We not only stress their availabilities and superiorities on aggregating continuous q-ROF information, but also comparing with other existing aggregation methods for emphasizing the novel methods' abilities when deal with abnormal q-ROF information.
+ER  - 
+
+TY  - JOUR
+T1  - A Discourse on the Incorporation of Organizational Factors into Probabilistic Risk Assessment: Key Questions and Categorical Review
+AU  - Pence, Justin
+AU  - Mohaghegh, Zahra
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - doi: 10.1111/risa.13468
+DO  - 10.1111/risa.13468
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1183
+EP  - 1211
+VL  - 40
+IS  - 6
+KW  - Human reliability analysis (HRA)
+KW  - organizational factors
+KW  - probabilistic risk assessment (PRA)
+KW  - probabilistic safety assessment (PSA)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1111/risa.13468
+UR  - https://doi.org/10.1111/risa.13468
+Y2  - 2020/10/28
+N2  - Abstract This article presents a discourse on the incorporation of organizational factors into probabilistic risk assessment (PRA)/probabilistic safety assessment (PSA), a topic of debate since the 1980s that has spurred discussions among industry, regulatory agencies, and the research community. The main contributions of this article include (1) identifying the four key open questions associated with this topic; (2) framing ongoing debates by considering differing perspectives around each question; (3) offering a categorical review of existing studies on this topic to justify the selection of each question and to analyze the challenges related to each perspective; and (4) highlighting the directions of research required to reach a final resolution for each question. The four key questions are: (I) How significant is the contribution of organizational factors to accidents and incidents? (II) How critical, with respect to improving risk assessment, is the explicit incorporation of organizational factors into PRA? (III) What theoretical bases are needed for explicit incorporation of organizational factors into PRA? (IV) What methodological bases are needed for the explicit incorporation of organizational factors into PRA? Questions I and II mainly analyze PRA literature from the nuclear domain. For Questions III and IV, a broader review and categorization is conducted of those existing cross-disciplinary studies that have evaluated the effects of organizational factors on safety (not solely PRA-based) to shed more light on future research needs.
+ER  - 
+
+PY  - 2020
+Y1  - 2020/06/01
+DA  - 2020/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119669814.bapp01
+UR  - https://doi.org/10.1002/9781119669814.bapp01
+N1  - doi:10.1002/9781119669814.bapp01
+M3  - doi:10.1002/9781119669814.bapp01
+N2  - Abstract No Abstract.
+SP  - 237-327
+T1  - Answers and Explanations
+T2  - 
+               PMP® Project Management Professional Practice Tests
+T3  - Wiley Online Books
+SN  - 9781119669814
+
+TY  - JOUR
+T1  - An improved prioritization framework for selecting new finfish mariculture candidates for research and development in Indonesia
+AU  - Albasri, Hatim
+AU  - Sagala, Sophia L.
+AU  - Pratama, Indra
+AU  - Sammut, Jesmond
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - doi: 10.1111/are.14492
+DO  - 10.1111/are.14492
+T2  - Aquaculture Research
+JF  - Aquaculture Research
+JO  - Aquaculture Research
+JA  - Aquac Res
+SP  - 1464
+EP  - 1479
+VL  - 51
+IS  - 4
+KW  - analytic hierarchy process
+KW  - aquaculture
+KW  - finfish
+KW  - Indonesia
+KW  - mariculture
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1111/are.14492
+UR  - https://doi.org/10.1111/are.14492
+Y2  - 2020/10/28
+N2  - Abstract Aquaculture, particularly marine-based production, is one of the fastest growing industries in Indonesia. Indonesia's competitiveness in the trade of aquaculture products is constrained by a lack of research and development (R&D) of new aquaculture species candidates. Mariculture has the greatest potential due to Indonesia's vast marine resources and archipelagic geography. Although there are over 3,000 species of marine fish in Indonesia, only 14 species have been widely cultured, largely finfish. Production is dominated by shrimp, groupers and milkfish. Traditionally, candidate species for mariculture in Indonesia and elsewhere have often been selected on their market value before their biological suitability for culture has been established leading to partially successful R&D efforts or even failure. The present study developed a framework for selecting marine fish species to support mariculture R&D in Indonesia based on an improved analytic hierarchy process (AHP). The approach combined various quantitative and qualitative data and involved different R&D stakeholder groups in the selection process. Ten species that had not been previously researched for their aquaculture potential were identified. The modified approach addressed the interaction complexity of criteria and different preferences across the stakeholders. The involvement of different stakeholders in the selection process not only ensured acceptance of the selected species for further research, but also tested the validity and consistency of the method used in this study. The methodology has relevance for mariculture globally given that efficient candidate selection can help focus efforts and investment in mariculture R&D.
+ER  - 
+
+TY  - JOUR
+T1  - A frontier-based managerial approach for relative sustainability performance assessment of the world's airports
+AU  - Kucukvar, Murat
+AU  - Alawi, Khalel Ahmed
+AU  - Abdella, Galal M.
+AU  - Bulak, Muhammet Enis
+AU  - Onat, Nuri C.
+AU  - Bulu, Melih
+AU  - Yalçıntaş, Murat
+Y1  - 2020/09/10
+PY  - 2020
+DA  - 2020/09/10
+N1  - doi: 10.1002/sd.2134
+DO  - 10.1002/sd.2134
+T2  - Sustainable Development
+JF  - Sustainable Development
+JO  - Sustainable Development
+JA  - Sustainable Development
+VL  - n/a
+IS  - n/a
+KW  - airports
+KW  - environmental policy
+KW  - frontier approach
+KW  - statistical analysis
+KW  - sustainability assessment
+KW  - sustainability reporting and benchmarking
+KW  - sustainable development
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1002/sd.2134
+UR  - https://doi.org/10.1002/sd.2134
+Y2  - 2020/10/28
+N2  - Abstract The sustainability impact of air transportation has become crucial to communities. Airports around the world are forced to be transparent with the society and to declare their sustainability results. As the sustainability goals and objectives and due to its multi-dimension aspects that are needed to be decided of and subsequently improved, the decision has been taken, and the parameters have been selected due to its significance in this field. This research presents a managerial approach combining the optimization-based frontier approach with the Global Report Initiative's comprehensive sustainability database for selected 30 major international airports based on data availability. In this regard, eco-efficiency analysis is carried out with four different models using input-oriented modeling with multiple undesirable environmental inputs (energy, carbon, water, and waste) and desirable outputs (revenue, passenger and employment) to compare efficiency and sustainability levels of airports in different contexts. Finally, performance improvement targets of each environmental indicators are presented for the airports. These comparative models reveal different frontier airports, which provide the opportunity to analyze diversified reference points for the same decision-making unit. The presented statistical study has shown that San Francisco, Hong Kong, Hamad International Airport are the most efficient airports in terms of overall sustainability performance based on collected data and selected indicators. The authors also concluded that there is a discrepancy in sustainability data reporting between airports, and there is a need for collecting complete, consistent and real-time social, environmental, economic, and governance data, to better compare and evaluate the performance of each airport from a sustainability perspective.
+ER  - 
+
+TY  - JOUR
+T1  - Requirement change management challenges in GSD: An analytical hierarchy process approach
+AU  - Akbar, Muhammad Azeem
+AU  - Khan, Arif Ali
+AU  - Khan, Abdul Wahid
+AU  - Mahmood, Sajjad
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1002/smr.2246
+DO  - 10.1002/smr.2246
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2246
+VL  - 32
+IS  - 7
+KW  - analytic hierarchy process (AHP)
+KW  - challenging factors
+KW  - global software development (GSD)
+KW  - requirements change management (RCM)
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1002/smr.2246
+UR  - https://doi.org/10.1002/smr.2246
+Y2  - 2020/10/28
+N2  - Abstract Majority of software development firms are adopting the concepts of global software development (GSD) in order to develop high-quality and low-cost products. However, the requirements change management (RCM) becomes a significant challenge in the GSD environment because of the unavailability of proper RCM framework and taxonomy. The objective of this study is to develop a taxonomy of the challenging factors of the RCM process in GSD. The taxonomy is developed based on the results of the data collected during the survey study and the implementation of the analytical hierarchy process (AHP). Total 25 challenging factors are identified and mapped into four core categories, ie, ?organizational management,? ?team,? ?technology,? and ?process.? Moreover, the AHP analysis is performed to prioritize the challenging factors and their categories. The prioritization process highlight that ?process? is the most significant category of the RCM challenging factors. The taxonomy developed in this study provides a robust framework to tackle problems associated with RCM activities in GSD environment, which is significant to the success and progression of GSD firms.
+ER  - 
+
+TY  - JOUR
+T1  - De-motivators for the adoption of agile methodologies for large-scale software development teams: An SLR from management perspective
+AU  - Faisal Abrar, Muhammad
+AU  - Sohail, M.
+AU  - Ali, Sikandar
+AU  - Faran Majeed, Muhammad
+AU  - Ali Shah, Ibrar
+AU  - Rashid, Nasir
+AU  - Ullah, Naimat
+Y1  - 2020/06/24
+PY  - 2020
+DA  - 2020/06/24
+N1  - doi: 10.1002/smr.2268
+DO  - 10.1002/smr.2268
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2268
+VL  - n/a
+IS  - n/a
+KW  - agile software developement
+KW  - agile transformation
+KW  - de-motivators
+KW  - risk factors
+KW  - systematic literature review
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1002/smr.2268
+UR  - https://doi.org/10.1002/smr.2268
+Y2  - 2020/10/28
+N2  - Abstract Most of the software development projects have traditionally been faced with severe problems in terms of quality, cost, and time. Researchers and practitioners have focused on agile software development methods (ASDMs) as an alternative to overcome these problems. Agile methods employ iterative development cycles, interspersed by user feedback. Agile methods were basically developed for small development teams. Scaling agile methods is a big issue from different perspectives. De-motivators play a key role in project management as it allows early identification and prompt management of threats that may arise during project execution. The objective of this paper is to identify the de-motivators while scaling agile at large, from management perspectives. We have adapted SLR and applied contrived search criteria derived from the research questions, followed by selecting the required research papers, data extraction, and data synthesis, which resulted in 15 de-motivators from 58 relevant papers. Some of the identified de-motivators are ?traditional organizational culture?, ?lack of agile experts?, ?reluctance to adopt?, and ?lack of management and commitment support?. The identified factors have been compared from various perspectives, such as continents, digital libraries, organization size, and so forth.
+ER  - 
+
+TY  - JOUR
+T1  - Challenges in perishable food supply chains for sustainability management: A developing economy perspective
+AU  - Kumar, Anish
+AU  - Mangla, Sachin Kumar
+AU  - Kumar, Pradeep
+AU  - Karamperidis, Stavros
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - doi: 10.1002/bse.2470
+DO  - 10.1002/bse.2470
+T2  - Business Strategy and the Environment
+JF  - Business Strategy and the Environment
+JO  - Business Strategy and the Environment
+JA  - Bus Strat Env
+SP  - 1809
+EP  - 1831
+VL  - 29
+IS  - 5
+KW  - challenges
+KW  - developing economy
+KW  - environmental performance
+KW  - ISM–ANP
+KW  - perishable food supply chain (PFSC)
+KW  - sustainability management
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119669814
+M3  - doi: 10.1002/bse.2470
+UR  - https://doi.org/10.1002/bse.2470
+Y2  - 2020/10/28
+N2  - Abstract Perishable food supply chains (PFSCs) are characterized with rising food quality and safety concerns, alarming food wastages and losses, and poor economic sustainability. Because of the perishable nature of products and limited shelf life, management of sustainability in PFSCs is critical. Many studies on sustainability in PFSCs have considered developed countries; however, developing countries have not gathered the required research attention in this domain. In this paper, a decision theory-based framework is adopted, where a prescriptive decision analysis methodology is used to generate preferences among the challenges to sustainability in PFSC. An integrated interpretive structural modelling?analytic network process (ISM?ANP) decision framework is formulated to identify and model key challenges to sustainability in PFSCs, keeping a developing economy like India under consideration. The contextual relationships amongst the extracted challenges are analyzed using the ISM methodology. The relationships identified from ISM are used as inputs in the ANP methodology, to generate the priority weights of the challenges. The findings of the integrated methodology show that ?lack of horizontal integration of farmers,? ?poor pre-harvest management,? and ?lack of government regulation and support? are the most critical challenges for sustainability in PFSCs. The results show that organizations must work on aggregation of farm produce and integration of farmers with the market. Development of infrastructures and cold chain facilities at the farm level is necessary to mitigate these challenges to reduce wastages in PFSC. The study facilitates managers and planners to understand and enable sustainable practices in PFSCs.
+ER  - 
+
+PY  - 2020
+Y1  - 2020/07/01
+DA  - 2020/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119669814.ch1
+UR  - https://doi.org/10.1002/9781119669814.ch1
+N1  - doi:10.1002/9781119669814.ch1
+M3  - doi:10.1002/9781119669814.ch1
+N2  - Abstract This chapter focuses on the role of project management professional (PMP). It includes questions on how to manage conflict, engage and support virtual teams, and promote team performance through the application of emotional intelligence.
+SP  - 1-36
+KW  - project management professional (PMP)
+KW  - virtual teams
+KW  - team performance
+KW  - emotional intelligence
+T1  - People (Domain 1.0)
+T2  - 
+               PMP® Project Management Professional Practice Tests
+T3  - Wiley Online Books
+SN  - 9781119669814
+
+PY  - 2020
+Y1  - 2020/07/01
+DA  - 2020/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119669814.ch4
+UR  - https://doi.org/10.1002/9781119669814.ch4
+N1  - doi:10.1002/9781119669814.ch4
+M3  - doi:10.1002/9781119669814.ch4
+N2  - Abstract This chapter provides the full-length practice exam 1. It includes questions regarding process names, inputs, tools and techniques, outputs, and descriptions of the project management process groups and related materials.
+SP  - 99-144
+KW  - practice exam
+KW  - project management process
+KW  - inputs
+KW  - outputs
+T1  - Full-Length Practice Exam 1
+T2  - 
+               PMP® Project Management Professional Practice Tests
+T3  - Wiley Online Books
+SN  - 9781119669814

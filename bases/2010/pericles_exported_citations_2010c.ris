@@ -1,0 +1,463 @@
+
+PY  - 2010
+Y1  - 2010/11/19
+DA  - 2010/11/19
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470974032.fmatter
+UR  - https://doi.org/10.1002/9780470974032.fmatter
+N1  - doi:10.1002/9780470974032.fmatter
+M3  - doi:10.1002/9780470974032.fmatter
+N2  - Summary The prelims comprise: Half-Title Page Title Page Copyright Page Table of Contents About the Authors Foreword Preface
+SP  - i-xxi
+T1  - Front Matter
+T2  - Fuzzy Multicriteria Decision‐Making
+T3  - Wiley Online Books
+SN  - 9780470974032
+
+TY  - JOUR
+T1  - Sequential quadratic programming and analytic hierarchy process for nonlinear multiobjective optimization of a hydropower network
+AU  - Moosavian, S. Ali A.
+AU  - Ghaffari, Ali
+AU  - Salimi, Amir
+Y1  - 2010/07/01
+PY  - 2010
+DA  - 2010/07/01
+N1  - doi: 10.1002/oca.909
+DO  - 10.1002/oca.909
+T2  - Optimal Control Applications and Methods
+JF  - Optimal Control Applications and Methods
+JO  - Optimal Control Applications and Methods
+JA  - Optim. Control Appl. Meth.
+SP  - 351
+EP  - 364
+VL  - 31
+IS  - 4
+KW  - multiobjective optimization
+KW  - stochastic-weighted sum method
+KW  - sequential quadratic programming
+KW  - multicriteria decision analysis
+KW  - analytical hierarchy process
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470974032
+M3  - doi: 10.1002/oca.909
+UR  - https://doi.org/10.1002/oca.909
+Y2  - 2020/10/28
+N2  - Abstract In this paper, an optimal annual scheduling for power generation (i.e. rule curves and volume of water releases) in serial or parallel hydropower plants is developed. Multiobjective programming and weighted sum method are used to convert a multiobjective problem to a single objective one. Furthermore, to obtain viable alternatives under existing uncertainty, some random weight vectors in the whole weighting space are generated and for each weight vector an optimal solution is found using sequential quadratic programming (SQP). Then, analytic hierarchy process (AHP) is used to select the best solution according to a given criterion, and determine the most preferred one. Besides, this method does not require choosing a priori preference for the objective function, thus making an ideal tool for handling complicated multiobjective models and easy to use with the aid of computer programs. Combination of multiobjective optimization and multicriteria decision analysis (MCDA) is an integrated methodology that is capable of dealing with complex water management problems. Various scenarios for dry, median, and wet years are assumed based on stochastic flows from external sources (e.g. flooding rivers, unexpected rains, etc.) coming into each reservoir, and turbine power generation is obtained from hill diagrams provided by the manufacturer. The application of this methodology is illustrated in a case study for optimal scheduling of Karoon River Basin, where the decision support system and optimization routines are implemented in MATLAB. The total energy productions for 10 optimized solutions under dry, median, and wet scenarios (generated from forty-year historical inflow records) are calculated, and specific water consumption for each reservoir is obtained in different months. This can significantly help decision makers to have an optimal and more intelligent management over energy productions in hydropower plants and associated thermal power plants. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+PY  - 2010
+Y1  - 2010/07/01
+DA  - 2010/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470974032.ch2
+UR  - https://doi.org/10.1002/9780470974032.ch2
+N1  - doi:10.1002/9780470974032.ch2
+M3  - doi:10.1002/9780470974032.ch2
+N2  - Summary This chapter introduces the essential concepts of fuzzy sets. It focuses on the fundamental idea of partial membership, which is conveniently quantified through membership functions and membership degrees. The chapter presents the underlying rationale and then move on to a detailed description of fuzzy sets by discussing the most commonly encountered classes of membership functions and relating these classes to the semantics of fuzzy sets. It elaborates on the basic operations on fuzzy sets (intersection, union, complement, negation) and covers early fuzzy set operations and continuing with their generalization, interpretations, formal requirements, and realizations. Analyses of the fundamental properties and characteristics of operations with fuzzy sets are discussed. The chapter explains the concepts of fuzzy relations and their main properties, which are of direct relevance in the context of decision-making. It presents the relationships between fuzzy sets and sets by stressing that sets are subsumed as particular cases of sets. Controlled Vocabulary Terms fuzzy set theory; geometric codes; linguistics
+SP  - 21-62
+KW  - fuzzy numbers
+KW  - fuzzy relations
+KW  - fuzzy sets operations
+KW  - geometric interpretation
+KW  - linguistic variables
+KW  - membership functions
+T1  - Notions and Concepts of Fuzzy Sets: An Introduction
+T2  - Fuzzy Multicriteria Decision‐Making
+T3  - Wiley Online Books
+SN  - 9780470974032
+
+PY  - 2010
+Y1  - 2010/07/01
+DA  - 2010/07/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470666517.ch10
+UR  - https://doi.org/10.1002/9780470666517.ch10
+N1  - doi:10.1002/9780470666517.ch10
+M3  - doi:10.1002/9780470666517.ch10
+N2  - Summary This chapter contains sections titled: Introduction Data Models, Data Structures and File Formats Geodata Processing Locational Analysis Spatial Analysis Environmental Modelling Visualization Multicriteria Decision Analysis of Groundwater Recharge Zones Assessing Flash Flood Hazards by Classifying Wadi Deposits in Arid Environments Remote Sensing and GIS in Archaeological Studies
+SP  - 325-375
+KW  - environmental geographical information systems - a remote sensing perspective
+KW  - web sites of leading image processing software vendors - ERDAS and ENVI, seamless integration with geographical information systems (GISs) software
+KW  - GIS, and synergistic use of GIS and RS data
+KW  - spatial information systems or GIS - stressing theoretical approach
+KW  - data models, data structures and file formats - spatial data models
+KW  - point patterns and interpolation - spatial analysis of point patterns
+KW  - multicriteria decision analysis - of groundwater recharge zones
+KW  - slope map, derived - from DEM generated by SRTM
+KW  - recharge potential map, and vegetation distribution - from ASTER NDVI image
+KW  - optical and microwave data fusion radarsat-1 (C-band, HH-polarized) and PALSAR (Lband, HH-polarized) SAR images
+T1  - Environmental Geographical Information Systems: A Remote Sensing Perspective
+T2  - Computer Processing of Remotely‐Sensed Images
+T3  - Wiley Online Books
+SN  - 9780470666517
+
+TY  - JOUR
+T1  - Goal Programming: realistic targets for the near future
+AU  - Caballero, Rafael
+AU  - Gómez, Trinidad
+AU  - Ruiz, Francisco
+Y1  - 2009/05/01
+PY  - 2009
+DA  - 2009/05/01
+N1  - doi: 10.1002/mcda.442
+DO  - 10.1002/mcda.442
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 79
+EP  - 110
+VL  - 16
+IS  - 3‐4
+KW  - Goal Programming
+KW  - multiple objective programming
+KW  - historical survey
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470666517
+M3  - doi: 10.1002/mcda.442
+UR  - https://doi.org/10.1002/mcda.442
+Y2  - 2020/10/28
+N2  - Abstract Goal Programming (GP) can be regarded as one of the most widely used multicriteria decision-making techniques. In this paper, two surveys are carried out. First, the evolution of GP since its birth to the present time, in terms of number of publications, references, journals, etc., has been studied. Second, a more in-depth survey has been carried out, which covers the publications from year 2000 to the present time. All the references are listed, and some conclusions and future research lines have been extracted about the late trends of GP. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Primary health-care network monitoring: a hierarchical resource allocation modeling approach
+AU  - Pur, Aleksander
+AU  - Bohanec, Marko
+AU  - Lavrač, Nada
+AU  - Cestnik, Bojan
+Y1  - 2010/04/01
+PY  - 2010
+DA  - 2010/04/01
+N1  - doi: 10.1002/hpm.1001
+DO  - 10.1002/hpm.1001
+T2  - The International Journal of Health Planning and Management
+JF  - The International Journal of Health Planning and Management
+JO  - The International Journal of Health Planning and Management
+JA  - Int. J. Health Plann. Mgmt.
+SP  - 119
+EP  - 135
+VL  - 25
+IS  - 2
+KW  - primary health-care network
+KW  - resource allocation
+KW  - health-care disparities
+KW  - data analysis
+KW  - data mining
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470666517
+M3  - doi: 10.1002/hpm.1001
+UR  - https://doi.org/10.1002/hpm.1001
+Y2  - 2020/10/28
+N2  - Abstract Management of a primary health-care network (PHCN) is a difficult task in every country. A suitable monitoring system can provide useful information for PHCN management, especially given a large quantity of health-care data that is produced daily in the network. This paper proposes a methodology for structured development of monitoring systems and a PHCN resource allocation monitoring model based on this methodology. The purpose of the monitoring model is to improve the allocation of health-care resources. The proposed methodology is based on modules that are organized into a hierarchy, where each module monitors a particular aspect of the system. This methodology was used to design a PHCN monitoring model for Slovenia. Specific aspects of the Slovenian PHCN were taken into account such as varying needs of patients from different municipalities, existence of small municipalities having less than 1000 residents, the fact that many patients visit physicians in other municipalities, and that physicians may work at more than one location or organization. The main modules in the model are focused on the overall assessment of the PHCN, monitoring of patients visits to health-care providers (HCPs), physical accessibility of health services, segment of patients in municipalities who have not selected a personal physician, assessment of the availability of HCPs for patients, physicians working on more than one location, and available human resources in the PHCN. Most of the model's components are general and can be adapted for other national health-care systems. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - A Methodology for Improving the Investment Portfolio Management Process for the Homeland Security Department using Quality Function Deployment
+AU  - FALLAH, HOSEIN M.
+AU  - MURPHY, FREDERIC H.
+AU  - STOHR, EDWARD A.
+Y1  - 2010/12/01
+PY  - 2010
+DA  - 2010/12/01
+N1  - doi: 10.1111/j.1540-5850.2010.00966.x
+DO  - 10.1111/j.1540-5850.2010.00966.x
+T2  - Public Budgeting & Finance
+JF  - Public Budgeting & Finance
+JO  - Public Budgeting & Finance
+SP  - 1
+EP  - 27
+VL  - 30
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470666517
+M3  - doi: 10.1111/j.1540-5850.2010.00966.x
+UR  - https://doi.org/10.1111/j.1540-5850.2010.00966.x
+Y2  - 2020/10/28
+N2  - In this paper, we describe a methodology for improving homeland security investment decisions. The objective is to evaluate multitechnology, multiyear investment choices and the associated development and deployment risks associated with new technologies. The budgeting process in the Homeland Security Department is a complex multicriteria decision problem involving a distributed network of decision makers with diverse areas of expertise. The decision problem in Homeland Security involves game-theoretic aspects as the terrorists are likely to alter their strategies depending on the defensive counter measures selected in the budget. We propose a two-phased systems approach. The first phase employs a visualization tool based on Quality Function Deployment to develop an initial budget allocation. The second phase involves an iterative approach to project selection that dynamically adjusts the investment portfolio based on anticipated reactions taken by the terrorists. This paper is based on a study done as part of a research project for the Department of Homeland Security (DHS). We present a high-level view of the methodology and illustrate it with examples.
+ER  - 
+
+TY  - JOUR
+T1  - Application of fuzzy measures and interval computation to financial portfolio selection
+AU  - Magoč, Tanja
+AU  - Wang, Xiaojing
+AU  - Modave, François
+Y1  - 2010/07/01
+PY  - 2010
+DA  - 2010/07/01
+N1  - doi: 10.1002/int.20415
+DO  - 10.1002/int.20415
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 621
+EP  - 635
+VL  - 25
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470666517
+M3  - doi: 10.1002/int.20415
+UR  - https://doi.org/10.1002/int.20415
+Y2  - 2020/10/28
+N2  - Abstract As many data-driven fields, finance is rich in problems requiring high computational power and intelligent systems techniques. In particular, the problem of selecting an optimal financial portfolio can be conveniently represented as a constrained optimization problem or a decision-making problem. The aim of this paper is to show how to express the optimal portfolio selection problem from a decision-theoretic perspective and show how to address this problem using fuzzy measures and fuzzy integrals. ? 2010 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy set theory
+AU  - Zimmermann, H.-J.
+Y1  - 2010/05/01
+PY  - 2010
+DA  - 2010/05/01
+N1  - doi: 10.1002/wics.82
+DO  - 10.1002/wics.82
+T2  - WIREs Computational Statistics 
+JF  - WIREs Computational Statistics 
+JO  - WIREs Computational Statistics 
+JA  - WIREs Comp Stat
+SP  - 317
+EP  - 332
+VL  - 2
+IS  - 3
+KW  - fuzzy set theory
+KW  - measures of fuzziness
+KW  - extension principle
+KW  - fuzzy data mining
+KW  - fuzzy optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470666517
+M3  - doi: 10.1002/wics.82
+UR  - https://doi.org/10.1002/wics.82
+Y2  - 2020/10/28
+N2  - Abstract Since its inception in 1965, the theory of fuzzy sets has advanced in a variety of ways and in many disciplines. Applications of this theory can be found, for example, in artificial intelligence, computer science, medicine, control engineering, decision theory, expert systems, logic, management science, operations research, pattern recognition, and robotics. Mathematical developments have advanced to a very high standard and are still forthcoming to day. In this review, the basic mathematical framework of fuzzy set theory will be described, as well as the most important applications of this theory to other theories and techniques. Since 1992 fuzzy set theory, the theory of neural nets and the area of evolutionary programming have become known under the name of ?computational intelligence? or ?soft computing?. The relationship between these areas has naturally become particularly close. In this review, however, we will focus primarily on fuzzy set theory. Applications of fuzzy set theory to real problems are abound. Some references will be given. To describe even a part of them would certainly exceed the scope of this review. Copyright ? 2010 John Wiley & Sons, Inc. This article is categorized under: Statistical Learning and Exploratory Methods of the Data Sciences > Clustering and Classification
+ER  - 
+
+PY  - 2010
+Y1  - 2010/05/01
+DA  - 2010/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119994374.index
+UR  - https://doi.org/10.1002/9781119994374.index
+N1  - doi:10.1002/9781119994374.index
+M3  - doi:10.1002/9781119994374.index
+SP  - 579-585
+T1  - Index
+T2  - Fuzzy Logic with Engineering Applications
+T3  - Wiley Online Books
+SN  - 9781119994374
+
+TY  - JOUR
+T1  - Special issue on advances in design optimization of microwave/RF circuits and systems
+AU  - Koziel, Slawomir
+AU  - Bandler, John W.
+Y1  - 2010/09/01
+PY  - 2010
+DA  - 2010/09/01
+N1  - doi: 10.1002/mmce.20453
+DO  - 10.1002/mmce.20453
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF and Microwave Comp Aid Eng
+SP  - 473
+EP  - 474
+VL  - 20
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119994374
+M3  - doi: 10.1002/mmce.20453
+UR  - https://doi.org/10.1002/mmce.20453
+Y2  - 2020/10/28
+ER  - 
+
+AU  - Schneider, Gisbert
+AU  - Hartenfeller, Markus
+AU  - Proschak, Ewgenij
+PY  - 2010
+Y1  - 2010/09/01
+DA  - 2010/09/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470584170.ch6
+UR  - https://doi.org/10.1002/9780470584170.ch6
+N1  - doi:10.1002/9780470584170.ch6
+M3  - doi:10.1002/9780470584170.ch6
+N2  - Summary This chapter contains sections titled: Introduction: The Concept of Adaptive Fragment-Based Drug Design Selected Software Tools for Fragment-Based De Novo Design Synthetic Feasibility of The Designed Compounds Recent Applications of De Novo Design Conclusions Acknowledgments References
+SP  - 165-185
+KW  - de novo drug design
+KW  - selected software tools for fragment-based de novo design - SPROUT , TOPAS/Flux, Skelgen, BREED, Fragment Shuffling and SQUIRREL novo
+KW  - designed compounds and synthetic feasibility
+T1  - De novo Drug Design
+T2  - Lead Generation Approaches in Drug Discovery
+T3  - Wiley Online Books
+SN  - 9780470584170
+
+PY  - 2010
+Y1  - 2010/09/01
+DA  - 2010/09/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470583067.ch3
+UR  - https://doi.org/10.1002/9780470583067.ch3
+N1  - doi:10.1002/9780470583067.ch3
+M3  - doi:10.1002/9780470583067.ch3
+N2  - Summary Identifying hurdles toward reaching a new performance trajectory is most direct. To defeat inhibiting behavior, we must make clear what is getting in the way. A characteristic of smart data strategy is to leap beyond legacy problems to achieve a new performance trajectory. Smart data strategy is implemented with the introduction of the executive enterprise performance optimization system (EPOS) and associated management interface. The chapter demonstrates that data is on the critical path to enterprise performance optimization, and the CEO can achieve this best with a smart data strategy. The principal idea is to focus executives' attention on data that is essential to enterprise performance and executives' ability to execute their primary responsibilities. Enterprise smart data strategy is an executive?led strategy promoting data responsiveness and qualified collaboration throughout the enterprise, and at successive levels of participation. Enterprise performance optimization architecture depicts an array of disciplines required to optimize enterprise performance. Controlled Vocabulary Terms trajectory control
+SP  - 129-190
+KW  - enterprise performance optimization architecture
+KW  - enterprise performance optimization system (EPOS)
+KW  - new performance trajectory
+KW  - overcoming hurdles
+KW  - smart data strategy
+T1  - Barriers: Overcoming Hurdles and Reaching a New Performance Trajectory
+T2  - Smart Data
+T3  - Wiley Online Books
+SN  - 9780470583067
+
+TY  - JOUR
+T1  - Comparison of four reliability surrogate measures for water distribution systems design
+AU  - Raad, D. N.
+AU  - Sinske, A. N.
+AU  - van Vuuren, J. H.
+Y1  - 2010/05/01
+PY  - 2010
+DA  - 2010/05/01
+N1  - doi: 10.1029/2009WR007785
+DO  - 10.1029/2009WR007785
+T2  - Water Resources Research
+JF  - Water Resources Research
+JO  - Water Resources Research
+JA  - Water Resour. Res.
+VL  - 46
+IS  - 5
+KW  - water distribution system
+KW  - design optimization
+KW  - surrogate reliability measure
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470583067
+M3  - doi: 10.1029/2009WR007785
+UR  - https://doi.org/10.1029/2009WR007785
+Y2  - 2020/10/28
+N2  - Water distribution system (WDS) design naturally involves a trade-off between the cost and reliability or robustness of a design. Traditionally, WDS reliability quantification schemes have employed graph theoretic techniques or probabilistic schemes such as Monte Carlo simulation. In recent decades there has been increased interest in the application of so-called reliability surrogate measures, such as flow entropy, the resilience index, and network resilience, because of their ease of use and dramatically reduced computational burden. In this paper, these surrogate measures (as well as a mixed reliability surrogate) are employed in the multiobjective evolutionary design of a set of WDS benchmarks from the literature. The resulting Pareto-optimal sets in cost-reliability space for each surrogate measure are analyzed in terms of their ability to handle demand uncertainty and pipe failure, and a regression analysis is conducted in order to determine whether the surrogate measures are correlated to stochastic reliability and failure reliability as expressed by demand satisfaction measures. It is found that the resilience index demonstrates the best performance under pure stochastic demand variation. However, it lags when compared to the network resilience and mixed reliability measures in terms of reliability under pipe failure conditions. These are recommended as the most practical reliability surrogate measures for use in general WDS design, since they also produce designs that minimize size discontinuities between adjacent pipes. Flow entropy performs relatively poorly in terms of correlation to both stochastic reliability and failure reliability.
+ER  - 
+
+PY  - 2010
+Y1  - 2010/05/01
+DA  - 2010/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119994374.fmatter
+UR  - https://doi.org/10.1002/9781119994374.fmatter
+N1  - doi:10.1002/9781119994374.fmatter
+M3  - doi:10.1002/9781119994374.fmatter
+N2  - Summary The prelims comprise: Half-Title Page Title Page Copyright Page Dedication Page Table of Contents About the Author Preface to the Third Edition
+SP  - i-xxi
+T1  - Front Matter
+T2  - Fuzzy Logic with Engineering Applications
+T3  - Wiley Online Books
+SN  - 9781119994374
+
+PY  - 2010
+Y1  - 2010/05/01
+DA  - 2010/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470666517.fmatter
+UR  - https://doi.org/10.1002/9780470666517.fmatter
+N1  - doi:10.1002/9780470666517.fmatter
+M3  - doi:10.1002/9780470666517.fmatter
+N2  - Summary The prelims comprise: Half-Title Page Title Page Copyright Page Table of Contents Preface to the First Edition Preface to the Second Edition Preface to the Third Edition Preface to the Fourth Edition List of Examples Dedication Page Web Page
+SP  - i-xxv
+T1  - Front Matter
+T2  - Computer Processing of Remotely‐Sensed Images
+T3  - Wiley Online Books
+SN  - 9780470666517
+
+AU  - Ekins, Sean
+AU  - Honeycutt, J. Dana
+AU  - Metz, James T.
+PY  - 2010
+Y1  - 2010/05/01
+DA  - 2010/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/0471266949.bmc122
+UR  - https://doi.org/10.1002/0471266949.bmc122
+N1  - doi:10.1002/0471266949.bmc122
+M3  - doi:10.1002/0471266949.bmc122
+N2  - Abstract Drug discovery requires the simultaneous optimization of many properties such as bioactivity, absorption, distribution, metabolism, excretion, toxicity, and the underlying physicochemical properties. The ability to consider many such requirements is termed multiobjective optimization, and we will discuss the importance of this for drug discovery with a specific focus on ADME/Tox. In particular, we provide examples of Pareto optimization methods and how they can be used in drug discovery to make trade-offs between these different predicted or real molecular properties and describe a computer program, Pareto Ligand Designer, created using Pipeline Pilot?.
+SP  - 259-278
+KW  - ADME/Tox
+KW  - multidimensional optimization
+KW  - Pareto optimization
+T1  - Multiobjective Optimization for Drug Discovery
+T2  - Burger's Medicinal Chemistry and Drug Discovery
+T3  - Major Reference Works
+SN  - 9780471266945
+
+PY  - 2010
+Y1  - 2010/05/01
+DA  - 2010/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470666517.index
+UR  - https://doi.org/10.1002/9780470666517.index
+N1  - doi:10.1002/9780470666517.index
+M3  - doi:10.1002/9780470666517.index
+SP  - 429-434
+T1  - Index
+T2  - Computer Processing of Remotely‐Sensed Images
+T3  - Wiley Online Books
+SN  - 9780470666517
+
+TY  - JOUR
+T1  - Dimensionality Reduction and Visualization of the Environmental Impacts of Domestic Appliances
+AU  - Gutiérrez, Ester
+AU  - Lozano, Sebastián
+AU  - Adenso-Díaz, Belarmino
+Y1  - 2010/12/01
+PY  - 2010
+DA  - 2010/12/01
+N1  - doi: 10.1111/j.1530-9290.2010.00291.x
+DO  - 10.1111/j.1530-9290.2010.00291.x
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+SP  - 878
+EP  - 889
+VL  - 14
+IS  - 6
+KW  - cluster analysis
+KW  - industrial ecology
+KW  - life cycle assessment (LCA)
+KW  - multidimensional scaling (MDS)
+KW  - principal-component analysis (PCA)
+KW  - waste electrical and electronic equipment (WEEE)
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470666517
+M3  - doi: 10.1111/j.1530-9290.2010.00291.x
+UR  - https://doi.org/10.1111/j.1530-9290.2010.00291.x
+Y2  - 2020/10/28
+N2  - Summary There is an increasing worldwide concern about the problem of dealing with the waste electrical and electronic equipment (WEEE), given the high volume of appliances that are disposed of every day. In this article, an environmental evaluation of WEEE is performed that combines life cycle assessment (LCA) methodology and multivariate statistical techniques. Because LCA handles a large number of data in its different phases, when one is trying to uncover the structure of large multidimensional data sets, multivariate statistical techniques can provide useful information. In particular, principal-component analysis and multidimensional scaling are two important dimension-reducing tools that have been shown to be of help in understanding this type of complex multivariate data set. In this article, we use a variable selection method that reduces the number of categories for which the environmental impacts have to be computed; this step is especially useful when the number of impact categories or the number of products or processes to benchmark increases. We provide a detailed illustration showing how we have used the proposed approach to analyze and interpret the environmental impacts of different domestic appliances.
+ER  - 
+
+TY  - JOUR
+T1  - Operations Research in Healthcare: a survey
+AU  - Rais, Abdur
+AU  - Viana, Ana
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/01/01
+N1  - doi: 10.1111/j.1475-3995.2010.00767.x
+DO  - 10.1111/j.1475-3995.2010.00767.x
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+SP  - 1
+EP  - 31
+VL  - 18
+IS  - 1
+KW  - healthcare
+KW  - operations research
+KW  - optimisation
+KW  - survey
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470666517
+M3  - doi: 10.1111/j.1475-3995.2010.00767.x
+UR  - https://doi.org/10.1111/j.1475-3995.2010.00767.x
+Y2  - 2020/10/28
+N2  - Abstract Optimisation problems in Healthcare have received considerable attention for more than three decades. More recently, however, with decreasing birth rates in nearly all of the developed countries and increasing average longevity globally, optimisation issues in Healthcare have become noticeably important and attract keen interest from the Operations Research community. Over the years, attention has gradually expanded from resource allocation and strategic planning to include operational issues such as resource scheduling and treatment planning. This paper surveys several applications of Operations Research in the domain of Healthcare. In particular, the paper reviews key contributions addressing contemporary optimisation issues in this area. It highlights current research activities, focusing on a variety of optimisation problems as well as solution techniques used for solving the optimisation problems.
+ER  - 

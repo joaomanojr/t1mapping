@@ -1,0 +1,717 @@
+
+PY  - 2014
+Y1  - 2014/05/13
+DA  - 2014/05/13
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118596272.ch1
+UR  - https://doi.org/10.1002/9781118596272.ch1
+N1  - doi:10.1002/9781118596272.ch1
+M3  - doi:10.1002/9781118596272.ch1
+N2  - Summary Wavelet networks are a new class of networks that combine the classic sigmoid neural networks and wavelet analysis. This chapter first discusses financial engineering and its relationship to machine learning and wavelet networks. Next, it describes research areas related to financial engineering and its function and applications. Then, the chapter presents the basic notions of wavelet analysis, neural networks, and wavelet networks. It discusses the reasons that motivated the combination of wavelet analysis and neural networks to create a new tool, wavelet networks. The chapter then presents applications of wavelet networks in finance, and discusses the basic aspects of the framework proposed for the construction of optimal wavelet networks. More precisely, it introduces model selection, variable selection, and model adequacy testing stages. Finally, the chapter presents the structure and organization of the book.
+SP  - 1-33
+KW  - financial engineering
+KW  - machine learning
+KW  - neural networks
+KW  - wavelet networks
+T1  - Machine Learning and Financial Engineering
+T2  - Wavelet Neural Networks
+T3  - Wiley Online Books
+SN  - 9781118596272
+
+TY  - JOUR
+T1  - Orderings based on the banks set: Some new scoring methods for multicriteria decision making
+AU  - Moser, Scott
+Y1  - 2015/05/06
+PY  - 2015
+DA  - 2015/05/06
+N1  - doi: 10.1002/cplx.21527
+DO  - 10.1002/cplx.21527
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 63
+EP  - 76
+VL  - 20
+IS  - 5
+KW  - multicriteria decision making
+KW  - collective choice
+KW  - ranking
+KW  - Banks set
+KW  - tournament
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118596272
+M3  - doi: 10.1002/cplx.21527
+UR  - https://doi.org/10.1002/cplx.21527
+Y2  - 2020/10/28
+N2  - This article introduces new methods for ranking alternatives in multicriteria decision making situations. Each is based on the normative position that the strength of an alternative is inversely related to the number of alternatives that could prevent it from being chosen. The scores discriminate among elements of the Banks set (Banks, Soc Choice Welfare, 1985, 1, 295?306). The new scoring methods are compared to traditional scoring methods and related to the amount of intransitivity (specifically, the size of the top-cycle) of aggregated preference. The new scores are shown to measure important aspects of alternatives not captured by extant scoring methods and are illustrated in collective choice settings. ? 2014 Wiley Periodicals, Inc. Complexity 20: 63?76, 2015
+ER  - 
+
+TY  - JOUR
+T1  - Utilization of machine-learning algorithms for wind turbine site suitability modeling in Iowa, USA
+AU  - Petrov, Andrey N.
+AU  - Wessling, Jordan M.
+Y1  - 2015/04/01
+PY  - 2015
+DA  - 2015/04/01
+N1  - doi: 10.1002/we.1723
+DO  - 10.1002/we.1723
+T2  - Wind Energy
+JF  - Wind Energy
+JO  - Wind Energy
+JA  - Wind Energ.
+SP  - 713
+EP  - 727
+VL  - 18
+IS  - 4
+KW  - wind energy
+KW  - turbine site suitability
+KW  - machine-learning
+KW  - multicriteria decision making
+KW  - spatial modeling
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118596272
+M3  - doi: 10.1002/we.1723
+UR  - https://doi.org/10.1002/we.1723
+Y2  - 2020/10/28
+N2  - Abstract Because of the current shift away from fossil fuels and toward renewable energy sources, it is necessary to plan for the installation of new infrastructure to meet the demand for clean energy. Traditional methods for determining wind turbine site suitability suffer from the selection of arbitrary criteria and model parameters by experts, which may lead to a degree of uncertainty in the models produced. An alternative empirically based methodology for building a wind turbine siting model for the state of Iowa is presented in the study. We employ ?ecological niche? principles traditionally utilized to model species allocation to develop a new multicriteria, spatially explicit framework for wind turbine placement. Using information on suitability conditions at existing turbine locations, we incorporate seven variables (wind speed, elevation, slope, land cover, distance of infrastructure and settlements, and population density) into two machine-learning algorithms [maximum entropy method (Maxent) and Genetic Algorithm for Rule Set Prediction (GARP)] to model suitable areas for installation of wind turbines. The performance of this method is tested at the statewide level and a six-county region in western Iowa. Maxent and GARP identified areas in the Northwest and North Central regions of Iowa as the optimum location for new wind turbines. Information on variable contributions from Maxent illuminates the relative importance of environmental variables and its scale-dependent nature. It also allows validating existing assumptions about the relationship between variables and wind turbine suitability. The resultant models demonstrate high levels of accuracy and suggest that the presented approach is a possible methodology for developing wind turbine siting applications. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial neural networks modeling in ultra performance liquid chromatography method optimization of mycophenolate mofetil and its degradation products
+AU  - Golubović, Jelena
+AU  - Protić, Ana
+AU  - Zečević, Mira
+AU  - Otašević, Biljana
+AU  - Mikić, Marija
+Y1  - 2014/07/01
+PY  - 2014
+DA  - 2014/07/01
+N1  - doi: 10.1002/cem.2616
+DO  - 10.1002/cem.2616
+T2  - Journal of Chemometrics
+JF  - Journal of Chemometrics
+JO  - Journal of Chemometrics
+JA  - J. Chemometrics
+SP  - 567
+EP  - 574
+VL  - 28
+IS  - 7
+KW  - artificial neural networks
+KW  - response surface methodology
+KW  - mycophenolate mofetil
+KW  - UPLC
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118596272
+M3  - doi: 10.1002/cem.2616
+UR  - https://doi.org/10.1002/cem.2616
+Y2  - 2020/10/28
+N2  - The study of experimental design in conjunction with artificial neural networks for optimization of isocratic ultra performance liquid chromatography method for separation of mycophenolate mofetil and its degradation products has been reported. Experimental design showed to be suitable for selection of experimental scheme, while Kennard-Stone algorithm was used for selection of training data set. The input variables were column temperature and composition of mobile phase including percentage of acetonitrile, concentration of ammonium acetate in buffer, and its pH value. The retention factor of the most retentive component and selectivity factors were used as the dependent variables (outputs). In this way, artificial neural network has been applied as a predictable tool in solving a method optimization problem using small number of experiments. Network architecture and training parameters were optimized to the lowest root-mean-square error values, and the network with 5-4-4-4 topology has been selected as the most predictable one. Predicted data were in good agreement with experimental data, and regression statistics confirmed good ability of trained network to predict compounds retention. The optimal chromatographic conditions included column temperature of 40°C, flow rate of 700?µl?min?1, 26% of acetonitrile and 9?mM ammonium acetate in mobile phase, and buffer pH of 5.87. The chromatographic analysis has been achieved within 5.2?min. The validation of the proposed method was also performed considering selectivity, linearity, accuracy, precision, limit of detection, and limit of quantification, and the results indicated that the method fulfilled all required criteria. The method was successfully applied to the analysis of commercial dosage form. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Automated decision algorithm applied to a field experiment with multiple research objectives: The DC3 campaign
+AU  - Hanlon, Christopher J.
+AU  - Small, Arthur A.
+AU  - Bose, Satyajit
+AU  - Young, George S.
+AU  - Verlinde, Johannes
+Y1  - 2014/10/27
+PY  - 2014
+DA  - 2014/10/27
+N1  - doi: 10.1002/2014JD021922
+DO  - 10.1002/2014JD021922
+T2  - Journal of Geophysical Research: Atmospheres
+JF  - Journal of Geophysical Research: Atmospheres
+JO  - Journal of Geophysical Research: Atmospheres
+JA  - J. Geophys. Res. Atmos.
+SP  - 11,527
+EP  - 11,542
+VL  - 119
+IS  - 20
+KW  - decision-making under uncertainty
+KW  - multiobjective decision analysis
+KW  - field campaign
+KW  - automated weather forecasting
+KW  - dynamic programming
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118596272
+M3  - doi: 10.1002/2014JD021922
+UR  - https://doi.org/10.1002/2014JD021922
+Y2  - 2020/10/28
+N2  - AbstractAutomated decision systems have shown the potential to increase data yields from field experiments in atmospheric science. The present paper describes the construction and performance of a flight decision system designed for a case in which investigators pursued multiple, potentially competing objectives. The Deep Convective Clouds and Chemistry (DC3) campaign in 2012 sought in situ airborne measurements of isolated deep convection in three study regions: northeast Colorado, north Alabama, and a larger region extending from central Oklahoma through northwest Texas. As they confronted daily flight launch decisions, campaign investigators sought to achieve two mission objectives that stood in potential tension to each other: to maximize the total amount of data collected while also collecting approximately equal amounts of data from each of the three study regions. Creating an automated decision system involved understanding how investigators would themselves negotiate the trade-offs between these potentially competing goals, and representing those preferences formally using a utility function that served to rank-order the perceived value of alternative data portfolios. The decision system incorporated a custom-built method for generating probabilistic forecasts of isolated deep convection and estimated climatologies calibrated to historical observations. Monte Carlo simulations of alternative future conditions were used to generate flight decision recommendations dynamically consistent with the expected future progress of the campaign. Results show that a strict adherence to the recommendations generated by the automated system would have boosted the data yield of the campaign by between 10 and 57%, depending on the metrics used to score success, while improving portfolio balance.
+ER  - 
+
+TY  - JOUR
+T1  - Financial planning for the preventive maintenance of power distribution systems via fuzzy AHP
+AU  - Khodaei Tehrani, Masood
+AU  - Fereidunian, Alireza
+AU  - Lesani, Hamid
+Y1  - 2016/01/02
+PY  - 2016
+DA  - 2016/01/02
+N1  - doi: 10.1002/cplx.21613
+DO  - 10.1002/cplx.21613
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 36
+EP  - 46
+VL  - 21
+IS  - 3
+KW  - Reliability-centered maintenance
+KW  - Preventive maintenance
+KW  - Fuzzy analytical hierarchical process
+KW  - Electricity distribution network
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118596272
+M3  - doi: 10.1002/cplx.21613
+UR  - https://doi.org/10.1002/cplx.21613
+Y2  - 2020/10/28
+N2  - One of the most important objectives of electricity distribution companies is to improve the reliability of the distribution networks. To this end, the electricity distribution companies try to optimally use the existing financial resources in the planning of preventive maintenance (PM) programs to reduce the imposed costs on the system due to the failure of network components and to improve the network reliability. In fuzzy analytical hierarchical process (fuzzy AHP) method, the degree of network reliability and the effectiveness of PM budget in the improvement of network reliability are selected as decision criteria in the budget allocation procedure. The areas served by the power distribution network are prioritized relative to each other and are assigned weights based on these priorities. The PM budget is determined based on the obtained weights. The medium voltage distribution network of seven areas in the city of Tehran have been selected for the implementation of the proposed method and the analysis of the obtained results. ? 2014 Wiley Periodicals, Inc. Complexity 21: 36?46, 2016
+ER  - 
+
+PY  - 2016
+Y1  - 2016/01/02
+DA  - 2016/01/02
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118820216.ch11
+UR  - https://doi.org/10.1002/9781118820216.ch11
+N1  - doi:10.1002/9781118820216.ch11
+M3  - doi:10.1002/9781118820216.ch11
+N2  - Summary The appellation ?smart? in ?smart grid? conjures up the notion of a power grid with ?intelligence,? in the form of artificial or machine intelligence. If that is indeed the goal, then power grid communication and networking must be designed to support such intelligence in the long run. Techniques involving artificial intelligence and machine learning for the power grid are explored while highlighting the role of communication and networking. Communication itself will benefit from advances in machine intelligence. Machine-to-machine communication, the semantic web, cognitive radio, and cognitive networking serve as attempts to incorporate intelligence into communication and are extensions of the active networking concept. The fundamental nature of complexity and communication in the form of active networking and communication complexity play a role in power system information theory as the power grid itself becomes more active.
+SP  - 357-388
+KW  - communication complexity
+KW  - machine-to-machine communication
+KW  - semantic web
+KW  - cognitive radio
+KW  - cognitive network
+KW  - semantic reasoning
+KW  - Kolmogorov complexity
+KW  - minimum message length
+KW  - active network
+KW  - end-to-end principle
+T1  - Machine Intelligence in the Grid
+T2  - Smart Grid
+T3  - Wiley Online Books
+SN  - 9781118820216
+
+TY  - JOUR
+T1  - Assessment of Patient Safety Management from Human Factors Perspective: A Fuzzy TOPSIS Approach
+AU  - Wang, Cheng-Hua
+AU  - Chou, Hui-Lin
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - doi: 10.1002/hfm.20580
+DO  - 10.1002/hfm.20580
+T2  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JF  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JO  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JA  - Hum. Factors Man.
+SP  - 614
+EP  - 626
+VL  - 25
+IS  - 5
+KW  - Patient safety
+KW  - Human factors
+KW  - Fuzzy TOPSIS
+KW  - MCDM
+KW  - Medical quality
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118820216
+M3  - doi: 10.1002/hfm.20580
+UR  - https://doi.org/10.1002/hfm.20580
+Y2  - 2020/10/28
+N2  - Abstract The quality of patient safety evaluation provides important results for patients, doctors, and managers because it determines hospitals? capabilities to enhance the medical quality and influences the development of nonmedical error. The aim of this study is to propose a fuzzy multicriteria decision model to evaluate the quality of patient safety in hospitals in Taiwan. The staff and committees of 4 hospitals from southern Taiwan were invited, and these hospitals were evaluated based on 5 indicators from the human factors perspective. Fuzzy Technique for Order Performance by Similarity to Ideal Solution (TOPSIS) methods are examined in the proposed model. The results show that not only the supervisor's commitment but also the hospital's patient safety enhancement capability should be taken into account in a competitive environment.
+ER  - 
+
+TY  - JOUR
+T1  - The zen of multidisciplinary team recommendation
+AU  - Datta, Anwitaman
+AU  - Yong, Jackson Tan Teck
+AU  - Braghin, Stefano
+Y1  - 2014/12/01
+PY  - 2014
+DA  - 2014/12/01
+N1  - doi: 10.1002/asi.23139
+DO  - 10.1002/asi.23139
+T2  - Journal of the Association for Information Science and Technology
+JF  - Journal of the Association for Information Science and Technology
+JO  - Journal of the Association for Information Science and Technology
+JA  - J Assn Inf Sci Tec
+SP  - 2518
+EP  - 2533
+VL  - 65
+IS  - 12
+KW  - knowledge engineering
+KW  - computer science
+KW  - data analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118820216
+M3  - doi: 10.1002/asi.23139
+UR  - https://doi.org/10.1002/asi.23139
+Y2  - 2020/10/28
+N2  - It is often necessary to compose a team consisting of experts with diverse competencies to accomplish complex tasks. However, for its proper functioning, it is also preferable that a team be socially cohesive. A team recommendation system, which facilitates the search for potential team members, can be of great help both for (a) individuals who need to seek out collaborators and for (b) managers who need to build a team for some specific tasks. Such a decision support system that readily helps summarize multiple metrics indicating a team (and its members) quality, and possibly rank the teams in a personalized manner according to the end users' preferences, thus serves as a tool to cope with what would otherwise be an information avalanche. In this work, we present Social Web Application for Team Recommendation, a general-purpose framework to compose various information retrieval and social graph mining and visualization subsystems together to build a composite team recommendation system, and instantiate it for a case study of academic teams.
+ER  - 
+
+AU  - Greco, Salvatore
+AU  - Matarazzo, Benedetto
+AU  - Słowiński, Roman
+PY  - 2014
+Y1  - 2014/12/01
+DA  - 2014/12/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470400531.eorms1096
+UR  - https://doi.org/10.1002/9780470400531.eorms1096
+N1  - doi:10.1002/9780470400531.eorms1096
+M3  - doi:10.1002/9780470400531.eorms1096
+N2  - Abstract We present the methodology of Multiple-Criteria Decision Aiding (MCDA) based on preference modeling in terms of ?if ?, then ?? decision rules. The basic assumption of the decision rule approach is that the decision maker (DM) accepts to give preferential information in terms of examples of decisions and looks for simple rules justifying her decisions. An important advantage of this approach is the possibility of handling inconsistencies in the preferential information, resulting from hesitations of the DM. The proposed methodology is based on the elementary, natural and rational principle of dominance. It says that if action x is at least as good as action y on each criterion from a considered family, then x is also comprehensively at least as good as y. From a methodological point of view, the set of decision rules constituting the preference model is induced from the preferential information using a knowledge discovery technique properly modified, so as to handle the dominance principle. The mathematical basis of the decision rule approach to MCDA is the Dominance-based Rough Set Approach (DRSA) developed by the authors. We present some basic applications of this approach, starting by multiple-criteria classification problems, and then going through decision under uncertainty, hierarchical decision making, classification problems with partially missing information, problems with imprecise information modeled by fuzzy sets, until multiple-criteria choice and ranking problems.
+SP  - 1-16
+KW  - multicriteria decision aiding
+KW  - rough set theory
+KW  - decision rules
+KW  - preference modeling
+KW  - dominance principle
+T1  - Decision Rule Preference Model
+T2  - Wiley Encyclopedia of Operations Research and Management Science
+T3  - Major Reference Works
+SN  - 9780470400531
+
+TY  - JOUR
+T1  - Geospatial and geostatistical approach for groundwater potential zone delineation
+AU  - Mallick, Javed
+AU  - Singh, Chander Kumar
+AU  - Al-Wadi, Hussein
+AU  - Ahmed, Mohd
+AU  - Rahman, Atiqur
+AU  - Shashtri, Satyanarayan
+AU  - Mukherjee, Saumitra
+Y1  - 2015/01/30
+PY  - 2015
+DA  - 2015/01/30
+N1  - doi: 10.1002/hyp.10153
+DO  - 10.1002/hyp.10153
+T2  - Hydrological Processes
+JF  - Hydrological Processes
+JO  - Hydrological Processes
+JA  - Hydrol. Process.
+SP  - 395
+EP  - 418
+VL  - 29
+IS  - 3
+KW  - AHP
+KW  - MCDM
+KW  - principal component analysis
+KW  - groundwater
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470400531
+M3  - doi: 10.1002/hyp.10153
+UR  - https://doi.org/10.1002/hyp.10153
+Y2  - 2020/10/28
+N2  - Abstract Over the past few decades, groundwater has become an essential commodity owing to increased demand as a result of growing population, industrialization, urbanization and so on. The water supply situation is expected to become more severe in the future because of continued unsustainable water use and projected change in hydrometeorological parameters due to climate change. This study is based on the integrated approach of remote sensing, geographical information system and multicriteria decision-making techniques to determine the most important contributing factors that affect the groundwater resources and to delineate the groundwater potential zones. Ten thematic layers, namely, geomorphology, geology, soil, topographic elevation (digital elevation model), land use/land cover, drainage density, lineament density, proximity of surface water bodies, surface temperature and post-monsoon groundwater depth, were considered for the present study. These thematic layers were selected for groundwater prospecting based on the literature; discussion with the experts of the Central Ground Water Board, Government of India; field observations; geophysical investigation; and multivariate techniques. The thematic layers and their features were assigned suitable weights on Saaty's scale according to their relative significance for groundwater occurrence. The assigned weights of the layers and their features were normalized by using the analytic hierarchy process and eigenvector method. Finally, the selected thematic maps were integrated using a weighted linear combination method to create the final groundwater potential zone map. The final output map shows different zones of groundwater potential, namely, very good (16%), good (35%), moderate (28%) low (17%) and very low (2.1%). The groundwater potential zone map was finally validated using the discharge and groundwater depth data from 28 and 98 pumping wells, respectively, which showed good correlation. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Hesitant Fuzzy Sets: State of the Art and Future Directions
+AU  - Rodríguez, R. M.
+AU  - Martínez, L.
+AU  - Torra, V.
+AU  - Xu, Z. S.
+AU  - Herrera, F.
+Y1  - 2014/06/01
+PY  - 2014
+DA  - 2014/06/01
+N1  - doi: 10.1002/int.21654
+DO  - 10.1002/int.21654
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 495
+EP  - 524
+VL  - 29
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 9780470400531
+M3  - doi: 10.1002/int.21654
+UR  - https://doi.org/10.1002/int.21654
+Y2  - 2020/10/28
+N2  - The necessity of dealing with uncertainty in real world problems has been a long-term research challenge that has originated different methodologies and theories. Fuzzy sets along with their extensions, such as type-2 fuzzy sets, interval-valued fuzzy sets, and Atanassov's intuitionistic fuzzy sets, have provided a wide range of tools that are able to deal with uncertainty in different types of problems. Recently, a new extension of fuzzy sets so-called hesitant fuzzy sets has been introduced to deal with hesitant situations, which were not well managed by the previous tools. Hesitant fuzzy sets have attracted very quickly the attention of many researchers that have proposed diverse extensions, several types of operators to compute with such types of information, and eventually some applications have been developed. Because of such a growth, this paper presents an overview on hesitant fuzzy sets with the aim of providing a clear perspective on the different concepts, tools and trends related to this extension of fuzzy sets.
+ER  - 
+
+AU  - Coit, David W.
+AU  - Taboada, Heidi A.
+PY  - 2014
+Y1  - 2014/06/01
+DA  - 2014/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118445112.stat04250
+UR  - https://doi.org/10.1002/9781118445112.stat04250
+N1  - doi:10.1002/9781118445112.stat04250
+M3  - doi:10.1002/9781118445112.stat04250
+N2  - Abstract Genetic algorithms (GAs) have been effectively used to solve many difficult engineering problems and are particularly effective for solving combinatorial optimization problems with large, complex search spaces. The redundancy allocation problem (RAP) is perhaps one of the most common problems in design for reliability and it is known to be NP hard. Redundancy is used as a strategy to meet high reliability specifications in many system design engineering projects. In this material, we present an overview of some of the most relevant research that has been done on the use of GAs in the reliability optimization of redundant systems.
+KW  - genetic algorithms
+KW  - redundancy allocation
+KW  - reliability optimization
+KW  - system reliability
+KW  - evolutionary algorithm
+T1  - Genetic Algorithms in Reliability
+T2  - Wiley StatsRef: Statistics Reference Online
+T3  - Major Reference Works
+SN  - 9781118445112
+
+TY  - JOUR
+T1  - AHP and multichoice goal programming integration for course planning
+AU  - Kırış, Şafak
+Y1  - 2014/09/01
+PY  - 2014
+DA  - 2014/09/01
+N1  - doi: 10.1111/itor.12081
+DO  - 10.1111/itor.12081
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 819
+EP  - 833
+VL  - 21
+IS  - 5
+KW  - education
+KW  - planning
+KW  - AHP
+KW  - multichoice goal programming
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1111/itor.12081
+UR  - https://doi.org/10.1111/itor.12081
+Y2  - 2020/10/28
+N2  - Abstract Course planning is one of the important problems in the education systems of universities. The processes cannot continue efficiently without planning, and various interruptions can appear in the system. This way decisions concerning which courses, when, how, and for what purposes should be answered by considering the available resources and stakeholders? preferences. Besides, universities aiming to be in the European Higher Education Area (EHEA) have to adapt their systems to the Bologna process in order to create a lifelong student-centered, learning-oriented area based on quality assurance. In this study, an integrated approach based on the analytic hierarchy process (AHP) and multichoice goal programming (MCGP) model was proposed to construct an efficient course plan following the Bologna process. The proposed approach was applied in an industrial engineering department.
+ER  - 
+
+TY  - JOUR
+T1  - A survey of recommendation techniques based on offline data processing
+AU  - Ren, Yongli
+AU  - Li, Gang
+AU  - Zhou, Wanlei
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - doi: 10.1002/cpe.3370
+DO  - 10.1002/cpe.3370
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat.: Pract. Exper.
+SP  - 3915
+EP  - 3942
+VL  - 27
+IS  - 15
+KW  - recommendation
+KW  - collaborative filtering
+KW  - recommender systems
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1002/cpe.3370
+UR  - https://doi.org/10.1002/cpe.3370
+Y2  - 2020/10/28
+N2  - Summary Recommendations based on offline data processing has attracted increasing attention from both research communities and IT industries. The recommendation techniques could be used to explore huge volumes of data, identify the items that users probably like, translate the research results into real-world applications and so on. This paper surveys the recent progress in the research of recommendations based on offline data processing, with emphasis on new techniques (such as temporal recommendation, graph-based recommendation and trust-based recommendation), new features (such as serendipitous recommendation) and new research issues (such as tag recommendation and group recommendation). We also provide an extensive review of evaluation measurements, benchmark data sets and available open source tools. Finally, we outline some existing challenges for future research. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Non-dominated “trade-off” solutions in television scheduling optimization
+AU  - Lupo, Toni
+Y1  - 2015/05/01
+PY  - 2015
+DA  - 2015/05/01
+N1  - doi: 10.1111/itor.12137
+DO  - 10.1111/itor.12137
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 563
+EP  - 584
+VL  - 22
+IS  - 3
+KW  - television scheduling design
+KW  - multi-objective optimization
+KW  - integer mathematical programming model
+KW  - television ratings forecast
+KW  - television scheduling costs
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1111/itor.12137
+UR  - https://doi.org/10.1111/itor.12137
+Y2  - 2020/10/28
+N2  - Abstract The main approaches for the television scheduling design are commonly based on the ratings or revenues maximization objective, and thus, only a single optimal solution can be obtained, corresponding to the best result for the considered objective. Therefore, these approaches lead up to the alternative solutions loss which, even if less effective from the ratings or revenues maximization viewpoint, may be more suitable for the decision maker because of better compromise in relation to factors influencing the decision process. Specifically, such a compromise could be achieved through a suitable ?trade-off? between these factors, with reference to the decision context in which the decision maker has to operate. The present study concerns the development of a multi-objective approach for the television scheduling design in which ratings and costs are the considered objectives to optimize, because these are the main factors influencing the decision process. In particular, an integer mathematical programming model is formulated and solved, considering as input data forecasted values of show-parts ratings and costs obtained by a suitable forecast engine. Finally, in order to show the employment of the proposed approach, a case study concerning the television scheduling optimization for an Italian TV channel is conducted with detailed practical considerations.
+ER  - 
+
+TY  - JOUR
+T1  - SF Box—A tool for evaluating the effects on soil functions in remediation projects
+AU  - Volchko, Yevheniya
+AU  - Norrman, Jenny
+AU  - Rosén, Lars
+AU  - Norberg, Tommy
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - doi: 10.1002/ieam.1552
+DO  - 10.1002/ieam.1552
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 566
+EP  - 575
+VL  - 10
+IS  - 4
+KW  - Soil quality indicators
+KW  - Soil quality index
+KW  - Soil functions
+KW  - Remediation
+KW  - Contaminated soil
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1002/ieam.1552
+UR  - https://doi.org/10.1002/ieam.1552
+Y2  - 2020/10/28
+N2  - ABSTRACT Although remediation is usually aimed at reducing the risks posed by contaminants to human health and the environment, it is also desirable that the remediated soil within future green spaces is capable of providing relevant ecological functions, e.g., basis for primary production. Yet while addressing a contamination problem by reducing contaminant concentration and/or amounts in the soil, the remedial action itself can lead to soil structure disturbances, decline in organic matter and nutrient deficiencies, and in turn affect a soil's capacity to carry out its ecological soil functions. This article presents the Soil Function Box (SF Box) tool that is aimed to facilitate integration of information from suggested soil quality indicators (SQIs) into a management process in remediation using a scoring method. The scored SQIs are integrated into a soil quality index corresponding to 1 of 5 classes. SF Box is applied to 2 cases from Sweden (Kvillebäcken and Hexion), explicitly taking into consideration uncertainties in the results by means of Monte Carlo simulations. At both sites the generated soil quality indices corresponded to a medium soil performance (soil class 3) with a high certainty. The main soil constraints at both Kvillebäcken and Hexion were associated with biological activity in the soil, as soil organisms were unable to supply plant-available N. At the Kvillebäcken site the top layer had a content of coarse fragment (??>?2?mm) higher than 35%, indicating plant rooting limitations. At the Hexion site, the soil had limited amount of organic matter, thus poor aggregate stability and nutrient cycling potential. In contrast, the soil at Kvillebäcken was rich in organic matter. The soils at both sites were capable of storing a sufficient amount of water for soil organisms between precipitation events. Integr Environ Assess Manag 2014;10:566?575. ? 2014 SETAC
+ER  - 
+
+TY  - JOUR
+T1  - Many-objective reservoir policy identification and refinement to reduce policy inertia and myopia in water management
+AU  - Giuliani, M.
+AU  - Herman, J. D.
+AU  - Castelletti, A.
+AU  - Reed, P.
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - doi: 10.1002/2013WR014700
+DO  - 10.1002/2013WR014700
+T2  - Water Resources Research
+JF  - Water Resources Research
+JO  - Water Resources Research
+JA  - Water Resour. Res.
+SP  - 3355
+EP  - 3377
+VL  - 50
+IS  - 4
+KW  - reservoir operation
+KW  - multiobjective optimization
+KW  - direct policy search
+KW  - visualization
+KW  - evolutionary algorithm
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1002/2013WR014700
+UR  - https://doi.org/10.1002/2013WR014700
+Y2  - 2020/10/28
+N2  - Abstract This study contributes a decision analytic framework to overcome policy inertia and myopia in complex river basin management contexts. The framework combines reservoir policy identification, many-objective optimization under uncertainty, and visual analytics to characterize current operations and discover key trade-offs between alternative policies for balancing competing demands and system uncertainties. The approach is demonstrated on the Conowingo Dam, located within the Lower Susquehanna River, USA. The Lower Susquehanna River is an interstate water body that has been subject to intensive water management efforts due to competing demands from urban water supply, atomic power plant cooling, hydropower production, and federally regulated environmental flows. We have identified a baseline operating policy for the Conowingo Dam that closely reproduces the dynamics of current releases and flows for the Lower Susquehanna and thus can be used to represent the preferences structure guiding current operations. Starting from this baseline policy, our proposed decision analytic framework then combines evolutionary many-objective optimization with visual analytics to discover new operating policies that better balance the trade-offs within the Lower Susquehanna. Our results confirm that the baseline operating policy, which only considers deterministic historical inflows, significantly overestimates the system's reliability in meeting the reservoir's competing demands. Our proposed framework removes this bias by successfully identifying alternative reservoir policies that are more robust to hydroclimatic uncertainties while also better addressing the trade-offs across the Conowingo Dam's multisector services.
+ER  - 
+
+TY  - JOUR
+T1  - Portfolio Analysis of Layered Security Measures
+AU  - Chatterjee, Samrat
+AU  - Hora, Stephen C.
+AU  - Rosoff, Heather
+Y1  - 2015/03/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - doi: 10.1111/risa.12303
+DO  - 10.1111/risa.12303
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 459
+EP  - 475
+VL  - 35
+IS  - 3
+KW  - Expert elicitation
+KW  - homeland security
+KW  - portfolio decision analysis
+KW  - probabilistic risk assessment
+KW  - systems analysis
+KW  - terrorism risk
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1111/risa.12303
+UR  - https://doi.org/10.1111/risa.12303
+Y2  - 2020/10/28
+N2  - Layered defenses are necessary for protecting the public from terrorist attacks. Designing a system of such defensive measures requires consideration of the interaction of these countermeasures. In this article, we present an analysis of a layered security system within the lower Manhattan area. It shows how portfolios of security measures can be evaluated through portfolio decision analysis. Consideration is given to the total benefits and costs of the system. Portfolio diagrams are created that help communicate alternatives among stakeholders who have differing views on the tradeoffs between security and economic activity.
+ER  - 
+
+TY  - JOUR
+T1  - Combining Life Cycle Assessment with Data Science to Inform Portfolio-Level Value-Chain Engineering
+AU  - Meinrenken, Christoph J.
+AU  - Sauerhaft, Beth C.
+AU  - Garvan, Anthony N.
+AU  - Lackner, Klaus S.
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - doi: 10.1111/jiec.12182
+DO  - 10.1111/jiec.12182
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 641
+EP  - 651
+VL  - 18
+IS  - 5
+KW  - enterprise resource planning (ERP)
+KW  - industrial ecology
+KW  - key performance indicator (KPI)
+KW  - life cycle assessment (LCA)
+KW  - product design
+KW  - supply chain management
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1111/jiec.12182
+UR  - https://doi.org/10.1111/jiec.12182
+Y2  - 2020/10/28
+N2  - Summary Life cycle assessment (LCA)-based analyses of company value chains can inspire profound modifications to products? design, material procurement, manufacturing, energy/water use, distribution, use, and disposal. However, such modifications often create trade-offs, improving some aspects while worsening others. How can firms decide whether or not to carry out such modifications? Or prioritize between different options to choose the one delivering the most competitive advantage? Typically, firms? metrics fall into two groups: (1) product-level metrics across the life cycle, including up- and downstream of facilities (e.g., product carbon footprints); and (2) facility-level metrics (e.g., plants? annual energy cost). Neither is sufficient for firm-wide cost-benefit analyses of modifications that affect multiple products and value-chain stages. Whereas facility-level metrics do not capture up- and downstream effects?where often most cost and environmental impacts originate?life cycle methodologies are currently not mature enough to be applied at the scale of entire product portfolios. We present a pilot system of key performance indicators (KPIs) that evaluate 3,337 products across 211 brands and five countries of PepsiCo, Inc. KPIs are firm-wide, annual figures (environmental, operational, and financial) across the value chain (cradle to grave) and can be determined at any level (single product, brands, or regions). Uncertainty analysis is included. In addition to KPIs for base cases, the system characterizes KPI impacts for any considered modifications (what-if scenarios). In a detailed case study, we present background about how and why PepsiCo used the system to evaluate all aspects of a strategic value-chain modification. For 7 of the 211 brands, this resulted in avoiding an 8% increase in greenhouse gas emissions and a 7% to 10% increase in procurement costs. It also saved PepsiCo an estimated ?200 years full-time equivalent employee time (or alternatively ?US$30 million in LCA consultant fees) had the LCAs of the 3,337 SKUs been carried out by traditional methods. This cost efficiency of the KPI system enables considering environmental impacts with more-traditional business metrics side by side. As a result, environmental impacts can be considered on a routine basis as part of integrated strategy and business planning. We discuss implementation considerations of the KPI methodology and future improvements.
+ER  - 
+
+TY  - JOUR
+T1  - Distributional Cost-Effectiveness Analysis of Health Care Programmes – A Methodological Case Study of the UK Bowel Cancer Screening Programme
+AU  - Asaria, Miqdad
+AU  - Griffin, Susan
+AU  - Cookson, Richard
+AU  - Whyte, Sophie
+AU  - Tappenden, Paul
+Y1  - 2015/06/01
+PY  - 2015
+DA  - 2015/06/01
+N1  - doi: 10.1002/hec.3058
+DO  - 10.1002/hec.3058
+T2  - Health Economics
+JF  - Health Economics
+JO  - Health Economics
+JA  - Health Econ.
+SP  - 742
+EP  - 754
+VL  - 24
+IS  - 6
+KW  - health inequality
+KW  - equity
+KW  - cost-effectiveness analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118445112
+M3  - doi: 10.1002/hec.3058
+UR  - https://doi.org/10.1002/hec.3058
+Y2  - 2020/10/28
+N2  - Abstract This paper presents an application of a new methodological framework for undertaking distributional cost-effectiveness analysis to combine the objectives of maximising health and minimising unfair variation in health when evaluating population health interventions. The National Health Service bowel cancer screening programme introduced in 2006 is expected to improve population health on average and to worsen population health inequalities associated with deprivation and ethnicity ? a classic case of ?intervention-generated inequality?. We demonstrate the distributional cost-effectiveness analysis framework by examining two redesign options for the bowel cancer screening programme: (i) the introduction of an enhanced targeted reminder aimed at increasing screening uptake in deprived and ethnically diverse neighbourhoods and (ii) the introduction of a basic universal reminder aimed at increasing screening uptake across the whole population. Our analysis indicates that the universal reminder is the strategy that maximises population health, while the targeted reminder is the screening strategy that minimises unfair variation in health. The framework is used to demonstrate how these two objectives can be traded off against each other, and how alternative social value judgements influence the assessment of which strategy is best, including judgements about which dimensions of health variation are considered unfair and judgements about societal levels of inequality aversion. ? 2014 The Authors. Health Economics published by John Wiley & Sons Ltd.
+ER  - 
+
+AU  - Mitra, Amitava
+PY  - 2015
+Y1  - 2015/06/01
+DA  - 2015/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9780470400531.eorms1088
+UR  - https://doi.org/10.1002/9780470400531.eorms1088
+N1  - doi:10.1002/9780470400531.eorms1088
+M3  - doi:10.1002/9780470400531.eorms1088
+N2  - Abstract Manufacturing and service organizations have a fundamental objective of meeting or exceeding the needs of the customer. A means to accomplish this objective is through the adoption of a culture of quality management that is pervasive at all levels of the organization. Starting with senior management in charge of strategic planning, progressing to middle management, dealing with tactical issues, and continuing to line management, addressing operational issues, adoption of a system that promotes continuous quality improvement will ensure competitiveness and growth of the organization. As customer needs are usually prioritized, by focusing on the critical needs of the customer, the organization is able to address customer satisfaction, which in turn influences profitability. Further, as the level of quality increases, a reduction in total costs is achieved. The purpose of the article is to provide an overview of the domain of quality management with a strategic focus. As details on operational methods for the achievement of quality are not within the scope of this article, a brief discussion can be found in the conclusions section. The reader may refer to the cited references and other appropriate sections of the Encyclopedia for further details.
+SP  - 1-11
+KW  - customer needs
+KW  -                ISO 9000 standards
+KW  - Malcolm Baldrige quality award
+KW  - product and process quality
+KW  - quality costs
+KW  - total quality management
+KW  - quality philosophies
+T1  - Quality Management
+T2  - Wiley Encyclopedia of Operations Research and Management Science
+T3  - Major Reference Works
+SN  - 9780470400531
+
+PY  - 2015
+Y1  - 2015/06/01
+DA  - 2015/06/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118820216.index
+UR  - https://doi.org/10.1002/9781118820216.index
+N1  - doi:10.1002/9781118820216.index
+M3  - doi:10.1002/9781118820216.index
+SP  - 507-538
+T1  - Index
+T2  - Smart Grid
+T3  - Wiley Online Books
+SN  - 9781118820216
+
+TY  - JOUR
+T1  - iAggregator: Multidimensional relevance aggregation based on a fuzzy operator
+AU  - Moulahi, Bilel
+AU  - Tamine, Lynda
+AU  - Yahia, Sadok Ben
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - doi: 10.1002/asi.23094
+DO  - 10.1002/asi.23094
+T2  - Journal of the Association for Information Science and Technology
+JF  - Journal of the Association for Information Science and Technology
+JO  - Journal of the Association for Information Science and Technology
+JA  - J Assn Inf Sci Tec
+SP  - 2062
+EP  - 2083
+VL  - 65
+IS  - 10
+KW  - information retrieval
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118820216
+M3  - doi: 10.1002/asi.23094
+UR  - https://doi.org/10.1002/asi.23094
+Y2  - 2020/10/28
+N2  - Recently, an increasing number of information retrieval studies have triggered a resurgence of interest in redefining the algorithmic estimation of relevance, which implies a shift from topical to multidimensional relevance assessment. A key underlying aspect that emerged when addressing this concept is the aggregation of the relevance assessments related to each of the considered dimensions. The most commonly adopted forms of aggregation are based on classical weighted means and linear combination schemes to address this issue. Although some initiatives were recently proposed, none was concerned with considering the inherent dependencies and interactions existing among the relevance criteria, as is the case in many real-life applications. In this article, we present a new fuzzy-based operator, called iAggregator, for multidimensional relevance aggregation. Its main originality, beyond its ability to model interactions between different relevance criteria, lies in its generalization of many classical aggregation functions. To validate our proposal, we apply our operator within a tweet search task. Experiments using a standard benchmark, namely, Text REtrieval Conference Microblog, emphasize the relevance of our contribution when compared with traditional aggregation schemes. In addition, it outperforms state-of-the-art aggregation operators such as the Scoring and the And prioritized operators as well as some representative learning-to-rank algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - 7th International Congress of Psoriasis: from Gene to Clinic The Queen Elizabeth II Conference Centre, London, U.K. 11th-13th December 2014
+Y1  - 2014/12/01
+PY  - 2014
+DA  - 2014/12/01
+N1  - doi: 10.1111/bjd.13488
+DO  - 10.1111/bjd.13488
+T2  - British Journal of Dermatology
+JF  - British Journal of Dermatology
+JO  - British Journal of Dermatology
+JA  - Br J Dermatol
+SP  - e105
+EP  - e173
+VL  - 171
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118820216
+M3  - doi: 10.1111/bjd.13488
+UR  - https://doi.org/10.1111/bjd.13488
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - doi: 10.1002/pds.3701
+DO  - 10.1002/pds.3701
+T2  - Pharmacoepidemiology and Drug Safety
+JF  - Pharmacoepidemiology and Drug Safety
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+SP  - 1
+EP  - 497
+VL  - 23
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118820216
+M3  - doi: 10.1002/pds.3701
+UR  - https://doi.org/10.1002/pds.3701
+Y2  - 2020/10/28
+ER  - 

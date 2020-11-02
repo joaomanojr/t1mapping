@@ -1,0 +1,490 @@
+
+TY  - JOUR
+T1  - Which Cooperative Ownership Model Performs Better? A Financial-Decision Aid Approach
+AU  - Kalogeras, Nikos
+AU  - Pennings, Joost M.E.
+AU  - Benos, Theo
+AU  - Doumpos, Michael
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - doi: 10.1002/agr.21323
+DO  - 10.1002/agr.21323
+T2  - Agribusiness
+JF  - Agribusiness
+JO  - Agribusiness
+JA  - Agribusiness
+SP  - 80
+EP  - 95
+VL  - 29
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0742-4477
+M3  - doi: 10.1002/agr.21323
+UR  - https://doi.org/10.1002/agr.21323
+Y2  - 2020/10/28
+N2  - ABSTRACT In this article the financial/ownership structures of agribusiness cooperatives are analyzed to examine whether new cooperative models perform better than the more traditional ones. The assessment procedure introduces a new financial decision-aid approach, which is based on data-analysis techniques in combination with a preference ranking organization method of enrichment evaluations (PROMETHEE II). The application of this multicriteria decision-aid approach allows the rank ordering of cooperatives based on the most prominent financial ratios. The financial ratios were selected using principal component analysis. This analytical procedure reduces the dimensionality of large numbers of interrelated financial performance measures. We assess the financial success of Dutch agribusiness cooperatives for the period 1999?2010. Results show that there is no clear-cut evidence that cooperative models used to attract extra members? investments and/or outside equity perform better than the more traditional models. This suggests that ownership structure of cooperatives is not always a decisive factor for their financial success. [EconLit citations: Q130, G320, C440].
+ER  - 
+
+PY  - 2013
+Y1  - 2013/01/01
+DA  - 2013/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118156117.ch5
+UR  - https://doi.org/10.1002/9781118156117.ch5
+N1  - doi:10.1002/9781118156117.ch5
+M3  - doi:10.1002/9781118156117.ch5
+N2  - Summary This chapter contains sections titled: Introduction to Computational Tools Decision Support Tools (DS) Optimization Techniques Classical Optimization Method Heuristic Optimization Evolutionary Computational Techniques Adaptive Dynamic Programming Techniques Pareto Methods Hybridizing Optimization Techniques and Applications to the Smart Grid Computational Challenges Summary References
+SP  - 100-121
+KW  - smart grid design, computational tools
+KW  - heuristic optimization, ANN, ES
+KW  - hybridizing optimization, smart grid applications
+T1  - Computational Tools for Smart Grid Design
+T2  - Smart Grid
+T3  - Wiley Online Books
+SN  - 9781118156117
+
+PY  - 2013
+Y1  - 2013/01/01
+DA  - 2013/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118376270.ch6
+UR  - https://doi.org/10.1002/9781118376270.ch6
+N1  - doi:10.1002/9781118376270.ch6
+M3  - doi:10.1002/9781118376270.ch6
+N2  - Summary This chapter contains sections titled: Linear Programming Quadratic Programming Semidefinite Programming Geometric Programming Lagrange Duality Optimization Algorithm Robust Optimization Multiobjective Optimization Optimization for Radio Resource Management Examples and Applications Summary
+SP  - 235-282
+KW  - convex optimization of optimization theory, CS, its core
+KW  - optimization, optimization variables, tools for engineering problems
+KW  - constraints, physical limits/or performance requirements
+KW  - problems of minimizing convex objective, on compact convex set
+KW  - convex optimization, using cutting plane/ellipsoid/subgradient
+KW  - convex optimization to machine learning, and significance
+KW  - optimization problems, linear/geometric programming/Lagrange Duality
+KW  - deterministic/stochastic algorithms in solving optimization problems
+KW  - robust optimization, for robust waveform diversity
+KW  - cognitive network, brain behind cognitive cross-layer in network behavior
+T1  - Convex Optimization
+T2  - Cognitive Radio Communications and Networking
+T3  - Wiley Online Books
+SN  - 9781118376270
+
+TY  - JOUR
+T1  - Bio-inspired algorithms for the optimization of offshore oil production systems
+AU  - Vieira, Ian Nascimento
+AU  - de Lima, Beatriz Souza Leite Pires
+AU  - Jacob, Breno Pinheiro
+Y1  - 2012/09/07
+PY  - 2012
+DA  - 2012/09/07
+N1  - doi: 10.1002/nme.4301
+DO  - 10.1002/nme.4301
+T2  - International Journal for Numerical Methods in Engineering
+JF  - International Journal for Numerical Methods in Engineering
+JO  - International Journal for Numerical Methods in Engineering
+JA  - Int. J. Numer. Meth. Engng
+SP  - 1023
+EP  - 1044
+VL  - 91
+IS  - 10
+KW  - optimization
+KW  - bio-inspired algorithms
+KW  - offshore systems
+KW  - genetic algorithms
+KW  - particle swarm optimization
+KW  - artificial immune system
+KW  - oil production risers
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118376270
+M3  - doi: 10.1002/nme.4301
+UR  - https://doi.org/10.1002/nme.4301
+Y2  - 2020/10/28
+N2  - SUMMARY This work describes the development, implementation, and assessment of enhanced variants of three different groups of bio-inspired methodologies: genetic algorithms, particle swarm optimization, and artificial immune system. The algorithms are implemented on a computational tool for the synthesis and optimization of offshore oil production risers that connect a floating platform at the sea surface to the wellheads at the sea bottom. Optimization procedures using bio-inspired algorithms for such real-world engineering problems require the calculation of the objective function through a large number of time-consuming finite element nonlinear dynamic analyses, for the evaluation of the structural behavior of each candidate configuration. Therefore, the performance of the algorithms may be measured by the smaller number of objective function evaluations associated to a given target fitness value. The results indicate that the artificial immune system approach, incorporating some enhancements presented in this work, is more effective than the genetic algorithms and particle swarm optimization methods, requiring a smaller number of evaluations to obtain better solutions. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating Fund Performance by Compromise Programming with Linear-Quadratic Composite Metric: An Actual Case on The CaixaBank in Spain
+AU  - Bravo, Mila
+AU  - Ballestero, Enrique
+AU  - Pla-Santamaria, David
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - doi: 10.1002/mcda.1474
+DO  - 10.1002/mcda.1474
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 247
+EP  - 255
+VL  - 19
+IS  - 5-6
+KW  - fund performance
+KW  - compromise programming
+KW  - additive measures
+KW  - ranking
+KW  - domination
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118376270
+M3  - doi: 10.1002/mcda.1474
+UR  - https://doi.org/10.1002/mcda.1474
+Y2  - 2020/10/28
+N2  - ABSTRACT This paper proposes an additive measure on the basis of compromise programming to evaluate fund performance from multiple criteria, of which the most usual are profitability and risk. This proposal is motivated by the fact that compromise programming is a sound decision support model to obtain scores of alternatives by minimizing weighted distances to an ideal point, the weights reflecting the investor's preferences for the criteria. To define the distance objective function, the linear-quadratic composite metric is used, which combines advantages of linear and non-linear objective functions. A critical advantage of compromise programming for fund performance evaluation is that the model can be extended to more than two financial criteria while other measures currently used (either ratio-based or leverage-based measures) only consider two criteria, say, profitability and risk. In the application, three investor's profiles are defined, which involve different weighting systems and lead to different fund rankings. These rankings are compared with domination relationships, the latter formulating if a fund is dominated or non-dominated by convex combinations of other funds. Numerical tables are provided with data, computational process and results, which are analysed. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - The Use of the Taguchi Method and a Neural-Genetic Approach to Optimize the Quality of a Pulsed Nd:YAG Laser Welding Process
+AU  - Lin, H.-L.
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - doi: 10.1111/j.1747-1567.2012.00849.x
+DO  - 10.1111/j.1747-1567.2012.00849.x
+T2  - Experimental Techniques
+JF  - Experimental Techniques
+JO  - Experimental Techniques
+SP  - 21
+EP  - 29
+VL  - 39
+IS  - 4
+KW  - Pulsed Nd:YAG Laser
+KW  - Welding
+KW  - Taguchi Method
+KW  - Neural Network
+KW  - Genetic Algorithm
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118376270
+M3  - doi: 10.1111/j.1747-1567.2012.00849.x
+UR  - https://doi.org/10.1111/j.1747-1567.2012.00849.x
+Y2  - 2020/10/28
+N2  - In the production process of lithium-ion secondary batteries, the lap-joint quality of the safety vent and the cathode lead in?uences the product quality and production effciency. A pulsed Nd:YAG laser welding machine was employed herein. The welding parameters that in?uence the pulsed Nd:YAG laser welding quality was evaluated by measuring the tensile-shear strength. In this study, the Taguchi method was used to perform the initial optimization of the process parameters. A neural network (NN) with the Levenberg?Marquardt back-propagation algorithm was adopted to develop the nonlinear relationship between factors and the response. Then, a genetic algorithm based on a well-trained NN model was applied to determine the optimal factor settings. Experimental results illustrated the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Comparison of the feasibility of three flood-risk extent delineation techniques using Geographic Information System: case study in Tavoliere delle Puglie, Italy
+AU  - Strobl, R.O.
+AU  - Forte, F.
+AU  - Lonigro, T.
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - doi: 10.1111/j.1753-318X.2012.01143.x
+DO  - 10.1111/j.1753-318X.2012.01143.x
+T2  - Journal of Flood Risk Management
+JF  - Journal of Flood Risk Management
+JO  - Journal of Flood Risk Management
+JA  - J. Flood Risk Manage
+SP  - 245
+EP  - 257
+VL  - 5
+IS  - 3
+KW  - Equally likely decision
+KW  - flood-risk extent
+KW  - Mahalanobis distance
+KW  - Maximin
+KW  - Tavoliere delle Puglie Italy
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118376270
+M3  - doi: 10.1111/j.1753-318X.2012.01143.x
+UR  - https://doi.org/10.1111/j.1753-318X.2012.01143.x
+Y2  - 2020/10/28
+N2  - Abstract Delineation of flood-risk extent is a tedious task which normally requires the expertise of trained hydrologists. In order to provide a quicker and more automated approach for estimating flood-risk extent, three straightforward methods (Mahalanobis distance, Maximin and Equally likely decision methods) which are easily executed in Geographic Information System were investigated and applied to a study area in the so-called ?Tavoliere delle Puglie? (southern Italy). The delineated areas were then visually and statistically confronted with a methodology based on hydrologic expertise that can be considered up to date with current flood-risk zone delineation knowledge. Two major problems associated with flood-risk extent estimation are firstly the overwhelming complexity of the wide variety of spatially relevant flood-related data and the amount of information contained within these data that are not easily interpreted without often costly and time consuming hydrologic expertise, and secondly, the wide variety of criteria usually considered in flood-risk analysis, yielding a broad spectrum of different units involved. The comparative analysis has revealed that of the three alternative methods, only the Mahalanobis distance technique gave moderately comparable results with the methodology based on hydrologic expert knowledge. The results suggest and confirm that hydrologic expertise cannot be bypassed in flood-risk extent analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Book Reviews
+AU  - Suter, Glenn
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - doi: 10.1002/ieam.1318
+DO  - 10.1002/ieam.1318
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 570
+EP  - 573
+VL  - 8
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118376270
+M3  - doi: 10.1002/ieam.1318
+UR  - https://doi.org/10.1002/ieam.1318
+Y2  - 2020/10/28
+ER  - 
+
+TY  - JOUR
+T1  - Supplier Rationalization: A Sourcing Decision Model
+AU  - Talluri, Srinivas
+AU  - DeCampos, Hugo A.
+AU  - Hult, G. Tomas M.
+Y1  - 2013/02/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - doi: 10.1111/j.1540-5915.2012.00390.x
+DO  - 10.1111/j.1540-5915.2012.00390.x
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 57
+EP  - 86
+VL  - 44
+IS  - 1
+KW  - Data Envelopment Analysis (DEA)
+KW  - Strategic Sourcing
+KW  - Supply Base Rationalization
+KW  - Supplier Performance Diversity
+KW  - Supplier Selection
+KW  - Supply Risk Management
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118376270
+M3  - doi: 10.1111/j.1540-5915.2012.00390.x
+UR  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+Y2  - 2020/10/28
+N2  - ABSTRACT We draw on extant literature on strategic sourcing and supply base rationalization to anchor our argument that measuring supplier performance diversity is germane to executing an effective supply base rationalization strategy. We explicate how a novel approach to data envelopment analysis (DEA) efficiency assessment can be utilized to measure this performance diversity. More specifically, our methods are anchored in cross efficiency analysis in DEA that allows for evaluating the efficiency of a supplier with respect to the optimal weights (strengths) of its peers. This methodology is applied to an actual supplier dataset of a large multinational telecommunications company in categorizing their supply base into groups for effective supplier rationalization. We conclude that measuring and analyzing the performance diversity within the framework of DEA provides a mechanism for firms to better balance a rationalized and diversified supply base with unique skills.
+ER  - 
+
+PY  - 2013
+Y1  - 2013/02/01
+DA  - 2013/02/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118467404.oth
+UR  - https://doi.org/10.1002/9781118467404.oth
+N1  - doi:10.1002/9781118467404.oth
+M3  - doi:10.1002/9781118467404.oth
+SP  - 251-257
+T1  - Extra Reading
+T2  - Dynamic Copula Methods in Finance
+T3  - Wiley Online Books
+SN  - 9781118467404
+
+TY  - JOUR
+T1  - Book Reviews
+AU  - Suter, Glenn
+Y1  - 2012/10/01
+PY  - 2012
+DA  - 2012/10/01
+N1  - doi: 10.1002/ieam.1340
+DO  - 10.1002/ieam.1340
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 768
+EP  - 772
+VL  - 8
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118467404
+M3  - doi: 10.1002/ieam.1340
+UR  - https://doi.org/10.1002/ieam.1340
+Y2  - 2020/10/28
+ER  - 
+
+AU  - Ezell, Barry C.
+PY  - 2012
+Y1  - 2012/10/01
+DA  - 2012/10/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118241042.ch4
+UR  - https://doi.org/10.1002/9781118241042.ch4
+N1  - doi:10.1002/9781118241042.ch4
+M3  - doi:10.1002/9781118241042.ch4
+N2  - Summary This chapter contains sections titled: Introduction and Learning Objectives Background Theory and Applications in Risk Modeling Elements of a Study Plan Modeling Paradigms Case Studies Summary Key Terms Exercises References Further Reading
+SP  - 129-164
+KW  - homeland security risk modeling, and risk assessment in the U.S
+KW  - DHS risk analysts, intelligence into inputs for terrorism risk analysis
+KW  - ontological bias, stakeholder's problem context in risk methodology
+T1  - Homeland Security Risk Modeling
+T2  - Handbook of Real‐World Applications in Modeling and Simulation
+T3  - Wiley Online Books
+SN  - 9781118241042
+
+TY  - JOUR
+T1  - A Risk–Benefit Assessment of Prasugrel, Clopidogrel, and Genotype-Guided Therapy in Patients Undergoing Percutaneous Coronary Intervention
+AU  - Guzauskas, G F
+AU  - Hughes, D A
+AU  - Bradley, S M
+AU  - Veenstra, D L
+Y1  - 2012/05/01
+PY  - 2012
+DA  - 2012/05/01
+N1  - doi: 10.1038/clpt.2011.303
+DO  - 10.1038/clpt.2011.303
+T2  - Clinical Pharmacology & Therapeutics
+JF  - Clinical Pharmacology & Therapeutics
+JO  - Clinical Pharmacology & Therapeutics
+JA  - Clinical Pharmacology & Therapeutics
+SP  - 829
+EP  - 837
+VL  - 91
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118241042
+M3  - doi: 10.1038/clpt.2011.303
+UR  - https://doi.org/10.1038/clpt.2011.303
+Y2  - 2020/10/28
+N2  - The objective of this study was to quantitatively evaluate the clinical benefits and harms of prasugrel, clopidogrel, and a CYP2C19 genotype-guided drug selection strategy for patients with acute coronary syndrome (ACS) and planned percutaneous coronary intervention (PCI). We used decision-analytic techniques to model the risks and benefits of alternative antiplatelet strategies. Sensitivity and scenario analyses were conducted to assess the uncertainty of the results. Prasugrel demonstrated little difference in net benefit as compared with clopidogrel (+0.02 quality-adjusted life-years (QALYs); 95% confidence range (CR), ?0.23 to 0.21). The genotype-guided strategy had a 93% probability of greater net benefit as compared with clopidogrel (+0.05 QALYs; 95% CR, ?0.02 to 0.11), and 66% probability of greater net benefit as compared with prasugrel (+0.03 QALYs; 95% CR, ?0.13 to 0.24). Prasugrel and clopidogrel differ in their risk?benefit profiles but appear to offer similar net benefit on average. Use of patient-specific factors such as CYP2C19 genotype offers promise for developing a personalized medicine approach to antiplatelet treatment regimens. Clinical Pharmacology  91 5, 829?837. doi:10.1038/clpt.2011.303
+ER  - 
+
+PY  - 2012
+Y1  - 2012/05/01
+DA  - 2012/05/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781119203919.fmatter
+UR  - https://doi.org/10.1002/9781119203919.fmatter
+N1  - doi:10.1002/9781119203919.fmatter
+M3  - doi:10.1002/9781119203919.fmatter
+N2  - Summary The prelims comprise: Half Title Series Title Copyright Contents Preface
+SP  - i-xxiv
+T1  - Front Matter
+T2  - Trust And Partnership
+T3  - Wiley Online Books
+SN  - 9781119203919
+
+TY  - JOUR
+T1  - Measuring Six Sigma Project Effectiveness using Fuzzy Approach
+AU  - Ray, Sanjit
+AU  - Das, Prasun
+AU  - Bhattacharyay, B. K.
+AU  - Antony, Jiju
+Y1  - 2013/04/01
+PY  - 2013
+DA  - 2013/04/01
+N1  - doi: 10.1002/qre.1391
+DO  - 10.1002/qre.1391
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual. Reliab. Engng. Int.
+SP  - 417
+EP  - 430
+VL  - 29
+IS  - 3
+KW  - Six Sigma
+KW  - fuzzy Logic
+KW  - linguistic variables
+KW  - project measurement system
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119203919
+M3  - doi: 10.1002/qre.1391
+UR  - https://doi.org/10.1002/qre.1391
+Y2  - 2020/10/28
+N2  - Six Sigma methodology for process improvement is being used by industries to improve customer satisfaction, business results or both. The success of Six Sigma implementation can be measured by evaluating the effectiveness of the completed projects. The other objective of project effectiveness measurement scheme is to keep the team focused and motivated. A good measurement system should be able to measure and compare projects of various types and need, including benefits from the projects. The project effectiveness measurement scheme should include success factors like project selection, involvement of management, results achieved, conduct of the project and monitoring and review of the project. A Six Sigma project effectiveness evaluation system is generally based on the perception of people that can result in unreliable measurement. To overcome this deficiency, we used a fuzzy approach based on linguistic variables and fuzzy numbers for measuring the project effectiveness in this study by using the perception of management. Two methods for measuring effectiveness of selected sample projects are suggested. The outcome from this research would be helpful for the practicing industries to use this methodology for an unbiased evaluation of completed projects. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Skype Synchronous Interaction Effectiveness in a Quantitative Management Science Course
+AU  - David Strang, Kenneth
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - doi: 10.1111/j.1540-4609.2011.00333.x
+DO  - 10.1111/j.1540-4609.2011.00333.x
+T2  - Decision Sciences Journal of Innovative Education
+JF  - Decision Sciences Journal of Innovative Education
+JO  - Decision Sciences Journal of Innovative Education
+SP  - 3
+EP  - 23
+VL  - 10
+IS  - 1
+KW  - Conversation Theory
+KW  - E-Learning Effectiveness
+KW  - Experiment
+KW  - Management Science Course
+KW  - MANCOVA
+KW  - Skype
+KW  - Synchronous Online Experiential Learning
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119203919
+M3  - doi: 10.1111/j.1540-4609.2011.00333.x
+UR  - https://doi.org/10.1111/j.1540-4609.2011.00333.x
+Y2  - 2020/10/28
+N2  - ABSTRACT An experiment compared asynchronous versus synchronous instruction in an online quantitative course. Mann-Whitley U-tests, correlation, analysis of variance, t tests, and multivariate analysis of covariance (MANCOVA) were utilized to test the hypothesis that more high-quality online experiential learning interactions would increase grade. Quasi-experimental controls included prior ability and demographic factors (gender, age). The control group used asynchronous discussion forums while the test group held synchronous sessions in Skype (chat, audio, and document sharing). A statistically significant MANCOVA model was created, using teaching method as a factor, and a count of online interactions (as a covariate), with assessment timing (as a blocking factor), to measure effect on grade.
+ER  - 
+
+PY  - 2012
+Y1  - 2012/01/01
+DA  - 2012/01/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9783527653096.index
+UR  - https://doi.org/10.1002/9783527653096.index
+N1  - doi:10.1002/9783527653096.index
+M3  - doi:10.1002/9783527653096.index
+SP  - 859-883
+T1  - Index
+T2  - Biopharmaceutical Production Technology
+T3  - Wiley Online Books
+SN  - 9783527653096
+
+TY  - JOUR
+T1  - Artificial Organs 2011: A Year in Review
+AU  - Malchesky, Paul S.
+Y1  - 2012/03/01
+PY  - 2012
+DA  - 2012/03/01
+N1  - doi: 10.1111/j.1525-1594.2012.01438.x
+DO  - 10.1111/j.1525-1594.2012.01438.x
+T2  - Artificial Organs
+JF  - Artificial Organs
+JO  - Artificial Organs
+SP  - 291
+EP  - 323
+VL  - 36
+IS  - 3
+KW  - Anticoagulation
+KW  - Apheresis
+KW  - Biocompatibility
+KW  - Biomaterials
+KW  - Blood substitutes
+KW  - Blood pumps
+KW  - Cardiac support
+KW  - Cardiopulmonary
+KW  - Dermal
+KW  - Dialysis
+KW  - Energy systems
+KW  - Liver
+KW  - Lung
+KW  - Membrane oxygenation
+KW  - Orthopedic
+KW  - Neuromuscular
+KW  - Pulmonary
+KW  - Renal
+KW  - Sphincter
+KW  - Stomach
+KW  - Tissue engineering
+KW  - Trachea
+KW  - Transplantation
+KW  - Valves
+KW  - Vascular
+KW  - Vision
+PB  - John Wiley & Sons, Ltd
+SN  - 9783527653096
+M3  - doi: 10.1111/j.1525-1594.2012.01438.x
+UR  - https://doi.org/10.1111/j.1525-1594.2012.01438.x
+Y2  - 2020/10/28
+N2  - Abstract In this Editor's Review, articles published in 2011 are organized by category and briefly summarized. As the official journal of The International Federation for Artificial Organs, The International Faculty for Artificial Organs, and the International Society for Rotary Blood Pumps, Artificial Organs continues in the original mission of its founders ?to foster communications in the field of artificial organs on an international level.?Artificial Organs continues to publish developments and clinical applications of artificial organ technologies in this broad and expanding field of organ replacement, recovery, and regeneration from all over the world. We take this time also to express our gratitude to our authors for offering their work to this journal. We offer our very special thanks to our reviewers who give so generously of time and expertise to review, critique, and especially provide meaningful suggestions to the author's work whether eventually accepted or rejected. Without these excellent and dedicated reviewers, the quality expected from such a journal would not be possible. We also express our special thanks to our Publisher, Wiley-Blackwell, for their expert attention and support in the production and marketing of Artificial Organs. In this Editor's Review, that historically has been widely well-received by our readership, we aim to provide a brief reflection of the currently available worldwide knowledge that is intended to advance and better human life while providing insight for continued application of technologies and methods of organ replacement, recovery, and regeneration. We look forward to recording further advances in the coming years.
+ER  - 
+
+PY  - 2012
+Y1  - 2012/03/01
+DA  - 2012/03/01
+Y2  - 2020/10/28
+DO  - doi:10.1002/9781118387177.ch4
+UR  - https://doi.org/10.1002/9781118387177.ch4
+N1  - doi:10.1002/9781118387177.ch4
+M3  - doi:10.1002/9781118387177.ch4
+N2  - Summary This chapter contains sections titled: Network design and management integrating reverse logistics Definition of the value Monitoring and control of the value on the life cycle Partnership Conclusion Bibliography
+SP  - 129-212
+KW  - value loops
+KW  - network design
+KW  - reverse logistics
+KW  - target markets
+KW  - partnership
+T1  - Value Loops
+T2  - Sustainable Reverse Logistics Network
+T3  - Wiley Online Books
+SN  - 9781118387177

@@ -1,0 +1,94 @@
+TY  - JOUR
+T1  - A review on recent sizing methodologies of hybrid renewable energy systems
+AU  - Lian, Jijian
+AU  - Zhang, Yusheng
+AU  - Ma, Chao
+AU  - Yang, Yang
+AU  - Chaima, Evance
+JO  - Energy Conversion and Management
+VL  - 199
+SP  - 112027
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 0196-8904
+DO  - https://doi.org/10.1016/j.enconman.2019.112027
+UR  - http://www.sciencedirect.com/science/article/pii/S0196890419310337
+KW  - Hybrid renewable energy system
+KW  - Renewable energy source
+KW  - Classification
+KW  - Evaluation indicator
+KW  - Sizing methodology
+KW  - Software tool
+AB  - On account of the continuously increasing electricity consumption and concern for environmental issues, renewable energy sources have been widely utilized to generate electricity, and they present advantages such as cleanness, easy availability, low cost, and abundance. In 2017, the installed capacity of solar and wind power worldwide amounted to 903.1 GW, which represented 41.4% of the total installed capacity of renewable energy. Hybrid renewable energy systems have been proposed to overcome the variability and randomness of a single renewable energy source such as solar and wind power, and more than 80% of them are off-grid systems. Meanwhile, it is necessary to determine the size of each component to design a reliable and cost-effective hybrid renewable energy system. Therefore, this paper mainly reviews the recent classification, evaluation indicators, and sizing methodologies of hybrid renewable energy systems (stand-alone and grid-connected). Further optimization research is still required to improve the overall performance of hybrid renewable energy systems. Decision makers can explore and develop hybrid systems including hydropower and/or pumped hydro storage based on their superiority, and they should also pay attention to the development of hybrid energy storage. In addition to reliability and economic indicators, which have applications above 80%, more attention should be payed to environmental and social indicators to determine the system capacity, and some new indicators should be disseminated. The features of traditional, artificial intelligence, and hybrid methods, in additional to software tools, were assessed. Moreover, hybrid methods with high accuracy and fast convergence that can surmount the defects of single methods are the most promising sizing method compared to the other three sizing methods. This review is valuable to understand the current status and development trends of optimal sizing for hybrid renewable energy systems.
+ER  - 
+
+TY  - JOUR
+T1  - Building rehabilitation life cycle assessment methodology–state of the art
+AU  - Thibodeau, Charles
+AU  - Bataille, Alain
+AU  - Sié, Marion
+JO  - Renewable and Sustainable Energy Reviews
+VL  - 103
+SP  - 408
+EP  - 422
+PY  - 2019
+DA  - 2019/04/01/
+SN  - 1364-0321
+DO  - https://doi.org/10.1016/j.rser.2018.12.037
+UR  - http://www.sciencedirect.com/science/article/pii/S1364032118308323
+KW  - Life cycle assessment
+KW  - Refurbishment
+KW  - Rehabilitation
+KW  - Renovation
+KW  - Residential building
+KW  - Literature review
+KW  - Methodology
+AB  - Life cycle assessment (LCA) is recognized as a key method of assessing the potential environmental impacts of product systems in the building sector. Applied to rehabilitated buildings, the LCA methodology generally aims at assessing and comparing different scenarios regarding either rehabilitation only or rehabilitation plus new building while using several methodological approaches. The present study aims at establishing the state of the art of building rehabilitation LCA methodology used in case studies. By means of a literature review, 41 LCA studies are analyzed according to key methodological aspects and compared with rules from the ISO 21931-1, the EN 15978, and the ISO 14044 standards, and from the EeBGuide guidance document. The reviewed studies, while featuring a variety of methodological choices, display certain trends. With respect to the type of assessment, 80% of the studies compare only rehabilitated buildings scenarios, and did not consider a new building scenario. About half of the studies reported adhering to either a standard (ISO 14044 or EN 15978) or a guidance document (EeBGuide or Annex 56). The unit of reference is always based on a surface unit—63% use 1 m2 or 1 m2/yr. With regard to the reference service period, 80% of the studies use 50 or 60 years. All the studies except one consider the material/product manufacturing and the operational energy of the building—71% include four other life cycle modules (A-C) and 41% consider reuse/recycling (D). With regard to the impact categories considered, 71% of the LCA studies include three to eight midpoint impact categories–or endpoint impact categories–and all of them consider the global warming potential and the cumulative energy demand. Finally, about half of the studies (46%) consider the interpretation stage. Based on the present analysis, methodological challenges are pointed out, recommendations for methodological improvements are proposed and future research pathways are suggested.
+ER  - 
+
+TY  - JOUR
+T1  - GA-based optimization for optimally placed and properly coordinated control of distributed generations and Static Var Compensator in distribution networks
+AU  - Singh, Bindeshwar
+AU  - Mukherjee, V.
+AU  - Tiwari, Prabhakar
+JO  - Energy Reports
+VL  - 5
+SP  - 926
+EP  - 959
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 2352-4847
+DO  - https://doi.org/10.1016/j.egyr.2019.07.007
+UR  - http://www.sciencedirect.com/science/article/pii/S2352484718302488
+KW  - Different load models (DLMs)
+KW  - Distributed generations (DGs)
+KW  - Static Var Compensator (SVC)
+KW  - Distributed generation planning
+KW  - Genetic algorithm (GA)
+KW  - Different load modes (DLMs)
+KW  - DPS performance indices
+AB  - This paper presents the impact assessment of distributed generations (DGs) (such as T2 and T4 i.e operating at different power factors such as 0.85, 0.90, 0.95 and 0.99 leading and lagging, respectively) and flexible alternating current transmission systems (FACTS) controllers like SVC with different load models (DLMs) in distribution power system networks by using genetic algorithms (GA) from minimum total MVA intake of main substation viewpoint. The different type DGs (such as T2 and T4 i.e. operating at different power factors such as 0.85, 0.90, 0.95 and 0.99 leading and lagging, respectively) and FACTS controller like SVC with DLMs are considered by employing GA in DPSs form minimum total MVA intake of main substation viewpoint. Different distribution power system (DPS) performance indices viewpoint, such as minimization of real power loss, minimization of reactive power loss, improvement of voltage profile, reduce the short circuit current or MVA line capacity and reduce the environmental greenhouse gases like carbon dioxide (CO2), sulfur dioxide (SO2), nitrogen oxide (NOx) and particulate matters in an emergency e.g. under fault, sudden change in field excitation of alternators or load increase in DPSs are considered. This paper also investigated the comparisons of different DGs (such as T2 and T4) and FACTS controller like SVC with DLMs by employing GA in DPSs form minimum total MVA intake of main substation viewpoint. The effectiveness of the proposed methodology is tested on IEEE 37-bus distribution test system. All the simulations are done on MATLAB package toolbox.
+ER  - 
+
+TY  - JOUR
+T1  - Life Cycle Assessment in the minerals industry: Current practice, harmonization efforts, and potential improvement through the integration with process simulation
+AU  - Segura-Salazar, Juliana
+AU  - Lima, Francisco Mariano
+AU  - Tavares, Luís Marcelo
+JO  - Journal of Cleaner Production
+VL  - 232
+SP  - 174
+EP  - 192
+PY  - 2019
+DA  - 2019/09/20/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2019.05.318
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652619318542
+KW  - Life cycle assessment
+KW  - Environmental sustainability
+KW  - Mining
+KW  - Mineral processing
+KW  - Process simulation
+KW  - Circular economy
+AB  - Life Cycle Assessment (LCA) is a widely-used methodology for estimating the potential environmental impacts of technological systems in nature. Relative maturity of this method has been achieved thanks to recent standardization efforts, although there are still several challenges, particularly in the minerals industry where LCA still needs to be strengthened and extended in use. An exhaustive review of recent LCA studies on mining and mineral processing operations was conducted to identify how these have dealt with various methodological challenges. A total of twenty-nine studies were found, most of which focusing on developed regions and in three commodities: coal (28%), aggregates (21%), and copper ores (14%). The source of data for background processes has been the Ecoinvent database in 45% of the studies analyzed, whereas the SimaPro software has been the preferred LCA tool in 66% of such studies. Although important advances have been made, significant issues remain. For instance, inconsistencies were found in the definition of the functional unit and system boundaries (temporal and technological). Further, the adoption of allocation criteria and the use of normalization and weighting in impact assessment have not been considered in most cases. While climate change was the main environmental hotspot (more than 90% of the studies addressed this impact category), the impacts associated with water use and waste management have been overlooked in most studies. Furthermore, mining and processing operations have been described as generic, averaged values or as simple functional relationships between system inputs and outputs using parameters without physical significance (“black box models”) in several production chains, making it difficult to identify opportunities for environmental sustainability enhancement within the sector. The work then discusses the opportunity of improvement in LCA in the minerals industry through the incorporation of process simulation from a bottom-up perspective. Evidence from other industries and recent advances in the computational development of such tools for the mineral sector are reviewed, which suggests that there is an opportunity for reducing the epistemic uncertainty in future LCA studies of mining and processing operations through the combination of both approaches.
+ER  - 
