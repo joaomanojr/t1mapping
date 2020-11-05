@@ -1,0 +1,323 @@
+TY  - JOUR
+T1  - Bicycle facility planning using GIS and multi-criteria decision analysis
+AU  - Rybarczyk, Greg
+AU  - Wu, Changshan
+JO  - Applied Geography
+VL  - 30
+IS  - 2
+SP  - 282
+EP  - 293
+PY  - 2010
+DA  - 2010/04/01/
+SN  - 0143-6228
+DO  - https://doi.org/10.1016/j.apgeog.2009.08.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0143622809000502
+KW  - Geographic information systems
+KW  - Bicycle planning
+KW  - Multi-criteria analysis
+KW  - Sustainable transportation
+AB  - Sustainable transport has become an important goal in transportation planning and research in recent decades. One emphasis of sustainable transport is to develop a multi-modal transportation system, in which bicycling facility planning is playing an important role. Recently, many bicycle facility planning methods have been proposed, and can be divided into two groups: supply- and demand-based models. While these two groups of models have been applied separately, few studies, however, have incorporated variables from these two groups of models together for bicycle facility planning. To address this issue, this paper proposes a multi-criteria evaluation (MCE) analysis to integrate both supply- and demand-based criteria for bicycle facility planning. Analysis was performed at two geographic levels: network level and neighborhood level, and a Geographic Information System (GIS) based exploratory spatial data analysis (ESDA) method was applied to explore the spatial patterns of bicycle facilities at the neighborhood level. This model was applied to Milwaukee City, WI, U.S.A., and results suggest that a combination of GIS and MCE analysis can serve as a better alternative to plan for optimal bicycle facilities, highlighting inadequacies of typical supply-side measures, and meet multiple planning objectives of government agencies, planners and bicyclists.
+ER  - 
+
+TY  - JOUR
+T1  - A fuzzy multi attribute decision framework with integration of QFD and grey relational analysis
+AU  - Yazdani, Morteza
+AU  - Kahraman, Cengiz
+AU  - Zarate, Pascale
+AU  - Onar, Sezi Cevik
+JO  - Expert Systems with Applications
+VL  - 115
+SP  - 474
+EP  - 485
+PY  - 2019
+DA  - 2019/01/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2018.08.017
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417418305256
+KW  - Fuzzy decision making
+KW  - Grey relational analysis
+KW  - Interval valued fuzzy
+KW  - Multi attribute decision making
+KW  - Quality function deployment
+AB  - Objective
+This paper proposes a multi attribute decision support model in a supply chain in order to solve complex decision problems. The paper provides a platform to ease decision process through the integration of quality function deployment (QFD) and grey relational analysis (GRA) in demonstrating main supply chain drivers under fuzzy environment.
+Methodology
+The proposed method is important because of several points: First of all, in a supply chain system, evaluation factors are not really independent and must be addressed in relation to the external factors such as customer requirements. Hence, we have applied QFD tool. Second, due to the constant uncertainty in the supply chain environment, fuzziness among the factors has to be considered. So, an interval valued fuzzy model was implemented. Third, to examine the proposed decision system in reality, it was applied in Risk and Uncertain Conditions for Agriculture Production Systems (RUC-APS) project.
+Contribution
+An integrated version of QFD and GRA is presented. It is assumed that QFD can act to measure optimal solutions based on the distance to ideal solutions. In an interval-valued fuzzy environment the enormous volume of computation by Euclidean distance doesn't allow decision makers to obtain the results easily. This drawback is addressed using gray relational analysis. The gray relational coefficient is integrated to the fuzzy QFD to measure the distance of potential solutions from ideal solutions. This integration facilitates decision making process in further problems once big data are available.
+Results
+To obtain the importance degrees of logistic indicators in the supply chain, expert team considered the environmental, social & cultural, and economic factors as external dimension of the QFD. The other dimension of QFD includes supply chain drivers such as quality, environmental management system, supply chain flexibility, corporate social responsibility, transportation service condition, and financial stability. The decision model is solved and the ranking of indicators is achieved. A sensitivity analysis helps to test and check the performance of the decision model.
+ER  - 
+
+TY  - JOUR
+T1  - Linking BIM and Design of Experiments to balance architectural and technical design factors for energy performance
+AU  - Schlueter, Arno
+AU  - Geyer, Philipp
+JO  - Automation in Construction
+VL  - 86
+SP  - 33
+EP  - 43
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2017.10.021
+UR  - http://www.sciencedirect.com/science/article/pii/S0926580517300274
+KW  - Design of Experiments (DoE)
+KW  - Building information modeling (BIM)
+KW  - Dynamic simulation
+KW  - Distributed simulation
+KW  - Building retrofit
+KW  - Retrofit design strategies
+AB  - To transform the existing energy systems towards renewable energy sources, buildings need to use less energy, use energy more efficiently and harness local renewable energy sources. For the design of energy-efficient buildings, building energy simulation of varying sophistication is commonly employed. Types of simulations range from simple, static calculations to sophisticated dynamic simulation. Especially for building retrofit many assumptions on construction, material etc. have to be taken, which increases the uncertainty of simulation results. In conjunction with simulation, methods of Building Performance Optimization are increasingly employed. They are able to identify best performing designs however do not provide insights on the mechanisms and interdependencies of the different design factors, which are most valuable to make informed design decisions. We present a methodology that aims to provide a better understanding and create knowledge about the influence and interactions of different architectural and technical design factors on building energy performance of a specific design task. For this purpose, we introduce Design of Experiments (DoE) in an integrated design workflow using the Design Performance Viewer (DPV) toolset, combining Building Information Modeling (BIM), distributed dynamic simulation and statistical analysis of the extensive simulation results. The experiments created using the methodology allow to identify the strength of effects and interactions of different design factors on selected performance indicators. We apply the methodology on an office retrofit case, introducing a factor scatterplot for result visualization, development and comparison of retrofit strategies. We further evaluate its potential to identify high performing strategies while balancing architectural and technical factors and their impact on energy performance.
+ER  - 
+
+TY  - JOUR
+T1  - Blast resistance and multi-objective optimization of aluminum foam-cored sandwich panels
+AU  - Qi, Chang
+AU  - Yang, Shu
+AU  - Yang, Li-Jun
+AU  - Wei, Zhi-Yong
+AU  - Lu, Zhen-Hua
+JO  - Composite Structures
+VL  - 105
+SP  - 45
+EP  - 57
+PY  - 2013
+DA  - 2013/11/01/
+SN  - 0263-8223
+DO  - https://doi.org/10.1016/j.compstruct.2013.04.043
+UR  - http://www.sciencedirect.com/science/article/pii/S0263822313002134
+KW  - Sandwich
+KW  - Optimization
+KW  - Blast
+KW  - Impact
+KW  - Finite element
+KW  - Robustness
+AB  - In this work, a group of metallic aluminum foam-cored sandwich panels (AFSPs) were used as vehicle armor against blast loading. The dynamic responses of the AFSPs with various combinations of face-sheet materials were analyzed using LS-DYNA. It was found that the AFSP with an aluminum (AA2024 T3) front face and a Rolled Homogeneous Armor (RHA) steel back face (labeled T3-AF-RHA) outperformed the other panel configurations in terms of maximum back face deflection (MaxD) and areal specific energy absorption (ASEA). It was also found that boundary conditions and the standoff distance (SoD) between an explosive and a target surface both have a remarkable influence on the blast response of the AFSPs. Using artificial neural network (ANN) approximation models, multi-objective design optimization (MDO) of the T3-AF-RHA panel was performed both with and without variations in blast load intensity. The optimization results show that the two objectives of MaxD minimization and ASEA maximization conflict with each other and that the optimal designs must be identified in a Pareto sense. Moreover, the Pareto curves obtained are different for varied blast impulse levels. Consequently, it is concluded that loading variation should be considered when designing such sandwich armors to achieve more robust blast-resistant performance.
+ER  - 
+
+TY  - JOUR
+T1  - Repeated double cross-validation for choosing a single solution in evolutionary multi-objective fuzzy classifier design
+AU  - Ishibuchi, Hisao
+AU  - Nojima, Yusuke
+JO  - Knowledge-Based Systems
+VL  - 54
+SP  - 22
+EP  - 31
+PY  - 2013
+DA  - 2013/12/01/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2013.09.023
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705113003109
+KW  - Fuzzy rule-based classifiers
+KW  - Multi-objective genetic fuzzy systems
+KW  - Evolutionary multi-objective optimization
+KW  - Multi-objective genetics-based machine learning
+KW  - Repeated double cross-validation
+AB  - The main advantage of multi-objective genetic fuzzy systems (MoGFS) is that a number of non-dominated fuzzy rule-based systems are obtained along the tradeoff surface among conflicting objectives. Accuracy maximization, complexity minimization and interpretability maximization have often been used for multi-objective design of fuzzy rule-based classifiers. A number of non-dominated fuzzy rule-based classifiers are obtained by a single run of MoGFS. A human decision maker is supposed to choose a single final classifier from a number of obtained classifiers according to his/her preference. One problem, which has not been discussed in many studies on MoGFS, is how to choose a single final classifier. In this paper, we discuss classifier selection with no intervention of the decision maker. Whereas complexity and interpretability are very important factors in classifier selection, we concentrate on the maximization of generalization ability as the first step towards a more general handling of classifier selection. We propose the use of repeated double cross-validation (rdCV) to choose a single final classifier and to evaluate the generalization ability of the selected classifier. We also discuss how our approach can be applied to parameter specification, formulation selection and algorithm choice.
+ER  - 
+
+TY  - JOUR
+T1  - Balancing equity and cost in rural transportation management with multi-objective utility analysis and data envelopment analysis: A case of Quinte West
+AU  - Chen, Chialin
+AU  - Achtari, Guyves
+AU  - Majkut, Kevin
+AU  - Sheu, Jiuh-Biing
+JO  - Transportation Research Part A: Policy and Practice
+VL  - 95
+SP  - 148
+EP  - 165
+PY  - 2017
+DA  - 2017/01/01/
+SN  - 0965-8564
+DO  - https://doi.org/10.1016/j.tra.2016.10.015
+UR  - http://www.sciencedirect.com/science/article/pii/S0965856416309259
+KW  - Rural transportation
+KW  - Transport equity
+KW  - Vehicle routing
+KW  - Multi-objective decision making
+KW  - Data envelopment analysis
+KW  - Geographic information systems
+AB  - Rural transportation management plays a critical role in the sustainable future of human society. Two emerging challenges faced by rural communities today are cost control and equity due to the increasing demand and limited operations resources available and the need to deal with the inevitable tradeoffs among multiple objectives and criteria. In this paper, we develop a new methodology for rural transportation management which takes into consideration of both the equity and cost factors under multiple objectives. We conceptualize and define equity in rural transportation management with the development of new performance measures and an analytical model for decision making with multiple desirable and undesirable objectives. We also develop a heuristic procedure based on data envelopment analysis for characterizing and analyzing the route design choices on the frontier between costs and multi-objective measures of equity. A GIS-based decision support system is constructed to process the extensive data required in our analysis. The new methodology has been successfully implemented by Quinte Access, a not-for-profit organization in a rural community in Ontario, to help redesign bus routes with significant quantitative benefits observed in multiple performance dimensions. It is also expected that the new knowledge, insights, and decision support tools developed through this study for transportation planning, big data management, and transportation service operations can be transferred to other rural communities in order to deliver more sustainable transportation services in rural regions around the world.
+ER  - 
+
+TY  - JOUR
+T1  - Using objective reduction and interactive procedure to handle many-objective optimization problems
+AU  - Sinha, Ankur
+AU  - Saxena, Dhish Kumar
+AU  - Deb, Kalyanmoy
+AU  - Tiwari, Ashutosh
+JO  - Applied Soft Computing
+VL  - 13
+IS  - 1
+SP  - 415
+EP  - 427
+PY  - 2013
+DA  - 2013/01/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2012.08.030
+UR  - http://www.sciencedirect.com/science/article/pii/S1568494612003791
+KW  - Evolutionary algorithms
+KW  - Evolutionary multi- and many-objective optimization
+KW  - Multi-criteria decision making
+KW  - Machine learning
+KW  - Interactive optimization
+AB  - A number of practical optimization problems are posed as many-objective (more than three objectives) problems. Most of the existing evolutionary multi-objective optimization algorithms, which target the entire Pareto-front are not equipped to handle many-objective problems. Though there have been copious efforts to overcome the challenges posed by such problems, there does not exist a generic procedure to effectively handle them. This paper presents a simplify and solve framework for handling many-objective optimization problems. In that, a given problem is simplified by identification and elimination of the redundant objectives, before interactively engaging the decision maker to converge to the most preferred solution on the Pareto-optimal front. The merit of performing objective reduction before interacting with the decision maker is two fold. Firstly, the revelation that certain objectives are redundant, significantly reduces the complexity of the optimization problem, implying lower computational cost and higher search efficiency. Secondly, it is well known that human beings are not efficient in handling several factors (objectives in the current context) at a time. Hence, simplifying the problem a priori addresses the fundamental issue of cognitive overload for the decision maker, which may help avoid inconsistent preferences during the different stages of interactive engagement. The implementation of the proposed framework is first demonstrated on a three-objective problem, followed by its application on two real-world engineering problems.
+ER  - 
+
+TY  - JOUR
+T1  - A state-of-art literature review reflecting 15 years of focus on sustainable supply chain management
+AU  - Ansari, Zulfiquar N.
+AU  - Kant, Ravi
+JO  - Journal of Cleaner Production
+VL  - 142
+SP  - 2524
+EP  - 2543
+PY  - 2017
+DA  - 2017/01/20/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2016.11.023
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652616318613
+KW  - Literature review
+KW  - Supply chain
+KW  - Sustainable supply chain management
+KW  - Methodology
+AB  - A large number of journals and special volumes are publishing research concerned with sustainable supply chain (SSC). The importance of this the topic has significantly grown over time thus receiving increased attention from academics and practitioners in this area. This research critically analyzes the content of 286 papers published in different journals in the area over the span of fifteen years (2002–2016). The reviewed literature was structured using the following categories: year, journal, research methodology, research design, operation research (OR)/mathematical tools and techniques, data analysis technique, industry sector, multi-criteria decision making (MCDM), authors, universities, country, enablers, and barriers. This enabled crucial gaps in knowledge of SSC to be identified allowing future research opportunities in the field to be determined. The major finding indicates that the research field is being dominated by the qualitative study. Also, of the quantitatively based studies that appeared in the literature, linear programming problem is the most often used solution approach to optimize the complex sustainable supply chain management problems. Drawn results show that there is enough scope to expand the research field and several opportunities still exist which needs to be investigated such as quantitative modeling, use of advance techniques and development of efficient algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Siting a centralised processing centre for artisanal and small-scale mining – A spatial multi-criteria approach
+AU  - Amoah, Nash
+AU  - Stemn, Eric
+JO  - Journal of Sustainable Mining
+VL  - 17
+IS  - 4
+SP  - 215
+EP  - 225
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 2300-3960
+DO  - https://doi.org/10.1016/j.jsm.2018.10.001
+UR  - http://www.sciencedirect.com/science/article/pii/S230039601830003X
+KW  - Artisanal and small-scale mining (ASM)
+KW  - Centralised processing centre
+KW  - Suitability analysis
+KW  - Multi-criteria evaluation
+AB  - Artisanal and small-scale mining is one of the global phenomena that is a threat to environmental health and safety. There are ambiguities in the manner in which an ore-processing facility operates. These ambiguities can cause environmental problems and hinder the mining capacity of these miners in Ghana. The vast majority of attempts to address these problems through the establishments of centralised processing centres have failed, with only a handful of successes. This research sought to use an established data-driven, geographic information based system to locate a centralised gold processing facility within the Wassa Amenfi-Prestea Mining Area in the Western region of Ghana. The study was designed to first determine the relevant factors that should be considered in the decision-making process for locating a centralised ore-processing facility. Secondly, it sought to implement the identified factors in a case study by identifying specific geospatial techniques that can best be applied to identify potential sites. By adopting in-depth consultations with four stakeholder groups for data collection and content analysis for data analysis, thirteen relevant factors were identified. However, in the case study, due to data unavailability, only seven of the factors were considered. Geoprocessing techniques including buffering and overlay analysis and multi-criteria decision analysis were employed to develop a model to identify the most preferred locations to site a centralised processing facility. Site characterisations and environmental considerations, incorporating identified constraints, to determine an appropriate location were selected. The final map output indicates estimated potential sites identified for the establishment of a centralised processing centre. The results obtained provide areas suitable for consideration.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria decision-making method based on interval-valued intuitionistic fuzzy sets
+AU  - Lakshmana Gomathi Nayagam, V.
+AU  - Muralikrishnan, S.
+AU  - Sivaraman, Geetha
+JO  - Expert Systems with Applications
+VL  - 38
+IS  - 3
+SP  - 1464
+EP  - 1467
+PY  - 2011
+DA  - 2011/03/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2010.07.055
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417410006834
+KW  - Interval-valued intuitionistic fuzzy sets
+KW  - Accuracy function
+KW  - Arithmetic
+KW  - Geometric aggregation operators
+KW  - Multi-criteria fuzzy decision-making
+AB  - Out of several generalizations of fuzzy set theory for various objectives, the notions introduced by Atanassov, 1983, Atanassov and Gargov, 1989 in defining intuitionistic fuzzy sets and interval-valued intuitionistic fuzzy sets are interesting and very useful in modeling real life problems. Ranking of interval-valued intuitionistic fuzzy sets plays a vital role in decision-making, data analysis, artificial intelligence and socioeconomic system and it was studied in Xu, 2007c, Xu and Chen, 2007a, Ye, 2009. In this paper a new method for ranking interval-valued intuitionistic fuzzy sets has been introduced and studied. The method is illustrated by numerical examples and compared with other methods. And then a new method for handling multi-criteria fuzzy decision-making problems based on interval-valued intuitionistic fuzzy sets is presented in which criterion values for alternatives are interval-valued intuitionistic fuzzy sets. The method proposed here can provide a useful way to efficiently help the decision-maker to make his decision. An illustrative example is given to verify the developed approach and to demonstrate its practicality and effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - A novel and powerful framework based on neutrosophic sets to aid patients with cancer
+AU  - Abdel-Basset, Mohamed
+AU  - Mohamed, Mai
+JO  - Future Generation Computer Systems
+VL  - 98
+SP  - 144
+EP  - 153
+PY  - 2019
+DA  - 2019/09/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2018.12.019
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X18325664
+KW  - Fog computing
+KW  - Neutrosophic sets
+KW  - Biomedical data analysis
+KW  - Cancer disease
+KW  - Internet of things
+KW  - Cloud computing
+AB  - Developments in the internet of things technology (IoT) have greatly influenced the way we live and have been seen in a variety of application areas, including health care. Most of the papers reviewed dealt with some health care services, and there is little scientific literature on the application or implementation of IoT in cancer detection and treatment services. This encouraged us to (re) evaluate the provision of health-care services and their location to harness the benefits associated with the use of IoT. Also, the lateness which caused by transmitting data to the cloud and back to the application is inadmissible for healthcare systems which based on IoT. As well, it is not efficient to transmit so much data to the cloud for processing and storage, because it would saturate network bandwidth and not be scalable. This also encouraged us to use fog computing which take advantages of cloud resources and coordinate the utilization of geographically distributed edge devices. So, this paper proposes the implementation of healthcare system which based on IoT and fog computing technologies for averting the spread of cancer via early detection, evaluation of disease’s symptoms, and also analyzing health data that gathered from IoT through various sensor networks and other smart devices to help healthcare professionals to turn a stream of data into actionable insights and evidence-based healthcare decision-making to improve and enhance cancer treatment. Due to the similarity of the general symptoms of cancer with some other diseases , we also proposed a neutrosophic multi-criteria decision making technique for assisting healthcare professionals to predict disease that patient may be suffers from if he/she does not have cancer. This technique depends on gathered data from proposed healthcare system and able to handle uncertainty of imprecision and ambiguity which resulted from the proportional priority scales of different symptoms of disease.
+ER  - 
+
+TY  - JOUR
+T1  - Finding feasible harvest zones in mountainous areas using integrated spatial multi-criteria decision analysis
+AU  - Ezzati, Sattar
+AU  - Najafi, Akbar
+AU  - Bettinger, Pete
+JO  - Land Use Policy
+VL  - 59
+SP  - 478
+EP  - 491
+PY  - 2016
+DA  - 2016/12/31/
+SN  - 0264-8377
+DO  - https://doi.org/10.1016/j.landusepol.2016.09.020
+UR  - http://www.sciencedirect.com/science/article/pii/S026483771631016X
+KW  - Timber harvesting
+KW  - Spatial modeling
+KW  - Decision support system
+KW  - Machine-learning
+KW  - Forest planning
+AB  - Terrain conditions, stand structure attributes, and environmental factors are important elements that determine the success of timber harvests. Planning designs for timber harvesting projects must also be physically feasible, environmentally acceptable, and economically viable and address potentially competing objectives upfront in a multi-purpose planning effort. Under mountainous conditions involving highly variable and steep terrain, harvest planning is a particularly complex decision-making process. Here, quantitative (objective) information (e.g., stand volume) is jointly considered with qualitative (subjective) information (e.g., expert judgment of slope failure event and preference value of a certain stand) to arrive at a compromise plan that considers conflicting management objectives. The objective of this paper was to evaluate the existing terrain conditions of a large management area to find zones in which harvest operations can be conducted, assess which portions of the terrain can be harvested by different equipment that is available in the region, and locate landing sites for ground-based skidding operations. The criteria used in this study included quantitative and qualitative elements that were measured/evaluated across different scales. To address this complex decision-making process, we used an integrative approach that combined spatial analyses with multiple-criteria decision analysis (SMCDA). Existing geospatial data were combined with information obtained through pairwise evaluations of environmental, topographic, and stand structure elements to create maps in which the terrain was divided into zones of different suitability classes for timber harvests, placement of landing sites, and deployment of different harvesting systems. The results and assessment of this case study indicate that the methodology has great potential for a more integrated policy, in particular, where multiple spatial objectives explicitly need to be taken into consideration when solving complex forest-management problems in mountainous conditions. One key finding from this work that needs to be further explored involves efficient ways of incorporating this methodology into traditional harvest scheduling models to better support the operational and tactical phases of the timber harvesting.
+ER  - 
+
+TY  - JOUR
+T1  - High throughput process development workflow with advanced decision-support for antibody purification
+AU  - Stamatis, Christos
+AU  - Goldrick, Stephen
+AU  - Gruber, David
+AU  - Turner, Richard
+AU  - Titchener-Hooker, Nigel J.
+AU  - Farid, Suzanne S.
+JO  - Journal of Chromatography A
+VL  - 1596
+SP  - 104
+EP  - 116
+PY  - 2019
+DA  - 2019/07/05/
+SN  - 0021-9673
+DO  - https://doi.org/10.1016/j.chroma.2019.03.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0021967319302432
+KW  - Chromatographic antibody purification
+KW  - High-throughput process development
+KW  - Design of experiments
+KW  - Decision-support tools
+KW  - Monte Carlo simulations
+AB  - Chromatography remains the workhorse in antibody purification; however process development and characterisation still require significant resources. The high number of operating parameters involved requires extensive experimentation, traditionally performed at small- and pilot-scale, leading to demands in terms of materials and time that can be a challenge. The main objective of this research was the establishment of a novel High Throughput Process Development (HTPD) workflow combining scale-down chromatography experimentation with advanced decision-support techniques in order to minimise the consumption of resources and accelerate the development timeframe. Additionally, the HTPD workflow provides a framework to rapidly manipulate large datasets in an automated fashion. The central component of the HTPD workflow is the systematic integration of a microscale chromatography experimentation strategy with an advanced chromatogram evaluation method, design of experiments (DoE) and multivariate data analysis. The outputs of this are leveraged into the screening and optimisation components of the workflow. For the screening component, a decision-support tool was developed combining different multi-criteria decision-making techniques to enable a fair comparison of a number of CEX resin candidates and determine those that demonstrate superior purification performance. This provided a rational methodology for screening chromatography resins and process parameters. For the optimisation component, the workflow leverages insights provided through screening experimentation to guide subsequent DoE experiments so as to tune significant process parameters for the selected resin. The resulting empirical correlations are linked to a stochastic modelling technique so as to predict the optimal and most robust chromatographic process parameters to achieve the desired performance criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Unsupervised classification and multi-criteria decision analysis as chemometric tools for the assessment of sediment quality: A case study of the Danube and Sava River
+AU  - Crnković, Dragan M.
+AU  - Antanasijević, Davor Z.
+AU  - Pocajt, Viktor V.
+AU  - Perić-Grujić, Aleksandra A.
+AU  - Antonović, Dušan
+AU  - Ristić, Mirjana Đ.
+JO  - CATENA
+VL  - 144
+SP  - 11
+EP  - 22
+PY  - 2016
+DA  - 2016/09/01/
+SN  - 0341-8162
+DO  - https://doi.org/10.1016/j.catena.2016.04.025
+UR  - http://www.sciencedirect.com/science/article/pii/S034181621630162X
+KW  - Heavy metals
+KW  - Classification
+KW  - Kohonen neural networks
+KW  - PROMETHEE&GAIA
+AB  - The aim of this study was to evaluate the quality of freshwater sediments by means of three chemometric techniques for multi-criteria analysis and decision: self-organizing network (SON), self-organizing map (SOM) and PROMETHEE&GAIA (Preference Ranking Organization Method for Enrichment Evaluation with Geometrical Analysis for Interactive Aid). Selected chemometric techniques were applied to the results of Pb, Cd, Zn, Cu, Ni, Cr, Hg and As content in thirty Danube and fourteen Sava river sediment samples from Serbia. The potential toxicity of sediments was estimated using Probable Effect Concentrations quotients (mean PEC-Q). According to the SON analysis the Danube sediment samples were divided into three classes, Class I (mean PEC-Q range 0.27–0.51), Class II (mean PEC-Q range 0.50–0.70), and Class III (mean PEC-Q range 0.77–0.97), while the Sava samples were divided into two classes, Class II (two samples, mean PEC-Q values 0.65 and 0.69) and Class III (mean PEC-Q range 0.69–1.00). Using the SOM cluster analysis, both Danube and Sava sediment samples were classified into five subclusters, on the basis of the metal concentration level and further ranked into three levels (for remediation, moderately polluted and not polluted) by the use of multi-criteria ranking PROMETHEE method. Graphical presentation of the results obtained by PROMETHEE method using GAIA descriptive tool has provided an insight into the distribution of examined elements in sediments and has shown a significant correlation between some elements. On the basis of the results obtained, it has been concluded that the proposed chemometric approach could provide useful information in the sediment quality assessment.
+ER  - 

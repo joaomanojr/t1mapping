@@ -1,0 +1,435 @@
+TY  - JOUR
+T1  - Parallel attribute reduction in dominance-based neighborhood rough set
+AU  - Chen, Hongmei
+AU  - Li, Tianrui
+AU  - Cai, Yong
+AU  - Luo, Chuan
+AU  - Fujita, Hamido
+JO  - Information Sciences
+VL  - 373
+SP  - 351
+EP  - 368
+PY  - 2016
+DA  - 2016/12/10/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2016.09.012
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025516307629
+KW  - Parallel algorithm
+KW  - Rough sets
+KW  - Big data
+KW  - Attribute reduction
+AB  - The amount of data collected from different real-world applications is increasing rapidly. When the volume of data is too large to be loaded to memory, it may be impossible to analyze it using a single computer. Although efforts have been taken to manage big data by using a single computer, the problem may not be solved in an acceptable time frame, making parallel computing an indispensable way to handle big data. In this paper, we investigate approaches to attribute reduction in parallel using dominance-based neighborhood rough sets (DNRS), which take into consideration the partial orders among numerical and categorical attribute values, and can be utilized in a multicriteria decision-making method. We first present some properties of attribute reduction in DNRS, and then investigate principles of parallel attribute reduction in DNRS. Parallelization on different components of attribute reduction are explored in detail. Furthermore, parallel attribute reduction algorithms in DNRS are proposed. Experimental results on UCI data and big data show that the proposed parallel algorithm is both effective and efficient.
+ER  - 
+
+TY  - JOUR
+T1  - Preference disaggregation and statistical learning for multicriteria decision support: A review
+AU  - Doumpos, Michael
+AU  - Zopounidis, Constantin
+JO  - European Journal of Operational Research
+VL  - 209
+IS  - 3
+SP  - 203
+EP  - 214
+PY  - 2011
+DA  - 2011/03/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2010.05.029
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221710003851
+KW  - Multiple criteria analysis
+KW  - Disaggregation analysis
+KW  - Preference learning
+KW  - Data mining
+AB  - Disaggregation methods have become popular in multicriteria decision aiding (MCDA) for eliciting preferential information and constructing decision models from decision examples. From a statistical point of view, data mining and machine learning are also involved with similar problems, mainly with regard to identifying patterns and extracting knowledge from data. Recent research has also focused on the introduction of specific domain knowledge in machine learning algorithms. Thus, the connections between disaggregation methods in MCDA and traditional machine learning tools are becoming stronger. In this paper the relationships between the two fields are explored. The differences and similarities between the two approaches are identified, and a review is given regarding the integration of the two fields.
+ER  - 
+
+TY  - JOUR
+T1  - Design and development of a generic spatial decision support system, based on artificial intelligence and multicriteria decision analysis
+AU  - Irfan, Muhammad
+AU  - Koj, Aleksandra
+AU  - Sedighi, Majid
+AU  - Thomas, Hywel
+JO  - GeoResJ
+VL  - 14
+SP  - 47
+EP  - 58
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 2214-2428
+DO  - https://doi.org/10.1016/j.grj.2017.08.003
+UR  - http://www.sciencedirect.com/science/article/pii/S2214242817300384
+KW  - Site selection
+KW  - Site impact assessment
+KW  - Self-organizing maps
+KW  - General regression neural networks
+KW  - Rapid impact assessment matrix
+KW  - Analytical hierarchy process
+AB  - A new integrated and generic Spatial Decision Support System (SDSS) is presented based on a combination of Artificial Intelligence and Multicriteria Decision Analysis techniques. The approach proposed is developed to address commonly faced spatial decision problems of site selection, site ranking, impact assessment and spatial knowledge discovery under one system. The site selection module utilises a theme-based Analytical Hierarchy Process. Two novel site ranking techniques are introduced. The first is based on a systematic neighbourhood comparison of sites with respect to key datasets (criterions). The second utilises multivariate ordering capability of one-dimensional Self-Organizing Maps. The site impact assessment module utilises a new spatially enabled Rapid Impact Assessment Matrix. A spatial variant of General Regression Neural Networks is developed for Geographically Weighted Regression (GWR) and prediction analysis. The developed system is proposed as a useful modern tool that facilitates quantitative and evidence based decision making in multicriteria decision environment. The intended users of the system are decision makers in government organisations, in particular those involved in planning and development when taking into account socio-economic, environmental and public health related issues.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic literature review of interoperability in the green Building Information Modeling lifecycle
+AU  - Muller, Marina Figueiredo
+AU  - Esmanioto, Filipe
+AU  - Huber, Natan
+AU  - Loures, Eduardo Rocha
+AU  - Canciglieri, Osiris
+JO  - Journal of Cleaner Production
+VL  - 223
+SP  - 397
+EP  - 412
+PY  - 2019
+DA  - 2019/06/20/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2019.03.114
+UR  - http://www.sciencedirect.com/science/article/pii/S0959652619308054
+KW  - Sustainability
+KW  - Building Information Modeling
+KW  - Interoperability
+KW  - Multicriteria decision method
+KW  - Systematic literature review
+AB  - The growing role of sustainability in the construction industry must be considered in the entire lifecycle of a building. This way BIM (Building Information Modeling) figures as an important factor in the management of this lifecycle, from design and construction, through the operation and maintenance until the demolition. An efficient interoperability along the lifecycle supported by BIM allows an overall better management and help users to improve sustainability of projects. This interoperability must consider not only data, but also should be concerned with broader aspects, such as processes and guidelines, avoiding information loss, facilitating analysis, and therefore, improving sustainability. In the light of this scenario, a systematic literature review was performed considering sustainability factors, interoperability concerns and lifecycle stages. This review was based on existing methods complemented by a multicriteria decision analysis method to aid the selection of relevant papers. Also, a qualitative data analysis was performed to identify the relations of the fields studied. Results showed that even though some fields receive much attention in the literature, few studies are performed considering interoperability in the entire lifecycle of sustainable buildings. Also, results showed the relevant connections among lifecycle stages and sustainability fields, providing an influence matrix of these two areas. This review can be used as a tool to organize knowledge and data and systematize processes and even to structure interoperability frameworks.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria Decision Analysis Applied to the Clinical Use of Pharmacotherapy for Overactive Bladder Symptom Complex
+AU  - Chapple, Christopher R.
+AU  - Mironska, Emma
+AU  - Wagg, Adrian
+AU  - Milsom, Ian
+AU  - Diaz, David Castro
+AU  - Koelbl, Heinz
+AU  - Pushkar, Dmitry
+AU  - Tubaro, Andrea
+AU  - De Ridder, Dirk
+AU  - Chartier-Kastler, Emmanuel
+AU  - Phillips, Lawrence D.
+JO  - European Urology Focus
+VL  - 6
+IS  - 3
+SP  - 522
+EP  - 530
+PY  - 2020
+DA  - 2020/05/15/
+SN  - 2405-4569
+DO  - https://doi.org/10.1016/j.euf.2019.09.020
+UR  - http://www.sciencedirect.com/science/article/pii/S2405456919302962
+KW  - Overactive bladder
+KW  - Pharmacotherapy
+KW  - Antimuscarinic
+KW  - Beta 3
+KW  - Multicriteria decision analysis
+AB  - Context
+The nonspecific storage symptom complex overactive bladder (OAB) is an important clinical condition in functional urology. Until recently, pharmacological therapy comprised antimuscarinic drugs, but more recently beta 3 agonists have added to the available agents. Traditional reporting of efficacy and safety of these agents relies upon regulatory placebo-controlled studies. There remains no head-to-head comparison of existing agents in the contemporary literature. Contemporary conclusions on comparative efficacy and safety drawn from the use of these agents are based on systematic reviews of the literature and associated meta-analyses.
+Objective
+In this study, we used the analytical model of multicriteria decision analysis (MCDA) to compare contemporary pharmacotherapy for OAB.
+Evidence acquisition
+Efficacy and safety data from published, randomised, placebo-controlled trials of antimuscarinic antagonists, the beta 3 agonist, and the combination of an antimuscarinic and beta 3 agonist were used to populate the MCDA model.
+Evidence synthesis
+Experts assessed weights of the relative importance of favourable and unfavourable effects, which provided a common measure of benefits and safety that were combined in the MCDA model to give an overall ranking of the OAB drugs.
+Results
+When benefits are judged as more important than safety, fesoterodine 4 or 8mg used in a flexible dosing pattern provides the most favourable therapeutic option, over a wide sensitivity analysis relating to benefits and harms.
+Conclusions
+In our analysis using an MCDA model, in both the flexible dosing pattern of fesoterodine and the solifenacin combination with mirabegron, the benefit-safety balance is better in terms of benefits and/or safety than any of the other available OAB drugs. Caution in interpretation of the data has to be expressed as the fesoterodine data are based on a flexible dosing regimen, which adds an additional dimension of personalising therapy.
+Patient summary
+Overactive bladder (OAB) is a common condition with a significant impact on the quality of life. Possible symptoms include the following: (1) urgency—a compelling desire to urinate, which is difficult to defer; (2) urgency urinary incontinence—urgency leading to incontinence episodes; (3) frequency—increased frequency of wanting to pass urine; and (4) nocturia—increase in instances of getting up at night to urinate. To date, the mainstay of therapy for OAB has been antimuscarinic drugs and, more recently, the beta 3 agonist mirabegron. Ten international experts in urology, obstetrics, gynaecology, healthy ageing, and data analysis compared the benefit-risk balance of 14 OAB drugs licensed in Europe. The experts considered the importance of a favourable effect on the above four symptoms and also potential for side effects, but only three of these side effects, constipation, dry mouth, and dizziness, showed clinically relevant differences among the six drugs they considered. The observations recorded here suggest interesting differences between drugs across a wide range of possible trade-offs between benefit and safety. The different recruitment criteria used for each study may influence the results seen, so they need to be treated with caution. Comparison of flexibly dosed fesoterodine studies with fixed-dose fesoterodine studies introduces an additional potential bias; definitive conclusions can be drawn only if enough comparable placebo-controlled flexible dosing studies with other drugs were available.
+ER  - 
+
+TY  - JOUR
+T1  - Big data analytics capabilities and firm performance: An integrated MCDM approach
+AU  - Yasmin, Mariam
+AU  - Tatoglu, Ekrem
+AU  - Kilic, Huseyin Selcuk
+AU  - Zaim, Selim
+AU  - Delen, Dursun
+JO  - Journal of Business Research
+VL  - 114
+SP  - 1
+EP  - 15
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0148-2963
+DO  - https://doi.org/10.1016/j.jbusres.2020.03.028
+UR  - http://www.sciencedirect.com/science/article/pii/S0148296320301934
+KW  - Big data analytics
+KW  - Resource-based view
+KW  - Dynamic capabilities
+KW  - Multi-criteria decision-making
+KW  - Firm performance
+KW  - Emerging markets
+AB  - This study explores the interdependence of big data analytics (BDA) capabilities and the impact of these capabilities on firm performance using an integrated multicriteria decision-making (MCDM) methodology. Drawing on a rich data set obtained from selected case study firms in Pakistan, three MCDM tools, namely, intuitionistic fuzzy decision-making trial and evolution laboratory (IF-DEMATEL), analytic network process (ANP), and simple additive weighting (SAW), are employed to assess the relative importance of BDA capabilities and the relationship of these capabilities with the firm performance. The results show that BDA capabilities are interdependent, and infrastructure capabilities are the highest-ranked among all, followed by management and human resource capabilities, respectively. The SAW results indicate an association between BDA capabilities and firm performance. Moreover, BDA capabilities are more strongly related to operational performance than to market performance.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting efficiency in Islamic banks: An integrated multicriteria decision making (MCDM) approach
+AU  - Wanke, Peter
+AU  - Azad, Md. Abul Kalam
+AU  - Barros, Carlos Pestana
+AU  - Hassan, M. Kabir
+JO  - Journal of International Financial Markets, Institutions and Money
+VL  - 45
+SP  - 126
+EP  - 141
+PY  - 2016
+DA  - 2016/11/01/
+SN  - 1042-4431
+DO  - https://doi.org/10.1016/j.intfin.2016.07.004
+UR  - http://www.sciencedirect.com/science/article/pii/S1042443116300609
+KW  - Islamic banks
+KW  - TOPSIS
+KW  - Two-stage
+KW  - Neural networks
+KW  - Efficiency
+AB  - This paper presents an efficiency assessment of the 114 Islamic banks from 24 countries using the Technique for Order Preference by Similarity to the Ideal Solution (TOPSIS). TOPSIS is a multicriteria decision making technique similar to Data Envelopment Analysis (DEA), which ranks a finite set of units based on the minimization of distance from an ideal point and the maximization of distance from an anti-ideal point. In this research, TOPSIS is used first in a two-stage approach to assess the relative efficiency of Islamic banks using the most frequent indicators adopted by the literature. Then, in the second stage, neural networks are combined with TOPSIS results as part of an attempt to produce a model for banking performance with effective predictive ability. The results reveal that variables related to both country origin and cost structure have a prominent impact on efficiency. Findings also indicate that the Islamic banking market would benefit from higher level of competition between institutions.
+ER  - 
+
+TY  - JOUR
+T1  - Robust commissioning strategy for existing building cooling system based on quantification of load uncertainty
+AU  - Ding, Yan
+AU  - Su, Hao
+AU  - Liu, Kuixing
+AU  - Wang, Qiaochu
+JO  - Energy and Buildings
+VL  - 225
+SP  - 110295
+PY  - 2020
+DA  - 2020/10/15/
+SN  - 0378-7788
+DO  - https://doi.org/10.1016/j.enbuild.2020.110295
+UR  - http://www.sciencedirect.com/science/article/pii/S0378778819337004
+KW  - Load uncertainty
+KW  - Robustness
+KW  - Quantile regression neural network
+KW  - Low-cost
+KW  - Commissioning strategy
+AB  - Commissioning is an effective means to reduce the energy consumption of cooling systems in buildings. However, owing to the uncertainty of the load, the deviation between the true value of the load and the predicted value may cause a mismatch between the cooling load and the cooling capacity of the commissioning strategy, resulting in low robustness of the commissioning strategy. Therefore, a low-cost cooling system commissioning strategy, which can effectively quantify the load uncertainty and ensure the robustness of the strategy, is proposed in this study. A Quantile Regression Neural Network (QRNN) model is established to obtain the uncertainty range of the cooling load of a building in the form of a probability distribution. The low-cost commissioning method under each working condition with different partial load rates is obtained using an optimisation algorithm. An entropy–weight Technique for Order Preference by Similarity to an Ideal Solution (TOPSIS) multicriteria decision-making method is applied to optimise the commissioning strategy for the highest guarantee rate and lowest energy consumption. Through the case study of an existing office building located in Inner Mongolia, northern China, it was concluded that the proposed commissioning strategy can reduce the building’s average daily energy consumption by 7.75%. The results indicate that compared with the deterministic commissioning strategy, this robust commissioning strategy can achieve a higher guarantee rate under various load demands. In particular, on days with high load demand, a high guaranteed rate and low energy consumption can be achieved simultaneously.
+ER  - 
+
+TY  - JOUR
+T1  - A novel method for rule extraction in a knowledge-based innovation tutoring system
+AU  - Paredes-Frigolett, Harold
+AU  - Gomes, Luiz Flávio Autran Monteiro
+JO  - Knowledge-Based Systems
+VL  - 92
+SP  - 183
+EP  - 199
+PY  - 2016
+DA  - 2016/01/15/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2015.10.027
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705115004141
+KW  - Knowledge-based systems
+KW  - Knowledge acquisition
+KW  - Knowledge representation
+KW  - Innovation management
+KW  - Multicriteria decision analysis
+AB  - Symbolic, subsymbolic, and hybrid approaches to rule extraction have so far relied on subsets of first-order logic to cope with the expressiveness trade-off of knowledge representation, on black-box approaches based on artificial neural networks, or on frequent association rule mining in the knowledge discovery and data mining fields. In this article, we present an entirely new method for rule extraction in knowledge-based systems that consists in retrieving an initial set of rules extracted from a knowledge base using conventional logical approaches and then ranking this initial set of rules applying a psychologically motivated multicriteria decision analysis method. We show how this method can be used to implement a knowledge-based management system, demonstrate that this method outperforms the most efficient algorithms for rule extraction proposed to date in the knowledge representation and knowledge discovery fields, and describe its implementation in a knowledge-based innovation tutoring system.
+ER  - 
+
+TY  - JOUR
+T1  - Interpretable neural networks based on continuous-valued logic and multicriteria decision operators
+AU  - Csiszár, Orsolya
+AU  - Csiszár, Gábor
+AU  - Dombi, József
+JO  - Knowledge-Based Systems
+VL  - 199
+SP  - 105972
+PY  - 2020
+DA  - 2020/07/08/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2020.105972
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705120302896
+KW  - Explainable artificial intelligence
+KW  - Continuous logic
+KW  - Nilpotent logic
+KW  - Neural network
+KW  - Adversarial problems
+AB  - Combining neural networks with continuous logic and multicriteria decision-making tools can reduce the black-box nature of neural models. In this study, we show that nilpotent logical systems offer an appropriate mathematical framework for hybridization of continuous nilpotent logic and neural models, helping to improve the interpretability and safety of machine learning. In our concept, perceptrons model soft inequalities; namely membership functions and continuous logical operators. We design the network architecture before training, using continuous logical operators and multicriteria decision tools with given weights working in the hidden layers. Designing the structure appropriately leads to a drastic reduction in the number of parameters to be learned. The theoretical basis offers a straightforward choice of activation functions (the cutting function or its differentiable approximation, the squashing function), and also suggests an explanation to the great success of the rectified linear unit (ReLU). In this study, we focus on the architecture of a hybrid model and introduce the building blocks for future applications in deep neural networks.
+ER  - 
+
+TY  - JOUR
+T1  - GIS – based multicriteria decision analysis for the delimitation of an agricultural perimeter irrigated with treated wastewater
+AU  - Neji, Hella Ben Brahim
+AU  - Turki, Sami Yassine
+JO  - Agricultural Water Management
+VL  - 162
+SP  - 78
+EP  - 86
+PY  - 2015
+DA  - 2015/12/01/
+SN  - 0378-3774
+DO  - https://doi.org/10.1016/j.agwat.2015.08.020
+UR  - http://www.sciencedirect.com/science/article/pii/S0378377415300846
+KW  - Treated Wastewater
+KW  - Compromise programming
+KW  - Water reuse
+KW  - Geographic information system
+KW  - Decision aid, Tunisia
+AB  - Treated wastewater resource is underexploited in Cebala’s Irrigated scheme (Northern Tunisia) and farmers are reluctant to reuse it. The delimitation of the irrigated area will help enhance the global economic profitability of the perimeter not only by reducing the operation and maintenance costs but also by optimizing the reuse activity according to the farmers’ demands, their aspirations and aims. Thus, the aim of this paper is to consider reducing the surface of the irrigated area, keeping only the parcels where the resource is highly demanded. A spatial data analysis using a multicriteria decision technique (compromise programming—CP) and a geographical information system was carried out to choose the best scenario. To this end, five zones where breeding activity is well developed and the non-conventional resource highly demanded were identified as the closest delimitations to the ideal solution. The Compromise programming method was used to rank these solutions. Finally, a surface of 2485ha was identified as the best delimitation scenario, corresponding to the area where breeding activity is well developed.
+ER  - 
+
+TY  - JOUR
+T1  - Decision-making models and support systems for supply chain risk: literature mapping and future research agenda
+AU  - Fagundes, Marcus Vinicius Carvalho
+AU  - Teles, Eduardo Oliveira
+AU  - Vieira de Melo, Silvio A.B.
+AU  - Freires, Francisco Gaudêncio Mendonça
+JO  - European Research on Management and Business Economics
+VL  - 26
+IS  - 2
+SP  - 63
+EP  - 70
+PY  - 2020
+DA  - 2020/05/01/
+SN  - 2444-8834
+DO  - https://doi.org/10.1016/j.iedeen.2020.02.001
+UR  - http://www.sciencedirect.com/science/article/pii/S2444883418302602
+KW  - risk model
+KW  - multicriteria decision
+KW  - stochastic and computational model
+KW  - bibliometrics
+AB  - Supply chain disruptions have serious consequences for society and this has made supply chain risk management (SCRM) an attractive area for researchers and managers. In this paper, we use an objective literature mapping approach to identify, classify, and analyze decision-making models and support systems for SCRM, providing an agenda for future research. Through bibliometric networks of articles published in the Scopus database, we analyze the most influential decision-making models and support systems for SCRM, evaluate the main areas of current research, and provide insights for future research in this field. The main results are the following: we found that the identity of the area is structured in three groups of risk decision support models: (i) quantitative multicriteria decision models, (ii) stochastic decision-making models, and (iii) computational simulation/optimization models. We mapped six current research clusters: (i) conceptual and qualitative risk models, (ii) upstream supply chain risk models, (iii) downstream supply chain risk models, (iv) supply chain sustainability risk models, (v) stochastic and multicriteria decision risk models, and (vi) emerging techniques risk models. We identified seven future research clusters, with insights from further studies for: (i) tools to operate SCRM data, (ii) validation of risk models, (iii) computational improvement for data analysis, (iv) multi-level and multi-period supply chains, (v) agrifood risks, (vi) energy risks and (vii) sustainability risks. Finally, the future research agenda should prioritize SCRM's holistic vision, the relationship between Big Data, Industry 4.0 and SCRM, as well as emerging social and environmental risks.
+ER  - 
+
+TY  - JOUR
+T1  - Modular Design Optimization using Machine Learning-based Flexibility Analysis
+AU  - Bhosekar, Atharv
+AU  - Ierapetritou, Marianthi
+JO  - Journal of Process Control
+VL  - 90
+SP  - 18
+EP  - 34
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0959-1524
+DO  - https://doi.org/10.1016/j.jprocont.2020.03.014
+UR  - http://www.sciencedirect.com/science/article/pii/S0959152420301931
+KW  - Modular design
+KW  - Design optimization
+KW  - Feasibility analysis
+KW  - Flexibility analysis
+KW  - Design under uncertainty
+KW  - Machine learning
+KW  - Operability
+AB  - Recent studies on modular and distributed manufacturing have introduced a new angle to the traditional economies of scale that claim that large plants exhibit better efficiencies and lower costs. A modular design has several advantages, including higher flexibility of decisions, lower investment costs, shorter time-to-market, and adaptability to market conditions. While design flexibility is a widely studied concept in the process design, modular design provides an interesting new opportunity to the design optimization problem under demand variability. In this work, a framework for modular design under demand variability is proposed. The framework consists of two steps. First, the feasible region for each module is represented analytically with the help of the historical data or the data from a simulation using a classification technique. In the second step, the optimal design choice is obtained by integrating the classifier models built in the first step as constraints in the design optimization problem. The design optimization problem is first solved considering a single objective, i.e., minimizing the total cost or maximizing the flexibility. These two objectives are then addressed simultaneously using a multiobjective optimization framework that considers the tradeoff between maximizing the flexibility of design and minimizing the cost. Computational studies conducted using a case study of an air separation plant, demonstrate the efficacy of the proposed framework. Several advantages of using a modular design, as well as data-driven methods in the decision-making process in the design step, are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing bank efficiency and performance with operational research and artificial intelligence techniques: A survey
+AU  - Fethi, Meryem Duygun
+AU  - Pasiouras, Fotios
+JO  - European Journal of Operational Research
+VL  - 204
+IS  - 2
+SP  - 189
+EP  - 198
+PY  - 2010
+DA  - 2010/07/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2009.08.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221709005438
+KW  - Artificial intelligence
+KW  - Banks
+KW  - Data envelopment analysis
+KW  - Efficiency
+KW  - Operational research
+KW  - Literature review
+AB  - This paper presents a comprehensive review of 196 studies which employ operational research (O.R.) and artificial intelligence (A.I.) techniques in the assessment of bank performance. Several key issues in the literature are highlighted. The paper also points to a number of directions for future research. We first discuss numerous applications of data envelopment analysis which is the most widely applied O.R. technique in the field. Then we discuss applications of other techniques such as neural networks, support vector machines, and multicriteria decision aid that have also been used in recent years, in bank failure prediction studies and the assessment of bank creditworthiness and underperformance.
+ER  - 
+
+TY  - JOUR
+T1  - Multiobjective Design Optimization in the Lightweight Dataflow for DDDAS Environment (LiD4E)1
+AU  - Sudusinghe, Kishan
+AU  - Jiao, Yang
+AU  - Salem, Haifa Ben
+AU  - van der Schaar, Mihaela
+AU  - Bhattacharyya, Shuvra S.
+JO  - Procedia Computer Science
+VL  - 51
+SP  - 2563
+EP  - 2572
+PY  - 2015
+DA  - 2015/01/01/
+T2  - International Conference On Computational Science, ICCS 2015
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2015.05.364
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050915011722
+KW  - Dataflow
+KW  - DDDAS
+KW  - model-based design
+KW  - stream mining
+KW  - machine learning.
+AB  - In this paper, we introduce new methods for multiobjective, system-level optimization that have been incorporated into the Lightweight Dataflow for Dynamic Data Driven Application Systems (DDDAS) Environment (LiD4E). LiD4E is a design tool for optimized implementation of dynamic, data-driven stream mining systems using high-level dataflow models of computation. More specifically, we develop in this paper new methods for integrated modeling and optimization of real-time stream mining constraints, multidimensional stream mining performance (precision and recall), and energy efficiency. Using a design methodology centered on data-driven control of and coordination between alternative dataflow subsystems for stream mining (classification modes), we develop systematic methods for exploring complex, multidimensional design spaces associated with dynamic stream mining systems, and deriving sets of Pareto-optimal system configurations that can be switched among based on data characteristics and operating constraints.
+ER  - 
+
+TY  - JOUR
+T1  - Applying machine learning to AHP multicriteria decision making method to assets prioritization in the context of industrial maintenance 4.0
+AU  - Lima, Erick
+AU  - Gorski, Ewerton
+AU  - Loures, Eduardo F.R.
+AU  - Santos, Eduardo A. Portela
+AU  - Deschamps, Fernando
+JO  - IFAC-PapersOnLine
+VL  - 52
+IS  - 13
+SP  - 2152
+EP  - 2157
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 9th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2019
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2019.11.524
+UR  - http://www.sciencedirect.com/science/article/pii/S2405896319315083
+KW  - AHP
+KW  - Industrial Maintenance
+KW  - Bayesian Networks
+KW  - ARA - Attribute Relevance Analysis algorithms
+AB  - The increasing competition among industries has led to the emergence of numerous tools and methods to support decision making focused on assets maintenance in a company, since ensuring good maintenance is directly linked with greater reliability and uptime for equipment, reducing losses in production processes and consequently increasing profitability. This work aims to use Machine Learning (ML) algorithms - Bayesian Networks (BN) and attribute relevance analysis (ARA), implemented in the Weka® platform, to process a dataset of event logs failure of industrial machine components. The approach aims to use the conditional probability relations generated by the BN and the ranking of criteria relevance for the design of an AHP decision-making model within the scope of industrial maintenance to prioritize which components of a specific machine are more susceptible to failures. The proposed integration mechanism aims to bring greater reliability to the weights assigned to the criteria of the AHP model, and consequently, a more accurate decision support. The results showed that the AHP model generated from a Bayesian Network is consistent with the conditional probabilities estimated by the BN, giving robustness to the decision sphere in the context of industrial maintenance. This AHP model can serve as a basis to be complemented by qualitative analysis criteria according to the need of the individual specialist, allowing the construction of strategic maintenance action plans.
+ER  - 
+
+TY  - JOUR
+T1  - Total Power Quality Index for Electrical Networks Using Neural Networks
+AU  - Raptis, T.E.
+AU  - Vokas, G.A.
+AU  - Langouranis, P.A.
+AU  - Kaminaris, S.D.
+JO  - Energy Procedia
+VL  - 74
+SP  - 1499
+EP  - 1507
+PY  - 2015
+DA  - 2015/08/01/
+T2  - The International Conference on Technologies and Materials for Renewable Energy, Environment and Sustainability –TMREES15
+SN  - 1876-6102
+DO  - https://doi.org/10.1016/j.egypro.2015.07.706
+UR  - http://www.sciencedirect.com/science/article/pii/S1876610215014745
+KW  - Power Quality
+KW  - Electric Networks
+KW  - Expert System
+KW  - Artificial Neural Networks
+KW  - Fuzzy systems
+KW  - Multicriteria Decision Making.
+AB  - The aim of this paper is to present a Total Power Quality Index (TPQI) for estimating Power Quality (PQ) at a specific site of the electric network using Artificial Neural Network (ANN) methodology techniques and a variety of methods from Machine Learning. The main advantage of this methodology is the avoidance of certain arbitrary parameters used in previous research efforts implementing a Fuzzy Index Model. For the purposes of this study and for the training process of the proposed ANN model additional data derived from Power Quality measurements along with an appropriate questionnaire which gathered the opinion of experts was used. The proposed methodology appeared to be flexible, reprogrammable with the capability to assimilate new measurements and estimations in any specific case study. The outcome of the proposed ANN model is compared with the corresponding previously introduced Fuzzy Index model over three different case studies, providing significant results for further improvement.
+ER  - 
+
+TY  - JOUR
+T1  - Multiobjective design of fuzzy neural network controller for wastewater treatment process
+AU  - Han, Hong-Gui
+AU  - Zhang, Lu
+AU  - Liu, Hong-Xu
+AU  - Qiao, Jun-Fei
+JO  - Applied Soft Computing
+VL  - 67
+SP  - 467
+EP  - 478
+PY  - 2018
+DA  - 2018/06/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2018.03.020
+UR  - http://www.sciencedirect.com/science/article/pii/S156849461830142X
+KW  - Multiobjective optimal control
+KW  - Wastewater treatment process
+KW  - Adaptive kernel function models
+KW  - Multiobjective particle swarm optimization
+KW  - Fuzzy neural network controller
+AB  - In this paper, an improved multiobjective optimal control (MOOC) strategy is developed to improve the operational efficiency, satisfy the effluent quality (EQ) and reduce the energy consumption (EC) in wastewater treatment process (WWTP). First, the adaptive kernel function models of the process, which can describe the complex dynamics of EQ and EC, are developed for the proposed MOOC strategy. Meanwhile, a multiobjective optimization problem is constituted to account for WWTP. Second, an improved multiobjective particle swarm optimization (MOPSO) algorithm, using a self-adaptive flight parameters mechanism and a multiobjective gradient (MOG) method, is designed to minimize the established objectives. And then the optimal set-points of dissolved oxygen (SO) and nitrate (SNO) are obtained in the treatment process. Third, an adaptive fuzzy neural network controller (FNNC) is applied for realizing the tracking control of the obtained set-points in the proposed MOOC strategy. Finally, Benchmark Simulation Model No.1 (BSM1) is introduced to evaluate the effectiveness of the proposed MOOC strategy. Experimental results show the efficacy of the proposed method.
+ER  - 

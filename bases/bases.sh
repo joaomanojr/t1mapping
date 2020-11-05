@@ -9,7 +9,8 @@ all_scid_hits=0
 all_scop_hits=0
 all_spri_hits=0
 
-for year in 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+#for year in 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+for year in title_abstract_keywords
 do
 	year_hits=0
 	printf "Year: %s\n" $year
