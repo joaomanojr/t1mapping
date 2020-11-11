@@ -9,11 +9,10 @@ all_scid_hits=0
 all_scop_hits=0
 all_spri_hits=0
 
-#for year in 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
 for year in title_abstract_keywords
 do
 	year_hits=0
-	printf "Year: %s\n" $year
+	printf "dir: %s\n" $year
 	printf -- "----------------------------------------\n"
 	cd $year
 
@@ -56,14 +55,26 @@ do
 	cd ..
 done
 
-printf "Totals\n" $all_year_hits
+
+# Are all .ris from Mendeley now
+
+all_base_hits=0
+
+printf "Filtered bases\n" $all_year_hits
 printf -- "----------------------------------------\n"
-printf "Total ACM hits: %d\n" $all_acm_hits
-printf "Total IEEE hits: %d\n" $all_ieee_hits
-printf "Total ScienceDirect hits: %d\n" $all_scid_hits
-printf "Total Scopus hits: %d\n" $all_scop_hits
-printf "Total Springer hits: %d\n" $all_spri_hits
-printf "Total Wiley hits: %d\n" $all_wile_hits
+
+for base in ACM IEEE ScienceDirect Scopus Springer Wiley
+do
+	# account $base hits
+	cd ${base}
+	base_hits=$(grep -Irn "TY  -" ${base}.ris | wc -l)
+	printf "%s hits: %d\n" $base $base_hits
+	cd ..
+
+	all_base_hits=$(($all_base_hits + $base_hits))
+done
+
 printf -- "----------------------------------------\n"
-printf "Total all year hits: %d\n" $all_year_hits
+printf "Total hits: %d\n" $all_base_hits
+printf -- "----------------------------------------\n\n"
 
