@@ -1,0 +1,618 @@
+
+TY  - JOUR
+T1  - Issue information – TOC
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - https://doi.org/10.1002/cplx.21830
+DO  - https://doi.org/10.1002/cplx.21830
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 1
+EP  - 5
+VL  - 21
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - https://doi.org/10.1002/cplx.21830
+UR  - https://doi.org/10.1002/cplx.21830
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - A scheduling selection process for energy-efficient task execution on DVFS processors
+AU  - Rauber, Thomas
+AU  - Rünger, Gudula
+Y1  - 2019/10/10
+PY  - 2019
+DA  - 2019/10/10
+N1  - https://doi.org/10.1002/cpe.5043
+DO  - https://doi.org/10.1002/cpe.5043
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5043
+VL  - 31
+IS  - 19
+KW  - DVFS
+KW  - energy efficiency
+KW  - energy-oriented objective function
+KW  - frequency scaling
+KW  - multicriteria decision problem
+KW  - nondominated scheduling solutions
+KW  - schedule execution modes
+KW  - scheduling
+KW  - SPEC benchmarks
+KW  - task-based programs
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5043
+UR  - https://doi.org/10.1002/cpe.5043
+Y2  - 2020/11/10
+N2  - Summary The efficient execution of parallel programs with respect to execution time and energy consumption is a major concern, and often, scheduling methods are used to achieve a good performance. In this article, we consider the problem of scheduling a set of independent tasks on a parallel system with homogeneous execution units providing frequency scaling. The set of tasks has the property that the tasks exhibit a task-specific inhomogeneous and non-linear behavior of their specific time-energy relation. In addition, it is assumed that execution time and energy consumption behave in a non-linear manner with respect to frequency scaling. For the assignment of these tasks to execution units, we propose a scheduling selection process combining scheduling algorithms, which determine a task assignment, with a subsequent selection of frequency scaling, which we call schedule execution modes. This process builds a rich set of alternative schedule execution modes from which efficient (or Pareto-optimal) schedule execution modes can be selected. Experiments are done for the SPEC CPU benchmarks. Experimental results illustrate that the enriched scheduling process leads to task assignments resulting in an efficient execution on DVFS processors.
+ER  - 
+
+TY  - JOUR
+T1  - Managing evidence in food safety and nutrition
+AU  - Cavalli, Ermanno
+AU  - Gilsenan, Mary
+AU  - Van Doren, Jane
+AU  - Grahek-Ogden, Danica
+AU  - Richardson, Jane
+AU  - Abbinante, Fabrizio
+AU  - Cascio, Claudia
+AU  - Devalier, Paul
+AU  - Brun, Nikolai
+AU  - Linkov, Igor
+AU  - Marchal, Kathleen
+AU  - Meek, Bette
+AU  - Pagliari, Claudia
+AU  - Pasquetto, Irene
+AU  - Pirolli, Peter
+AU  - Sloman, Steven
+AU  - Tossounidis, Lazaros
+AU  - Waigmann, Elisabeth
+AU  - Schünemann, Holger
+AU  - Verhagen, Hans
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.2903/j.efsa.2019.e170704
+DO  - https://doi.org/10.2903/j.efsa.2019.e170704
+T2  - EFSA Journal
+JF  - EFSA Journal
+JO  - EFSA Journal
+JA  - EFSA Journal
+SP  - e170704
+VL  - 17
+IS  - S1
+KW  - data
+KW  - evidence integration
+KW  - evidence management
+KW  - food safety
+PB  - John Wiley & Sons, Ltd
+SN  - 1831-4732
+M3  - https://doi.org/10.2903/j.efsa.2019.e170704
+UR  - https://doi.org/10.2903/j.efsa.2019.e170704
+Y2  - 2020/11/10
+N2  - Abstract Evidence (?data?) is at the heart of EFSA's 2020 Strategy and is addressed in three of its operational objectives: (1) adopt an open data approach, (2) improve data interoperability to facilitate data exchange, and (3) migrate towards structured scientific data. As the generation and availability of data have increased exponentially in the last decade, potentially providing a much larger evidence base for risk assessments, it is envisaged that the acquisition and management of evidence to support future food safety risk assessments will be a dominant feature of EFSA's future strategy. During the breakout session on ?Managing evidence? of EFSA's third Scientific Conference ?Science, Food, Society?, current challenges and future developments were discussed in evidence management applied to food safety risk assessment, accounting for the increased volume of evidence available as well as the increased IT capabilities to access and analyse it. This paper reports on presentations given and discussions held during the session, which were centred around the following three main topics: (1) (big) data availability and (big) data connection, (2) problem formulation and (3) evidence integration.
+ER  - 
+
+TY  - JOUR
+T1  - Mining specific and representative information by the attribute-oriented induction method
+AU  - Wu, Chia-Chi
+AU  - Chen, Yen-Liang
+AU  - Yu, Mei-Ru
+Y1  - 2020/10/20
+PY  - 2020
+DA  - 2020/10/20
+N1  - https://doi.org/10.1111/exsy.12643
+DO  - https://doi.org/10.1111/exsy.12643
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12643
+VL  - n/a
+IS  - n/a
+KW  - attribute-oriented induction
+KW  - concept hierarchy
+KW  - cost
+KW  - data mining
+KW  - noise
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12643
+UR  - https://doi.org/10.1111/exsy.12643
+Y2  - 2020/11/10
+N2  - Abstract Attribute-oriented induction (AOI) is a data analysis technique based on induction. The traditional AOI algorithm requires a threshold given by users to determine the number of output tuples. However, it is not easy to set an appropriate tuple threshold, and there is usually noise contained in a dataset. The traditional AOI algorithm can only generate a summary output of a fixed size, but it cannot guarantee that all generalized tuples have sufficient specificity and representativeness. In this article, a new AOI method is proposed to make up for the shortcomings. We introduce the concept of cost to measure the loss of accuracy due to attribute ascension. We also propose two algorithms based on the hierarchical clustering method. By setting cost constraints on each generalized tuple, our method can generate accurate output while eliminating noise, and help users get more informative and clearer results.
+ER  - 
+
+TY  - JOUR
+T1  - Article alert: 200 items from 2014, grouped and indexed
+AU  - Hafdahl, Adam R.
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1002/jrsm.1323
+DO  - https://doi.org/10.1002/jrsm.1323
+T2  - Research Synthesis Methods
+JF  - Research Synthesis Methods
+JO  - Research Synthesis Methods
+JA  - Res Syn Meth
+SP  - 287
+EP  - 302
+VL  - 10
+IS  - 2
+KW  - bibliography
+KW  - literature search
+KW  - meta-analysis
+KW  - methodology
+KW  - research synthesis
+KW  - systematic review
+PB  - John Wiley & Sons, Ltd
+SN  - 1759-2879
+M3  - https://doi.org/10.1002/jrsm.1323
+UR  - https://doi.org/10.1002/jrsm.1323
+Y2  - 2020/11/10
+N2  - This ninth Article Alert installment's print component presents 200 methodological articles about research synthesis published in 2014, all grouped by type of contribution and assigned descriptive keywords. More than 5300 articles, book chapters, and other types of work from 2004 to 2008 and 2014 have been added to the archive component since the eighth installment. The online Supporting Information provides this and all previous installments' print- and archive-component records, most with a DOI name or other online identifier. In building the parent bibliographic compilation, more effort has been devoted recently to shorter pieces such as editorial material.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling and Optimization of the Injection-Molding Process: A Review
+AU  - Fernandes, Célio
+AU  - Pontes, António José
+AU  - Viana, Júlio César
+AU  - Gaspar-Cunha, António
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1002/adv.21683
+DO  - https://doi.org/10.1002/adv.21683
+T2  - Advances in Polymer Technology
+JF  - Advances in Polymer Technology
+JO  - Advances in Polymer Technology
+JA  - Adv. Polym. Technol.
+SP  - 429
+EP  - 449
+VL  - 37
+IS  - 2
+KW  - Computer modeling
+KW  - Injection molding
+KW  - Mathematical modeling
+KW  - Optimization
+KW  - Review
+PB  - John Wiley & Sons, Ltd
+SN  - 0730-6679
+M3  - https://doi.org/10.1002/adv.21683
+UR  - https://doi.org/10.1002/adv.21683
+Y2  - 2020/11/10
+N2  - ABSTRACT The purpose of this article is to review the research done in the field of mathematical modeling and optimization of the injection-molding (IM) process. Various papers related to the mathematical description of the filling, postfilling, and plasticating phases of the IM process were assessed, and some recent advances on the IM field are described. In addition, research devoted to the optimization of the IM process based on various techniques is also discussed. These optimization techniques include design of experiments, artificial neural networks, and evolutionary algorithms. The strengths and weaknesses of each approach were discussed. Finally, this paper also discusses the optimization research performed in the IM process regarding some of the specific features associated with the processes such as runner system and cooling channel configurations, process conditions, gate location, and cavity pressure balancing.
+ER  - 
+
+TY  - JOUR
+T1  - Attitudinal Choquet integrals and applications in decision making
+AU  - Aggarwal, Manish
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - https://doi.org/10.1002/int.21972
+DO  - https://doi.org/10.1002/int.21972
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 879
+EP  - 898
+VL  - 33
+IS  - 4
+KW  - Attitudinal character
+KW  - Choquet integral
+KW  - compensative
+KW  - decision analysis
+KW  - human aggregation
+KW  - multicriteria decision making
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21972
+UR  - https://doi.org/10.1002/int.21972
+Y2  - 2020/11/10
+N2  - Abstract The compensation capabilities of Choquet integral are augmented to consider the complex attitudinal character of a decision maker. The resulting operator is termed as attitudinal Choquet integral (ACI). The proposed ACI is further extended as induced ACI. The special cases of ACI are investigated. The usefulness of ACI is shown through a case study.
+ER  - 
+
+TY  - JOUR
+T1  - Learning monotone preferences using a majority rule sorting model
+AU  - Sobrie, Olivier
+AU  - Mousseau, Vincent
+AU  - Pirlot, Marc
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1111/itor.12512
+DO  - https://doi.org/10.1111/itor.12512
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 1786
+EP  - 1809
+VL  - 26
+IS  - 5
+KW  - multiple criteria decision analysis
+KW  - classification
+KW  - majority rule sorting
+KW  - preference learning
+KW  - heuristic
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12512
+UR  - https://doi.org/10.1111/itor.12512
+Y2  - 2020/11/10
+N2  - Abstract We consider the problem of learning a function assigning objects into ordered categories. The objects are described by a vector of attribute values and the assignment function is monotone w.r.t. the attribute values (monotone sorting problem). Our approach is based on a model used in multicriteria decision analysis (MCDA), called MR-Sort. This model determines the assigned class on the basis of a majority rule and an artificial object that is a typical lower profile of the category. MR-Sort is a simplified variant of the ELECTRE TRI method. We describe an algorithm designed for learning such a model on the basis of assignment examples. We compare its performance with choquistic regression, a method recently proposed in the preference learning community, and with UTADIS, another MCDA method leaning on an additive value function (utility) model. Our experimentation shows that MR-Sort competes with the other two methods, and leads to a model that is interpretable.
+ER  - 
+
+TY  - JOUR
+T1  - Application of artificial intelligence algorithms on modeling of reflection phase characteristics of a nonuniform reflectarray element
+AU  - Mahouti, Peyman
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - https://doi.org/10.1002/jnm.2689
+DO  - https://doi.org/10.1002/jnm.2689
+T2  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JF  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JO  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JA  - Int J Numer Model
+SP  - e2689
+VL  - 33
+IS  - 2
+KW  - convolutional neural network
+KW  - deep learning
+KW  - reflectarray antenna
+KW  - regression
+KW  - symbolic regression
+PB  - John Wiley & Sons, Ltd
+SN  - 0894-3370
+M3  - https://doi.org/10.1002/jnm.2689
+UR  - https://doi.org/10.1002/jnm.2689
+Y2  - 2020/11/10
+N2  - Abstract Reflectarray antennas (RAs) have the ability to combine the advantages of both traditional parabolic reflector and phased array antennas without the need for feed network designs. Microstrip reflectarrays (MRAs) have the advantages of being small size, light weighted, easy to prototyped, high gain, low side-lobe level, and a predetermined radiation pattern. These can be achieved by precise calculation of reflection phase at each RA unit independently with a phase compensation proportional to the distance from the feed. The challenging problem is to have a fast and high accurate unit element to be used in multidimension, multiobjective design optimization. Herein, artificial intelligence algorithms (AIAs) have been used for prediction of reflection phase characterization of an X band MRA unit element with respect to the geometrical design parameters. Firstly, a nonuniform unit RA has been designed in 3D electromagnetic (EM) simulation tool for creating the training validation data sets. Then, the data sets are given to the different types of AIA regression models such as multilayer perceptron, symbolic regression, and convolutional neural network. From the results of the validation data set, it can be concluded that the proposed models have sufficient accuracy that can be used in a computationally efficient design optimization process of a large-scale RA design.
+ER  - 
+
+TY  - JOUR
+T1  - Defect prediction as a multiobjective optimization problem
+AU  - Canfora, Gerardo
+AU  - Lucia, Andrea De
+AU  - Penta, Massimiliano Di
+AU  - Oliveto, Rocco
+AU  - Panichella, Annibale
+AU  - Panichella, Sebastiano
+Y1  - 2015/06/01
+PY  - 2015
+DA  - 2015/06/01
+N1  - https://doi.org/10.1002/stvr.1570
+DO  - https://doi.org/10.1002/stvr.1570
+T2  - Software Testing, Verification and Reliability
+JF  - Software Testing, Verification and Reliability
+JO  - Software Testing, Verification and Reliability
+JA  - Softw. Test. Verif. Reliab.
+SP  - 426
+EP  - 459
+VL  - 25
+IS  - 4
+KW  - defect prediction
+KW  - multiobjective optimization
+KW  - cost-effectiveness
+KW  - cross-project defect prediction
+PB  - John Wiley & Sons, Ltd
+SN  - 0960-0833
+M3  - https://doi.org/10.1002/stvr.1570
+UR  - https://doi.org/10.1002/stvr.1570
+Y2  - 2020/11/10
+N2  - SummaryIn this paper, we formalize the defect-prediction problem as a multiobjective optimization problem. Specifically, we propose an approach, coined as multiobjective defect predictor (MODEP), based on multiobjective forms of machine learning techniques?logistic regression and decision trees specifically?trained using a genetic algorithm. The multiobjective approach allows software engineers to choose predictors achieving a specific compromise between the number of likely defect-prone classes or the number of defects that the analysis would likely discover (effectiveness), and lines of code to be analysed/tested (which can be considered as a proxy of the cost of code inspection). Results of an empirical evaluation on 10 datasets from the PROMISE repository indicate the quantitative superiority of MODEP with respect to single-objective predictors, and with respect to trivial baseline ranking classes by size in ascending or descending order. Also, MODEP outperforms an alternative approach for cross-project prediction, based on local prediction upon clusters of similar classes. Copyright ? 2015?John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Advances in multisensor information fusion: A Markov–Kalman viscosity fuzzy statistical predictor for analysis of oxygen flow, diffusion, speed, temperature, and time metrics in CPAP
+AU  - Rodger, James A.
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - https://doi.org/10.1111/exsy.12270
+DO  - https://doi.org/10.1111/exsy.12270
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12270
+VL  - 35
+IS  - 4
+KW  - humidity
+KW  - Kalman filter
+KW  - multisensor coordinated monitoring
+KW  - neural network
+KW  - O2 sensors
+KW  - smart temperature sensor
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12270
+UR  - https://doi.org/10.1111/exsy.12270
+Y2  - 2020/11/10
+N2  - Abstract The efficacies of continuous positive airway pressure (CPAP) are well documented in decreasing the apnoea?hypopnoea index in patients with obstructive sleep apnoea. To guarantee these efficacies, CPAP manufacturers must thoroughly test these devices to ensure the flow of oxygenated air to the patient at various temperatures during a prescribed time frame. The calculation of the percent oxygen in a ?bimixture? of gas can be done by measuring the travel time of a sound wave through the gas, and the travel time is proportional to the density of the air. We utilized existing multisensor tubes that were developed to collect and measure oxygen flow, diffusion, speed, temperature, and time metrics. Then these metrics were analysed using a Markov fuzzy, statistical, artificial neural network, nearest-neighbour predictive approach to determine the interactions between these variables. An improved Kalman filter method was employed to reduce noise, increase viscosity, and obtain correct data from the CPAP system.
+ER  - 
+
+TY  - JOUR
+T1  - Optimal preventive maintenance policy for electric power distribution systems based on the fuzzy AHP methods
+AU  - Hosseini Firouz, Mansour
+AU  - Ghadimi, Noradin
+Y1  - 2016/07/01
+PY  - 2016
+DA  - 2016/07/01
+N1  - https://doi.org/10.1002/cplx.21668
+DO  - https://doi.org/10.1002/cplx.21668
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 70
+EP  - 88
+VL  - 21
+IS  - 6
+KW  - reliability-centered maintenance
+KW  - preventive maintenance
+KW  - fuzzy analytic hierarchy process
+KW  - technique for order preference by similarity to ideal solution
+KW  - power distribution system
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - https://doi.org/10.1002/cplx.21668
+UR  - https://doi.org/10.1002/cplx.21668
+Y2  - 2020/11/10
+N2  - In power distribution systems, with their great vastness and various outage causes, one of the most important problems of power distribution companies is to select a suitable maintenance strategy of system elements and method of financial planning for the maintenance of system elements with the two objectives of decrease in outage costs and improvement of system reliability. In this article, a practical method is introduced for the selection of a suitable system elements maintenance strategy; moreover, to plan the preventive maintenance budget for the system elements, two methods are offered: the cost optimization method and the fuzzy Analytic Hierarchy Process (AHP) method. In the former method, a new model of system maintenance cost is offered. This model, based on system outage information, the elements maintenance costs are determined as functions of system reliability indices and preventive maintenance budget. The latter method, too, a new guideline is introduced for considering the cost and reliability criteria in the trend of preventive maintenance budget planning. In this method, the preventive maintenance budget for the elements is determined based on relative priority of elements with reliability criteria. ? 2015 Wiley Periodicals, Inc. Complexity 21: 70?88, 2016
+ER  - 
+
+TY  - JOUR
+T1  - Life cycle assessment of emerging technologies: A review
+AU  - Moni, Sheikh Moniruzzaman
+AU  - Mahmud, Roksana
+AU  - High, Karen
+AU  - Carbajales-Dale, Michael
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - https://doi.org/10.1111/jiec.12965
+DO  - https://doi.org/10.1111/jiec.12965
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 52
+EP  - 63
+VL  - 24
+IS  - 1
+KW  - emerging technology
+KW  - ex ante LCA
+KW  - industrial ecology
+KW  - life cycle assessment (LCA)
+KW  - technoeconomic analysis (TEA)
+KW  - technology readiness level (TRL)
+PB  - John Wiley & Sons, Ltd
+SN  - 1088-1980
+M3  - https://doi.org/10.1111/jiec.12965
+UR  - https://doi.org/10.1111/jiec.12965
+Y2  - 2020/11/10
+N2  - Abstract In recent literature, prospective application of life cycle assessment (LCA) at low technology readiness levels (TRL) has gained immense interest for its potential to enable development of emerging technologies with improved environmental performances. However, limited data, uncertain functionality, scale up issues and uncertainties make it very challenging for the standard LCA guidelines to evaluate emerging technologies and requires methodological advances in the current LCA framework. In this paper, we review published literature to identify major methodological challenges and key research efforts to resolve these issues with a focus on recent developments in five major areas: cross-study comparability, data availability and quality, scale-up issues, uncertainty and uncertainty communication, and assessment time. We also provide a number of recommendations for future research to support the evaluation of emerging technologies at low technology readiness levels: (a) the development of a consistent framework and reporting methods for LCA of emerging technologies; (b) the integration of other tools with LCA, such as multicriteria decision analysis, risk analysis, technoeconomic analysis; and (c) the development of a data repository for emerging materials, processes, and technologies.
+ER  - 
+
+TY  - JOUR
+T1  - A simplified neutrosophic multiplicative set-based TODIM using water-filling algorithm for the determination of weights
+AU  - Köseoğlu, Ali
+AU  - Şahin, Rıdvan
+AU  - Merdan, Mehmet
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1111/exsy.12515
+DO  - https://doi.org/10.1111/exsy.12515
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12515
+VL  - 37
+IS  - 4
+KW  - aggregation operators
+KW  - decision making
+KW  - decision support systems
+KW  - distance measure
+KW  - simplified neutrosophic multiplicative number
+KW  - simplified neutrosophic multiplicative set
+KW  - TODIM
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12515
+UR  - https://doi.org/10.1111/exsy.12515
+Y2  - 2020/11/10
+N2  - Abstract Due to the technological developments around the world, the amount of information that researchers work on increases continuously. This information density contains incomplete and uncertain data that cannot be fully expressed with crisp numbers. Fuzzy sets, intuitionistic fuzzy sets, and neutrosophic sets are useful tools to manage such information, but these concepts use a symmetrical and uniform scale to express data, whereas real-life problems contain nonsymmetrical and non-uniform information. Intuitionistic multiplicative sets (IMSs) are effective tools for dealing with these real-life problems. However, IMSs cannot handle real-life problems completely because indeterminate information depends on membership and non-membership information of IMSs, which is a restriction for decision makers and also for decision problems. To overcome this limitation, this paper generalizes the IMSs by using simplified neutrosophic set and introduces a novel approach that is called simplified neutrosophic multiplicative sets (SNMSs). Firstly, we define SNMS, show their set-based operations, and then give a description of simplified neutrosophic multiplicative numbers (SNMNs). Based on SNMNs, we develop two simplified neutrosophic multiplicative aggregation operators on SNMNs that are called simplified neutrosophic multiplicative weighted arithmetic average operator and simplified neutrosophic multiplicative weighted geometric average operator. Furthermore, we define some simplified neutrosophic multiplicative distance measures. Finally, using a model based on water-filling algorithm for determining criteria weights, we give a numerical example to demonstrate the effectiveness of the introduced concept with the proposed simplified neutrosophic multiplicative simplified neutrosophic multiplicative-TODIM method.
+ER  - 
+
+TY  - JOUR
+T1  - Recent advances in rapid multiobjective optimization of expensive simulation models in microwave and antenna engineering by Pareto front exploration
+AU  - Koziel, Slawomir
+AU  - Bekasiewicz, Adrian
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - https://doi.org/10.1002/mmce.21190
+DO  - https://doi.org/10.1002/mmce.21190
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF Microw Comput Aided Eng
+SP  - e21190
+VL  - 28
+IS  - 2
+KW  - computer-aided design
+KW  - computational electromagnetics
+KW  - electromagnetic-simulation models
+KW  - multiobjective optimization
+KW  - response features
+KW  - simulation-driven design
+KW  - surrogate modeling
+KW  - space mapping
+PB  - John Wiley & Sons, Ltd
+SN  - 1096-4290
+M3  - https://doi.org/10.1002/mmce.21190
+UR  - https://doi.org/10.1002/mmce.21190
+Y2  - 2020/11/10
+N2  - Abstract Practical engineering design problems are inherently multiobjective, that is, require simultaneous control of several (and often conflicting) criteria. In many situations, genuine multiobjective optimization is required to acquire comprehensive information about the system of interest. The most popular solution techniques are population-based metaheuristics, however, they are not practical for handling expensive electromagnetic (EM)-simulation models in microwave and antenna engineering. A workaround is to use auxiliary response surface approximation surrogates but it is challenging for higher-dimensional problems. Recently, a deterministic approach has been proposed for expedited multiobjective design optimization of expensive models in computational EMs. The method relies on variable-fidelity EM simulations, tracking the Pareto front geometry, as well as response correction. The algorithm sequentially generates Pareto-optimal designs using a series of constrained single-objective optimizations. The previously obtained design is used as a starting point for the next iteration. In this work, we review this technique and its modification based on space mapping surrogates. We also propose new variations exploiting adjoint sensitivities, as well as response features, which can be attractive depending on availability of derivatives or the characteristics of the system responses that need to be handled. We also discuss several case studies involving various antenna and microwave components.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment of Patient Safety Management from Human Factors Perspective: A Fuzzy TOPSIS Approach
+AU  - Wang, Cheng-Hua
+AU  - Chou, Hui-Lin
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1002/hfm.20580
+DO  - https://doi.org/10.1002/hfm.20580
+T2  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JF  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JO  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JA  - Hum. Factors Man.
+SP  - 614
+EP  - 626
+VL  - 25
+IS  - 5
+KW  - Patient safety
+KW  - Human factors
+KW  - Fuzzy TOPSIS
+KW  - MCDM
+KW  - Medical quality
+PB  - John Wiley & Sons, Ltd
+SN  - 1090-8471
+M3  - https://doi.org/10.1002/hfm.20580
+UR  - https://doi.org/10.1002/hfm.20580
+Y2  - 2020/11/10
+N2  - Abstract The quality of patient safety evaluation provides important results for patients, doctors, and managers because it determines hospitals? capabilities to enhance the medical quality and influences the development of nonmedical error. The aim of this study is to propose a fuzzy multicriteria decision model to evaluate the quality of patient safety in hospitals in Taiwan. The staff and committees of 4 hospitals from southern Taiwan were invited, and these hospitals were evaluated based on 5 indicators from the human factors perspective. Fuzzy Technique for Order Performance by Similarity to Ideal Solution (TOPSIS) methods are examined in the proposed model. The results show that not only the supervisor's commitment but also the hospital's patient safety enhancement capability should be taken into account in a competitive environment.
+ER  - 
+
+TY  - JOUR
+T1  - On some correlation coefficients in Pythagorean fuzzy environment with applications
+AU  - Singh, Surender
+AU  - Ganie, Abdul Haseeb
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1002/int.22222
+DO  - https://doi.org/10.1002/int.22222
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 682
+EP  - 717
+VL  - 35
+IS  - 4
+KW  - clustering
+KW  - correlation coefficient
+KW  - medical diagnosis
+KW  - pattern recognition
+KW  - Pythagorean fuzzy set
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.22222
+UR  - https://doi.org/10.1002/int.22222
+Y2  - 2020/11/10
+N2  - Abstract A Pythagorean fuzzy set (PFS) is an extension of an intuitionistic FS that can be extended by relaxing the restriction on the grades of satisfaction and dissatisfaction. PFS is a powerful tool for dealing with uncertainty and vagueness. Correlation analysis of PFSs is a hot research topic in Pythagorean fuzzy (PF) theory and has practical applications in many areas, such as decision-making, pattern recognition, medical diagnosis, engineering, and so forth. In this communication, we introduce some novel correlation coefficients in the PF-environment satisfying the condition that the correlation coefficient of two PFSs is one if and only if the two sets are equal. We discuss the properties and applications of the proposed measures in pattern recognition, medical diagnosis, multicriteria decision-making, and clustering analysis. Furthermore, the superiority of our proposed correlation coefficients over some existing ones is also established. We also extend the correlation coefficients to interval-valued PFSs.
+ER  - 
+
+TY  - JOUR
+T1  - An urban growth simulation model based on integration of local weights and decision risk values
+AU  - Karimi Firozjaei, Mohammad
+AU  - Sedighi, Amir
+AU  - Jelokhani-Niaraki, Mohammadreza
+Y1  - 2020/07/28
+PY  - 2020
+DA  - 2020/07/28
+N1  - https://doi.org/10.1111/tgis.12668
+DO  - https://doi.org/10.1111/tgis.12668
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12668
+UR  - https://doi.org/10.1111/tgis.12668
+Y2  - 2020/11/10
+N2  - Abstract Monitoring and managing the rapid growth of cities, especially in developing countries, highlights the need for appropriate spatio-temporal models to predict urban growth. The parameters affecting the spatio-temporal analysis of urban growth play a key role in the prediction results. This study proposes an urban growth simulation model by integrating local subjective?objective weights and decision risk values (ORness) into a CA?Markov model. This involves the use of ordered weighting averaging as one of the multicriteria decision analysis methods to combine the weights and degree of risk for generating a variety of risk-averse and/or risk-taking urban growth prediction scenarios. The proposed model has been applied to predict the physical growth of Babol city, located in Mazandaran, Iran. The results indicate that the degrees of ORness = 0.3 and ORness = 0.9 yield better prediction results in the case of using the local and global weighting strategies, respectively. Furthermore, the overall accuracy of local and global weighting strategies at different degrees of risk was 87.6 and 86.8, respectively. This implies that the use of local subjective?objective weights leads to more accurate results than the global weights for simulating urban growth.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying and prioritizing factors influencing the selection of the top suppliers of e-procurement using FDEMATEL and FANP
+AU  - Soleimani, Negar
+AU  - Valmohammadi, Changiz
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - https://doi.org/10.1002/mcda.1619
+DO  - https://doi.org/10.1002/mcda.1619
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 286
+EP  - 295
+VL  - 24
+IS  - 5-6
+KW  - electronic procurement
+KW  - fuzzy analytical network process (FANP)
+KW  - fuzzy DEMATEL
+KW  - Iran
+KW  - multicriteria decision making (MCDM)
+KW  - supplier selection
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1619
+UR  - https://doi.org/10.1002/mcda.1619
+Y2  - 2020/11/10
+N2  - Abstract The aim of this study is to identify, rank, and determine the importance of factors influencing the selection of the top supplier of electronic procurement in organizations using a hybrid approach. This is a case study of Irancell Telecommunication Service Company in which fuzzy decision-making trial and evaluation (FDEMATEL) and fuzzy analytical network process (FANP) were used. FDEMATEL was employed to determine the interaction and interrelationships among the identified criteria and subcriteria, while utilizing FANP to calculate the weights of the criteria and their relevant subcriteria to determine their priorities. Therefore, the research literature was first reviewed to identify the factors influencing the selection of suppliers. For this purpose, the experts on communication networks were interviewed to select 16 final factors as the most important subcriteria that were then categorized as 5 groups (technology, environmental, services, organizational, and commercial) on which the study was based. After extracting the criteria for ranking the suppliers, codifying evaluation questionnaire, and converting the opinions in the Likert scale, 16 criteria were finally chosen with scores above the mean. FDEMATEL was used to determine the weights of subcriteria. In the final step, FANP was employed for prioritization. Results indicate that the organizational criterion is the most influential factor; however, the criterion services is the most permeable factor. The greatest weights were obtained from production capacity and provisions and geographical situation which were weighted 0.097 and 0.039, respectively. They are also regarded as the most and least important criteria for the selection of the top supplier of e-procurement by the experts.
+ER  - 
+
+TY  - JOUR
+T1  - The interval-valued hesitant Pythagorean fuzzy set and its applications with extended TOPSIS and Choquet integral-based method
+AU  - Wang, Lina
+AU  - Wang, Hai
+AU  - Xu, Zeshui
+AU  - Ren, Zhiliang
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1002/int.22086
+DO  - https://doi.org/10.1002/int.22086
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 1063
+EP  - 1085
+VL  - 34
+IS  - 6
+KW  - Choquet integral-based method
+KW  - interval-valued hesitant Pythagorean fuzzy set (IVHPFS)
+KW  - multiple-criteria decision making (MCDM)
+KW  - technique for order preference by similarity to ideal solution (TOPSIS)
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.22086
+UR  - https://doi.org/10.1002/int.22086
+Y2  - 2020/11/10
+N2  - Abstract The hesitant Pythagorean fuzzy set is frequently considered as a solution for decision making under uncertainty. Whereas the representation of uncertain information might be not sufficient in the hesitant Pythagorean fuzzy environment, thus the concept of interval-valued hesitant Pythagorean fuzzy sets (IVHPFSs) is proposed. Specifically, we first propose the concept of IVHPFSs and then study the operational rules and distance measures of IVHPFSs in detail. To ease the possible application, we explore two decision-making processes in the setting of IVHPFSs by drawing support from the technique for order preference by similarity to ideal solution and Choquet integral-based method. Finally, the selecting processes of project private partner are also presented to demonstrate the decision-making processes based on IVHPFSs and compared with some similar techniques.
+ER  - 

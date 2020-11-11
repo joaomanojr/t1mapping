@@ -1,0 +1,1541 @@
+
+TY  - JOUR
+T1  - Implementing Big Data Analytics in Small Firms: A Situated Human Practice Approach
+AU  - Gurău, Călin
+AU  - Ranchhod, Ashok
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1002/cjas.1529
+DO  - https://doi.org/10.1002/cjas.1529
+T2  - Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration
+JF  - Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration
+JO  - Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration
+JA  - Can J Adm Sci
+SP  - 111
+EP  - 121
+VL  - 37
+IS  - 2
+KW  - big data analytics
+KW  - transport logistics
+KW  - small firm
+KW  - practice theory
+KW  - longitudinal case study
+KW  - effectuation theory
+KW  - analyse des mégadonnées
+KW  - logistique et transport
+KW  - petite entreprise
+KW  - théorie de la pratique
+KW  - étude de cas longitudinal
+KW  - théorie de l'effectuation
+PB  - John Wiley & Sons, Ltd
+SN  - 0825-0383
+M3  - https://doi.org/10.1002/cjas.1529
+UR  - https://doi.org/10.1002/cjas.1529
+Y2  - 2020/11/10
+N2  - Abstract This study identifies and addresses an important gap in the nascent literature on big data analytics, using a longitudinal case study to investigate the implementation and application of big data analytics into a small firm specialized in transport logistics. Our research is rooted in Practice Theory, considering the implementation of new technologies in organizations as a result of multiple social negotiations, interpretations, and interactions. Our findings indicate the importance and centrality of human factors in decision-making and operational implementation, technology representing only a means to a clearly specified and collectively assumed objective. Big data analytics adoption and use in the case-study firm represents a gradual process, with each stage justified by the need to solve the problems caused by heavy and unpredictable road traffic. This approach validates the entrepreneurial effectuation model, which defines a firm's strategy as a fragmented but continuous effort to find and implement effective solutions to the market challenges encountered.
+ER  - 
+
+TY  - JOUR
+T1  - “Big Data” Analysis: Putting the Data Cart Before the Modelling Horse?
+AU  - Barr, Graham D.
+AU  - Stewart, Theodor J.
+AU  - Kantor, Brian S.
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - https://doi.org/10.1111/jacf.12298
+DO  - https://doi.org/10.1111/jacf.12298
+T2  - Journal of Applied Corporate Finance
+JF  - Journal of Applied Corporate Finance
+JO  - Journal of Applied Corporate Finance
+JA  - Journal of Applied Corporate Finance
+SP  - 40
+EP  - 44
+VL  - 30
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 1078-1196
+M3  - https://doi.org/10.1111/jacf.12298
+UR  - https://doi.org/10.1111/jacf.12298
+Y2  - 2020/11/10
+N2  - The statistical analysis of very large data sets, so-called Big Data or Data Analytics, has become enormously popular in Statistical Analysis and Operations Research. In some cases, such as research into the buying habits of online consumers, the results have come quickly and been very significant. Analysis of other data sets, however, is questionable. For example, time-series based statistical analysis, often under the descriptive envelope of ?neural networks? and ?data mining,? of stock market and futures prices, sometimes in combination with historical accounting figures such as earnings and cash flows. The appeal is understandable given the availability of share price data and cheap computer processing power. Nevertheless, the notion that historical data form some sort of repeatable pattern over time, and that complex time series or neural network techniques can be then be used to forecast future prices is hard to justify. Economic modeling necessarily needs to factor in human behavior, unlike modeling in the pure sciences. The authors cite Lancaster University Professor Michael Pidd who summarizes six relevant principles: Model simple, think complicated Be parsimonious, start small and add Divide and conquer, avoid mega models Use metaphors, analogies and similarities Do not fall in love with data Model building may feel like muddling through. Economic modeling must recognize three key components: (i) the incorporation of human cognitive understanding and experience of the underlying systems, (ii) the use of data to validate emerging models, and (iii) the role of mathematics to ensure internal coherence and logic. Decision-makers ought to be very skeptical of models which skimp on any one of these three components. The authors emphasize that, rather than Big Data adding value, per se, people add value by creating models that use it.
+ER  - 
+
+TY  - JOUR
+T1  - Decision Support System and Multi-Criteria Decision Aid: A State of the Art and Perspectives
+AU  - Razmak, Jamil
+AU  - Aouni, Belaid
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - https://doi.org/10.1002/mcda.1530
+DO  - https://doi.org/10.1002/mcda.1530
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 101
+EP  - 117
+VL  - 22
+IS  - 1-2
+KW  - Decision Support System
+KW  - Multi-Criteria Decision Aid
+KW  - Multi-Objective Programming
+KW  - Typology
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1530
+UR  - https://doi.org/10.1002/mcda.1530
+Y2  - 2020/11/10
+N2  - Abstract The aim of this paper is to highlight the role of the Decision Support System within the field of multi-criteria decision aid (MCDA). The MCDA tools have been incorporated into systems to create Multi-Criteria Decision Support Systems (MCDSSs). In our literature review, we noticed that more than 100 papers have been written over a 20-year period in which MCDSS was used as a decision-making tool. The present paper describes some real applications of MCDSS in different fields, harmoniously combined with decision-making methods such as analytic hierarchy process, Utility Additive, and Goal Programming. The present study proposes an integrative MCDSS evaluation through guidance on the tools most useful for a specific user with a particular decision problem. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Big Data and the Precision Medicine Revolution
+AU  - Hopp, Wallace J.
+AU  - Li, Jun
+AU  - Wang, Guihua
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - https://doi.org/10.1111/poms.12891
+DO  - https://doi.org/10.1111/poms.12891
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+JO  - Production and Operations Management
+JA  - Prod Oper Manag
+SP  - 1647
+EP  - 1664
+VL  - 27
+IS  - 9
+KW  - big data
+KW  - precision medicine
+KW  - observational data
+KW  - machine learning
+KW  - causal inference
+PB  - John Wiley & Sons, Ltd
+SN  - 1059-1478
+M3  - https://doi.org/10.1111/poms.12891
+UR  - https://doi.org/10.1111/poms.12891
+Y2  - 2020/11/10
+N2  - The big data revolution is making vast amounts of information available in all sectors of the economy including health care. One important type of data that is particularly relevant to medicine is observational data from actual practice. In comparison to experimental data from clinical studies, observational data offers much larger sample sizes and much broader coverage of patient variables. Properly combining observational data with experimental data can facilitate precision medicine by enabling detection of heterogeneity in patient responses to treatments and tailoring of health care to the specific needs of individuals. However, because it is high-dimensional and uncontrolled, observational data presents unique methodological challenges. The modeling and analysis tools of the production and operations management field are well-suited to these challenges and hence POM scholars are critical to the realization of precision medicine with its many benefits to society.
+ER  - 
+
+TY  - JOUR
+T1  - Data analytics in wireless systems and IoT issues and challenges
+AU  - Krishna, P. Venkata
+AU  - Yenduri, Sumanth
+AU  - Ariwa, Ezendu
+Y1  - 2020/09/10
+PY  - 2020
+DA  - 2020/09/10
+N1  - https://doi.org/10.1002/dac.4522
+DO  - https://doi.org/10.1002/dac.4522
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e4522
+VL  - 33
+IS  - 13
+KW  - Data Analytics
+KW  - IoT
+KW  - Wireless systems
+KW  - Performance Analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.4522
+UR  - https://doi.org/10.1002/dac.4522
+Y2  - 2020/11/10
+N2  - Summary The emergence of data engineering along with the support of Online Social Networks is growing by millions every day due to the introduction of wireless systems and Internet of Things. The rapid growth of usage of smart devices helps to create new generation knowledge sharing platforms. Data Analytics has a major role to play in the growth and success of wireless and IoT applications. The growth of data has become exponential and is difficult to analyze. Many researchers depend on the data available on Wireless Systems and IoT for developing new generation services and applications. With the opportunity of information and communication technologies like heterogeneous networking, cloud computing, web services, crowd sensing and data mining, ubiquitous and asynchronous information sharing is feasible. But this also brings out a lot of provocations with respect to conflicting standards, data portability, data aggregation, data distribution, differential context and communication overhead. The smart information and communication technology has changed many features of human lifestyle: personal and work places.
+ER  - 
+
+TY  - JOUR
+T1  - How Sustainable Is Big Data?
+AU  - Corbett, Charles J.
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - https://doi.org/10.1111/poms.12837
+DO  - https://doi.org/10.1111/poms.12837
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+JO  - Production and Operations Management
+JA  - Prod Oper Manag
+SP  - 1685
+EP  - 1695
+VL  - 27
+IS  - 9
+KW  - big data
+KW  - sustainability
+KW  - energy
+KW  - operations
+KW  - life-cycle assessment
+PB  - John Wiley & Sons, Ltd
+SN  - 1059-1478
+M3  - https://doi.org/10.1111/poms.12837
+UR  - https://doi.org/10.1111/poms.12837
+Y2  - 2020/11/10
+N2  - The rapid growth of ?big data? provides tremendous opportunities for making better decisions, where ?better? can be defined using any combination of economic, environmental, or social metrics. This essay provides a few examples of how the use of big data can precipitate more sustainable decision-making. However, as with any technology, the use of big data on a large scale will have some undesirable consequences. Some of these are foreseeable, while others are entirely unpredictable. This essay highlights some of the sustainability-related challenges posed by the use of big data. It does not intend to suggest that the advent of big data is an undesirable development. However, it is not too early to start asking what the unwanted repercussions of the big data revolution might be.
+ER  - 
+
+TY  - JOUR
+T1  - Benefit-Risk Assessment of Statins (Lipid Lowering Agents): A Multi-Criteria Decision Analysis
+AU  - Wanishayakorn, Tanatape
+AU  - Ngorsuraches, Surachat
+Y1  - 2016/01/04
+PY  - 2016
+DA  - 2016/01/04
+N1  - https://doi.org/10.1002/mcda.1554
+DO  - https://doi.org/10.1002/mcda.1554
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 28
+EP  - 39
+VL  - 23
+IS  - 1-2
+KW  - multi-criteria decision analysis
+KW  - statins
+KW  - multi-stakeholders
+KW  - patients
+KW  - experts
+KW  - policymakers
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1554
+UR  - https://doi.org/10.1002/mcda.1554
+Y2  - 2020/11/10
+N2  - Abstract Background Benefit-risk assessment (BRA) concept has been increasingly used in drug evaluation, and multi-criteria decision analysis (MCDA) is one of the recommended BRA tools. The objective of this study was to assess benefits and risks of statins (lipid lowering agents) by MCDA, based on patient's, clinical expert's and policymaker's perspectives. Methods Benefit and risk criteria and levels of statins were identified from literatures and interviews of stakeholders. SWING weight technique, which asked stakeholders to choose the most preferred criterion if they change its level from minimum to maximum, was used to measure the weight of each criterion. There were six patients, six clinical experts and 10 policymaker groups. Each group had four members and was asked to discuss and make consensus for giving their importance scores to four benefit and risk criteria (stroke event reduction, myocardial infarction event reduction, myalgia and hepatotoxicity). The collected scores were used to calculate the criteria weights. The criterion weights were multiplied by each statin's criterion scores to calculate the total weighted score of each statin. Total weighted scores were used to rank the order of statins, which reflected the preference order of statins in each perspective. Results From four perspectives (patients, experts, policymakers and overall), the most and least important criteria were myocardial infarction reduction and myalgia, respectively. Patients and experts agreed on the order of importance for stroke reduction and hepatotoxicity, but policymakers had a different order. From expert, policymaker and overall perspectives, atorvastatin had the highest total weighted score, followed by simvastatin, fluvastatin, lovastatin, pravastatin and rosuvastatin. However, patient group agreed only with the orders of atorvastatin, fluvastatin, pravastatin and rosuvastatin. Conclusions Atorvastatin was the most preferred statin across all perspectives. This study presented the feasibility of applying MCDA in drug evaluation process and encouraged the engagement of multi-stakeholders in decision-making process. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating the quality of airport service using the fuzzy multi-criteria decision-making method: a case study of Taiwanese airports
+AU  - Chien-Chang, Chou
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
+DO  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 246
+EP  - 260
+VL  - 29
+IS  - 3
+KW  - expert system
+KW  - fuzzy set
+KW  - MCDM
+KW  - airport
+KW  - service quality
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
+UR  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
+Y2  - 2020/11/10
+N2  - Abstract In today's highly competitive air transportation environment, the quality of airport service is an important issue. In this paper, we present a fuzzy multi-criteria decision-making (MCDM) method for the evaluation of the quality of airport service. The data are collected from the passengers who depart from two international airports in Taiwan. The fuzzy MCDM model is defuzzied using the inverse function arithmetic representation method. The results show that the average quality of the Taoyuan International Airport service is better than that of the Kaohsiung International Airport service. This paper also analyses the quality of airport service using the fuzzy expert system to improve the performance of airport service. The analysis results show that the Kaohsiung International Airport and the Taoyuan International Airports' improvement efforts should be concentrated on seven and five specific service items, respectively. The findings of this paper are to help the decision-makers and the managers of airports improve the quality of airport service.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-criteria decision-making approach for geometric matching of areal objects
+AU  - Kim, Jiyoung
+AU  - Yu, Kiyun
+AU  - Bang, Yoonsik
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - https://doi.org/10.1111/tgis.12307
+DO  - https://doi.org/10.1111/tgis.12307
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 269
+EP  - 287
+VL  - 22
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12307
+UR  - https://doi.org/10.1111/tgis.12307
+Y2  - 2020/11/10
+N2  - Abstract We propose a method for geometric areal object matching based on multi-criteria decision making. To enable this method, we focused on determining the matched areal object pairs that have all relations, one-to-one relationships to many-to-many relationships, in different spatial data sets by fusing geometric criteria without user invention. First, we identified candidate corresponding areal object pairs with a graph-based approach in training data. Second, three matching criteria (areal hausdorff distance, intersection ratio, and turning function distance) were calculated in candidate corresponding pairs and these criteria were normalized. Third, the shape similarity was calculated by weighted linear combination using the normalized matching criteria (similarities) with the criteria importance through intercriteria correlation method. Fourth, a threshold (0.738) of the shape similarity estimated in the plot of precision versus recall versus all possible thresholds of training data was applied, and the matched pairs were determined and identified. Finally, we visually validated the detection of similar areal feature pairs and conducted statistical evaluation using precision, recall, and F-measure values from a confusion matrix. Their values were 0.905, 0.848, and 0.876, respectively. These results validate that the proposed classifier, which detects 87.6% of matched areal pairs, is highly accurate.
+ER  - 
+
+TY  - JOUR
+T1  - The Expert Perspective in Treatment of Functional Gastrointestinal Conditions: A Multi-Criteria Decision Analysis Using AHP and BWS
+AU  - Mühlbacher, Axel C.
+AU  - Kaczynski, Anika
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - https://doi.org/10.1002/mcda.1562
+DO  - https://doi.org/10.1002/mcda.1562
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 112
+EP  - 125
+VL  - 23
+IS  - 3-4
+KW  - analytic hierarchy process (AHP)
+KW  - best–worst scaling (BWS)
+KW  - multi criteria decision making
+KW  - experts priorities
+KW  - gastrointestinal disorders
+KW  - item-response system
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1562
+UR  - https://doi.org/10.1002/mcda.1562
+Y2  - 2020/11/10
+N2  - Abstract Objectives The aim of this study was to identify and weight the expert's relevant decision criteria with regard to drug treatment of functional dyspepsia and motility disorders. Attributes such as onset of action, reduction of symptoms and side effects were to be examined in order to test their relevance to healthcare decision makers. Moreover, the objective was to verify the extent to which the analytic hierarchy process (AHP) and best?worst scaling (BWS) are suitable for use in context of an expert panel. Method In order to identify patient-relevant therapy characteristics, a literature search and qualitative interviews were conducted. On this basis, a questionnaire was developed using multi-criteria decision analysis. By means of the AHP and BWS, the study elicited the experts' priorities as regards the various aspects of treatments and gastrointestinal symptoms. The data collection from experts in gastroenterology was performed in real time within a group discussion using an item-response system. Results As a result of the interviews, seven characteristics and 10 symptoms were established. A total of N?=?20 experts took part in the survey. The following criteria were shown to be the most relevant in the AHP: ?reduction of abdominal cramps? (w: 0.302), ?reduction of epigastric pain? (w: 0.250) and ?time to onset of action? (w: 0.117). In the BWS, it was shown that the gastrointestinal symptoms ?vomiting? (sqrt(b/w): 0.118), ?abdominal cramps? (sqrt(b/w): 0.157) and ?epigastric pain? (sqrt(b/w): 0.356) were the most significant. Discussion The methods represent a suitable and scientifically transparent approach for the elicitation of experts' priorities. Using AHP, it was possible to ascertain the most important aspects of drug treatment and to correlate positive and negative characteristics. The BWS showed which gastrointestinal symptoms had the least and most pronounced negative impact on patient well-being from expert perspective. The item-response system served as a valuable instrument to collect data based on a group discussion. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Harvesting European knowledge on soil functions and land management using multi-criteria decision analysis
+AU  - Bampa, Francesca
+AU  - O'Sullivan, Lilian
+AU  - Madena, Kirsten
+AU  - Sandén, Taru
+AU  - Spiegel, Heide
+AU  - Henriksen, Christian Bugge
+AU  - Ghaley, Bhim Bahadur
+AU  - Jones, Arwyn
+AU  - Staes, Jan
+AU  - Sturel, Sylvain
+AU  - Trajanov, Aneta
+AU  - Creamer, Rachel E.
+AU  - Debeljak, Marko
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - https://doi.org/10.1111/sum.12506
+DO  - https://doi.org/10.1111/sum.12506
+T2  - Soil Use and Management
+JF  - Soil Use and Management
+JO  - Soil Use and Management
+JA  - Soil Use Manage
+SP  - 6
+EP  - 20
+VL  - 35
+IS  - 1
+KW  - DEX model
+KW  - farmers and multi-stakeholders
+KW  - locally relevant advice
+KW  - participatory research
+KW  - soil quality
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-0032
+M3  - https://doi.org/10.1111/sum.12506
+UR  - https://doi.org/10.1111/sum.12506
+Y2  - 2020/11/10
+N2  - Abstract Soil and its ecosystem functions play a societal role in securing sustainable food production while safeguarding natural resources. A functional land management framework has been proposed to optimize the agro-environmental outputs from the land and specifically the supply and demand of soil functions such as (a) primary productivity, (b) carbon sequestration, (c) water purification and regulation, (d) biodiversity and (e) nutrient cycling, for which soil knowledge is essential. From the outset, the LANDMARK multi-actor research project integrates harvested knowledge from local, national and European stakeholders to develop such guidelines, creating a sense of ownership, trust and reciprocity of the outcomes. About 470 stakeholders from five European countries participated in 32 structured workshops covering multiple land uses in six climatic zones. The harmonized results include stakeholders? priorities and concerns, perceptions on soil quality and functions, implementation of tools, management techniques, indicators and monitoring, activities and policies, knowledge gaps and ideas. Multi-criteria decision analysis was used for data analysis. Two qualitative models were developed using Decision EXpert methodology to evaluate ?knowledge? and ?needs?. Soil quality perceptions differed across workshops, depending on the stakeholder level and regionally established terminologies. Stakeholders had good inherent knowledge about soil functioning, but several gaps were identified. In terms of critical requirements, stakeholders defined high technical, activity and policy needs in (a) financial incentives, (b) credible information on improving more sustainable management practices, (c) locally relevant advice, (d) farmers? discussion groups, (e) training programmes, (f) funding for applied research and monitoring, and (g) strengthening soil science in education.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting Efficiency in Angolan Banks: A Two-Stage TOPSIS and Neural Networks Approach
+AU  - Wanke, Peter
+AU  - Barros, Carlos
+AU  - Macanda, Nkanga Pedro João
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - https://doi.org/10.1111/saje.12103
+DO  - https://doi.org/10.1111/saje.12103
+T2  - South African Journal of Economics
+JF  - South African Journal of Economics
+JO  - South African Journal of Economics
+JA  - S Afr J Econ
+SP  - 461
+EP  - 483
+VL  - 84
+IS  - 3
+KW  - D24
+KW  - D2
+KW  - G21
+KW  - G2
+KW  - Banks
+KW  - Angola
+KW  - TOPSIS
+KW  - two-stage
+KW  - neural networks
+KW  - efficiency ranks
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-2280
+M3  - https://doi.org/10.1111/saje.12103
+UR  - https://doi.org/10.1111/saje.12103
+Y2  - 2020/11/10
+N2  - Abstract This paper presents an efficiency assessment of the Angolan banks using Technique for Order Preference by Similarity to the Ideal Solution (TOPSIS). TOPSIS is a multi-criteria decision-making technique similar to data envelopment analysis, which ranks a finite set of units based on the minimisation of distance from an ideal point and the maximisation of distance from an anti-ideal point. In this research, TOPSIS is used first in a two-stage approach to assess the relative efficiency of Angolan banks using the most frequent indicators adopted by the literature. Then, in the second stage, neural networks are combined with TOPSIS results as part of an attempt to produce a model for banking performance with effective predictive ability. The results reveal that variables related to cost structure have a prominent negative impact on efficiency. Findings also indicate that the Angolan banking market would benefit from higher level of competition between institutions.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of aerobic/anaerobic industrial wastewater treatment processes: The application of multi-criteria decision analysis
+AU  - Saghafi, Sahar
+AU  - Ebrahimi, Atieh
+AU  - Mehrdadi, Naser
+AU  - Bidhendy, Gholamreza Nabi
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/ep.13166
+DO  - https://doi.org/10.1002/ep.13166
+T2  - Environmental Progress & Sustainable Energy
+JF  - Environmental Progress & Sustainable Energy
+JO  - Environmental Progress & Sustainable Energy
+JA  - Environ. Prog. Sustainable Energy
+SP  - 13166
+VL  - 38
+IS  - 5
+KW  - industrial wastewater
+KW  - multi-criteria decision-making
+KW  - hybrid biological process
+KW  - intergraded fixed-film activated sludge
+KW  - Vikor method
+PB  - John Wiley & Sons, Ltd
+SN  - 1944-7442
+M3  - https://doi.org/10.1002/ep.13166
+UR  - https://doi.org/10.1002/ep.13166
+Y2  - 2020/11/10
+N2  - Various technological methods are available for industrial wastewater treatment; from conventional to advanced treatment processes. Hence, it is a difficult task to select the most appropriate technology to treat industrial wastewater at a particular location. Many factors are involved in the decision-making process, including capital, operation, and maintenance costs, as well as land requirement. The present work reports the results of the application of multiple-attribute decision-making (MADM) tool to industrial wastewater treatment plants operated under a hybrid aerobic/anaerobic biological process. At the first step, nine industrial wastewater treatment plants were evaluated and ranked by eight criteria using the Vikor method. Among the selected criteria, land requirements, energy consumption, and excess sludge production had the most pronounced effect on the decision-making process. The results also indicated that the integration of upflow anaerobic fixed bed with intergraded fixed-film activated sludge process could be used as the most appropriate treatment technology with a Vikor index of one. The result can provide wastewater treatment professionals and water agencies with an effective tool to choose the most appropriate hybrid process for industrial wastewater treatment plants. ? 2019 American Institute of Chemical Engineers Environ Prog, 38:e13146, 2019
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating and ranking the Indian private sector banks—A multi-criteria decision-making approach
+AU  - Sama, Hanumantha Rao
+AU  - Kosuri, Sri Venkateswara Kumar
+AU  - Kalvakolanu, Sripathi
+Y1  - 2020/09/14
+PY  - 2020
+DA  - 2020/09/14
+N1  - https://doi.org/10.1002/pa.2419
+DO  - https://doi.org/10.1002/pa.2419
+T2  - Journal of Public Affairs
+JF  - Journal of Public Affairs
+JO  - Journal of Public Affairs
+JA  - J Public Affairs
+SP  - e2419
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 1472-3891
+M3  - https://doi.org/10.1002/pa.2419
+UR  - https://doi.org/10.1002/pa.2419
+Y2  - 2020/11/10
+N2  - The paper examines the performance of Indian private sector banks based on various combinations of multi-criteria decision-making techniques. Annual reports of the respective banks were used to capture the data and measure the performance by considering multiple inputs and outputs. The data are analyzed through notable multiple criteria decision-making (MCDM) techniques, CRITIC, TOPSIS, and grey relational analysis (GRA). The study reveals that HDFC is the best performing bank among other private sector banks and creates a benchmark. Applying the combination of MCDM techniques, namely CRITIC-TOPSIS and CRITIC-GRA, HDFC is ranked first followed by Bandhan Bank as the second. Other banks are ranked differently due to methodological differences. After obtaining the ranks by CRITIC-TOPSIS and CRITIC-GRA, the ranks are tested using the Wilcoxon signed-rank test. Only private sector banks are considered for the current study. Future studies on the performance of banks can be taken up by comparing different types of banks, targeting an extension of the time frame studied. The findings suggest that the private sector banks need to increase their performance by investing in income-generating areas. Improving the performance will help them in surviving in the market as well as competing with the top public sector and foreign banks. The findings can also be useful to various stakeholders and, in particular, to investors to know the value of the banks for future investments. For the first time, researchers have used a combination of MCDM techniques such as CRITIC-TOPSIS and CRITIC-GRA. Selected inputs and outputs have been studied for the private sector banks using MCDM techniques to measure the performance.
+ER  - 
+
+TY  - JOUR
+T1  - Selecting optimal mixtures of natural sweeteners for carbonated soft drinks through multi-objective decision modeling and sensory validation
+AU  - Acevedo, Waldo
+AU  - Capitaine, Chloé
+AU  - Rodríguez, Ricardo
+AU  - Araya-Durán, Ingrid
+AU  - González-Nilo, Fernando
+AU  - Pérez-Correa, José R.
+AU  - Agosin, Eduardo
+Y1  - 2018/12/01
+PY  - 2018
+DA  - 2018/12/01
+N1  - https://doi.org/10.1111/joss.12466
+DO  - https://doi.org/10.1111/joss.12466
+T2  - Journal of Sensory Studies
+JF  - Journal of Sensory Studies
+JO  - Journal of Sensory Studies
+JA  - J Sens Stud
+SP  - e12466
+VL  - 33
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0887-8250
+M3  - https://doi.org/10.1111/joss.12466
+UR  - https://doi.org/10.1111/joss.12466
+Y2  - 2020/11/10
+N2  - Abstract The objective of this study was to develop a methodology to optimize mixtures of natural, noncaloric sweeteners?with the highest sweetness and the lowest bitterness?for carbonated soft drinks. To this end, and with the aid of a trained sensory panel, we first determined the most suitable mixtures of tagatose, sucrose, and stevia in a soft drink matrix, using a three-component simplex lattice mixture design. Then, we developed a multi-objective thermodynamically-based decision model to this purpose. Results indicate that both, sucrose and tagatose, were able to reduce stevia's bitterness. However, an increase of bitterness intensity was found above 0.23?g/L of stevia (sucrose equivalency or SE?>5). Both, sensory analysis and multi-objective decision modeling identified similar optimal mixtures, corresponding to 23?39?g/L sucrose, 0.19?0.34?g/L stevia, and 34?42?g/L tagatose, depending on the desired sweetness/bitterness balance. Within this constrained area, a reduction of almost 60% of sucrose can be achieved in both approaches, keeping bitterness intensity low. Practical applications Current demand of low-calorie beverages has significantly raised as a result of consumer concerns on the negative effects of refined sugars present in carbonated soft drinks. Consequently, natural sweeteners, and their mixtures, are being increasingly used for these product developments. This study provides a methodology to optimize mixtures of natural, noncaloric sweeteners for preparing carbonated soft drinks with the lowest possible caloric content, while maintaining the tastiness?high sweetness and low bitterness?of full caloric ones, containing the bulk sweetener tagatose and the high-intensity sweetener stevia.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria decision analysis for flood risk on the Chenab River
+AU  - Hassan, Sher Shah
+AU  - Ajmal, Muhammad
+AU  - Khan, Aftab Ahmad
+AU  - Goheer, Muhammad Arif
+AU  - Khattak, Muhammad Shahzad
+AU  - Ali, Shaukat
+AU  - Ijaz, Muhammad
+AU  - Adnan, Muhammad
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - https://doi.org/10.1002/wea.3490
+DO  - https://doi.org/10.1002/wea.3490
+T2  - Weather
+JF  - Weather
+JO  - Weather
+JA  - Weather
+SP  - S65
+EP  - S75
+VL  - 74
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 0043-1656
+M3  - https://doi.org/10.1002/wea.3490
+UR  - https://doi.org/10.1002/wea.3490
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - The barriers to big data adoption in developing economies
+AU  - Alalawneh, Ammar A. F.
+AU  - Alkhatib, Saleh F.
+Y1  - 2020/07/29
+PY  - 2020
+DA  - 2020/07/29
+N1  - https://doi.org/10.1002/isd2.12151
+DO  - https://doi.org/10.1002/isd2.12151
+T2  - The Electronic Journal of Information Systems in Developing Countries
+JF  - The Electronic Journal of Information Systems in Developing Countries
+JO  - The Electronic Journal of Information Systems in Developing Countries
+JA  - Electron j inf syst dev ctries
+SP  - e12151
+VL  - n/a
+IS  - n/a
+KW  - AHP-TOPSIS
+KW  - big data adoption barriers
+KW  - developing economies' sectors
+KW  - sectors' readiness for BDA
+KW  - supply chain management
+PB  - John Wiley & Sons, Ltd
+SN  - 1681-4835
+M3  - https://doi.org/10.1002/isd2.12151
+UR  - https://doi.org/10.1002/isd2.12151
+Y2  - 2020/11/10
+N2  - Abstract Big data adoption (BDA) and its barriers, opportunities, and expected benefits are increasingly attracting researchers' and practitioners' attention. For developing economies, BDA has special importance; however, they have struggled to identify the barriers hindering it. This study aims to identify the barriers to BDA in developing economies and their relative importance across sectors to identify sectors' readiness for BDA. Based on a review of the BDA literature, semi-structured interviews with big data (BD) experts, and a questionnaire-based survey, five barrier sets, and 19 sub-barriers were identified. Thereafter, barrier sets for each sector were identified, analyzed, discussed, and compared. Analytic hierarchy process (AHP) was used to identify the relative importance of these barriers across sectors, while the technique for order of preference by similarity to ideal solution (TOPSIS) was used to rank sectors according to their readiness for BDA. This study positions itself as a reference for scholars and practitioners interested in BDA in developing economies.
+ER  - 
+
+TY  - JOUR
+T1  - Finding near-perfect parameters for hardware and code optimizations with automatic multi-objective design space explorations
+AU  - Jahr, Ralf
+AU  - Calborean, Horia
+AU  - Vintan, Lucian
+AU  - Ungerer, Theo
+Y1  - 2015/06/25
+PY  - 2015
+DA  - 2015/06/25
+N1  - https://doi.org/10.1002/cpe.2975
+DO  - https://doi.org/10.1002/cpe.2975
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat.: Pract. Exper.
+SP  - 2196
+EP  - 2214
+VL  - 27
+IS  - 9
+KW  - automatic design space exploration
+KW  - multi-objective optimization
+KW  - hardware complexity estimation
+KW  - code optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.2975
+UR  - https://doi.org/10.1002/cpe.2975
+Y2  - 2020/11/10
+N2  - SummaryIn the design process of computer systems or processor architectures, typically many different parameters are exposed to configure, tune, and optimize every component of a system. For evaluations and before production, it is desirable to know the best setting for all parameters. Processing speed is no longer the only objective that needs to be optimized; power consumption, area, and so on have become very important. Thus, the best configurations have to be found in respect to multiple objectives. In this article, we use a multi-objective design space exploration tool called Framework for Automatic Design Space Exploration (FADSE) to automatically find near-optimal configurations in the vast design space of a processor architecture together with a tool for code optimizations and hence evaluate both automatically. As example, we use the Grid ALU Processor (GAP) and its postlink optimizer called GAPtimize, which can apply feedback-directed and platform-specific code optimizations. Our results show that FADSE is able to cope with both design spaces. Less than 25% of the maximal reasonable hardware effort for the scalable elements of the GAP is enough to achieve the processor's performance maximum. With a performance reduction tolerance of 10%, the necessary hardware complexity can be further reduced by about two-thirds. The found high-quality configurations are analyzed, exhibiting strong relationships between the parameters of the GAP, the distribution of complexity, and the total performance. These performance numbers can be improved by applying code optimizations concurrently to optimizing the hardware parameters. FADSE can find near-optimal configurations by effectively combining and selecting parameters for hardware and code optimizations in a short time. The maximum observed speedup is 15%. With the use of code optimizations, the maximum possible reduction of the hardware resources, while sustaining the same performance level, is 50%.Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - SU-E-J-04: A Data-Driven, Response-Based, Multi-Criteria Decision Support System for Personalized Lung Radiation Treatment Planning
+AU  - Luo, Y
+AU  - McShan, D
+AU  - Schipper, M
+AU  - Matuszak, M
+AU  - Kong, F
+AU  - Ten Haken, R
+Y1  - 2014/06/01
+PY  - 2014
+DA  - 2014/06/01
+N1  - https://doi.org/10.1118/1.4888055
+DO  - https://doi.org/10.1118/1.4888055
+T2  - Medical Physics
+JF  - Medical Physics
+JO  - Medical Physics
+JA  - Med. Phys.
+SP  - 155
+EP  - 155
+VL  - 41
+IS  - 6Part6
+KW  - Radiation treatment
+KW  - Dosimetry
+KW  - Cancer
+KW  - Lungs
+KW  - Data mining
+KW  - Information integration
+KW  - Data analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 0094-2405
+M3  - https://doi.org/10.1118/1.4888055
+UR  - https://doi.org/10.1118/1.4888055
+Y2  - 2020/11/10
+N2  - Purpose: To develop a decision support tool to predict a patient's potential overall survival (OS) and radiation induced toxicity (RIT) based on clinical factors and responses during the course of radiotherapy, and suggest appropriate radiation dose adjustments to improve therapeutic effect. Methods: Important relationships between a patient's basic information and their clinical features before and during the radiation treatment are identified from historical clinical data by using statistical learning and data mining approaches. During each treatment period, a data analysis (DA) module predicts radiotherapy features such as time to local progression (TTLP), time to distant metastases (TTDM), radiation toxicity to different organs, etc., under possible future treatment plans based on patient specifics or responses. An information fusion (IF) module estimates intervals for a patient's OS and the probabilities of RIT from a treatment plan by integrating the outcomes of module DA. A decision making (DM) module calculates ?satisfaction? with the predicted radiation outcome based on trade-offs between OS and RIT, and finds the best treatment plan for the next time period via multi-criteria optimization. Results: Using physical and biological data from 130 lung cancer patients as our test bed, we were able to train and implement the 3 modules of our decision support tool. Examples demonstrate how it can help predict a new patient's potential OS and RIT with different radiation dose plans along with how these combinations change with dose, thus presenting a range of satisfaction/utility for use in individualized decision support. Conclusion: Although the decision support tool is currently developed from a small patient sample size, it shows the potential for the improvement of each patient's satisfaction in personalized radiation therapy. The radiation treatment outcome prediction and decision making model needs to be evaluated with more patients and demonstrated for use in radiation treatments for other cancers. P01-CA59827;R01CA142840
+ER  - 
+
+TY  - JOUR
+T1  - Architectured Lattice Materials with Tunable Anisotropy: Design and Analysis of the Material Property Space with the Aid of Machine Learning
+AU  - Kulagin, Roman
+AU  - Beygelzimer, Yan
+AU  - Estrin, Yuri
+AU  - Schumilin, Artem
+AU  - Gumbsch, Peter
+Y1  - 2020/10/13
+PY  - 2020
+DA  - 2020/10/13
+N1  - https://doi.org/10.1002/adem.202001069
+DO  - https://doi.org/10.1002/adem.202001069
+T2  - Advanced Engineering Materials
+JF  - Advanced Engineering Materials
+JO  - Advanced Engineering Materials
+JA  - Adv. Eng. Mater.
+SP  - 2001069
+VL  - n/a
+IS  - n/a
+KW  - architectured materials
+KW  - elastic anisotropies
+KW  - lattice materials
+KW  - machine learning
+PB  - John Wiley & Sons, Ltd
+SN  - 1438-1656
+M3  - https://doi.org/10.1002/adem.202001069
+UR  - https://doi.org/10.1002/adem.202001069
+Y2  - 2020/11/10
+N2  - Architectured beam lattice materials whose anisotropy can be tuned by varying the composition of their elementary cell are investigated. As an exemplary prototype of such material architecture, a regular triangular lattice with an elementary cell composed of 12 beams is considered. One out of three possible values of the elastic modulus is assigned to each beam. The structure is fully defined by a vector in the 12D composition-structure space whose components are given by the elastic modulus values of the beams comprising the elementary cell. The elastic properties of this 2D material are represented by the compliance elasticity tensor with six independent compliance coefficients. Aiming at a specific set of properties thus involves finding the point in the 12D composition-structure space that corresponds to a given point in the 6D property space. This is a problem of large dimensionality. To solve it, the neural network approach is used. This enables creation of architectured materials with tunable elastic anisotropy. A chiral element combining large twist with additional anisotropy requirements is presented as an example of successful machine-learning-based optimization of beam lattices proposed.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive Evolutionary Neural Networks for Forecasting and Trading without a Data-Snooping Bias
+AU  - Sermpinis, Georgios
+AU  - Verousis, Thanos
+AU  - Theofilatos, Konstantinos
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - https://doi.org/10.1002/for.2338
+DO  - https://doi.org/10.1002/for.2338
+T2  - Journal of Forecasting
+JF  - Journal of Forecasting
+JO  - Journal of Forecasting
+JA  - J. Forecast.
+SP  - 1
+EP  - 12
+VL  - 35
+IS  - 1
+KW  - artificial intelligence
+KW  - financial forecasting
+KW  - data snooping
+KW  - trading
+PB  - John Wiley & Sons, Ltd
+SN  - 0277-6693
+M3  - https://doi.org/10.1002/for.2338
+UR  - https://doi.org/10.1002/for.2338
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we present two neural-network-based techniques: an adaptive evolutionary multilayer perceptron (aDEMLP) and an adaptive evolutionary wavelet neural network (aDEWNN). The two models are applied to the task of forecasting and trading the SPDR Dow Jones Industrial Average (DIA), the iShares NYSE Composite Index Fund (NYC) and the SPDR S&P 500 (SPY) exchange-traded funds (ETFs). We benchmark their performance against two traditional MLP and WNN architectures, a smooth transition autoregressive model (STAR), a moving average convergence/divergence model (MACD) and a random walk model. We show that the proposed architectures present superior forecasting and trading performance compared to the benchmarks and are free from the limitations of the traditional neural networks such as the data-snooping bias and the time-consuming and biased processes involved in optimizing their parameters. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Approaches to Pythagorean Fuzzy Stochastic Multi-criteria Decision Making Based on Prospect Theory and Regret Theory with New Distance Measure and Score Function
+AU  - Peng, Xindong
+AU  - Dai, Jingguo
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - https://doi.org/10.1002/int.21896
+DO  - https://doi.org/10.1002/int.21896
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1187
+EP  - 1214
+VL  - 32
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21896
+UR  - https://doi.org/10.1002/int.21896
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we initiate a new axiomatic definition of Pythagorean fuzzy distance measure, which is expressed by Pythagorean fuzzy number that will reduce the information loss and remain more original information. Then, the objective weights of various criteria are determined via grey system theory. Combining objective weights with subjective weights, we present the combined weights, which can reflect both the subjective considerations of the decision maker and the objective information. Meanwhile, a novel score function is proposed. Later, we present two algorithms to solve stochastic multicriteria decision making problem, which takes prospect preference and regret aversion of decision makers into consideration in the decision process. Finally, the effectiveness and feasibility of approach is demonstrated by a numerical example.
+ER  - 
+
+TY  - JOUR
+T1  - A GIS-based multi-criteria seismic vulnerability assessment using the integration of granular computing rule extraction and artificial neural networks
+AU  - Sheikhian, Hossein
+AU  - Delavar, Mahmoud Reza
+AU  - Stein, Alfred
+Y1  - 2017/12/01
+PY  - 2017
+DA  - 2017/12/01
+N1  - https://doi.org/10.1111/tgis.12274
+DO  - https://doi.org/10.1111/tgis.12274
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 1237
+EP  - 1259
+VL  - 21
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12274
+UR  - https://doi.org/10.1111/tgis.12274
+Y2  - 2020/11/10
+N2  - Abstract This study proposes multi-criteria group decision-making to address seismic physical vulnerability assessment. Granular computing rule extraction is combined with a feed forward artificial neural network to form a classifier capable of training a neural network on the basis of the rules provided by granular computing. It provides a transparent structure despite the traditional multi-layer neural networks. It also allows the classifier to be applied on a set of rules for each incoming pattern. Drawbacks of original granular computing (GrC) are covered, where some input patterns remained unclassified. The study was applied to classify seismic vulnerability of the statistical units of the city of Tehran, Iran. Slope, seismic intensity, height and age of the buildings were effective parameters. Experts ranked 150 randomly selected sample statistical units with respect to their degree of seismic physical vulnerability. Inconsistency of the experts' judgments was investigated using the induced ordered weighted averaging (IOWA) operator. Fifty-five classification rules were extracted on which a neural network was based. An overall accuracy of 88%, ??=?0.85 and R2?=?0.89 was achieved. A comparison with previously implemented methodologies proved the proposed method to be the most accurate solution to the seismic physical vulnerability of Tehran.
+ER  - 
+
+TY  - JOUR
+T1  - Finite-state model predictive control of NPC inverter using multi-criteria fuzzy decision-making
+AU  - Kumar, Vikas
+AU  - Gaur, Prerna
+AU  - Mittal, Alok Prakash
+Y1  - 2015/05/01
+PY  - 2015
+DA  - 2015/05/01
+N1  - https://doi.org/10.1002/etep.1880
+DO  - https://doi.org/10.1002/etep.1880
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 876
+EP  - 897
+VL  - 25
+IS  - 5
+KW  - neutral point clamped inverter
+KW  - predictive control
+KW  - fuzzy decision functions
+KW  - multi-criteria decision-making and multi-objective optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.1880
+UR  - https://doi.org/10.1002/etep.1880
+Y2  - 2020/11/10
+N2  - Summary In this paper, the multiple objectives optimization problem in a finite-state model predictive control (FS-MPC) is formulated using fuzzy multi-criteria decision-making. Conventionally, to optimize the multiple objectives in a FS-MPC, the aggregate objective function or a single cost function is constructed, which requires the weighting factor tuning to select the appropriate switching state. Determination of these weighting factors for a particular objective function is a complex and time-consuming task as no systematic procedure is available in literature. The main aim of this paper is to replace the time-consuming task of weighting factor tuning by a simple and systematic procedure, which relies on the relative importance of the individual objective functions. The relative importance of objective functions derived from the expert's knowledge and the desired control objectives is used for appropriate switching state selection. The method is validated with the help of simulation results of a neutral point clamped inverter for the multiple objectives viz. reference current tracking, capacitor voltage balance and switching frequency minimization. The result outcomes of the proposed methodology are compared with the conventional FS-MPC and space vector pulse width modulation based current control schemes. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Emerging risks identification on food and feed – EFSA
+AU  - European Food Safety Authority (EFSA)
+AU  - Donohoe, Terry
+AU  - Garnett, Kenisha
+AU  - Lansink, Alfons Oude
+AU  - Afonso, Ana
+AU  - Noteborn, Hubert
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.2903/j.efsa.2018.5359
+DO  - https://doi.org/10.2903/j.efsa.2018.5359
+T2  - EFSA Journal
+JF  - EFSA Journal
+JO  - EFSA Journal
+JA  - EFSA Journal
+SP  - e05359
+VL  - 16
+IS  - 7
+KW  - emerging risks
+KW  - food systems
+KW  - horizon scanning
+KW  - big data
+KW  - drivers of change
+KW  - prioritisation
+KW  - risk communication
+PB  - John Wiley & Sons, Ltd
+SN  - 1831-4732
+M3  - https://doi.org/10.2903/j.efsa.2018.5359
+UR  - https://doi.org/10.2903/j.efsa.2018.5359
+Y2  - 2020/11/10
+N2  - Abstract The European Food Safety Authority's has established procedures for the identification of emerging risk in food and feed. The main objectives are to: (i) to carry out activities aiming at identifying, assessing and disseminating information on emerging issues and ensure coordination with relevant networks and international organisations; (ii) promote the identification of data sources and data collection and /or data generation in prioritised emerging issues; and the (iii) evaluate of the collected information and identify of emerging risks. The objective(s) of the Standing Working Group on Emerging Risks (SWG-ER) is to collaborate with EFSA on the emerging risks identification (ERI) procedure and provide strategic direction for EFSA work building on past and ongoing projects related to EFSA ERI procedure. The SWG-ER considered the ERI methodologies in place and results obtained by EFSA. It was concluded that a systematic approach to the identification of emerging issues based on experts? networks is the major strength of the procedure but at present, it is mainly focused on single issues, over short to medium time horizons, no consistent weighting or ranking is applied and clear governance of emerging risks with follow-up actions is missing. The analysis highlighted weaknesses with respect to data collection, analysis and integration. No methodology is in place to estimate the value of the procedure outputs in terms of avoided risk and there is urgent need for a communication strategy that addresses the lack of data and knowledge uncertainty and addresses risk perception issues. Recommendations were given in three areas: (i) Further develop a food system-based approach including the integration of social sciences to improve understanding of interactions and dynamics between actors and drivers and the development of horizon scanning protocols; (ii) Improve data processing pipelines to prepare big data analytics, implement a data validation system and develop data sharing agreements to explore mutual benefits; and (iii) Revise the EFSA procedure for emerging risk identification to increase transparency and improve communication.
+ER  - 
+
+TY  - JOUR
+T1  - Positioning push–pull boundary in a hesitant fuzzy environment
+AU  - Pournamazi, Seyedeh Roya
+AU  - Ghasemy Yaghin, R.
+AU  - Jolai, Fariborz
+Y1  - 2020/08/16
+PY  - 2020
+DA  - 2020/08/16
+N1  - https://doi.org/10.1111/exsy.12616
+DO  - https://doi.org/10.1111/exsy.12616
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12616
+VL  - n/a
+IS  - n/a
+KW  - analytic network process
+KW  - apparel supply chain
+KW  - customer order decoupling point
+KW  - hesitant fuzzy sets
+KW  - VIKOR
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12616
+UR  - https://doi.org/10.1111/exsy.12616
+Y2  - 2020/11/10
+N2  - Abstract Nowadays, fierce competition enforces supply chain planners to develop market-oriented production strategies. Customer order decoupling point (CODP) could increase the supply chain efficiency and responsiveness simultaneously. The right position of CODP in production industries will result in a pattern for trade-off between responsiveness and operational efficiency. The purpose of this paper is to address the positioning problem of a push-pull boundary in a fuzzy hesitant environment. To this end, a hybrid multi-criteria decision-making methodology of analytic network process (ANP) and VIKOR is proposed in a hesitant judgement environment to determine the position of CODP in a supply chain. Finally, CODP positioning in the apparel supply chain, as an industry-based example, is analysed to show the applicability of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Projecting a spatial shift of Ontario's sugar maple habitat in response to climate change: A GIS approach
+AU  - Brown, Laura J.
+AU  - Lamhonwah, Daniel
+AU  - Murphy, Brenda L.
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1111/cag.12197
+DO  - https://doi.org/10.1111/cag.12197
+T2  - The Canadian Geographer / Le Géographe canadien
+JF  - The Canadian Geographer / Le Géographe canadien
+JO  - The Canadian Geographer / Le Géographe canadien
+SP  - 369
+EP  - 381
+VL  - 59
+IS  - 3
+KW  - Sugar maple
+KW  - Multi-Criteria Decision Making
+KW  - Geographic Information Systems
+KW  - climate change
+KW  - habitat suitability maps
+KW  - érable à sucre
+KW  - aide à la décision multicritère
+KW  - systèmes d'information géographique
+KW  - changements climatiques
+KW  - cartes de l'indice de qualité de l'habitat
+PB  - John Wiley & Sons, Ltd
+SN  - 0008-3658
+M3  - https://doi.org/10.1111/cag.12197
+UR  - https://doi.org/10.1111/cag.12197
+Y2  - 2020/11/10
+N2  - Canada is the world's largest producer of maple syrup. Syrup production depends on weather and climatic conditions of the sugarbush. However, forest ecosystems are highly sensitive to climate change. The effect of rapidly changing precipitation and temperature patterns on tree species is of concern as these long-lived organisms cannot quickly adapt to the new environmental conditions in which they find themselves. As temperatures increase it is expected that there will be a change in species' ranges poleward. This study uses Multi-Criteria Decision Making (MCDM) and Geographic Information System (GIS) weighted sum analysis to project near future (2050) and distant future (2100) suitability maps of sugar maple (Acer saccharum) habitat in Ontario associated with three different Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report (AR4) scenarios. Our maps project an overall decrease in the amount of suitable habitat within the current sugar maple range under the scenarios modelled, which intensifies in the later time period. Furthermore there is a projected shift in central and southern Ontario from a region dominated by suitable habitat to one dominated by unsuitable habitat.
+ER  - 
+
+TY  - JOUR
+T1  - A web-based visualization tool for exploring stakeholder conflicts in land-use planning
+AU  - Bohman, Samuel
+AU  - Fasth, Tobias
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - https://doi.org/10.1111/tgis.12527
+DO  - https://doi.org/10.1111/tgis.12527
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 769
+EP  - 785
+VL  - 23
+IS  - 4
+KW  - conflict mapping
+KW  - land-use planning
+KW  - multi-criteria decision analysis
+KW  - portfolio optimization
+KW  - visualization
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12527
+UR  - https://doi.org/10.1111/tgis.12527
+Y2  - 2020/11/10
+N2  - Abstract This article describes an open source web-based visualization tool for exploring stakeholder conflicts in land-use planning. It implements a multi-criteria, decision-analytic framework which solves a conflict-constrained knapsack problem in order to find Pareto efficient combinations of actions which maximize public value, given the conflict constraint. The user interface is centered around an interactive map in which geographical subareas are color-shaded in proportion to the mean strength of preference for a particular chosen action within the population in the selected area. The aim of this work is to investigate the use of web technologies and formal problem-solving methods for improving public participation in land-use planning and support local governments in the pursuit of improved decision-making. The tool was developed using the free statistical programming language R and the web application framework Shiny. Its usefulness is demonstrated through a case study in Upplands Väsby municipality in Stockholm County, Sweden. The article ends with a summary together with some ideas for future research and development.
+ER  - 
+
+TY  - JOUR
+T1  - A Parallel Computing Framework for Finding the Supported Solutions to a Biobjective Network Optimization Problem
+AU  - Medrano, Fernando Antonio
+AU  - Church, Richard Lee
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1002/mcda.1541
+DO  - https://doi.org/10.1002/mcda.1541
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 244
+EP  - 259
+VL  - 22
+IS  - 5-6
+KW  - multicriteria analysis
+KW  - biobjective shortest paths
+KW  - parallel computing
+KW  - GIS
+KW  - network algorithms
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1541
+UR  - https://doi.org/10.1002/mcda.1541
+Y2  - 2020/11/10
+N2  - Abstract Solving multi-objective combinatorial optimization problems can quickly become computationally challenging when applied to large networks generated from big data. Present-day first-rate Mixed Integer Programming (MIP) solvers have parallelism built-in to take advantage of multicore architectures; but specialized network optimization algorithms that can often solve graph problems more efficiently than a general MIP solver are typically programmed serially. Thus, these network algorithm implementations do not take full advantage of modern multicore computer capabilities. Many parallel computing languages include a fork/join framework into their concurrency packages that allow for simple conversion of recursive serial algorithms to operate in parallel without having to use complicated low-level message-passing interfaces. Fork/join is particularly well suited to divide and conquer algorithms such as Non-Inferior Set Estimation (NISE) method for computing the supported Pareto front of a multi-objective optimization problem. This work develops a simple general parallel NISE (pNISE) implementation using the Java 7 concurrency tools, and then offers results from a specific implementation of solving a bi-objective shortest path problem. The results indicate that this method is capable of sizeable speed-ups on both small-scale personal computers as well as large-scale shared memory supercomputers. Finally, other network problems suitable to this method are discussed, including multi-objective variants of the minimum spanning tree problem, transportation problem, assignment problem, maximum flow problem, and the minimum-cost flow problem. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting performance in ASEAN banks: an integrated fuzzy MCDM–neural network approach
+AU  - Wanke, Peter
+AU  - Kalam Azad, Md. Abul
+AU  - Barros, C. P.
+AU  - Hadi-Vencheh, Abdollah
+Y1  - 2016/06/01
+PY  - 2016
+DA  - 2016/06/01
+N1  - https://doi.org/10.1111/exsy.12144
+DO  - https://doi.org/10.1111/exsy.12144
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 213
+EP  - 229
+VL  - 33
+IS  - 3
+KW  - Islamic banking
+KW  - conventional banking
+KW  - FAHP
+KW  - TOPSIS
+KW  - ANN
+KW  - performance
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12144
+UR  - https://doi.org/10.1111/exsy.12144
+Y2  - 2020/11/10
+N2  - Abstract This paper presents a performance assessment of 88 Association of Southeast Asian Nations banks from 2010 to 2013, using an integrated three-stage approach on financial criteria that emulates the CAMELS rating system. More precisely, fuzzy analytic hierarchy process is used first to assess the relative weights of a number of criteria related to capital adequacy (C), asset quality (A), management quality (M), earnings (E), liquidity (L), and sensitivity to market risk (S) based on the opinion of 88 Association of Southeast Asian Nations experts. Then, these weights are used as technique for order of preference by similarity to ideal solution inputs to assess their relative efficiency. Lastly, neural networks are combined with technique for order of preference by similarity to ideal solution results to produce a model for banking performance with effective predictive ability. The results reveal that contextual variables have a prominent impact on efficiency. Specifically, parsimony in equity leveraging derived from Islamic finance principles may be the underlying cause in explaining higher efficiency levels.
+ER  - 
+
+TY  - JOUR
+T1  - Editorial
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1002/mcda.1557
+DO  - https://doi.org/10.1002/mcda.1557
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 231
+EP  - 231
+VL  - 22
+IS  - 5-6
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1557
+UR  - https://doi.org/10.1002/mcda.1557
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Development of optimal water supply plan using integrated fuzzy Delphi and fuzzy ELECTRE III methods—Case study of the Gamasiab basin
+AU  - Noori, Amir
+AU  - Bonakdari, Hossein
+AU  - Morovati, Khosro
+AU  - Gharabaghi, Bahram
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1111/exsy.12568
+DO  - https://doi.org/10.1111/exsy.12568
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12568
+VL  - 37
+IS  - 5
+KW  - basin
+KW  - fuzzy Delphi
+KW  - fuzzy ELECTRE III
+KW  - group decision-making
+KW  - optimal water supply
+KW  - water resources
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12568
+UR  - https://doi.org/10.1111/exsy.12568
+Y2  - 2020/11/10
+N2  - Abstract This paper presents a novel method for the development of an optimal water supply plan showcased using data from the Gamasiab basin, located in Kermanshah province, Iran, concerning new dams that are being constructed in this semi-arid region. In this paper, a new group multi-criteria decision-making (MCDM) plan is proposed by combining two MCDM methods based on the fuzzy Delphi and fuzzy ELECTRE III methods that convert the experts' opinions to triangular fuzzy numbers based on the level of uncertainty associated with various quantitative and qualitative criteria. Considering the opinions of four non-stakeholder experts and data analysis using the fuzzy Delphi method, the criteria were evaluated. Then, by analysing the results using the fuzzy ELECTRE III method, the final ranking of scenarios is obtained. A sensitivity analysis was conducted to assess the effect of uncertainty on the performance of the decision-making system in scenarios ranking. The total expense, flood control, reservoir capacity and diversion and water transfer played a significant role in selecting the optimal scenario. Additionally, a hydrologic model was developed to evaluate the performance of the optimal scenario in terms of qualitative criteria. The data indicated that there was a good agreement between the results obtained from the hydrological model and the scenario ranking by the employed method. Altogether, a comparison of the proposed method with other MCDM methods, including fuzzy analytic hierarchy process and fuzzy technique for order preference by simulation of ideal solution, indicated that the results of the employed method matched more closely to the local experts' opinion.
+ER  - 
+
+TY  - JOUR
+T1  - A decision support system for fund raising management based on the Choquet integral methodology
+AU  - Barzanti, Luca
+AU  - Giove, Silvio
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - https://doi.org/10.1111/j.1468-0394.2011.00601.x
+DO  - https://doi.org/10.1111/j.1468-0394.2011.00601.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 359
+EP  - 373
+VL  - 29
+IS  - 4
+KW  - fund raising management
+KW  - Choquet integral
+KW  - aggregation operators
+KW  - social economics
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/j.1468-0394.2011.00601.x
+UR  - https://doi.org/10.1111/j.1468-0394.2011.00601.x
+Y2  - 2020/11/10
+N2  - Abstract The employment of a decision support system for optimizing fund raising strategies is crucial to the management of non-profit organizations. Commonly considered methodologies utilize the organization's donor database in order to gather and analyse information. However, many organizations, especially small- and medium-sized ones, do not own or efficiently manage a database, and consequently, the usual methods are inapplicable. In this paper, a decision support system is developed that is able to identify the most promising fund raising strategies on the basis of the organization's profile. The profile factors of a non-profit organization are analysed and hierarchically organized in a decision tree in order to effectively employ the Choquet integral methodology, which is recommended in these kinds of multi-criteria decision problems. The results obtained in the real operational context show the effectiveness of the proposed system.
+ER  - 
+
+TY  - JOUR
+T1  - Complex Pythagorean Dombi fuzzy operators using aggregation operators and their decision-making
+AU  - Akram, Muhammad
+AU  - Khan, Ayesha
+AU  - Borumand Saeid, Arsham
+Y1  - 2020/09/09
+PY  - 2020
+DA  - 2020/09/09
+N1  - https://doi.org/10.1111/exsy.12626
+DO  - https://doi.org/10.1111/exsy.12626
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12626
+VL  - n/a
+IS  - n/a
+KW  - complex Pythagorean Dombi fuzzy weighted arithmetic averaging operator
+KW  - complex Pythagorean fuzzy sets
+KW  - Dombi operations on complex Pythagorean fuzzy numbers
+KW  - multi criteria decision-making
+KW  -  -norms
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12626
+UR  - https://doi.org/10.1111/exsy.12626
+Y2  - 2020/11/10
+N2  - Abstract A complex Pythagorean fuzzy set, an extension of Pythagorean fuzzy set, is a powerful tool to handle two dimension phenomenon. Dombi operators with operational parameters have outstanding flexibility. This article presents certain aggregation operators under complex Pythagorean fuzzy environment, including complex Pythagorean Dombi fuzzy weighted arithmetic averaging (CPDFWAA) operator, complex Pythagorean Dombi fuzzy weighted geometric averaging (CPDFWGA) operator, complex Pythagorean Dombi fuzzy ordered weighted arithmetic averaging (CPDFOWAA) operator and complex Pythagorean Dombi fuzzy ordered weighted geometric averaging (CPDFOWGA) operator. Moreover, this paper explores some fundamental properties of these operators with appropriate elaboration. A decision-making numerical example related to the selection of bank to purchase loan is given to demonstrate the significance of our proposed approach. Finally, a comparative analysis with existing operators is given to demonstrate the peculiarity of our proposed operators.
+ER  - 
+
+TY  - JOUR
+T1  - A Process View to Evaluate and Understand Preference Elicitation
+AU  - Nikou, Shahrokh
+AU  - Mezei, József
+AU  - Sarlin, Peter
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1002/mcda.1544
+DO  - https://doi.org/10.1002/mcda.1544
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 305
+EP  - 329
+VL  - 22
+IS  - 5-6
+KW  - preference elicitation
+KW  - conjoint analysis
+KW  - analytic hierarchy process
+KW  - mobile service platform
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1544
+UR  - https://doi.org/10.1002/mcda.1544
+Y2  - 2020/11/10
+N2  - Abstract This paper focuses on multi-attribute design problems in which several quantitative and/or qualitative attributes are simultaneously involved. Preference elicitation methods dealing with decision-makers' preferences are often employed to solve such problems. The present paper proposes a conceptual framework that considers preference elicitation as a process shaped by the interaction of different factors including the researcher, methodology, questionnaire and respondent in a given context, at the same time. The aim of the framework is to assist in choosing a decision support tool among various multi-attribute decision-making methods, as well as in evaluating and understanding preference elicitation results. To illustrate and exemplify the use of the framework, it is applied to a real-world case of end user preferences of mobile service platforms. We make use of two methods that are suitable for such a setting: analytic hierarchy process and conjoint analysis. Albeit with considerable discrepancies, the results show that both methods provide insightful information on the principle. Nonetheless, to a large degree, these methods perform differently in the case of non-complex tasks and unknowledgeable respondents, which the process view aids in evaluating and understanding. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing multifunctionality of agricultural soils: Reducing the biodiversity trade-off
+AU  - Vazquez, Carmen
+AU  - de Goede, Ron G. M.
+AU  - Rutgers, Michiel
+AU  - de Koeijer, Tanja J.
+AU  - Creamer, Rachel E.
+Y1  - 2020/07/03
+PY  - 2020
+DA  - 2020/07/03
+N1  - https://doi.org/10.1111/ejss.13019
+DO  - https://doi.org/10.1111/ejss.13019
+T2  - European Journal of Soil Science
+JF  - European Journal of Soil Science
+JO  - European Journal of Soil Science
+JA  - Eur J Soil Sci
+VL  - n/a
+IS  - n/a
+KW  - cropland
+KW  - grassland
+KW  - land management
+KW  - nutrient cycling
+KW  - primary productivity
+KW  - soil biodiversity
+KW  - soil functions
+KW  - yield
+PB  - John Wiley & Sons, Ltd
+SN  - 1351-0754
+M3  - https://doi.org/10.1111/ejss.13019
+UR  - https://doi.org/10.1111/ejss.13019
+Y2  - 2020/11/10
+N2  - Abstract Soils are indispensable for the provision of several functions. Agricultural intensification and its focus on increasing primary productivity (PP) poses a threat to soil quality, due to increases in nutrient loads, greenhouse gas emissions and declining biodiversity. The EU Horizon 2020 Landmark project has developed multi-criteria decision models to assess five soil functions: PP, nutrient cycling (NC), soil biodiversity and habitat provision (B-HP), climate mitigation and water regulation, simultaneously in agricultural fields. Using these algorithms, we evaluated the supply of PP, NC and B-HP of 31 grasslands and 21 croplands as low, medium or high. The multi-criteria decision models showed that 38% of the farms had a medium to high supply of all three soil functions, whereas only one cropland had a high supply for all three. Forty-eight per cent of the farms were characterized by a high supply of PP and NC. We observed a clear trade-off between these two functions and B-HP. Multivariate statistical analyses indicated that higher organic inputs combined with a lower mineral fertilization concur with higher biodiversity scores while maintaining a medium delivery of PP and NC. Additionally, we compared the outputs of the model predictions to independent variables that served as proxies for the soil functions and found: (a) croplands (but not grasslands) with high PP had a higher standardized yield than those with medium PP; (b) grasslands (but not croplands) with high NC had a significantly lower fungal to bacterial biomass ratio, suggesting faster decomposition channels; and (c) a positive though non-significant trend between B-HP score and rank according to soil invertebrate biodiversity. These comparisons suggest a successful upscaling of the models from field to farm level. Our study highlights the need for systematic collection of management-related data for the assessment of soil functions. Multifunctionality can be achieved in agricultural soils; however, without specifically managing for it, biodiversity might come at a loss. Highlights We study how well soils can provide primary productivity, nutrient cycling and biodiversity. We study trade-offs and synergies among soil functions, as well as the drivers of these relationships. Soil biodiversity is largely sacrificed for primary productivity and nutrient cycling Changes in pesticide and fertilizer management can increase soil multifunctionality.
+ER  - 
+
+TY  - JOUR
+T1  - Exploratory MCDA for handling deep uncertainties: the case of intelligent speed adaptation implementation
+AU  - van der Pas, J. W. G. M.
+AU  - Walker, W. E.
+AU  - Marchau, V. A. W. J.
+AU  - Van Wee, G. P.
+AU  - Agusdinata, D. B.
+Y1  - 2010/01/01
+PY  - 2010
+DA  - 2010/01/01
+N1  - https://doi.org/10.1002/mcda.450
+DO  - https://doi.org/10.1002/mcda.450
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 1
+EP  - 23
+VL  - 17
+IS  - 1‐2
+KW  - multi-criteria decision analysis
+KW  - robust decisions
+KW  - deep uncertainty
+KW  - exploratory modelling and analysis
+KW  - intelligent speed adaptation
+KW  - ISA
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.450
+UR  - https://doi.org/10.1002/mcda.450
+Y2  - 2020/11/10
+N2  - Abstract Sometimes experts, decisionmakers, and analysts are confronted with policy problems that involve deep uncertainty. Such policy problems occur when (1) the future is not known well enough to predict future changes to the system, (2) there is not enough knowledge regarding the appropriate model to use to estimate the outcomes, and/or (3) there is not enough knowledge regarding the weights stakeholders currently assign to the various criteria or will assign in the future. This paper presents an MCDA approach developed to deal with conditions of deep uncertainty, which is called Exploratory Multi-Criteria Decision Analysis (EMCDA). EMCDA is based on exploratory modelling, which is a modelling approach that allows policy analysts to explore multiple hypotheses about the future world (using different consequence models, different scenarios, and different weights). An example of a policy problem that can benefit from this methodology is decision making on innovations for improving traffic safety. In order to improve traffic safety, much is expected from Intelligent Speed Adaptation (ISA), an in-vehicle system that supports the driver in keeping an appropriate speed. However, different MCDA studies on ISA give different results in terms of the estimates of real-world safety benefits of ISA and the willingness of stakeholders (e.g. the automotive industry) to supply ISA. The application of EMCDA to the implementation of ISA shows that it is possible to perform an MCDA in situations of deep uncertainty. A full analysis taking into account the complete uncertainty space shows that the best policy is to make mandatory an ISA system for young drivers (less than 24 years of age) that restricts them from driving faster than the speed limit. Based on different assumptions, the analysis also shows that ISA policies should not target older drivers. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - An expert system for low-power and lossy indoor sensor networks
+AU  - Habib, Sami J.
+AU  - Marimuthu, Paulvanna N.
+AU  - Renold, Pravin
+AU  - Ganesh Athi, Balaji
+Y1  - 2020/11/04
+PY  - 2020
+DA  - 2020/11/04
+N1  - https://doi.org/10.1111/exsy.12650
+DO  - https://doi.org/10.1111/exsy.12650
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12650
+VL  - n/a
+IS  - n/a
+KW  - analytical modelling
+KW  - adaptive routing protocol
+KW  - expert systems
+KW  - indoor monitoring
+KW  - low-power network
+KW  - lossy networks
+KW  - multi-decision criterion model
+KW  - self-aware
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12650
+UR  - https://doi.org/10.1111/exsy.12650
+Y2  - 2020/11/10
+N2  - Abstract We have developed an expert system comprising a self-aware framework for resource-efficient and accurate data transmission within a low-power lossy sensor network (LLN) deployed for indoor monitoring. We derived both individual and group awareness, which could ensure the awareness of each sensor regarding its resources, neighbours and network environment. The proposed expert system facilitates decision-making under dynamic environmental conditions and employs a multi-criteria decision-making (MCDM) model to determine the selection of the best path towards the sink node with awareness of the existing network environment. The proposed system is validated by constructing a 6LoWPAN network in the Contiki Cooja simulator. MCDM is applied to generate an adaptive objective function for the IPv6 routing protocol for the LLN (RPL) and to aid in ranking the nodes to select the best available neighbouring node, while the data accuracy is ensured by the cluster head through data correlation among its associated members. The network performance is assessed by analyzing the packet delivery rate, throughput and energy consumption against varying sensors and by comparing our proposed MCDM-RPL with a standard RPL and a fuzzy-based RPL, where the results show that our framework is found to be better with gains of 13, 25 and 13%, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Performance of ensemble-learning models for predicting eutrophication in Zhuyi Bay, Three Gorges Reservoir
+AU  - Hu, Mingming
+AU  - Wang, Yuchun
+AU  - Sun, Zhiyu
+AU  - Su, Yuming
+AU  - Li, Shanze
+AU  - Bao, Yufei
+AU  - Wen, Jie
+Y1  - 2020/10/12
+PY  - 2020
+DA  - 2020/10/12
+N1  - https://doi.org/10.1002/rra.3739
+DO  - https://doi.org/10.1002/rra.3739
+T2  - River Research and Applications
+JF  - River Research and Applications
+JO  - River Research and Applications
+JA  - River Res Applic
+VL  - n/a
+IS  - n/a
+KW  - ensemble-learning models
+KW  - eutrophication
+KW  - gradient boosted decision trees
+KW  - machine-learning models
+KW  - random forests
+KW  - Three Gorges Reservoir
+KW  - Zhuyi Bay
+PB  - John Wiley & Sons, Ltd
+SN  - 1535-1459
+M3  - https://doi.org/10.1002/rra.3739
+UR  - https://doi.org/10.1002/rra.3739
+Y2  - 2020/11/10
+N2  - Abstract Eutrophication and sporadic algal blooms occurring in the tributary bays of the Three Gorges Reservoir in Hubei, China, have become major environmental issues following impoundment. However, predicting eutrophication with traditional methods based on monthly monitoring data remains challenging. In order to explore the potential of data-driven models in eutrophication prediction and establish reliable prediction data-driven model based on monthly monitoring data. In this study, two ensemble-learning models, random forests (RF) and gradient boosted decision trees (GBDT), were used to predict eutrophication in Zhuyi Bay. To address the target, three objectives were solved. First, RF and GBDT used to regress chlorophyll-a concentrations showed good model fit across two monitoring data sets, with R2 values of 0.809 and 0.822 for RF and 0.824 and 0.828 for GBDT. Second, the relative variable importance plots computed by ensemble-learning models was calculated for selecting monitoring parameters and identify drivers of eutrophication. To improve model fit, it was more important to monitor key parameters of eutrophication (such as water transparency) than to increase sample size. Third, K-Means++ modelling was used to partition eutrophication data into discrete levels. For three eutrophication levels, the classification accuracies of RF and GBDT were 0.8936 and 0.9064, respectively. When using only two eutrophication levels, accuracies for both models increased to 0.9617. This study suggests that ensemble-learning models, and in particular GBDT (firstly used in eutrophication), show excellent fitting ability for eutrophication compared with other machine-learning models and provided reliable eutrophication prediction method based on monthly monitoring data.
+ER  - 
+
+TY  - JOUR
+T1  - A decision analytic model to guide early-stage government regulatory action: Applications for synthetic biology
+AU  - Trump, Benjamin
+AU  - Cummings, Christopher
+AU  - Kuzma, Jennifer
+AU  - Linkov, Igor
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1111/rego.12142
+DO  - https://doi.org/10.1111/rego.12142
+T2  - Regulation & Governance
+JF  - Regulation & Governance
+JO  - Regulation & Governance
+JA  - Regulation & Governance
+SP  - 88
+EP  - 100
+VL  - 12
+IS  - 1
+KW  - emerging technology
+KW  - risk governance
+KW  - synthetic biology
+KW  - technology governance
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 1748-5983
+M3  - https://doi.org/10.1111/rego.12142
+UR  - https://doi.org/10.1111/rego.12142
+Y2  - 2020/11/10
+N2  - Abstract Synthetic biology (SB) involves the alteration of living cells and biomolecules for specific purposes. Products developed using these approaches could have significant societal benefits, but also pose uncertain risks to human and environmental health. Policymakers currently face decisions regarding how stringently to regulate and monitor various SB applications. This is a complex task, in which policymakers must balance uncertain economic, political, social, and health-related decision factors associated with SB use. We argue that formal decision analytical tools could serve as a method to integrate available evidence-based information and expert judgment on the impacts associated with SB innovations, synthesize that information into quantitative indicators, and serve as the first step toward guiding governance of these emerging technologies. For this paper, we apply multi-criteria decision analysis to a specific case of SB, a micro-robot based on biological cells called ?cyberplasm.? We use data from a Delphi study to assess cyberplasm governance options and demonstrate how such decision tools may be used for assessments of SB oversight.
+ER  - 
+
+TY  - JOUR
+T1  - 2016 American College of Rheumatology/European League Against Rheumatism Classification Criteria for Primary Sjögren's Syndrome: A Consensus and Data-Driven Methodology Involving Three International Patient Cohorts
+AU  - Shiboski, Caroline H.
+AU  - Shiboski, Stephen C.
+AU  - Seror, Raphaèle
+AU  - Criswell, Lindsey A.
+AU  - Labetoulle, Marc
+AU  - Lietman, Thomas M.
+AU  - Rasmussen, Astrid
+AU  - Scofield, Hal
+AU  - Vitali, Claudio
+AU  - Bowman, Simon J.
+AU  - Mariette, Xavier
+AU  - the International Sjögren's Syndrome Criteria Working Group
+Y1  - 2017/01/01
+PY  - 2017
+DA  - 2017/01/01
+N1  - https://doi.org/10.1002/art.39859
+DO  - https://doi.org/10.1002/art.39859
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+SP  - 35
+EP  - 45
+VL  - 69
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 2326-5191
+M3  - https://doi.org/10.1002/art.39859
+UR  - https://doi.org/10.1002/art.39859
+Y2  - 2020/11/10
+N2  - Objective To develop and validate an international set of classification criteria for primary Sjögren's syndrome (SS) using guidelines from the American College of Rheumatology (ACR) and the European League Against Rheumatism (EULAR). These criteria were developed for use in individuals with signs and/or symptoms suggestive of SS. Methods We assigned preliminary importance weights to a consensus list of candidate criteria items, using multi-criteria decision analysis. We tested and adapted the resulting draft criteria using existing cohort data on primary SS cases and non-SS controls, with case/non-case status derived from expert clinical judgment. We then validated the performance of the classification criteria in a separate cohort of patients. Results The final classification criteria are based on the weighted sum of 5 items: anti-SSA/Ro antibody positivity and focal lymphocytic sialadenitis with a focus score of ≥1 foci/4 mm2, each scoring 3; an abnormal ocular staining score of ≥5 (or van Bijsterveld score of ≥4), a Schirmer's test result of ≤5 mm/5 minutes, and an unstimulated salivary flow rate of ≤0.1 ml/minute, each scoring 1. Individuals with signs and/or symptoms suggestive of SS who have a total score of ≥4 for the above items meet the criteria for primary SS. Sensitivity and specificity against clinician-expert?derived case/non-case status in the final validation cohort were high, i.e., 96% (95% confidence interval [95% CI] 92?98%) and 95% (95% CI 92?97%), respectively. Conclusion Using methodology consistent with other recent ACR/EULAR-approved classification criteria, we developed a single set of data-driven consensus classification criteria for primary SS, which performed well in validation analyses and are well-suited as criteria for enrollment in clinical trials.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of Analytic Hierarchy Process with Regression Analysis to Identify Attractive Locations for Market Expansion
+AU  - Priya, Preeti
+AU  - Venkatesh, Anand
+Y1  - 2012/05/01
+PY  - 2012
+DA  - 2012/05/01
+N1  - https://doi.org/10.1002/mcda.1471
+DO  - https://doi.org/10.1002/mcda.1471
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 143
+EP  - 153
+VL  - 19
+IS  - 3-4
+KW  - Analytic Hierarchy Process
+KW  - market selection
+KW  - regression analysis
+KW  - multi-criteria decision making
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1471
+UR  - https://doi.org/10.1002/mcda.1471
+Y2  - 2020/11/10
+N2  - ABSTRACT Selection of new geographies in which to expand is a key decision for businesses aspiring to go beyond the opportunities in the existing markets. The conventional approaches of market selection can only provide a set of systematic steps for problem solving without considering the relationships between the decision factors. Decision models based on statistical techniques are able to examine the relationship between decision factors but are unable to effectively assist decision makers in identifying the most promising market, particularly in terms of prioritizing across decision factors. Analytic Hierarchy Process (AHP) is a commonly used approach for choosing alternatives by prioritizing across multiple decision factors. The typical AHP modelling requires knowledge of criteria and/or alternatives along with their relative weights, generally elicited from field experts. Quite often, firms encounter situations where decision makers are aware of only the overall objective and a set of earmarked geographies for setting up market locations while being relatively unaware of decision criteria and relative weights. This precludes using AHP to identify promising market locations. This paper conceptualizes a market selection decision model that integrates AHP with statistical modelling techniques to identify the attractive market locations for the purpose of expansion. The model first uses principal component analysis and multiple regression to determine significant decision criteria and their weights. Thereafter, it applies AHP to prioritize the market locations across the decision criteria. This integrative approach is illustrated for identifying the attractive locations in rural markets for a steel firm in India. The major advantage of this approach is that unlike the existing models, it works in situations when firms have not enough knowledge about factors for evaluating alternative market locations. Another key advantage of the proposed model is that of economizing resources for data collection on variables representing decision factors. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - NEPA and National Trends in Federal Infrastructure Siting in the United States
+AU  - Scott, Tyler Andrew
+AU  - Ulibarri, Nicola
+AU  - Perez Figueroa, Omar
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - https://doi.org/10.1111/ropr.12399
+DO  - https://doi.org/10.1111/ropr.12399
+T2  - Review of Policy Research
+JF  - Review of Policy Research
+JO  - Review of Policy Research
+JA  - Rev. Policy Res.
+SP  - 605
+EP  - 633
+VL  - 37
+IS  - 5
+KW  - environmental regulation
+KW  - environmental impact assessment
+KW  - National Environmental Policy Act (NEPA)
+KW  - infrastructure planning
+KW  - natural language processing
+KW  - artificial neural networks
+PB  - John Wiley & Sons, Ltd
+SN  - 1541-132X
+M3  - https://doi.org/10.1111/ropr.12399
+UR  - https://doi.org/10.1111/ropr.12399
+Y2  - 2020/11/10
+N2  - Abstract The United States' National Environmental Policy Act (NEPA) requires federal agencies to use environmental impact assessment tools to aggregate scientific information, garner stakeholder input, and weigh alternatives for infrastructure siting and operations decisions.Thus, NEPA plays a sweeping role in federal infrastructure provisioning. Using a comprehensive dataset of Environmental Impact Statements (EISs) prepared under NEPA from 2013 to 2019, we use natural language processing to identify geographic locations and artificial neural networks to classify discussed environmental impacts. We then describe geographic, temporal, and environmental trends in federal infrastructure provisioning. Finally, we use Bayesian hierarchical regression to assess how socio-economic and demographic covariates shape county-level EIS counts. Numerous federal agencies are involved in EIS production, but three agencies author the majority of EISs. Total EISs issued annually have declined since the early 2000s. EISs are more frequent in urban coastal counties, but do not show clear distributive trends by income or race.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria group decision-making method based on TODIM with probabilistic interval-valued hesitant fuzzy information
+AU  - Zhang, Guo
+AU  - Wang, Jian-qiang
+AU  - Wang, Tie-li
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - https://doi.org/10.1111/exsy.12424
+DO  - https://doi.org/10.1111/exsy.12424
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12424
+VL  - 36
+IS  - 4
+KW  - multi-criteria group decision making
+KW  - probabilistic interval-valued hesitant fuzzy set
+KW  - fuzzy analytic network process
+KW  - TODIM
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12424
+UR  - https://doi.org/10.1111/exsy.12424
+Y2  - 2020/11/10
+N2  - Abstract Probabilistic interval-valued hesitant fuzzy sets (PIV-HFSs) are suitable for aggregating information from different groups because the probabilistic information of all the groups can be included by using interval values. Moreover, decision makers (DMs) prefer to use interval values to provide evaluation information. Furthermore, the traditional multi-criteria group decision-making (MCGDM) approach has some limitations, such as obtaining the DMs' weights with inappropriate methods and neglecting the interactions amongst the criteria and the psychological characteristics of DMs. Motivated by these research background, the main contents of this study are as follows. First, PIV-HFSs are proposed, and the convex combination operation is extended into PIV-HFSs. Second, a hybrid MCGDM approach with PIV-HFSs is suggested that is based on the maximizing deviation method, fuzzy analytic network process (FANP) and TODIM (an acronym in Portuguese for interactive and multi-criteria decision-making model). Third, an evaluation case of health management centres based on the service-specific failure mode and effect analysis (FMEA) is considered. The results show that the most crucial secondary factor is frequency (0.35775) and that the most serious failure mode is the inaccurate check-in. The results demonstrate that the proposed model can evaluate service quality effectively and that it performs better than other methods.
+ER  - 
+
+TY  - JOUR
+T1  - Insights from a text mining survey on Expert Systems research from 2000 to 2016
+AU  - Cortez, Paulo
+AU  - Moro, Sérgio
+AU  - Rita, Paulo
+AU  - King, David
+AU  - Hall, Jon
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - https://doi.org/10.1111/exsy.12280
+DO  - https://doi.org/10.1111/exsy.12280
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12280
+VL  - 35
+IS  - 3
+KW  - Expert Systems
+KW  - literature analysis
+KW  - research categorization
+KW  - research evolution
+KW  - text mining
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12280
+UR  - https://doi.org/10.1111/exsy.12280
+Y2  - 2020/11/10
+N2  - Abstract This study presents a literature analysis using a semiautomated text mining and topic modelling approach of the body of knowledge encompassed in 17 years (2000?2016) of literature published in the Wiley's Expert Systems journal, a key reference in Expert Systems (ESs) research, in a total of 488 research articles. The methodological approach included analysing countries from authors' affiliations, with results emphasizing the relevance of both U.S. and U.K. researchers, with Chinese, Turkish, and Spanish holding also a significant relevance. As a result of the sparsity found on the keywords, one of our goals became to devise a taxonomy for future submissions under 2 core dimensions: ESs' methods and ESs' applications. Finally, through topic modelling, data-driven methods were unveiled as the most relevant, pairing with evaluation methods in its application to managerial sciences, arts, and humanities. Findings also show that most of the application domains are well represented, including health, engineering, energy, and social sciences.
+ER  - 
+
+TY  - JOUR
+T1  - Proximity-based cloud resource provisioning for deep learning applications in smart healthcare
+AU  - Sivan, Durga
+AU  - Sellappa, Mohan
+AU  - J, Dinesh Peter
+Y1  - 2020/01/29
+PY  - 2020
+DA  - 2020/01/29
+N1  - https://doi.org/10.1111/exsy.12524
+DO  - https://doi.org/10.1111/exsy.12524
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12524
+VL  - n/a
+IS  - n/a
+KW  - AHP
+KW  - cloud-hosted deep leaning
+KW  - mobile cloud
+KW  - practical deep learning
+KW  - proximity based
+KW  - reliable resource provisioning
+KW  - resource migration
+KW  - smart healthcare
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12524
+UR  - https://doi.org/10.1111/exsy.12524
+Y2  - 2020/11/10
+N2  - Abstract Deep learning is a powerful technology that enables intelligent data processing in the smart healthcare domain. Inspired by the tremendous processing power of cloud computing, the training process and the model repository of deep learning are moved to the cloud. Cloud-assisted deep learning applications enable smart mobile users to experience quick predictive results. Health professionals use smart mobile devices to convey recordings of the patient and to receive the best inference results. The mobility of these devices causes severe performance degradation as it increases the distance between its current location and the edge cloud where the virtual machines are provisioned. Therefore, mobility-based resource provisioning to identify a suitable server based on deadline constraints, available resources, and cost metrics is crucial. This paper proposes a proximity-based resource provisioning technique that guarantees minimal delay in obtaining inference results with a local mobile cloud system. The proposed technique comprises two algorithms (a) deadline-based initial resource provisioning and (b) resource migration and provisioning at suitable cloudlet during location change. The proposed technique is implemented in a mobile cloud platform running the inference method of a smart mobile healthcare application. The performance results show that the proposed technique outperforms the state-of-the-art techniques in terms of the response time, deadline meeting percentage, and system utilization.
+ER  - 
+
+TY  - JOUR
+T1  - Computing education that doesn't compute
+AU  - Hall, Jon G.
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - https://doi.org/10.1111/j.1468-0394.2012.00628.x
+DO  - https://doi.org/10.1111/j.1468-0394.2012.00628.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 213
+EP  - 215
+VL  - 29
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/j.1468-0394.2012.00628.x
+UR  - https://doi.org/10.1111/j.1468-0394.2012.00628.x
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria-based Plant Species Selection for Gully and Riverbank Stabilization in a Sub-humid Tropical Area
+AU  - Talema, Ayalew
+AU  - Poesen, Jean
+AU  - Muys, Bart
+AU  - Reubens, Bert
+AU  - Dibaba, Hirko
+AU  - Diels, Jan
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - https://doi.org/10.1002/ldr.2699
+DO  - https://doi.org/10.1002/ldr.2699
+T2  - Land Degradation & Development
+JF  - Land Degradation & Development
+JO  - Land Degradation & Development
+JA  - Land Degrad. Develop.
+SP  - 1675
+EP  - 1686
+VL  - 28
+IS  - 5
+KW  - multi-criteria
+KW  - plant
+KW  - root
+KW  - species
+KW  - stabilization
+PB  - John Wiley & Sons, Ltd
+SN  - 1085-3278
+M3  - https://doi.org/10.1002/ldr.2699
+UR  - https://doi.org/10.1002/ldr.2699
+Y2  - 2020/11/10
+N2  - Abstract Selection of appropriate plant species for rehabilitation of degraded lands while fulfilling socio-economic interests of local communities is one of the decision-making challenges. This research was undertaken to select multipurpose trees, shrubs and grasses to stabilize degraded lands in the Gilgel Gibe catchment of Southwest Ethiopia, situated in the sub-humid tropics. Two multi-criteria decision analysis methods, analytical hierarchy process and simple multi-attribute rating technique, integrated in the excel-based multi-criteria tree selection tool, were used. Focus group discussions were held with experts and local communities to prioritize 40 plant species from a preselected regional pool of 129 species, using six criteria groups containing 47 individual criteria. Root characteristics of the top 9 ranked plants were studied for triangulating the multi-criteria decision analysis results. Both local communities and experts gave priority to indigenous trees over shrubs and grasses as the best five species for multipurpose use, whereas the top 5 species prioritized for riverbank stabilization contained both trees and grasses. In contrast, communities preferred indigenous trees, and experts selected grasses as the best five species for gully stabilization. The root system characterization revealed that the five top-ranked multipurpose species also have the required root characteristics for effectively reinforcing unstable slopes. However, communities prefer to plant Eucalyptus and Grevillea trees because of their short-term economic benefits although they understood the multipurpose value of indigenous plants. The trade-off between direct economic benefit and multipurpose benefits could be solved by awareness creation, incentives to communities and policy re-enforcement. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid multi-output-predictive modelling based NSGA II approach for dimensions design optimization of battery pack module for electric vehicles
+AU  - Ruhatiya, Chaitanya
+AU  - Gia Bao, Pham N.
+AU  - Quan, Tram L.
+AU  - Tho, Quan T.
+AU  - Xinyu, Li
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1002/est2.130
+DO  - https://doi.org/10.1002/est2.130
+T2  - Energy Storage
+JF  - Energy Storage
+JO  - Energy Storage
+JA  - Energy Storage
+SP  - e130
+VL  - 2
+IS  - 3
+KW  - battery pack design
+KW  - hybrid multi-predictive modelling
+KW  - multi-objective optimization
+KW  - non-dominated sorted genetic algorithm
+PB  - John Wiley & Sons, Ltd
+M3  - https://doi.org/10.1002/est2.130
+UR  - https://doi.org/10.1002/est2.130
+Y2  - 2020/11/10
+N2  - Abstract Battery module safety is a major concern for the commercial success of electric vehicles (EVs). Concurrently, it is also important to have a mechanically sound and ergonomically fit battery pack design. To solve this problem, a hybrid multi-output-predictive modelling based NSGA II approach is proposed. In this approach, the multiple predictive modelling methods (linear regression, regression with AdaBoost, decision tree regression and multi-layer perceptron [MLP]) are applied to predict the deformation, natural frequency and mass of battery pack enclosure. By performing the comparative analysis of these methods, the decision tree regression model was selected for deformation, MLP with tanh function for frequency and MLP with ReLU function for mass. Further, these selected models were optimized using NSGA II which resulted in optimum combination of input variables for achieving the maximum deformation (0.0019?m), minimum natural frequency (91.60?Hz), and mass (12.41?kg) simultaneously.
+ER  - 
+
+TY  - JOUR
+T1  - Goal programming to model human decision making in ultimatum games
+AU  - Beullens, Patrick
+AU  - Zaibidi, Nerda Z.
+AU  - Jones, Dylan F.
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - https://doi.org/10.1111/j.1475-3995.2011.00826.x
+DO  - https://doi.org/10.1111/j.1475-3995.2011.00826.x
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 599
+EP  - 612
+VL  - 19
+IS  - 4
+KW  - goal programming
+KW  - multi criteria decision making
+KW  - game theory
+KW  - simulation
+KW  - ultimatum games
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/j.1475-3995.2011.00826.x
+UR  - https://doi.org/10.1111/j.1475-3995.2011.00826.x
+Y2  - 2020/11/10
+N2  - Abstract Goal Programming (GP) is applied to modelling the decision making processes in the well-known Ultimatum Game and some of its variations. The decision model for a player is a Chebychev GP model that balances her individual desires with the mental model she has of the desires of other relevant players. Fairness is modelled as a universal mechanism, allowing players to differ in their belief of what a fair solution should be in any particular game. The model's conceptual framework draws upon elements considered of importance in the field of cognitive neuroscience, and results from the field of psychology are used to further specify the types of goals in the model. Computer simulations of the GP models, testing a number of Ultimatum, Dictator and Double-Blind Dictator Games, lead to distributions of proposals made and accepted that correspond reasonably well with experimental findings.
+ER  - 

@@ -1,0 +1,645 @@
+
+TY  - JOUR
+T1  - Evaluation of sources for the sustainability of energy supply in Turkey
+AU  - Kuleli Pak, Burcu
+AU  - Albayrak, Yildiz Esra
+AU  - Erensal, Yasemin Claire
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - https://doi.org/10.1002/ep.12507
+DO  - https://doi.org/10.1002/ep.12507
+T2  - Environmental Progress & Sustainable Energy
+JF  - Environmental Progress & Sustainable Energy
+JO  - Environmental Progress & Sustainable Energy
+JA  - Environ. Prog. Sustainable Energy
+SP  - 627
+EP  - 637
+VL  - 36
+IS  - 2
+KW  - energy indicators
+KW  - sustainable development
+KW  - analytic network process (ANP)
+KW  - benefits–opportunities–costs–risks (BOCR)
+PB  - John Wiley & Sons, Ltd
+SN  - 1944-7442
+M3  - https://doi.org/10.1002/ep.12507
+UR  - https://doi.org/10.1002/ep.12507
+Y2  - 2020/11/10
+N2  - Energy is one of the main factors that must be considered in the discussions of sustainable development. Renewable, clean and cost effective energy sources are preferred but unfortunately no one of the alternative energy sources can meet these demands solely. So, the problem of determining the appropriate energy policy is a multiple criteria decision making problem. In this study, firstly sustainability indicators for energy planning are determined. Then dependencies and feedbacks between indicators and the values of the indicators were investigated and it was seen that Analytic Network Process with benefits, opportunities, costs and risks merits is a suitable method for this complex problem. Both the objective values and group decision of experts were used in the model to cover the quantitative and qualitative judgments. The results indicated that the energy system of Turkey is not sustainable and the sustainable energy scenario of Turkey must increase the share of renewables. This article is an important framework for the sustainable development pathway of Turkey. ? 2016 American Institute of Chemical Engineers Environ Prog, 36: 627?637, 2017
+ER  - 
+
+TY  - JOUR
+T1  - Semiparametric mixed-scale models using shared Bayesian forests
+AU  - Linero, Antonio R.
+AU  - Sinha, Debajyoti
+AU  - Lipsitz, Stuart R.
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - https://doi.org/10.1111/biom.13107
+DO  - https://doi.org/10.1111/biom.13107
+T2  - Biometrics
+JF  - Biometrics
+JO  - Biometrics
+JA  - Biometrics
+SP  - 131
+EP  - 144
+VL  - 76
+IS  - 1
+KW  - Bayesian additive regression trees
+KW  - heteroskedastic errors
+KW  - hurdle models
+KW  - nonparametric Bayes
+KW  - variable selection
+PB  - John Wiley & Sons, Ltd
+SN  - 0006-341X
+M3  - https://doi.org/10.1111/biom.13107
+UR  - https://doi.org/10.1111/biom.13107
+Y2  - 2020/11/10
+N2  - Abstract This paper demonstrates the advantages of sharing information about unknown features of covariates across multiple model components in various nonparametric regression problems including multivariate, heteroscedastic, and semicontinuous responses. In this paper, we present a methodology which allows for information to be shared nonparametrically across various model components using Bayesian sum-of-tree models. Our simulation results demonstrate that sharing of information across related model components is often very beneficial, particularly in sparse high-dimensional problems in which variable selection must be conducted. We illustrate our methodology by analyzing medical expenditure data from the Medical Expenditure Panel Survey (MEPS). To facilitate the Bayesian nonparametric regression analysis, we develop two novel models for analyzing the MEPS data using Bayesian additive regression trees?a heteroskedastic log-normal hurdle model with a ?shrink-toward-homoskedasticity? prior and a gamma hurdle model.
+ER  - 
+
+TY  - JOUR
+T1  - FAHP approach for autonomic resource provisioning of multitier applications in cloud computing environments
+AU  - Khorsand, Reihaneh
+AU  - Ghobaei-Arani, Mostafa
+AU  - Ramezanpour, Mohammadreza
+Y1  - 2018/12/01
+PY  - 2018
+DA  - 2018/12/01
+N1  - https://doi.org/10.1002/spe.2627
+DO  - https://doi.org/10.1002/spe.2627
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 2147
+EP  - 2173
+VL  - 48
+IS  - 12
+KW  - autonomic computing
+KW  - cloud computing
+KW  - FAHP
+KW  - multitier applications
+KW  - resource provisioning
+KW  - workload prediction
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - https://doi.org/10.1002/spe.2627
+UR  - https://doi.org/10.1002/spe.2627
+Y2  - 2020/11/10
+N2  - Summary Recent advancements in web-based application, especially in cloud computing environment, allows cloud service providers to deploy and provide web-based services in the form of multitier applications. One of the most suitable infrastructure for the running of multitier applications is a cloud computing infrastructure. Since the arrival rate of users to the multitier applications varies over the time, deciding about the right amount of resources required to handle the each tier of multitier applications is not trivial, and it depends on the current workload of its each tier. Therefore, it is necessary to automatically provision resources to deal with fluctuating demands of the multitier applications. In this paper, we propose a hybrid resource provisioning approach for multitier applications based on a combination of the concept of the autonomic computing and the fuzzy analytical hierarchy process approach. Moreover, we present a framework based on MAPE-k control loop for autonomous resource provisioning of multitier applications in cloud computing environments. The effectiveness of the proposed approach under real and synthetic workloads was evaluated. The experimental results indicate that the proposed solution outperforms in terms of allocated virtual machines, response time, and cost compared with the other approaches.
+ER  - 
+
+TY  - JOUR
+T1  - A multicriteria framework for inventory classification and control with application to intermittent demand
+AU  - Lolli, F.
+AU  - Ishizaka, A.
+AU  - Gamberini, R.
+AU  - Rimini, B.
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - https://doi.org/10.1002/mcda.1620
+DO  - https://doi.org/10.1002/mcda.1620
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 275
+EP  - 285
+VL  - 24
+IS  - 5-6
+KW  - AHP
+KW  - intermittent demand
+KW  - multicriteria inventory classification
+KW  - reorder policies
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1620
+UR  - https://doi.org/10.1002/mcda.1620
+Y2  - 2020/11/10
+N2  - Abstract Several papers have studied inventory classification in order to group items with a view to facilitating their management. The generated classes are then coupled with the specific reorder policies composing the overall inventory control system. However, the effectiveness of inventory classification and control system is strictly interrelated. That is to say, different classification approaches could show different performance if applied to a different set of reorder policies, and vice versa. Furthermore, when the cost structure is subjected to uncertainty, a pure cost-based analysis of the inventory control system could be corrupted. This paper presents a multicriteria framework for the concurrent selection of the item classification approach and the inventory control system through a discrete-event simulation approach. The key performance indicators provided by the simulator (i.e., average holding value, average number of backorders, and average number of emitted orders) are indicative of the multidimensional effectiveness of the adopted inventory control system when coupled with a specific classification approach. By this way, a multicriteria problem arises, where the alternatives are given by exhaustively coupling the item classes, which are generated by different classification approaches, with the reorder policies composing the inventory system. An analytical hierarchy process is then used for selecting the best alternative, as well as for evaluating the effect of the weights assigned to the key performance indicators through a sensitivity analysis. This approach has been validated in a real case study with a company operating in the field of electrical resistor manufacturing, with a view of facilitating the management of items showing intermittent demand.
+ER  - 
+
+TY  - JOUR
+T1  - AHP and multichoice goal programming integration for course planning
+AU  - Kırış, Şafak
+Y1  - 2014/09/01
+PY  - 2014
+DA  - 2014/09/01
+N1  - https://doi.org/10.1111/itor.12081
+DO  - https://doi.org/10.1111/itor.12081
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 819
+EP  - 833
+VL  - 21
+IS  - 5
+KW  - education
+KW  - planning
+KW  - AHP
+KW  - multichoice goal programming
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12081
+UR  - https://doi.org/10.1111/itor.12081
+Y2  - 2020/11/10
+N2  - Abstract Course planning is one of the important problems in the education systems of universities. The processes cannot continue efficiently without planning, and various interruptions can appear in the system. This way decisions concerning which courses, when, how, and for what purposes should be answered by considering the available resources and stakeholders? preferences. Besides, universities aiming to be in the European Higher Education Area (EHEA) have to adapt their systems to the Bologna process in order to create a lifelong student-centered, learning-oriented area based on quality assurance. In this study, an integrated approach based on the analytic hierarchy process (AHP) and multichoice goal programming (MCGP) model was proposed to construct an efficient course plan following the Bologna process. The proposed approach was applied in an industrial engineering department.
+ER  - 
+
+TY  - JOUR
+T1  - A new type of fuzzy integrals for decision making based on bivariate symmetric means
+AU  - Beliakov, Gleb
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - https://doi.org/10.1002/int.21989
+DO  - https://doi.org/10.1002/int.21989
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1660
+EP  - 1671
+VL  - 33
+IS  - 8
+KW  - averaging
+KW  - aggregation functions
+KW  - Choquet integral
+KW  - fuzzy measure
+KW  - decision making
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21989
+UR  - https://doi.org/10.1002/int.21989
+Y2  - 2020/11/10
+N2  - Abstract We propose a new generalization of the discrete Choquet integral based on an arbitrary bivariate symmetric averaging function (mean). So far only the means with a natural multivariate extension were used for this purpose. In this paper, we use a general method based on a pruned binary tree to extend symmetric means with no obvious multivariate form, such as the logarithmic, identric, Heronian, Lagrangean, and Cauchy means. The generalized Choquet integral is built by computing the extensions of the bivariate means of the ordered inputs, and includes some existing extensions as special cases. Our construction is illustrated with multiple examples.
+ER  - 
+
+TY  - JOUR
+T1  - Bio-inspired algorithms for the optimization of offshore oil production systems
+AU  - Vieira, Ian Nascimento
+AU  - de Lima, Beatriz Souza Leite Pires
+AU  - Jacob, Breno Pinheiro
+Y1  - 2012/09/07
+PY  - 2012
+DA  - 2012/09/07
+N1  - https://doi.org/10.1002/nme.4301
+DO  - https://doi.org/10.1002/nme.4301
+T2  - International Journal for Numerical Methods in Engineering
+JF  - International Journal for Numerical Methods in Engineering
+JO  - International Journal for Numerical Methods in Engineering
+JA  - Int. J. Numer. Meth. Engng
+SP  - 1023
+EP  - 1044
+VL  - 91
+IS  - 10
+KW  - optimization
+KW  - bio-inspired algorithms
+KW  - offshore systems
+KW  - genetic algorithms
+KW  - particle swarm optimization
+KW  - artificial immune system
+KW  - oil production risers
+PB  - John Wiley & Sons, Ltd
+SN  - 0029-5981
+M3  - https://doi.org/10.1002/nme.4301
+UR  - https://doi.org/10.1002/nme.4301
+Y2  - 2020/11/10
+N2  - SUMMARY This work describes the development, implementation, and assessment of enhanced variants of three different groups of bio-inspired methodologies: genetic algorithms, particle swarm optimization, and artificial immune system. The algorithms are implemented on a computational tool for the synthesis and optimization of offshore oil production risers that connect a floating platform at the sea surface to the wellheads at the sea bottom. Optimization procedures using bio-inspired algorithms for such real-world engineering problems require the calculation of the objective function through a large number of time-consuming finite element nonlinear dynamic analyses, for the evaluation of the structural behavior of each candidate configuration. Therefore, the performance of the algorithms may be measured by the smaller number of objective function evaluations associated to a given target fitness value. The results indicate that the artificial immune system approach, incorporating some enhancements presented in this work, is more effective than the genetic algorithms and particle swarm optimization methods, requiring a smaller number of evaluations to obtain better solutions. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Flood Risk Assessment and Regionalization from Past and Future Perspectives at Basin Scale
+AU  - Lai, Chengguang
+AU  - Chen, Xiaohong
+AU  - Wang, Zhaoli
+AU  - Yu, Haijun
+AU  - Bai, Xiaoyan
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1111/risa.13493
+DO  - https://doi.org/10.1111/risa.13493
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1399
+EP  - 1417
+VL  - 40
+IS  - 7
+KW  - Flood risk
+KW  - fuzzy comprehensive evaluation
+KW  - game theory
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.13493
+UR  - https://doi.org/10.1111/risa.13493
+Y2  - 2020/11/10
+N2  - Abstract Flooding is a major natural disaster that has brought tremendous losses to mankind throughout the ages. Even so, floods can be controlled by appropriate measures to minimize loss and damage. Flood risk assessment is an essential analytic step in preventing floods and reducing losses. Identifying previous flood risk and predicting future features are conducive to understanding the changing patterns and laws of flood risk. Taking the Dongjiang River basin as a study case, we assessed and regionalized flood risk in 1990, 2000, and 2010 from the past perspective and explored dynamic expansion during 1990?2010. Then, we projected land-use type, population, and gross domestic product in 2030 and 2050 and finally assessed and regionalized the risk from a future perspective. Results show that areas with very high risk accounted for 14.98?18.08% during 1990?2010; approximately 13.90% areas of the basin transformed from lower-level risk to higher-level risk whereas 9.07% fell from a higher level to a lower level during the period. For the future scenario, areas with very high and high risk in 2030 and 2050 are expected to account for 21.55% and 24.84%, respectively. Generally, our study can better identify changes in flood risk at a spatial scale and reveal the dynamic evolution rule, which provides a synthetical means of flood prevention and reduction, flood insurance, urban planning, and water resource management in the future under global climate change, especially for developing or high-speed urbanization regions.
+ER  - 
+
+TY  - JOUR
+T1  - Group Decision Support under Intuitionistic Fuzzy Relations: The Role of Weak Transitivity and Consistency
+AU  - Pȩkala, Barbara
+AU  - Szmidt, Eulalia
+AU  - Kacprzyk, Janusz
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1002/int.21923
+DO  - https://doi.org/10.1002/int.21923
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 2078
+EP  - 2095
+VL  - 33
+IS  - 10
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21923
+UR  - https://doi.org/10.1002/int.21923
+Y2  - 2020/11/10
+N2  - Abstract Human beings represent and process imperfect information in a natural way, whereas effective approaches are still being looked for in the area of soft computing. Atanassov's intuitionistic fuzzy sets and especially Atanassov's intuitionistic fuzzy relations are are tools that make it possible to model in an effective way imperfect information. In this paper, we discuss the transitivity problem of Atanassov's intuitionistic fuzzy relations. The transitivity property reflects the consistency of a preference relation. Therefore, transitivity is important from the point of view of real problems appearing, e.g., in group decision making, choice, and utility theories widely making use of the preference procedures. We study here in detail transitivity property of Atanassov's intuitionistic fuzzy relations and propose a new algorithm for generating weakly transitivity among the alternatives (options) considered. Next, making use of the new algorithm we propose a procedure of ranking of the alternatives in a group decision-making problem.
+ER  - 
+
+TY  - JOUR
+T1  - 2013 Classification Criteria for Systemic Sclerosis: An American College of Rheumatology/European League Against Rheumatism Collaborative Initiative
+AU  - van den Hoogen, Frank
+AU  - Khanna, Dinesh
+AU  - Fransen, Jaap
+AU  - Johnson, Sindhu R.
+AU  - Baron, Murray
+AU  - Tyndall, Alan
+AU  - Matucci-Cerinic, Marco
+AU  - Naden, Raymond P.
+AU  - Medsger Jr., Thomas A.
+AU  - Carreira, Patricia E.
+AU  - Riemekasten, Gabriela
+AU  - Clements, Philip J.
+AU  - Denton, Christopher P.
+AU  - Distler, Oliver
+AU  - Allanore, Yannick
+AU  - Furst, Daniel E.
+AU  - Gabrielli, Armando
+AU  - Mayes, Maureen D.
+AU  - van Laar, Jacob M.
+AU  - Seibold, James R.
+AU  - Czirjak, Laszlo
+AU  - Steen, Virginia D.
+AU  - Inanc, Murat
+AU  - Kowal-Bielecka, Otylia
+AU  - Müller-Ladner, Ulf
+AU  - Valentini, Gabriele
+AU  - Veale, Douglas J.
+AU  - Vonk, Madelon C.
+AU  - Walker, Ulrich A.
+AU  - Chung, Lorinda
+AU  - Collier, David H.
+AU  - Csuka, Mary Ellen
+AU  - Fessler, Barri J.
+AU  - Guiducci, Serena
+AU  - Herrick, Ariane
+AU  - Hsu, Vivien M.
+AU  - Jimenez, Sergio
+AU  - Kahaleh, Bashar
+AU  - Merkel, Peter A.
+AU  - Sierakowski, Stanislav
+AU  - Silver, Richard M.
+AU  - Simms, Robert W.
+AU  - Varga, John
+AU  - Pope, Janet E.
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - https://doi.org/10.1002/art.38098
+DO  - https://doi.org/10.1002/art.38098
+T2  - Arthritis & Rheumatism
+JF  - Arthritis & Rheumatism
+JO  - Arthritis & Rheumatism
+JA  - Arthritis & Rheumatism
+SP  - 2737
+EP  - 2747
+VL  - 65
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 0004-3591
+M3  - https://doi.org/10.1002/art.38098
+UR  - https://doi.org/10.1002/art.38098
+Y2  - 2020/11/10
+N2  - Objective The 1980 American College of Rheumatology (ACR) classification criteria for systemic sclerosis (SSc) lack sensitivity for early SSc and limited cutaneous SSc. The present work, by a joint committee of the ACR and the European League Against Rheumatism (EULAR), was undertaken for the purpose of developing new classification criteria for SSc. Methods Using consensus methods, 23 candidate items were arranged in a multicriteria additive point system with a threshold to classify cases as SSc. The classification system was reduced by clustering items and simplifying weights. The system was tested by 1) determining specificity and sensitivity in SSc cases and controls with scleroderma-like disorders, and 2) validating against the combined view of a group of experts on a set of cases with or without SSc. Results It was determined that skin thickening of the fingers extending proximal to the metacarpophalangeal joints is sufficient for the patient to be classified as having SSc; if that is not present, 7 additive items apply, with varying weights for each: skin thickening of the fingers, fingertip lesions, telangiectasia, abnormal nailfold capillaries, interstitial lung disease or pulmonary arterial hypertension, Raynaud's phenomenon, and SSc-related autoantibodies. Sensitivity and specificity in the validation sample were, respectively, 0.91 and 0.92 for the new classification criteria and 0.75 and 0.72 for the 1980 ACR classification criteria. All selected cases were classified in accordance with consensus-based expert opinion. All cases classified as SSc according to the 1980 ACR criteria were classified as SSc with the new criteria, and several additional cases were now considered to be SSc. Conclusion The ACR/EULAR classification criteria for SSc performed better than the 1980 ACR criteria for SSc and should allow for more patients to be classified correctly as having the disease.
+ER  - 
+
+TY  - JOUR
+T1  - Similarity measures of Pythagorean fuzzy sets based on the cosine function and their applications
+AU  - Wei, Guiwu
+AU  - Wei, Yu
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1002/int.21965
+DO  - https://doi.org/10.1002/int.21965
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 634
+EP  - 652
+VL  - 33
+IS  - 3
+KW  - cosine function
+KW  - cosine similarity measure
+KW  - medical diagnosis
+KW  - pattern recognition
+KW  - Pythagorean fuzzy sets
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21965
+UR  - https://doi.org/10.1002/int.21965
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we presented 10 similarity measures between Pythagorean fuzzy sets (PFSs) based on the cosine function by considering the degree of membership, degree of nonmembership and degree of hesitation in PFSs. Then, we applied these similarity measures and weighted similarity measures between PFSs to pattern recognition and medical diagnosis. Finally, two illustrative examples are given to demonstrate the efficiency of the similarity measures for pattern recognition and medical diagnosis.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating Fund Performance by Compromise Programming with Linear-Quadratic Composite Metric: An Actual Case on The CaixaBank in Spain
+AU  - Bravo, Mila
+AU  - Ballestero, Enrique
+AU  - Pla-Santamaria, David
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - https://doi.org/10.1002/mcda.1474
+DO  - https://doi.org/10.1002/mcda.1474
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 247
+EP  - 255
+VL  - 19
+IS  - 5-6
+KW  - fund performance
+KW  - compromise programming
+KW  - additive measures
+KW  - ranking
+KW  - domination
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1474
+UR  - https://doi.org/10.1002/mcda.1474
+Y2  - 2020/11/10
+N2  - ABSTRACT This paper proposes an additive measure on the basis of compromise programming to evaluate fund performance from multiple criteria, of which the most usual are profitability and risk. This proposal is motivated by the fact that compromise programming is a sound decision support model to obtain scores of alternatives by minimizing weighted distances to an ideal point, the weights reflecting the investor's preferences for the criteria. To define the distance objective function, the linear-quadratic composite metric is used, which combines advantages of linear and non-linear objective functions. A critical advantage of compromise programming for fund performance evaluation is that the model can be extended to more than two financial criteria while other measures currently used (either ratio-based or leverage-based measures) only consider two criteria, say, profitability and risk. In the application, three investor's profiles are defined, which involve different weighting systems and lead to different fund rankings. These rankings are compared with domination relationships, the latter formulating if a fund is dominated or non-dominated by convex combinations of other funds. Numerical tables are provided with data, computational process and results, which are analysed. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria ABC inventory classification using acceptability analysis
+AU  - Li, Zhi
+AU  - Wu, Xunbo
+AU  - Liu, Fan
+AU  - Fu, Yelin
+AU  - Chen, Ke
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1111/itor.12412
+DO  - https://doi.org/10.1111/itor.12412
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 2494
+EP  - 2507
+VL  - 26
+IS  - 6
+KW  - ABC inventory classification
+KW  - stochastic multicriteria acceptability analysis
+KW  - preference
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12412
+UR  - https://doi.org/10.1111/itor.12412
+Y2  - 2020/11/10
+N2  - Abstract This paper introduces a new procedure for handling the multicriteria ABC inventory classification problem using stochastic multicriteria acceptability analysis. All possible preferences among the evaluation criteria have been considered. Due to the fact that even under certain preference, it is difficult to reach a group consensus on the exact weight values along with each criterion, we calculate preference-specific intervals under each preference and then formulate a stochastic decision-making problem. To tackle this problem, we consider different distribution functions of the intervals and then compute the holistic acceptability indices to classify stock-keeping units. The results derived from our method are compared to the previous results to show the robustness and superiority of our method.
+ER  - 
+
+TY  - JOUR
+T1  - CROSA: Context-aware cloud service ranking approach using online reviews based on sentiment analysis
+AU  - Ben-Abdallah, Emna
+AU  - Boukadi, Khouloud
+AU  - Lloret, Jaime
+AU  - Hammami, Mohamed
+Y1  - 2019/05/24
+PY  - 2019
+DA  - 2019/05/24
+N1  - https://doi.org/10.1002/cpe.5358
+DO  - https://doi.org/10.1002/cpe.5358
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5358
+VL  - n/a
+IS  - n/a
+KW  - cloud service ranking
+KW  - context
+KW  - intuitionistic fuzzy set
+KW  - online reviews
+KW  - sentiment analysis
+KW  - SMI
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5358
+UR  - https://doi.org/10.1002/cpe.5358
+Y2  - 2020/11/10
+N2  - Summary The explosion of cloud services over the Internet has raised new challenges in cloud service selection and ranking. The existence of a great variety of offered cloud services made the users think deeply about the most appropriate services that meet their needs and at the same time are adaptable to their context. Nowadays, online reviews are used for the purpose of enhancing the effectiveness of finding useful product information, having impact on the consumers' decision-making process. In this context, the current paper suggests a context-aware cloud service ranking approach using online reviews and based on sentiment analysis (CROSA). Its main objective is to ease the cloud service selection. The CROSA approach analyzes sentiments associated with service measurement index (SMI)?based service properties for each alternative cloud service. Moreover, it enhances the cloud service decision-making by supporting fuzzy sentiments through the intuitionistic fuzzy set theory and PROMETHEE II. The experimental results presented in this paper show that this approach is efficient and performing.
+ER  - 
+
+TY  - JOUR
+T1  - The Use of the Taguchi Method and a Neural-Genetic Approach to Optimize the Quality of a Pulsed Nd:YAG Laser Welding Process
+AU  - Lin, H.-L.
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - https://doi.org/10.1111/j.1747-1567.2012.00849.x
+DO  - https://doi.org/10.1111/j.1747-1567.2012.00849.x
+T2  - Experimental Techniques
+JF  - Experimental Techniques
+JO  - Experimental Techniques
+SP  - 21
+EP  - 29
+VL  - 39
+IS  - 4
+KW  - Pulsed Nd:YAG Laser
+KW  - Welding
+KW  - Taguchi Method
+KW  - Neural Network
+KW  - Genetic Algorithm
+PB  - John Wiley & Sons, Ltd
+SN  - 0732-8818
+M3  - https://doi.org/10.1111/j.1747-1567.2012.00849.x
+UR  - https://doi.org/10.1111/j.1747-1567.2012.00849.x
+Y2  - 2020/11/10
+N2  - In the production process of lithium-ion secondary batteries, the lap-joint quality of the safety vent and the cathode lead in?uences the product quality and production effciency. A pulsed Nd:YAG laser welding machine was employed herein. The welding parameters that in?uence the pulsed Nd:YAG laser welding quality was evaluated by measuring the tensile-shear strength. In this study, the Taguchi method was used to perform the initial optimization of the process parameters. A neural network (NN) with the Levenberg?Marquardt back-propagation algorithm was adopted to develop the nonlinear relationship between factors and the response. Then, a genetic algorithm based on a well-trained NN model was applied to determine the optimal factor settings. Experimental results illustrated the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Impact analysis of logistics facility relocation using the analytic hierarchy process (AHP)
+AU  - Opasanon, Sathaporn
+AU  - Lertsanti, Pattarakamol
+Y1  - 2013/05/01
+PY  - 2013
+DA  - 2013/05/01
+N1  - https://doi.org/10.1111/itor.12002
+DO  - https://doi.org/10.1111/itor.12002
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 325
+EP  - 339
+VL  - 20
+IS  - 3
+KW  - analytic hierarchy process (AHP)
+KW  - pick-up and deliveries
+KW  - banking
+KW  - logistics
+KW  - distribution center
+KW  - transportation
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12002
+UR  - https://doi.org/10.1111/itor.12002
+Y2  - 2020/11/10
+N2  - Abstract Facility relocation has a long-term impact on business competitiveness in terms of cost efficiency, service level, and accessibility to marketplace. This paper investigates the impacts of relocating a company's logistics facility. Specifically, a case study of a logistics service provider for a bank, whose services include cash pick-up and deliveries, and ATM refill, is conducted. Some of the major logistics issues caused by the relocation of the company's distribution center are identified through process observation and in-depth interview. The analytic hierarchy process (AHP) is implemented to evaluate and rank the importance of the logistics issues according to the needs and requirements of the company's policy makers. Four criteria considered in the AHP include cost, responsiveness, reliability, and utilization. Results show that, from the company's perspective, the development of logistics key performance indices is given the highest priority, followed by improvement of internal process, vehicle routing, network design, and inventory management, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - A survey of recommendation techniques based on offline data processing
+AU  - Ren, Yongli
+AU  - Li, Gang
+AU  - Zhou, Wanlei
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - https://doi.org/10.1002/cpe.3370
+DO  - https://doi.org/10.1002/cpe.3370
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat.: Pract. Exper.
+SP  - 3915
+EP  - 3942
+VL  - 27
+IS  - 15
+KW  - recommendation
+KW  - collaborative filtering
+KW  - recommender systems
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.3370
+UR  - https://doi.org/10.1002/cpe.3370
+Y2  - 2020/11/10
+N2  - Summary Recommendations based on offline data processing has attracted increasing attention from both research communities and IT industries. The recommendation techniques could be used to explore huge volumes of data, identify the items that users probably like, translate the research results into real-world applications and so on. This paper surveys the recent progress in the research of recommendations based on offline data processing, with emphasis on new techniques (such as temporal recommendation, graph-based recommendation and trust-based recommendation), new features (such as serendipitous recommendation) and new research issues (such as tag recommendation and group recommendation). We also provide an extensive review of evaluation measurements, benchmark data sets and available open source tools. Finally, we outline some existing challenges for future research. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Security risk assessment and management in chemical plants: Challenges and new trends
+AU  - Khakzad, Nima
+AU  - Martinez, Imee Su
+AU  - Kwon, Hyuck-Myun
+AU  - Stewart, Constantine
+AU  - Perera, Rohan
+AU  - Reniers, Genserik
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - https://doi.org/10.1002/prs.11914
+DO  - https://doi.org/10.1002/prs.11914
+T2  - Process Safety Progress
+JF  - Process Safety Progress
+JO  - Process Safety Progress
+JA  - Proc. Safety Prog.
+SP  - 211
+EP  - 220
+VL  - 37
+IS  - 2
+KW  - security vulnerability assessment
+KW  - chemical plants
+KW  - mutually interactive parameters
+KW  - Bayesian network
+PB  - John Wiley & Sons, Ltd
+SN  - 1066-8527
+M3  - https://doi.org/10.1002/prs.11914
+UR  - https://doi.org/10.1002/prs.11914
+Y2  - 2020/11/10
+N2  - The present study is to point out the outcomes of the Seminar on the Chemical Weapon Convention and Chemical Safety and Security Management for Member States in the Asia Region held by Organization for the Prohibition of Chemical Weapons in Doha, Qatar, in February 2017. The seminar was aimed at supporting chemical safety and security (CSS) management in the chemical industry in Asian countries. Overall goal was to sensitize States Parties to the new approaches that can be adopted in relation to CSS management, with a particular focus on providing assistance to small and medium-sized enterprises. This article reflects the observations made by keynote speakers via their interaction with participants from Asian State Parties during presentations' questions & answers sessions and following workshops. The article is an attempt to highlight the challenges in security risk assessment and management of chemical facilities and discuss some new trends for further improvements. ? 2017 American Institute of Chemical Engineers Process Saf Prog 37: 211?220, 2018
+ER  - 
+
+TY  - JOUR
+T1  - Sparse Inverse Covariance Estimation: A Data Mining Technique to Unravel Holistic Patterns among Business Practices in Firms
+AU  - Li, Mei
+AU  - Wu, Ying
+AU  - He, Yi
+AU  - Huang, Shuai
+AU  - Nair, Anand
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1111/deci.12404
+DO  - https://doi.org/10.1111/deci.12404
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 1046
+EP  - 1073
+VL  - 51
+IS  - 4
+KW  - Bootstrapping
+KW  - Business Practices
+KW  - Firm Performance
+KW  - Holistic Patterns
+KW  - Sparse Inverse Covariance Estimation
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/deci.12404
+UR  - https://doi.org/10.1111/deci.12404
+Y2  - 2020/11/10
+N2  - ABSTRACT Firms are seeking ways to improve managerial decision making in order to enhance operational performance. However, the complexities underlying business processes often mean that operational performance depends on a multitude of factors. Yet, at times the number of empirical cases is rather limited. This presents the challenge of discerning meaningful patterns among a large number of variables that can then be used to derive generalized frameworks and mental models for decision making. In this article, we tackle this challenge with an extension of Sparse Inverse Covariance Estimation (SICE), a novel data mining technique, to address decisions in Operations and Supply Chain Management. We conduct a simulation study to validate the effectiveness of this extension in improving the accuracy and stability of pattern detection. We then apply it to an empirical dataset that is characterized by high dimension, low sample size, and lack of multivariate normal distribution. Our study pioneers the application of SICE in Operations and Supply Chain research. We also extend SICE with bootstrapping. The extended SICE is an effective technique for mining a complex empirical dataset and is a valuable aid for decision support.
+ER  - 
+
+TY  - JOUR
+T1  - Combining PCA With DEA to Improve the Evaluation of Project Performance Data: A Taiwanese Bureau of Energy Case Study
+AU  - Fu, Hsin-Pin
+AU  - Ou, Jia-Ruey
+Y1  - 2013/02/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - https://doi.org/10.1002/pmj.21323
+DO  - https://doi.org/10.1002/pmj.21323
+T2  - Project Management Journal
+JF  - Project Management Journal
+JO  - Project Management Journal
+JA  - Proj Mgmt Jrnl
+SP  - 94
+EP  - 106
+VL  - 44
+IS  - 1
+KW  - energy projects
+KW  - principal component analysis
+KW  - data envelopment analysis
+KW  - performance evaluation
+PB  - John Wiley & Sons, Ltd
+SN  - 8756-9728
+M3  - https://doi.org/10.1002/pmj.21323
+UR  - https://doi.org/10.1002/pmj.21323
+Y2  - 2020/11/10
+N2  - Abstract This article proposes a new method of project performance evaluation, by which project performance data can be better understood. This article combines principal component analysis (PCA) and data envelopment analysis (DEA) to enhance the efficiency of decision-making units more accurately. The data used was based on energy projects promoted by the Bureau of Energy at the Ministry of Economic Affairs in Taiwan. The results of this article show that by combining PCA and DEA in evaluating the performance of energy projects, there was an improved evaluation of projects over simply using DEA data alone.
+ER  - 

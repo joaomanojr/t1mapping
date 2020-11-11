@@ -1,0 +1,1424 @@
+
+TY  - JOUR
+T1  - Future De Novo Drug Design
+AU  - Schneider, Gisbert
+Y1  - 2014/06/01
+PY  - 2014
+DA  - 2014/06/01
+N1  - https://doi.org/10.1002/minf.201400034
+DO  - https://doi.org/10.1002/minf.201400034
+T2  - Molecular Informatics
+JF  - Molecular Informatics
+JO  - Molecular Informatics
+JA  - Mol. Inf.
+SP  - 397
+EP  - 402
+VL  - 33
+IS  - 6‐7
+KW  - Cheminformatics
+KW  - Drug discovery
+KW  - Microfluidics
+KW  - Molecular design
+KW  - Polypharmacology
+PB  - John Wiley & Sons, Ltd
+SN  - 1868-1743
+M3  - https://doi.org/10.1002/minf.201400034
+UR  - https://doi.org/10.1002/minf.201400034
+Y2  - 2020/11/10
+N2  - Abstract The computer-assisted generation of new chemical entities (NCEs) has matured into solid technology supporting early drug discovery. Both ligand- and receptor-based methods are increasingly used for designing small lead- and druglike molecules with anticipated multi-target activities. Advanced ?polypharmacology? prediction tools are essential pillars of these endeavors. In addition, it has been realized that iterative design-synthesis-test cycles facilitate the rapid identification of NCEs with the desired activity profile. Lab-on-a-chip platforms integrating synthesis, analytics and bioactivity determination and controlled by adaptive, chemistry-driven de novo design software will play an important role for future drug discovery.
+ER  - 
+
+TY  - JOUR
+T1  - Foreword to the Special Issue on the 2017 Edition of the Workshop on Performance Evaluation of communications in DIstributed Systems and WEb-based Service Architectures (PEDISWESA 2017)
+AU  - Foschini, Luca
+AU  - Kim, Hyunbum
+Y1  - 2019/12/25
+PY  - 2019
+DA  - 2019/12/25
+N1  - https://doi.org/10.1002/cpe.5429
+DO  - https://doi.org/10.1002/cpe.5429
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5429
+VL  - 31
+IS  - 24
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5429
+UR  - https://doi.org/10.1002/cpe.5429
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Application of uninorms to market basket analysis
+AU  - Moodley, Raymond
+AU  - Chiclana, Francisco
+AU  - Caraffini, Fabio
+AU  - Carter, Jenny
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - https://doi.org/10.1002/int.22039
+DO  - https://doi.org/10.1002/int.22039
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 39
+EP  - 49
+VL  - 34
+IS  - 1
+KW  - aggregate measures
+KW  - confidence
+KW  - frequent itemset mining
+KW  - marketbasket analysis
+KW  - support
+KW  - uninorms
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.22039
+UR  - https://doi.org/10.1002/int.22039
+Y2  - 2020/11/10
+N2  - Abstract The ability for grocery retailers to have a single view of customers across all their grocery purchases remains elusive and has become increasingly important in recent years (especially in the United Kingdom) where competition has intensified, shopping habits and demographics have changed and price sensitivity has increased following the 2008 recession. Numerous studies have been conducted on understanding independent items that are frequently bought together (association rule mining/frequent itemsets) with several measures proposed to aggregate item support and rule confidence with varying levels of accuracy as these measures are highly context dependent. Uninorms were used as an alternative measure to aggregate support and confidence in analysing market basket data using the UK grocery retail sector as a case study. Experiments were conducted on consumer panel data with the aim of comparing the uninorm against three other popular measures (Jaccard, Cosine and Conviction). It was found that the uninorm outperformed other models on its adherence to the fundamental monotonicity property of support in market basket analysis (MBA). Future work will include the extension of this analysis to provide a generalised model for market basket analysis.
+ER  - 
+
+TY  - JOUR
+T1  - A design methodology for matching smart health requirements
+AU  - Bellandi, Valerio
+AU  - Ceravolo, Paolo
+AU  - Cristiano, Alessia
+AU  - Damiani, Ernesto
+AU  - Sanna, Alberto
+AU  - Trojaniello, Diana
+Y1  - 2020/10/28
+PY  - 2020
+DA  - 2020/10/28
+N1  - https://doi.org/10.1002/cpe.6062
+DO  - https://doi.org/10.1002/cpe.6062
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e6062
+VL  - n/a
+IS  - n/a
+KW  - IoT platforms
+KW  - requirements elicitation
+KW  - smart health ecosystems
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.6062
+UR  - https://doi.org/10.1002/cpe.6062
+Y2  - 2020/11/10
+N2  - Summary As now well established, the world population is aging rapidly and, according to World Health Organization (WHO), the amount of people aged 60 years and older is expected to total 2 billion in 2050. For this reason, an emerging important issue is the definition of a new generation of healthcare platforms capable of monitoring people's quality of life. In this article, we propose a new methodology that supports the entire requirement elicitation process starting from the initial phase of gathering the requirements, both clinical, technological, and end-user, up to the choice of the most suitable solution. Our proposal provides a new new iterative model in the smart healthcare field research area. Furthermore we apply our proposal in a real scenario and we report the end-to-end implementation of the proposed methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Real time reliability monitoring of hydro-power plant by combined cognitive decision-making technique
+AU  - Majumder, Priyanka
+AU  - Majumder, Mrinmoy
+AU  - Saha, Apu Kumar
+AU  - Sarkar, Koushani
+AU  - Nath, Soumitra
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.1002/er.4530
+DO  - https://doi.org/10.1002/er.4530
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+SP  - 4912
+EP  - 4939
+VL  - 43
+IS  - 9
+KW  - cognitive
+KW  - hydropower plant
+KW  - MCDM
+KW  - reliability
+PB  - John Wiley & Sons, Ltd
+SN  - 0363-907X
+M3  - https://doi.org/10.1002/er.4530
+UR  - https://doi.org/10.1002/er.4530
+Y2  - 2020/11/10
+N2  - Summary Hydro power plants are one of the most cost-effective renewable technologies which have the potential to replace the conventional fuels. However, reliability of the plant varies with time due to irregularity in flow pattern of the river which depends on the pattern of climatic parameters like precipitation and evapo-transpiration. The reliability of the plant performance also varies with the efficiency of the power equipment and conveyance coefficient of penstock, both of which are time dependent. When reliability reduces, performance efficiency also gets degraded. That is why, monitoring of reliability in hydro power plants is essential and required to be conducted periodically. But at present, such activities are expensive due to the requirement of extensive surveys, data collection and performance audits of the equipment and structures involved in the power production. There is a lack of single indicator based real time monitoring processes which can be utilized to continuously regulate the reliability of the power plant. Such system can reduce both cost and time required for conducting reliability assessment procedures. That is why, in the present study, an objective and cognitive technique was utilized to develop a single index for real time monitoring of the reliability of a power plant. The results indicate that efficiency of generator, levelized cost of electricity and rate of selling per unit electricity are the most significant indicator which have the capability to represent reliability. A model developed for the present study by Polynomial Neural Network also ensures that regular monitoring of reliability of an HPP is possible.
+ER  - 
+
+TY  - JOUR
+T1  - 9.1.2 Two-stage Multi-objective Analysis in the Assignment of Federal Air Marshals
+AU  - Philie, Mathieu
+AU  - Kwinn Jr., Michael J.
+AU  - Henderson, Steven J.
+Y1  - 2014/07/01
+PY  - 2014
+DA  - 2014/07/01
+N1  - https://doi.org/10.1002/j.2334-5837.2014.tb03189.x
+DO  - https://doi.org/10.1002/j.2334-5837.2014.tb03189.x
+T2  - INCOSE International Symposium
+JF  - INCOSE International Symposium
+JO  - INCOSE International Symposium
+JA  - INCOSE International Symposium
+SP  - 908
+EP  - 922
+VL  - 24
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 2334-5837
+M3  - https://doi.org/10.1002/j.2334-5837.2014.tb03189.x
+UR  - https://doi.org/10.1002/j.2334-5837.2014.tb03189.x
+Y2  - 2020/11/10
+N2  - Abstract The United States Federal Air Marshal Service (FAMS) plays a critical role in ensuring safe travel aboard United States (US) air carriers. Federal Air Marshall agents, who operate out of field offices throughout the US, are assigned to accompany flights in order to deter and respond to hostile acts. In an era of limited resources, the FAMS is interested in optimally locating its field offices and agents to minimize the overall risk to the US air transportation system. This represents a highly constrained and complex optimization problem that resists standard techniques. In this paper, we demonstrate an approach that leverages the value-focused thinking to model risk and optimize risk mitigation. Our approach uses a novel two-stage approach to risk analysis that reduces the optimization burden and provides a solution to the FAMS.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial-temporal variations of water poverty in rural China considered through the KDE and ESDA models
+AU  - Liu, Wenxin
+AU  - Zhao, Minjuan
+AU  - Hu, Wei
+AU  - Cai, Yu
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1111/1477-8947.12162
+DO  - https://doi.org/10.1111/1477-8947.12162
+T2  - Natural Resources Forum
+JF  - Natural Resources Forum
+JO  - Natural Resources Forum
+JA  - Nat Resour Forum
+SP  - 254
+EP  - 268
+VL  - 42
+IS  - 4
+KW  - Rural water poverty
+KW  - KDE-ESDA model
+KW  - spatial-temporal variations
+KW  - water resources management
+PB  - John Wiley & Sons, Ltd
+SN  - 0165-0203
+M3  - https://doi.org/10.1111/1477-8947.12162
+UR  - https://doi.org/10.1111/1477-8947.12162
+Y2  - 2020/11/10
+N2  - Water shortage is a common problem around the world, especially in rural areas of developing countries. Water shortage is closely linked to natural and social conditions, and the linkages between these natural and social conditions and their underlying spatial and temporal variations are less well explored in rural areas. The water poverty index (WPI) is a holistic tool for resource planning and management and is an effective tool in solving water shortage problems in developing countries through water resources managements. This study defines five components and 19 indicators using the WPI and assigns integrated weights to measure water poverty in rural China from 1997 to 2016. The results show that the level of water poverty has been gradually declining over time, and the improvements in the coastal and inland water poverty situation are not harmonious. This study also analyzes spatial and temporal variations of water poverty in rural China by the kernel estimation (KDE) and the exploratory spatial data analysis (ESDA) models. Hence, specific areas require special policy interventions. The research findings are intended to provide a new insight for the evaluation of water poverty in the context of sustainable development and to provide a strategy for regional water resource management to relieve rural water poverty in developing countries.
+ER  - 
+
+TY  - JOUR
+T1  - Wind energy literature survey no. 34
+AU  - Pavese, Christian
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - https://doi.org/10.1002/we.1813
+DO  - https://doi.org/10.1002/we.1813
+T2  - Wind Energy
+JF  - Wind Energy
+JO  - Wind Energy
+JA  - Wind Energ.
+SP  - 1313
+EP  - 1316
+VL  - 18
+IS  - 7
+KW  - Literature Survey
+KW  - Wind Energy
+PB  - John Wiley & Sons, Ltd
+SN  - 1095-4244
+M3  - https://doi.org/10.1002/we.1813
+UR  - https://doi.org/10.1002/we.1813
+Y2  - 2020/11/10
+N2  - Abstract As a service to readers, Wind Energy regularly conducts literature surveys and publishes lists of relevant articles drawn from recent issues of Wind Energy itself and a large number of periodicals including Journal of Wind Engineering and Industrial Aerodynamics, International Journal of Energy Research, Renewable Energy, Energy Sources, Journal of Solar Energy Engineering, American Institute of Aeronautics and Astronautics Journal, Electric Power Components and Systems along with a number of periodicals published by the Institute of Electrical and Electronics Engineers, etc. The list is limited exclusively to journals not specifically devoted to wind energy and its applications. To assist the reader, the list is separated into broad categories. Although many papers fit several categories, each paper is listed only once under the category thought most appropriate. Please note that the inclusion in the list is not an endorsement of a paper's quality. Compiled by Christian Pavese, Department of Wind Energy, Technical University of Denmark, PO 49, DK-4000 Roskilde, Denmark. Please email any suggestions to cpav@dtu.dk. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1111/bcpt.13405
+DO  - https://doi.org/10.1111/bcpt.13405
+T2  - Basic & Clinical Pharmacology & Toxicology
+JF  - Basic & Clinical Pharmacology & Toxicology
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+SP  - 3
+EP  - 434
+VL  - 126
+IS  - S4
+PB  - John Wiley & Sons, Ltd
+SN  - 1742-7835
+M3  - https://doi.org/10.1111/bcpt.13405
+UR  - https://doi.org/10.1111/bcpt.13405
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Termine: Stahlbau 1/2016
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - https://doi.org/10.1002/stab.201690006
+DO  - https://doi.org/10.1002/stab.201690006
+T2  - Stahlbau
+JF  - Stahlbau
+JO  - Stahlbau
+JA  - Stahlbau
+SP  - 80
+EP  - 80
+VL  - 85
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-9145
+M3  - https://doi.org/10.1002/stab.201690006
+UR  - https://doi.org/10.1002/stab.201690006
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - 6.3.1 Secure Adaptive Response Potential (SARP): A System Security Metric
+AU  - Simpson, Joseph J
+AU  - Miller, Ann
+AU  - Dagli, Cihan H
+Y1  - 2008/06/01
+PY  - 2008
+DA  - 2008/06/01
+N1  - https://doi.org/10.1002/j.2334-5837.2008.tb00838.x
+DO  - https://doi.org/10.1002/j.2334-5837.2008.tb00838.x
+T2  - INCOSE International Symposium
+JF  - INCOSE International Symposium
+JO  - INCOSE International Symposium
+JA  - INCOSE International Symposium
+SP  - 706
+EP  - 719
+VL  - 18
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 2334-5837
+M3  - https://doi.org/10.1002/j.2334-5837.2008.tb00838.x
+UR  - https://doi.org/10.1002/j.2334-5837.2008.tb00838.x
+Y2  - 2020/11/10
+N2  - Abstract System design, development and operational activities are monitored and evaluated to facilitate proper system security management in all phases of the system life-cycle. Effective system security metrics must address all phases of the system life-cycle as well as the associated organizational elements that interact during the system life-cycle to produce and operate the system of interest. A single system security metric, built from multiple components, is presented here as a fundamental system management security metric. This single technical security metric is used to support and evaluate the allocation of corporate and program resources, including time and budget.
+ER  - 
+
+TY  - JOUR
+T1  - Issue Information
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - https://doi.org/10.1111/itor.12682
+DO  - https://doi.org/10.1111/itor.12682
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 519
+EP  - 522
+VL  - 28
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12682
+UR  - https://doi.org/10.1111/itor.12682
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Risk-based maintenance for asset management of power transformer: practical experience in Thailand
+AU  - Suwanasri, Thanapong
+AU  - Phadungthin, Rattanakorn
+AU  - Suwanasri, Cattareeya
+Y1  - 2014/08/01
+PY  - 2014
+DA  - 2014/08/01
+N1  - https://doi.org/10.1002/etep.1764
+DO  - https://doi.org/10.1002/etep.1764
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 1103
+EP  - 1119
+VL  - 24
+IS  - 8
+KW  - Analytic Hierarchy Process
+KW  - pairwise comparisons
+KW  - power transformer
+KW  - condition assessment
+KW  - failure analysis
+KW  - condition-based maintenance
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.1764
+UR  - https://doi.org/10.1002/etep.1764
+Y2  - 2020/11/10
+N2  - SUMMARY Nowadays, the requirement on diminishing operating and maintenance costs is highly concerned for utilities in competitive electricity market. Power transformer is first focused due to its acquisition costs and failure consequences (FCs). Traditional preventive maintenance for power transformer is generally applied. However, it is very costly and does not take into account actual transformer condition. Hence, risk-based maintenance is introduced in this paper to facilitate the maintenance works of power transformers. The conditions of power transformers are evaluated from electrical test, insulating oil test and visual inspection by using the ranking and weighting techniques. In addition, the Analytic Hierarchy Process (AHP) is proposed to determine the important weighting factor of each transformer component. The three main criteria of the AHP are maintenance difficulty, FC and failure history. Moreover, the Weibull distribution techniques are applied to analyze failure causes. The computerized web-application program is developed and implemented for practical use in a utility in Thailand. The power transformers installed in 115 kV and 230 kV transmission systems in Thailand are assessed due to availability and quality of data. From statistical analysis of failure records, the conditions of power transformer can be divided into three different zones as risk, moderate and healthy zone. The defective components in risk zone with higher proportion of failure should be carefully focused. The components and overall condition of the transformers are perceived from the analysis of test results. Subsequently, the risk-based maintenance is properly planned according to the actual condition. Therefore, maintenance of power transformer fleet can be effectively managed resulting in higher availability and reliability, lower risk of failure and lower cost of maintenance. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Introducing Uncertainty in Multidiscipline Ship Design
+AU  - HANNAPEL, SHARI
+AU  - VLAHOPOULOS, NICKOLAS
+Y1  - 2010/06/01
+PY  - 2010
+DA  - 2010/06/01
+N1  - https://doi.org/10.1111/j.1559-3584.2010.00267.x
+DO  - https://doi.org/10.1111/j.1559-3584.2010.00267.x
+T2  - Naval Engineers Journal
+JF  - Naval Engineers Journal
+JO  - Naval Engineers Journal
+SP  - 41
+EP  - 52
+VL  - 122
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 0028-1425
+M3  - https://doi.org/10.1111/j.1559-3584.2010.00267.x
+UR  - https://doi.org/10.1111/j.1559-3584.2010.00267.x
+Y2  - 2020/11/10
+N2  - Abstract Mathematical formulations of reliability-based design and robust design have been developed for addressing the presence of uncertainty during optimization. When reliability is introduced in the design process, the constraints that are influenced by uncertainty are converted into probabilistic constraints. This ensures that the optimal solution will satisfy the constraints in the presence of uncertainty within a prescribed reliability level. Robustness is introduced by modifying the objective function to depend on the mean and variance of the response of the objective function. This paper presents a formulation for applying reliability-based design and robust design within a network of parallel optimizations in order to account for uncertainty in multidiscipline design optimization. The method for multidiscipline design optimization under uncertainty is applied to a conceptual ship design. The model of a bulk carrier from the literature is used in this analysis. The optimization results are compared with previous data and they demonstrate that reliable and robust optimization can be applied effectively to ship design, and that it is important to consider uncertainty during the multidiscipline ship design process.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - https://doi.org/10.1111/bcpt.13217
+DO  - https://doi.org/10.1111/bcpt.13217
+T2  - Basic & Clinical Pharmacology & Toxicology
+JF  - Basic & Clinical Pharmacology & Toxicology
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+SP  - 3
+EP  - 379
+VL  - 124
+IS  - S3
+PB  - John Wiley & Sons, Ltd
+SN  - 1742-7835
+M3  - https://doi.org/10.1111/bcpt.13217
+UR  - https://doi.org/10.1111/bcpt.13217
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Modelling algal abnormal proliferation in a reservoir using support vector regression: a case study
+AU  - Díaz Muñiz, C.
+AU  - Alonso Fernández, J. R.
+AU  - García Nieto, P. J.
+AU  - Alvarez Antón, J. C.
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1002/eco.1568
+DO  - https://doi.org/10.1002/eco.1568
+T2  - Ecohydrology
+JF  - Ecohydrology
+JO  - Ecohydrology
+JA  - Ecohydrol.
+SP  - 1109
+EP  - 1118
+VL  - 8
+IS  - 6
+KW  - algal abnormal proliferation
+KW  - chlorophyll
+KW  - statistical learning techniques
+KW  - support vector machines (SVMs)
+KW  - regression analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1936-0584
+M3  - https://doi.org/10.1002/eco.1568
+UR  - https://doi.org/10.1002/eco.1568
+Y2  - 2020/11/10
+N2  - Abstract An important issue in lake and reservoir management is to prevent algal proliferation and its problematic symptom: the algal blooms that deteriorate water quality and ruin its use. The aim of this study was to obtain a predictive model able to perform an early detection of algal abnormal proliferation using as a predictor the chlorophyll a (Chl a) concentration of previous days. For this purpose, some biological parameters (phytoplankton species expressed in biovolume) in addition to the most important chemical and physical?chemical parameters were considered. The implementation of the statistical learning method known as support vector machines (SVMs) allowed us to predict the Chl a concentration, one of the most frequently used estimators of algal biomass, and to study its evolution in the Trasona reservoir (Principality of Asturias, Northern Spain). In the first place, the main goal was to obtain the dependence relationship of chlorophyll concentration as a function of not only several chemical and physical?chemical variables but also the biological ones. This dependence relationship was useful in setting the significance order of the variables involved in the Chl a prediction. Secondly, a model for forecasting the algal abnormal proliferation is obtained. The agreement between experimental data and the model confirmed the good performance of the latter. Finally, conclusions of this innovative research work are exposed. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Tourism land use simulation for regional tourism planning using POIs and cellular automata
+AU  - Shi, Hong
+AU  - Li, Xia
+AU  - Yang, Zhenzhi
+AU  - Li, Taohong
+AU  - Ren, Yun
+AU  - Liu, Tingting
+AU  - Yang, Ningdong
+AU  - Zhang, Hang
+AU  - Chen, Guangzhao
+AU  - Liang, Xun
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1111/tgis.12626
+DO  - https://doi.org/10.1111/tgis.12626
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 1119
+EP  - 1138
+VL  - 24
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12626
+UR  - https://doi.org/10.1111/tgis.12626
+Y2  - 2020/11/10
+N2  - Abstract Previous studies on tourism land use primarily focus on the spatial distribution, and its related impacts on the environment. Here, we propose a future tourism land use simulation model for mountain vacations based on the cellular automata and Markov chain methods, having verified and simulated tourism land use in Emeishan city at a spatial resolution of 30 ? 30 m using remote sensing and GIS. In addition, we introduced a tourism land use intensity index to study the spatial expansion mode of tourism land use. The results have confirmed the validity of the model and demonstrated its ability to simulate future tourism land use. The average growth rate of tourism land use from 2010 to 2015 is 33.36%, and tourism land use will rise from 1.26% of Emeishan city?s land area in 2015 to 2.95% in 2030. Tourism land use shows a spatial expansion pattern along channels from scenic spots to the urban area. The growth of tourism land use in the protected area has an increasing trend when there is no restriction on development, especially in the Eshan region. The simulation results can provide useful implications and guides for regional tourism planning and management.
+ER  - 
+
+TY  - JOUR
+T1  - Networked predictive control for Hammerstein systems
+AU  - Sun, Jian
+AU  - Liu, Guo-Ping
+AU  - Chen, Jie
+AU  - Rees, David
+Y1  - 2011/03/01
+PY  - 2011
+DA  - 2011/03/01
+N1  - https://doi.org/10.1002/asjc.281
+DO  - https://doi.org/10.1002/asjc.281
+T2  - Asian Journal of Control
+JF  - Asian Journal of Control
+JO  - Asian Journal of Control
+JA  - Asian Journal of Control
+SP  - 265
+EP  - 272
+VL  - 13
+IS  - 2
+KW  - Networked control systems
+KW  - Hammerstein systems
+KW  - networked predictive control
+KW  - switched Lyapunov function
+KW  - network-induced delay
+PB  - John Wiley & Sons, Ltd
+SN  - 1561-8625
+M3  - https://doi.org/10.1002/asjc.281
+UR  - https://doi.org/10.1002/asjc.281
+Y2  - 2020/11/10
+N2  - Abstract This paper is concerned with the problems of design and stability analysis of networked predictive control for Hammerstein systems. The Hammerstein nonlinearity is removed (or partially removed) by inverting it. By predicting the future control sequence, the random network-induced delay and data dropout are compensated actively. The stability of the closed-loop system is analyzed by applying the switched Lyapunov function approach. Simulation results are presented to illustrate the validity of the proposed method. Copyright ? 2010 John Wiley and Sons Asia Pte Ltd and Chinese Automatic Control Society
+ER  - 
+
+TY  - JOUR
+T1  - Issue Information - Cover and Table of Contents
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/ep.12986
+DO  - https://doi.org/10.1002/ep.12986
+T2  - Environmental Progress & Sustainable Energy
+JF  - Environmental Progress & Sustainable Energy
+JO  - Environmental Progress & Sustainable Energy
+JA  - Environ. Prog. Sustainable Energy
+SP  - 12986
+VL  - 38
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 1944-7442
+M3  - https://doi.org/10.1002/ep.12986
+UR  - https://doi.org/10.1002/ep.12986
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Photovoltaics literature survey (No. 134)
+AU  - Hameiri, Ziv
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - https://doi.org/10.1002/pip.2882
+DO  - https://doi.org/10.1002/pip.2882
+T2  - Progress in Photovoltaics: Research and Applications
+JF  - Progress in Photovoltaics: Research and Applications
+JO  - Progress in Photovoltaics: Research and Applications
+JA  - Prog. Photovolt: Res. Appl.
+SP  - 335
+EP  - 337
+VL  - 25
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 1062-7995
+M3  - https://doi.org/10.1002/pip.2882
+UR  - https://doi.org/10.1002/pip.2882
+Y2  - 2020/11/10
+N2  - In order to help readers stay up-to-date in the field, each issue of Progress in Photovoltaics will contain a list of recently published journal articles that are most relevant to its aims and scope. This list is drawn from an extremely wide range of journals, including IEEE Journal of Photovoltaics, Solar Energy Materials and Solar Cells, Renewable Energy, Renewable and Sustainable Energy Reviews, Journal of Applied Physics, and Applied Physics Letters. To assist readers, the list is separated into broad categories, but please note that these classifications are by no means strict. Also note that inclusion in the list is not an endorsement of a paper's quality. If you have any suggestions please email Ziv Hameiri at ziv.hameiri@unsw.edu.au. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - A Comprehensive Framework for Sustainable Project Portfolio Selection Based on Structural Equation Modeling
+AU  - Khalili-Damghani, Kaveh
+AU  - Tavana, Madjid
+Y1  - 2014/02/01
+PY  - 2014
+DA  - 2014/02/01
+N1  - https://doi.org/10.1002/pmj.21404
+DO  - https://doi.org/10.1002/pmj.21404
+T2  - Project Management Journal
+JF  - Project Management Journal
+JO  - Project Management Journal
+JA  - Project Management Journal
+SP  - 83
+EP  - 97
+VL  - 45
+IS  - 2
+KW  - project portfolio selection
+KW  - structural equation modeling
+KW  - sustainability
+KW  - strategic planning
+KW  - financial service
+PB  - John Wiley & Sons, Ltd
+SN  - 8756-9728
+M3  - https://doi.org/10.1002/pmj.21404
+UR  - https://doi.org/10.1002/pmj.21404
+Y2  - 2020/11/10
+N2  - ABSTRACT Project selection problems are inherently complex problems with multiple and often conflicting objectives. The complexity of project selection problems is due to the high number of projects from which a subset (portfolio) has to be chosen. Various analytical methods, ranging from the simple weighted sum to complex mathematical programming have been proposed to solving these problems. We propose an integrated approach for strategic and sustainable project portfolio selection, which is composed of two distinct but interrelated modules. In the first module, we use the strategic planning and sustainability concepts to select a set of promising projects. In the second module, we use a project portfolio selection procedure to choose among the promising projects identified in the first module. A structural equation model is used to analyze and explain the relationships among different factors in the proposed framework. More specifically, we investigate the effects of: (1) strategic level performance on sustainability, post-implementation, and overall performance; (2) implementation performance on post-implementation and overall performance; (3) portfolio selection performance on implementation and overall performance; and (4) post-implementation performance on overall performance. A case study in investment banking is presented to demonstrate the applicability of the proposed model and exhibit the efficacy of the procedures and algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating geo-referenced multiscale and multidisciplinary data for the management of biodiversity in livestock genetic resources
+AU  - Joost, S.
+AU  - Colli, L.
+AU  - Baret, P. V.
+AU  - Garcia, J. F.
+AU  - Boettcher, P. J.
+AU  - Tixier-Boichard, M.
+AU  - Ajmone-Marsan, P.
+AU  - The GLOBALDIV Consortium
+Y1  - 2010/05/01
+PY  - 2010
+DA  - 2010/05/01
+N1  - https://doi.org/10.1111/j.1365-2052.2010.02037.x
+DO  - https://doi.org/10.1111/j.1365-2052.2010.02037.x
+T2  - Animal Genetics
+JF  - Animal Genetics
+JO  - Animal Genetics
+SP  - 47
+EP  - 63
+VL  - 41
+IS  - s1
+KW  - conservation
+KW  - data integration
+KW  - genetic resources
+KW  - geodata
+KW  - Geographic Information Systems
+KW  - livestock
+KW  - statistics
+PB  - John Wiley & Sons, Ltd
+SN  - 0268-9146
+M3  - https://doi.org/10.1111/j.1365-2052.2010.02037.x
+UR  - https://doi.org/10.1111/j.1365-2052.2010.02037.x
+Y2  - 2020/11/10
+N2  - Summary In livestock genetic resource conservation, decision making about conservation priorities is based on the simultaneous analysis of several different criteria that may contribute to long-term sustainable breeding conditions, such as genetic and demographic characteristics, environmental conditions, and role of the breed in the local or regional economy. Here we address methods to integrate different data sets and highlight problems related to interdisciplinary comparisons. Data integration is based on the use of geographic coordinates and Geographic Information Systems (GIS). In addition to technical problems related to projection systems, GIS have to face the challenging issue of the non homogeneous scale of their data sets. We give examples of the successful use of GIS for data integration and examine the risk of obtaining biased results when integrating datasets that have been captured at different scales.
+ER  - 
+
+TY  - JOUR
+T1  - Public CFO competencies – A National Defence case study examining the balance between financial and strategic priorities
+AU  - Schobel, Kurt
+AU  - Pond, Geoffrey
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1111/capa.12366
+DO  - https://doi.org/10.1111/capa.12366
+T2  - Canadian Public Administration
+JF  - Canadian Public Administration
+JO  - Canadian Public Administration
+JA  - Can Public Admin
+SP  - 229
+EP  - 246
+VL  - 63
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 0008-4840
+M3  - https://doi.org/10.1111/capa.12366
+UR  - https://doi.org/10.1111/capa.12366
+Y2  - 2020/11/10
+N2  - Abstract The role of the Chief Financial Officer (CFO) in the public sector is relatively new. Prior research on private sector CFOs identified that CFOs tend to focus on either financial or strategic issues. In this study, we examined if these same tendencies exist within the public sector. Using the Department of National Defence as a case study, we asked Comptrollers to compare a set of 8 roles to determine if a bias towards financial or strategic roles exists. We found that some bias exists within National Defence; however, we also found most recognize that you cannot focus exclusively on either role.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - https://doi.org/10.1111/bcpt.13358
+DO  - https://doi.org/10.1111/bcpt.13358
+T2  - Basic & Clinical Pharmacology & Toxicology
+JF  - Basic & Clinical Pharmacology & Toxicology
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+SP  - 3
+EP  - 237
+VL  - 125
+IS  - S9
+PB  - John Wiley & Sons, Ltd
+SN  - 1742-7835
+M3  - https://doi.org/10.1111/bcpt.13358
+UR  - https://doi.org/10.1111/bcpt.13358
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the Ordered Weighted Averaging Operator Knowledge Domain: A Bibliometric Analysis
+AU  - He, Xiaorong
+AU  - Wu, Yingyu
+AU  - Yu, Dejian
+AU  - Merigó, José M.
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - https://doi.org/10.1002/int.21894
+DO  - https://doi.org/10.1002/int.21894
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1151
+EP  - 1166
+VL  - 32
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21894
+UR  - https://doi.org/10.1002/int.21894
+Y2  - 2020/11/10
+N2  - Abstract Ordered weighted averaging (OWA) operator has been received increasingly widespread interest since its appearance in 1988. Recently, a topic search with the keywords ?ordered weighted averaging operator? or ?OWA operator? on Web of Science (WOS) found 1231 documents. As the publications about OWA operator increase rapidly, thus a scientometric analysis of this research field and discovery of its knowledge domain becomes very important and necessary. This paper studies the publications about OWA operator between 1988 and 2015, and it is based on 1213 bibliographic records obtained by using topic search from WOS. The disciplinary distribution, most cited papers, influential journals, as well as influential authors are analyzed through citation and cocitation analysis. The emerging trends in OWA operator research are explored by keywords and references burst detection analysis. The research methods and results in this paper are meaningful for researchers associated with OWA operator field to understand the knowledge domain and establish their own future research direction.
+ER  - 
+
+TY  - JOUR
+T1  - A profile-boosted research analytics framework to recommend journals for manuscripts
+AU  - Silva, Thushari
+AU  - Ma, Jian
+AU  - Yang, Chen
+AU  - Liang, Haidan
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - https://doi.org/10.1002/asi.23150
+DO  - https://doi.org/10.1002/asi.23150
+T2  - Journal of the Association for Information Science and Technology
+JF  - Journal of the Association for Information Science and Technology
+JO  - Journal of the Association for Information Science and Technology
+JA  - J Assn Inf Sci Tec
+SP  - 180
+EP  - 200
+VL  - 66
+IS  - 1
+KW  - expert systems
+KW  - text mining
+PB  - John Wiley & Sons, Ltd
+SN  - 2330-1635
+M3  - https://doi.org/10.1002/asi.23150
+UR  - https://doi.org/10.1002/asi.23150
+Y2  - 2020/11/10
+N2  - With the increasing pressure on researchers to produce scientifically rigorous and relevant research, researchers need to find suitable publication outlets with the highest value and visibility for their manuscripts. Traditional approaches for discovering publication outlets mainly focus on manually matching research relevance in terms of keywords as well as comparing journal qualities, but other research-relevant information such as social connections, publication rewards, and productivity of authors are largely ignored. To assist in identifying effective publication outlets and to support effective journal recommendations for manuscripts, a three-dimensional profile-boosted research analytics framework (RAF) that holistically considers relevance, connectivity, and productivity is proposed. To demonstrate the usability of the proposed framework, a prototype system was implemented using the ScholarMate research social network platform. Evaluation results show that the proposed RAF-based approach outperforms traditional recommendation techniques that can be applied to journal recommendations in terms of quality and performance. This research is the first attempt to provide an integrated framework for effective recommendation in the context of scientific item recommendation.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective reservoir operation under emergency condition: Abbaspour reservoir case study with non-functional spillways
+AU  - Akbari, M.
+AU  - Afshar, A.
+AU  - Mousavi, S.J.
+Y1  - 2014/12/01
+PY  - 2014
+DA  - 2014/12/01
+N1  - https://doi.org/10.1111/jfr3.12061
+DO  - https://doi.org/10.1111/jfr3.12061
+T2  - Journal of Flood Risk Management
+JF  - Journal of Flood Risk Management
+JO  - Journal of Flood Risk Management
+JA  - J. Flood Risk Manage
+SP  - 374
+EP  - 384
+VL  - 7
+IS  - 4
+KW  - Emergency condition
+KW  - flood risk management
+KW  - multi-objective reservoir operation
+KW  - real time forecasting
+PB  - John Wiley & Sons, Ltd
+SN  - 1753-318X
+M3  - https://doi.org/10.1111/jfr3.12061
+UR  - https://doi.org/10.1111/jfr3.12061
+Y2  - 2020/11/10
+N2  - Abstract The main objective of this study is to present a simulation-optimization approach methodology for short-term operation of multi-objective reservoirs during emergency conditions where risk of flooding and overflow from damaged spillways is significant. The paper considers flood risk management through enhancing dam safety as well as long-term objectives of the reservoir for hydropower generation and irrigation water supply simultaneously. In particular, real-time operation of Abbaspour reservoir during an emergency condition is considered where all flood discharging facilities are out of order for repairing the damaged parts. The proposed methodology combines a short-term and a long-term operation strategies to minimize risk of overflow for any possible incoming floods while preserving the long-term objectives of the reservoir. An efficient daily flow forecasting scheme provides the inflow data for the short-term (daily) operation strategy in a deterministic environment which follows the long-term operation policy. A multi-objective stochastic dynamic programming model addresses the long-term operation policy by solving the weekly operation model. The outcomes of the model application to the case study have illustrated its capabilities in developing a compromise between the risk of dam overflow and its long-term objectives.
+ER  - 
+
+TY  - JOUR
+T1  - Supplier Rationalization: A Sourcing Decision Model
+AU  - Talluri, Srinivas
+AU  - DeCampos, Hugo A.
+AU  - Hult, G. Tomas M.
+Y1  - 2013/02/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+DO  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 57
+EP  - 86
+VL  - 44
+IS  - 1
+KW  - Data Envelopment Analysis (DEA)
+KW  - Strategic Sourcing
+KW  - Supply Base Rationalization
+KW  - Supplier Performance Diversity
+KW  - Supplier Selection
+KW  - Supply Risk Management
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+UR  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+Y2  - 2020/11/10
+N2  - ABSTRACT We draw on extant literature on strategic sourcing and supply base rationalization to anchor our argument that measuring supplier performance diversity is germane to executing an effective supply base rationalization strategy. We explicate how a novel approach to data envelopment analysis (DEA) efficiency assessment can be utilized to measure this performance diversity. More specifically, our methods are anchored in cross efficiency analysis in DEA that allows for evaluating the efficiency of a supplier with respect to the optimal weights (strengths) of its peers. This methodology is applied to an actual supplier dataset of a large multinational telecommunications company in categorizing their supply base into groups for effective supplier rationalization. We conclude that measuring and analyzing the performance diversity within the framework of DEA provides a mechanism for firms to better balance a rationalized and diversified supply base with unique skills.
+ER  - 
+
+TY  - JOUR
+T1  - Key index framework for quantitative sustainability assessment of energy infrastructures in a smart city: An example of Western Sydney
+AU  - Yang, Jiajia
+AU  - Liu, Hangyue
+AU  - Wang, Yuxuan
+AU  - Qiu, Zihang
+AU  - Dong, Zhaoyang
+AU  - Suzuki, Tadashi
+AU  - Noguchi, Toshihide
+AU  - Watabe, Masaharu
+Y1  - 2020/10/27
+PY  - 2020
+DA  - 2020/10/27
+N1  - https://doi.org/10.1049/enc2.12017
+DO  - https://doi.org/10.1049/enc2.12017
+T2  - Energy Conversion and Economics
+JF  - Energy Conversion and Economics
+JO  - Energy Conversion and Economics
+JA  - Energy Convers. Econ.
+VL  - n/a
+IS  - n/a
+PB  - The Institution of Engineering and Technology
+SN  - 2634-1581
+M3  - https://doi.org/10.1049/enc2.12017
+UR  - https://doi.org/10.1049/enc2.12017
+Y2  - 2020/11/10
+N2  - Abstract Human society is experiencing a rapidly changing environment in which energy shortages and an ongoing climate crisis have been identified as two of the major challenges to the sustainable development of human civilization. In the face of these challenges, the concept of a smart city is proposed which aims at achieving sustainable development, increasing the quality of life, and improving the cost-effectiveness of existing and new energy infrastructures. To this end, this study proposes a general framework with a three-tier story chart for guiding the establishment of sustainability assessment models and the selection of their indicators. In addition, a quantitative analysis method is developed for assessing the sustainability of energy infrastructures in a smart city, which indicates how the long-term sustainability of the energy infrastructure can be achieved. The proposed method incorporates extensive environmental, economic, and social indicators, which go beyond conventional facility-level criteria and seamlessly relate to the broader community that benefits from the renewable energy transition (including energy construction, operations, and energy services). The proposed methodologies can be implemented through collecting the corresponding history data of the indicators and following the analysis procedures presented in this study. The proposed methodology can serve as a supporting tool for decision-making on new infrastructure investment and policymaking toward sustainable development. Case studies in Western Sydney were carried out to demonstrate the feasibility and efficiency of the proposed methodologies.
+ER  - 
+
+TY  - JOUR
+T1  - Similarity measures of Pythagorean fuzzy sets based on the cosine function and their applications
+AU  - Wei, Guiwu
+AU  - Wei, Yu
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1002/int.21965
+DO  - https://doi.org/10.1002/int.21965
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 634
+EP  - 652
+VL  - 33
+IS  - 3
+KW  - cosine function
+KW  - cosine similarity measure
+KW  - medical diagnosis
+KW  - pattern recognition
+KW  - Pythagorean fuzzy sets
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21965
+UR  - https://doi.org/10.1002/int.21965
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we presented 10 similarity measures between Pythagorean fuzzy sets (PFSs) based on the cosine function by considering the degree of membership, degree of nonmembership and degree of hesitation in PFSs. Then, we applied these similarity measures and weighted similarity measures between PFSs to pattern recognition and medical diagnosis. Finally, two illustrative examples are given to demonstrate the efficiency of the similarity measures for pattern recognition and medical diagnosis.
+ER  - 
+
+TY  - JOUR
+T1  - Development of a Fuzzy Rule-based Decision-making System for Evaluating the Lifetime of a Rubber Fender
+AU  - Lee, Sehee
+AU  - Cheon, Sang-Uk
+AU  - Yang, Jeongsam
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - https://doi.org/10.1002/qre.1639
+DO  - https://doi.org/10.1002/qre.1639
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual. Reliab. Engng. Int.
+SP  - 811
+EP  - 828
+VL  - 31
+IS  - 5
+KW  - cause-and-effect relationship
+KW  - certainty factor
+KW  - fuzzy cognitive map
+KW  - fuzzy inference
+KW  - rubber fender
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - https://doi.org/10.1002/qre.1639
+UR  - https://doi.org/10.1002/qre.1639
+Y2  - 2020/11/10
+N2  - If a rubber fender, whose purpose is to absorb the shock energy that is generated when a ship is berthing, fails because of deterioration and vulcanization, the ship and the pier structure may incur serious damage. In this paper, we introduce a fuzzy rule-based decision-making system to predict the maintenance timing of rubber fenders by diagnosing their faults and evaluating their lifetimes on the basis of the knowledge and experience of experts. First, we built a case library containing information concerning fender lifetimes and points in these lifetimes when faults occurred. This was gathered on the basis of the results of testing the lifetime of rubber materials under accelerated conditions and a knowledge base of the physical properties of fenders in order to evaluate the deterioration in a rubber fender. Moreover, after representing the key factors affecting the deterioration of rubber fenders as a fuzzy cognitive map that reflects the knowledge and experience of domain experts, we drew inferences regarding the heuristic factors of the lifetime of rubber, the conceptual centrality of which is relatively high according to the cause-and-effect relationship between key factors. Finally, we propose a diagnostic process for the performance deterioration of rubber fenders based on the various factors that affect the lifetime of rubber and its multiple physical properties in the form of a decision-making tree. We then applied it to rule-based and case-based reasoning. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Regional science in the Netherlands: A contextual interpretation of the “power of smallness”
+AU  - Nijkamp, Peter
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1111/pirs.12500
+DO  - https://doi.org/10.1111/pirs.12500
+T2  - Papers in Regional Science
+JF  - Papers in Regional Science
+JO  - Papers in Regional Science
+JA  - Pap Reg Sci
+SP  - 275
+EP  - 292
+VL  - 99
+IS  - 2
+KW  - challenge and response
+KW  - contextual and context-specific
+KW  - land use planning
+KW  - planology
+KW  - quantitative
+KW  - smallness
+PB  - John Wiley & Sons, Ltd
+SN  - 1056-8190
+M3  - https://doi.org/10.1111/pirs.12500
+UR  - https://doi.org/10.1111/pirs.12500
+Y2  - 2020/11/10
+N2  - Abstract This paper provides an overview of regional science research in the Netherlands since the 1960s. It adopts a contextual thematic approach in identifying and interpreting regional science research topics, practices and methodologies, inspired by Toynbee's challenge and response concept. It argues that place-based, cultural and historical conditions in the Netherlands have prompted a pragmatic and evidence-based scientific approach, in which in particular an innovative quantitative orientation accompanied by a methodological heterogeneity has given Dutch regional science a high international profile. Over the past decades, numerous regional scientists in the country have contributed to this achievement, too many to be mentioned in this overview. This paper has its limitations and offers mainly thematic examples of original?often quantitative?research undertaken by various Dutch regional scientists, that make a difference compared to general approaches in Europe and world-wide. From our concise review we conclude that ? despite the small size of the country ? the challenge and creative response model of Dutch regional science has been rather successful.
+ER  - 
+
+TY  - JOUR
+T1  - Research Development on Sustainable Urban Infrastructure From 1991 to 2017: A Bibliometric Analysis to Inform Future Innovations
+AU  - Du, Huibin
+AU  - Liu, Diyi
+AU  - Lu, Zhongming
+AU  - Crittenden, John
+AU  - Mao, Guozhu
+AU  - Wang, Shuai
+AU  - Zou, Hongyang
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.1029/2018EF001117
+DO  - https://doi.org/10.1029/2018EF001117
+T2  - Earth's Future
+JF  - Earth's Future
+JO  - Earth's Future
+JA  - Earth's Future
+SP  - 718
+EP  - 733
+VL  - 7
+IS  - 7
+KW  - Sustainable urban infrastructure
+KW  - Bibliometric analysis
+KW  - Research Progress
+KW  - Emerming Innovation
+KW  - Future Challenge
+PB  - John Wiley & Sons, Ltd
+SN  - 2328-4277
+M3  - https://doi.org/10.1029/2018EF001117
+UR  - https://doi.org/10.1029/2018EF001117
+Y2  - 2020/11/10
+N2  - Abstract Studies of sustainable urban infrastructure are expanding since the United Nations proposed the concept of sustainability in 1982. The need for more sustainable urban infrastructures led to many research efforts on innovative technologies and development strategies. We analyzed research progress on sustainable urban infrastructure from 1991 to 2017 using bibliometric, keyword co-occurrence and document cocitation network analysis. An increasing publication number suggests a rapid development of the sustainable urban infrastructure research area, but the development is still in an emerging stage. With respect to the analysis of research themes, we analyzed keyword co-occurrence networks in the three stages of 1991-1999, 2000-2008, and 2009-2017. We observed substantial expansions and intensive interconnections of research theme clusters on sustainable urban infrastructure. The themes from 2009 to 2017 include ?critical infrastructure,? ?urban planning and design,? ?development need,? ?technology innovation,? and ?cyber-physical system.? The United States produced 28.93% of the publications and played a core role in the international collaboration network. We further compared national interests among top productive countries, which highlights different priorities of investing more sustainable urban infrastructures. Finally, we presented an in-depth analysis of four emerging technology innovations, namely, renewable energy, smart grid, green infrastructure, and cloud computing regarding research directions and challenges. Our results not only provide a valuable reference for researchers who are interested in sustainable urban infrastructures but also put forward the emphasis and orientations of future studies.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective optimization of lithium-ion battery pack casing for electric vehicles: Key role of materials design and their influence
+AU  - Zhang, Yihui
+AU  - Chen, Siqi
+AU  - Shahin, M.E.
+AU  - Niu, Xiaodong
+AU  - Gao, Liang
+AU  - Chin, C.M.M.
+AU  - Bao, Nengsheng
+AU  - Wang, Chin-Tsan
+AU  - Garg, Akhil
+AU  - Goyal, Ankit
+Y1  - 2020/10/10
+PY  - 2020
+DA  - 2020/10/10
+N1  - https://doi.org/10.1002/er.4965
+DO  - https://doi.org/10.1002/er.4965
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+SP  - 9414
+EP  - 9437
+VL  - 44
+IS  - 12
+KW  - battery pack casing
+KW  - electric vehicle
+KW  - mechanical performance
+KW  - multi-objective optimization
+KW  - resonance
+PB  - John Wiley & Sons, Ltd
+SN  - 0363-907X
+M3  - https://doi.org/10.1002/er.4965
+UR  - https://doi.org/10.1002/er.4965
+Y2  - 2020/11/10
+N2  - Summary The battery box is the structure that comprises the battery cells and its casing. It is designed to fix and protect the battery module. During the actual driving, there exists stress and resonance on a battery pack and its outer casing due to external vibration and shock. The safety of an electric vehicle largely depends on the mechanical characteristics of its battery pack. Besides, a lighter weight electric vehicle has a longer driving range, which makes it much more popular in vehicle market. In this paper, a comprehensive design procedure based on multi-objective optimization and experiments is applied to compare the maximum equivalent stress and resonance frequency on a battery pack casing with different materials (DC01 steel, aluminum 6061, copper C22000, and carbon nanotube [CNT]) under bumpy road, sharp turns, and sudden braking conditions to obtain the best material. Moreover, CNT is proved to be the best material considering all the performance standards. Response surface optimization design method is adopted to get an optimal design of the battery pack casing. Optimization results conclude that the maximum equivalent stress can be reduced from 3.9243 to 3.2363 MPa, and the six-order resonance frequency can be increased from 722.65 to 788.71 Hz. Experiments are carried to validate the mechanical performance of the optimal design; the deviation between the simulation and experimental results is within the tolerance.
+ER  - 
+
+TY  - JOUR
+T1  - Photovoltaics literature survey (No. 144)
+AU  - Hameiri, Ziv
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - https://doi.org/10.1002/pip.3064
+DO  - https://doi.org/10.1002/pip.3064
+T2  - Progress in Photovoltaics: Research and Applications
+JF  - Progress in Photovoltaics: Research and Applications
+JO  - Progress in Photovoltaics: Research and Applications
+JA  - Prog Photovolt Res Appl
+SP  - 688
+EP  - 693
+VL  - 26
+IS  - 8
+PB  - John Wiley & Sons, Ltd
+SN  - 1062-7995
+M3  - https://doi.org/10.1002/pip.3064
+UR  - https://doi.org/10.1002/pip.3064
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Partner selection of agricultural products supply chain based on data mining
+AU  - He, Xuefeng
+AU  - Ai, Xingzheng
+AU  - Jing, Yuewu
+AU  - Liu, Yuanyuan
+Y1  - 2016/03/25
+PY  - 2016
+DA  - 2016/03/25
+N1  - https://doi.org/10.1002/cpe.3625
+DO  - https://doi.org/10.1002/cpe.3625
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat.: Pract. Exper.
+SP  - 1246
+EP  - 1256
+VL  - 28
+IS  - 4
+KW  - agricultural products supply chain
+KW  - partner selection
+KW  - data mining
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.3625
+UR  - https://doi.org/10.1002/cpe.3625
+Y2  - 2020/11/10
+N2  - Summary Now, with the development of modern business, the traditional competition between enterprises has been displaced by the competition between supply chains. Any incorrect decision from supply chain member may have negative influences on other members or the whole supply chain. Therefore, choosing the appropriate supply chain partners is quite necessary and significant to the supply chain performance improvement because the partners can share risks and benefits with proper contract. Concentrating on the agricultural products supply chain, the supply chain partner selection model and indexes system are put forward in this paper, the clustering and classification analyses of potential supply chain partners are made by data mining technology, and the empirical analysis is made for agricultural products supply chain. This study may provide some insights into supply chain longitudinal governance and guidance for the Chinese agriculture economic development. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Linguistic Discriminative Aggregation in Multicriteria Decision Making
+AU  - Aggarwal, Manish
+Y1  - 2016/06/01
+PY  - 2016
+DA  - 2016/06/01
+N1  - https://doi.org/10.1002/int.21793
+DO  - https://doi.org/10.1002/int.21793
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 529
+EP  - 555
+VL  - 31
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21793
+UR  - https://doi.org/10.1002/int.21793
+Y2  - 2020/11/10
+N2  - Several new aggregation operators are proposed in the context of multicriteria decision making (MCDM) in the linguistic domain. The proposed operators first infer the discrimination index, based on the extent of variability in the various linguistic evaluations against a criterion. This value is then utilized in the actual aggregation step to discriminate among the alternatives. Besides, the proposed operators also take into account the a priori weights associated with the criteria. The proposed concepts are illustrated through an example in group MCDM.
+ER  - 
+
+TY  - JOUR
+T1  - Wind Energy literature survey No. 26
+AU  - Henriksen, Lars
+Y1  - 2012/10/01
+PY  - 2012
+DA  - 2012/10/01
+N1  - https://doi.org/10.1002/we.1558
+DO  - https://doi.org/10.1002/we.1558
+T2  - Wind Energy
+JF  - Wind Energy
+JO  - Wind Energy
+JA  - Wind Energ.
+SP  - 945
+EP  - 949
+VL  - 15
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 1095-4244
+M3  - https://doi.org/10.1002/we.1558
+UR  - https://doi.org/10.1002/we.1558
+Y2  - 2020/11/10
+N2  - As a service to readers, Wind Energy regularly conducts literature surveys and publishes lists of relevant papers drawn from recent issues of a large number of periodicals including Journal of Wind Engineering and Industrial Aerodynamics, International Journal of Energy Research, Renewable Energy, Energy Sources, Journal of Solar Energy Engineering, American Institute of Aeronautics and Astronautics Journal and Electric Power Components and Systems along with a number of periodicals published by the Institute of Electrical and Electronics Engineers, etc. The list is limited exclusively to journals not specifically devoted to wind energy and its applications. To assist the reader, the list is separated into broad categories. Although many papers fit several categories, each paper is listed only once under the category thought most appropriate. Please note that the inclusion in the list is not an endorsement of a paper's quality. Compiled by Lars Christian Henriksen, Department of Wind Energy, Technical University of Denmark, PO Box?49, DK-4000 Roskilde, Denmark. Please email any suggestions to larh@ dtu.dk. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - The Impact of Asymmetric Partial Feedback on Response-Bias
+AU  - Smillie, Luke D.
+AU  - Quek, Boon-Kiat
+AU  - Dalgleish, Len I.
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - https://doi.org/10.1002/bdm.1793
+DO  - https://doi.org/10.1002/bdm.1793
+T2  - Journal of Behavioral Decision Making
+JF  - Journal of Behavioral Decision Making
+JO  - Journal of Behavioral Decision Making
+JA  - J. Behav. Dec. Making
+SP  - 157
+EP  - 169
+VL  - 27
+IS  - 2
+KW  - asymmetric partial feedback
+KW  - response-bias
+KW  - signal detection theory
+KW  - accuracy maximization
+KW  - constructivist coding
+PB  - John Wiley & Sons, Ltd
+SN  - 0894-3257
+M3  - https://doi.org/10.1002/bdm.1793
+UR  - https://doi.org/10.1002/bdm.1793
+Y2  - 2020/11/10
+N2  - ABSTRACT For many decisions we make, we are more likely to receive feedback about some outcomes than about others, and thus we must operate under conditions of asymmetric partial feedback. In this paper, we examine the effects of asymmetric partial feedback on decision making across three experiments. Experiment 1 examines the effects of four partial feedback schedules on decision making in a single-attribute auditory detection task. Experiment 2 examines these same schedules in the context of a simulated experiment in which virtual participants perform a multi-attribute choice task. Experiment 3 then examines effects of one partial feedback schedule representative of a real-world decision-making domain (personnel selection) using an ecologically informed multi-attribute choice task. All three experiments reveal that asymmetric partial feedback primarily impacts on response-bias, a parameter of signal detection theory. These findings can be explained in terms of decision makers' attempts to maximize accuracy and the fact that shifts in response-bias will, under partial feedback, produce misleading impressions of greater accuracy. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Footprint of knowledge acquisition improvement in failure diagnosis analysis
+AU  - Yazdi, Mohammad
+Y1  - 2019/02/01
+PY  - 2019
+DA  - 2019/02/01
+N1  - https://doi.org/10.1002/qre.2408
+DO  - https://doi.org/10.1002/qre.2408
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual Reliab Engng Int
+SP  - 405
+EP  - 422
+VL  - 35
+IS  - 1
+KW  - 2-tuple fuzzy set
+KW  - automotive industry
+KW  - fault tree analysis
+KW  - subjectivity
+KW  - tactic knowledge
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - https://doi.org/10.1002/qre.2408
+UR  - https://doi.org/10.1002/qre.2408
+Y2  - 2020/11/10
+N2  - Abstract Fault tree analysis (FTA) as an effective and efficient risk assessment tool are widely used to analyze the reliability of a complex system. In this context, FTA can properly improve the safety performance of the system by preventing an event which may lead to occurrence of a catastrophic accident. However, traditional FTA is still suffering from dynamic structure demonstration and importantly epistemic uncertainty processing. In this study, a novel methodology is introduced using Bayesian updating mechanism to deal with dynamic structure and 2-tuple fuzzy set named as intuitionistic fuzzy numbers are employed to cope with subjectivity of uncertainty processing. Accordingly, the most critical system components which affect the system reliability are recognized by using an appropriate sensitivity analysis method. The proposed methodology is then applied on a real case study application (a brake fluid filling system) in order to examine the effectiveness and feasibility of the approach. The results illustrated that the new methodology can have enough benefits for diagnosing the systems' faults compared with listing approaches of safety and reliability analysis. In terms of empirical case study, ?electromotor failure? was evaluated as the second most critical basic event in conventional-based approaches, whereas in the novel methodology ?high pressure liquefied material? was recognized as the second one.
+ER  - 
+
+TY  - JOUR
+T1  - An analytic network process and trapezoidal interval-valued fuzzy technique for order preference by similarity to ideal solution network access selection method
+AU  - Skondras, Emmanouil
+AU  - Sgora, Aggeliki
+AU  - Michalas, Angelos
+AU  - Vergados, Dimitrios D.
+Y1  - 2016/01/25
+PY  - 2016
+DA  - 2016/01/25
+N1  - https://doi.org/10.1002/dac.2833
+DO  - https://doi.org/10.1002/dac.2833
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int. J. Commun. Syst.
+SP  - 307
+EP  - 329
+VL  - 29
+IS  - 2
+KW  - network selection
+KW  - vertical handover
+KW  - MADM
+KW  - ANP
+KW  - TOPSIS
+KW  - interval value fuzzy numbers
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.2833
+UR  - https://doi.org/10.1002/dac.2833
+Y2  - 2020/11/10
+N2  - Summary Next generation wireless networks consist of many heterogeneous access technologies that should support various service types with different quality of service (QoS) constraints, as well as user, requirements and provider policies. Therefore, the need for network selection mechanisms that consider multiple factors must be addressed. In this paper, a network selection method is proposed by applying the analytic network process to estimate the weights of the selection criteria, as well as a fuzzy version of technique for order preference by similarity to ideal solution to perform the ranking of network alternatives. The method is applied to a heterogeneous network environment providing different QoS classes and policy characteristics. Each user applies the method to select the most appropriate network, which satisfies his or her requirements in respect of his or her service-level agreement (SLA). Performance evaluation shows that when the user requests only one service, the proposed method performs better compared to the original technique for order preference by similarity to ideal solution, as well as the Fuzzy AHP-ELECTRE method. Moreover, the proposed method can be applied in cases where a user requires multiple services simultaneously on a device. The sensitivity analysis of the proposed method shows that it can be properly adjusted to conform to network environment changes. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Towards the prediction of business failure via computational intelligence techniques
+AU  - Divsalar, Mehdi
+AU  - Firouzabadi, Ali Khatami
+AU  - Sadeghi, Meisam
+AU  - Behrooz, Amir Hossein
+AU  - Alavi, Amir Hossein
+Y1  - 2011/07/01
+PY  - 2011
+DA  - 2011/07/01
+N1  - https://doi.org/10.1111/j.1468-0394.2011.00580.x
+DO  - https://doi.org/10.1111/j.1468-0394.2011.00580.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+SP  - 209
+EP  - 226
+VL  - 28
+IS  - 3
+KW  - bankruptcy prediction
+KW  - linear genetic programming
+KW  - radial basis function
+KW  - financial ratios
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/j.1468-0394.2011.00580.x
+UR  - https://doi.org/10.1111/j.1468-0394.2011.00580.x
+Y2  - 2020/11/10
+N2  - Abstract: This is a pioneer study that presents two branches of computational intelligence techniques, namely linear genetic programming (LGP) and radial basis function (RBF) neural network to build models for bankruptcy prediction. The main goal is to classify samples of 140 bankrupt and non-bankrupt Iranian corporations by means LGP and RBF. Another important contribution of this paper is to identify the effective predictive financial ratios based on an extensive bankruptcy prediction literature review and a sequential feature selection analysis. In order to benchmark the proposed models, a log?log regression analysis is further performed. A comparative study on the classification accuracy of the LGP, RBF and regression-based models is conducted. The results indicate that the proposed models effectively let estimate any enterprise in the aspect of bankruptcy. The LGP models have a significantly better prediction performance in comparison with the RBF and regression models.
+ER  - 
+
+TY  - JOUR
+T1  - Partial order methodology: a valuable tool in chemometrics
+AU  - Carlsen, L.
+AU  - Bruggemann, R.
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - https://doi.org/10.1002/cem.2569
+DO  - https://doi.org/10.1002/cem.2569
+T2  - Journal of Chemometrics
+JF  - Journal of Chemometrics
+JO  - Journal of Chemometrics
+JA  - J. Chemometrics
+SP  - 226
+EP  - 234
+VL  - 28
+IS  - 4
+KW  - multi-indicator systems
+KW  - MCDA
+KW  - partial order ranking
+KW  - Hasse diagrams
+KW  - PyHasse
+PB  - John Wiley & Sons, Ltd
+SN  - 0886-9383
+M3  - https://doi.org/10.1002/cem.2569
+UR  - https://doi.org/10.1002/cem.2569
+Y2  - 2020/11/10
+N2  - Often from multi-indicator system (MIS), a composite indicator is derived by applying weighted sums of the single indicators. The eventual ranking being based on composite indicator yields a total (linear) ranking. In contrast, partial order ranking constitutes an alternative approach where assumptions about linearity or distribution of the indicators are not needed and indicators are in general used without quantification of mutual preferences. The present paper describes analyses of MIS based on a series of partial order techniques as offered by the PyHasse software. The paper describes how important information on an MIS can be obtained without lengthy and often controversial and possible subjective discussions about indicator weights and thus avoiding both covering up valuable information contained in the single indicators as well as unwanted compensation effects. The application of partial order for obtaining chemometric information is illustrated by a study of 12 chloro-organic pesticides. All calculation has been carried out applying the experimental software PyHasse. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Road traffic control based on genetic algorithm for reducing traffic congestion
+AU  - Shigehiro, Yuji
+AU  - Miyakawa, Takuya
+AU  - Masuda, Tatsuya
+Y1  - 2012/03/01
+PY  - 2012
+DA  - 2012/03/01
+N1  - https://doi.org/10.1002/ecj.10421
+DO  - https://doi.org/10.1002/ecj.10421
+T2  - Electronics and Communications in Japan
+JF  - Electronics and Communications in Japan
+JO  - Electronics and Communications in Japan
+JA  - Electron. Comm. Jpn.
+SP  - 11
+EP  - 19
+VL  - 95
+IS  - 4
+KW  - genetic algorithm
+KW  - road traffic control
+KW  - traffic congestion
+PB  - John Wiley & Sons, Ltd
+SN  - 1942-9533
+M3  - https://doi.org/10.1002/ecj.10421
+UR  - https://doi.org/10.1002/ecj.10421
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we propose a road traffic control method for reducing traffic congestion with a genetic algorithm. In the not too distant future, a system which controls the routes of all vehicles in a certain area must be realized. The system should optimize the routes of all vehicles, but the solution space of this problem is enormous. Therefore, we apply the genetic algorithm to this problem by encoding the route of all vehicles to a fixed length chromosome. To improve the search performance, a new genetic operator called ?path shortening? is also designed. The effectiveness of the proposed method is shown experimentally. ? 2012 Wiley Periodicals, Inc. Electron Comm Jpn, 95(4): 11-19, 2012; Published online in Wiley Online Library (wileyonlinelibrary.com). DOI 10.1002/ecj.10421
+ER  - 
+
+TY  - JOUR
+T1  - Developing a new method for spatial assessment of drought vulnerability (case study: Zayandeh-Rood river basin in Iran)
+AU  - Babaei, Hamid
+AU  - Araghinejad, Shahab
+AU  - Hoorfar, Abdolhossein
+Y1  - 2013/03/01
+PY  - 2013
+DA  - 2013/03/01
+N1  - https://doi.org/10.1111/j.1747-6593.2012.00326.x
+DO  - https://doi.org/10.1111/j.1747-6593.2012.00326.x
+T2  - Water and Environment Journal
+JF  - Water and Environment Journal
+JO  - Water and Environment Journal
+JA  - Water Environ J
+SP  - 50
+EP  - 57
+VL  - 27
+IS  - 1
+KW  - AHP
+KW  - GIS
+KW  - TOPSIS
+KW  - vulnerability drought
+KW  - Zayandeh-Rood river basin
+PB  - John Wiley & Sons, Ltd
+SN  - 1747-6585
+M3  - https://doi.org/10.1111/j.1747-6593.2012.00326.x
+UR  - https://doi.org/10.1111/j.1747-6593.2012.00326.x
+Y2  - 2020/11/10
+N2  - Abstract The paper presents an approach to spatially representative depiction for assessing the vulnerability of central Iran's Zayandeh-Rood river basin to drought using multiple indicators. Drought conditions prevailed in the study basin from 2002 to 2007, with an annual rainfall deficiency of 45 to 55%. Multi-attribute decision making (MADM) methods develop a framework to evaluate the relative priorities of drought assessment based on a set of preferences, criteria and indicators. The proposed MADM process uses well-known techniques for product weights analytic hierarchy process (AHP) and order preference (TOPSIS). These indicators include the Standard Precipitation Index (SPI), water demand, the Palmer Drought Severity Index (PDSI) and the Groundwater Balance and Surface Water Supply Index (SWSI). Indicators' spatial information was categorised in layers prepared in the spatial domain using a geographic information system (GIS). The alternatives were ranked and presented using TOPSIS. Results show that the proposed method was highly effective in representing assessments of drought vulnerability.
+ER  - 
+
+TY  - JOUR
+T1  - Pythagorean fuzzy Bonferroni mean aggregation operator and its accelerative calculating algorithm with the multithreading
+AU  - Liang, Decui
+AU  - Zhang, Yinrunjie
+AU  - Xu, Zeshui
+AU  - Darko, Adjei Peter
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1002/int.21960
+DO  - https://doi.org/10.1002/int.21960
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 615
+EP  - 633
+VL  - 33
+IS  - 3
+KW  - multicriteria decision making
+KW  - Pythagorean fuzzy sets
+KW  - Bonferroni mean
+KW  - multithreading
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21960
+UR  - https://doi.org/10.1002/int.21960
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we study the well-known Bonferroni mean and develop its generalized aggregation operators in the Pythagorean fuzzy environment. More specifically, by considering the interrelationship between arguments with Pythagorean fuzzy information, we develop the Pythagorean fuzzy Bonferroni mean (PFBM) and some special properties and cases of them are also discussed. Furthermore, taking the multicriteria decision making environment into consideration, we extend the results of PFBM and develop the weighted Pythagorean fuzzy Bonferroni mean (WPFBM). Meanwhile, we also propose an approach for the application of WPFBM. However, during the application of the WPFBM operator, the calculation is very complex and time consuming. Hence, we introduce the multithreading into the application of the WPFBM operator and develop an accelerative calculating algorithm for it. To validate the performance of the accelerative calculating algorithm, we further design the corresponding experimental analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Using the Value of Information to improve conservation decision making
+AU  - Bolam, Friederike C.
+AU  - Grainger, Matthew J.
+AU  - Mengersen, Kerrie L.
+AU  - Stewart, Gavin B.
+AU  - Sutherland, William J.
+AU  - Runge, Michael C.
+AU  - McGowan, Philip J. K.
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - https://doi.org/10.1111/brv.12471
+DO  - https://doi.org/10.1111/brv.12471
+T2  - Biological Reviews
+JF  - Biological Reviews
+JO  - Biological Reviews
+JA  - Biol Rev
+SP  - 629
+EP  - 647
+VL  - 94
+IS  - 2
+KW  - adaptive management
+KW  - decision analysis
+KW  - decision theory
+KW  - uncertainty
+KW  - biodiversity
+KW  - ecology
+KW  - reporting standards
+KW  - funding
+KW  - research prioritisation
+PB  - John Wiley & Sons, Ltd
+SN  - 1464-7931
+M3  - https://doi.org/10.1111/brv.12471
+UR  - https://doi.org/10.1111/brv.12471
+Y2  - 2020/11/10
+N2  - ABSTRACT Conservation decisions are challenging, not only because they often involve difficult conflicts among outcomes that people value, but because our understanding of the natural world and our effects on it is fraught with uncertainty. Value of Information (VoI) methods provide an approach for understanding and managing uncertainty from the standpoint of the decision maker. These methods are commonly used in other fields (e.g. economics, public health) and are increasingly used in biodiversity conservation. This decision-analytical approach can identify the best management alternative to select where the effectiveness of interventions is uncertain, and can help to decide when to act and when to delay action until after further research. We review the use of VoI in the environmental domain, reflect on the need for greater uptake of VoI, particularly for strategic conservation planning, and suggest promising areas for new research. We also suggest common reporting standards as a means of increasing the leverage of this powerful tool. The environmental science, ecology and biodiversity categories of the Web of Knowledge were searched using the terms ?Value of Information,? ?Expected Value of Perfect Information,? and the abbreviation ?EVPI.? Google Scholar was searched with the same terms, and additionally the terms decision and biology, biodiversity conservation, fish, or ecology. We identified 1225 papers from these searches. Included studies were limited to those that showed an application of VoI in biodiversity conservation rather than simply describing the method. All examples of use of VOI were summarised regarding the application of VoI, the management objectives, the uncertainties, the models used, how the objectives were measured, and the type of VoI. While the use of VoI appears to be on the increase in biodiversity conservation, the reporting of results is highly variable, which can make it difficult to understand the decision context and which uncertainties were considered. Moreover, it was unclear if, and how, the papers informed management and policy interventions, which is why we suggest a range of reporting standards that would aid the use of VoI. The use of VoI in conservation settings is at an early stage. There are opportunities for broader applications, not only for species-focussed management problems, but also for setting local or global research priorities for biodiversity conservation, making funding decisions, or designing or improving protected area networks and management. The long-term benefits of applying VoI methods to biodiversity conservation include a more structured and decision-focused allocation of resources to research.
+ER  - 
+
+TY  - JOUR
+T1  - Information use, support and decision making in complex, uncertain environments
+AU  - Mishra, Jyoti Laxmi
+AU  - Allen, David K.
+AU  - Pearman, Alan D.
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - https://doi.org/10.1002/meet.14505001045
+DO  - https://doi.org/10.1002/meet.14505001045
+T2  - Proceedings of the American Society for Information Science and Technology
+JF  - Proceedings of the American Society for Information Science and Technology
+JO  - Proceedings of the American Society for Information Science and Technology
+JA  - Proc. Am. Soc. Info. Sci. Tech.
+SP  - 1
+EP  - 10
+VL  - 50
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0044-7870
+M3  - https://doi.org/10.1002/meet.14505001045
+UR  - https://doi.org/10.1002/meet.14505001045
+Y2  - 2020/11/10
+N2  - Abstract The research reported in this paper explored decision making and information use by public safety personal leading teams responding to major incidents. The research methodology was qualitative using critical incident technique and observation grounded in Activity Theory as meta-theoretical framework. The data gathered uncovered intuitive as well as analytic modes of thinking. We argue that this has implications for decision support and our understanding of decision making in time-constrained, complex and uncertain environments.
+ER  - 
+
+TY  - JOUR
+T1  - Aquatic Biofilms: Ecology, Water Quality and Wastewater Treatment By Anna M. Romani, Helena Guasch, and M. Dolors Balaguer (Editors) Caister Academic Press, Norfolk, United Kingdom (2016) 238 Pages ISBN No.: 978-1-910190-17-3 U.S. List Price: $319.00
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - https://doi.org/10.1002/ep.12561
+DO  - https://doi.org/10.1002/ep.12561
+T2  - Environmental Progress & Sustainable Energy
+JF  - Environmental Progress & Sustainable Energy
+JO  - Environmental Progress & Sustainable Energy
+JA  - Environ. Prog. Sustainable Energy
+SP  - 338
+EP  - 340
+VL  - 36
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 1944-7442
+M3  - https://doi.org/10.1002/ep.12561
+UR  - https://doi.org/10.1002/ep.12561
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Book Reviews
+AU  - Suter, Glenn
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - https://doi.org/10.1002/ieam.1318
+DO  - https://doi.org/10.1002/ieam.1318
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 570
+EP  - 573
+VL  - 8
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 1551-3777
+M3  - https://doi.org/10.1002/ieam.1318
+UR  - https://doi.org/10.1002/ieam.1318
+Y2  - 2020/11/10
+ER  - 

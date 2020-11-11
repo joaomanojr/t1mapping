@@ -1,0 +1,609 @@
+
+TY  - JOUR
+T1  - Workforce/Population, Economy, Infrastructure, Geography, Hierarchy, and Time (WEIGHT): Reflections on the Plural Dimensions of Disaster Resilience
+AU  - Santos, Joost
+AU  - Yip, Christian
+AU  - Thekdi, Shital
+AU  - Pagsuyoin, Sheree
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1111/risa.13186
+DO  - https://doi.org/10.1111/risa.13186
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 43
+EP  - 67
+VL  - 40
+IS  - 1
+KW  - Disaster risk assessment
+KW  - disaster risk management
+KW  - engineering analytics
+KW  - resilience
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.13186
+UR  - https://doi.org/10.1111/risa.13186
+Y2  - 2020/11/10
+N2  - Abstract The concept of resilience and its relevance to disaster risk management has increasingly gained attention in recent years. It is common for risk and resilience studies to model system recovery by analyzing a single or aggregated measure of performance, such as economic output or system functionality. However, the history of past disasters and recent risk literature suggest that a single-dimension view of relevant systems is not only insufficient, but can compromise the ability to manage risk for these systems. In this article, we explore how multiple dimensions influence the ability for complex systems to function and effectively recover after a disaster. In particular, we compile evidence from the many competing resilience perspectives to identify the most critical resilience dimensions across several academic disciplines, applications, and disaster events. The findings demonstrate the need for a conceptual framework that decomposes resilience into six primary dimensions: workforce/population, economy, infrastructure, geography, hierarchy, and time (WEIGHT). These dimensions are not typically addressed holistically in the literature; often they are either modeled independently or in piecemeal combinations. The current research is the first to provide a comprehensive discussion of each resilience dimension and discuss how these dimensions can be integrated into a cohesive framework, suggesting that no single dimension is sufficient for a holistic analysis of a disaster risk management. Through this article, we also aim to spark discussions among researchers and policymakers to develop a multicriteria decision framework for evaluating the efficacy of resilience strategies. Furthermore, the WEIGHT dimensions may also be used to motivate the generation of new approaches for data analytics of resilience-related knowledge bases.
+ER  - 
+
+TY  - JOUR
+T1  - A novel hybrid method for selecting soccer players during the transfer season
+AU  - Nasiri, Mohammad Mahdi
+AU  - Ranjbar, Mojtaba
+AU  - Tavana, Madjid
+AU  - Santos Arteaga, Francisco J.
+AU  - Yazdanparast, Reza
+Y1  - 2019/02/01
+PY  - 2019
+DA  - 2019/02/01
+N1  - https://doi.org/10.1111/exsy.12342
+DO  - https://doi.org/10.1111/exsy.12342
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12342
+VL  - 36
+IS  - 1
+KW  - integer programming
+KW  - multicriteria decision making
+KW  - player selection
+KW  - sports management
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12342
+UR  - https://doi.org/10.1111/exsy.12342
+Y2  - 2020/11/10
+N2  - Abstract The quality of its players is one of the most significant features determining the failure or success of a sports team. The wide array of factors contributing to the performance of the players together with the inherent financial limitations of the clubs have transformed the selection of players into a complex problem. The current paper presents an integrated approach that combines multiple-criteria decision-making analysis and mathematical programming to support the decision maker through the building process of a soccer team. First, the fuzzy analytic network process is applied to evaluate the significance of the different performance criteria for each position in the field. The score attained by the different players in each potential position is computed using PROMETHEE II. A biobjective integer programming model has been designed to evaluate the transfer status of the players. Finally, data envelopment analysis is used to identify the most efficient Pareto solution determining the status of each player. In order to demonstrate the applicability of the proposed approach, the position in the field and transfer status of 60 players being considered by a real soccer team have been determined.
+ER  - 
+
+TY  - JOUR
+T1  - Multiple criteria decision making method based on normal interval-valued intuitionistic fuzzy generalized aggregation operator
+AU  - Liu, Peide
+AU  - Teng, Fei
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - https://doi.org/10.1002/cplx.21654
+DO  - https://doi.org/10.1002/cplx.21654
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 277
+EP  - 290
+VL  - 21
+IS  - 5
+KW  - multicriteria decision making
+KW  - normal interval-valued intuitionistic fuzzy numbers
+KW  - normal interval-valued intuitionistic fuzzy aggregation operator
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - https://doi.org/10.1002/cplx.21654
+UR  - https://doi.org/10.1002/cplx.21654
+Y2  - 2020/11/10
+N2  - On the basis of the normal intuitionistic fuzzy numbers (NIFNs), we proposed the normal interval-valued intuitionistic fuzzy numbers (NIVIFNs) in which the values of the membership and nonmembership were extended to interval numbers. First, the definition, the properties, the score function and accuracy function of the NIVIFNs are briefly introduced, and the operational laws are defined. Second, some aggregation operators based on the NIVIFNs are proposed, such as normal interval-valued intuitionistic fuzzy weighted arithmetic averaging operator, normal interval-valued intuitionistic fuzzy ordered weighted arithmetic averaging operator, normal interval-valued intuitionistic fuzzy hybrid weighted arithmetic averaging operator, normal interval-valued intuitionistic fuzzy weighted geometric averaging operator, normal interval-valued intuitionistic fuzzy ordered weighted geometric averaging operator, normal interval-valued intuitionistic fuzzy hybrid weighted geometric averaging operator, and normal interval-valued intuitionistic fuzzy generalized weighted averaging operator, normal interval-valued intuitionistic fuzzy generalized ordered weighted averaging operator, normal interval-valued intuitionistic fuzzy generalized hybrid weighted averaging operator, and some properties of these operators, such as idempotency, monotonicity, boundedness, commutativity, are studied. Further, an approach to the decision making problems with the NIVIFNs is established. Finally, an illustrative example is given to verify the developed approach and to demonstrate its practicality and effectiveness. ? 2015 Wiley Periodicals, Inc. Complexity 21: 277?290, 2016
+ER  - 
+
+TY  - JOUR
+T1  - Automated decision algorithm applied to a field experiment with multiple research objectives: The DC3 campaign
+AU  - Hanlon, Christopher J.
+AU  - Small, Arthur A.
+AU  - Bose, Satyajit
+AU  - Young, George S.
+AU  - Verlinde, Johannes
+Y1  - 2014/10/27
+PY  - 2014
+DA  - 2014/10/27
+N1  - https://doi.org/10.1002/2014JD021922
+DO  - https://doi.org/10.1002/2014JD021922
+T2  - Journal of Geophysical Research: Atmospheres
+JF  - Journal of Geophysical Research: Atmospheres
+JO  - Journal of Geophysical Research: Atmospheres
+JA  - J. Geophys. Res. Atmos.
+SP  - 11,527
+EP  - 11,542
+VL  - 119
+IS  - 20
+KW  - decision-making under uncertainty
+KW  - multiobjective decision analysis
+KW  - field campaign
+KW  - automated weather forecasting
+KW  - dynamic programming
+PB  - John Wiley & Sons, Ltd
+SN  - 2169-897X
+M3  - https://doi.org/10.1002/2014JD021922
+UR  - https://doi.org/10.1002/2014JD021922
+Y2  - 2020/11/10
+N2  - AbstractAutomated decision systems have shown the potential to increase data yields from field experiments in atmospheric science. The present paper describes the construction and performance of a flight decision system designed for a case in which investigators pursued multiple, potentially competing objectives. The Deep Convective Clouds and Chemistry (DC3) campaign in 2012 sought in situ airborne measurements of isolated deep convection in three study regions: northeast Colorado, north Alabama, and a larger region extending from central Oklahoma through northwest Texas. As they confronted daily flight launch decisions, campaign investigators sought to achieve two mission objectives that stood in potential tension to each other: to maximize the total amount of data collected while also collecting approximately equal amounts of data from each of the three study regions. Creating an automated decision system involved understanding how investigators would themselves negotiate the trade-offs between these potentially competing goals, and representing those preferences formally using a utility function that served to rank-order the perceived value of alternative data portfolios. The decision system incorporated a custom-built method for generating probabilistic forecasts of isolated deep convection and estimated climatologies calibrated to historical observations. Monte Carlo simulations of alternative future conditions were used to generate flight decision recommendations dynamically consistent with the expected future progress of the campaign. Results show that a strict adherence to the recommendations generated by the automated system would have boosted the data yield of the campaign by between 10 and 57%, depending on the metrics used to score success, while improving portfolio balance.
+ER  - 
+
+TY  - JOUR
+T1  - Generalized attitudinal Choquet integral
+AU  - Aggarwal, Manish
+Y1  - 2019/05/01
+PY  - 2019
+DA  - 2019/05/01
+N1  - https://doi.org/10.1002/int.22074
+DO  - https://doi.org/10.1002/int.22074
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 733
+EP  - 753
+VL  - 34
+IS  - 5
+KW  - attitudinal character
+KW  - Choquet integral
+KW  - compensative
+KW  - decision analysis
+KW  - human aggregation
+KW  - multicriteria decision-making
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.22074
+UR  - https://doi.org/10.1002/int.22074
+Y2  - 2020/11/10
+N2  - Abstract Attitudinal Choquet integral (ACI) extends Choquet integral (CI) through a consideration of a decision-maker's (DM's) attitudinal character. In this paper, we generalize ACI, and the resulting operator is termed as generalized ACI (GACI). GACI adds to the efficacy of the ACI in the representation of a DM's unique and complex attitudinal character. It also generates a vast range of exponential ACI operators, such as harmonic ACI, ACI, quadratic ACI, to name a few. We further present induced GACI to consider additional information that may be associated with the arguments of aggregation. The special cases of the proposed operators are investigated. The usefulness of the proposed operators in modelling human decision behavior is shown through a case study.
+ER  - 
+
+TY  - JOUR
+T1  - An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory
+AU  - Wu, Dongdong
+AU  - Tang, Yongchuan
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1002/qre.2660
+DO  - https://doi.org/10.1002/qre.2660
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual Reliab Engng Int
+SP  - 1786
+EP  - 1807
+VL  - 36
+IS  - 5
+KW  - ambiguity measure
+KW  - Dempster–Shafer evidence theory
+KW  - failure mode and effects analysis
+KW  - gray relational projection method
+KW  - risk priority numbers
+KW  - uncertainty measure
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - https://doi.org/10.1002/qre.2660
+UR  - https://doi.org/10.1002/qre.2660
+Y2  - 2020/11/10
+N2  - Abstract mode and effects analysis (FMEA) is an effective tool to assess the risk of a system or process under uncertain environment. However, how to handle the uncertainty in the subjective assessment is an open issue. In this paper, a novel method to deal with the uncertainty coming from subjective assessments of FMEA experts is proposed in the framework of Dempster?Shafer evidence theory. First, the uncertain degree of the assessment is measured by the ambiguity measure. Then, the uncertainty is transformed to the reliability of each FMEA expert and the relative importance of each risk factor. After that, the assessments from FMEA team will be fused with a discounting-based combination rule to address the potential conflict. Moreover, to avoid the situation that different risk priorities of failure modes may have the same ranking based on classical risk priority number method, the gray relational projection method (GRPM) is adopted for ranking risk priorities of failure modes. Finally, an application of the improved FMEA model in sheet steel production process verifies the reliability and validity of the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - Individual Trade-Offs Between Possible Benefits and Risks of Cancer Treatments: Results from a Stated Preference Study with Patients with Multiple Myeloma
+AU  - Postmus, Douwe
+AU  - Richard, Sarah
+AU  - Bere, Nathalie
+AU  - van Valkenhoef, Gert
+AU  - Galinsky, Jayne
+AU  - Low, Eric
+AU  - Moulon, Isabelle
+AU  - Mavris, Maria
+AU  - Salmonsson, Tomas
+AU  - Flores, Beatriz
+AU  - Hillege, Hans
+AU  - Pignatti, Francesco
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - https://doi.org/10.1634/theoncologist.2017-0257
+DO  - https://doi.org/10.1634/theoncologist.2017-0257
+T2  - The Oncologist
+JF  - The Oncologist
+JO  - The Oncologist
+JA  - The Oncol
+SP  - 44
+EP  - 51
+VL  - 23
+IS  - 1
+KW  - Patient preferences
+KW  - Regulatory science
+KW  - Benefit-risk assessment
+KW  - Multicriteria decision analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1083-7159
+M3  - https://doi.org/10.1634/theoncologist.2017-0257
+UR  - https://doi.org/10.1634/theoncologist.2017-0257
+Y2  - 2020/11/10
+N2  - Abstract Background The objectives of this study were to elicit the preferences of patients with multiple myeloma regarding the possible benefits and risks of cancer treatments and to illustrate how such data may be used to estimate patients? acceptance of new treatments. Patients and Methods Patients with multiple myeloma from the cancer charity Myeloma UK were invited to participate in an online survey based on multicriteria decision analysis and swing weighting to elicit individual stated preferences for the following attributes: (a) 1-year progression-free survival (PFS, ranging from 50% to 90%), (b) mild or moderate toxicity for 2 months or longer (ranging from 85% to 45%), and (c) severe or life-threatening toxicity (ranging from 80% to 20%). Results A total of 560 participants completed the survey. The average weight given to PFS was 0.54, followed by 0.32 for severe or life-threatening toxicity and 0.14 for mild or moderate chronic toxicity. Participants who ranked severe or life-threatening toxicity above mild or moderate chronic toxicity (56%) were more frequently younger, working, and looking after dependent family members and had more frequently experienced severe or life-threatening side effects. The amount of weight given to PFS did not depend on any of the collected covariates. The feasibility of using the collected preference data to estimate the patients? acceptance of specific multiple myeloma treatments was demonstrated in a subsequent decision analysis example. Conclusion Stated preference studies provide a systematic approach to gain knowledge about the distribution of preferences in the population and about what this implies for patients? acceptance of specific treatments. Implications for Practice This study demonstrated how quantitative preference statements from a large group of participants can be collected through an online survey and how such information may be used to explore the acceptability of specific treatments based on the attributes studied. Results from such studies have the potential to become an important new tool for gathering patient views and studying heterogeneity in preferences in a systematic way, along with other methods, such as focus groups and expert opinions.
+ER  - 
+
+TY  - JOUR
+T1  - Goal Programming: realistic targets for the near future
+AU  - Caballero, Rafael
+AU  - Gómez, Trinidad
+AU  - Ruiz, Francisco
+Y1  - 2009/05/01
+PY  - 2009
+DA  - 2009/05/01
+N1  - https://doi.org/10.1002/mcda.442
+DO  - https://doi.org/10.1002/mcda.442
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 79
+EP  - 110
+VL  - 16
+IS  - 3‐4
+KW  - Goal Programming
+KW  - multiple objective programming
+KW  - historical survey
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.442
+UR  - https://doi.org/10.1002/mcda.442
+Y2  - 2020/11/10
+N2  - Abstract Goal Programming (GP) can be regarded as one of the most widely used multicriteria decision-making techniques. In this paper, two surveys are carried out. First, the evolution of GP since its birth to the present time, in terms of number of publications, references, journals, etc., has been studied. Second, a more in-depth survey has been carried out, which covers the publications from year 2000 to the present time. All the references are listed, and some conclusions and future research lines have been extracted about the late trends of GP. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying Areas Suitable for the Occurrence of Rift Valley Fever in North Africa: Implications for Surveillance
+AU  - Arsevska, E.
+AU  - Hellal, J.
+AU  - Mejri, S.
+AU  - Hammami, S.
+AU  - Marianneau, P.
+AU  - Calavas, D.
+AU  - Hénaux, V.
+Y1  - 2016/12/01
+PY  - 2016
+DA  - 2016/12/01
+N1  - https://doi.org/10.1111/tbed.12331
+DO  - https://doi.org/10.1111/tbed.12331
+T2  - Transboundary and Emerging Diseases
+JF  - Transboundary and Emerging Diseases
+JO  - Transboundary and Emerging Diseases
+JA  - Transbound Emerg Dis
+SP  - 658
+EP  - 674
+VL  - 63
+IS  - 6
+KW  - Rift Valley fever
+KW  - multicriteria decision analysis
+KW  - mosquito habitat distribution
+KW  - spatial risk
+KW  - vector-borne disease
+KW  - zoonotic disease
+PB  - John Wiley & Sons, Ltd
+SN  - 1865-1674
+M3  - https://doi.org/10.1111/tbed.12331
+UR  - https://doi.org/10.1111/tbed.12331
+Y2  - 2020/11/10
+N2  - Summary Rift Valley fever (RVF) is a vector-borne zoonotic disease that has caused widespread outbreaks throughout Africa and the Arabian Peninsula, with serious consequences for livestock-based economies and public health. Although there have never been any reports of RVF in Morocco, Algeria, Tunisia and Libya, it is a priority disease in the Maghreb, due to the threat of introduction of the virus through transboundary livestock movements or infected mosquito vectors. However, the implementation of surveillance activities and early warning contingency plans requires better knowledge of the epidemiological situation. We conducted a multicriteria decision analysis, integrating host distribution with a combination of important ecological factors that drive mosquito abundance, to identify hotspots and suitable time periods for RVF enzootic circulation (i.e. stable transmission at a low to moderate level for an extended period of time) and an RVF epizootic event (i.e. a sudden occurrence of a large number of infected animals over a large geographic area) in the Maghreb. We also modelled vector species distribution using available information on vector presence and habitat preference. We found that the northern regions of the Maghreb were moderately suitable for RVF enzootics, but highly suitable for RVF epizootics. The vector species distribution model identified these regions as the most favourable mosquito habitats. Due to the low density of animal hosts and arid conditions, the desert region showed low RVF suitability, except in oases. However, the presence of competent vectors in putative unsuitable areas underlines the need for further assessments of mosquito habitat preference. This study produced monthly RVF suitability maps useful for animal health managers and veterinary services involved in designing risk-based surveillance programmes. The suitability maps can be further enhanced using existing country-specific sources of information and by incorporating knowledge ? as it becomes available ? on the epidemiology of the disease and distribution of vectors in the Maghreb.
+ER  - 
+
+TY  - JOUR
+T1  - A Methodological Study for Optimizing Material Selection in Sustainable Product Design
+AU  - Tambouratzis, Tatiana
+AU  - Karalekas, Dimitris
+AU  - Moustakas, Nikolaos
+Y1  - 2014/08/01
+PY  - 2014
+DA  - 2014/08/01
+N1  - https://doi.org/10.1111/jiec.12035
+DO  - https://doi.org/10.1111/jiec.12035
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 508
+EP  - 516
+VL  - 18
+IS  - 4
+KW  - artificial neural networks
+KW  - environmental impact
+KW  - genetic algorithms
+KW  - industrial ecology
+KW  - material selection
+KW  - sustainable product design
+PB  - John Wiley & Sons, Ltd
+SN  - 1088-1980
+M3  - https://doi.org/10.1111/jiec.12035
+UR  - https://doi.org/10.1111/jiec.12035
+Y2  - 2020/11/10
+N2  - Summary A computational intelligence-based identification of the properties of maximally sustainable materials for a given application, as derived from key properties of existing candidate materials, is put forward. The correlation surface between material properties (input) and environmental impact (EI) values (output) of the candidate materials is initially created using general regression (GR) artificial neural networks (ANNs). Genetic algorithms (GAs) are subsequently employed for swiftly identifying the minimum point of the correlation surface, thus exposing the properties of the maximally sustainable material. The ANN is compared to and found to be more accurate than classic polynomial regression (PR) interpolation/prediction, with sensitivity and multicriteria analyses further confirming the stability of the proposed methodology under variations in the properties of the materials as well as the relative importance values assigned to the input properties. A nominal demonstration concerning material selection for manufacturing maximally sustainable liquid containers is presented, showing that by appropriately picking the pertinent input properties and the desired material selection criteria, the proposed methodology can be applied to a wide range of material selection tasks.
+ER  - 
+
+TY  - JOUR
+T1  - Approaches to Pythagorean Fuzzy Stochastic Multi-criteria Decision Making Based on Prospect Theory and Regret Theory with New Distance Measure and Score Function
+AU  - Peng, Xindong
+AU  - Dai, Jingguo
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - https://doi.org/10.1002/int.21896
+DO  - https://doi.org/10.1002/int.21896
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1187
+EP  - 1214
+VL  - 32
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21896
+UR  - https://doi.org/10.1002/int.21896
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we initiate a new axiomatic definition of Pythagorean fuzzy distance measure, which is expressed by Pythagorean fuzzy number that will reduce the information loss and remain more original information. Then, the objective weights of various criteria are determined via grey system theory. Combining objective weights with subjective weights, we present the combined weights, which can reflect both the subjective considerations of the decision maker and the objective information. Meanwhile, a novel score function is proposed. Later, we present two algorithms to solve stochastic multicriteria decision making problem, which takes prospect preference and regret aversion of decision makers into consideration in the decision process. Finally, the effectiveness and feasibility of approach is demonstrated by a numerical example.
+ER  - 
+
+TY  - JOUR
+T1  - Which Cooperative Ownership Model Performs Better? A Financial-Decision Aid Approach
+AU  - Kalogeras, Nikos
+AU  - Pennings, Joost M.E.
+AU  - Benos, Theo
+AU  - Doumpos, Michael
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - https://doi.org/10.1002/agr.21323
+DO  - https://doi.org/10.1002/agr.21323
+T2  - Agribusiness
+JF  - Agribusiness
+JO  - Agribusiness
+JA  - Agribusiness
+SP  - 80
+EP  - 95
+VL  - 29
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0742-4477
+M3  - https://doi.org/10.1002/agr.21323
+UR  - https://doi.org/10.1002/agr.21323
+Y2  - 2020/11/10
+N2  - ABSTRACT In this article the financial/ownership structures of agribusiness cooperatives are analyzed to examine whether new cooperative models perform better than the more traditional ones. The assessment procedure introduces a new financial decision-aid approach, which is based on data-analysis techniques in combination with a preference ranking organization method of enrichment evaluations (PROMETHEE II). The application of this multicriteria decision-aid approach allows the rank ordering of cooperatives based on the most prominent financial ratios. The financial ratios were selected using principal component analysis. This analytical procedure reduces the dimensionality of large numbers of interrelated financial performance measures. We assess the financial success of Dutch agribusiness cooperatives for the period 1999?2010. Results show that there is no clear-cut evidence that cooperative models used to attract extra members? investments and/or outside equity perform better than the more traditional models. This suggests that ownership structure of cooperatives is not always a decisive factor for their financial success. [EconLit citations: Q130, G320, C440].
+ER  - 
+
+TY  - JOUR
+T1  - OWA Operator-Based Hybrid Framework for Outlier Reduction in Web Mining
+AU  - Gupta, Ankit
+AU  - Kohli, Shruti
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - https://doi.org/10.1002/int.21810
+DO  - https://doi.org/10.1002/int.21810
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 947
+EP  - 962
+VL  - 31
+IS  - 10
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21810
+UR  - https://doi.org/10.1002/int.21810
+Y2  - 2020/11/10
+N2  - Web mining is the process of extracting useful information from Web resources. Handling outliers is one of the primary challenges of present Web mining techniques. The complex nature of the Web, by virtue of both data and users, makes it very difficult to mine the information and convert to knowledge base with little outlier values. In this paper, a framework for reducing outliers in regression analysis with the help of ordered weighted operators (OWA) as a multicriteria decision-making problem is being formulated. First, a regression problem with a real-time Web data set will be formulated followed by solving the same with the help of a variant of OWA operators. Results, thus obtained are able to prove that outliers can be reduced significantly with the help of proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Signed distance-based ORESTE for multicriteria group decision-making with multigranular unbalanced hesitant fuzzy linguistic information
+AU  - Tian, Zhang-peng
+AU  - Nie, Ru-xin
+AU  - Wang, Jian-qiang
+AU  - Zhang, Hong-yu
+Y1  - 2019/02/01
+PY  - 2019
+DA  - 2019/02/01
+N1  - https://doi.org/10.1111/exsy.12350
+DO  - https://doi.org/10.1111/exsy.12350
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12350
+VL  - 36
+IS  - 1
+KW  - group consensus
+KW  - hesitant fuzzy linguistic term set
+KW  - multicriteria decision-making
+KW  - multigranular unbalanced linguistic term set
+KW  - outranking
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12350
+UR  - https://doi.org/10.1111/exsy.12350
+Y2  - 2020/11/10
+N2  - Abstract The objective of this study is to develop an integrated approach for solving multicriteria group decision-making problems with multigranular unbalanced hesitant fuzzy linguistic term sets (HFLTSs). Firstly, a signed distance-based transformation function is proposed to unify multigranular unbalanced hesitant fuzzy linguistic (HFL) assessments. Secondly, a mathematical programming model based on the maximum consensus is constructed to allocate decision-makers (DMs)' weights objectively. Thirdly, a new signed distance-based preference score function is defined to aggregate HFL assessments and determine the weak ranking of alternatives, and a novel preference, indifference, and incomparability test framework is constructed to identify the subtle relations among alternatives. On these bases, a signed distance-based ORESTE (Organísation, rangement et Synthèse de données relarionnelles, in French) method, in which knowledge regarding criterion values and weights are expressed as multigranular unbalanced HFLTSs, is developed to obtain the ranking of alternatives. Finally, an illustrative example, followed by sensitivity and comparative analyses, is presented to verify the feasibility and effectiveness of the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - A survey on semanticized and personalized health recommender systems
+AU  - Çelik Ertuğrul, Duygu
+AU  - Elçi, Atilla
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1111/exsy.12519
+DO  - https://doi.org/10.1111/exsy.12519
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12519
+VL  - 37
+IS  - 4
+KW  - e-health
+KW  - Health 3.0
+KW  - health care
+KW  - ontology
+KW  - recommender system
+KW  - semantic Web
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12519
+UR  - https://doi.org/10.1111/exsy.12519
+Y2  - 2020/11/10
+N2  - Abstract Health 3.0 is a health-related extension of the Web 3.0 concept. It is based on the semantic Web which provides for semantically organizing electronic health records of individuals. Health 3.0 is rapidly gaining ground as a new research topic in many academic and industrial disciplines. Due to the recent rapid spread of wearable sensors and smart devices with access to social media, migrating health services from the traditional centre-based health system to personal health care is inevitable. In this current era of greater personalization, treating patients' health problems according to their profile and medical data gathered is possible using the latest information technologies. Consequently, personalized health recommender systems have gained importance. Empowering the utility of advanced Web technology in personalized health systems is still challenging due to pressing issues, such as lack of low cost and accurate smart medical sensors and wearable devices, existing investment in legacy Web system architecture in health sector, heterogeneity of medical data gathered by myriad health care institutions and isolated health services, and interoperability issues as well as multi-dimensionality of medical data. By tracing recent developments, this paper offers a systematic review through recent research on semantic Web-enabled personalized health systems, namely, semanticized personalized health recommender systems with the key enabling technologies, major applications, and successful case studies. Critical questions derived from the research studies were discussed, and main directions of open issues were identified leading to recommendations for future study in the field of personalized health recommender systems.
+ER  - 
+
+TY  - JOUR
+T1  - Equivalence analysis to support environmental safety assessment: Using nontarget organism count data from field trials with cisgenically modified potato
+AU  - van der Voet, Hilko
+AU  - Goedhart, Paul W.
+AU  - Lazebnik, Jenny
+AU  - Kessel, Geert J. T.
+AU  - Mullins, Ewen
+AU  - van Loon, Joop J. A.
+AU  - Arpaia, Salvatore
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - https://doi.org/10.1002/ece3.4964
+DO  - https://doi.org/10.1002/ece3.4964
+T2  - Ecology and Evolution
+JF  - Ecology and Evolution
+JO  - Ecology and Evolution
+JA  - Ecol Evol
+SP  - 2863
+EP  - 2882
+VL  - 9
+IS  - 5
+KW  - environmental risk assessment
+KW  - equivalence test
+KW  - hierarchical analysis
+KW  - limit of concern
+KW  - multicriteria decision analysis
+KW  - overdispersed Poisson
+PB  - John Wiley & Sons, Ltd
+SN  - 2045-7758
+M3  - https://doi.org/10.1002/ece3.4964
+UR  - https://doi.org/10.1002/ece3.4964
+Y2  - 2020/11/10
+N2  - Abstract This paper considers the statistical analysis of entomological count data from field experiments with genetically modified (GM) plants. Such trials are carried out to assess environmental safety. Potential effects on nontarget organisms (NTOs), as indicators of biodiversity, are investigated. The European Food Safety Authority (EFSA) gives broad guidance on the environmental risk assessment (ERA) of GM plants. Field experiments must contain suitable comparator crops as a benchmark for the assessment of designated endpoints. In this paper, a detailed protocol is proposed to perform data analysis for the purpose of assessing environmental safety. The protocol includes the specification of a list of endpoints and their hierarchical relations, the specification of intended levels of data analysis, and the specification of provisional limits of concern to decide on the need for further investigation. The protocol emphasizes a graphical representation of estimates and confidence intervals for the ratio of mean abundances for the GM plant and its comparator crop. Interpretation relies mainly on equivalence testing in which confidence intervals are compared with the limits of concern. The proposed methodology is illustrated with entomological count data resulting from multiyear, multilocation field trials. A cisgenically modified potato line (with enhanced resistance to late blight disease) was compared to the original conventional potato variety in the Netherlands and Ireland in two successive years (2013, 2014). It is shown that the protocol encompasses alternative schemes for safety assessment resulting from different research questions and/or expert choices. Graphical displays of equivalence testing at several hierarchical levels and their interpretation are presented for one of these schemes. The proposed approaches should be of help in the ERA of GM or other novel plants.
+ER  - 
+
+TY  - JOUR
+T1  - New Distance Measure of Single-Valued Neutrosophic Sets and Its Application
+AU  - Huang, Han-Liang
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - https://doi.org/10.1002/int.21815
+DO  - https://doi.org/10.1002/int.21815
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 1021
+EP  - 1032
+VL  - 31
+IS  - 10
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21815
+UR  - https://doi.org/10.1002/int.21815
+Y2  - 2020/11/10
+N2  - A single-valued neutrosophic set (SVNS) is an instance of a neutrosophic set, which can be used to handle uncertainty, imprecise, indeterminate, and inconsistent information in real life. In this paper, a new distance measure between two SVNSs is defined by the full consideration of truth-membership function, indeterminacy-membership function, and falsity-membership function for the forward and backward differences. Then the similarity measure, the entropy measure, and the index of distance are also presented. Finally, two illustrative examples are given to demonstrate the effectiveness of the proposed clustering method and multicriteria decision-making method based on the distance (similarity) measure between SVNSs.
+ER  - 
+
+TY  - JOUR
+T1  - An stochastic multiattribute acceptability analysis-based method for the multiattribute project portfolio selection problem with rank-level information
+AU  - Song, Shiling
+AU  - Ang, Sheng
+AU  - Yang, Feng
+AU  - Xia, Qiong
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - https://doi.org/10.1111/exsy.12447
+DO  - https://doi.org/10.1111/exsy.12447
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12447
+VL  - 36
+IS  - 5
+KW  - project portfolio selection
+KW  - project management
+KW  - stochastic multiattribute acceptability analysis
+KW  - multiattribute decision analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12447
+UR  - https://doi.org/10.1111/exsy.12447
+Y2  - 2020/11/10
+N2  - Abstract In many cases of practical multiattribute project portfolio selection problems, it is hard to obtain accurate measurements of attributes and precise preference information. Even after a long and costly information gathering, the attribute measurements and the preference information can still be uncertain or inaccurate. Considerable cost saving will be obtained if the selection of an optimal project portfolio can be done using rank-level information based on some or all the attributes, without knowing the preference information. In this paper, we propose a stochastic multiattribute acceptability analysis-based method that can deal with mixed rank and cardinal attribute measurements and uses little or no weight information. In the proposed stochastic multiattribute acceptability analysis-based method, the decision makers need not to express their preferences explicitly or implicitly, so it is particularly useful when no weight information is available at all. A numerical example involving selection of photovoltaic plants in an industrial province in Eastern China is provided to demonstrate the proposed method.
+ER  - 
+
+TY  - JOUR
+T1  - A social recommendation system for academic collaboration in undergraduate research
+AU  - Liu, Yang
+AU  - Yang, Chen
+AU  - Ma, Jian
+AU  - Xu, Wei
+AU  - Hua, Zhongsheng
+Y1  - 2019/04/01
+PY  - 2019
+DA  - 2019/04/01
+N1  - https://doi.org/10.1111/exsy.12365
+DO  - https://doi.org/10.1111/exsy.12365
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12365
+VL  - 36
+IS  - 2
+KW  - academic collaboration network
+KW  - data mining
+KW  - social recommendation systems
+KW  - undergraduate research
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12365
+UR  - https://doi.org/10.1111/exsy.12365
+Y2  - 2020/11/10
+N2  - Abstract Academic collaboration plays an important role in undergraduate research. Current methods rely on offline social contacts for undergraduate students to collaborate with academic staff members in universities and research institutions. In big data era, it is difficult for undergraduate students to find suitable research project opportunities and supervisors to work with. This paper proposes a social recommendation system for undergraduate students to find research project opportunities and work with research project teams on an academic collaboration network. The proposed recommendation method integrates relevance, connectivity, and quality modules, where profiles of undergraduates are constructed with their self-claimed information, research activities (e.g., studying and reading research publications and reading research projects), and social connections in the academic collaboration network. Suitable research projects are recommended based on the undergraduates' profiles. Experiments are conducted, and the results have shown that the proposed social recommendation system can facilitate undergraduates' selection of research projects.
+ER  - 
+
+TY  - JOUR
+T1  - Financial planning for the preventive maintenance of power distribution systems via fuzzy AHP
+AU  - Khodaei Tehrani, Masood
+AU  - Fereidunian, Alireza
+AU  - Lesani, Hamid
+Y1  - 2016/01/02
+PY  - 2016
+DA  - 2016/01/02
+N1  - https://doi.org/10.1002/cplx.21613
+DO  - https://doi.org/10.1002/cplx.21613
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 36
+EP  - 46
+VL  - 21
+IS  - 3
+KW  - Reliability-centered maintenance
+KW  - Preventive maintenance
+KW  - Fuzzy analytical hierarchical process
+KW  - Electricity distribution network
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - https://doi.org/10.1002/cplx.21613
+UR  - https://doi.org/10.1002/cplx.21613
+Y2  - 2020/11/10
+N2  - One of the most important objectives of electricity distribution companies is to improve the reliability of the distribution networks. To this end, the electricity distribution companies try to optimally use the existing financial resources in the planning of preventive maintenance (PM) programs to reduce the imposed costs on the system due to the failure of network components and to improve the network reliability. In fuzzy analytical hierarchical process (fuzzy AHP) method, the degree of network reliability and the effectiveness of PM budget in the improvement of network reliability are selected as decision criteria in the budget allocation procedure. The areas served by the power distribution network are prioritized relative to each other and are assigned weights based on these priorities. The PM budget is determined based on the obtained weights. The medium voltage distribution network of seven areas in the city of Tehran have been selected for the implementation of the proposed method and the analysis of the obtained results. ? 2014 Wiley Periodicals, Inc. Complexity 21: 36?46, 2016
+ER  - 

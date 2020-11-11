@@ -1,0 +1,607 @@
+
+TY  - JOUR
+T1  - A heuristic approach to the multicriteria design of IaaS cloud infrastructures for Big Data applications
+AU  - Arostegi, María
+AU  - Torre-Bastida, Ana
+AU  - Bilbao, Miren Nekane
+AU  - Del Ser, Javier
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1111/exsy.12259
+DO  - https://doi.org/10.1111/exsy.12259
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12259
+VL  - 35
+IS  - 5
+KW  - Big Data
+KW  - Cloud Computing
+KW  - IaaS
+KW  - multiobjective heuristics
+KW  - NSGA-II
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12259
+UR  - https://doi.org/10.1111/exsy.12259
+Y2  - 2020/11/10
+N2  - Abstract The rapid growth of new computing paradigms such as Cloud Computing and Big Data has unleashed great opportunities for companies to shift their business model towards a fully digital strategy. A major obstacle in this matter is the requirement of highly specialized ICT infrastructures that are expensive and difficult to manage. It is at this point that the IaaS (infrastructure as a service) model offers an efficient and cost-affordable solution to supply companies with their required computing resources. In the Big Data context, it is often a hard task to design an optimal IaaS solution that meets user requirements. In this context, we propose a methodology to optimize the definition of IaaS cloud models for hosting Big Data platforms, following a threefold criterion: cost, reliability, and computing capacity. Specifically, the proposed methodology hinges on evolutionary heuristics in order to find IaaS configurations in the cloud that optimally balance such objectives. We also define measures to quantify the aforementioned metrics over a Big Data platform hosted within an IaaS cloud model. The proposed method is validated by using real information from three IaaS providers and three Big Data platforms. The obtained results provide an insightful input for system managers when initially designing cloud infrastructures for Big Data applications.
+ER  - 
+
+TY  - JOUR
+T1  - An outranking method for multicriteria decision making with probabilistic hesitant information
+AU  - Li, Jian
+AU  - Chen, Qiongxia
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1111/exsy.12513
+DO  - https://doi.org/10.1111/exsy.12513
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12513
+VL  - 37
+IS  - 3
+KW  - ELECTRE
+KW  - Hausdorff distance
+KW  - multicriteria decision making
+KW  - outranking relation
+KW  - probabilistic hesitant fuzzy set
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12513
+UR  - https://doi.org/10.1111/exsy.12513
+Y2  - 2020/11/10
+N2  - Abstract Defects of hesitant fuzzy set (HFS) manifest in actual decision-making process, so adding probabilities to the values in HFS is necessary. The probabilistic HFS (PHFS) is a useful tool to describe the uncertainty of elements in HFS by introducing occurrence probabilities. However, some important issues in PHFS utilization remain to be addressed. In this study, an outranking method for multicriteria decision making (MCDM) with probabilistic hesitant information is presented. First, the binary relations between two probabilistic hesitant fuzzy elements (PHFEs) are defined on the basis of the elimination and choice translating reality method. Some outranking relations between the alternatives are then introduced. Second, we provide a Hausdorff distance between two PHFEs. The main characteristic of the proposed Hausdorff distance is that it does not require the same length and arrangement of the PHFEs. Third, a maximizing Hausdorff distance deviation method is developed to obtain the evaluation criteria weights under a probabilistic hesitant fuzzy environment. Finally, an illustrative example in conjunction with comparative analysis is used to demonstrate that the proposed method is feasible for practical MCDM problems.
+ER  - 
+
+TY  - JOUR
+T1  - Linguistic Discriminative Aggregation in Multicriteria Decision Making
+AU  - Aggarwal, Manish
+Y1  - 2016/06/01
+PY  - 2016
+DA  - 2016/06/01
+N1  - https://doi.org/10.1002/int.21793
+DO  - https://doi.org/10.1002/int.21793
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 529
+EP  - 555
+VL  - 31
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21793
+UR  - https://doi.org/10.1002/int.21793
+Y2  - 2020/11/10
+N2  - Several new aggregation operators are proposed in the context of multicriteria decision making (MCDM) in the linguistic domain. The proposed operators first infer the discrimination index, based on the extent of variability in the various linguistic evaluations against a criterion. This value is then utilized in the actual aggregation step to discriminate among the alternatives. Besides, the proposed operators also take into account the a priori weights associated with the criteria. The proposed concepts are illustrated through an example in group MCDM.
+ER  - 
+
+TY  - JOUR
+T1  - Orderings based on the banks set: Some new scoring methods for multicriteria decision making
+AU  - Moser, Scott
+Y1  - 2015/05/06
+PY  - 2015
+DA  - 2015/05/06
+N1  - https://doi.org/10.1002/cplx.21527
+DO  - https://doi.org/10.1002/cplx.21527
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 63
+EP  - 76
+VL  - 20
+IS  - 5
+KW  - multicriteria decision making
+KW  - collective choice
+KW  - ranking
+KW  - Banks set
+KW  - tournament
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - https://doi.org/10.1002/cplx.21527
+UR  - https://doi.org/10.1002/cplx.21527
+Y2  - 2020/11/10
+N2  - This article introduces new methods for ranking alternatives in multicriteria decision making situations. Each is based on the normative position that the strength of an alternative is inversely related to the number of alternatives that could prevent it from being chosen. The scores discriminate among elements of the Banks set (Banks, Soc Choice Welfare, 1985, 1, 295?306). The new scoring methods are compared to traditional scoring methods and related to the amount of intransitivity (specifically, the size of the top-cycle) of aggregated preference. The new scores are shown to measure important aspects of alternatives not captured by extant scoring methods and are illustrated in collective choice settings. ? 2014 Wiley Periodicals, Inc. Complexity 20: 63?76, 2015
+ER  - 
+
+TY  - JOUR
+T1  - Complex intuitionistic fuzzy power aggregation operators and their applications in multicriteria decision-making
+AU  - Rani, Dimple
+AU  - Garg, Harish
+Y1  - 2018/12/01
+PY  - 2018
+DA  - 2018/12/01
+N1  - https://doi.org/10.1111/exsy.12325
+DO  - https://doi.org/10.1111/exsy.12325
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12325
+VL  - 35
+IS  - 6
+KW  - complex intuitionistic fuzzy set
+KW  - intuitionistic fuzzy set
+KW  - membership degrees
+KW  - multicriteria decision-making
+KW  - power aggregation operator
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12325
+UR  - https://doi.org/10.1111/exsy.12325
+Y2  - 2020/11/10
+N2  - Abstract The objective of this manuscript is to present some aggregation operators for aggregating the different complex intuitionistic fuzzy (CIF) sets by considering the dependency between the pairs of its membership degrees. In the existing studies of fuzzy and its extensions, the uncertainties present in the data are handled with the help of degrees of membership that are the subset of real numbers, which may lose some useful information and hence consequently affect the decision results. A modification to these, complex intuitionistic fuzzy set handles the uncertainties with the degrees whose ranges are extended from real subset to the complex subset with unit disc and hence handle the two-dimensional information in a single set. Thus, motivated by this, we developed some new power aggregation operators, namely, CIF power averaging, CIF weighted power averaging, CIF ordered weighted power averaging, CIF power geometric, CIF weighted power geometric, and CIF ordered weighted power geometric. Also, some of the desirable properties of these are investigated. Further, based on these operators, a multicriteria decision-making approach is presented under the CIF set environment. An illustrative example related to the selection of the best alternative(s) is considered to demonstrate the efficiency of the proposed approach and is validated it by comparing their results with the several existing approaches results.
+ER  - 
+
+TY  - JOUR
+T1  - Software obsolescence risk assessment approach using multicriteria decision-making
+AU  - Bowlds, Ted F.
+AU  - Fossaceca, John M.
+AU  - Iammartino, Ronald
+Y1  - 2018/09/01
+PY  - 2018
+DA  - 2018/09/01
+N1  - https://doi.org/10.1002/sys.21446
+DO  - https://doi.org/10.1002/sys.21446
+T2  - Systems Engineering
+JF  - Systems Engineering
+JO  - Systems Engineering
+JA  - Syst Eng
+SP  - 455
+EP  - 465
+VL  - 21
+IS  - 5
+KW  - analytic hierarchy process
+KW  - diminishing manufacturing sources and material shortages (DMSMS)
+KW  - multicriteria decision-making
+KW  - risk assessment
+KW  - software obsolescence
+PB  - John Wiley & Sons, Ltd
+SN  - 1098-1241
+M3  - https://doi.org/10.1002/sys.21446
+UR  - https://doi.org/10.1002/sys.21446
+Y2  - 2020/11/10
+N2  - Abstract System obsolescence issues are a routine occurrence, especially for systems with a high utilization of commercial electronic components or software applications with a long operational life. The extended length of a system's development can often result in obsolescence well before system production and fielding begins. Obsolescence affects individual electronic components and availability of materials, as well as access to experienced personnel, processes, and software. Legacy application software obsolescence is influenced by multiple factors. Included in these factors are hardware obsolescence, increased software maintenance, commercial off-the-shelf software obsolescence, growth in technical debt, growth in complexity, and a lack of embedded business rule documentation. These criteria influence subjective management decisions in the remediation of current or future obsolescence risk. A multicriteria decision-making (MCDM) approach is proposed to evaluate the impact of multiple obsolescence elements over the life cycle of a software application with consideration for the knowledge, preference, and subjectivity of experts to better inform the risk assessment and timing of future mitigation strategies. The resulting MCDM score provides a break point for a quantifiable increase in obsolescence risk.
+ER  - 
+
+TY  - JOUR
+T1  - Managing system obsolescence via multicriteria decision making
+AU  - Adetunji, Oluwatomi
+AU  - Bischoff, John
+AU  - Willy, Christopher J.
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1002/sys.21436
+DO  - https://doi.org/10.1002/sys.21436
+T2  - Systems Engineering
+JF  - Systems Engineering
+JO  - Systems Engineering
+JA  - Syst Eng
+SP  - 307
+EP  - 321
+VL  - 21
+IS  - 4
+KW  - AS02 government
+KW  - defense and security
+KW  - SEE11 decision analysis/management
+KW  - SEE17 logistics/supportability
+PB  - John Wiley & Sons, Ltd
+SN  - 1098-1241
+M3  - https://doi.org/10.1002/sys.21436
+UR  - https://doi.org/10.1002/sys.21436
+Y2  - 2020/11/10
+N2  - Abstract Obsolescence occurs when system elements become outdated, and it leads to operational, logistical, reliability, and cost implications. In the U.S. military, this problem is a result of the U.S. Department of Defense's (DoD) departure from Military Specification (MILSPEC) standards in 1994 and transition to the use of Commercial Off the Shelf products. Obsolescence costs the DoD more than $750 million annually. The current risk management tools for obsolescence are based on a quantitative approach that uses cost optimization, and expert judgment is not used as a critical criterion. A review of the literature has revealed that during the design phase of technological systems, there is limited knowledge and a lack of training associated with mitigating obsolescence, and multicriteria decision-making (MCDM) methods are not currently used to mitigate the risk of obsolescence. Thus, the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS, which is a MCDM method) and Monte Carlo simulations are proposed as the foundation for this work. This paper adds to the methodology by introducing an expert judgment criterion. A case study was conducted using military and civilian experts. Expert validation showed that the TOPSIS model successfully identified the best system for mitigating obsolescence. This model can be used by system designers and other decision makers to conduct trade studies in obsolescence management.
+ER  - 
+
+TY  - JOUR
+T1  - Use of multicriteria decision analysis for assessing the benefit and risk of over-the-counter analgesics
+AU  - Moore, Andrew
+AU  - Crossley, Anne
+AU  - Ng, Bernard
+AU  - Phillips, Lawrence
+AU  - Sancak, Özgür
+AU  - Rainsford, K.D.
+Y1  - 2017/10/01
+PY  - 2017
+DA  - 2017/10/01
+N1  - https://doi.org/10.1111/jphp.12770
+DO  - https://doi.org/10.1111/jphp.12770
+T2  - Journal of Pharmacy and Pharmacology
+JF  - Journal of Pharmacy and Pharmacology
+JO  - Journal of Pharmacy and Pharmacology
+JA  - J Pharm Pharmacol
+SP  - 1364
+EP  - 1373
+VL  - 69
+IS  - 10
+KW  - decision conferencing
+KW  - group judgements
+KW  - multicriteria decision analysis
+KW  - over-the-counter analgesics
+KW  - pain relief
+PB  - John Wiley & Sons, Ltd
+SN  - 0022-3573
+M3  - https://doi.org/10.1111/jphp.12770
+UR  - https://doi.org/10.1111/jphp.12770
+Y2  - 2020/11/10
+N2  - Abstract Objectives To test the ability of a multicriteria decision analysis (MCDA) model to incorporate disparate data sources of varying quality along with clinical judgement in a benefit?risk assessment of six well-known pain-relief drugs. Methods Six over-the-counter (OTC) analgesics were evaluated against three favourable effects and eight unfavourable effects by seven experts who specialise in the relief of pain, two in a 2-day facilitated workshop whose input data and judgements were later peer-reviewed by five additional experts. Key findings Ibuprofen salts and solubilised emerged with the best benefit?risk profile, followed by naproxen, ibuprofen acid, diclofenac, paracetamol and aspirin. Conclusions Multicriteria decision analysis enabled participants to evaluate the OTC analgesics against a range of favourable and unfavourable effects in a group setting that enabled all issues to be openly aired and debated. The model was easily communicated and understood by the peer reviewers, so the model should be comprehensible to physicians, pharmacists and other health professionals.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria decision making for sustainable development: A systematic review
+AU  - Kandakoglu, Ahmet
+AU  - Frini, Anissa
+AU  - Ben Amor, Sarah
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/mcda.1682
+DO  - https://doi.org/10.1002/mcda.1682
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 202
+EP  - 251
+VL  - 26
+IS  - 5-6
+KW  - multicriteria decision making or analysis (MCDM/A)
+KW  - sustainable development
+KW  - temporal evaluation
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1682
+UR  - https://doi.org/10.1002/mcda.1682
+Y2  - 2020/11/10
+N2  - Abstract Making decisions by integrating social and environmental concerns beyond the financial dimension involves complex decision-making processes in which innovative approaches and best practices need to be implemented. Recently, the literature on decision-making related to sustainable development has grown rapidly, and multiple criteria decision making or analysis (MCDM/A) methods appear to be the most widely used approaches. The general objective of this paper is to provide a systematic review of the literature on the use of MCDM/A in a sustainable development context. We carefully analysed 343 papers dealing with decision-making in sustainable development contexts published in the last 7 years (2010-2017) using MCDM/A methods. Descriptive statistics were provided to highlight the main trends and gaps in the literature, and future research avenues were presented. The results show that although sustainable development strives to achieve a balance between the short and the long term, most articles surveyed did not investigate either the long-term perspective related to sustainable development or the unforeseen events that could impact future project evaluations. Indeed, the need for temporal MCDM/A methods under uncertainty emerges as an important research challenge. In addition, results show that the social dimension was the most frequently ignored dimension. In future research, decision-making processes should closely investigate social well-being and encourage the participation of stakeholders (including the communities affected). Finally, the recent research on sustainability is relatively easy to implement but may not lead to the desired outcome. Future research needs to develop methods that promote sustainability without being overly difficult to implement in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria decision-making techniques for avoiding similar task scheduling conflict in cloud computing
+AU  - Nayak, Suvendu Chandan
+AU  - Parida, Sasmita
+AU  - Tripathy, Chitaranjan
+AU  - Pati, Bibudhendu
+AU  - Panigrahi, Chhabi Rani
+Y1  - 2020/09/10
+PY  - 2020
+DA  - 2020/09/10
+N1  - https://doi.org/10.1002/dac.4126
+DO  - https://doi.org/10.1002/dac.4126
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e4126
+VL  - 33
+IS  - 13
+KW  - AHP
+KW  - cloud computing
+KW  - deadline-based task
+KW  - VIKOR
+KW  - task scheduling
+KW  - TOPSIS
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.4126
+UR  - https://doi.org/10.1002/dac.4126
+Y2  - 2020/11/10
+N2  - Summary An efficient task scheduling approach shows promising way to achieve better resource utilization in cloud computing. Various task scheduling approaches with optimization and decision-making techniques have been discussed up to now. These approaches ignored scheduling conflict among the similar tasks. The conflict often leads to miss the deadlines of the tasks. The work studies the implementation of the MCDM (multicriteria decision-making) techniques in backfilling algorithm to execute deadline-based tasks in cloud computing. In general, the tasks are selected as backfill tasks, whose role is to provide ideal resources to other tasks in the backfilling approach. The selection of the backfill task is challenging one, when there are similar tasks. It creates conflict in the scheduling. In cloud computing, the deadline-based tasks have multiple parameters such as arrival time, number of VMs (virtual machines), start time, duration of execution, and deadline. In this work, we present the deadline-based task scheduling algorithm as an MCDM problem and discuss the MCDM techniques: AHP (Analytical Hierarchy Process), VIKOR (VIseKriterijumska Optimizacija I Kompromisno Resenje), and TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) to avoid similar task scheduling conflicts. We simulate the backfilling algorithm along with three MCDM mechanisms to avoid scheduling conflicts among the similar tasks. The synthetic workloads are considered to study the performance of the proposed scheduling algorithm. The mechanism suggests an efficient VM allocation and its utilization for deadline-based tasks in the cloud environment.
+ER  - 
+
+TY  - JOUR
+T1  - Utilization of machine-learning algorithms for wind turbine site suitability modeling in Iowa, USA
+AU  - Petrov, Andrey N.
+AU  - Wessling, Jordan M.
+Y1  - 2015/04/01
+PY  - 2015
+DA  - 2015/04/01
+N1  - https://doi.org/10.1002/we.1723
+DO  - https://doi.org/10.1002/we.1723
+T2  - Wind Energy
+JF  - Wind Energy
+JO  - Wind Energy
+JA  - Wind Energ.
+SP  - 713
+EP  - 727
+VL  - 18
+IS  - 4
+KW  - wind energy
+KW  - turbine site suitability
+KW  - machine-learning
+KW  - multicriteria decision making
+KW  - spatial modeling
+PB  - John Wiley & Sons, Ltd
+SN  - 1095-4244
+M3  - https://doi.org/10.1002/we.1723
+UR  - https://doi.org/10.1002/we.1723
+Y2  - 2020/11/10
+N2  - Abstract Because of the current shift away from fossil fuels and toward renewable energy sources, it is necessary to plan for the installation of new infrastructure to meet the demand for clean energy. Traditional methods for determining wind turbine site suitability suffer from the selection of arbitrary criteria and model parameters by experts, which may lead to a degree of uncertainty in the models produced. An alternative empirically based methodology for building a wind turbine siting model for the state of Iowa is presented in the study. We employ ?ecological niche? principles traditionally utilized to model species allocation to develop a new multicriteria, spatially explicit framework for wind turbine placement. Using information on suitability conditions at existing turbine locations, we incorporate seven variables (wind speed, elevation, slope, land cover, distance of infrastructure and settlements, and population density) into two machine-learning algorithms [maximum entropy method (Maxent) and Genetic Algorithm for Rule Set Prediction (GARP)] to model suitable areas for installation of wind turbines. The performance of this method is tested at the statewide level and a six-county region in western Iowa. Maxent and GARP identified areas in the Northwest and North Central regions of Iowa as the optimum location for new wind turbines. Information on variable contributions from Maxent illuminates the relative importance of environmental variables and its scale-dependent nature. It also allows validating existing assumptions about the relationship between variables and wind turbine suitability. The resultant models demonstrate high levels of accuracy and suggest that the presented approach is a possible methodology for developing wind turbine siting applications. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Three steps multiobjective decision process for software release planning
+AU  - Del Águila, Isabel M.
+AU  - Del Sagrado, José
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - https://doi.org/10.1002/cplx.21739
+DO  - https://doi.org/10.1002/cplx.21739
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 250
+EP  - 262
+VL  - 21
+IS  - S1
+KW  - meta-heuristic algorithms
+KW  - requirements selection
+KW  - requirements management
+KW  - software project management
+KW  - computer-aided software engineering tools
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - https://doi.org/10.1002/cplx.21739
+UR  - https://doi.org/10.1002/cplx.21739
+Y2  - 2020/11/10
+N2  - This paper deals with how to determine which features should be included in the software to be developed. Metaheuristic techniques have been applied to this problem and can help software developers when they face contradictory goals. We show how the knowledge and experience of human experts can be enriched by these techniques, with the idea of obtaining a better requirements selection than that produced by expert judgment alone. This objective is achieved by embedding metaheuristics techniques into a requirements management tool that takes advantage of them during the execution of the development stages of any software development project. ? 2015 Wiley Periodicals, Inc. Complexity 21: 250?262, 2016
+ER  - 
+
+TY  - JOUR
+T1  - Accelerated multiobjective design of miniaturized microwave components by means of nested kriging surrogates
+AU  - Pietrenko-Dabrowska, Anna
+AU  - Koziel, Slawomir
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1002/mmce.22124
+DO  - https://doi.org/10.1002/mmce.22124
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF Microw Comput Aided Eng
+SP  - e22124
+VL  - 30
+IS  - 4
+KW  - EM-driven design
+KW  - microwave design
+KW  - miniaturized components
+KW  - multiobjective optimization
+KW  - nested kriging
+KW  - surrogate modeling
+PB  - John Wiley & Sons, Ltd
+SN  - 1096-4290
+M3  - https://doi.org/10.1002/mmce.22124
+UR  - https://doi.org/10.1002/mmce.22124
+Y2  - 2020/11/10
+N2  - Abstract Design of microwave components is an inherently multiobjective task. Often, the objectives are at least partially conflicting and the designer has to work out a suitable compromise. In practice, generating the best possible trade-off designs requires multiobjective optimization, which is a computationally demanding task. If the structure of interest is evaluated through full-wave electromagnetic (EM) analysis, the employment of widely used population-based metaheuristics algorithms may become prohibitive in computational terms. This is a common situation for miniaturized components, where considerable cross-coupling effects make traditional representations (eg, network equivalents) grossly inaccurate. This article presents a framework for accelerated EM-driven multiobjective design of compact microwave devices. It adopts a recently reported nested kriging methodology to identify the parameter space region containing the Pareto front and to render a fast surrogate, subsequently used to find the first approximation of the Pareto set. The final trade-off designs are produced in a separate, surrogate-assisted refinement process. Our approach is demonstrated using a three-section impedance matching transformer designed for the best matching and the minimum footprint area. The Pareto set is generated at the cost of only a few hundred of high-fidelity EM simulations of the transformer circuit despite a large number of geometry parameters involved.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of Multicriteria Decision Analysis Algorithms in Food Safety: A Case Study on Emerging Zoonoses Prioritization
+AU  - Garre, Alberto
+AU  - Boué, Geraldine
+AU  - Fernández, Pablo S.
+AU  - Membré, Jeanne-Marie
+AU  - Egea, Jose A.
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - https://doi.org/10.1111/risa.13391
+DO  - https://doi.org/10.1111/risa.13391
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 336
+EP  - 351
+VL  - 40
+IS  - 2
+KW  - Food safety management
+KW  - MCDA
+KW  - prioritization
+KW  - risk ranking
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.13391
+UR  - https://doi.org/10.1111/risa.13391
+Y2  - 2020/11/10
+N2  - Abstract Decision making in food safety is a complex process that involves several criteria of different nature like the expected reduction in the number of illnesses, the potential economic or health-related cost, or even the environmental impact of a given policy or intervention. Several multicriteria decision analysis (MCDA) algorithms are currently used, mostly individually, in food safety to rank different options in a multifactorial environment. However, the selection of the MCDA algorithm is a decision problem on its own because different methods calculate different rankings. The aim of this study was to compare the impact of different uncertainty sources on the rankings of MCDA problems in the context of food safety. For that purpose, a previously published data set on emerging zoonoses in the Netherlands was used to compare different MCDA algorithms: MMOORA, TOPSIS, VIKOR, WASPAS, and ELECTRE III. The rankings were calculated with and without considering uncertainty (using fuzzy sets), to assess the importance of this factor. The rankings obtained differed between algorithms, emphasizing that the selection of the MCDA method had a relevant impact in the rankings. Furthermore, considering uncertainty in the ranking had a high influence on the results. Both factors were more relevant than the weights associated with each criterion in this case study. A hierarchical clustering method was suggested to aggregate results obtained by the different algorithms. This complementary step seems to be a promising way to decrease extreme difference among algorithms and could provide a strong added value in the decision-making process.
+ER  - 
+
+TY  - JOUR
+T1  - NeuroEvolution of Augmenting Topologies for predicting financial distress: A multicriteria decision analysis
+AU  - Belhaj Slimene, Senda
+AU  - Mamoghli, Chokri
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/mcda.1669
+DO  - https://doi.org/10.1002/mcda.1669
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 320
+EP  - 328
+VL  - 26
+IS  - 5-6
+KW  - adaptive boosting
+KW  - bankruptcy prediction
+KW  - credit scoring
+KW  - decision trees
+KW  - finance decision making
+KW  - multicriteria analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1669
+UR  - https://doi.org/10.1002/mcda.1669
+Y2  - 2020/11/10
+N2  - Abstract This paper introduces a novel approach based on NeuroEvolution of Augmenting Topologies to early predict financial distress of Tunisian companies using an important number of inputs. Our sample covers the period of the Jasmin Revolution that led to an increase of the number of bankruptcies, making early previsions even more difficult. Furthermore, we aim to identify the factors that explain financial distress as our approach does not need a process of preselection. All the financial ratios will be used as inputs for the model, and only the ratios with the highest threshold value will remain in the final classifier. To test the accuracy of our model, we will compute a linear discriminant analysis to compare the previsions of the two approaches. Results show that our approach outperforms the traditional one.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria decision-making taxonomy for DevOps challenging factors using analytical hierarchy process
+AU  - Khan, Arif Ali
+AU  - Shameem, Mohammad
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1002/smr.2263
+DO  - https://doi.org/10.1002/smr.2263
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2263
+VL  - 32
+IS  - 10
+KW  - AHP
+KW  - Challenging Factors
+KW  - DevOps
+KW  - Prioritization
+KW  - Taxonomy
+PB  - John Wiley & Sons, Ltd
+SN  - 2047-7473
+M3  - https://doi.org/10.1002/smr.2263
+UR  - https://doi.org/10.1002/smr.2263
+Y2  - 2020/11/10
+N2  - Abstract Development and operations (DevOps) practices significantly accelerate and automate the continuous delivery and deployment of software systems. However, adopting DevOps concepts is not a straightforward job. Most organizations are not able to keep pace with the rhythm of continuous delivery and deployment, which are key DevOps attributes. Despite the significance of DevOps programs, it is still unknown why software development firms are demotivated or unable to adopt them. We tried to fill this gap by investigating, prioritizing, and developing the taxonomy of the key factors that could impact the adaptation and implementation of DevOps practices. We extracted a total of 16 factors from the available literature and empirically assessed them using the survey approach. The identified factors are further classified into three core categories of the software process improvement (SPI) manifesto. The analytical hierarchy process (AHP) approach was used to calculate the prioritization weight for each factor and present it as a taxonomy. The developed taxonomy provides a roadmap to tackle the key challenges to implementing DevOps and offers suggestions for streamlining DevOps practices.
+ER  - 
+
+TY  - JOUR
+T1  - Cloud broker proposal based on multicriteria decision-making and virtual infrastructure migration
+AU  - Rodrigues, Leonardo R.
+AU  - Cardoso Jr., Euclides
+AU  - Alves Jr., Omir C.
+AU  - Redígolo, Fernando F.
+AU  - Pillon, Maurício A.
+AU  - Miers, Charles C.
+AU  - Koslovski, Guilherme P.
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/spe.2723
+DO  - https://doi.org/10.1002/spe.2723
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 1331
+EP  - 1351
+VL  - 49
+IS  - 9
+KW  - broker
+KW  - container
+KW  - IaaS
+KW  - migration
+KW  - multicriteria
+KW  - network
+KW  - virtual infrastructure
+KW  - virtualization
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - https://doi.org/10.1002/spe.2723
+UR  - https://doi.org/10.1002/spe.2723
+Y2  - 2020/11/10
+N2  - Summary The adoption of infrastructure as a Service (IaaS) is a reality for academic, industrial, and governmental institutions. Cloud tenants request dynamically provisioned virtual infrastructures (VIs) tailored to their application requirements, detailing not only the virtual compute/storage resources but also the network components, topology, and services. The creation of a large number of cloud providers came along with the widespread use of VIs. The selection of an appropriate provider is a challenging task due to the diversity of the IaaS market and formally is a multicriteria analysis (NP-hard). Notwithstanding the provider selection complexity, the mobility of VI-hosted applications is limited due to the optimization anchors introduced by providers. Although the existing IaaS cloud brokers can indicate a hosting provider, they lack on conceptual and technical skills to migrate a VI and all its internal components between providers. This work enhances the state-of-the-art on IaaS cloud brokerage by proposing virtual infrastructure multicriteria allocation and migration?based broker (VIMAM), which performs a multicriteria analysis of providers and VI migration. VIMAM is driven by an analytic hierarchy process (AHP) to select an IaaS provider, offering a set of predefined weighting schemas to represent distinct tenant perspectives. Moreover, to migrate a VI, VIMAM takes into account the virtual machines, containers, switches, and other topology elements. In addition to discussing the AHP ranking weights and frequency of providers selection, the experimental analysis details the implementation of an OpenStack and Docker?based prototype for VI migration.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial neural networks modeling in ultra performance liquid chromatography method optimization of mycophenolate mofetil and its degradation products
+AU  - Golubović, Jelena
+AU  - Protić, Ana
+AU  - Zečević, Mira
+AU  - Otašević, Biljana
+AU  - Mikić, Marija
+Y1  - 2014/07/01
+PY  - 2014
+DA  - 2014/07/01
+N1  - https://doi.org/10.1002/cem.2616
+DO  - https://doi.org/10.1002/cem.2616
+T2  - Journal of Chemometrics
+JF  - Journal of Chemometrics
+JO  - Journal of Chemometrics
+JA  - J. Chemometrics
+SP  - 567
+EP  - 574
+VL  - 28
+IS  - 7
+KW  - artificial neural networks
+KW  - response surface methodology
+KW  - mycophenolate mofetil
+KW  - UPLC
+PB  - John Wiley & Sons, Ltd
+SN  - 0886-9383
+M3  - https://doi.org/10.1002/cem.2616
+UR  - https://doi.org/10.1002/cem.2616
+Y2  - 2020/11/10
+N2  - The study of experimental design in conjunction with artificial neural networks for optimization of isocratic ultra performance liquid chromatography method for separation of mycophenolate mofetil and its degradation products has been reported. Experimental design showed to be suitable for selection of experimental scheme, while Kennard-Stone algorithm was used for selection of training data set. The input variables were column temperature and composition of mobile phase including percentage of acetonitrile, concentration of ammonium acetate in buffer, and its pH value. The retention factor of the most retentive component and selectivity factors were used as the dependent variables (outputs). In this way, artificial neural network has been applied as a predictable tool in solving a method optimization problem using small number of experiments. Network architecture and training parameters were optimized to the lowest root-mean-square error values, and the network with 5-4-4-4 topology has been selected as the most predictable one. Predicted data were in good agreement with experimental data, and regression statistics confirmed good ability of trained network to predict compounds retention. The optimal chromatographic conditions included column temperature of 40°C, flow rate of 700?µl?min?1, 26% of acetonitrile and 9?mM ammonium acetate in mobile phase, and buffer pH of 5.87. The chromatographic analysis has been achieved within 5.2?min. The validation of the proposed method was also performed considering selectivity, linearity, accuracy, precision, limit of detection, and limit of quantification, and the results indicated that the method fulfilled all required criteria. The method was successfully applied to the analysis of commercial dosage form. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Creating a flexible business credit rating model using multicriteria decision analysis
+AU  - Katsimperis, Valentinos
+AU  - Andrikopoulos, Athanasios
+Y1  - 2020/10/08
+PY  - 2020
+DA  - 2020/10/08
+N1  - https://doi.org/10.1002/mcda.1726
+DO  - https://doi.org/10.1002/mcda.1726
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+VL  - n/a
+IS  - n/a
+KW  - AHP
+KW  - business rating
+KW  - ideal customer
+KW  - multicriteria analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1726
+UR  - https://doi.org/10.1002/mcda.1726
+Y2  - 2020/11/10
+N2  - Abstract To decide for the approval or rejection of a business loan application, banks are following a rating procedure. However, in many cases this procedure is not simply and properly structured. This may lead to unpleasant results so, for a long time, banks are struggling to find quite flexible and simple rating methods, widely applicable, easily comprehensible, and modifiable from their analysts. This study presents an empirical model of mass business rating with the use of multicriteria analysis (AHP method) and other techniques. Two main scenarios of a two-stage evaluation procedure will be analysed that demonstrate its flexibility, stability, and simplicity. The performance of this method is measured for both presented scenarios showing its capability. Furthermore, this method saves time and sources while ensuring the quality of the produced results. The outcome will be a list of rated businesses which, depending on the score they succeed in each of the two scenarios, will be approved or rejected for a business loan.
+ER  - 
+
+TY  - JOUR
+T1  - A model-based process to improve robustness in Multicriteria Decision Aiding interventions
+AU  - Norese, Maria Franca
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - https://doi.org/10.1002/mcda.1597
+DO  - https://doi.org/10.1002/mcda.1597
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 183
+EP  - 196
+VL  - 23
+IS  - 5-6
+KW  - decision aiding
+KW  - interaction between analyst and decision system
+KW  - modelling
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1597
+UR  - https://doi.org/10.1002/mcda.1597
+Y2  - 2020/11/10
+N2  - Abstract A model-based process is a methodological approach that facilitates interventions in new and ill or not structured problem situations. It is oriented towards improving the robustness of the intervention and its results in an incremental definition of both the problem formulation and the model, in order to reduce the uncertainty that is not only associated with the model parameters but also with the model structure, and sometimes also with the problem formulation. The nature and results of this approach, which consider the interaction between an analyst and the actors of the decision system as the decision aiding core, are proposed in relation to some actual interventions.
+ER  - 

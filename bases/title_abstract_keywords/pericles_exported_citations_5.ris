@@ -1,0 +1,608 @@
+
+TY  - JOUR
+T1  - Hybrid performance evaluation of sustainable service and manufacturing supply chain management: An integrated approach of fuzzy dematel and fuzzy inference system
+AU  - Pourjavad, Ehsan
+AU  - Shahin, Arash
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1002/isaf.1431
+DO  - https://doi.org/10.1002/isaf.1431
+T2  - Intelligent Systems in Accounting, Finance and Management
+JF  - Intelligent Systems in Accounting, Finance and Management
+JO  - Intelligent Systems in Accounting, Finance and Management
+JA  - Intell Sys Acc Fin Mgmt
+SP  - 134
+EP  - 147
+VL  - 25
+IS  - 3
+KW  - fuzzy DEMATEL
+KW  - fuzzy inference system
+KW  - performance evaluation
+KW  - rule
+KW  - supply chain management
+KW  - sustainability
+PB  - John Wiley & Sons, Ltd
+SN  - 1055-615X
+M3  - https://doi.org/10.1002/isaf.1431
+UR  - https://doi.org/10.1002/isaf.1431
+Y2  - 2020/11/10
+N2  - Summary The aim of this paper is to propose a comprehensive framework for simultaneously measuring the performance of sustainable service and manufacturing supply chain management. Application of the proposed approach also results in reduced uncertainty of the performance measurement process caused by qualitative criteria evaluation. The proposed approach consists of two main steps. First, the fuzzy decision-making trial and evaluation laboratory (DEMATEL) method has been used to determine important criteria by avoiding low influences; and then a Mamdani fuzzy inference system model has been adopted and applied for performance evaluation of sustainable supply chain management (SSCM). This model is employed in order to cope with the vagueness that exists in the SSCM performance investigation due to the vagueness intrinsic in the evaluation of criteria. In the proposed model, human reasoning has been modelled with fuzzy inference rules and has been set in the system, which is an advantage compared with those models in which fuzzy set theory and multicriteria decision-making models are integrated. The proposed approach has been implemented in the pipe and fitting industry in order to highlight its application in real life. Sensitivity analysis has been carried out to determine the influence of service and manufacturing criteria on SSCM performance. The findings reveal that sustainable manufacturing criteria compared with sustainable service criteria have more effect on the performance of SSCM.
+ER  - 
+
+TY  - JOUR
+T1  - Engineering Systems and Risk Analytics
+AU  - Wu, Desheng
+AU  - Lambert, James H.
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1111/risa.13433
+DO  - https://doi.org/10.1111/risa.13433
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1
+EP  - 7
+VL  - 40
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.13433
+UR  - https://doi.org/10.1111/risa.13433
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Selecting the most suitable classification algorithm for supporting assistive technology adoption for people with dementia: A multicriteria framework
+AU  - Ortiz-Barrios, Miguel
+AU  - Nugent, Chris
+AU  - Cleland, Ian
+AU  - Donnelly, Mark
+AU  - Verikas, Antanas
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1002/mcda.1678
+DO  - https://doi.org/10.1002/mcda.1678
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 20
+EP  - 38
+VL  - 27
+IS  - 1-2
+KW  - assistive technology
+KW  - classifier
+KW  - dementia
+KW  - FAHP
+KW  - TOPSIS
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1678
+UR  - https://doi.org/10.1002/mcda.1678
+Y2  - 2020/11/10
+N2  - Abstract The number of people with dementia (PwD) is increasing dramatically. PwD exhibit impairments of reasoning, memory, and thought that require some form of self-management intervention to support the completion of everyday activities while maintaining a level of independence. To address this need, efforts have been directed to the development of assistive technology solutions, which may provide an opportunity to alleviate the burden faced by the PwD and their carers. Nevertheless, uptake of such solutions has been limited. It is therefore necessary to use classifiers to discriminate between adopters and nonadopters of these technologies in order to avoid cost overruns and potential negative effects on quality of life. As multiple classification algorithms have been developed, choosing the most suitable classifier has become a critical step in technology adoption. To select the most appropriate classifier, a set of criteria from various domains need to be taken into account by decision makers. In addition, it is crucial to define the most appropriate multicriteria decision-making approach for the modelling of technology adoption. Considering the above-mentioned aspects, this paper presents the integration of a five-phase methodology based on the Fuzzy Analytic Hierarchy Process and the Technique for Order of Preference by Similarity to Ideal Solution to determine the most suitable classifier for supporting assistive technology adoption studies. Fuzzy Analytic Hierarchy Process is used to determine the relative weights of criteria and subcriteria under uncertainty and Technique for Order of Preference by Similarity to Ideal Solution is applied to rank the classifier alternatives. A case study considering a mobile-based self-management and reminding solution for PwD is described to validate the proposed approach. The results revealed that the best classifier was k-nearest-neighbour with a closeness coefficient of 0.804, and the most important criterion when selecting classifiers is scalability. The paper also discusses the strengths and weaknesses of each algorithm that should be addressed in future research.
+ER  - 
+
+TY  - JOUR
+T1  - A geographic information system-based model for economical and eco-friendly high-speed railway route determination using analytic hierarchy process and least-cost-path analysis
+AU  - Yildirim, Volkan
+AU  - Bediroglu, Sevket
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1111/exsy.12376
+DO  - https://doi.org/10.1111/exsy.12376
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12376
+VL  - 36
+IS  - 3
+KW  - AHP
+KW  - GIS
+KW  - route selection
+KW  - software engineering
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12376
+UR  - https://doi.org/10.1111/exsy.12376
+Y2  - 2020/11/10
+N2  - Abstract In this study, geographic information system (GIS)-based network analysis and analytic hierarchy process (AHP) methods were applied to the Erzincan?Trabzon segment of the Turkish high-speed railway (HSR) project. A new hybrid route, which considers both economic and environmental criteria, was created and compared with three different routes from various preconstruction studies. The route-generating analysis included the eight parameters (criteria) of slope, geology, soil quality, rivers, protected areas, roads, land cover, and lakes. The optimum route for connecting the port of Trabzon to Turkey's interior via HSR was generated. The weights for determining the route were tested for sensitivity. The study demonstrated the efficiency of GIS and AHP integration in generating optimum routes for HSR projects according to given databases. All these GIS and AHP analyses were applied automatically with our novel GIS extension for determining optimum HSR routes. The final route has preserved cultural and historical structures, environmental integrity. The new hybrid route also decreased construction costs by approximately 12%, and the least-cost-path analysis confirmed the environmental efficiency of the route.
+ER  - 
+
+TY  - JOUR
+T1  - Migration of PLM systems to cloud
+AU  - Singh, Shikha
+AU  - Misra, Subhas Chandra
+Y1  - 2018/12/01
+PY  - 2018
+DA  - 2018/12/01
+N1  - https://doi.org/10.1002/dac.3815
+DO  - https://doi.org/10.1002/dac.3815
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e3815
+VL  - 31
+IS  - 18
+KW  - adoption
+KW  - challenges
+KW  - cloud PLM
+KW  - grey DEMATEL
+KW  - ISM
+KW  - MCDM
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.3815
+UR  - https://doi.org/10.1002/dac.3815
+Y2  - 2020/11/10
+N2  - Summary Cloud computing and cloud applications are emerging as the latest technology. Cloud applications are developing very fast and adopted by most of the firms around the globe. The cloud applications are widely accepted and considered as a notion of the digitized era, but the cloud product lifecycle management (PLM) is not adopted much in Indian firms. Cloud PLM is an upcoming cloud application, but its adoption entails various challenges. Considering this fact, the paper aims to empirically investigate the critical challenges encountered by many firms for migration to of cloud PLM. A multicriteria decision making method, grey Decision Making Trial and Evaluation Laboratory along with interpretive structural modeling are employed to identify the causal challenges and their hierarchy to cloud PLM adoption. This empirical study brings out ?data security? and ?trust on solution provider? as the most important and critical challenges for migration to cloud PLM adoption. The findings may act as a guide for the managers in manufacturing firms in identifying the critical challenges to utilize the benefits of cloud PLM over on-premise PLM systems.
+ER  - 
+
+TY  - JOUR
+T1  - Developing and Refining New Candidate Criteria for Systemic Lupus Erythematosus Classification: An International Collaboration
+AU  - Tedeschi, Sara K.
+AU  - Johnson, Sindhu R.
+AU  - Boumpas, Dimitrios
+AU  - Daikh, David
+AU  - Dörner, Thomas
+AU  - Jayne, David
+AU  - Kamen, Diane
+AU  - Lerstrøm, Kirsten
+AU  - Mosca, Marta
+AU  - Ramsey-Goldman, Rosalind
+AU  - Sinnette, Corine
+AU  - Wofsy, David
+AU  - Smolen, Josef S.
+AU  - Naden, Raymond P.
+AU  - Aringer, Martin
+AU  - Costenbader, Karen H.
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - https://doi.org/10.1002/acr.23317
+DO  - https://doi.org/10.1002/acr.23317
+T2  - Arthritis Care & Research
+JF  - Arthritis Care & Research
+JO  - Arthritis Care & Research
+JA  - Arthritis Care Res
+SP  - 571
+EP  - 581
+VL  - 70
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 2151-464X
+M3  - https://doi.org/10.1002/acr.23317
+UR  - https://doi.org/10.1002/acr.23317
+Y2  - 2020/11/10
+N2  - Objective To define candidate criteria within multiphase development of systemic lupus erythematosus (SLE) classification criteria, jointly supported by the American College of Rheumatology and the European League Against Rheumatism. Prior steps included item generation and reduction by Delphi exercise, further narrowed to 21 items in a nominal group technique exercise. Our objectives were to apply an evidence-based approach to the 21 candidate criteria, and to develop hierarchical organization of criteria within domains. Methods A literature review identified the sensitivity and specificity of the 21 candidate criteria. Data on the performance of antinuclear antibody (ANA) as an entry criterion and operating characteristics of the candidate criteria in early SLE patients were evaluated. Candidate criteria were hierarchically organized into clinical and immunologic domains, and definitions were refined in an iterative process. Results Based on the data, consensus was reached to use a positive ANA of ≥1:80 titer (HEp-2 cells immunofluorescence) as an entry criterion and to have 7 clinical and 3 immunologic domains, with hierarchical organization of criteria within domains. Definitions of the candidate criteria were specified. Conclusion Using a data-driven process, consensus was reached on new, refined criteria definitions and organization based on operating characteristics. This work will be followed by a multicriteria decision analysis exercise to weight criteria and to identify a threshold score for classification on a continuous probability scale.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating the Social Dimension in Remediation Decision-Making: State of the Practice and Way Forward
+AU  - Harclerode, Melissa
+AU  - Ridsdale, Debora Reanne
+AU  - Darmendrail, Dominique
+AU  - Bardos, Paul
+AU  - Alexandrescu, Filip
+AU  - Nathanail, Paul
+AU  - Pizzol, Lisa
+AU  - Rizzo, Erika
+Y1  - 2015/12/01
+PY  - 2015
+DA  - 2015/12/01
+N1  - https://doi.org/10.1002/rem.21447
+DO  - https://doi.org/10.1002/rem.21447
+T2  - Remediation Journal
+JF  - Remediation Journal
+JO  - Remediation Journal
+JA  - Remediation
+SP  - 11
+EP  - 42
+VL  - 26
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 1051-5658
+M3  - https://doi.org/10.1002/rem.21447
+UR  - https://doi.org/10.1002/rem.21447
+Y2  - 2020/11/10
+N2  - Sustainable remediation guidance, frameworks, and case studies have been published at an international level illustrating established sustainability assessment methodologies and successful implementation. Though the terminology and indicators evaluated may differ, one common theme among international organizations and regulatory bodies is more comprehensive and transparent methods are needed to evaluate the social sphere of sustainable remediation. Based on a literature review and stakeholder input, this paper focused on three main areas: (1) status quo of how the social element of sustainable remediation is assessed among various countries and organizations; (2) methodologies to quantitatively and qualitatively evaluate societal impacts; and (3) findings from this research, including challenges, obstacles, and a path forward. In conclusion, several existing social impact assessment techniques are readily available for use by the remediation community, including rating and scoring system evaluations, enhanced cost benefit analysis, surveys/interviews, social network analysis, and multicriteria decision analysis. In addition, a list of 10 main social indicator categories were developed: health and safety, economic stimulation, stakeholder collaboration, benefits community at large, alleviate undesirable community impacts, equality issues, value of ecosystem services and natural resources, risk-based land management and remedial solutions, regional and global societal impacts, and contributions to other policies. Evaluation of the social element of remedial activities is not without challenges and knowledge gaps. Identification of obstacles and gaps during the project planning process is essential to defining sustainability objectives and choosing the appropriate tool and methodology to conduct an assessment. Challenges identified include meaningful stakeholder engagement, risk perception of stakeholders, and trade-offs among the various triple bottom line dimensions. ?2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - The zen of multidisciplinary team recommendation
+AU  - Datta, Anwitaman
+AU  - Yong, Jackson Tan Teck
+AU  - Braghin, Stefano
+Y1  - 2014/12/01
+PY  - 2014
+DA  - 2014/12/01
+N1  - https://doi.org/10.1002/asi.23139
+DO  - https://doi.org/10.1002/asi.23139
+T2  - Journal of the Association for Information Science and Technology
+JF  - Journal of the Association for Information Science and Technology
+JO  - Journal of the Association for Information Science and Technology
+JA  - J Assn Inf Sci Tec
+SP  - 2518
+EP  - 2533
+VL  - 65
+IS  - 12
+KW  - knowledge engineering
+KW  - computer science
+KW  - data analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 2330-1635
+M3  - https://doi.org/10.1002/asi.23139
+UR  - https://doi.org/10.1002/asi.23139
+Y2  - 2020/11/10
+N2  - It is often necessary to compose a team consisting of experts with diverse competencies to accomplish complex tasks. However, for its proper functioning, it is also preferable that a team be socially cohesive. A team recommendation system, which facilitates the search for potential team members, can be of great help both for (a) individuals who need to seek out collaborators and for (b) managers who need to build a team for some specific tasks. Such a decision support system that readily helps summarize multiple metrics indicating a team (and its members) quality, and possibly rank the teams in a personalized manner according to the end users' preferences, thus serves as a tool to cope with what would otherwise be an information avalanche. In this work, we present Social Web Application for Team Recommendation, a general-purpose framework to compose various information retrieval and social graph mining and visualization subsystems together to build a composite team recommendation system, and instantiate it for a case study of academic teams.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation and selection of medical tourism sites: A rough analytic hierarchy process based multi-attributive border approximation area comparison approach
+AU  - Roy, Jagannath
+AU  - Chatterjee, Kajal
+AU  - Bandyopadhyay, Abhirup
+AU  - Kar, Samarjit
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - https://doi.org/10.1111/exsy.12232
+DO  - https://doi.org/10.1111/exsy.12232
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12232
+VL  - 35
+IS  - 1
+KW  - medical tourism
+KW  - multiple criteria decision-making
+KW  - R-AHP
+KW  - R-MABAC
+KW  - rough number
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12232
+UR  - https://doi.org/10.1111/exsy.12232
+Y2  - 2020/11/10
+N2  - Abstract This paper presents a novel Multiple Criteria Decision Making methodology for assessing and prioritizing medical tourism destinations under uncertainty. A systematic evaluation and assessment approach is proposed by incorporating analytic hierarchy process and multi-attributive border approximation area comparison methods in the rough environment. Rough number is used to aggregate individual judgements of decision makers and express their true perception to handle vagueness without any prior information. Rough analytic hierarchy process analyses the relative importance of criteria based on their preferences given by experts, whereas rough multi-attributive border approximation area comparison evaluates the alternative sites based on the criteria weights. A case study of prioritizing different sites (cities) in India for medical tourism services is shown to demonstrate the applicability of the proposed method. Among different criteria ?quality of infrastructure of healthcare institutions? is observed to be the most important criteria in our analysis, followed by ?supply of skilled human resources and new job creations? and ?Chennai? is found to be the best medical tourism site in India. Finally, a comparative analysis and validity testing of the proposed method are elaborated, and the methodology provides a standard for select medical tourism sites on the basis of different criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Strategic Planning in Population Health and Public Health Practice: A Call to Action for Higher Education
+AU  - PHELPS, CHARLES
+AU  - MADHAVAN, GURUPRASAD
+AU  - RAPPUOLI, RINO
+AU  - LEVIN, SCOTT
+AU  - SHORTLIFFE, EDWARD
+AU  - COLWELL, RITA
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - https://doi.org/10.1111/1468-0009.12182
+DO  - https://doi.org/10.1111/1468-0009.12182
+T2  - The Milbank Quarterly
+JF  - The Milbank Quarterly
+JO  - The Milbank Quarterly
+JA  - The Milbank Quarterly
+SP  - 109
+EP  - 125
+VL  - 94
+IS  - 1
+KW  - systems analysis
+KW  - population health
+KW  - public health practice
+KW  - cost-effectiveness
+PB  - John Wiley & Sons, Ltd
+SN  - 0887-378X
+M3  - https://doi.org/10.1111/1468-0009.12182
+UR  - https://doi.org/10.1111/1468-0009.12182
+Y2  - 2020/11/10
+N2  - Policy Points: Scarce resources, especially in population health and public health practice, underlie the importance of strategic planning. Public health agencies? current planning and priority setting efforts are often narrow, at times opaque, and focused on single metrics such as cost-effectiveness. As demonstrated by SMART Vaccines, a decision support software system developed by the Institute of Medicine and the National Academy of Engineering, new approaches to strategic planning allow the formal incorporation of multiple stakeholder views and multicriteria decision making that surpass even those sophisticated cost-effectiveness analyses widely recommended and used for public health planning. Institutions of higher education can and should respond by building on modern strategic planning tools as they teach their students how to improve population health and public health practice. Context Strategic planning in population health and public health practice often uses single indicators of success or, when using multiple indicators, provides no mechanism for coherently combining the assessments. Cost-effectiveness analysis, the most complex strategic planning tool commonly applied in public health, uses only a single metric to evaluate programmatic choices, even though other factors often influence actual decisions. Methods Our work employed a multicriteria systems analysis approach?specifically, multiattribute utility theory?to assist in strategic planning and priority setting in a particular area of health care (vaccines), thereby moving beyond the traditional cost-effectiveness analysis approach. Findings (1) Multicriteria systems analysis provides more flexibility, transparency, and clarity in decision support for public health issues compared with cost-effectiveness analysis. (2) More sophisticated systems-level analyses will become increasingly important to public health as disease burdens increase and the resources to deal with them become scarcer. Conclusions The teaching of strategic planning in public health must be expanded in order to fill a void in the profession's planning capabilities. Public health training should actively incorporate model building, promote the interactive use of software tools, and explore planning approaches that transcend restrictive assumptions of cost-effectiveness analysis. The Strategic Multi-Attribute Ranking Tool for Vaccines (SMART Vaccines), which was recently developed by the Institute of Medicine and the National Academy of Engineering to help prioritize new vaccine development, is a working example of systems analysis as a basis for decision support.
+ER  - 
+
+TY  - JOUR
+T1  - Geospatial and geostatistical approach for groundwater potential zone delineation
+AU  - Mallick, Javed
+AU  - Singh, Chander Kumar
+AU  - Al-Wadi, Hussein
+AU  - Ahmed, Mohd
+AU  - Rahman, Atiqur
+AU  - Shashtri, Satyanarayan
+AU  - Mukherjee, Saumitra
+Y1  - 2015/01/30
+PY  - 2015
+DA  - 2015/01/30
+N1  - https://doi.org/10.1002/hyp.10153
+DO  - https://doi.org/10.1002/hyp.10153
+T2  - Hydrological Processes
+JF  - Hydrological Processes
+JO  - Hydrological Processes
+JA  - Hydrol. Process.
+SP  - 395
+EP  - 418
+VL  - 29
+IS  - 3
+KW  - AHP
+KW  - MCDM
+KW  - principal component analysis
+KW  - groundwater
+PB  - John Wiley & Sons, Ltd
+SN  - 0885-6087
+M3  - https://doi.org/10.1002/hyp.10153
+UR  - https://doi.org/10.1002/hyp.10153
+Y2  - 2020/11/10
+N2  - Abstract Over the past few decades, groundwater has become an essential commodity owing to increased demand as a result of growing population, industrialization, urbanization and so on. The water supply situation is expected to become more severe in the future because of continued unsustainable water use and projected change in hydrometeorological parameters due to climate change. This study is based on the integrated approach of remote sensing, geographical information system and multicriteria decision-making techniques to determine the most important contributing factors that affect the groundwater resources and to delineate the groundwater potential zones. Ten thematic layers, namely, geomorphology, geology, soil, topographic elevation (digital elevation model), land use/land cover, drainage density, lineament density, proximity of surface water bodies, surface temperature and post-monsoon groundwater depth, were considered for the present study. These thematic layers were selected for groundwater prospecting based on the literature; discussion with the experts of the Central Ground Water Board, Government of India; field observations; geophysical investigation; and multivariate techniques. The thematic layers and their features were assigned suitable weights on Saaty's scale according to their relative significance for groundwater occurrence. The assigned weights of the layers and their features were normalized by using the analytic hierarchy process and eigenvector method. Finally, the selected thematic maps were integrated using a weighted linear combination method to create the final groundwater potential zone map. The final output map shows different zones of groundwater potential, namely, very good (16%), good (35%), moderate (28%) low (17%) and very low (2.1%). The groundwater potential zone map was finally validated using the discharge and groundwater depth data from 28 and 98 pumping wells, respectively, which showed good correlation. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Soil multifunctionality: Synergies and trade-offs across European climatic zones and land uses
+AU  - Zwetsloot, Marie J.
+AU  - van Leeuwen, Jeroen
+AU  - Hemerik, Lia
+AU  - Martens, Henk
+AU  - Simó Josa, Iolanda
+AU  - Van de Broek, Marijn
+AU  - Debeljak, Marko
+AU  - Rutgers, Michiel
+AU  - Sandén, Taru
+AU  - Wall, David P.
+AU  - Jones, Arwyn
+AU  - Creamer, Rachel E.
+Y1  - 2020/09/21
+PY  - 2020
+DA  - 2020/09/21
+N1  - https://doi.org/10.1111/ejss.13051
+DO  - https://doi.org/10.1111/ejss.13051
+T2  - European Journal of Soil Science
+JF  - European Journal of Soil Science
+JO  - European Journal of Soil Science
+JA  - Eur J Soil Sci
+VL  - n/a
+IS  - n/a
+KW  - arable land
+KW  - climate
+KW  - grassland
+KW  - monitoring
+KW  - soil multifunctionality
+KW  - synergies
+KW  - trade-offs
+PB  - John Wiley & Sons, Ltd
+SN  - 1351-0754
+M3  - https://doi.org/10.1111/ejss.13051
+UR  - https://doi.org/10.1111/ejss.13051
+Y2  - 2020/11/10
+N2  - Abstract With increasing societal demands for food security and environmental sustainability on land, the question arises: to what extent do synergies and trade-offs exist between soil functions and how can they be measured across Europe? To address this challenge, we followed the functional land management approach and assessed five soil functions: primary productivity, water regulation and purification, climate regulation, soil biodiversity and nutrient cycling. Soil, management and climate data were collected from 94 sites covering 13 countries, five climatic zones and two land-use types (arable and grassland). This dataset was analysed using the Soil Navigator, a multicriteria decision support system developed to assess the supply of the five soil functions simultaneously. Most sites scored high for two to three soil functions, demonstrating that managing for multifunctionality in soil is possible but that local constraints and trade-offs do exist. Nutrient cycling, biodiversity and climate regulation were less frequently delivered at high capacity than the other two soil functions. Using correlation and co-occurrence analyses, we also found that synergies and trade-offs between soil functions vary among climatic zones and land-use types. This study provides a new framework for monitoring soil quality at the European scale where both the supply of soil functions and their interactions are considered. Highlights Managing and monitoring soil multifunctionality across Europe is possible. Synergies and trade-offs between soil functions exist, making it difficult to maximize the supply of all five soil functions simultaneously. Synergies and trade-offs between soil functions vary by climatic zone and land-use type. Climate regulation, biodiversity and nutrient cycling are less frequently delivered at high capacity.
+ER  - 
+
+TY  - JOUR
+T1  - Primary health-care network monitoring: a hierarchical resource allocation modeling approach
+AU  - Pur, Aleksander
+AU  - Bohanec, Marko
+AU  - Lavrač, Nada
+AU  - Cestnik, Bojan
+Y1  - 2010/04/01
+PY  - 2010
+DA  - 2010/04/01
+N1  - https://doi.org/10.1002/hpm.1001
+DO  - https://doi.org/10.1002/hpm.1001
+T2  - The International Journal of Health Planning and Management
+JF  - The International Journal of Health Planning and Management
+JO  - The International Journal of Health Planning and Management
+JA  - Int. J. Health Plann. Mgmt.
+SP  - 119
+EP  - 135
+VL  - 25
+IS  - 2
+KW  - primary health-care network
+KW  - resource allocation
+KW  - health-care disparities
+KW  - data analysis
+KW  - data mining
+PB  - John Wiley & Sons, Ltd
+SN  - 0749-6753
+M3  - https://doi.org/10.1002/hpm.1001
+UR  - https://doi.org/10.1002/hpm.1001
+Y2  - 2020/11/10
+N2  - Abstract Management of a primary health-care network (PHCN) is a difficult task in every country. A suitable monitoring system can provide useful information for PHCN management, especially given a large quantity of health-care data that is produced daily in the network. This paper proposes a methodology for structured development of monitoring systems and a PHCN resource allocation monitoring model based on this methodology. The purpose of the monitoring model is to improve the allocation of health-care resources. The proposed methodology is based on modules that are organized into a hierarchy, where each module monitors a particular aspect of the system. This methodology was used to design a PHCN monitoring model for Slovenia. Specific aspects of the Slovenian PHCN were taken into account such as varying needs of patients from different municipalities, existence of small municipalities having less than 1000 residents, the fact that many patients visit physicians in other municipalities, and that physicians may work at more than one location or organization. The main modules in the model are focused on the overall assessment of the PHCN, monitoring of patients visits to health-care providers (HCPs), physical accessibility of health services, segment of patients in municipalities who have not selected a personal physician, assessment of the availability of HCPs for patients, physicians working on more than one location, and available human resources in the PHCN. Most of the model's components are general and can be adapted for other national health-care systems. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Neural network structure identification in inflation forecasting
+AU  - Šestanović, Tea
+AU  - Arnerić, Josip
+Y1  - 2020/05/12
+PY  - 2020
+DA  - 2020/05/12
+N1  - https://doi.org/10.1002/for.2698
+DO  - https://doi.org/10.1002/for.2698
+T2  - Journal of Forecasting
+JF  - Journal of Forecasting
+JO  - Journal of Forecasting
+JA  - Journal of Forecasting
+VL  - n/a
+IS  - n/a
+KW  - euro zone
+KW  - feedforward neural network
+KW  - inflation forecasting
+KW  - Jordan neural network
+PB  - John Wiley & Sons, Ltd
+SN  - 0277-6693
+M3  - https://doi.org/10.1002/for.2698
+UR  - https://doi.org/10.1002/for.2698
+Y2  - 2020/11/10
+N2  - Abstract Neural networks (NNs) are appropriate to use in time series analysis under conditions of unfulfilled assumptions, i.e., non-normality and nonlinearity. The aim of this paper is to propose means of addressing identified shortcomings with the objective of identifying the NN structure for inflation forecasting. The research is based on a theoretical model that includes the characteristics of demand-pull and cost-push inflation; i.e., it uses the labor market, financial and external factors, and lagged inflation variables. It is conducted at the aggregate level of euro area countries from January 1999 to January 2017. Based on the estimated 90 feedforward NNs (FNNs) and 450 Jordan NNs (JNNs), which differ in variable parameters (number of iterations, learning rate, initial weight value intervals, number of hidden neurons, and weight value of the context unit), the mean square error (MSE), and the Akaike Information Criterion (AIC) are calculated for two periods: in-the-sample and out-of-sample. Ranking NNs simultaneously on both periods according to either MSE or AIC does not lead to the selection of the ?best? NN because the optimal NN in-the-sample, based on MSE and/or AIC criteria, often has high out-of-sample values of both indicators. To achieve the best compromise solution, i.e., to select an optimal NN, the preference ranking organization method for enrichment of evaluations (PROMETHEE) is used. Comparing the optimal FNN and JNN, i.e., FNN(4,5,1) and JNN(4,3,1), it is concluded that under approximately equal conditions, fewer hidden layer neurons are required in JNN than in FNN, confirming that JNN is parsimonious compared to FNN. Moreover, JNN has a better forecasting performance than FNN.
+ER  - 
+
+TY  - JOUR
+T1  - A Methodology for Improving the Investment Portfolio Management Process for the Homeland Security Department using Quality Function Deployment
+AU  - FALLAH, HOSEIN M.
+AU  - MURPHY, FREDERIC H.
+AU  - STOHR, EDWARD A.
+Y1  - 2010/12/01
+PY  - 2010
+DA  - 2010/12/01
+N1  - https://doi.org/10.1111/j.1540-5850.2010.00966.x
+DO  - https://doi.org/10.1111/j.1540-5850.2010.00966.x
+T2  - Public Budgeting & Finance
+JF  - Public Budgeting & Finance
+JO  - Public Budgeting & Finance
+SP  - 1
+EP  - 27
+VL  - 30
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0275-1100
+M3  - https://doi.org/10.1111/j.1540-5850.2010.00966.x
+UR  - https://doi.org/10.1111/j.1540-5850.2010.00966.x
+Y2  - 2020/11/10
+N2  - In this paper, we describe a methodology for improving homeland security investment decisions. The objective is to evaluate multitechnology, multiyear investment choices and the associated development and deployment risks associated with new technologies. The budgeting process in the Homeland Security Department is a complex multicriteria decision problem involving a distributed network of decision makers with diverse areas of expertise. The decision problem in Homeland Security involves game-theoretic aspects as the terrorists are likely to alter their strategies depending on the defensive counter measures selected in the budget. We propose a two-phased systems approach. The first phase employs a visualization tool based on Quality Function Deployment to develop an initial budget allocation. The second phase involves an iterative approach to project selection that dynamically adjusts the investment portfolio based on anticipated reactions taken by the terrorists. This paper is based on a study done as part of a research project for the Department of Homeland Security (DHS). We present a high-level view of the methodology and illustrate it with examples.
+ER  - 
+
+TY  - JOUR
+T1  - Analytics Curriculum for Undergraduate and Graduate Students
+AU  - Paul, Jomon A.
+AU  - MacDonald, Leo
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1111/dsji.12196
+DO  - https://doi.org/10.1111/dsji.12196
+T2  - Decision Sciences Journal of Innovative Education
+JF  - Decision Sciences Journal of Innovative Education
+JO  - Decision Sciences Journal of Innovative Education
+JA  - Decision Sciences Journal of Innovative Education
+SP  - 22
+EP  - 58
+VL  - 18
+IS  - 1
+KW  - Analytics, Graduate and Undergraduate Curriculum
+PB  - John Wiley & Sons, Ltd
+SN  - 1540-4595
+M3  - https://doi.org/10.1111/dsji.12196
+UR  - https://doi.org/10.1111/dsji.12196
+Y2  - 2020/11/10
+N2  - ABSTRACT In recent years, analytics has gained considerable momentum in both industry as well as academia. This study aims to develop an analytics curriculum for undergraduate and graduate programs by identifying skill-based gaps between industry and academia and then clustering them based on methodological and semantic similarities among other criteria. Specifically, we compare industry requirements and related skills for analytics jobs to three types of analytics domains, that is, descriptive, predictive, and prescriptive analytics. We also address several sought-after intangible student characteristics, such as communication skills, intellectual curiosity, and business acumen. We then cluster these skills by similarity based upon methodology, skill type, and semantics to develop courses based on these clusters. Our study thus provides a comprehensive analysis linking specific industry needs to specific coursework that allows any university to create a well-rounded analytics program at both the undergraduate and graduate level. Finally, realizing the significant difference between undergraduate and graduate students in terms of expectations and maturity, we use personality-job fit theory to recommend strategies to better promote the field to undergraduate students. Regarding the latter, we recommend best practices that graduate analytics program can employ to be easy to market and sell to prospective students.
+ER  - 
+
+TY  - JOUR
+T1  - Target setting with minimum improving costs in data envelopment analysis: A mixed integer linear programming approach
+AU  - Ang, Sheng
+AU  - An, Qingxian
+AU  - Yang, Feng
+AU  - Ji, Xiang
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - https://doi.org/10.1111/exsy.12408
+DO  - https://doi.org/10.1111/exsy.12408
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12408
+VL  - 36
+IS  - 4
+KW  - closest targets
+KW  - data envelopment analysis
+KW  - mixed integer linear programming
+KW  - non-oriented model
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12408
+UR  - https://doi.org/10.1111/exsy.12408
+Y2  - 2020/11/10
+N2  - Abstract This study addresses a problem called cost-minimizing target setting in data envelopment analysis (DEA) methodology. The problem is how to make an inefficient decision-making unit efficient by allocating to it as few organizational resources as possible, assuming that the marginal costs of reducing inputs or increasing outputs are known and available, which is different from previous furthest and closest DEA targets setting methods. In this study, an existed cost minimizing target setting heuristics approach based on input-oriented model is examined to show that there exist some limitations. This study develops a simple mixed integer linear programming to determine the desired targets on the strongly efficient frontier based on non-oriented DEA model considering the situation in the presence of known marginal costs of reducing inputs and increasing outputs simultaneously. Some experiments with the simulated datasets are conducted, and results show that the proposed model can obtain more accurate projections with lower costs compared with those from furthest and closest target setting approaches. Besides, the proposed model can be realistic and efficient in solving cost-minimizing target setting problem.
+ER  - 
+
+TY  - JOUR
+T1  - Multicarrier energy systems: Optimization model based on real data and application to a case study
+AU  - Noussan, Michel
+AU  - Jarre, Matteo
+Y1  - 2018/03/10
+PY  - 2018
+DA  - 2018/03/10
+N1  - https://doi.org/10.1002/er.3936
+DO  - https://doi.org/10.1002/er.3936
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+SP  - 1338
+EP  - 1351
+VL  - 42
+IS  - 3
+KW  - CHP
+KW  - data analysis
+KW  - energy conversion
+KW  - operation
+KW  - optimization model
+PB  - John Wiley & Sons, Ltd
+SN  - 0363-907X
+M3  - https://doi.org/10.1002/er.3936
+UR  - https://doi.org/10.1002/er.3936
+Y2  - 2020/11/10
+N2  - Summary Multicarrier energy systems are increasingly used for a number of applications, among which the supply of electricity, heating, and cooling in buildings. The possibility of switching between different energy sources is a crucial advantage for the optimal fulfillment of the energy demand. The flexibility of these systems can benefit from the integration with smart grids, which have strong variations in time during their operation. The energy price is the parameter that is usually considered, but also the primary energy factor and the greenhouse gases emissions need to be accounted. This paper presents an application of an operational optimization method for a multicarrier energy system, based on real data?driven model and applied to different countries. The generation plant of a hospital is considered as case study, coping with multiple energy needs by relying on different conversion technologies. The optimal operation of the system shows a wide range of variability, depending on the chosen objective function, the hour of the day, the season, and the country. The results are affected mostly by the energy mix of the electricity supplied from the power grid, which has a direct influence on the primary energy consumption and the greenhouse gases emissions and an indirect influence on the electricity prices.
+ER  - 
+
+TY  - JOUR
+T1  - Application of fuzzy measures and interval computation to financial portfolio selection
+AU  - Magoč, Tanja
+AU  - Wang, Xiaojing
+AU  - Modave, François
+Y1  - 2010/07/01
+PY  - 2010
+DA  - 2010/07/01
+N1  - https://doi.org/10.1002/int.20415
+DO  - https://doi.org/10.1002/int.20415
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 621
+EP  - 635
+VL  - 25
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.20415
+UR  - https://doi.org/10.1002/int.20415
+Y2  - 2020/11/10
+N2  - Abstract As many data-driven fields, finance is rich in problems requiring high computational power and intelligent systems techniques. In particular, the problem of selecting an optimal financial portfolio can be conveniently represented as a constrained optimization problem or a decision-making problem. The aim of this paper is to show how to express the optimal portfolio selection problem from a decision-theoretic perspective and show how to address this problem using fuzzy measures and fuzzy integrals. ? 2010 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Fuzzy set theory
+AU  - Zimmermann, H.-J.
+Y1  - 2010/05/01
+PY  - 2010
+DA  - 2010/05/01
+N1  - https://doi.org/10.1002/wics.82
+DO  - https://doi.org/10.1002/wics.82
+T2  - WIREs Computational Statistics 
+JF  - WIREs Computational Statistics 
+JO  - WIREs Computational Statistics 
+JA  - WIREs Comp Stat
+SP  - 317
+EP  - 332
+VL  - 2
+IS  - 3
+KW  - fuzzy set theory
+KW  - measures of fuzziness
+KW  - extension principle
+KW  - fuzzy data mining
+KW  - fuzzy optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 1939-5108
+M3  - https://doi.org/10.1002/wics.82
+UR  - https://doi.org/10.1002/wics.82
+Y2  - 2020/11/10
+N2  - Abstract Since its inception in 1965, the theory of fuzzy sets has advanced in a variety of ways and in many disciplines. Applications of this theory can be found, for example, in artificial intelligence, computer science, medicine, control engineering, decision theory, expert systems, logic, management science, operations research, pattern recognition, and robotics. Mathematical developments have advanced to a very high standard and are still forthcoming to day. In this review, the basic mathematical framework of fuzzy set theory will be described, as well as the most important applications of this theory to other theories and techniques. Since 1992 fuzzy set theory, the theory of neural nets and the area of evolutionary programming have become known under the name of ?computational intelligence? or ?soft computing?. The relationship between these areas has naturally become particularly close. In this review, however, we will focus primarily on fuzzy set theory. Applications of fuzzy set theory to real problems are abound. Some references will be given. To describe even a part of them would certainly exceed the scope of this review. Copyright ? 2010 John Wiley & Sons, Inc. This article is categorized under: Statistical Learning and Exploratory Methods of the Data Sciences > Clustering and Classification
+ER  - 

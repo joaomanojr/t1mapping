@@ -1,0 +1,718 @@
+
+TY  - JOUR
+T1  - A web-based group decision support system for multicriteria problems
+AU  - Conceição, Luís
+AU  - Martinho, Diogo
+AU  - Andrade, Rui
+AU  - Carneiro, João
+AU  - Martins, Constantino
+AU  - Marreiros, Goreti
+AU  - Novais, Paulo
+Y1  - 2019/04/23
+PY  - 2019
+DA  - 2019/04/23
+N1  - https://doi.org/10.1002/cpe.5298
+DO  - https://doi.org/10.1002/cpe.5298
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5298
+VL  - n/a
+IS  - n/a
+KW  - automatic negotiation
+KW  - group decision making
+KW  - group decision support systems
+KW  - multiagent systems
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5298
+UR  - https://doi.org/10.1002/cpe.5298
+Y2  - 2020/11/10
+N2  - Summary One of the most important factors to determine the success of an organization is the quality of decisions made. Supporting a decision-making process is a complex task, mainly when decision-makers are dispersed. Group decision support systems (GDSSs) have been studied over the last decades with the goal of providing support to decision-makers; however, their acceptance by organizations has been difficult. This happens mostly due to usability problems, loss of interaction between decision-makers, and consequently, loss of information. In this work, we present a web-based GDSS developed to support groups of decision-makers, regardless of their geographic location. The system allows the creation of multicriteria problems and the configuration of the preferences, intentions, and interests of each decision-maker. The presented system uses a multiagent system to combine and process this information, using virtual agents that represent each decision-maker. We believe that, with this approach, we will proceed in the refinements of a successful GDSS to correctly support decision-makers while preserving the valuable intelligence and knowledge that can be generated in face-to-face meetings. Furthermore, the high level of usability that the system provides will contribute to an easier acceptance and adoption of this kind of systems.
+ER  - 
+
+TY  - JOUR
+T1  - 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus
+AU  - Aringer, Martin
+AU  - Costenbader, Karen
+AU  - Daikh, David
+AU  - Brinks, Ralph
+AU  - Mosca, Marta
+AU  - Ramsey-Goldman, Rosalind
+AU  - Smolen, Josef S.
+AU  - Wofsy, David
+AU  - Boumpas, Dimitrios T.
+AU  - Kamen, Diane L.
+AU  - Jayne, David
+AU  - Cervera, Ricard
+AU  - Costedoat-Chalumeau, Nathalie
+AU  - Diamond, Betty
+AU  - Gladman, Dafna D.
+AU  - Hahn, Bevra
+AU  - Hiepe, Falk
+AU  - Jacobsen, Søren
+AU  - Khanna, Dinesh
+AU  - Lerstrøm, Kirsten
+AU  - Massarotti, Elena
+AU  - McCune, Joseph
+AU  - Ruiz-Irastorza, Guillermo
+AU  - Sanchez-Guerrero, Jorge
+AU  - Schneider, Matthias
+AU  - Urowitz, Murray
+AU  - Bertsias, George
+AU  - Hoyer, Bimba F.
+AU  - Leuchten, Nicolai
+AU  - Tani, Chiara
+AU  - Tedeschi, Sara K.
+AU  - Touma, Zahi
+AU  - Schmajuk, Gabriela
+AU  - Anic, Branimir
+AU  - Assan, Florence
+AU  - Chan, Tak Mao
+AU  - Clarke, Ann Elaine
+AU  - Crow, Mary K.
+AU  - Czirják, László
+AU  - Doria, Andrea
+AU  - Graninger, Winfried
+AU  - Halda-Kiss, Bernadett
+AU  - Hasni, Sarfaraz
+AU  - Izmirly, Peter M.
+AU  - Jung, Michelle
+AU  - Kumánovics, Gábor
+AU  - Mariette, Xavier
+AU  - Padjen, Ivan
+AU  - Pego-Reigosa, José M.
+AU  - Romero-Diaz, Juanita
+AU  - Rúa-Figueroa Fernández, Íñigo
+AU  - Seror, Raphaèle
+AU  - Stummvoll, Georg H.
+AU  - Tanaka, Yoshiya
+AU  - Tektonidou, Maria G.
+AU  - Vasconcelos, Carlos
+AU  - Vital, Edward M.
+AU  - Wallace, Daniel J.
+AU  - Yavuz, Sule
+AU  - Meroni, Pier Luigi
+AU  - Fritzler, Marvin J.
+AU  - Naden, Ray
+AU  - Dörner, Thomas
+AU  - Johnson, Sindhu R.
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/art.40930
+DO  - https://doi.org/10.1002/art.40930
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+SP  - 1400
+EP  - 1412
+VL  - 71
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 2326-5191
+M3  - https://doi.org/10.1002/art.40930
+UR  - https://doi.org/10.1002/art.40930
+Y2  - 2020/11/10
+N2  - Objective To develop new classification criteria for systemic lupus erythematosus (SLE) jointly supported by the European League Against Rheumatism (EULAR) and the American College of Rheumatology (ACR). Methods This international initiative had four phases. 1) Evaluation of antinuclear antibody (ANA) as an entry criterion through systematic review and meta-regression of the literature and criteria generation through an international Delphi exercise, an early patient cohort, and a patient survey. 2) Criteria reduction by Delphi and nominal group technique exercises. 3) Criteria definition and weighting based on criterion performance and on results of a multi-criteria decision analysis. 4) Refinement of weights and threshold scores in a new derivation cohort of 1,001 subjects and validation compared with previous criteria in a new validation cohort of 1,270 subjects. Results The 2019 EULAR/ACR classification criteria for SLE include positive ANA at least once as obligatory entry criterion; followed by additive weighted criteria grouped in 7 clinical (constitutional, hematologic, neuropsychiatric, mucocutaneous, serosal, musculoskeletal, renal) and 3 immunologic (antiphospholipid antibodies, complement proteins, SLE-specific antibodies) domains, and weighted from 2 to 10. Patients accumulating ≥10 points are classified. In the validation cohort, the new criteria had a sensitivity of 96.1% and specificity of 93.4%, compared with 82.8% sensitivity and 93.4% specificity of the ACR 1997 and 96.7% sensitivity and 83.7% specificity of the Systemic Lupus International Collaborating Clinics 2012 criteria. Conclusion These new classification criteria were developed using rigorous methodology with multidisciplinary and international input, and have excellent sensitivity and specificity. Use of ANA entry criterion, hierarchically clustered, and weighted criteria reflects current thinking about SLE and provides an improved foundation for SLE research.
+ER  - 
+
+TY  - JOUR
+T1  - Comparison of the feasibility of three flood-risk extent delineation techniques using Geographic Information System: case study in Tavoliere delle Puglie, Italy
+AU  - Strobl, R.O.
+AU  - Forte, F.
+AU  - Lonigro, T.
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - https://doi.org/10.1111/j.1753-318X.2012.01143.x
+DO  - https://doi.org/10.1111/j.1753-318X.2012.01143.x
+T2  - Journal of Flood Risk Management
+JF  - Journal of Flood Risk Management
+JO  - Journal of Flood Risk Management
+JA  - J. Flood Risk Manage
+SP  - 245
+EP  - 257
+VL  - 5
+IS  - 3
+KW  - Equally likely decision
+KW  - flood-risk extent
+KW  - Mahalanobis distance
+KW  - Maximin
+KW  - Tavoliere delle Puglie Italy
+PB  - John Wiley & Sons, Ltd
+SN  - 1753-318X
+M3  - https://doi.org/10.1111/j.1753-318X.2012.01143.x
+UR  - https://doi.org/10.1111/j.1753-318X.2012.01143.x
+Y2  - 2020/11/10
+N2  - Abstract Delineation of flood-risk extent is a tedious task which normally requires the expertise of trained hydrologists. In order to provide a quicker and more automated approach for estimating flood-risk extent, three straightforward methods (Mahalanobis distance, Maximin and Equally likely decision methods) which are easily executed in Geographic Information System were investigated and applied to a study area in the so-called ?Tavoliere delle Puglie? (southern Italy). The delineated areas were then visually and statistically confronted with a methodology based on hydrologic expertise that can be considered up to date with current flood-risk zone delineation knowledge. Two major problems associated with flood-risk extent estimation are firstly the overwhelming complexity of the wide variety of spatially relevant flood-related data and the amount of information contained within these data that are not easily interpreted without often costly and time consuming hydrologic expertise, and secondly, the wide variety of criteria usually considered in flood-risk analysis, yielding a broad spectrum of different units involved. The comparative analysis has revealed that of the three alternative methods, only the Mahalanobis distance technique gave moderately comparable results with the methodology based on hydrologic expert knowledge. The results suggest and confirm that hydrologic expertise cannot be bypassed in flood-risk extent analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Non-dominated “trade-off” solutions in television scheduling optimization
+AU  - Lupo, Toni
+Y1  - 2015/05/01
+PY  - 2015
+DA  - 2015/05/01
+N1  - https://doi.org/10.1111/itor.12137
+DO  - https://doi.org/10.1111/itor.12137
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 563
+EP  - 584
+VL  - 22
+IS  - 3
+KW  - television scheduling design
+KW  - multi-objective optimization
+KW  - integer mathematical programming model
+KW  - television ratings forecast
+KW  - television scheduling costs
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12137
+UR  - https://doi.org/10.1111/itor.12137
+Y2  - 2020/11/10
+N2  - Abstract The main approaches for the television scheduling design are commonly based on the ratings or revenues maximization objective, and thus, only a single optimal solution can be obtained, corresponding to the best result for the considered objective. Therefore, these approaches lead up to the alternative solutions loss which, even if less effective from the ratings or revenues maximization viewpoint, may be more suitable for the decision maker because of better compromise in relation to factors influencing the decision process. Specifically, such a compromise could be achieved through a suitable ?trade-off? between these factors, with reference to the decision context in which the decision maker has to operate. The present study concerns the development of a multi-objective approach for the television scheduling design in which ratings and costs are the considered objectives to optimize, because these are the main factors influencing the decision process. In particular, an integer mathematical programming model is formulated and solved, considering as input data forecasted values of show-parts ratings and costs obtained by a suitable forecast engine. Finally, in order to show the employment of the proposed approach, a case study concerning the television scheduling optimization for an Italian TV channel is conducted with detailed practical considerations.
+ER  - 
+
+TY  - JOUR
+T1  - The pandora of network slicing: A multicriteria analysis
+AU  - Rosa, Raphael Vicente
+AU  - Rothenberg, Christian Esteve
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1002/ett.3651
+DO  - https://doi.org/10.1002/ett.3651
+T2  - Transactions on Emerging Telecommunications Technologies
+JF  - Transactions on Emerging Telecommunications Technologies
+JO  - Transactions on Emerging Telecommunications Technologies
+JA  - Trans Emerging Tel Tech
+SP  - e3651
+VL  - 31
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 2161-3915
+M3  - https://doi.org/10.1002/ett.3651
+UR  - https://doi.org/10.1002/ett.3651
+Y2  - 2020/11/10
+N2  - Abstract The evolving requirements of 5G communication business cases around vertical markets in addition to rich content multimedia cloud applications call for advances in enabling technologies and standardization to realize tailor-made end-to-end network services, an approach commonly referred to as network slicing. Different mappings between infrastructure capabilities and custom service requirements produce an overload of information that a network service provider must handle to rationalize possible slicing alternatives for a given business case. This article proposes a methodology exploring algorithms from multicriteria analysis (MCA) to digest a set of slicing criteria advantage points into a coherent set of slicing preferences. Through extensive experimental analysis, we reasoning about observed patterns in the slicing alternatives and discuss the utility of the proposed MCA process for the definition of classes of slices, slicing abstractions views, and recovery/scalability analysis. Altogether, the MCA methodology proposed in this article sheds light into candidate mechanisms to tackle the pandora behind the yet-to-be-understood issues and unanticipated trade-offs of alternative network slicing approaches. Contributions of this article include providing a prominent outlook towards different dimensioning angles of network slicing, scoping its criteria design, timing, and the quality of the criteria information.
+ER  - 
+
+TY  - JOUR
+T1  - The dilemma of pest suppression in the conservation of endangered species
+AU  - Adler, Peter H.
+AU  - Barzen, Jeb
+AU  - Gray, Elmer
+AU  - Lacy, Anne
+AU  - Urbanek, Richard P.
+AU  - Converse, Sarah J.
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - https://doi.org/10.1111/cobi.13262
+DO  - https://doi.org/10.1111/cobi.13262
+T2  - Conservation Biology
+JF  - Conservation Biology
+JO  - Conservation Biology
+JA  - Conservation Biology
+SP  - 788
+EP  - 796
+VL  - 33
+IS  - 4
+KW  - black flies
+KW  - decision analysis
+KW  - ecological function
+KW  - pest management
+KW  - reintroduction
+KW  - Whooping Cranes
+KW  - análisis de decisión
+KW  - función ecológica
+KW  - grullas trompeteras
+KW  - manejo de plagas
+KW  - moscas negras
+KW  - reintroducción
+KW  - 蚋
+KW  - 决策分析
+KW  - 生态功能
+KW  - 害虫治理
+KW  - 重引入
+KW  - 美洲鹤
+PB  - John Wiley & Sons, Ltd
+SN  - 0888-8892
+M3  - https://doi.org/10.1111/cobi.13262
+UR  - https://doi.org/10.1111/cobi.13262
+Y2  - 2020/11/10
+N2  - Abstract In the conservation of endangered species, suppression of a population of one native species to benefit another poses challenges. Examples include predator control and nest parasite reduction. Less obvious is the control of blood-feeding arthropods. We conducted a case study of the effect of native black flies (Simulium spp.) on reintroduced Whooping Cranes (Grus americana). Our intent was to provide a science-driven approach for determining the effects of blood-feeding arthropods on endangered vertebrates and identifying optimal management actions for managers faced with competing objectives. A multiyear experiment demonstrated that black flies reduce nest success in cranes by driving incubating birds off their nests. We used a decision-analytic approach to develop creative management alternatives and evaluate trade-offs among competing objectives. We identified 4 management objectives: establish a self-sustaining crane population, improve crane well-being, maintain native black flies as functional components of the ecosystem, and minimize costs. We next identified potential management alternatives: do nothing, suppress black flies, force crane renesting to occur after the activity period of black flies, relocate releases of cranes, suppress black flies and relocate releases, or force crane renesting and relocate releases. We then developed predictions on constructed scales of 0 (worst-performing alternative) to 1 (best-performing alternative) to indicate how alternative actions performed in terms of management objectives. The optimal action depended on the relative importance of each objective to a decision maker. Only relocating releases was a dominated alternative, indicating that it was not optimal regardless of the relative importance of objectives. A rational decision maker could choose any other management alternative we considered. Recognizing that decisions involve trade-offs that must be weighed by decision makers is crucial to identifying alternatives that best balance multiple management objectives. Given uncertainty about the population dynamics of blood-feeding arthropods, an adaptive management approach could offer substantial benefits.
+ER  - 
+
+TY  - JOUR
+T1  - Distance and similarity measures of Pythagorean fuzzy sets and their applications to multiple criteria group decision making
+AU  - Zeng, Wenyi
+AU  - Li, Deqing
+AU  - Yin, Qian
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1002/int.22027
+DO  - https://doi.org/10.1002/int.22027
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 2236
+EP  - 2254
+VL  - 33
+IS  - 11
+KW  - distance measure
+KW  - group decision making
+KW  - intuitionistic fuzzy sets
+KW  - Pythagorean fuzzy sets
+KW  - similarity measure
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.22027
+UR  - https://doi.org/10.1002/int.22027
+Y2  - 2020/11/10
+N2  - Abstract The main feature of Pythagorean fuzzy sets is that it is characterized by five parameters, namely membership degree, nonmembership degree, hesitancy degree, strength of commitment about membership, and direction of commitment. In this paper, we first investigate four existing comparison methods for ranking Pythagorean fuzzy sets and point out by examples that the method proposed by Yager, which considers the influence fully of the five parameters, is more efficient than the other ones. Later, we propose a variety of distance measures for Pythagorean fuzzy sets and Pythagorean fuzzy numbers, which take into account the five parameters of Pythagorean fuzzy sets. Based on the proposed distance measures, we present some similarity measures of Pythagorean fuzzy sets. Furthermore, a multiple criteria Pythagorean fuzzy group decision-making approach is proposed. Finally, a numerical example is provided to illustrate the validity and applicability of the presented group decision-making method.
+ER  - 
+
+TY  - JOUR
+T1  - Hierarchical network modeling with multidimensional information for aquatic safety management in the cold chain
+AU  - Liu, Lu
+AU  - Liu, Xinlei
+AU  - Li, Wubin
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - https://doi.org/10.1002/fsn3.613
+DO  - https://doi.org/10.1002/fsn3.613
+T2  - Food Science & Nutrition
+JF  - Food Science & Nutrition
+JO  - Food Science & Nutrition
+JA  - Food Sci Nutr
+SP  - 843
+EP  - 859
+VL  - 6
+IS  - 4
+KW  - aquatic product
+KW  - cold chain
+KW  - hierarchical network
+KW  - multidimensional information
+KW  - quality safety
+PB  - John Wiley & Sons, Ltd
+SN  - 2048-7177
+M3  - https://doi.org/10.1002/fsn3.613
+UR  - https://doi.org/10.1002/fsn3.613
+Y2  - 2020/11/10
+N2  - Abstract The cold-chain information has characterized by the loss and dispersion according to the different collecting methods. The description for the quality decay factors of aquatic products can be defined as the multidimensional information. A series of nodes with multidimensional information are assembled to be hierarchies aiming at describing the environment conditions and locations in the supply chain. Each of the single hierarchy levels constitutes a sequence of node information in a network, which is applied as internal information analysis. The cross-layer information structure is defined as ?bridge? information which is able to record the information transmissions among every hierarchy from the point of view of the whole chain. The study has established a novel structured modeling to describe the cold chain of aquatic products based on a network-hierarchy framework. An organized and sustainable transmission process can be built and recorded by the multidimensional attributes for the whole course of cold chain of aquatic products. In addition, seamless connections among every hierarchy are attainable by the environmental information records continuously to monitor the quality of aquatic products. The quality assessments and shelf life predictions are estimated properly as the risk control in order to monitor and trace the safety of aquatic products under the supply chain perspective.
+ER  - 
+
+TY  - JOUR
+T1  - From individual to joint species distribution models: A comparison of model complexity and predictive performance
+AU  - Caradima, Bogdan
+AU  - Schuwirth, Nele
+AU  - Reichert, Peter
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - https://doi.org/10.1111/jbi.13668
+DO  - https://doi.org/10.1111/jbi.13668
+T2  - Journal of Biogeography
+JF  - Journal of Biogeography
+JO  - Journal of Biogeography
+JA  - J Biogeogr
+SP  - 2260
+EP  - 2274
+VL  - 46
+IS  - 10
+KW  - benthic macroinvertebrates
+KW  - biodiversity
+KW  - hierarchical multispecies models
+KW  - joint models
+KW  - predictive modelling
+KW  - richness
+KW  - species distribution models
+KW  - stacked individual models
+PB  - John Wiley & Sons, Ltd
+SN  - 0305-0270
+M3  - https://doi.org/10.1111/jbi.13668
+UR  - https://doi.org/10.1111/jbi.13668
+Y2  - 2020/11/10
+N2  - Abstract Aim Species distribution models (SDMs) are widely used to study geographic distributions of taxa in response to natural and anthropogenic environmental conditions. For a community, common approaches include fitting individual SDMs (iSDMs) to all taxa or directly modelling community properties such as richness. However, the parameters of iSDMs are difficult to identify for rare taxa, and community properties do not reveal taxon-specific responses. Individual models can be combined into a hierarchical multispecies distribution model (mSDM) that constrains taxon-specific parameters according to overarching community parameters, or a joint model (jSDM) in which interdependencies between taxa are jointly inferred. We compare how individual, hierarchical multispecies and joint SDMs differ in quality of fit, explanatory power and predictive performance, and analyse how these properties depend on the prevalence of taxa. Taxa Presence?absence observations of 245 benthic macroinvertebrate taxa identified at a mixed taxonomic resolution. Location Four hundred and ninety-two sites in rivers throughout Switzerland. Methods Individual, hierarchical and joint hierarchical generalized linear models (GLM) were developed for all taxa. Parameters were estimated using maximum likelihood estimation or Bayesian inference with Hamiltonian Markov chain Monte Carlo simulations. Predictive performance was assessed with cross-validation. In addition, the predicted family and species richness of the models was compared with a GLM for richness. Results Individual models show a slightly higher quality of fit largely due to overfitting for rare taxa. The mSDM achieves a similar quality of fit and explanatory power, mitigates overfitting for rare taxa and considerably improves predictive performance over the whole community. The joint models further improve the quality of fit, but decrease predictive performance and increase predictive uncertainty. Main conclusions We show that even a relatively simple mSDM combines many of the analytical capabilities of iSDMs and improves predictive performance. Increasingly complex mSDMs and jSDMs provide additional analytical possibilities, but depending on the data and research questions, different levels of complexity may be appropriate.
+ER  - 
+
+TY  - JOUR
+T1  - Book Reviews
+AU  - Suter, Glenn
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - https://doi.org/10.1002/ieam.1318
+DO  - https://doi.org/10.1002/ieam.1318
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 570
+EP  - 573
+VL  - 8
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 1551-3777
+M3  - https://doi.org/10.1002/ieam.1318
+UR  - https://doi.org/10.1002/ieam.1318
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - The Essential Elements of a Risk Governance Framework for Current and Future Nanotechnologies
+AU  - Stone, Vicki
+AU  - Führ, Martin
+AU  - Feindt, Peter H.
+AU  - Bouwmeester, Hans
+AU  - Linkov, Igor
+AU  - Sabella, Stefania
+AU  - Murphy, Finbarr
+AU  - Bizer, Kilian
+AU  - Tran, Lang
+AU  - Ågerstrand, Marlene
+AU  - Fito, Carlos
+AU  - Andersen, Torben
+AU  - Anderson, Diana
+AU  - Bergamaschi, Enrico
+AU  - Cherrie, John W.
+AU  - Cowan, Sue
+AU  - Dalemcourt, Jean-Francois
+AU  - Faure, Michael
+AU  - Gabbert, Silke
+AU  - Gajewicz, Agnieszka
+AU  - Fernandes, Teresa F.
+AU  - Hristozov, Danail
+AU  - Johnston, Helinor J.
+AU  - Lansdown, Terry C.
+AU  - Linder, Stefan
+AU  - Marvin, Hans J. P.
+AU  - Mullins, Martin
+AU  - Purnhagen, Kai
+AU  - Puzyn, Tomasz
+AU  - Sanchez Jimenez, Araceli
+AU  - Scott-Fordsmand, Janeck J.
+AU  - Streftaris, George
+AU  - van Tongeren, Martie
+AU  - Voelcker, Nicolas H.
+AU  - Voyiatzis, George
+AU  - Yannopoulos, Spyros N.
+AU  - Poortvliet, P. Marijn
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1111/risa.12954
+DO  - https://doi.org/10.1111/risa.12954
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1321
+EP  - 1331
+VL  - 38
+IS  - 7
+KW  - Decision making
+KW  - nano-regulation
+KW  - risk communication
+KW  - risk governance
+KW  - risk management
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.12954
+UR  - https://doi.org/10.1111/risa.12954
+Y2  - 2020/11/10
+N2  - Abstract Societies worldwide are investing considerable resources into the safe development and use of nanomaterials. Although each of these protective efforts is crucial for governing the risks of nanomaterials, they are insufficient in isolation. What is missing is a more integrative governance approach that goes beyond legislation. Development of this approach must be evidence based and involve key stakeholders to ensure acceptance by end users. The challenge is to develop a framework that coordinates the variety of actors involved in nanotechnology and civil society to facilitate consideration of the complex issues that occur in this rapidly evolving research and development area. Here, we propose three sets of essential elements required to generate an effective risk governance framework for nanomaterials. (1) Advanced tools to facilitate risk-based decision making, including an assessment of the needs of users regarding risk assessment, mitigation, and transfer. (2) An integrated model of predicted human behavior and decision making concerning nanomaterial risks. (3) Legal and other (nano-specific and general) regulatory requirements to ensure compliance and to stimulate proactive approaches to safety. The implementation of such an approach should facilitate and motivate good practice for the various stakeholders to allow the safe and sustainable future development of nanotechnology.
+ER  - 
+
+TY  - JOUR
+T1  - SF Box—A tool for evaluating the effects on soil functions in remediation projects
+AU  - Volchko, Yevheniya
+AU  - Norrman, Jenny
+AU  - Rosén, Lars
+AU  - Norberg, Tommy
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - https://doi.org/10.1002/ieam.1552
+DO  - https://doi.org/10.1002/ieam.1552
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 566
+EP  - 575
+VL  - 10
+IS  - 4
+KW  - Soil quality indicators
+KW  - Soil quality index
+KW  - Soil functions
+KW  - Remediation
+KW  - Contaminated soil
+PB  - John Wiley & Sons, Ltd
+SN  - 1551-3777
+M3  - https://doi.org/10.1002/ieam.1552
+UR  - https://doi.org/10.1002/ieam.1552
+Y2  - 2020/11/10
+N2  - ABSTRACT Although remediation is usually aimed at reducing the risks posed by contaminants to human health and the environment, it is also desirable that the remediated soil within future green spaces is capable of providing relevant ecological functions, e.g., basis for primary production. Yet while addressing a contamination problem by reducing contaminant concentration and/or amounts in the soil, the remedial action itself can lead to soil structure disturbances, decline in organic matter and nutrient deficiencies, and in turn affect a soil's capacity to carry out its ecological soil functions. This article presents the Soil Function Box (SF Box) tool that is aimed to facilitate integration of information from suggested soil quality indicators (SQIs) into a management process in remediation using a scoring method. The scored SQIs are integrated into a soil quality index corresponding to 1 of 5 classes. SF Box is applied to 2 cases from Sweden (Kvillebäcken and Hexion), explicitly taking into consideration uncertainties in the results by means of Monte Carlo simulations. At both sites the generated soil quality indices corresponded to a medium soil performance (soil class 3) with a high certainty. The main soil constraints at both Kvillebäcken and Hexion were associated with biological activity in the soil, as soil organisms were unable to supply plant-available N. At the Kvillebäcken site the top layer had a content of coarse fragment (??>?2?mm) higher than 35%, indicating plant rooting limitations. At the Hexion site, the soil had limited amount of organic matter, thus poor aggregate stability and nutrient cycling potential. In contrast, the soil at Kvillebäcken was rich in organic matter. The soils at both sites were capable of storing a sufficient amount of water for soil organisms between precipitation events. Integr Environ Assess Manag 2014;10:566?575. ? 2014 SETAC
+ER  - 
+
+TY  - JOUR
+T1  - Validating a rapid assessment framework for screening surface water flood risk
+AU  - Webber, J.L.
+AU  - Booth, G.
+AU  - Gunasekara, R.
+AU  - Fu, G.
+AU  - Butler, D.
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - https://doi.org/10.1111/wej.12415
+DO  - https://doi.org/10.1111/wej.12415
+T2  - Water and Environment Journal
+JF  - Water and Environment Journal
+JO  - Water and Environment Journal
+JA  - Water and Environment Journal
+SP  - 427
+EP  - 442
+VL  - 33
+IS  - 3
+KW  - cellular automata flood model
+KW  - decision support
+KW  - 2D flood modelling
+KW  - flood risk management
+KW  - surface water management plan
+KW  - urban flooding
+PB  - John Wiley & Sons, Ltd
+SN  - 1747-6585
+M3  - https://doi.org/10.1111/wej.12415
+UR  - https://doi.org/10.1111/wej.12415
+Y2  - 2020/11/10
+N2  - Abstract This research evaluates performance of a rapid assessment framework for screening surface water flood risk in urban catchments. Recent advances in modelling have developed fast and computationally efficient cellular automata frameworks which demonstrate promising utility for increasing available evidence to support surface water management, however, questions remain regarding trade-offs between accuracy and speed for practical application. This study evaluates performance of a rapid assessment framework by comparing results with outputs from an industry standard hydrodynamic model using a case study of St Neots in Cambridgeshire, UK. Results from the case study show that the rapid assessment framework is able to identify and prioritise areas of flood risk and outputs flood depths which correlate above 97% with the industry standard approach. In theory, this finding supports a simplified representation of catchments using cellular automata, and in practice presents an opportunity to apply the framework to develop evidence to support detailed modelling.
+ER  - 
+
+TY  - JOUR
+T1  - Application of geospatial technologies for understanding and predicting vector populations and vector-borne disease incidence
+AU  - DeGroote, John P.
+AU  - Larson, Scott R.
+AU  - Zhang, Yanli
+AU  - Sugumaran, Ramanathan
+Y1  - 2012/11/01
+PY  - 2012
+DA  - 2012/11/01
+N1  - https://doi.org/10.1111/gec3.12003
+DO  - https://doi.org/10.1111/gec3.12003
+T2  - Geography Compass
+JF  - Geography Compass
+JO  - Geography Compass
+SP  - 645
+EP  - 659
+VL  - 6
+IS  - 11
+PB  - John Wiley & Sons, Ltd
+SN  - 1749-8198
+M3  - https://doi.org/10.1111/gec3.12003
+UR  - https://doi.org/10.1111/gec3.12003
+Y2  - 2020/11/10
+N2  - Abstract Vector-borne diseases inflict a heavy health burden. Numerous vector species have expanded their ranges while some vector-borne diseases have emerged in new geographic areas or reemerged in former endemic areas, potentially due to global climate change. The continued health burden and the expansion in vector and vector-borne disease ranges have led to an increased need for understanding and predicting in space and time the potential abundance and distribution of vectors and the transmission of vector-borne diseases. Advances in computing technologies, increased spatial data availability, and greater understanding of ecological drivers have made it commonplace to attempt to understand and estimate, in time and space, vector populations and vector-borne disease incidence. Although there have been great advances there are still limitations due to complex and varying ecologies and epidemiological contexts of vector-borne diseases as well as data limitations. In this paper, we will provide an overview of and examine advances and limitations in the use of geospatial technologies for understanding and prediction of the drivers of vector populations and vector-borne diseases.
+ER  - 
+
+TY  - JOUR
+T1  - Many-objective reservoir policy identification and refinement to reduce policy inertia and myopia in water management
+AU  - Giuliani, M.
+AU  - Herman, J. D.
+AU  - Castelletti, A.
+AU  - Reed, P.
+Y1  - 2014/04/01
+PY  - 2014
+DA  - 2014/04/01
+N1  - https://doi.org/10.1002/2013WR014700
+DO  - https://doi.org/10.1002/2013WR014700
+T2  - Water Resources Research
+JF  - Water Resources Research
+JO  - Water Resources Research
+JA  - Water Resour. Res.
+SP  - 3355
+EP  - 3377
+VL  - 50
+IS  - 4
+KW  - reservoir operation
+KW  - multiobjective optimization
+KW  - direct policy search
+KW  - visualization
+KW  - evolutionary algorithm
+PB  - John Wiley & Sons, Ltd
+SN  - 0043-1397
+M3  - https://doi.org/10.1002/2013WR014700
+UR  - https://doi.org/10.1002/2013WR014700
+Y2  - 2020/11/10
+N2  - Abstract This study contributes a decision analytic framework to overcome policy inertia and myopia in complex river basin management contexts. The framework combines reservoir policy identification, many-objective optimization under uncertainty, and visual analytics to characterize current operations and discover key trade-offs between alternative policies for balancing competing demands and system uncertainties. The approach is demonstrated on the Conowingo Dam, located within the Lower Susquehanna River, USA. The Lower Susquehanna River is an interstate water body that has been subject to intensive water management efforts due to competing demands from urban water supply, atomic power plant cooling, hydropower production, and federally regulated environmental flows. We have identified a baseline operating policy for the Conowingo Dam that closely reproduces the dynamics of current releases and flows for the Lower Susquehanna and thus can be used to represent the preferences structure guiding current operations. Starting from this baseline policy, our proposed decision analytic framework then combines evolutionary many-objective optimization with visual analytics to discover new operating policies that better balance the trade-offs within the Lower Susquehanna. Our results confirm that the baseline operating policy, which only considers deterministic historical inflows, significantly overestimates the system's reliability in meeting the reservoir's competing demands. Our proposed framework removes this bias by successfully identifying alternative reservoir policies that are more robust to hydroclimatic uncertainties while also better addressing the trade-offs across the Conowingo Dam's multisector services.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating Environmental and Social Life Cycle Assessment: Asking the Right Question
+AU  - Suckling, James R
+AU  - Lee, Jacquetta
+Y1  - 2017/12/01
+PY  - 2017
+DA  - 2017/12/01
+N1  - https://doi.org/10.1111/jiec.12565
+DO  - https://doi.org/10.1111/jiec.12565
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 1454
+EP  - 1463
+VL  - 21
+IS  - 6
+KW  - end-of-life product
+KW  - industrial ecology
+KW  - life cycle assessment (LCA)
+KW  - mobile phone
+KW  - recycling
+KW  - reuse
+PB  - John Wiley & Sons, Ltd
+SN  - 1088-1980
+M3  - https://doi.org/10.1111/jiec.12565
+UR  - https://doi.org/10.1111/jiec.12565
+Y2  - 2020/11/10
+N2  - Summary Mobile phones offer many potential social benefits throughout their lifetime, but this life is often much shorter than design intent. Reuse of the phone in a developing country allows these social benefits to be fully realized. Unfortunately, under the current state of development of recycling infrastructure, recovery rates of phones after reuse are very low in those markets, which may lead to an environmental burden attributed to loss of materials to landfill. In order to recover those materials most effectively, recycling in developed countries may be the best option, but at a cost of the ability to reuse the phones. The issues facing integration of social and environmental concerns into a single life cycle assessment (LCA) and resulting challenges of identifying the disposal option with the most sustainable outcome are explored using mobile phones as a case study. These include obtaining sufficient geographical and temporal detail of the end-of-life options, collation and analysis of the large amounts of data generated, and weighting of the disparate environmental and social impact categories. The numerous challenges may mount up to make performing LCA of mobile phones unwieldy. Instead of trying to encompass every aspect in full, it is proposed that focus is given to answering a question that takes into account the resources available: It is important to ask the question that has the best chance of being answered.
+ER  - 
+
+TY  - JOUR
+T1  - Spatial fine-resolution model of malaria risk for the Colombian Pacific region
+AU  - Piedrahita, Stefani
+AU  - Altamiranda-Saavedra, Mariano
+AU  - Correa, Margarita M.
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1111/tmi.13443
+DO  - https://doi.org/10.1111/tmi.13443
+T2  - Tropical Medicine & International Health
+JF  - Tropical Medicine & International Health
+JO  - Tropical Medicine & International Health
+JA  - Trop Med Int Health
+SP  - 1024
+EP  - 1031
+VL  - 25
+IS  - 8
+KW  - malaria
+KW  - incidence
+KW  - risk
+KW  - Anopheles
+KW  - environmental variables
+KW  - Colombia
+PB  - John Wiley & Sons, Ltd
+SN  - 1360-2276
+M3  - https://doi.org/10.1111/tmi.13443
+UR  - https://doi.org/10.1111/tmi.13443
+Y2  - 2020/11/10
+N2  - Abstract Objective To categorise and map, at high resolution, the risk of malaria incidence in the Pacific region, the main malaria-endemic region of Colombia. Methods The relationship between the environmental variables Normalized Difference Vegetation Index Normalized Difference Water Index, Topographic Wetness Index, precipitation and temperature with the observed Annual Parasitic Index was evaluated using a generalised linear model. An incidence risk map at a resolution of 1 km2 was constructed and projected to the entire endemic region. Associations of malaria risk categories with both presence records and co-occurrence of the three main malaria vectors were determined. Results A significant correlation was found for the incidence of malaria with precipitation and Normalized Difference Vegetation Index (R2 = 0.98, P < 0.05), whereas there was no significant correlation with the remaining environmental and topographic variables. Moderate- to high-risk areas were located mainly in central Chocó Department along the San Juan and Atrato rivers and in areas west of the Cauca River and Pacific lowlands of the Andes Mountains. There was a statistically significant relationship for the presence of the two main vectors Anopheles darlingi and Anopheles nuneztovari with the high malaria risk category. Furthermore, malaria risk was directly proportional to the number of co-occurring vector species. Conclusions The map obtained provides useful information on the risk of malaria in particular places of the Colombian Pacific region. The data can be used by public entities to optimise the allocation of economic resources for vector control interventions and surveillance.
+ER  - 
+
+TY  - JOUR
+T1  - A random forest and simulation approach for scheduling operation rooms: Elective surgery cancelation in a Chinese hospital urology department
+AU  - Luo, Li
+AU  - Liu, Chuang
+AU  - Feng, Li
+AU  - Zhao, Shuzhen
+AU  - Gong, Renrong
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1002/hpm.2552
+DO  - https://doi.org/10.1002/hpm.2552
+T2  - The International Journal of Health Planning and Management
+JF  - The International Journal of Health Planning and Management
+JO  - The International Journal of Health Planning and Management
+JA  - Int J Health Plann Mgmt
+SP  - 941
+EP  - 966
+VL  - 33
+IS  - 4
+KW  - elective surgery cancelation
+KW  - health care
+KW  - operating room scheduling
+KW  - random forest
+KW  - simulation
+PB  - John Wiley & Sons, Ltd
+SN  - 0749-6753
+M3  - https://doi.org/10.1002/hpm.2552
+UR  - https://doi.org/10.1002/hpm.2552
+Y2  - 2020/11/10
+N2  - Summary Many hospitals encounter surgery cancelations for various reasons. We present a methodology applying data mining and simulation to optimize operating room (OR) scheduling in a urology department in West China Hospital. To the best of our knowledge, this is 1 of the first efforts to seek an optimal schedule solution based on cancelation risk of elective surgeries as well as OR allocation between elective and nonelective surgeries. First, chi-square test and random forest prediction modeling were used to predict potential elective surgeries with high cancelation risk, and the factors, including surgeon, number of days since admission of patient, first surgery or not, etc., that influence elective surgery cancelation were identified. Second, a simulation technology was designed to compare 7 different scheduling strategies. The results demonstrated that for elective surgery, cancelation rate low surgery first outperformed the others and increased the productivity of the ORs from 72% to 83%, while for nonelective surgery performed in a separate OR, there was no improvement because the supply was greater than necessary at present. However, in total, the selected strategies led to 7% higher productivity.
+ER  - 
+
+TY  - JOUR
+T1  - Development of a Robust Multicriteria Classification Model for Monitoring the Postoperative Behaviour of Heart Patients
+AU  - Doumpos, Michael
+AU  - Xidonas, Panagiotis
+AU  - Xidonas, Sotirios
+AU  - Siskos, Yannis
+Y1  - 2016/01/04
+PY  - 2016
+DA  - 2016/01/04
+N1  - https://doi.org/10.1002/mcda.1547
+DO  - https://doi.org/10.1002/mcda.1547
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 15
+EP  - 27
+VL  - 23
+IS  - 1-2
+KW  - multiple criteria analysis
+KW  - health care
+KW  - disaggregation analysis
+KW  - multicriteria classification
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1547
+UR  - https://doi.org/10.1002/mcda.1547
+Y2  - 2020/11/10
+N2  - Abstract Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia occurring in 2% of the general population, while the assuming projected incidence in 2050 will rise to 4.3%. This paper presents a multicriteria methodology for the development of a model for monitoring the post-operative behaviour of patients who have received treatment for AF. The model classifies the patients in seven categories according to their relapse risk, on the basis of seven criteria related to the AF type and pathology conditions, the treatment received by the patients and their medical history. The analysis is based on an extension of the UTilités Additives DIScriminantes (UTADIS) method, through the introduction of a two-stage model development procedure that minimizes the number and the magnitude of the misclassifications. The analysis is based on a sample of 116 patients who had pulmonary veins isolation in a Greek public hospital. The classification accuracy of the best fitted models scores between 71% and 84%. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Supplier Rationalization: A Sourcing Decision Model
+AU  - Talluri, Srinivas
+AU  - DeCampos, Hugo A.
+AU  - Hult, G. Tomas M.
+Y1  - 2013/02/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+DO  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 57
+EP  - 86
+VL  - 44
+IS  - 1
+KW  - Data Envelopment Analysis (DEA)
+KW  - Strategic Sourcing
+KW  - Supply Base Rationalization
+KW  - Supplier Performance Diversity
+KW  - Supplier Selection
+KW  - Supply Risk Management
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+UR  - https://doi.org/10.1111/j.1540-5915.2012.00390.x
+Y2  - 2020/11/10
+N2  - ABSTRACT We draw on extant literature on strategic sourcing and supply base rationalization to anchor our argument that measuring supplier performance diversity is germane to executing an effective supply base rationalization strategy. We explicate how a novel approach to data envelopment analysis (DEA) efficiency assessment can be utilized to measure this performance diversity. More specifically, our methods are anchored in cross efficiency analysis in DEA that allows for evaluating the efficiency of a supplier with respect to the optimal weights (strengths) of its peers. This methodology is applied to an actual supplier dataset of a large multinational telecommunications company in categorizing their supply base into groups for effective supplier rationalization. We conclude that measuring and analyzing the performance diversity within the framework of DEA provides a mechanism for firms to better balance a rationalized and diversified supply base with unique skills.
+ER  - 

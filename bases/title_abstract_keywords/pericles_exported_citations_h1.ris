@@ -1,0 +1,1565 @@
+
+TY  - JOUR
+T1  - Forecasting business failure using two-stage ensemble of multivariate discriminant analysis and logistic regression
+AU  - Li, Hui
+AU  - Sun, Jie
+AU  - Li, Ji-Cai
+AU  - Yan, Xiu-Ying
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - https://doi.org/10.1111/j.1468-0394.2012.00642.x
+DO  - https://doi.org/10.1111/j.1468-0394.2012.00642.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 385
+EP  - 397
+VL  - 30
+IS  - 5
+KW  - credit risk management
+KW  - business failure prediction
+KW  - ensemble of ensembles
+KW  - multivariate discriminant analysis
+KW  - logistic regression
+KW  - principal components analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/j.1468-0394.2012.00642.x
+UR  - https://doi.org/10.1111/j.1468-0394.2012.00642.x
+Y2  - 2020/11/10
+N2  - AbstractA major drawback associated with the use of classical statistical methods for business failure prediction on top of financial distress is their lack of high accuracy rate. This work analyses the use of the two-stage ensemble of multivariate discriminant analysis (MDA) and logit to improve predictive performance of classical statistical methods. All possible ratios are firstly built from the quantities involved and then the three common filters, that is stepwise MDA, stepwise logit, and t-test, are used to choose another three convenient subsets of ratios. Four principal components spaces (PCSs) are, respectively, produced on the four different feature spaces by using principal components analysis. MDA and logit are used to produce predictions on the four PCSs. After that, two levels of ensemble are implemented: one based on predictions inside each of the same type of model (i.e. MDA or logit) and another based on the former two ensembles and one best model. Each of the eight models is weighted on the base of ranking order information of its predictive accuracy in ensemble by majority voting. MDA and logit and the new challenge model of support vector machine respectively in their best standalone modes are used for comparisons. Empirical results indicate that the two-stage ensemble of MDA and logit compares favourably with the three comparative models and all its component models.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of the correlation model, the trend model, and the number of training points on the accuracy of Kriging metamodels
+AU  - Acar, Erdem
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - https://doi.org/10.1111/j.1468-0394.2012.00646.x
+DO  - https://doi.org/10.1111/j.1468-0394.2012.00646.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 418
+EP  - 428
+VL  - 30
+IS  - 5
+KW  - accuracy
+KW  - Kriging metamodel
+KW  - ensemble
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/j.1468-0394.2012.00646.x
+UR  - https://doi.org/10.1111/j.1468-0394.2012.00646.x
+Y2  - 2020/11/10
+N2  - AbstractThis paper explores the effects of the correlation model, the trend model, and the number of training points on the accuracy of Kriging metamodels. Gaussian correlation models are found to be superior to exponential and linear correlation models. No particular trend model is found to be better than the other models. The number of training points used in constructing the Kriging metamodels is observed to change the relative performances of the trend and the correlation functions. The leave-one-out cross-validation error is found to become a better surrogate for the actual error, as the number of training points is increased. Finally, the use of an ensemble of metamodels is discussed and it is found that using an ensemble may improve the accuracy.
+ER  - 
+
+TY  - JOUR
+T1  - A valedictory for Expert Systems print edition
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - https://doi.org/10.1111/exsy.12050
+DO  - https://doi.org/10.1111/exsy.12050
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 381
+EP  - 384
+VL  - 30
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12050
+UR  - https://doi.org/10.1111/exsy.12050
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Expert systems: Special issue on “New trends and Innovations in Intelligent Distributed Computing”
+AU  - Camacho, David
+AU  - Novais, Paulo
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1111/exsy.12333
+DO  - https://doi.org/10.1111/exsy.12333
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12333
+VL  - 35
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12333
+UR  - https://doi.org/10.1111/exsy.12333
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Development of a fuzzy decision support framework for complex multi-attribute decision problems: A case study for the selection of skilful basketball players
+AU  - Ballı, Serkan
+AU  - Korukoğlu, Serdar
+Y1  - 2014/02/01
+PY  - 2014
+DA  - 2014/02/01
+N1  - https://doi.org/10.1111/exsy.12002
+DO  - https://doi.org/10.1111/exsy.12002
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 56
+EP  - 69
+VL  - 31
+IS  - 1
+KW  - Decision support framework
+KW  - fuzzy logic
+KW  - fuzzy analytic hierarchy process
+KW  - TOPSIS
+KW  - player selection
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12002
+UR  - https://doi.org/10.1111/exsy.12002
+Y2  - 2020/11/10
+N2  - Abstract The selection of skilful players is a complicated process due to the problem criteria consisting of both qualitative and quantitative attributes as well as vague linguistic terms. This study seeks to develop a decision support framework for the selection of candidates eligible to become basketball players through the use of a fuzzy multi-attribute decision making (MADM) algorithm. The proposed model is based on fuzzy analytic hierarchy process (FAHP) and Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) methods. The model was employed in the Youth and Sports Center of Mugla, Turkey, with the participation of seven junior basketball players aged between 7 and 14. In the present study, physical fitness measurement values and observation values of technical skills were utilized. FAHP was used to determine the weights of the criteria and the observation values of technical skills by decision makers. Physical fitness measurement values were converted to fuzzy values by using a fuzzy set approach. Subsequently, the overall ranking of the candidate players was determined by the TOPSIS method. Results were compared with human experts? opinions. It is observed that the developed model is more reliable to be used in decision making. The model architecture and experimental results along with illustrative examples are further demonstrated in the study.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation and development of sustainable urban land use plans through spatial optimization
+AU  - Yao, Jing
+AU  - Murray, Alan T.
+AU  - Wang, Jing
+AU  - Zhang, Xiaoxiang
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - https://doi.org/10.1111/tgis.12531
+DO  - https://doi.org/10.1111/tgis.12531
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 705
+EP  - 725
+VL  - 23
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12531
+UR  - https://doi.org/10.1111/tgis.12531
+Y2  - 2020/11/10
+N2  - Abstract Along with rapid global urbanization, cities are challenged by environmental risks and resource scarcity. Sustainable urban planning is central to address the dilemma of economic growth and ecosystem protection, where the use of land is critical. Sustainable land use patterns are spatially explicit in nature, and can be structured and addressed using spatial optimization integrating GIS and mathematical models. This research discusses prominent sustainability concerns in land use planning and suggests a generalized multi-objective spatial optimization model to facilitate conventional planning. The model is structured to meet land use demand while satisfying the requirements of the physical environment, society and economy. Unlike existing work relying on raster data, due to its simple data structure and ease of spatial relationship evaluation, this research develops an approach for identifying land use solutions based on vector data that better reflects the actual shape and spatial layout of land parcels as well as the ways land use information is managed in practice. An evolutionary algorithm is developed to find the set of efficient (Pareto) solutions given the complexity of vector-based representations of space. The proposed approach is applied in an empirical study of Dafeng, China in order to support local urban growth and development. The results demonstrate that spatial optimization can be a powerful tool for deriving effective and efficient land use planning strategies. A comparison to results using a raster data approach supports the superiority of land use optimization using vector data as part of planning practice.
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent Information-Centric Networking routing scheme under imprecise information
+AU  - Zhang, Lingling
+AU  - Lv, Jianhui
+Y1  - 2019/07/10
+PY  - 2019
+DA  - 2019/07/10
+N1  - https://doi.org/10.1002/dac.3952
+DO  - https://doi.org/10.1002/dac.3952
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e3952
+VL  - 32
+IS  - 10
+KW  - green internet
+KW  - imprecise information
+KW  - information-centric networking
+KW  - intelligent drops algorithm
+KW  - quality of service
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.3952
+UR  - https://doi.org/10.1002/dac.3952
+Y2  - 2020/11/10
+N2  - Summary Information-Centric Networking (ICN) has been accepted to overcome some weaknesses of the current Internet architecture, showing that ?what is being exchanged? is more important than ?who are exchanging information.? Given the inadequate considerations on Quality of Service (QoS) and energy saving in ICN routing, we propose in this paper a routing algorithm to enhance the two aspects. At first, on one hand, Cauchy distribution is used as a fuzzy model to evaluate users' QoS requirements, such as bandwidth, delay, and error rate; on the other hand, we formulate energy saving problem to evaluate the green quality of routing algorithm. Then, we design a link selection approach by considering QoS and energy saving, which belongs to a multi-objective decision problem resolved by intelligent drops algorithm. Finally, we implement the proposed algorithm and compare it with the famous adaptive forwarding mechanism in terms of some significant metrics, and the experimental results reveal that the proposed algorithm is more efficient.
+ER  - 
+
+TY  - JOUR
+T1  - Robust Prioritization of Climate Change Adaptation Strategies Using the VIKOR Method with Objective Weights
+AU  - Kim, Yeonjoo
+AU  - Chung, Eun-Sung
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - https://doi.org/10.1111/jawr.12291
+DO  - https://doi.org/10.1111/jawr.12291
+T2  - JAWRA Journal of the American Water Resources Association
+JF  - JAWRA Journal of the American Water Resources Association
+JO  - JAWRA Journal of the American Water Resources Association
+JA  - J Am Water Resour Assoc
+SP  - 1167
+EP  - 1182
+VL  - 51
+IS  - 5
+KW  - climate change scenarios
+KW  - entropy
+KW  - robust prioritization
+KW  - VIKOR
+PB  - John Wiley & Sons, Ltd
+SN  - 1093-474X
+M3  - https://doi.org/10.1111/jawr.12291
+UR  - https://doi.org/10.1111/jawr.12291
+Y2  - 2020/11/10
+N2  - Abstract This study proposes a robust prioritization framework for climate change adaptation strategies under uncertain climate change scenarios, using the VIseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR) method, a multi-criteria decision-making approach, together with the Shannon entropy-based weights. The VIKOR method allows us to find a compromise solution between two decision strategies of maximizing group utility and minimizing individual regret, and the Shannon entropy is used to determine objective weights among multiple climate change scenarios. The proposed methodology was applied to the problem of selecting locations of subwatersheds for reusing treated wastewater (TWW) in a Korean urban watershed. Selected based on the sustainability concept, hydro-environmental and socioeconomic indicators were used to evaluate the sustainability of TWW reuse under multiple climate change scenarios, using the hydrologic simulation model results and statistical data. Finally, sustainability scores under multiple scenarios were aggregated using the VIKOR together with the Shannon entropy-based weights for the robust prioritization of adaptation strategies. According to the different levels of regret aversion or affinity, our results for water quality showed different sets of adaptation strategies as the best options, suggesting that our framework would help stakeholders seeking the robust options considering both the utility and regret.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-criteria manufacturability indices for ranking high-concentration monoclonal antibody formulations
+AU  - Yang, Yang
+AU  - Velayudhan, Ajoy
+AU  - Thornhill, Nina F.
+AU  - Farid, Suzanne S.
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - https://doi.org/10.1002/bit.26329
+DO  - https://doi.org/10.1002/bit.26329
+T2  - Biotechnology and Bioengineering
+JF  - Biotechnology and Bioengineering
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+SP  - 2043
+EP  - 2056
+VL  - 114
+IS  - 9
+KW  - data mining
+KW  - high-concentration mAb formulation
+KW  - manufacturability index
+KW  - viscosity
+KW  - aggregation
+KW  - developability assessment
+PB  - John Wiley & Sons, Ltd
+SN  - 0006-3592
+M3  - https://doi.org/10.1002/bit.26329
+UR  - https://doi.org/10.1002/bit.26329
+Y2  - 2020/11/10
+N2  - ABSTRACT The need for high-concentration formulations for subcutaneous delivery of therapeutic monoclonal antibodies (mAbs) can present manufacturability challenges for the final ultrafiltration/diafiltration (UF/DF) step. Viscosity levels and the propensity to aggregate are key considerations for high-concentration formulations. This work presents novel frameworks for deriving a set of manufacturability indices related to viscosity and thermostability to rank high-concentration mAb formulation conditions in terms of their ease of manufacture. This is illustrated by analyzing published high-throughput biophysical screening data that explores the influence of different formulation conditions (pH, ions, and excipients) on the solution viscosity and product thermostability. A decision tree classification method, CART (Classification and Regression Tree) is used to identify the critical formulation conditions that influence the viscosity and thermostability. In this work, three different multi-criteria data analysis frameworks were investigated to derive manufacturability indices from analysis of the stress maps and the process conditions experienced in the final UF/DF step. Polynomial regression techniques were used to transform the experimental data into a set of stress maps that show viscosity and thermostability as functions of the formulation conditions. A mathematical filtrate flux model was used to capture the time profiles of protein concentration and flux decay behavior during UF/DF. Multi-criteria decision-making analysis was used to identify the optimal formulation conditions that minimize the potential for both viscosity and aggregation issues during UF/DF. Biotechnol. Bioeng. 2017;114: 2043?2056. ? 2017 The Authors. Biotechnology and Bioengineering Published by Wiley Perodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - A new expert system for learning management systems evaluation based on neutrosophic sets
+AU  - M. Radwan, Nouran
+AU  - Senousy, M. Badr
+AU  - M. Riad, Alaa El Din
+Y1  - 2016/12/01
+PY  - 2016
+DA  - 2016/12/01
+N1  - https://doi.org/10.1111/exsy.12170
+DO  - https://doi.org/10.1111/exsy.12170
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 548
+EP  - 558
+VL  - 33
+IS  - 6
+KW  - expert system
+KW  - knowledge base
+KW  - Learning Management Systems
+KW  - neutrosophic logic
+KW  - system quality
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12170
+UR  - https://doi.org/10.1111/exsy.12170
+Y2  - 2020/11/10
+N2  - Abstract There has been a sudden increase in the usage of Learning Management Systems applications to support learner's learning process in higher education. Many studies in learning management system evaluation are implemented under complete information, while the real environment has uncertainty aspects. As these systems were described by development organizations with uncertainty terms such as vague, imprecise, ambiguity and inconsistent, that is why traditional evaluation methods may not be effective. This paper suggests neutrosophic logic as a better option to simulate human thinking than fuzzy logic because unlike fuzzy logic, it is able to handle indeterminacy of information which expresses the percentage of unknown parameters. As previous studies suggested neutrosophic decision maker and neutrosophic expert systems as future work in ecommerce and e-learning applications, this paper presents neutrosphic expert system for learning management systems evaluation. Information for building and validating the neutrosophic expert system is collected from five experts using surveys, and then analysis is done by using Fuzzytech 5.54d software. Finally, the comparison between fuzzy expert system and neutrosophic expert system results show that the neutrosophic logic is capable of representing uncertainty in human thinking for evaluating Learning Management Systems.
+ER  - 
+
+TY  - JOUR
+T1  - A new DEA-based method for fully ranking all decision-making units
+AU  - Du, Juan
+AU  - Liang, Liang
+AU  - Yang, Feng
+AU  - Bi, Gong-Bing
+AU  - Yu, Xiao-Bo
+Y1  - 2010/11/01
+PY  - 2010
+DA  - 2010/11/01
+N1  - https://doi.org/10.1111/j.1468-0394.2010.00553.x
+DO  - https://doi.org/10.1111/j.1468-0394.2010.00553.x
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+SP  - 363
+EP  - 373
+VL  - 27
+IS  - 5
+KW  - data envelopment analysis (DEA)
+KW  - decision-making units (DMUs)
+KW  - performance evaluation
+KW  - ranking
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/j.1468-0394.2010.00553.x
+UR  - https://doi.org/10.1111/j.1468-0394.2010.00553.x
+Y2  - 2020/11/10
+N2  - Abstract: Decision makers always lay great emphasis on performance evaluation upon a group of peer business units to pick out the best performer. Standard data envelopment analysis models can evaluate the relative efficiency of decision-making units (DMUs) and distinguish efficient ones from inefficient ones. However, when there are more than one efficient DMU, it is impossible to rank all of them solely according to standard efficiency scores. In this paper, a new method for fully ranking all DMUs is proposed, which is based on the combination of each efficient DMU's influence on all the other DMUs and the standard efficiency scores. This method is effective in helping decision makers differentiate all units' performance thoroughly and select the best performer.
+ER  - 
+
+TY  - JOUR
+T1  - Memetic optimization algorithm applied to design microwave amplifier for the specific gain value constrained by the minimum noise over the available bandwidth
+AU  - Cengiz, Yavuz
+AU  - Kiliç, Ulaş
+Y1  - 2010/09/01
+PY  - 2010
+DA  - 2010/09/01
+N1  - https://doi.org/10.1002/mmce.20460
+DO  - https://doi.org/10.1002/mmce.20460
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF and Microwave Comp Aid Eng
+SP  - 546
+EP  - 556
+VL  - 20
+IS  - 5
+KW  - gain
+KW  - noise figure
+KW  - input VSWR
+KW  - memetic algorithm optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 1096-4290
+M3  - https://doi.org/10.1002/mmce.20460
+UR  - https://doi.org/10.1002/mmce.20460
+Y2  - 2020/11/10
+N2  - Abstract In this work, the neural performance and fuzzy logic data sheets of the transistor are used to determine the feasible design target space in the optimization of a microwave amplifier. The compatible (Noise F, Input VSWR Vi, Gain GT) triplets and their (ZS, ZL) terminations of a microwave transistor are exploited for an amplifier design with the minimum noise Fmin(f), required gain GTreq(f), and a low input VSWR Vi over the available bandwidth. The multi-objective design procedure is obtained from ZS(f), ZL(f) terminations with the unit-elements and short-circuited stubs in the L+L configurations and memetic optimization algorithm is successfully implemented as an optimization tool. A typical design example is given with its challenging performance in the simple L+L configurations realizable by the microstrip line technology. ? 2010 Wiley Periodicals, Inc. Int J RF and Microwave CAE, 2010.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-Objective Molecular De Novo Design by Adaptive Fragment Prioritization
+AU  - Reutlinger, Michael
+AU  - Rodrigues, Tiago
+AU  - Schneider, Petra
+AU  - Schneider, Gisbert
+Y1  - 2014/04/14
+PY  - 2014
+DA  - 2014/04/14
+N1  - https://doi.org/10.1002/anie.201310864
+DO  - https://doi.org/10.1002/anie.201310864
+T2  - Angewandte Chemie International Edition
+JF  - Angewandte Chemie International Edition
+JO  - Angewandte Chemie International Edition
+JA  - Angew. Chem. Int. Ed.
+SP  - 4244
+EP  - 4248
+VL  - 53
+IS  - 16
+KW  - computer-assisted drug design
+KW  - GPCR
+KW  - machine learning
+KW  - polypharmacology
+KW  - reductive amination
+PB  - John Wiley & Sons, Ltd
+SN  - 1433-7851
+M3  - https://doi.org/10.1002/anie.201310864
+UR  - https://doi.org/10.1002/anie.201310864
+Y2  - 2020/11/10
+N2  - Abstract We present the development and application of a computational molecular de novo design method for obtaining bioactive compounds with desired on- and off-target binding. The approach translates the nature-inspired concept of ant colony optimization to combinatorial building block selection. By relying on publicly available structure?activity data, we developed a predictive quantitative polypharmacology model for 640 human drug targets. By taking reductive amination as an example of a privileged reaction, we obtained novel subtype-selective and multitarget-modulating dopamine D4 antagonists, as well as ligands selective for the sigma-1 receptor with accurately predicted affinities. The nanomolar potencies of the hits obtained, their high ligand efficiencies, and an overall success rate of 90?% demonstrate that this ligand-based computer-aided molecular design method may guide target-focused combinatorial chemistry.
+ER  - 
+
+TY  - JOUR
+T1  - Sustainable personnel scheduling supported by an artificial neural network model in a natural gas combined cycle power plant
+AU  - Özder, Emir Hüseyin
+AU  - Özcan, Evrencan
+AU  - Eren, Tamer
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1002/er.5480
+DO  - https://doi.org/10.1002/er.5480
+T2  - International Journal of Energy Research
+JF  - International Journal of Energy Research
+JO  - International Journal of Energy Research
+JA  - Int J Energy Res
+SP  - 7525
+EP  - 7547
+VL  - 44
+IS  - 9
+KW  - analytic network process
+KW  - artificial neural network
+KW  - goal programming
+KW  - natural gas combined cycle power plant
+KW  - skill-based personnel scheduling
+PB  - John Wiley & Sons, Ltd
+SN  - 0363-907X
+M3  - https://doi.org/10.1002/er.5480
+UR  - https://doi.org/10.1002/er.5480
+Y2  - 2020/11/10
+N2  - Summary Despite the impact of personnel scheduling on the sustainability of production processes, it is a rarely studied problem in the electricity generation sector, whose main purpose is sustainable energy generation. From this point of view, personnel scheduling problem is handled in this study based on the impact of this problem, which focuses on fair and balanced job distribution according to the personnel qualifications, on the sustainable generation in the power plants. With its advantages such as ease of operation and maintenance, fast commissioning, lower greenhouse gas emissions compared to other fossil fuels and etc. one of the biggest Natural Gas Combined Cycle Power Plant (NGCCPP) in Turkey is chosen as application area. The main purpose of the study is to demonstrate the effect of fair, balanced and competency-based personnel scheduling on generation stoppages resulting from personnel planning in power plants, which have great importance in energy supply security of the countries. This study is the first in the literature in terms of three different aspects. Firstly, in the energy sector, it is different in that it is a personnel scheduling study that takes into consideration the job assignment of the personnel according to their abilities and minimizes costs. Secondly, the large size of the problem is different from that of previous studies in the literature. Finally, the number of personnel employed in this generation facility varies according to the season. At this point, the past generation data are analyzed using an Artificial Neural Network (ANN) method and an estimation is made, and personnel scheduling is performed in the light of this information. Consequently, the proposed multi-objective mathematical model supported with multi-criteria decision making and ANN, shutdown rate of the power plant due to operator error is reduced 67.3%, and personnel satisfaction level is increased from 42% to 89%as solution.
+ER  - 
+
+TY  - JOUR
+T1  - How to deal with QoS value constraints in MCDM based Web service selection
+AU  - Serrai, Walid
+AU  - Abdelli, Abdelkrim
+AU  - Mokdad, Lynda
+AU  - Serrai, Ashref
+Y1  - 2019/12/25
+PY  - 2019
+DA  - 2019/12/25
+N1  - https://doi.org/10.1002/cpe.4512
+DO  - https://doi.org/10.1002/cpe.4512
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4512
+VL  - 31
+IS  - 24
+KW  - MCDM
+KW  - normalization
+KW  - QoS criteria
+KW  - RIM
+KW  - SAW
+KW  - TOPSIS
+KW  - value constraints
+KW  - VIKOR
+KW  - Web service selection
+KW  - WPM
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.4512
+UR  - https://doi.org/10.1002/cpe.4512
+Y2  - 2020/11/10
+N2  - Summary The aim of the current research is to develop a more accurate Web service selection approach that can deal with value constraints on QoS criteria in the user request. The purpose is to be able to promote services even when all the value constraints are not satisfied and hence rank them according to their closeness to meet the latter. For this effect, we use MCDM (Multi Criteria Decision making) methods together with suitable normalization techniques at different stages of the process. First of all, we consider an extension of the AHP method to compute and normalize the weights associated with the QoS criteria considered in the Web service selection. Second, we introduce a more consistent normalization technique, called OMRI, to normalize data according to value constraints. Third, we propose to extend different ranking MCDM methods to the OMRI normalization so that it becomes possible for them to cope with value constraints. The considered methods are SAW, TOPSIS, VIKOR, and WPM. To compare the accuracy of the extended ranking methods, we use the Borda compromise solution together with different similarity ratios. To validate the solution, several experiments have been conducted on a real dataset as well as on an artificial one.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehensive multi-objective model to remote sensing data processing task scheduling problem
+AU  - Xing, Lining
+AU  - Li, Wen
+AU  - He, Minfan
+AU  - Tan, Xu
+Y1  - 2017/12/25
+PY  - 2017
+DA  - 2017/12/25
+N1  - https://doi.org/10.1002/cpe.4248
+DO  - https://doi.org/10.1002/cpe.4248
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat: Pract Exper
+SP  - e4248
+VL  - 29
+IS  - 24
+KW  - ant colony optimization
+KW  - comprehensive model
+KW  - remote sensing data processing
+KW  - scheduling problem
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.4248
+UR  - https://doi.org/10.1002/cpe.4248
+Y2  - 2020/11/10
+N2  - Summary Scientific scheduling of limited resource plays an important role in the remote sensing data processing. The remote sensing data processing task scheduling is characterized as one novel comprehensive multi-objective model. In this proposed model, the remote sensing data processing task scheduling problem is divided into task dispensation and task scheduling sub-problem with hundreds of variables being considered in it. In order to effectively solve this problem, Bayes belief model is applied to generate the initial dispensation plan, and learnable ant colony optimization is proposed to solve task scheduling sub-problem. Experimental results suggest that the proposed comprehensive multi-objective model and its solving methods are feasible and efficient to remote sensing data processing task scheduling, and it also promotes processing centers interoperability among heterogeneous and dispersed processing center. The model and the method of this paper can provide a valuable reference for solving other complex scheduling problem.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing the competitiveness of insurance corporations using fuzzy correlation analysis and improved fuzzy modified TOPSIS
+AU  - Chen, Shang-Yu
+AU  - Lu, Chung-Cheng
+Y1  - 2015/06/01
+PY  - 2015
+DA  - 2015/06/01
+N1  - https://doi.org/10.1111/exsy.12099
+DO  - https://doi.org/10.1111/exsy.12099
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 392
+EP  - 404
+VL  - 32
+IS  - 3
+KW  - Insurance marketing
+KW  - performance evaluation
+KW  - improved fuzzy modified TOPSIS
+KW  - fuzzy AHP
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12099
+UR  - https://doi.org/10.1111/exsy.12099
+Y2  - 2020/11/10
+N2  - Abstract To obtain greater profit, insurance firms not only need to provide attractive insurance products but also effectively promote their products. A growing number of insurance companies have thus heavily invested in marketing. Therefore, the proposed assessment framework integrates the fuzzy analytical hierarchy process and the improved fuzzy modified technique for order preference by similarity to the ideal solution (improved fuzzy modified TOPSIS) to acquire the efficiency scores of the alternatives (i.e. insurance companies) being evaluated. The improved fuzzy modified TOPSIS computes efficiency scores of insurance companies based on the Mahalanobis distances, taking into account the fuzzy correlations between the indicators and the weighted distance of fuzzy modified TOPSIS. The advantage of calculating the Mahalanobis distances over the Euclidean distances, which are typically used in the literature, is that the undulation of efficiency scores can be decreased. The assessment criteria have high correlations with each other. This assessment framework is applied to appraise the marketing performance of four major insurance companies in Taiwan. The assessment and comparison results are proved to be consistent with those published by an independent business survey institute.
+ER  - 
+
+TY  - JOUR
+T1  - An approach based on risk to dimensioning virtual organizations
+AU  - Ferreira, Jonathan Emannoel
+AU  - Fiorese, Adriano
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - https://doi.org/10.1111/exsy.12227
+DO  - https://doi.org/10.1111/exsy.12227
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12227
+VL  - 35
+IS  - 1
+KW  - dimensioning
+KW  - method
+KW  - risk analysis
+KW  - virtual organization
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12227
+UR  - https://doi.org/10.1111/exsy.12227
+Y2  - 2020/11/10
+N2  - Abstract In an increasingly competitive market, small and medium enterprises have the temporarily option to divide their core competencies in sub-competences. In fact, this is the purpose of so-called virtual organizations (VOs), which aim to attend a particular goal joining partner forces. However, when these VOs are created, it is necessary to deal with the maximum number of participants involved in the process and the risk involved in these relationships, which should be measured through a well-defined process. This paper aims to present an approach to dimensioning the maximum number of participants involved in the formation of a VO composed of several service providers. This approach is based on the overall risk level of the participants and uses different risk analysis methods to assess the suitable number of participants to be part of a VO.
+ER  - 
+
+TY  - JOUR
+T1  - Determination of the effectiveness of the realization of enterprise business objectives and improvement strategies in an uncertain environment
+AU  - Stefanović, Miladin
+AU  - Tadic, Danijela
+AU  - Arsovski, Slavko
+AU  - Pravdic, Predrag
+AU  - Abadić, Nebojša
+AU  - Stefanović, Nikola
+Y1  - 2015/08/01
+PY  - 2015
+DA  - 2015/08/01
+N1  - https://doi.org/10.1111/exsy.12102
+DO  - https://doi.org/10.1111/exsy.12102
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - 494
+EP  - 506
+VL  - 32
+IS  - 4
+KW  - business objectives
+KW  - effectiveness
+KW  - fuzzy sets
+KW  - fuzzy analytic hierarchy process (FAHP)
+KW  - management initiatives
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12102
+UR  - https://doi.org/10.1111/exsy.12102
+Y2  - 2020/11/10
+N2  - Abstract This study determines the effectiveness of business objectives and key performance indicators (KPIs) of the identified business objectives for different types of enterprise. The evaluations of the relative importance of KPIs are called a fuzzy group-decision-making problem. The KPI weights are determined using the fuzzy analytic hierarchical process. The effectiveness of business objectives and KPIs is determined using the adopted Balanced Scorecard Designer Pro. Determination of the KPI rank with respect to each enterprise type is on the basis of Pareto analysis. The priority of management initiatives of the improvement strategy corresponds to the calculated rank, and it has a critical effect on the competitive advantage of any enterprise. The results discuss manufacturing, public and service enterprises, which exist in central Serbia. The proposed approach can also be adapted to different businesses.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation and selection of medical tourism sites: A rough analytic hierarchy process based multi-attributive border approximation area comparison approach
+AU  - Roy, Jagannath
+AU  - Chatterjee, Kajal
+AU  - Bandyopadhyay, Abhirup
+AU  - Kar, Samarjit
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - https://doi.org/10.1111/exsy.12232
+DO  - https://doi.org/10.1111/exsy.12232
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12232
+VL  - 35
+IS  - 1
+KW  - medical tourism
+KW  - multiple criteria decision-making
+KW  - R-AHP
+KW  - R-MABAC
+KW  - rough number
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12232
+UR  - https://doi.org/10.1111/exsy.12232
+Y2  - 2020/11/10
+N2  - Abstract This paper presents a novel Multiple Criteria Decision Making methodology for assessing and prioritizing medical tourism destinations under uncertainty. A systematic evaluation and assessment approach is proposed by incorporating analytic hierarchy process and multi-attributive border approximation area comparison methods in the rough environment. Rough number is used to aggregate individual judgements of decision makers and express their true perception to handle vagueness without any prior information. Rough analytic hierarchy process analyses the relative importance of criteria based on their preferences given by experts, whereas rough multi-attributive border approximation area comparison evaluates the alternative sites based on the criteria weights. A case study of prioritizing different sites (cities) in India for medical tourism services is shown to demonstrate the applicability of the proposed method. Among different criteria ?quality of infrastructure of healthcare institutions? is observed to be the most important criteria in our analysis, followed by ?supply of skilled human resources and new job creations? and ?Chennai? is found to be the best medical tourism site in India. Finally, a comparative analysis and validity testing of the proposed method are elaborated, and the methodology provides a standard for select medical tourism sites on the basis of different criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Algorithms for complex interval-valued q-rung orthopair fuzzy sets in decision making based on aggregation operators, AHP, and TOPSIS
+AU  - Garg, Harish
+AU  - Ali, Zeeshan
+AU  - Mahmood, Tahir
+Y1  - 2020/08/27
+PY  - 2020
+DA  - 2020/08/27
+N1  - https://doi.org/10.1111/exsy.12609
+DO  - https://doi.org/10.1111/exsy.12609
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12609
+VL  - n/a
+IS  - n/a
+KW  - complex interval-valued intuitionistic fuzzy sets
+KW  - complex interval-valued q-rung orthopair fuzzy sets
+KW  - interval-valued Pythagorean fuzzy sets
+KW  - interval-valued q-rung orthopair fuzzy sets
+KW  - q-rung orthopair fuzzy sets
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12609
+UR  - https://doi.org/10.1111/exsy.12609
+Y2  - 2020/11/10
+N2  - Abstract The interval-valued q-rung orthopair fuzzy set (IVq-ROFS) and complex fuzzy set (CFS) are two generalizations of the fuzzy set (FS) to cope with uncertain information in real decision making problems. The aim of the present work is to develop the concept of complex interval-valued q-rung orthopair fuzzy set (CIVq-ROFS) as a generalization of interval-valued complex fuzzy set (IVCFS) and q-rung orthopair fuzzy set (q-ROFS), which can better express the time-periodic problems and two-dimensional information in a single set. In this article not only basic properties of CIVq-ROFSs are discussed but also averaging aggregation operator (AAO) and geometric aggregation operator (GAO) with some desirable properties and operations on CIVq-ROFSs are discussed. The proposed operations are the extension of the operations of IVq-ROFS, q-ROFS, interval-valued Pythagorean fuzzy, Pythagorean fuzzy (PF), interval-valued intuitionistic fuzzy, intuitionistic fuzzy, complex q-ROFS, complex PF, and complex intuitionistic fuzzy theories. Further, the Analytic hierarchy process (AHP) and technique for order preference by similarity to ideal solution (TOPSIS) method are also examine based on CIVq-ROFS to explore the reliability and proficiency of the work. Moreover, we discussed the advantages of CIVq-ROFS and showed that the concepts of IVCFS and q-ROFS are the special cases of CIVq-ROFS. Moreover, the flexibility of proposed averaging aggregation operator and geometric aggregation operator in a multi-attribute decision making (MADM) problem are also discussed. Finally, a comparative study of CIVq-ROFSs with pre-existing work is discussed in detail.
+ER  - 
+
+TY  - JOUR
+T1  - Crossing the Death Valley to Transfer Environmental Decision Support Systems to the Water Market
+AU  - Poch, Manel
+AU  - Comas, Joaquim
+AU  - Cortés, Ulises
+AU  - Sànchez-Marrè, Miquel
+AU  - Rodríguez-Roda, Ignasi
+Y1  - 2017/04/01
+PY  - 2017
+DA  - 2017/04/01
+N1  - https://doi.org/10.1002/gch2.201700009
+DO  - https://doi.org/10.1002/gch2.201700009
+T2  - Global Challenges
+JF  - Global Challenges
+JO  - Global Challenges
+JA  - Global Challenges
+SP  - 1700009
+VL  - 1
+IS  - 3
+KW  - adoption
+KW  - death valley
+KW  - development
+KW  - EDSS
+KW  - water
+PB  - John Wiley & Sons, Ltd
+SN  - 2056-6646
+M3  - https://doi.org/10.1002/gch2.201700009
+UR  - https://doi.org/10.1002/gch2.201700009
+Y2  - 2020/11/10
+N2  - Environmental decision support systems (EDSSs) are attractive tools to cope with the complexity of environmental global challenges. Several thoughtful reviews have analyzed EDSSs to identify the key challenges and best practices for their development. One of the major criticisms is that a wide and generalized use of deployed EDSSs has not been observed. The paper briefly describes and compares four case studies of EDSSs applied to the water domain, where the key aspects involved in the initial conception and the use and transfer evolution that determine the final success or failure of these tools (i.e., market uptake) are identified. Those aspects that contribute to bridging the gap between the EDSS science and the EDSS market are highlighted in the manuscript. Experience suggests that the construction of a successful EDSS should focus significant efforts on crossing the death-valley toward a general use implementation by society (the market) rather than on development.
+ER  - 
+
+TY  - JOUR
+T1  - Detecting misinformation in social networks using provenance data
+AU  - Baeth, Mohamed Jehad
+AU  - Aktas, Mehmet S.
+Y1  - 2019/02/10
+PY  - 2019
+DA  - 2019/02/10
+N1  - https://doi.org/10.1002/cpe.4793
+DO  - https://doi.org/10.1002/cpe.4793
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4793
+VL  - 31
+IS  - 3
+KW  - fuzzy analytic hierarchy process
+KW  - misinformation detection
+KW  - provenance data
+KW  - social networks
+KW  - social provenance
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.4793
+UR  - https://doi.org/10.1002/cpe.4793
+Y2  - 2020/11/10
+N2  - Summary In recent years, the credibility of information on social networks has attracted considerable of interest due to its critical role in the spread of information online. In this paper, we argue that the quality of information created on social networks can be analyzed using its provenance data. In particular, we propose an algorithm that assesses information credibility on social networks in order to detect fake or malicious information using a fuzzy analytic hierarchy process to assign proper weights to the proposed metrics. In order to test the usability of the proposed algorithm, we introduce a prototype implementation and test it on a large-scale synthetic social provenance dataset. The initial results reveal a proportional relationship between our proposed distance from positivity algorithm and the provenance graph metrics-based user credibility.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid data envelopment analysis and multi-attribute decision making approach to sustainability assessment
+AU  - Keshavarz, Esmaeil
+AU  - Toloo, Mehdi
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1111/exsy.12347
+DO  - https://doi.org/10.1111/exsy.12347
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12347
+VL  - 37
+IS  - 4
+KW  - CRITIC method
+KW  - cross-efficiency
+KW  - data envelopment analysis
+KW  - selective measure
+KW  - sustainability
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12347
+UR  - https://doi.org/10.1111/exsy.12347
+Y2  - 2020/11/10
+N2  - Abstract The concept of sustainability consists of three main dimensions: environmental, techno-economic, and social. Measuring the sustainability status of a system or technology is a significant challenge, especially when it needs to consider a large number of attributes in each dimension of sustainability. In this study, we first propose a hybrid approach, involving data envelopment analysis (DEA) and a multi-attribute decision making (MADM) methodologies, for computing an index for each dimension of sustainability, and then we define the overall sustainability index as the mean of the three measured indexes. Towards this end, we define new concepts of efficiency and cross-efficiency of order (p,?q) where p and q are the number of inputs and outputs, respectively. For a given (p,?q), we address the problem of finding efficiency of order (p,?q) by developing a novel DEA-based selecting method. Finally, we define the sustainability index as a weighted sum of all possible cross-efficiencies of order (p,?q). Form a computational viewpoint, the proposed selecting model significantly decreases the computational burden in comparison with the successive solving of traditional DEA models. A case study of the electricity-generation technologies in the United Kingdom is taken as a real-world example to illustrate the potential application of our method.
+ER  - 
+
+TY  - JOUR
+T1  - THE KOKEMÄENJOKI RIVER BASIN FLOOD RISK MANAGEMENT PLAN––A NATIONAL PILOT FROM FINLAND IN ACCORDANCE WITH THE EU FLOODS DIRECTIVE
+AU  - Verta, Olli-Matti
+AU  - Triipponen, Juha-Pekka
+Y1  - 2011/12/01
+PY  - 2011
+DA  - 2011/12/01
+N1  - https://doi.org/10.1002/ird.668
+DO  - https://doi.org/10.1002/ird.668
+T2  - Irrigation and Drainage
+JF  - Irrigation and Drainage
+JO  - Irrigation and Drainage
+JA  - Irrig. and Drain.
+SP  - 84
+EP  - 90
+VL  - 60
+IS  - S1
+KW  - flood risk management plan
+KW  - flood risk
+KW  - climate change
+KW  - multi-criteria decision analysis
+KW  - Analyse de décision plan de gestion des risques d'inondation
+KW  - le risque d'inondation
+KW  - le changement climatique
+KW  - multi-critères
+PB  - John Wiley & Sons, Ltd
+SN  - 1531-0353
+M3  - https://doi.org/10.1002/ird.668
+UR  - https://doi.org/10.1002/ird.668
+Y2  - 2020/11/10
+N2  - ABSTRACT The Kokemäenjoki River Basin is the fourth largest in Finland. The city of Pori at the delta of the river is the most significant flood risk area in Finland. The preparation of a flood risk management plan (FRMP) for the Kokemäenjoki River Basin as a national pilot began in 2007 and will be finalised during 2011. The main challenges of the FRMP are the reconciliation of flood risks and various interests in different parts of the river basin, and adaptation to climate change. It has been predicted that climate change will alter the flood dynamics of the Kokemäenjoki River: the highest flow peaks will shift from spring to late autumn and winter and the risk of ice jam floods will increase. Development of the existing early warning systems and adaptive lake regulation practices are the two most important non-structural measures for preventing and mitigating flood damage. A new channel in the mid-river reach would help to manage the increasing winter flows. Also robust structural flood protection measures will be needed in the city of Pori. Nevertheless, close collaboration among authorities, municipalities and water body regulators will be critical in successful flood risk management in the Kokemäenjoki River Basin. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Data agility through clustered edge computing and stream processing
+AU  - Dautov, Rustem
+AU  - Distefano, Salvatore
+AU  - Bruneo, Dario
+AU  - Longo, Francesco
+AU  - Merlino, Giovanni
+AU  - Puliafito, Antonio
+Y1  - 2018/12/03
+PY  - 2018
+DA  - 2018/12/03
+N1  - https://doi.org/10.1002/cpe.5093
+DO  - https://doi.org/10.1002/cpe.5093
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5093
+VL  - n/a
+IS  - n/a
+KW  - cloud computing
+KW  - clustered edge computing
+KW  - data agility
+KW  - edge computing
+KW  - internet of things
+KW  - stream processing
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5093
+UR  - https://doi.org/10.1002/cpe.5093
+Y2  - 2020/11/10
+N2  - Summary The Internet of Things is underpinned by the global penetration of network-connected smart devices continuously generating extreme amounts of raw data to be processed in a timely manner. Supported by Cloud and Fog/Edge infrastructures ? on the one hand, and Big Data processing techniques ? on the other, existing approaches, however, primarily adopt a vertical offloading model that is heavily dependent on the underlying network bandwidth. That is, (constrained) network communication remains the main limitation to achieve truly agile IoT data management and processing. This paper aims to bridge this gap by defining Clustered Edge Computing ? a new approach to enable rapid data processing at the very edge of the IoT network by clustering edge devices into fully functional decentralized ensembles, capable of workload distribution and balancing to accomplish relatively complex computational tasks. This paper also proposes ECStream Processing that implements Clustered Edge Computing using Stream Processing techniques to enable dynamic in-memory computation close to the data source. By spreading the workload among a cluster of collocated edge devices to process data in parallel, the proposed approach aims to improve performance, thereby supporting agile data management. The experimental results confirm that such a distributed in-memory approach to data processing at the very edge of an IoT network can outperform currently adopted Cloud-enabled architectures, and has the potential to address a wide range of IoT-related data-intensive time-critical scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - A New Family of Induced OWA Operators
+AU  - Aggarwal, Manish
+Y1  - 2015/02/01
+PY  - 2015
+DA  - 2015/02/01
+N1  - https://doi.org/10.1002/int.21693
+DO  - https://doi.org/10.1002/int.21693
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 170
+EP  - 205
+VL  - 30
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21693
+UR  - https://doi.org/10.1002/int.21693
+Y2  - 2020/11/10
+N2  - A new family of induced ordered weighted averaging (OWA) operators is proposed by invoking the order-inducing variables at the aggregation step. The objective is to consider the variations in the magnitudes of the order-inducing variables. The new family of operators include weighted induced OWA, weighted generalized induced OWA, and weighted induced ordered weighted geometric operators. These are further extended to the intuitionistic fuzzy domain. The usefulness of these operators is shown in a supplier selection problem.
+ER  - 
+
+TY  - JOUR
+T1  - Multicriteria decision making for sustainable development: A systematic review
+AU  - Kandakoglu, Ahmet
+AU  - Frini, Anissa
+AU  - Ben Amor, Sarah
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/mcda.1682
+DO  - https://doi.org/10.1002/mcda.1682
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 202
+EP  - 251
+VL  - 26
+IS  - 5-6
+KW  - multicriteria decision making or analysis (MCDM/A)
+KW  - sustainable development
+KW  - temporal evaluation
+KW  - uncertainty
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1682
+UR  - https://doi.org/10.1002/mcda.1682
+Y2  - 2020/11/10
+N2  - Abstract Making decisions by integrating social and environmental concerns beyond the financial dimension involves complex decision-making processes in which innovative approaches and best practices need to be implemented. Recently, the literature on decision-making related to sustainable development has grown rapidly, and multiple criteria decision making or analysis (MCDM/A) methods appear to be the most widely used approaches. The general objective of this paper is to provide a systematic review of the literature on the use of MCDM/A in a sustainable development context. We carefully analysed 343 papers dealing with decision-making in sustainable development contexts published in the last 7 years (2010-2017) using MCDM/A methods. Descriptive statistics were provided to highlight the main trends and gaps in the literature, and future research avenues were presented. The results show that although sustainable development strives to achieve a balance between the short and the long term, most articles surveyed did not investigate either the long-term perspective related to sustainable development or the unforeseen events that could impact future project evaluations. Indeed, the need for temporal MCDM/A methods under uncertainty emerges as an important research challenge. In addition, results show that the social dimension was the most frequently ignored dimension. In future research, decision-making processes should closely investigate social well-being and encourage the participation of stakeholders (including the communities affected). Finally, the recent research on sustainability is relatively easy to implement but may not lead to the desired outcome. Future research needs to develop methods that promote sustainability without being overly difficult to implement in practice.
+ER  - 
+
+TY  - JOUR
+T1  - A multi-agent affective interactive MAGDM approach and its applications
+AU  - Peng, Cheng
+AU  - Su, Chong
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1111/exsy.12480
+DO  - https://doi.org/10.1111/exsy.12480
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12480
+VL  - 37
+IS  - 2
+KW  - affective computing
+KW  - multi-agent systems
+KW  - multi-attribute group decision-making (MAGDM)
+KW  - negotiation, consistency
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12480
+UR  - https://doi.org/10.1111/exsy.12480
+Y2  - 2020/11/10
+N2  - Abstract Traditional multi-attribute group decision-making (MAGDM) methods focus on weights calculation of sub-attributes and experts' preferences, but lack the discussion on the decision-makers' affective interaction, and its influence on the decision preference and group consistency. To address this problem, the present study proposed a new multilayer affective computing model based on ?personality?mood?emotion? pattern, under the multi-agent decision system framework. In addition, we introduced the group trending index and affection-preference incentive mechanism, which can help simulate MAGDM process and learn group experts' decision preferences. Further, we proposed a new multi-agent affective interactive MAGDM (MAAI-MAGDM) method, where we defined a novel group convergence index and an alternative decision entropy to explain the convergence process of decision and group consistency. Compared to the traditional MAGDM approaches, the proposed MAAI-MAGDM method fully considered the affective features of each expert, reduced the dependence on aggregation operators and weight analysis, alleviated the workload of group experts, and effectively reduced the complexity of decision-making calculation process. Finally, we verified that the proposed method can effectively assist the decision-making processes by employing two numerical cases.
+ER  - 
+
+TY  - JOUR
+T1  - An Alternative FMEA Method for Simple and Accurate Ranking of Failure Modes
+AU  - Bradley, James R.
+AU  - Guerrero, Héctor H.
+Y1  - 2011/08/01
+PY  - 2011
+DA  - 2011/08/01
+N1  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+DO  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+SP  - 743
+EP  - 771
+VL  - 42
+IS  - 3
+KW  - Collaborative Decision Making
+KW  - Group/Team Decision Making
+KW  - Multi-Criteria Decision Making Methods
+KW  - Organizational Decision Making
+KW  - Process Improvement
+KW  - Quality Management and Systems
+KW  - Systems/Process/Service Design
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+UR  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+Y2  - 2020/11/10
+N2  - ABSTRACT Failure modes and effects analysis (FMEA) is a methodology for prioritizing actions to mitigate the effects of failures in products and processes. Although originally used by product designers, FMEA is currently more widely used in industry in Six Sigma quality improvement efforts. Two prominent criticisms of the traditional application of FMEA are that the risk priority number (RPN) used to rank failure modes is an invalid measure according to measurement theory, and that the RPN does not weight the three decision criteria used in FMEA. Various methods have been proposed to mitigate these concerns, including many using fuzzy logic. We develop a new ranking method in this article using a data-elicitation technique. Furthermore, we develop an efficient means of eliciting data to reduce the effort associated with the new method. Subsequently, we conduct an experimental study to evaluate that proposed method against the traditional method using RPN and against an approach using fuzzy logic.
+ER  - 
+
+TY  - JOUR
+T1  - Decision-making under uncertainty through extending influence diagrams with interval-valued parameters
+AU  - Zhou, Lihua
+AU  - Lü, Kevin
+AU  - Liu, Weiyi
+AU  - Ren, Changchun
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - https://doi.org/10.1111/exsy.12277
+DO  - https://doi.org/10.1111/exsy.12277
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12277
+VL  - 35
+IS  - 4
+KW  - Bayesian networks
+KW  - decision-making
+KW  - influence diagrams
+KW  - interval-valued parameters
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12277
+UR  - https://doi.org/10.1111/exsy.12277
+Y2  - 2020/11/10
+N2  - Abstract Influence diagrams (IDs) are one of the most commonly used graphical and mathematical decision models for reasoning under uncertainty. In conventional IDs, both probabilities representing beliefs and utilities representing preferences of decision makers are precise point-valued parameters. However, it is usually difficult or even impossible to directly provide such parameters. In this paper, we extend conventional IDs to allow IDs with interval-valued parameters (IIDs) and develop a counterpart method of Copper's evaluation method to evaluate IIDs. IIDs avoid the difficulties attached to the specification of precise parameters and provide the capability to model decision-making processes in a situation that the precise parameters cannot be specified. The counterpart method to Copper's evaluation method reduces the evaluation of IIDs into inference problems of Bayesian networks with interval-valued probabilities. An algorithm based on the approximate inference of Bayesian networks with interval-valued probabilities is proposed, and extensive experiments are conducted. The experimental results indicate that the proposed algorithm can find the optimal strategies effectively in IIDs, and the interval-valued expected utilities obtained by proposed algorithm are contained in those obtained by exact evaluating algorithms. The newly development approach would significantly extend the range of IDs for managerial decision support applications where parameters of variables can be specifically defined by only estimated intervals.
+ER  - 
+
+TY  - JOUR
+T1  - An ELECTRE III Based CBR Approach to Combinatorial Portfolio Selection
+AU  - Chanvarasuth, Pisit
+AU  - Boongasame, Laor
+AU  - Boonjing, Veera
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1111/ajfs.12260
+DO  - https://doi.org/10.1111/ajfs.12260
+T2  - Asia-Pacific Journal of Financial Studies
+JF  - Asia-Pacific Journal of Financial Studies
+JO  - Asia-Pacific Journal of Financial Studies
+JA  - Asia Pac J Financ Stud
+SP  - 386
+EP  - 409
+VL  - 48
+IS  - 3
+KW  - Case-Based Reasoning
+KW  - ELECTRE III
+KW  - Multiple criteria decision making
+KW  - Stocks
+KW  - Financial analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 2041-9945
+M3  - https://doi.org/10.1111/ajfs.12260
+UR  - https://doi.org/10.1111/ajfs.12260
+Y2  - 2020/11/10
+N2  - Abstract Investors generally learn from historical data and use it to improve future investment decisions. However, existing portfolio selection research rarely considers such a concept. This paper proposes a novel approach to the combinatorial portfolio selection problem. Our solution employs the Case-Based Reasoning (CBR) approach with ELECTRE III, based on the Industry Classification Benchmark standards. The target stocks are ranked based on their similarities to a reference case, allowing specified selection criteria. Similarities are calculated based on selected ELECTRE III metrics. Experimental results with the Stock Exchange of Thailand data show that our CBR approach with ELECTRE III outperforms the traditional method.
+ER  - 
+
+TY  - JOUR
+T1  - Climate change as a driver of emerging risks for food and feed safety, plant, animal health and nutritional quality
+AU  - European Food Safety Authority (EFSA)
+AU  - Maggiore, Angelo
+AU  - Afonso, Ana
+AU  - Barrucci, Federica
+AU  - Sanctis, Giacomo De
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.2903/sp.efsa.2020.EN-1881
+DO  - https://doi.org/10.2903/sp.efsa.2020.EN-1881
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 1881E
+VL  - 17
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 2397-8325
+M3  - https://doi.org/10.2903/sp.efsa.2020.EN-1881
+UR  - https://doi.org/10.2903/sp.efsa.2020.EN-1881
+Y2  - 2020/11/10
+N2  - Climate change constitutes a relevant driver of emerging risks. While a broad range of forward-looking studies and reports examine the impact of climate change on food security, future challenges for food and feed safety, plant and animal health and nutritional quality are usually not investigated in depth.The CLimate change and Emerging risks for Food SAfety (CLEFSA) project has explored the possibility of: (a) using the specific driver, climate change, for long-term anticipation of multiple emerging risks, using scenarios of climate change; (b) using crowdsourcing and text mining to collect a broad range of signals from a variety of information sources; (c) using a knowledge network of experts from international organisations; (d) designing a Multi-Criteria Decision Analysis tool for characterising signals through a participatory process, in which expert knowledge is used to identify relevant issues from the vast and often incomplete information; (e) developing methodologies and indicators for the analysis of the information available, addressing uncertainty.Climate change and its implications for food safety demand complex scientific study, given the number and diversity of hazards to be considered, the large uncertainties involved and the interconnections between the different areas. The effects of climate change are characterised by a multidisciplinary nature (human?plant?animal health and environmental sciences) and go beyond the recognition of specific emerging risks. CLEFSA has identified numerous issues that are driven by climate change and that may affect food safety in Europe. Climate change has the potential of causing, enhancing or modifying the occurrence and intensity of some food-borne diseases and the establishment of invasive alien species harmful to plant and animal health. It has an impact on the occurrence, intensity and toxicity of blooms of potentially toxic marine and freshwater algae and bacteria, on the dominance and persistence of various parasites, fungi, viruses, vectors and invasive species, harmful to plant and animal health. Climate change is likely to drive the (re)emergence of new hazards, increase the exposure or the susceptibility to known hazards and change the levels of micronutrients and macronutrients in food and feed items. By the very nature of the challenge, this list is inevitably incomplete, and undoubtedly unanticipated surprises await us in the future.
+ER  - 
+
+TY  - JOUR
+T1  - 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus
+AU  - Aringer, Martin
+AU  - Costenbader, Karen
+AU  - Daikh, David
+AU  - Brinks, Ralph
+AU  - Mosca, Marta
+AU  - Ramsey-Goldman, Rosalind
+AU  - Smolen, Josef S.
+AU  - Wofsy, David
+AU  - Boumpas, Dimitrios T.
+AU  - Kamen, Diane L.
+AU  - Jayne, David
+AU  - Cervera, Ricard
+AU  - Costedoat-Chalumeau, Nathalie
+AU  - Diamond, Betty
+AU  - Gladman, Dafna D.
+AU  - Hahn, Bevra
+AU  - Hiepe, Falk
+AU  - Jacobsen, Søren
+AU  - Khanna, Dinesh
+AU  - Lerstrøm, Kirsten
+AU  - Massarotti, Elena
+AU  - McCune, Joseph
+AU  - Ruiz-Irastorza, Guillermo
+AU  - Sanchez-Guerrero, Jorge
+AU  - Schneider, Matthias
+AU  - Urowitz, Murray
+AU  - Bertsias, George
+AU  - Hoyer, Bimba F.
+AU  - Leuchten, Nicolai
+AU  - Tani, Chiara
+AU  - Tedeschi, Sara K.
+AU  - Touma, Zahi
+AU  - Schmajuk, Gabriela
+AU  - Anic, Branimir
+AU  - Assan, Florence
+AU  - Chan, Tak Mao
+AU  - Clarke, Ann Elaine
+AU  - Crow, Mary K.
+AU  - Czirják, László
+AU  - Doria, Andrea
+AU  - Graninger, Winfried
+AU  - Halda-Kiss, Bernadett
+AU  - Hasni, Sarfaraz
+AU  - Izmirly, Peter M.
+AU  - Jung, Michelle
+AU  - Kumánovics, Gábor
+AU  - Mariette, Xavier
+AU  - Padjen, Ivan
+AU  - Pego-Reigosa, José M.
+AU  - Romero-Diaz, Juanita
+AU  - Rúa-Figueroa Fernández, Íñigo
+AU  - Seror, Raphaèle
+AU  - Stummvoll, Georg H.
+AU  - Tanaka, Yoshiya
+AU  - Tektonidou, Maria G.
+AU  - Vasconcelos, Carlos
+AU  - Vital, Edward M.
+AU  - Wallace, Daniel J.
+AU  - Yavuz, Sule
+AU  - Meroni, Pier Luigi
+AU  - Fritzler, Marvin J.
+AU  - Naden, Ray
+AU  - Dörner, Thomas
+AU  - Johnson, Sindhu R.
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/art.40930
+DO  - https://doi.org/10.1002/art.40930
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+SP  - 1400
+EP  - 1412
+VL  - 71
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 2326-5191
+M3  - https://doi.org/10.1002/art.40930
+UR  - https://doi.org/10.1002/art.40930
+Y2  - 2020/11/10
+N2  - Objective To develop new classification criteria for systemic lupus erythematosus (SLE) jointly supported by the European League Against Rheumatism (EULAR) and the American College of Rheumatology (ACR). Methods This international initiative had four phases. 1) Evaluation of antinuclear antibody (ANA) as an entry criterion through systematic review and meta-regression of the literature and criteria generation through an international Delphi exercise, an early patient cohort, and a patient survey. 2) Criteria reduction by Delphi and nominal group technique exercises. 3) Criteria definition and weighting based on criterion performance and on results of a multi-criteria decision analysis. 4) Refinement of weights and threshold scores in a new derivation cohort of 1,001 subjects and validation compared with previous criteria in a new validation cohort of 1,270 subjects. Results The 2019 EULAR/ACR classification criteria for SLE include positive ANA at least once as obligatory entry criterion; followed by additive weighted criteria grouped in 7 clinical (constitutional, hematologic, neuropsychiatric, mucocutaneous, serosal, musculoskeletal, renal) and 3 immunologic (antiphospholipid antibodies, complement proteins, SLE-specific antibodies) domains, and weighted from 2 to 10. Patients accumulating ≥10 points are classified. In the validation cohort, the new criteria had a sensitivity of 96.1% and specificity of 93.4%, compared with 82.8% sensitivity and 93.4% specificity of the ACR 1997 and 96.7% sensitivity and 83.7% specificity of the Systemic Lupus International Collaborating Clinics 2012 criteria. Conclusion These new classification criteria were developed using rigorous methodology with multidisciplinary and international input, and have excellent sensitivity and specificity. Use of ANA entry criterion, hierarchically clustered, and weighted criteria reflects current thinking about SLE and provides an improved foundation for SLE research.
+ER  - 
+
+TY  - JOUR
+T1  - SDN-based Sensitive Information (SI) protection: sensitivity-degree measurement in software and data lifetime supervisor in software defined network
+AU  - Sha, Letian
+AU  - He, Liwen
+AU  - Fu, Jianming
+AU  - Sun, Jing
+AU  - Li, Pengwei
+Y1  - 2016/09/10
+PY  - 2016
+DA  - 2016/09/10
+N1  - https://doi.org/10.1002/sec.1367
+DO  - https://doi.org/10.1002/sec.1367
+T2  - Security and Communication Networks
+JF  - Security and Communication Networks
+JO  - Security and Communication Networks
+JA  - Security Comm. Networks
+SP  - 1944
+EP  - 1957
+VL  - 9
+IS  - 13
+KW  - SDN-based
+KW  - sensitive information
+KW  - sensitivity degree
+KW  - data lifetime
+KW  - TOPSIS
+KW  - AHP
+PB  - John Wiley & Sons, Ltd
+SN  - 1939-0114
+M3  - https://doi.org/10.1002/sec.1367
+UR  - https://doi.org/10.1002/sec.1367
+Y2  - 2020/11/10
+N2  - Abstract With the big-data and mobile Internet era coming, sensitive information (SI) in various applications plays a key role; even more, they can be an important part of the authentication between clients and servers. However, how to measure security or sensitivity degrees of SI is an open issue. Furthermore, no effective method can detect covert channel of SI thieves in Advanced Persistent Threat attacks. To deal with these problems, we propose a new design, called software-defined networking (SDN)-based SI Protection, in which sensitivity degree can be measured by using Analytic Hierarchy Process and Technique for Order Preference by Similarity to an Ideal Solution, and SI covert channel can be detected based on OpenFlow in SDN. To our best knowledge, it is the first defined sensitivity degree for SI and novel flow-table design in SI data flow switch. Most significantly, our proposal can apply integrated semantics of leakage points and accident attacks into security analysis and switch protocol in Operating System or network. To verify our proposal, experimental tests are performed in social network platforms, field test results have demonstrated that this proposal can capture security level for SI as expected, detect any kinds of potential leakage points in data lifetime, describe fine-grained semantics of accidental attacks, and detect illegal data flow of SI in network layer. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Benchmarking the private sector banks in India using MCDM approach
+AU  - Gupta, Sanjay
+AU  - Mathew, Manoj
+AU  - Gupta, Swati
+AU  - Dawar, Vinay
+Y1  - 2020/09/17
+PY  - 2020
+DA  - 2020/09/17
+N1  - https://doi.org/10.1002/pa.2409
+DO  - https://doi.org/10.1002/pa.2409
+T2  - Journal of Public Affairs
+JF  - Journal of Public Affairs
+JO  - Journal of Public Affairs
+JA  - J Public Affairs
+SP  - e2409
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 1472-3891
+M3  - https://doi.org/10.1002/pa.2409
+UR  - https://doi.org/10.1002/pa.2409
+Y2  - 2020/11/10
+N2  - The study aims to rank the performance of Indian private sector banks on the basis of their financial capability. The study is focussed on those banks which are listed in the Bombay Stock Exchange (BSE), for the period from 2014?15 to 2018?19. The financial performance of selected Indian private banks is ranked using a hybrid Multi-Criteria Decision Making (MCDM) technique, that is, AHP-TOPSIS. The Analytical Hierarchy Process (AHP) is used to determine the weights of 10 financial performance pointers, and further Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) is used to provide rankings and benchmarking of the private sector banks. Thereafter, overall ranking is given to the selected banks using interval-valued TOPSIS (IV-TOPSIS) for a combined period of 5?years. Sensitivity analysis has been performed to check the robustness of the method and its impact on the final ranking of the banks. Results showed that HDFC bank is the top performer and is ranked first for all the years consecutively during the period 2014?2019 and has set a financial indicator benchmark for other competitor banks. South Indian Bank showed the worst results in each year and stood last in the overall ranking. The IndusInd bank is followed after HDFC bank by improving its performance from 2014?19. With a slight margin, Kotak Mahindra Bank ranked after IndusInd. Through the AHP-TOPSIS technique, each year the private sector banks ranking differs among themselves depending upon the financial performance pointers. Based on interval-valued TOPSIS (IV-TOPSIS), it was found that the overall HDFC was the top-performing bank and South Indian Bank was the worst-performing bank among all other banks. The results obtained from sensitivity analysis were found to be consistent with IV-TOPSIS. The paper used the AHP technique, which is subjective in nature, and the results depend on the opinion of the experts. This study will assist the investors who want to channelize their funds in private banks having shares enlisted in BSE. It will accommodate banks to compare and judge their financial performance along with improving their performance and planning their future strategy. AHP-TOPSIS utilized by past researchers is unable to bring out the cumulative performance for banks, but in this paper, IV-TOPSIS is utilized, which can be effectively used to evaluate the cumulative performance of banks. The study tries to fill the gap in the literature by providing the overall ranking to private sector banks in India on the basis of financial indicators.
+ER  - 
+
+TY  - JOUR
+T1  - An objective and interactive-information-based feedback mechanism for the consensus-reaching process considering a non-support degree for minority opinions
+AU  - Nie, Ru-xin
+AU  - Tian, Zhang-peng
+AU  - Wang, Jian-qiang
+AU  - Luo, Han-yang
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1111/exsy.12543
+DO  - https://doi.org/10.1111/exsy.12543
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12543
+VL  - 37
+IS  - 5
+KW  - consensus
+KW  - large-scale group decision-making
+KW  - linguistic term sets
+KW  - minority opinion
+KW  - new product development
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12543
+UR  - https://doi.org/10.1111/exsy.12543
+Y2  - 2020/11/10
+N2  - Abstract The consensus-reaching process (CRP) to achieve higher unanimity and ensure common agreement before deriving a final decision has become an important procedure in group decision-making problems. The demand for high-quality decision results has motivated the development of large-scale group decision-making (LGDM). In such cases, the issue of minority opinion has gained awareness due to the related effects on enhancing consensus and decision quality. A minority opinion cannot exert an effect unless the majority attach importance to whether that opinion is supported or not. To reflect the effect of minority opinions on consensus, this paper establishes a LGDM framework with an objective and interactive-information-based feedback mechanism for the CRP. Given the natural forms of human expression, multi-granular linguistic information and a 2-tuple linguistic model are used. First, initial weights are objectively assigned to decision-makers (DMs) to weaken the impact of the majority. Subsequently, a non-support degree function is newly defined to reflect the extent to which other DMs dissent from a minority opinion. More importantly, feedback rules are constructed to make corresponding adjustments to the powers of discourse among all DMs in the attempt to reach consensus. Finally, the proposed three-phase LGDM framework is applied to new product development (NPD), and simulation experiments are conducted based on two algorithms to verify the framework's applicability and feasibility.
+ER  - 
+
+TY  - JOUR
+T1  - Parallel Semi-supervised enhanced fuzzy Co-Clustering (PSEFC) and Rapid Association Rule Mining (RARM) based frequent route mining algorithm for travel sequence recommendation on big social media
+AU  - Suresh Kumar, N.
+AU  - Thangamani, M.
+Y1  - 2019/07/25
+PY  - 2019
+DA  - 2019/07/25
+N1  - https://doi.org/10.1002/cpe.4837
+DO  - https://doi.org/10.1002/cpe.4837
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4837
+VL  - 31
+IS  - 14
+KW  - Multi-Ontology based Points of Interest (MO-POIs)
+KW  - Parallel Semi-supervised enhanced fuzzy Co-Clustering (PSEFC)
+KW  - Rapid Association Rule Mining (RARM)
+KW  - semantic information
+KW  - travel recommendation
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.4837
+UR  - https://doi.org/10.1002/cpe.4837
+Y2  - 2020/11/10
+N2  - Summary In this proposed method, with the aim of resolving the frequent route mining issue, by means of utilizing the Rapid Association Rule Mining (RARM) for frequent route mining, recurrently utilized routes as well as smaller distance routes are mined. As a result, support speedy decision of the route identify more willingly than the standard route optimization. Primarily, Multi-Ontology based Points of Interest (MO-POIs) model is presented that takes the POIs of user design in combination with the semantic info of the individual users. Furthermore, it as well takes another two steps that are along these lines: (1) routes ranking as per the similarity amid user package as well as routes packages are carried out by means of utilizing Parallel Semi-supervised enhanced fuzzy Co-Clustering (PSEFC) as well as (2) route optimizing by Parallel Ant Colony Optimization (PACO) technique in keeping with identical social users' records. The graph model is denoted as the amount of ants in the population of the identical user records. Assess the RARM-PSEFC recommendation system on a set of Flickr images uploaded by users as well as travel POIs in numerous cities and show its efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Security risk assessment and management in chemical plants: Challenges and new trends
+AU  - Khakzad, Nima
+AU  - Martinez, Imee Su
+AU  - Kwon, Hyuck-Myun
+AU  - Stewart, Constantine
+AU  - Perera, Rohan
+AU  - Reniers, Genserik
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - https://doi.org/10.1002/prs.11914
+DO  - https://doi.org/10.1002/prs.11914
+T2  - Process Safety Progress
+JF  - Process Safety Progress
+JO  - Process Safety Progress
+JA  - Proc. Safety Prog.
+SP  - 211
+EP  - 220
+VL  - 37
+IS  - 2
+KW  - security vulnerability assessment
+KW  - chemical plants
+KW  - mutually interactive parameters
+KW  - Bayesian network
+PB  - John Wiley & Sons, Ltd
+SN  - 1066-8527
+M3  - https://doi.org/10.1002/prs.11914
+UR  - https://doi.org/10.1002/prs.11914
+Y2  - 2020/11/10
+N2  - The present study is to point out the outcomes of the Seminar on the Chemical Weapon Convention and Chemical Safety and Security Management for Member States in the Asia Region held by Organization for the Prohibition of Chemical Weapons in Doha, Qatar, in February 2017. The seminar was aimed at supporting chemical safety and security (CSS) management in the chemical industry in Asian countries. Overall goal was to sensitize States Parties to the new approaches that can be adopted in relation to CSS management, with a particular focus on providing assistance to small and medium-sized enterprises. This article reflects the observations made by keynote speakers via their interaction with participants from Asian State Parties during presentations' questions & answers sessions and following workshops. The article is an attempt to highlight the challenges in security risk assessment and management of chemical facilities and discuss some new trends for further improvements. ? 2017 American Institute of Chemical Engineers Process Saf Prog 37: 211?220, 2018
+ER  - 
+
+TY  - JOUR
+T1  - A Dynamic Assessment Method for Urban Eco-environmental Quality Evaluation
+AU  - Kou, Gang
+AU  - Wu, Wenshuai
+AU  - Zhao, Yiyi
+AU  - Peng, Yi
+AU  - Yaw, Nti Emmanuel
+AU  - Shi, Yong
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/01/01
+N1  - https://doi.org/10.1002/mcda.470
+DO  - https://doi.org/10.1002/mcda.470
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 23
+EP  - 38
+VL  - 18
+IS  - 1-2
+KW  - Dynamic Assessment method
+KW  - eco-environmental quality assessment
+KW  - time series data
+KW  - TOPSIS
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.470
+UR  - https://doi.org/10.1002/mcda.470
+Y2  - 2020/11/10
+N2  - ABSTRACT With the rapid development of urbanization, urban environmental problems become a big challenge for urban socio-economic development planning. In this paper, a new Dynamic Assessment method, which integrates technique for order preference by similarity to ideal solution, Entropy weight for time series data analysis, Grey relational analysis and Clustering, is proposed for urban eco-environmental quality assessment of the Yangtze River Delta and Pearl River Delta in China. A sensitivity analysis is also conducted to identify the influence of weight or value changes of factors. The urban eco-environmental quality ranking by the proposed method is consistent with the Chinese city competitiveness rankings in 2009 by the Chinese Academy of Social Sciences. It is much easier and more efficient to obtain the urban eco-environmental quality ranking by the proposed method than by field studies and surveys. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Application of fuzzy measures and interval computation to financial portfolio selection
+AU  - Magoč, Tanja
+AU  - Wang, Xiaojing
+AU  - Modave, François
+Y1  - 2010/07/01
+PY  - 2010
+DA  - 2010/07/01
+N1  - https://doi.org/10.1002/int.20415
+DO  - https://doi.org/10.1002/int.20415
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 621
+EP  - 635
+VL  - 25
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.20415
+UR  - https://doi.org/10.1002/int.20415
+Y2  - 2020/11/10
+N2  - Abstract As many data-driven fields, finance is rich in problems requiring high computational power and intelligent systems techniques. In particular, the problem of selecting an optimal financial portfolio can be conveniently represented as a constrained optimization problem or a decision-making problem. The aim of this paper is to show how to express the optimal portfolio selection problem from a decision-theoretic perspective and show how to address this problem using fuzzy measures and fuzzy integrals. ? 2010 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - A2Cloud-RF: A random forest based statistical framework to guide resource selection for high-performance scientific computing on the cloud
+AU  - Samuel, David
+AU  - Khan, Syeduzzaman
+AU  - Balos, Cody J.
+AU  - Abuelhaj, Zachariah
+AU  - Dutoi, Anthony D.
+AU  - Kari, Chadi
+AU  - Mueller, David
+AU  - Pallipuram, Vivek K.
+Y1  - 2020/07/22
+PY  - 2020
+DA  - 2020/07/22
+N1  - https://doi.org/10.1002/cpe.5942
+DO  - https://doi.org/10.1002/cpe.5942
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5942
+VL  - n/a
+IS  - n/a
+KW  - capacity planning
+KW  - cloud computing
+KW  - cloud framework
+KW  - scientific computing
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5942
+UR  - https://doi.org/10.1002/cpe.5942
+Y2  - 2020/11/10
+N2  - Summary This article proposes a random-forest based A2Cloud framework to match scientific applications with Cloud providers and their instances for high performance. The framework leverages four engines for this task: PERF engine, Cloud trace engine, A2Cloud-ext engine, and the random forest classifier (RFC) engine. The PERF engine profiles the application to obtain performance characteristics, including the number of single-precision (SP) floating-point operations (FLOPs), double-precision (DP) FLOPs, x87 operations, memory accesses, and disk accesses. The Cloud trace engine obtains the corresponding performance characteristics of the selected Cloud instances including: SP floating point operations per second (FLOPS), DP FLOPS, x87 operations per second, memory bandwidth, and disk bandwidth. The A2Cloud-ext engine uses the application and Cloud instance characteristics to generate objective scores that represent the application-to-Cloud match. The RFC engine uses these objective scores to generate two types of random forests to assist users with rapid analysis: application-specific random forests (ARF) and application-class based random forests. The ARF consider only the input application's characteristics to generate a random forest and provide numerical ratings to the selected Cloud instances. To generate the application-class based random forests, the RFC engine downloads the application profiles and scores of previously tested applications that perform similar to the input application. Using these data, the RFC engine creates a random forest for instance recommendation. We exhaustively test this framework using eight real-world applications across 12 instances from different Cloud providers. Our tests show significant statistical agreement between the instance ratings given by the framework and the ratings obtained via actual Cloud executions.
+ER  - 
+
+TY  - JOUR
+T1  - A Mixed-Method Approach to Extracting the Value of Social Media Data
+AU  - Chan, Hing Kai
+AU  - Wang, Xiaojun
+AU  - Lacka, Ewelina
+AU  - Zhang, Min
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - https://doi.org/10.1111/poms.12390
+DO  - https://doi.org/10.1111/poms.12390
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+JO  - Production and Operations Management
+JA  - Prod Oper Manag
+SP  - 568
+EP  - 583
+VL  - 25
+IS  - 3
+KW  - social media
+KW  - mixed-method
+KW  - product innovation
+KW  - business intelligence
+KW  - analytics
+PB  - John Wiley & Sons, Ltd
+SN  - 1059-1478
+M3  - https://doi.org/10.1111/poms.12390
+UR  - https://doi.org/10.1111/poms.12390
+Y2  - 2020/11/10
+N2  - In the last decade, social media platforms have become important communication channels between businesses and consumers. As a result, a lot of consumer-generated data are available online. Unfortunately, they are not fully utilized, partly because of their nature: they are unstructured, subjective, and exist in massive databases. To make use of these data, more than one research method is needed. This study proposes a new, multiple approach to social media data analysis, which counteracts the aforementioned characteristics of social media data. In this new approach the data are first extracted systematically and coded following the principles of content analysis, after a comprehensive literature review has been conducted to guide the coding strategy. Next, the relationships between codes are identified by statistical cluster analysis. These relationships are used in the next step of the analysis, where evaluation criteria weights are derived on the basis of the social media data through probability weighting function. A case study is employed to test the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Using a Structured Approach to Evaluate ICT4D: Healthcare Delivery in Uganda
+AU  - Kivunike, Florence Nameere
+AU  - Ekenberg, Love
+AU  - Danielson, Mats
+AU  - Tusubira, F. F.
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - https://doi.org/10.1002/j.1681-4835.2015.tb00478.x
+DO  - https://doi.org/10.1002/j.1681-4835.2015.tb00478.x
+T2  - The Electronic Journal of Information Systems in Developing Countries
+JF  - The Electronic Journal of Information Systems in Developing Countries
+JO  - The Electronic Journal of Information Systems in Developing Countries
+JA  - The Electronic Journal of Information Systems in Developing Countries
+SP  - 1
+EP  - 16
+VL  - 66
+IS  - 1
+KW  - ICT4D
+KW  - Evaluation
+KW  - Impact
+KW  - Healthcare delivery
+KW  - decision analysis
+KW  - MCDA
+PB  - John Wiley & Sons, Ltd
+SN  - 1681-4835
+M3  - https://doi.org/10.1002/j.1681-4835.2015.tb00478.x
+UR  - https://doi.org/10.1002/j.1681-4835.2015.tb00478.x
+Y2  - 2020/11/10
+N2  - Abstract Using a case from the healthcare delivery sector, we demonstrate how a structured evaluation approach can facilitate the measurement of actual ICT contributions in various contexts. Typically, such are intricate due to the complexities inherent in the environments, making it difficult to evaluate the relationship between ICT and the benefits it intends to achieve to a reasonable degree. The approach suggested in this paper tries to partly remedy some of these complications, by facilitating qualitative data elicitations, aggregation, analysis and evaluation. To make this computationally meaningful, a decision support tool for handling numerically imprecise information is used for the data analysis and evaluation details. The results of this indicate that such an approach makes at least some meaningful input for practitioners and policymakers. In comparison to the qualitative in-depth approaches this approach facilitates a one-point in time assessment, which is less resource intensive, but provides prompt and substantial insight on the development performance of ICT4D initiatives. A similar approach would also be applicable to different sectors, and can utilize a broader scope of criteria, as well as incorporate views from several categories of stakeholders.
+ER  - 
+
+TY  - JOUR
+T1  - Goal Programming: realistic targets for the near future
+AU  - Caballero, Rafael
+AU  - Gómez, Trinidad
+AU  - Ruiz, Francisco
+Y1  - 2009/05/01
+PY  - 2009
+DA  - 2009/05/01
+N1  - https://doi.org/10.1002/mcda.442
+DO  - https://doi.org/10.1002/mcda.442
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J. Multi‐Crit. Decis. Anal.
+SP  - 79
+EP  - 110
+VL  - 16
+IS  - 3‐4
+KW  - Goal Programming
+KW  - multiple objective programming
+KW  - historical survey
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.442
+UR  - https://doi.org/10.1002/mcda.442
+Y2  - 2020/11/10
+N2  - Abstract Goal Programming (GP) can be regarded as one of the most widely used multicriteria decision-making techniques. In this paper, two surveys are carried out. First, the evolution of GP since its birth to the present time, in terms of number of publications, references, journals, etc., has been studied. Second, a more in-depth survey has been carried out, which covers the publications from year 2000 to the present time. All the references are listed, and some conclusions and future research lines have been extracted about the late trends of GP. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Flood risk assessment for Davao Oriental in the Philippines using geographic information system-based multi-criteria analysis and the maximum entropy model
+AU  - Cabrera, Jonathan Salar
+AU  - Lee, Han Soo
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1111/jfr3.12607
+DO  - https://doi.org/10.1111/jfr3.12607
+T2  - Journal of Flood Risk Management
+JF  - Journal of Flood Risk Management
+JO  - Journal of Flood Risk Management
+JA  - J Flood Risk Management
+SP  - e12607
+VL  - 13
+IS  - 2
+KW  - analytic hierarchy process
+KW  - Davao Oriental
+KW  - flood hazard
+KW  - flood risk
+KW  - maximum entropy
+KW  - pluvial flood
+PB  - John Wiley & Sons, Ltd
+SN  - 1753-318X
+M3  - https://doi.org/10.1111/jfr3.12607
+UR  - https://doi.org/10.1111/jfr3.12607
+Y2  - 2020/11/10
+N2  - Abstract The assessments of flood-prone areas and flood risk due to pluvial flooding for Davao Oriental on Mindanao Island in the Philippines were carried out by the analytic hierarchy process (AHP) and maximum entropy (Maxent) models using multiple criteria such as slope, elevation, soil type, rainfall, drainage density, distance to the main channel, and population density. Flood records from 70 survey points were obtained and used to verify the model results. The criteria weights of the top three important factors in the AHP are rainfall (42%), slope (23%), and elevation (15%), whereas those in the Maxent model are elevation (36%), rainfall (23%), and soil (19%). The verification results show that the accuracies of the AHP and Maxent model are 81 and 95.6%, respectively, indicating that both approaches are reliable in flood hazard and risk assessments. Approximately 22% of the total area and approximately 30% of the total population of Davao Oriental are classified as high risk of pluvial flooding in the current situation by the AHP method. This study shows a broad-scale high-level data-driven screening method that can be used to help identify potential hot spots for pluvial flooding for which more detailed numerical modelling studies should be undertaken.
+ER  - 
+
+TY  - JOUR
+T1  - Operations research/management science in the Arab world: historical development
+AU  - Yousef, Darwish Abdulrahman
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/01/01
+N1  - https://doi.org/10.1111/j.1475-3995.2010.00789.x
+DO  - https://doi.org/10.1111/j.1475-3995.2010.00789.x
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+SP  - 53
+EP  - 69
+VL  - 18
+IS  - 1
+KW  - operations research
+KW  - management science
+KW  - developing countries
+KW  - Arab world
+KW  - literature survey
+KW  - history of OR/MS
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/j.1475-3995.2010.00789.x
+UR  - https://doi.org/10.1111/j.1475-3995.2010.00789.x
+Y2  - 2020/11/10
+N2  - Abstract This study aims to review the related literature on operations research (OR)/management science (MS) in the Arab world published during the last three decades. Owing to the nature of this study, an extensive survey of the related literature was conducted and inferences were drawn. The inferences drawn from the literature survey on OR/MS in the Arab world were first, there is a paucity of published real-world applications of OR/MS. Second, there is a lack of published survey-type studies in most Arab countries, except in Jordan, Lebanon, Palestine, Syria, and the United Arab Emirates. Third, the majority of published works on OR/MS were of a conceptual nature. A few papers concerned with OR/MS in the Arab world were published during the 1980s, with a special emphasis on conceptual issues rather than on applied or survey-type studies. The 1990s witnessed an increased number of publications on both survey-type and conceptual studies. Since 2000, the number of publications has increased substantially, mainly through conceptual studies. This study has a number of implications for both practitioners and researchers. Practitioners will be made aware of the applications of OR/MS in the Arab world and the type of problems that have been addressed. This, in turn, might motivate the decision makers and the managers to adopt OR/MS approaches in solving their organizations' problems. As a result, this might increase the usage of OR/MS in this part of the world. Researchers will be able to identify the OR/MS research areas that need more attention in the Arab world. The study mainly covers the studies that are written in English and indexed in non-Arabic databases. Although the Arabic works were not surveyed exhaustively, the author reviewed and included some available OR/MS works written in Arabic. This study is considered as the first work of its type in surveying the scholarly publications pertaining to OR/MS in the Arab world since the 1980s.
+ER  - 
+
+TY  - JOUR
+T1  - Distributed Structures: Digital Tools for Collective Design
+AU  - Mueller, Caitlin
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - https://doi.org/10.1002/ad.2201
+DO  - https://doi.org/10.1002/ad.2201
+T2  - Architectural Design
+JF  - Architectural Design
+JO  - Architectural Design
+JA  - Archit. Design
+SP  - 94
+EP  - 103
+VL  - 87
+IS  - 4
+KW  - Digital Structures research group
+KW  - Massachusetts Institute of Technology (MIT)
+KW  - Cambridge
+KW  - Massachusetts
+KW  - 1972 Louvre exhibition ‘What is Design?’
+KW  - Charles and Ray Eames
+KW  - Galileo
+KW  - structureFIT
+KW  - Stormcloud
+KW  - Rhino
+KW  - Grasshopper
+KW  - 17 rules
+KW  - Renaud Danhaive
+KW  - Pareto frontier
+KW  - Kam-Ming Mark Tam
+KW  - Nathan Brown
+KW  - Abbigayle Horn
+KW  - surrogate modelling
+KW  - distinct design families
+KW  - Stress-line additive manufacturing (SLAM)
+KW  - Daniel Marshall
+KW  - fused deposition modelling (FDM)
+PB  - John Wiley & Sons, Ltd
+SN  - 0003-8504
+M3  - https://doi.org/10.1002/ad.2201
+UR  - https://doi.org/10.1002/ad.2201
+Y2  - 2020/11/10
+N2  - How can structural, functional and fabrication aspirations be most effectively integrated into digital design, without losing its conceptual inventiveness? Over the last few years, the Digital Structures research group at the Massachusetts Institute of Technology has been investigating just that. Group leader Caitlin Mueller here offers an account of its projects. While computationally optimising the design process, they rely on human collaboration in order to evolve the best option from a range of possibilities.
+ER  - 
+
+TY  - JOUR
+T1  - 6.6.3 The Application of the Learning Cycle in the Royal Australian Navy Class Logistics Offices
+AU  - Tyndall, Moya
+AU  - Whitehouse, Tom
+AU  - Woolley, Anthony
+AU  - Turner, Ben
+Y1  - 2001/07/01
+PY  - 2001
+DA  - 2001/07/01
+N1  - https://doi.org/10.1002/j.2334-5837.2001.tb02396.x
+DO  - https://doi.org/10.1002/j.2334-5837.2001.tb02396.x
+T2  - INCOSE International Symposium
+JF  - INCOSE International Symposium
+JO  - INCOSE International Symposium
+JA  - INCOSE International Symposium
+SP  - 961
+EP  - 965
+VL  - 11
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 2334-5837
+M3  - https://doi.org/10.1002/j.2334-5837.2001.tb02396.x
+UR  - https://doi.org/10.1002/j.2334-5837.2001.tb02396.x
+Y2  - 2020/11/10
+N2  - Abstract An overview of the research and development task established to demonstrate the feasibility of applying numerical tools (based on modelling and simulation) to Royal Australian Navy (RAN) capability management is given. Our focus in this task is on the materiel support aspects of the capability management process that are the responsibility of the RAN Class Logistics Offices in the Defence Materiel Organisation. For example, assistance is required in making decisions in resources allocation, maintenance scheduling, spares optimisation and obsolescence management. A learning cycle, which has its foundation in systems thinking and systems engineering, is introduced in this paper as a mechanism for continuous improvement and informed decision making. Tools and techniques that can be used to assist the activities in the learning cycle are described with appropriate examples. These tools and techniques include statistical analysis, knowledge discovery in databases, decision-making techniques, systems modelling and risk assessment. Also, some conclusions and future directions for this research program are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Behaviour analysis of Amazon customer using novel POS–NEG composition-based Pythagorean fuzzy relation
+AU  - Sundaram, Ajith
+Y1  - 2020/08/13
+PY  - 2020
+DA  - 2020/08/13
+N1  - https://doi.org/10.1002/pa.2297
+DO  - https://doi.org/10.1002/pa.2297
+T2  - Journal of Public Affairs
+JF  - Journal of Public Affairs
+JO  - Journal of Public Affairs
+JA  - J Public Affairs
+SP  - e2297
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 1472-3891
+M3  - https://doi.org/10.1002/pa.2297
+UR  - https://doi.org/10.1002/pa.2297
+Y2  - 2020/11/10
+N2  - Uncertainty and vagueness are the important factors in any decision-making process. Different tools and approaches had been introduced to handle the uncertainty and vagueness environment of behaviour analysis. One of the latest tools in dealing with uncertainty and vagueness is Pythagorean fuzzy sets which are the generalized form of intuitionistic fuzzy set. In this paper, we explore the concept of Pythagorean fuzzy sets and introduce POS?NEG composition to determine the behaviour of customers in Amazon E-commerce website. The role of this enhanced composition is to gather the sentiment of customers about the Amazon products. Our proposed work handles multi-attribute, reduces complexity of the analysis and it is compared and proved to be accurate than fuzzy set and intuitionistic fuzzy set. The main feature of Pythagorean fuzzy sets is its relatively novel mathematical framework in the fuzzy family with higher ability to cope imprecision imbedded in decision-making.
+ER  - 

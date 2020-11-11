@@ -1,0 +1,582 @@
+
+TY  - JOUR
+T1  - Resource allocation through logistic regression and multicriteria decision making method in IoT fog computing
+AU  - Bashir, Hayat
+AU  - Lee, Seonah
+AU  - Kim, Kyong Hoon
+Y1  - 2019/12/19
+PY  - 2019
+DA  - 2019/12/19
+N1  - https://doi.org/10.1002/ett.3824
+DO  - https://doi.org/10.1002/ett.3824
+T2  - Transactions on Emerging Telecommunications Technologies
+JF  - Transactions on Emerging Telecommunications Technologies
+JO  - Transactions on Emerging Telecommunications Technologies
+JA  - Trans Emerging Tel Tech
+SP  - e3824
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 2161-3915
+M3  - https://doi.org/10.1002/ett.3824
+UR  - https://doi.org/10.1002/ett.3824
+Y2  - 2020/11/10
+N2  - Abstract Cloud computing has received a lot of attention from both researcher and developer in last decade due to its unique structure of providing services to the user. As the digitalization of world, heterogeneous devices, and with the emergence of Internet of Things (IoT), these IoT devices produce different type of data with distinct frequency, which require real-time and latency sensitive services. This provides great challenge to cloud computing framework. Fog computing is a new framework to accompaniment cloud platform and is proposed to extend services to the edge of the network. In fog computing, the entire user's tasks are offloaded to distributed fog nodes to the edge of network to avoid delay sensitivity. We select fog computing network dwell different set of fog nodes to provide required services to the users. Allocation of defined resource to the users in order to achieve optimal result is a big challenge. Therefore, we propose dynamic resource allocation strategy for cloud, fog node, and users. In the framework, we first formulate the ranks of fog node using TOPSIS to identify most suitable fog node for the incoming request. Simultaneously logistic regression calculates the load of individual fog node and updates the result to send back to the broker for next decision. Simulation results demonstrate that the proposed scheme undoubtedly improves the performance and give accuracy of 98.25%.
+ER  - 
+
+TY  - JOUR
+T1  - Internet of Things data analytics for parking availability prediction and guidance
+AU  - Atif, Yacine
+AU  - Kharrazi, Sogol
+AU  - Jianguo, Ding
+AU  - Andler, Sten F.
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - https://doi.org/10.1002/ett.3862
+DO  - https://doi.org/10.1002/ett.3862
+T2  - Transactions on Emerging Telecommunications Technologies
+JF  - Transactions on Emerging Telecommunications Technologies
+JO  - Transactions on Emerging Telecommunications Technologies
+JA  - Trans Emerging Tel Tech
+SP  - e3862
+VL  - 31
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 2161-3915
+M3  - https://doi.org/10.1002/ett.3862
+UR  - https://doi.org/10.1002/ett.3862
+Y2  - 2020/11/10
+N2  - Abstract Cutting-edge sensors and devices are increasingly deployed within urban areas to make-up the fabric of transmission control protocol/internet protocol connectivity driven by Internet of Things (IoT). This immersion into physical urban environments creates new data streams, which could be exploited to deliver novel cloud-based services. Connected vehicles and road-infrastructure data are leveraged in this article to build applications that alleviate notorious parking and induced traffic-congestion issues. To optimize the utility of parking lots, our proposed SmartPark algorithm employs a discrete Markov-chain model to demystify the future state of a parking lot, by the time a vehicle is expected to reach it. The algorithm features three modular sections. First, a search process is triggered to identify the expected arrival-time periods to all parking lots in the targeted central business district (CBD) area. This process utilizes smart-pole data streams reporting congestion rates across parking area junctions. Then, a predictive analytics phase uses consolidated historical data about past parking dynamics to infer a state-transition matrix, showing the transformation of available spots in a parking lot over short periods of time. Finally, this matrix is projected against similar future seasonal periods to figure out the actual vacancy-expectation of a lot. The performance evaluation over an actual busy CBD area in Stockholm (Sweden) shows increased scalability capabilities, when further parking resources are made available, compared to a baseline case algorithm. Using standard urban-mobility simulation packages, the traffic-congestion-aware SmartPark is also shown to minimize the journey duration to the selected parking lot while maximizing the chances to find an available spot at the selected lot.
+ER  - 
+
+TY  - JOUR
+T1  - Sensitivity analysis and multiobjective design optimization of flux switching permanent magnet motor using MLP-ANN modeling and NSGA-II algorithm
+AU  - Mahmouditabar, Farshid
+AU  - Vahedi, Abolfazl
+AU  - Mosavi, Mohammad R.
+AU  - Bafghi, Mohammad H. B.
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - https://doi.org/10.1002/2050-7038.12511
+DO  - https://doi.org/10.1002/2050-7038.12511
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e12511
+VL  - 30
+IS  - 9
+KW  - FSPM motor
+KW  - optimization
+KW  - FEM
+KW  - DOE
+KW  - MLP-ANN
+KW  - NSGA-II
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/2050-7038.12511
+UR  - https://doi.org/10.1002/2050-7038.12511
+Y2  - 2020/11/10
+N2  - Summary The flux switching permanent magnet (FSPM) motor is relatively a new topology of the permanent magnet (PM) motors, which both PM and armature winding are placed at the stator. This feature leads to more robust design, better heat dissipation, and a proper option for a wide range of industrial applications. The critical part of the development of FSPM motor is the design optimization of the structure to improve the electromagnetic performance of the motor. In this article, first to reduce the computation time and required memory of the optimization procedure, the multiobjective sensitivity analysis based on design of experiment is performed to specify the most effective parameters on the objectives. Then, the initial samples data of the optimization procedure is obtained by 2D finite element method (FEM) model of the FSPM motor, which is validated by the prototype of the motor. Furthermore, based on FEM results the multilayers perceptron artificial neural network for the approximation of relation between design variables and objectives is implemented. Finally, using the nondominated sorting genetic algorithm-II, the optimization procedure of the FSPM motor is done. The accuracy of the presented optimization procedure is validated by a comparison of the initial prototype and final design of the motor.
+ER  - 
+
+TY  - JOUR
+T1  - Processing technique of ratings for ranking of alternatives (PROTERRA)
+AU  - Kobryń, Andrzej
+AU  - Prystrom, Joanna
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - https://doi.org/10.1111/exsy.12279
+DO  - https://doi.org/10.1111/exsy.12279
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12279
+VL  - 35
+IS  - 4
+KW  - multicriteria decision analysis
+KW  - PROTERRA
+KW  - sensitivity analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12279
+UR  - https://doi.org/10.1111/exsy.12279
+Y2  - 2020/11/10
+N2  - Abstract This paper presents a new approach to multicriteria decision analysis. They were named as processing technique of ratings for ranking of alternatives (PROTERRA). The consecutive steps of the process include normalization of the ratings, calculating of the ratings ratios within each pair of the alternatives, creating a component matrix for each of the criteria, and creating a total matrix that is the sum of the weighted component matrices. Aggregated ratings of individual alternatives result from the sums of all the values of the corresponding rows and columns of the total matrix elements. A practical application of the PROTERRA has been illustrated with an example of a decision problem concerning the choice of a shopping centre location. The analysis results of the PROTERRA are compared with other results obtained using the most popular methods, that is, analytic hierarchy process, preference ranking organization method for enrichment of evaluations, and technique for order performance by similarity to ideal solution. In order to assess the stability of the ranking order obtained by the PROTERRA algorithm, the influence of weights variations on the final ranking results were tested. The sensitivity analysis was also carried out for the other methods, that is, preference ranking organization method for enrichment of evaluations, analytic hierarchy process, and technique for order performance by similarity to ideal solution. On this basis, a stability of rankings resulting from all analysed methods were compared.
+ER  - 
+
+TY  - JOUR
+T1  - Joint computation offloading and resource provisioning for edge-cloud computing environment: A machine learning-based approach
+AU  - Shahidinejad, Ali
+AU  - Ghobaei-Arani, Mostafa
+Y1  - 2020/12/01
+PY  - 2020
+DA  - 2020/12/01
+N1  - https://doi.org/10.1002/spe.2888
+DO  - https://doi.org/10.1002/spe.2888
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 2212
+EP  - 2230
+VL  - 50
+IS  - 12
+KW  - edge computing
+KW  - learning automata
+KW  - long short-term memory
+KW  - offloading
+KW  - reinforcement learning
+KW  - resource provisioning
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - https://doi.org/10.1002/spe.2888
+UR  - https://doi.org/10.1002/spe.2888
+Y2  - 2020/11/10
+N2  - Summary In recent years, the usage of smart mobile applications to facilitate day-to-day activities in various domains for enhancing the quality of human life has increased widely. With rapid developments of smart mobile applications, the edge computing paradigm has emerged as a distributed computing solution to support serving these applications closer to mobile devices. Since the submitted workloads to the smart mobile applications changes over the time, decision making about offloading and edge server provisioning to handle the dynamic workloads of mobile applications is one of the challenging issues into the resource management scope. In this work, we utilized learning automata as a decision-maker to offload the incoming dynamic workloads into the edge or cloud servers. In addition, we propose an edge server provisioning approach using long short-term memory model to estimate the future workload and reinforcement learning technique to make an appropriate scaling decision. The simulation results obtained under real and synthetic workloads demonstrate that the proposed solution increases the CPU utilization and reduces the execution time and energy consumption, compared with the other algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - Total ordering for intuitionistic fuzzy numbers
+AU  - Lakshmana Gomathi Nayagam, V.
+AU  - Jeevaraj, S.
+AU  - Geetha, Sivaraman
+Y1  - 2016/11/01
+PY  - 2016
+DA  - 2016/11/01
+N1  - https://doi.org/10.1002/cplx.21783
+DO  - https://doi.org/10.1002/cplx.21783
+T2  - Complexity
+JF  - Complexity
+JO  - Complexity
+JA  - Complexity
+SP  - 54
+EP  - 66
+VL  - 21
+IS  - S2
+KW  - intuitionistic fuzzy number
+KW  - upper lower dense sequence
+KW  - total ordering
+KW  - intuitionistic fuzzy interval number
+KW  - trapezoidal intuitionistic fuzzy number
+KW  - membership
+KW  - non-membership
+KW  - vague and imprecise score functions
+KW  - lexicography
+PB  - John Wiley & Sons, Ltd
+SN  - 1076-2787
+M3  - https://doi.org/10.1002/cplx.21783
+UR  - https://doi.org/10.1002/cplx.21783
+Y2  - 2020/11/10
+N2  - Intuitionistic fuzzy set plays a vital role in decision making, data analysis, and artificial intelligence. Many decision-making problems consist of different types of datum, where fuzzy set theoretical approaches may fail to obtain the optimal decision. Numerous approaches for intuitionistic fuzzy decision-making problem have been introduced in the literature to overcome these short comings. But there is no single approach that can be used to solve all kinds of problems because of the partial ordering defined on the collection of intuitionistic fuzzy numbers (IFNs). Even though ranking of fuzzy numbers have been studied from early seventies in the last century, a total order on the entire class of fuzzy numbers has been introduced by Wang and Wang (Fuzzy Sets Syst 2014, 243, 131?141) only on 2014. A total order on the collection of all IFN is an open problem till today. In this article, a total order on the entire class of IFN using upper lower dense sequence in the interval [0, 1] is proposed and compared with existing techniques using illustrative examples, further an algorithm (which is problem independent) for solving any intuitionistic fuzzy multicriteria decision-making problem (Intuitionistic fuzzy MCDM) is introduced. This new total ordering on IFNs generalizes the total ordering defined in Wang and Wang () for fuzzy numbers. ? 2016 Wiley Periodicals, Inc. Complexity 21: 54?66, 2016
+ER  - 
+
+TY  - JOUR
+T1  - MCRiceRepGP: a framework for the identification of genes associated with sexual reproduction in rice
+AU  - Golicz, Agnieszka A.
+AU  - Bhalla, Prem L.
+AU  - Singh, Mohan B.
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1111/tpj.14019
+DO  - https://doi.org/10.1111/tpj.14019
+T2  - The Plant Journal
+JF  - The Plant Journal
+JO  - The Plant Journal
+JA  - Plant J
+SP  - 188
+EP  - 202
+VL  - 96
+IS  - 1
+KW  - function prediction
+KW  - machine learning
+KW  - Oryza sativa
+KW  - reannotation
+KW  - sexual reproduction
+KW  - lincRNA
+PB  - John Wiley & Sons, Ltd
+SN  - 0960-7412
+M3  - https://doi.org/10.1111/tpj.14019
+UR  - https://doi.org/10.1111/tpj.14019
+Y2  - 2020/11/10
+N2  - Summary Rice is an important cereal crop, being a staple food for over half of the world's population, and sexual reproduction resulting in grain formation underpins global food security. However, despite considerable research efforts, many of the genes, especially long intergenic non-coding RNA (lincRNA) genes, involved in sexual reproduction in rice remain uncharacterized. With an increasing number of public resources becoming available, information from different sources can be combined to perform gene functional annotation. We report the development of MCRiceRepGP, a machine learning framework which integrates heterogeneous evidence and employs multicriteria decision analysis and machine learning to predict coding and lincRNA genes involved in sexual reproduction in rice. The rice genome was reannotated using deep-sequencing transcriptomic data from reproduction-associated tissue/cell types identifying previously unannotated putative protein-coding genes and lincRNAs. MCRiceRepGP was used for genome-wide discovery of sexual reproduction associated coding and lincRNA genes. The protein-coding and lincRNA genes identified have distinct expression profiles, with a large proportion of lincRNAs reaching maximum expression levels in the sperm cells. Some of the genes are potentially linked to male- and female-specific fertility and heat stress tolerance during the reproductive stage. MCRiceRepGP can be used in combination with other genome-wide studies, such as genome-wide association studies, giving greater confidence that the genes identified are associated with the biological process of interest. As more data, especially about mutant plant phenotypes, become available, the power of MCRiceRepGP will grow, providing researchers with a tool to identify candidate genes for future experiments. MCRiceRepGP is available as a web application (http://mcgplannotator.com/MCRiceRepGP/).
+ER  - 
+
+TY  - JOUR
+T1  - A Multicriteria Outranking Modeling Approach for Credit Rating
+AU  - Doumpos, Michael
+AU  - Zopounidis, Constantin
+Y1  - 2011/08/01
+PY  - 2011
+DA  - 2011/08/01
+N1  - https://doi.org/10.1111/j.1540-5915.2011.00328.x
+DO  - https://doi.org/10.1111/j.1540-5915.2011.00328.x
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+SP  - 721
+EP  - 742
+VL  - 42
+IS  - 3
+KW  - Financial Distress
+KW  - Multicriteria Decision-Making Methods
+KW  - Risk Management
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/j.1540-5915.2011.00328.x
+UR  - https://doi.org/10.1111/j.1540-5915.2011.00328.x
+Y2  - 2020/11/10
+N2  - ABSTRACT Rating models are widely used by credit institutions to obtain estimates for the probabilities of default for their clients (firms, organizations, individuals) and to assess the risk of credit portfolios. Several statistical and data mining methods are used to develop such models. In this article, the potential of an outranking multicriteria decision-aiding approach is explored. An evolutionary algorithm is used to fit a credit rating model on the basis of the ELimination Et Choix Traduisant la REalité trichotomique method. The methodology is applied to a large sample of Greek firms. The results indicate that outranking models are well suited to credit rating, providing good classification results and useful insight on the relative importance of the evaluation criteria.
+ER  - 
+
+TY  - JOUR
+T1  - Traditional or behavioural? A combined decision making trial and evaluation laboratory and analytic network process approach for capital structure determinants of Turkish companies
+AU  - Bank, Semra
+AU  - Arslantürk Çöllü, Duygu
+AU  - Bulut, Halil Ibrahim
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - https://doi.org/10.1002/mcda.1686
+DO  - https://doi.org/10.1002/mcda.1686
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 159
+EP  - 172
+VL  - 27
+IS  - 3-4
+KW  - ANP
+KW  - DEMATEL
+KW  - managerial-behavioural biases
+KW  - multicriteria decision-making models
+KW  - traditional capital structure
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1686
+UR  - https://doi.org/10.1002/mcda.1686
+Y2  - 2020/11/10
+N2  - Abstract The aim of this study, following a new approach under the irrationality of managers, is to investigate the most effective determinants of capital structure decisions by combining traditional capital structure determinants with managerial-behavioural biases. In line with this objective, considering the capital structure decision as one that employs multicriteria decision making, two of the multicriteria decision-making methods?namely, Decision Making Trial and Evaluation Laboratory (DEMATEL) and Analytic Network Process (ANP)?are integrated into a hybrid method to analyse the interdependent relationships among traditional capital structure determinants and managerial-behavioural biases and to prioritize them by making dual comparisons. Our findings show that managerial-behavioural biases, not traditional capital structure determinants, are more effective in the capital structure decision and that anchoring is the most influential among managerial-behavioural biases.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid MCDM model combining DANP with TODIM to evaluate the information quality of community question answering in a two-dimensional linguistic environment
+AU  - Li, Ming
+AU  - Li, Ying
+AU  - Peng, Qijin
+AU  - Wang, Jun
+Y1  - 2020/08/11
+PY  - 2020
+DA  - 2020/08/11
+N1  - https://doi.org/10.1111/exsy.12619
+DO  - https://doi.org/10.1111/exsy.12619
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12619
+VL  - n/a
+IS  - n/a
+KW  - two-dimensional uncertain linguistic variables
+KW  - community question answering
+KW  - fuzzy multicriteria decision-making
+KW  - information quality
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12619
+UR  - https://doi.org/10.1111/exsy.12619
+Y2  - 2020/11/10
+N2  - Abstract Evaluating the information quality of cQA (community question-answering) websites helps users select a cQA website with high-quality information and improves the information quality. In this paper, an approach to evaluating the information quality of cQA based on a novel hybrid multicriteria decision-making (MCDM) model is proposed. First, the source, content, expression and usefulness criteria for evaluating the information quality of the cQA are established. Then, considering the ambiguity and inner correlations of the criteria, DANP ([DEMATEL]-based Analytic Network Process) and TODIM (interactive and multiple attribute decision making, in Portuguese) methods are combined in a two-dimensional linguistic environment to process linguistic evaluation information. Lastly, the proposed approach is applied to evaluate the quality of five popular cQA websites. The key criteria are identified, and the evaluation results are derived comprehensively. The key factors consist of reputation, coverage, politeness, usability, helpfulness, clarity, readability and conciseness. The websites, Know almost and Baidu knows, perform better in terms of information quality. The application, along with the sensitivity analysis and comparative analysis, shows the effectiveness of the proposed model. The proposed approach has both practical and research implications. It provides an approach for users to choose websites, and, for operators, to improve the information quality of their website. The evaluation criteria and their relations provide a reference for research on the information quality. The evaluation method considers the user's psychological information to provide a more accurate MCDM approach. The comprehensive aspects of the experiment can be used to verify the other MCDM methods.
+ER  - 
+
+TY  - JOUR
+T1  - Pythagorean fuzzy Bonferroni mean aggregation operator and its accelerative calculating algorithm with the multithreading
+AU  - Liang, Decui
+AU  - Zhang, Yinrunjie
+AU  - Xu, Zeshui
+AU  - Darko, Adjei Peter
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1002/int.21960
+DO  - https://doi.org/10.1002/int.21960
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 615
+EP  - 633
+VL  - 33
+IS  - 3
+KW  - multicriteria decision making
+KW  - Pythagorean fuzzy sets
+KW  - Bonferroni mean
+KW  - multithreading
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21960
+UR  - https://doi.org/10.1002/int.21960
+Y2  - 2020/11/10
+N2  - Abstract In this paper, we study the well-known Bonferroni mean and develop its generalized aggregation operators in the Pythagorean fuzzy environment. More specifically, by considering the interrelationship between arguments with Pythagorean fuzzy information, we develop the Pythagorean fuzzy Bonferroni mean (PFBM) and some special properties and cases of them are also discussed. Furthermore, taking the multicriteria decision making environment into consideration, we extend the results of PFBM and develop the weighted Pythagorean fuzzy Bonferroni mean (WPFBM). Meanwhile, we also propose an approach for the application of WPFBM. However, during the application of the WPFBM operator, the calculation is very complex and time consuming. Hence, we introduce the multithreading into the application of the WPFBM operator and develop an accelerative calculating algorithm for it. To validate the performance of the accelerative calculating algorithm, we further design the corresponding experimental analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Emerging risks identification on food and feed – EFSA
+AU  - European Food Safety Authority (EFSA)
+AU  - Donohoe, Terry
+AU  - Garnett, Kenisha
+AU  - Lansink, Alfons Oude
+AU  - Afonso, Ana
+AU  - Noteborn, Hubert
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.2903/j.efsa.2018.5359
+DO  - https://doi.org/10.2903/j.efsa.2018.5359
+T2  - EFSA Journal
+JF  - EFSA Journal
+JO  - EFSA Journal
+JA  - EFSA Journal
+SP  - e05359
+VL  - 16
+IS  - 7
+KW  - emerging risks
+KW  - food systems
+KW  - horizon scanning
+KW  - big data
+KW  - drivers of change
+KW  - prioritisation
+KW  - risk communication
+PB  - John Wiley & Sons, Ltd
+SN  - 1831-4732
+M3  - https://doi.org/10.2903/j.efsa.2018.5359
+UR  - https://doi.org/10.2903/j.efsa.2018.5359
+Y2  - 2020/11/10
+N2  - Abstract The European Food Safety Authority's has established procedures for the identification of emerging risk in food and feed. The main objectives are to: (i) to carry out activities aiming at identifying, assessing and disseminating information on emerging issues and ensure coordination with relevant networks and international organisations; (ii) promote the identification of data sources and data collection and /or data generation in prioritised emerging issues; and the (iii) evaluate of the collected information and identify of emerging risks. The objective(s) of the Standing Working Group on Emerging Risks (SWG-ER) is to collaborate with EFSA on the emerging risks identification (ERI) procedure and provide strategic direction for EFSA work building on past and ongoing projects related to EFSA ERI procedure. The SWG-ER considered the ERI methodologies in place and results obtained by EFSA. It was concluded that a systematic approach to the identification of emerging issues based on experts? networks is the major strength of the procedure but at present, it is mainly focused on single issues, over short to medium time horizons, no consistent weighting or ranking is applied and clear governance of emerging risks with follow-up actions is missing. The analysis highlighted weaknesses with respect to data collection, analysis and integration. No methodology is in place to estimate the value of the procedure outputs in terms of avoided risk and there is urgent need for a communication strategy that addresses the lack of data and knowledge uncertainty and addresses risk perception issues. Recommendations were given in three areas: (i) Further develop a food system-based approach including the integration of social sciences to improve understanding of interactions and dynamics between actors and drivers and the development of horizon scanning protocols; (ii) Improve data processing pipelines to prepare big data analytics, implement a data validation system and develop data sharing agreements to explore mutual benefits; and (iii) Revise the EFSA procedure for emerging risk identification to increase transparency and improve communication.
+ER  - 
+
+TY  - JOUR
+T1  - Quantifier Guided Aggregation for the Veracity Assessment of Online Reviews
+AU  - Viviani, Marco
+AU  - Pasi, Gabriella
+Y1  - 2017/05/01
+PY  - 2017
+DA  - 2017/05/01
+N1  - https://doi.org/10.1002/int.21844
+DO  - https://doi.org/10.1002/int.21844
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 481
+EP  - 501
+VL  - 32
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21844
+UR  - https://doi.org/10.1002/int.21844
+Y2  - 2020/11/10
+N2  - The Social Web is characterized by a massive diffusion of unfiltered content, directly generated by users via the spread of different social media platforms. In this context, a challenging issue is to assess the veracity of the information generated within the sites of online reviews. To address this issue, a common practice in the literature is to select and analyze some veracity features associated with users and their reviews, by mostly applying machine learning techniques, to provide a classification in genuine and deceptive reviews. In this paper, we do not focus on the feature selection and user behavior analysis issues, but we concentrate on the aggregation process with respect to each single veracity feature. In most of the approaches based on machine learning techniques, the contribution of each feature in the classification process is not measurable by the user. For this reason, we propose a multicriteria decision making approach based both on the assessment of multiple criteria and the use of aggregation operators with the aim of obtaining a veracity score associated with each review. Based on this score, it is possible to detect fake reviews. The proposed model is evaluated on a Yelp data set by applying different aggregation schemes, and it is compared with well-known supervised machine learning techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Alternative approach for learning and improving the MCDA method PROAFTN
+AU  - Al-Obeidat, Feras
+AU  - Belacel, Nabil
+Y1  - 2011/05/01
+PY  - 2011
+DA  - 2011/05/01
+N1  - https://doi.org/10.1002/int.20476
+DO  - https://doi.org/10.1002/int.20476
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 444
+EP  - 463
+VL  - 26
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.20476
+UR  - https://doi.org/10.1002/int.20476
+Y2  - 2020/11/10
+N2  - Abstract The objectives of this paper are (1) to propose new techniques to learn and improve the multicriteria decision analysis (MCDA) method PROAFTN based on machine learning approaches and (2) to compare the performance of the developed methods with other well-known machine learning classification algorithms. The proposed learning methods consist of two stages: The first stage involves using the discretization techniques to obtain the required parameters for the PROAFTN method, and the second stage is the development of a new inductive approach to construct PROAFTN prototypes for classification. The comparative study is based on the generated classification accuracy of the algorithms on the data sets. For further robust analysis of the experiments, we used the Friedman statistical measure with the corresponding post hoc tests. The proposed approaches significantly improved the performance of the classification method PROAFTN. Based on the generated results on the same data sets, PROAFTN outperforms widely used classification algorithms. Furthermore, the method is simple, no preprocessing is required, and no loss of information during learning. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Data envelopment analysis with neutrosophic inputs and outputs
+AU  - Abdelfattah, Walid
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - https://doi.org/10.1111/exsy.12453
+DO  - https://doi.org/10.1111/exsy.12453
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+SP  - e12453
+VL  - 36
+IS  - 6
+KW  - data envelopment analysis
+KW  - interval efficiency
+KW  - neutrosophic theory
+KW  - triangular neutrosophic number
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12453
+UR  - https://doi.org/10.1111/exsy.12453
+Y2  - 2020/11/10
+N2  - Abstract Since the recent appearance of neutrosophic theory as a generalization of fuzzy and intuitionistic fuzzy theories, many multicriteria decision methods have adopted this theory to deal with incomplete and indeterminate data. However, it has not yet been applied to the data envelopment analysis (DEA) methodology. Therefore, this study presents a DEA model with triangular neutrosophic inputs and outputs that considers the truth, indeterminacy, and falsity degrees of each data value. As an alternative, a parametric approach based on what we term the variation degree of a triangular neutrosophic number is developed. This approach transforms a neutrosophic DEA model into an interval DEA model that can be solved using one of many existing techniques. Interval efficiency scores obtained from our numerical example show the flexibility and authenticity of the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - A new system for automatic analysis and quality adjustment in audiovisual subtitled-based contents by means of genetic algorithms
+AU  - Souto-Rico, Monica
+AU  - González-Carrasco, Israel
+AU  - López-Cuadrado, José-Luis
+AU  - Ruíz-Mezcua, Belén
+Y1  - 2020/01/08
+PY  - 2020
+DA  - 2020/01/08
+N1  - https://doi.org/10.1111/exsy.12512
+DO  - https://doi.org/10.1111/exsy.12512
+T2  - Expert Systems
+JF  - Expert Systems
+JO  - Expert Systems
+JA  - Expert Systems
+VL  - n/a
+IS  - n/a
+KW  - automatic subtitle adjustment
+KW  - big data
+KW  - genetic algorithms
+KW  - massive knowledge integration
+PB  - John Wiley & Sons, Ltd
+SN  - 0266-4720
+M3  - https://doi.org/10.1111/exsy.12512
+UR  - https://doi.org/10.1111/exsy.12512
+Y2  - 2020/11/10
+N2  - Abstract In Spain, the subtitling service on television for the deaf has been improving in quantity since the General Law on Audiovisual Communication was enacted in 2010. This law establishes a series of quality standards that must be followed in the subtitling process. One of the most relevant aspects of subtitle quality is the speed at which they are shown on the screen, due to the fact that a too high speed (less time on screen) will make them difficult to read and the information hard to understand. In order to determine whether the speed at which the subtitles are being shown is adequate, first, it is necessary to process all the information associated with the broadcast of the digital TV channels including data from different sources. In this research, the authors have worked with the data obtained within the time period between July 2012 and December 2017, that is, with more than 950 million records. This article presents a framework for integration and processing of heterogeneous information associated with the subtitling of audiovisual content from different sources. Moreover, the framework will provide an automatic adjustment of subtitles in broadcasting regarding quality indicators by means of a genetic algorithm approach. The results show that the system is able to estimate the best relationship between the time and size of the subtitles and maintaining the quality levels established for this research. These results have been validated by experts and users of this domain.
+ER  - 
+
+TY  - JOUR
+T1  - Credibility in social media: opinions, news, and health information—a survey
+AU  - Viviani, Marco
+AU  - Pasi, Gabriella
+Y1  - 2017/09/01
+PY  - 2017
+DA  - 2017/09/01
+N1  - https://doi.org/10.1002/widm.1209
+DO  - https://doi.org/10.1002/widm.1209
+T2  - WIREs Data Mining and Knowledge Discovery     
+JF  - WIREs Data Mining and Knowledge Discovery     
+JO  - WIREs Data Mining and Knowledge Discovery     
+JA  - WIREs Data Mining Knowl Discov
+SP  - e1209
+VL  - 7
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 1942-4787
+M3  - https://doi.org/10.1002/widm.1209
+UR  - https://doi.org/10.1002/widm.1209
+Y2  - 2020/11/10
+N2  - In the Social Web scenario, where large amounts of User Generated Content diffuse through Social Media, the risk of running into misinformation is not negligible. For this reason, assessing and mining the credibility of both sources of information and information itself constitute nowadays a fundamental issue. Credibility, also referred as believability, is a quality perceived by individuals, who are not always able to discern with their cognitive capacities genuine information from the fake one. For this reason, in the recent years several approaches have been proposed to automatically assess credibility in Social Media. Most of them are based on data-driven models, i.e., they employ machine-learning techniques to identify misinformation, but recently also model-driven approaches are emerging, as well as graph-based approaches focusing on credibility propagation. Since multiple social applications have been developed for different aims and in different contexts, several solutions have been considered to address the issue of credibility assessment in Social Media. Three of the main tasks facing this issue and considered in this article concern: (1) the detection of opinion spam in review sites, (2) the detection of fake news and spam in microblogging, and (3) the credibility assessment of online health information. Despite the high number of interesting solutions proposed in the literature to tackle the above three tasks, some issues remain unsolved; they mainly concern both the absence of predefined benchmarks and gold standard datasets, and the difficulty of collecting and mining large amount of data, which has not yet received the attention it deserves. WIREs Data Mining Knowl Discov 2017, 7:e1209. doi: 10.1002/widm.1209 This article is categorized under: Algorithmic Development > Web Mining Application Areas > Science and Technology Technologies > Machine Learning
+ER  - 
+
+TY  - JOUR
+T1  - Valuation of a startup: Moving towards strategic approaches
+AU  - Dhochak, Monika
+AU  - Doliya, Prince
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1002/mcda.1703
+DO  - https://doi.org/10.1002/mcda.1703
+T2  - Journal of Multi-Criteria Decision Analysis
+JF  - Journal of Multi-Criteria Decision Analysis
+JO  - Journal of Multi-Criteria Decision Analysis
+JA  - J Multi‐Crit Decis Anal
+SP  - 39
+EP  - 49
+VL  - 27
+IS  - 1-2
+KW  - fuzzy analytic hierarchy process
+KW  - multicriteria decision-making
+KW  - strategic management
+KW  - venture capital
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9214
+M3  - https://doi.org/10.1002/mcda.1703
+UR  - https://doi.org/10.1002/mcda.1703
+Y2  - 2020/11/10
+N2  - Abstract The valuation of a new venture is often considered to be a combative point of negotiation between venture capitalists and entrepreneurs. To bridge this gap, the present study aims to comprehend the link between startup valuation and established strategic management theories. The purpose of this study is to prioritize the theories from the strategic management literature in the valuation of a startup to assess firm performance using evidence from India, an emerging market. This study addresses research questions such as whether strategic theories (internal-based theory, industry-based theory, and network-based theory) enable the valuation of a new venture and how venture capitalists prioritize and vary the importance of these theories to assess the economic value of a new venture. The strategic management theories are prioritized using the fuzzy analytic hierarchy process, a multicriteria decision-making technique for the valuation of a venture. The present study develops an integrative multicriteria fuzzy decision-making approach to measure the relative importance of the strategic input variables. The results of the study validate the inclusion of strategic variables and provide a systematic approach to follow and measure the important factors when valuing a new venture. Such outcomes of the study help to theoretically and practically build a valuation foundation for both venture capitalists and entrepreneurs. This study brings increased rigor to the venture capital valuation literature by introducing a supplementary method to identify and measure the importance of these theories in new venture valuation.
+ER  - 
+
+TY  - JOUR
+T1  - Sequential quadratic programming and analytic hierarchy process for nonlinear multiobjective optimization of a hydropower network
+AU  - Moosavian, S. Ali A.
+AU  - Ghaffari, Ali
+AU  - Salimi, Amir
+Y1  - 2010/07/01
+PY  - 2010
+DA  - 2010/07/01
+N1  - https://doi.org/10.1002/oca.909
+DO  - https://doi.org/10.1002/oca.909
+T2  - Optimal Control Applications and Methods
+JF  - Optimal Control Applications and Methods
+JO  - Optimal Control Applications and Methods
+JA  - Optim. Control Appl. Meth.
+SP  - 351
+EP  - 364
+VL  - 31
+IS  - 4
+KW  - multiobjective optimization
+KW  - stochastic-weighted sum method
+KW  - sequential quadratic programming
+KW  - multicriteria decision analysis
+KW  - analytical hierarchy process
+PB  - John Wiley & Sons, Ltd
+SN  - 0143-2087
+M3  - https://doi.org/10.1002/oca.909
+UR  - https://doi.org/10.1002/oca.909
+Y2  - 2020/11/10
+N2  - Abstract In this paper, an optimal annual scheduling for power generation (i.e. rule curves and volume of water releases) in serial or parallel hydropower plants is developed. Multiobjective programming and weighted sum method are used to convert a multiobjective problem to a single objective one. Furthermore, to obtain viable alternatives under existing uncertainty, some random weight vectors in the whole weighting space are generated and for each weight vector an optimal solution is found using sequential quadratic programming (SQP). Then, analytic hierarchy process (AHP) is used to select the best solution according to a given criterion, and determine the most preferred one. Besides, this method does not require choosing a priori preference for the objective function, thus making an ideal tool for handling complicated multiobjective models and easy to use with the aid of computer programs. Combination of multiobjective optimization and multicriteria decision analysis (MCDA) is an integrated methodology that is capable of dealing with complex water management problems. Various scenarios for dry, median, and wet years are assumed based on stochastic flows from external sources (e.g. flooding rivers, unexpected rains, etc.) coming into each reservoir, and turbine power generation is obtained from hill diagrams provided by the manufacturer. The application of this methodology is illustrated in a case study for optimal scheduling of Karoon River Basin, where the decision support system and optimization routines are implemented in MATLAB. The total energy productions for 10 optimized solutions under dry, median, and wet scenarios (generated from forty-year historical inflow records) are calculated, and specific water consumption for each reservoir is obtained in different months. This can significantly help decision makers to have an optimal and more intelligent management over energy productions in hydropower plants and associated thermal power plants. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - A new optimal contingency-based design for placement of gas turbines to enhance black-start capability
+AU  - Esmaili, Mohammad Reza
+AU  - Khodabakhshian, Amin
+AU  - Hooshmand, Rahmat-allah
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1002/etep.2622
+DO  - https://doi.org/10.1002/etep.2622
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e2622
+VL  - 28
+IS  - 11
+KW  - black-start units
+KW  - multiobjective design
+KW  - Pareto optimal set
+KW  - path reliability
+KW  - power system restoration
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.2622
+UR  - https://doi.org/10.1002/etep.2622
+Y2  - 2020/11/10
+N2  - Summary Installing new energy sources as redundant black-start (BS) units is an efficient way to enhance the speed of power system restoration, especially when there is a high risk that the available power plants considered as BS units fail to operate. In this regard, this paper provides a new optimal design for the placement of the gas turbine as the redundant energy source considering N-1 contingency analysis to improve the BS capability during restoration conditions. In doing so, there will be 2 contradictory objective functions of minimizing the maximum unavailable energy capacity and maximizing the minimum cranking path reliability. Therefore, a multiobjective problem, as a mixed integer nonlinear programming, is defined. The Pareto optimal solutions of the multiobjective problem are obtained by using a population-based meta-heuristic technique, called crow search algorithm. Two power systems are used for the validation of the proposed method. The simulation results show that the system can benefit from this method not only to increase the capability of BS generation but also to enhance the reliability of generators start-up. During the restoration process, the optimal start-up sequences of nonblack-start units and the most reliable transmission paths are also provided.
+ER  - 

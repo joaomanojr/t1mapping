@@ -1,0 +1,1587 @@
+
+TY  - JOUR
+T1  - EFSA's activities on emerging risks in 2019
+AU  - European Food Safety Authority (EFSA)
+AU  - Ana, Afonso
+AU  - Raquel, Garcia Matas
+AU  - Georgia, Gkrintzali
+AU  - Angelo, Maggiore
+AU  - Caroline, Merten
+AU  - Agnes, Rortais
+AU  - Tobin, Robinson
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - https://doi.org/10.2903/sp.efsa.2020.EN-1924
+DO  - https://doi.org/10.2903/sp.efsa.2020.EN-1924
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 1924E
+VL  - 17
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 2397-8325
+M3  - https://doi.org/10.2903/sp.efsa.2020.EN-1924
+UR  - https://doi.org/10.2903/sp.efsa.2020.EN-1924
+Y2  - 2020/11/10
+N2  - The main objectives of EFSA's activities on emerging risks are: (i) to carry out activities to identify emerging risks; and (ii) to develop and improve emerging risk identification (ERI) methodologies and approaches and iii) communicate on identified issues and risks. The outcome of these activities also allows EFSA to prepare for future risk assessment challenges.The current technical report summarises the activities of all groups involved in the emerging risk identification procedure, the issues identified in the course of 2019, a description of methodologies being developed and collaborative activities.EFSA networks of knowledge contributing to the emerging risks identification activity include the Emerging Risks Exchange Network, the StakeholderDiscussion Group on Emerging Risks, EFSA's scientific units, scientific panels and the Scientific Committee and its working groups. In total, 17 potential emerging issues were discussed in 2019. Thirteen were concluded to be emerging issues. The potential issues were classified according to the hazard and/or driver identified. A change in consumer behaviour trends as a driver for emerging issues in food safety was identified for more than half of the issues discussed in 2019. A better understanding of these trends is particularly relevant for EFSA to improve preparedness. In addition, in 2019 EREN network members presented and discussed a total of 28 signals/ potential emerging issues identified by their own horizon scanning activities. Different Member states representatives shared their work on signals identification with the objective to collect additional information that can be used for better characterization. More effective methods to collect and share knowledge need to be implemented. Collaboration was a main feature of the 2019 ERI activities. The number of observers increased, a common session between EREN and StaDGER was organized for the first time and collaboration between institutions is a common feature to all methodological development projects.Such collaboration activities require the development of effective digital collaboration tools and a flexible knowledge management system. Communication is a fundamental part of the ERI procedure, in a more ?open knowledge sharing? context it is of increased importance to clearly communicate on the uncertainty associated with the ERI procedure.
+ER  - 
+
+TY  - JOUR
+T1  - Recent advances in rapid multiobjective optimization of expensive simulation models in microwave and antenna engineering by Pareto front exploration
+AU  - Koziel, Slawomir
+AU  - Bekasiewicz, Adrian
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - https://doi.org/10.1002/mmce.21190
+DO  - https://doi.org/10.1002/mmce.21190
+T2  - International Journal of RF and Microwave Computer-Aided Engineering
+JF  - International Journal of RF and Microwave Computer-Aided Engineering
+JO  - International Journal of RF and Microwave Computer-Aided Engineering
+JA  - Int J RF Microw Comput Aided Eng
+SP  - e21190
+VL  - 28
+IS  - 2
+KW  - computer-aided design
+KW  - computational electromagnetics
+KW  - electromagnetic-simulation models
+KW  - multiobjective optimization
+KW  - response features
+KW  - simulation-driven design
+KW  - surrogate modeling
+KW  - space mapping
+PB  - John Wiley & Sons, Ltd
+SN  - 1096-4290
+M3  - https://doi.org/10.1002/mmce.21190
+UR  - https://doi.org/10.1002/mmce.21190
+Y2  - 2020/11/10
+N2  - Abstract Practical engineering design problems are inherently multiobjective, that is, require simultaneous control of several (and often conflicting) criteria. In many situations, genuine multiobjective optimization is required to acquire comprehensive information about the system of interest. The most popular solution techniques are population-based metaheuristics, however, they are not practical for handling expensive electromagnetic (EM)-simulation models in microwave and antenna engineering. A workaround is to use auxiliary response surface approximation surrogates but it is challenging for higher-dimensional problems. Recently, a deterministic approach has been proposed for expedited multiobjective design optimization of expensive models in computational EMs. The method relies on variable-fidelity EM simulations, tracking the Pareto front geometry, as well as response correction. The algorithm sequentially generates Pareto-optimal designs using a series of constrained single-objective optimizations. The previously obtained design is used as a starting point for the next iteration. In this work, we review this technique and its modification based on space mapping surrogates. We also propose new variations exploiting adjoint sensitivities, as well as response features, which can be attractive depending on availability of derivatives or the characteristics of the system responses that need to be handled. We also discuss several case studies involving various antenna and microwave components.
+ER  - 
+
+TY  - JOUR
+T1  - Towards a resource-based habitat approach for spatial modelling of vector-borne disease risks
+AU  - Hartemink, Nienke
+AU  - Vanwambeke, Sophie O.
+AU  - Purse, Bethan V.
+AU  - Gilbert, Marius
+AU  - Van Dyck, Hans
+Y1  - 2015/11/01
+PY  - 2015
+DA  - 2015/11/01
+N1  - https://doi.org/10.1111/brv.12149
+DO  - https://doi.org/10.1111/brv.12149
+T2  - Biological Reviews
+JF  - Biological Reviews
+JO  - Biological Reviews
+JA  - Biol Rev
+SP  - 1151
+EP  - 1162
+VL  - 90
+IS  - 4
+KW  - novel framework
+KW  - risk modelling and mapping
+KW  - vector-borne diseases
+KW  - functional habitats
+KW  - conservation biology
+KW  - biological resources
+KW  - movement ecology
+PB  - John Wiley & Sons, Ltd
+SN  - 1464-7931
+M3  - https://doi.org/10.1111/brv.12149
+UR  - https://doi.org/10.1111/brv.12149
+Y2  - 2020/11/10
+N2  - ABSTRACT Given the veterinary and public health impact of vector-borne diseases, there is a clear need to assess the suitability of landscapes for the emergence and spread of these diseases. Current approaches for predicting disease risks neglect key features of the landscape as components of the functional habitat of vectors or hosts, and hence of the pathogen. Empirical?statistical methods do not explicitly incorporate biological mechanisms, whereas current mechanistic models are rarely spatially explicit; both methods ignore the way animals use the landscape (i.e. movement ecology). We argue that applying a functional concept for habitat, i.e. the resource-based habitat concept (RBHC), can solve these issues. The RBHC offers a framework to identify systematically the different ecological resources that are necessary for the completion of the transmission cycle and to relate these resources to (combinations of) landscape features and other environmental factors. The potential of the RBHC as a framework for identifying suitable habitats for vector-borne pathogens is explored and illustrated with the case of bluetongue virus, a midge-transmitted virus affecting ruminants. The concept facilitates the study of functional habitats of the interacting species (vectors as well as hosts) and provides new insight into spatial and temporal variation in transmission opportunities and exposure that ultimately determine disease risks. It may help to identify knowledge gaps and control options arising from changes in the spatial configuration of key resources across the landscape. The RBHC framework may act as a bridge between existing mechanistic and statistical modelling approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Resource Commitment, Organizational Diversity, and Research Performance: A Case of the National Telecommunication Program in Taiwan
+AU  - Hung, Chia-Liang
+AU  - Chou, Jerome Chih-Lung
+Y1  - 2013/06/01
+PY  - 2013
+DA  - 2013/06/01
+N1  - https://doi.org/10.1002/pmj.21340
+DO  - https://doi.org/10.1002/pmj.21340
+T2  - Project Management Journal
+JF  - Project Management Journal
+JO  - Project Management Journal
+JA  - Proj Mgmt Jrnl
+SP  - 32
+EP  - 47
+VL  - 44
+IS  - 3
+KW  - data envelopment analysis
+KW  - analytical hierarchy process
+KW  - evaluation
+KW  - R&D management
+KW  - project management
+KW  - program management
+PB  - John Wiley & Sons, Ltd
+SN  - 8756-9728
+M3  - https://doi.org/10.1002/pmj.21340
+UR  - https://doi.org/10.1002/pmj.21340
+Y2  - 2020/11/10
+N2  - Abstract Traditionally, a project team's resource commitment and organizational diversity are thought to be helpful to project performance; however, this relationship may falter when the project performance is considered in light of both cost and benefit. This paper integrates data envelopment analysis (DEA) and analytical hierarchy process (AHP) to evaluate project performance and explores the relationship between project performance and resource commitment and organizational diversity. The empirical study of research teams in the Taiwan National Telecommunication Program shows mixed results of this relationship. Implications for project management and governmental subsidy policy in dealing with resource commitment and organizational diversity are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Community-Based Rehabilitation of Mountain Terraces in Cyprus
+AU  - Zoumides, Christos
+AU  - Bruggeman, Adriana
+AU  - Giannakis, Elias
+AU  - Camera, Corrado
+AU  - Djuma, Hakan
+AU  - Eliades, Marinos
+AU  - Charalambous, Katerina
+Y1  - 2017/01/01
+PY  - 2017
+DA  - 2017/01/01
+N1  - https://doi.org/10.1002/ldr.2586
+DO  - https://doi.org/10.1002/ldr.2586
+T2  - Land Degradation & Development
+JF  - Land Degradation & Development
+JO  - Land Degradation & Development
+JA  - Land Degrad. Develop.
+SP  - 95
+EP  - 105
+VL  - 28
+IS  - 1
+KW  - participatory action research
+KW  - Mediterranean mountains
+KW  - dry-stone terraces
+KW  - sustainable land management
+KW  - soil erosion
+PB  - John Wiley & Sons, Ltd
+SN  - 1085-3278
+M3  - https://doi.org/10.1002/ldr.2586
+UR  - https://doi.org/10.1002/ldr.2586
+Y2  - 2020/11/10
+N2  - Abstract Participatory methods and community-based approaches have an important role to play in combating land degradation. This paper follows a well-defined participatory framework to identify key stakeholders and to select Sustainable Land Management approaches for reducing soil erosion and land degradation in the Troodos Mountains of Cyprus. Among the options suggested and evaluated by stakeholders, terrace rehabilitation had the best overall performance, followed by crop diversification and afforestation. Stakeholders agreed that the rehabilitation of dry-stone terraces was the preferred option, as it is a practice with high environmental benefits and fits well in the local socio-cultural context, despite the higher cost compared to other options. In the first year of implementing the approach, three mountain communities co-organised hands-on terrace maintenance events, engaging more than 160 people in rehabilitation activities. The community-based approach has sparked the interest of people within and beyond the research site, and another series of events is scheduled for the coming season. This outcome indicates that social innovations can benefit from the integration of local and scientific knowledge, while participatory process can enhance the self-confidence and organisational structures of local communities. Sustaining and enhancing the impact of the approach in the long-run require developing local terrace maintenance institutions, actively engaging the youth in terrace management and improving the profitability of mountain farming through the differentiation of local products. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Factors influencing quality decision-making: regulatory and pharmaceutical industry perspectives
+AU  - Donelan, Ronan
+AU  - Walker, Stuart
+AU  - Salek, Sam
+Y1  - 2015/03/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - https://doi.org/10.1002/pds.3752
+DO  - https://doi.org/10.1002/pds.3752
+T2  - Pharmacoepidemiology and Drug Safety
+JF  - Pharmacoepidemiology and Drug Safety
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+SP  - 319
+EP  - 328
+VL  - 24
+IS  - 3
+KW  - qualitative
+KW  - interviews
+KW  - decision-making
+KW  - quality
+KW  - regulatory agencies
+KW  - pharmaceutical industry
+KW  - individual
+KW  - organisation
+KW  - framework
+KW  - pharmacoepidemiology
+PB  - John Wiley & Sons, Ltd
+SN  - 1053-8569
+M3  - https://doi.org/10.1002/pds.3752
+UR  - https://doi.org/10.1002/pds.3752
+Y2  - 2020/11/10
+N2  - Abstract Purpose Currently, there is no qualified understanding of the influences, behaviours and other factors that impact the decision-making of individuals and organisations involved in the development of new medicines. The aim of this qualitative study was to investigate and identify the important issues that influence quality decision-making. Methods Semi-structured interviews were carried out with 29 senior decision-makers from the pharmaceutical industry and regulatory authorities. The study participants were invited to discuss and review their perception of decision-making within their organisation, its role in drug development and the regulatory review and their awareness and use of decision-making techniques and the impact and monitoring of decisions. Results The analyses (using NVivo 8? software) resulted in the identification of 32 major and 97 sub-themes that were consolidated into 19 overarching themes. These included items such as quality and validity of data, time considerations, organisational and cultural influences, analytical and logical approach, qualification and experience, subjective and personal considerations, political influences, precedents for similar previous decisions, understanding of the decision in question, impact analyses, audit trail, education and awareness, individual versus corporate decision-making and frameworks. Relationships between themes were identified. The 19 overarching decision-making themes were integrated into a framework for quality decision-making. Conclusion This study has achieved its aim of exploring decision-making from the perspective of the individual and the organisation working in drug development and the regulatory review and has identified issues and considerations relating to making good quality decisions and allowed for the generation of a framework to aid quality decision-making. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Recent advances in cloud data centers toward fog data centers
+AU  - Shojafar, Mohammad
+AU  - Pooranian, Zahra
+AU  - Sookhak, Mehdi
+AU  - Buyya, Rajkumar
+Y1  - 2019/04/25
+PY  - 2019
+DA  - 2019/04/25
+N1  - https://doi.org/10.1002/cpe.5164
+DO  - https://doi.org/10.1002/cpe.5164
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5164
+VL  - 31
+IS  - 8
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5164
+UR  - https://doi.org/10.1002/cpe.5164
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Bio Sketches January 2001
+Y1  - 2001/01/01
+PY  - 2001
+DA  - 2001/01/01
+N1  - https://doi.org/10.1002/j.2168-9830.2001.tb00584.x
+DO  - https://doi.org/10.1002/j.2168-9830.2001.tb00584.x
+T2  - Journal of Engineering Education
+JF  - Journal of Engineering Education
+JO  - Journal of Engineering Education
+SP  - 157
+EP  - 167
+VL  - 90
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 1069-4730
+M3  - https://doi.org/10.1002/j.2168-9830.2001.tb00584.x
+UR  - https://doi.org/10.1002/j.2168-9830.2001.tb00584.x
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - User-centric versus network-centric load balancing: How to provide good QoE for gold users
+AU  - Mämmelä, Olli
+AU  - Mannersalo, Petteri
+Y1  - 2015/07/01
+PY  - 2015
+DA  - 2015/07/01
+N1  - https://doi.org/10.1002/nem.1893
+DO  - https://doi.org/10.1002/nem.1893
+T2  - International Journal of Network Management
+JF  - International Journal of Network Management
+JO  - International Journal of Network Management
+JA  - Int. J. Network Mgmt
+SP  - 242
+EP  - 259
+VL  - 25
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 1055-7148
+M3  - https://doi.org/10.1002/nem.1893
+UR  - https://doi.org/10.1002/nem.1893
+Y2  - 2020/11/10
+N2  - Summary The predicted increase in mobile data traffic and in the number of mobile users poses challenges for network operators. Future mobile networks should support traffic volumes of several orders of magnitude larger than today. This may create situations in which the transmission capacity of the network is inadequate for the traffic demand. Intelligent and robust network management methods are thus needed to handle the upcoming changes. Because quite often the bottleneck lies in the wireless part of the network, it is essential to have methods in place to select appropriate wireless access points for the users or their applications. This can be performed either by a central entity or in a distributed manner in which the intelligence is placed in the user equipment or hybrid combinations of those. The selection criteria may vary from selfish optimization of a single user's quality of experience to global network load balancing and class-wise prioritization. This work explores the wireless access selection scheme from a system perspective in scenarios where users of different subscription classes are using progressive video streaming. Evaluation is carried out between a Q-learning based user-centric algorithm, a user class aware network-centric algorithm and a setting without handovers. Simulation results show that both user-centric and network-centric algorithms are able to improve the network performance and the quality of experience of the users. The gains of the network-centric algorithm are more evident during high congestion. In a lightly congested network, the distributed selfish optimization is also qualitatively a good solution for gold users. Copyright ? 2015?John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-scene upgrade and renovation method of existing park-level integrated energy system based on comprehensive analysis
+AU  - Cao, Yan
+AU  - Mu, Yunfei
+AU  - Jia, Hongjie
+AU  - Qi, Yan
+AU  - Wang, Congshan
+Y1  - 2020/11/02
+PY  - 2020
+DA  - 2020/11/02
+N1  - https://doi.org/10.1049/enc2.12014
+DO  - https://doi.org/10.1049/enc2.12014
+T2  - Energy Conversion and Economics
+JF  - Energy Conversion and Economics
+JO  - Energy Conversion and Economics
+JA  - Energy Convers. Econ.
+VL  - n/a
+IS  - n/a
+PB  - The Institution of Engineering and Technology
+SN  - 2634-1581
+M3  - https://doi.org/10.1049/enc2.12014
+UR  - https://doi.org/10.1049/enc2.12014
+Y2  - 2020/11/10
+N2  - Abstract Some of the existing park-level integrated energy systems (PIESs) experience problems such as mismatch between energy supply and demand, high operation costs, and low renewable energy consumption capacity. To improve the energy supply level of the existing PIES, the multi-scene upgrade and renovation method of the existing PIES based on comprehensive analysis is proposed. First, the physical model of the existing PIES for renovation is constructed, including expansion of existing equipment and newly added candidate equipment. Second, to determine the deficiencies, the current situation of the existing PIES is analysed based on the planning and operation data as well as indexes including economy, photovoltaic consumption capacity, and so on. On this basis, multiple renovation scenes are set up, and the upgrade and renovation model is constructed, assuming minimal investment, operation, and maintenance costs to be the objective function. Thereafter, the equipment allocation scheme of each scene is solved, for which comprehensive evaluation is performed. Finally, considering an existing PIES as an example, the weak energy storage and heating links are upgraded and renovated, effectively improving the performance of the existing PIES in reducing costs and carbon emissions, and improving energy utilisation efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Combining eight research areas to foster the uptake of ecosystem-based management in fresh waters
+AU  - Langhans, Simone D.
+AU  - Domisch, Sami
+AU  - Balbi, Stefano
+AU  - Delacámara, Gonzalo
+AU  - Hermoso, Virgilio
+AU  - Kuemmerlen, Mathias
+AU  - Martin, Romina
+AU  - Martínez-López, Javier
+AU  - Vermeiren, Peter
+AU  - Villa, Ferdinando
+AU  - Jähnig, Sonja C.
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.1002/aqc.3012
+DO  - https://doi.org/10.1002/aqc.3012
+T2  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JF  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JO  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JA  - Aquatic Conserv: Mar Freshw Ecosyst
+SP  - 1161
+EP  - 1173
+VL  - 29
+IS  - 7
+KW  - biodiversity
+KW  - catchment
+KW  - ecosystem approach
+KW  - ecosystem services
+KW  - river
+PB  - John Wiley & Sons, Ltd
+SN  - 1052-7613
+M3  - https://doi.org/10.1002/aqc.3012
+UR  - https://doi.org/10.1002/aqc.3012
+Y2  - 2020/11/10
+N2  - Abstract Freshwater ecosystems are under a constant risk of being irreversibly damaged by human pressures that threaten their biodiversity, the sustainability of ecosystem services (ESs), and human well-being. Despite the implementation of various environmental regulations, the challenges of safeguarding freshwater assets have so far not been tackled successfully. A promising way forward to stop the loss of freshwater biodiversity and to sustain freshwater-based ESs is by implementing ecosystem-based management (EBM), an environmental planning and adaptive management approach that jointly considers social and ecological needs. Responsible for considerable recent success in sustainably managing and conserving marine ecosystems, EBM has not yet been championed for fresh waters. A major reason for the delayed uptake of EBM in fresh waters is likely to be its complexity, requiring planners to be familiar with the latest developments in a range of different research areas. EBM would therefore benefit from becoming more tangible to receive attention on the ground. To facilitate uptake, eight core research areas for EBM and their innovations are introduced, and the way in which they feed into the workflow that guides the EBM planning stage is explained. The workflow links biodiversity distributions with ES supply-and-demand modelling and SMART (specific, measurable, attainable, relevant, and timely) target planning, including scenario- and cross-realm perspectives, the prioritization of management alternatives, spatial prioritization of biodiversity conservation and ES areas, and the quantification of uncertainties. Given the extensive resources, time, and technical capacity required to implement the full workflow, a light and an ultralight version of the workflow are also provided. Applied in concert, the eight well-known research areas allow for better planning and operationalizing, and eventually for implementing EBM in freshwater ecosystems. EBM has great potential to increase public acceptance by introducing the consideration of human needs and aspirations into typically biodiversity-driven conservation and management approaches. This will ultimately improve the integrity of freshwater ecosystems.
+ER  - 
+
+TY  - JOUR
+T1  - Novel hybrid approaches to measure smartphone addiction—Application of statistical and triangular fuzzy techniques
+AU  - Sama, Hanumantha Rao
+AU  - Kalvakolanu, Sripathi
+Y1  - 2020/09/04
+PY  - 2020
+DA  - 2020/09/04
+N1  - https://doi.org/10.1002/pa.2425
+DO  - https://doi.org/10.1002/pa.2425
+T2  - Journal of Public Affairs
+JF  - Journal of Public Affairs
+JO  - Journal of Public Affairs
+JA  - J Public Affairs
+SP  - e2425
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 1472-3891
+M3  - https://doi.org/10.1002/pa.2425
+UR  - https://doi.org/10.1002/pa.2425
+Y2  - 2020/11/10
+N2  - The paper evaluates the levels of smartphone addiction among students using statistical and fuzzy analysis approaches. By using Smartphone Addiction Test (SAT) scores, the data were treated using fuzzy operators, and the relationships were analyzed by applying the statistical techniques. The respondent's addiction level scores were converted into a fuzzy environment through the triangular approach, and demographic characteristics of the respondents were compared to levels of smartphone addiction. The percentage of respondents with mild and moderate levels of addiction to smartphones was found to be high in the study. Gender, age groups, and years of usage were also associated with addiction to smartphones. However, the level of smartphone addiction was not much different based on whether the students are staying with parents or away from their parents. Among the dimensions measuring smartphone addiction, ?lack of control? was ranked first. The dimension, ?excessive use,? was found to be the second-highest influencer of smartphone addiction level. Respondents, to no small extent, were students pursuing undergraduate and graduate programs. Adolescents and other demographic groups can be considered for future studies. Future studies can also focus on using other fuzzy approaches to evaluate the data on smartphone addiction. The study offers prioritized dimensions to be focused on containing the levels of addiction among individuals. Moreover, the ranking of items helps in guiding individuals to look into the problem areas and take the appropriate actions. Measurement of levels of smartphone addiction using a novel hybrid combination of statistical approach and triangular fuzzy approach was carried out in the study. The critical dimensions and items showing the influence on smartphone addiction were ranked.
+ER  - 
+
+TY  - JOUR
+T1  - Minimizing data access latency in data grids by neighborhood-based data replication and job scheduling
+AU  - Beigrezaei, Mahsa
+AU  - Toroghi Haghighat, Abolfazl
+AU  - Leili Mirtaheri, Seyedeh
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1002/dac.4552
+DO  - https://doi.org/10.1002/dac.4552
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e4552
+VL  - 33
+IS  - 15
+KW  - data access
+KW  - data grid
+KW  - data replication
+KW  - job scheduling
+KW  - neighborhood
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.4552
+UR  - https://doi.org/10.1002/dac.4552
+Y2  - 2020/11/10
+N2  - Summary In Data Grid systems, quick data access is a challenging issue due to the high latency. The failure of requests is one of the most common matters in these systems that has an impact on performance and access delay. Job scheduling and data replication are two main techniques in reducing access latency. In this paper, we propose two new neighborhood-based job scheduling strategies and a novel neighborhood-based dynamic data replication algorithm (NDDR). The proposed algorithms reduce the access latency by considering a variety of practical parameters for decision making and the access delay by considering the failure probability of a node in job scheduling, replica selection, and replica placement. The proposed neighborhood concept in job scheduling includes all the nodes with low data transmission costs. Therefore, we can select the best computational node and reduce the search time by running a hierarchical and parallel search. NDDR reduces the access latency through selecting the best replica by performing a hierarchical search established based on the access time, storage queue workload, storage speed, and failure probability. NDDR improves the load balancing and data locality by selecting the best replication place considering the workload, temporal locality, geographical locality, and spatial locality. We evaluate our proposed algorithms by using Optorsim Simulator in two scenarios. The simulations confirm that the proposed algorithms improve the results compared with similar existing algorithms by 11%, 15%, 12%, and 10% in terms of mean job time, replication frequency, mean data access latency, and effective network usage, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - An effective application of 3D cloud printing service quality evaluation in BM-MOPSO
+AU  - Wang, Xinggang
+AU  - Sheng, Buyun
+AU  - Zhang, Chenglei
+AU  - Xiao, Zheng
+AU  - Wang, Hui
+AU  - Zhao, Feiyu
+Y1  - 2018/12/25
+PY  - 2018
+DA  - 2018/12/25
+N1  - https://doi.org/10.1002/cpe.4977
+DO  - https://doi.org/10.1002/cpe.4977
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e4977
+VL  - 30
+IS  - 24
+KW  - 3D printing product service
+KW  - BM-MOPSO
+KW  - multiple decision-making
+KW  - standardization management
+KW  - suitable solution
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.4977
+UR  - https://doi.org/10.1002/cpe.4977
+Y2  - 2020/11/10
+N2  - Summary Addressing service control factors, rapid manufacturing environment change, difficulty of resource allocation evaluation, resource optimization of 3D cloud printing service in a cloud manufacturing environment, and other characteristics, this paper proposes an evaluation indicator system of innovative new product development 3D printing order task execution. The evaluation indicator has eight dimensional components, including Time (T), Quality of Service (Q), Matching (Mat), Reliability (R), Flexibility (Flex), Cost (C), Fault tolerance (Ft), and Satisfaction (Sa). It constructs a type of optimal selection model based on a Multi-Agent 3D Cloud Printing Service Quality Evaluation and a framework of cloud service evaluation of an AHP-TOPSIS evaluation model based on Pareto optimization, and it designs an algorithm involving hybrid multi-objective particle swarm optimization (PSO) based on the Baldwin Effect Model. In addition, this paper verifies the effectiveness of the algorithm through an example and offers a case study designed to test its feasibility and effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - Environmental Justice and Public Beach Access
+AU  - Kim, Jinwon
+AU  - Lyu, Seong Ok
+AU  - Song, HakJun
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - https://doi.org/10.1111/cico.12372
+DO  - https://doi.org/10.1111/cico.12372
+T2  - City & Community
+JF  - City & Community
+JO  - City & Community
+JA  - City & Community
+SP  - 49
+EP  - 70
+VL  - 18
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 1535-6841
+M3  - https://doi.org/10.1111/cico.12372
+UR  - https://doi.org/10.1111/cico.12372
+Y2  - 2020/11/10
+N2  - Abstract Beaches are an important recreational setting due to their provision of ideal open spaces for diverse water- and land-based recreation opportunities. Despite the importance of assessing the environmental justice of public beach access, few empirical studies have been conducted in community recreation. Using an environmental justice framework, this study examined whether inequities exist for certain racial/ethnic and socioeconomic groups with respect to the distribution of public beach access in the Detroit Metropolitan Area. Results indicated that inequitable public beach access is associated with population density, median housing value, elderly population, and nonvehicle ownership. Such findings can help public leisure agencies to assess environmental justice, a first step in developing more effective community recreation planning and management policies. Study implications, limitations, and recommendations for further research are also discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Polygonal Clustering Analysis Using Multilevel Graph-Partition
+AU  - Wang, Wanyi
+AU  - Du, Shihong
+AU  - Guo, Zhou
+AU  - Luo, Liqun
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - https://doi.org/10.1111/tgis.12124
+DO  - https://doi.org/10.1111/tgis.12124
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+SP  - 716
+EP  - 736
+VL  - 19
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12124
+UR  - https://doi.org/10.1111/tgis.12124
+Y2  - 2020/11/10
+N2  - Abstract Existing methods of spatial data clustering have focused on point data, whose similarity can be easily defined. Due to the complex shapes and alignments of polygons, the similarity between non-overlapping polygons is important to cluster polygons. This study attempts to present an efficient method to discover clustering patterns of polygons by incorporating spatial cognition principles and multilevel graph partition. Based on spatial cognition on spatial similarity of polygons, four new similarity criteria (i.e. the distance, connectivity, size and shape) are developed to measure the similarity between polygons, and used to visually distinguish those polygons belonging to the same clusters from those to different clusters. The clustering method with multilevel graph-partition first coarsens the graph of polygons at multiple levels, using the four defined similarities to find clusters with maximum similarity among polygons in the same clusters, then refines the obtained clusters by keeping minimum similarity between different clusters. The presented method is a general algorithm for discovering clustering patterns of polygons and can satisfy various demands by changing the weights of distance, connectivity, size and shape in spatial similarity. The presented method is tested by clustering residential areas and buildings, and the results demonstrate its usefulness and universality.
+ER  - 
+
+TY  - JOUR
+T1  - Mobile ad hoc network broadcasting: A multi-criteria approach
+AU  - Barritt, Brian J.
+AU  - Sheikh, Shaya
+AU  - Al-Najjar, Camelia
+AU  - Malakooti, Behnam
+Y1  - 2011/04/01
+PY  - 2011
+DA  - 2011/04/01
+N1  - https://doi.org/10.1002/dac.1162
+DO  - https://doi.org/10.1002/dac.1162
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int. J. Commun. Syst.
+SP  - 438
+EP  - 460
+VL  - 24
+IS  - 4
+KW  - mobile ad hoc networks
+KW  - broadcasting
+KW  - multiple criteria
+KW  - reconfigurable
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.1162
+UR  - https://doi.org/10.1002/dac.1162
+Y2  - 2020/11/10
+N2  - Abstract Nodes in a computer network often require a copy of a message to be delivered to every node in the network. The network layer can provide such a service, referred to as network-wide broadcast routing or simply ?broadcasting?. Broadcasting has many applications, including its role as a service to many routing protocols. In a mobile ad hoc network (MANET), simplistic broadcast schemes (such as flooding) inundate the network with redundancy, contention, collision, and unnecessary use of energy resources. This can prevent broadcasts from achieving their primary objective of maximizing delivery ratio, while also considering secondary objectives, such as balancing energy resources or reducing the network's burden on congested or busy nodes. As a solution, we propose multiple-criteria broadcasting (MCB). In MCB, the source of each broadcast specifies the importance assigned to broadcast objectives. Network nodes use these priorities, along with local and neighbor knowledge of distributed factors, to broadcast in accordance with the objective priorities attributed to the message. Using ns2, the performance of MCB is evaluated and compared to that of other broadcast protocols. To present knowledge, MCB constitutes the first reconfigurable, multi-objective approach to broadcasting. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - An urban growth simulation model based on integration of local weights and decision risk values
+AU  - Karimi Firozjaei, Mohammad
+AU  - Sedighi, Amir
+AU  - Jelokhani-Niaraki, Mohammadreza
+Y1  - 2020/07/28
+PY  - 2020
+DA  - 2020/07/28
+N1  - https://doi.org/10.1111/tgis.12668
+DO  - https://doi.org/10.1111/tgis.12668
+T2  - Transactions in GIS
+JF  - Transactions in GIS
+JO  - Transactions in GIS
+JA  - Transactions in GIS
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 1361-1682
+M3  - https://doi.org/10.1111/tgis.12668
+UR  - https://doi.org/10.1111/tgis.12668
+Y2  - 2020/11/10
+N2  - Abstract Monitoring and managing the rapid growth of cities, especially in developing countries, highlights the need for appropriate spatio-temporal models to predict urban growth. The parameters affecting the spatio-temporal analysis of urban growth play a key role in the prediction results. This study proposes an urban growth simulation model by integrating local subjective?objective weights and decision risk values (ORness) into a CA?Markov model. This involves the use of ordered weighting averaging as one of the multicriteria decision analysis methods to combine the weights and degree of risk for generating a variety of risk-averse and/or risk-taking urban growth prediction scenarios. The proposed model has been applied to predict the physical growth of Babol city, located in Mazandaran, Iran. The results indicate that the degrees of ORness = 0.3 and ORness = 0.9 yield better prediction results in the case of using the local and global weighting strategies, respectively. Furthermore, the overall accuracy of local and global weighting strategies at different degrees of risk was 87.6 and 86.8, respectively. This implies that the use of local subjective?objective weights leads to more accurate results than the global weights for simulating urban growth.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment and Management of Intellectual Capital: A Single Case Study on the Construction and Implementation of an IC Index
+AU  - Grimaldi, Michele
+AU  - Cricelli, Livio
+AU  - Rogo, Francesco
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - https://doi.org/10.1002/kpm.1479
+DO  - https://doi.org/10.1002/kpm.1479
+T2  - Knowledge and Process Management
+JF  - Knowledge and Process Management
+JO  - Knowledge and Process Management
+JA  - Know. Process Mgmt.
+SP  - 235
+EP  - 249
+VL  - 22
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 1092-4604
+M3  - https://doi.org/10.1002/kpm.1479
+UR  - https://doi.org/10.1002/kpm.1479
+Y2  - 2020/11/10
+N2  - The purpose of this paper is to present an index that assesses the contribution of the intellectual capital (IC) to the value creation process of an organization. The index combines into a single measure the contributions of the individual IC elements on the basis of their strategic importance, their performance, and their reciprocal influence. Five steps, based on the Assessment and Management of Intellectual Capital (AMIC), are considered as essential to build up the index. First, a theoretical framework is developed to underpin the process of selection of the different IC categories. Then, further steps suggest how to aggregate, weigh, and normalize the value of the IC categories in order to build the AMIC index. The index has been implemented into the ?Software? community of innovation of Finmeccanica, which is the leading Italian group in Aerospace, Defence, and Security. We argue that the AMIC index can be successfully used to assess and verify the performance of the value creation process and to explain the behaviour of each specific IC category and its contribution to the combined unit value. Furthermore, the analysis of each category contribution to the value creation can be carried out both in terms of stock and flow in order to highlight the quantitative and qualitative interrelations among the categories. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Organizational buying behaviour for perishable-food packaging in grocery retail
+AU  - Afif, Karima
+AU  - Rebolledo, Claudia
+AU  - Roy, Jacques
+Y1  - 2020/02/06
+PY  - 2020
+DA  - 2020/02/06
+N1  - https://doi.org/10.1002/cjas.1565
+DO  - https://doi.org/10.1002/cjas.1565
+T2  - Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration
+JF  - Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration
+JO  - Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration
+JA  - Can J Adm Sci
+VL  - n/a
+IS  - n/a
+KW  - centre d'achat
+KW  - processus de la décision d'achat
+KW  - comportement d'achat organisationnel
+KW  - emballages des produits périssables
+KW  - commerce de détail alimentaire
+KW  - buying centre
+KW  - buying decision process
+KW  - grocery retail
+KW  - organizational buying behaviour
+KW  - perishable-product packaging
+PB  - John Wiley & Sons, Ltd
+SN  - 0825-0383
+M3  - https://doi.org/10.1002/cjas.1565
+UR  - https://doi.org/10.1002/cjas.1565
+Y2  - 2020/11/10
+N2  - Abstract This qualitative study investigates the structure of the buying centre, the buying process, and the factors that influence buying decisions for perishable-products packaging. This empirical investigation is based on the case study of a major Quebec food retailer. We show that the purchase of packaging changes significantly depending on whether the product is considered more or less strategic for the organization, which determines the required level of packaging customization. Buying centre structure becomes more complex as packaging customization increases. Given the multi-functionality and the interdisciplinarity of packaging, we propose a multi-criteria analysis grid to improve buying decision efficiency and to streamline communication between the various levels of the buying centre.
+ER  - 
+
+TY  - JOUR
+T1  - Multiobjective optimization strategy based on desirability functions used for the microemulsion liquid chromatographic separation and quantification of norfloxacin and tinidazole in plasma and formulations
+AU  - Abou-Taleb, Noura Hemdan
+AU  - El-Wasseef, Dalia Rashad
+AU  - El-Sherbiny, Dina Tawfik
+AU  - El-Ashry, Saadia Mohamed
+Y1  - 2015/03/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - https://doi.org/10.1002/jssc.201401203
+DO  - https://doi.org/10.1002/jssc.201401203
+T2  - Journal of Separation Science
+JF  - Journal of Separation Science
+JO  - Journal of Separation Science
+JA  - J. Sep. Science
+SP  - 901
+EP  - 908
+VL  - 38
+IS  - 6
+KW  - Derringer's desirability function
+KW  - Fractional factorial design
+KW  - Microemulsion liquid chromatography
+KW  - Norfloxacin
+KW  - Tinidazole
+PB  - John Wiley & Sons, Ltd
+SN  - 1615-9306
+M3  - https://doi.org/10.1002/jssc.201401203
+UR  - https://doi.org/10.1002/jssc.201401203
+Y2  - 2020/11/10
+N2  - The aim of the present study was to optimize a microemulsion liquid chromatography method for the simultaneous determination of norfloxacin and tinidazole binary mixture using a chemometric protocol. Optimization experiments were conducted through a process of screening and optimization. A 27-4 fractional factorial design was used as screening design. While the location of optimum conditions was established by applying Derringer's desirability function. The optimal mobile phase composition was predicted to be: 3.5% w/v SDS, 10.03% v/v 1-propanol, 0.5% v/v 1-octanol, and 0.3% triethylamine in 0.02 M phosphoric acid at pH 6.5. The mobile phase was delivered isocratically at a flow rate of 1 mL/min with UV detection at 290 nm. Tinidazole and norfloxacin were eluted with retention times of 1.8 and 5.8 min, respectively. The calibration plots displayed good linear relationships in the concentration ranges of 0.5?50 and 0.75?75 ?g/mL for norfloxacin and tinidazole, respectively. The method was successfully applied for determination of both drugs in pharmaceutical dosage forms and real human plasma. Where the accuracy was proved by the low values of % error and high values of recovery, also the relative standard deviation for the results did not exceed 1.5%, proving the precision of the method.
+ER  - 
+
+TY  - JOUR
+T1  - Diagnosis of Periprosthetic Joint Infection
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - https://doi.org/10.1002/jor.22553
+DO  - https://doi.org/10.1002/jor.22553
+T2  - Journal of Orthopaedic Research
+JF  - Journal of Orthopaedic Research
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+SP  - S98
+EP  - S107
+VL  - 32
+IS  - S1
+PB  - John Wiley & Sons, Ltd
+SN  - 0736-0266
+M3  - https://doi.org/10.1002/jor.22553
+UR  - https://doi.org/10.1002/jor.22553
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Toward a hierarchical and architecture-based virtual machine allocation in cloud data centers
+AU  - Rahmanian, Ali Asghar
+AU  - Horri, Abbas
+AU  - Dastghaibyfard, Gholamhossein
+Y1  - 2018/03/10
+PY  - 2018
+DA  - 2018/03/10
+N1  - https://doi.org/10.1002/dac.3490
+DO  - https://doi.org/10.1002/dac.3490
+T2  - International Journal of Communication Systems
+JF  - International Journal of Communication Systems
+JO  - International Journal of Communication Systems
+JA  - Int J Commun Syst
+SP  - e3490
+VL  - 31
+IS  - 4
+KW  - data center architecture
+KW  - dynamic consolidation
+KW  - power efficiency
+KW  - resource management
+KW  - virtualization
+PB  - John Wiley & Sons, Ltd
+SN  - 1074-5351
+M3  - https://doi.org/10.1002/dac.3490
+UR  - https://doi.org/10.1002/dac.3490
+Y2  - 2020/11/10
+N2  - Summary Number of cloud data centers which consists of hundreds of hosts has increased tremendously around the world due to increase in demands for cloud services. It is expected energy consumption of data centers will reach 139.8 billion Kwh by 2020. Many algorithms are proposed to reduce energy consumption as well as service level agreement violationby minimizing the number of active hosts. Current proposed algorithms do not consider data center architecture, the physical position of hosts, and energy consumption of numerous switches that are in data centers. In this paper, a novel hierarchical cloud resource management is proposed that not only minimizes the number of hosts but also aggregates virtual machines on a limited subset of data center racks and modules to minimize energy consumption. Experimental results with Cloudsim show that our proposed algorithm reduces energy consumption up to 26% and service level agreement violation up to 96%.
+ER  - 
+
+TY  - JOUR
+T1  - New doctors ranking system based on VIKOR method
+AU  - Hu, Junhua
+AU  - Zhang, Xiaohong
+AU  - Yang, Yan
+AU  - Liu, Yongmei
+AU  - Chen, Xiaohong
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - https://doi.org/10.1111/itor.12569
+DO  - https://doi.org/10.1111/itor.12569
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 1236
+EP  - 1261
+VL  - 27
+IS  - 2
+KW  - reviews of textual information
+KW  - TF-IDF
+KW  - VIKOR method
+KW  - doctors ranking
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12569
+UR  - https://doi.org/10.1111/itor.12569
+Y2  - 2020/11/10
+N2  - Abstract Nowadays, we can use different websites that help us make decisions about various aspects of our lives. However, privacy protection prevents websites from providing personalised guidelines to users. We propose a novel doctor-ranking system (DRS) based on multi-criteria group decision-making (MCGDM) method to address the problems of privacy protection. The following aspects differentiate our proposed DRS model from previous works: (a) textual information reviews are used to identify user preferences and complementary criteria, (b) criteria weights are determined by term frequency inverse document frequency (TF-IDF) instead of Delphi method or expert opinion, (c) intuitionistic fuzzy sets (IFSs) are used to replace sentiment analysis to express subjective user criteria, and (d) VIsekriterijumsko KOmpromisno Rangiranjie (VIKOR) method for MCGDM with IFSs is used to solve the doctor-ranking problem. We apply our proposed model to datasets from Haodf.com to compare the performance of our method with that of sentiment analysis and technique for order performance by similarity to ideal solution (TOPSIS) methods. The experimental results show that our method provides accurate ranking and increases the reliability of DRS.
+ER  - 
+
+TY  - JOUR
+T1  - The detection of earnings manipulation: the three-phase cutting plane algorithm using mathematical programming
+AU  - Dikmen, Burcu
+AU  - Küçükkocaoğlu, Güray
+Y1  - 2010/08/01
+PY  - 2010
+DA  - 2010/08/01
+N1  - https://doi.org/10.1002/for.1138
+DO  - https://doi.org/10.1002/for.1138
+T2  - Journal of Forecasting
+JF  - Journal of Forecasting
+JO  - Journal of Forecasting
+JA  - J. Forecast.
+SP  - 442
+EP  - 466
+VL  - 29
+IS  - 5
+KW  - mathematical programming
+KW  - mathematical model
+KW  - cutting plane algorithm
+KW  - earnings management
+KW  - false financial statements
+PB  - John Wiley & Sons, Ltd
+SN  - 0277-6693
+M3  - https://doi.org/10.1002/for.1138
+UR  - https://doi.org/10.1002/for.1138
+Y2  - 2020/11/10
+N2  - Abstract The primary goal of this study was to propose an algorithm using mathematical programming to detect earnings management practices. In order to evaluate the ability of this proposed algorithm, the traditional statistical models are used as a benchmark vis-à-vis their time series counterparts. As emerging techniques in the area of mathematical programming yield better results, application of suitable models is expected to result in highly performed forecasts. The motivation behind this paper is to develop an algorithm which will succeed in detecting companies that appeal to financial manipulation. The methodology is based on cutting plane formulation using mathematical programming. A sample of 126 Turkish manufacturing firms described over 10 financial ratios and indexes are used for detecting factors associated with false financial statements. The results indicate that the proposed three-phase cutting plane algorithm outperforms the traditional statistical techniques which are widely used for false financial statement detections. Furthermore, the results indicate that the investigation of financial information can be helpful towards the identification of false financial statements and highlight the importance of financial ratios/indexes such as Days' Sales in Receivables Index (DSRI), Gross Margin Index (GMI), Working Capital Accruals to Total Assets (TATA) and Days to Inventory Index (DINV).?Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Decision making in drug safety—a literature review of criteria used to prioritize newly detected safety issues
+AU  - Pacurariu, Alexandra C.
+AU  - Coloma, Preciosa M.
+AU  - Gross-Martirosyan, Liana
+AU  - Sturkenboom, Miriam C.
+AU  - Straus, Sabine M.
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - https://doi.org/10.1002/pds.4128
+DO  - https://doi.org/10.1002/pds.4128
+T2  - Pharmacoepidemiology and Drug Safety
+JF  - Pharmacoepidemiology and Drug Safety
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+SP  - 327
+EP  - 334
+VL  - 26
+IS  - 3
+KW  - drug safety
+KW  - prioritization
+KW  - signal detection
+KW  - product surveillance postmarketing
+KW  - pharmacoepidemiology
+PB  - John Wiley & Sons, Ltd
+SN  - 1053-8569
+M3  - https://doi.org/10.1002/pds.4128
+UR  - https://doi.org/10.1002/pds.4128
+Y2  - 2020/11/10
+N2  - Abstract Purpose In drug safety, there is a lack of guidance on how prioritization of safety issues should be performed. The aim of this literature review is to provide an overview of criteria used for signal prioritization and of the associated decision support frameworks. Methods A search strategy was constructed to identify relevant articles in Medline/Embase databases from the period from 1 January 1995 to 31 August 2015. The prioritization criteria were extracted and classified in relevant categories. Results From an initial set of 63 articles, 11 were retained for full review. The articles mentioned 48 criteria used in the prioritization process, with a median of six criteria per study [range: 1?16]. More than half of the criteria (63%), referred to strength of evidence while 19% related to public health impact, 14% to general public and media attention and 4% to novelty of the drug event association. Fifteen criteria were tested for predictive value with 11 showing positive results, most of them from the strength of evidence category. Six decision-making frameworks are presented, which incorporate criteria from various categories. Five of these frameworks were tested against expert decisions or by other means, but only in one database each and for a limited set of products. Conclusions There is a wide range of prioritization criteria described in the literature; however, few of them demonstrated predictive value. Many criteria with predictive value were related to strength of evidence category and to novelty. There were few attempts at integrating different criteria in decision support frameworks. Five of the frameworks were tested for validity and showed usefulness, while at least three are already in use for prioritization. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Automated and rapid identification of multidrug resistant Escherichia coli against the lead drugs of acylureidopenicillins, cephalosporins, and fluoroquinolones using specific Raman marker bands
+AU  - Götz, Theresa
+AU  - Dahms, Marcel
+AU  - Kirchhoff, Johanna
+AU  - Beleites, Claudia
+AU  - Glaser, Uwe
+AU  - Bohnert, Jürgen A.
+AU  - Pletz, Mathias W.
+AU  - Popp, Jürgen
+AU  - Schlattmann, Peter
+AU  - Neugebauer, Ute
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1002/jbio.202000149
+DO  - https://doi.org/10.1002/jbio.202000149
+T2  - Journal of Biophotonics
+JF  - Journal of Biophotonics
+JO  - Journal of Biophotonics
+JA  - J. Biophotonics
+SP  - e202000149
+VL  - 13
+IS  - 8
+KW  - antibiotic susceptibility testing
+KW  - Escherichia coli
+KW  - multidrug-resistant Gram-negative bacteria
+KW  - Raman spectroscopy
+KW  - weighted sum score
+PB  - John Wiley & Sons, Ltd
+SN  - 1864-063X
+M3  - https://doi.org/10.1002/jbio.202000149
+UR  - https://doi.org/10.1002/jbio.202000149
+Y2  - 2020/11/10
+N2  - Abstract A Raman-based, strain-independent, semi-automated method is presented that allows the rapid (<3 hours) determination of antibiotic susceptibility of bacterial pathogens isolated from clinical samples. Applying a priori knowledge about the mode of action of the respective antibiotic, we identified characteristic Raman marker bands in the spectrum and calculated batch-wise weighted sum scores from standardized Raman intensity differences between spectra of antibiotic exposed and nonexposed samples of the same strains. The lead substances for three relevant antibiotic classes (fluoroquinolone ciprofloxacin, third-generation cephalosporin cefotaxime, ureidopenicillin piperacillin) against multidrug-resistant Gram-negative bacteria (MRGN) revealed a high sensitivity and specificity for the susceptibility testing of two Escherichia coli laboratory strains and 12 clinical isolates. The method benefits from the parallel incubation of control and treated samples, which reduces the variance due to alterations in cultivation conditions and the standardization of differences between batches leading to long-term comparability of Raman measurements.
+ER  - 
+
+TY  - JOUR
+T1  - Accelerated Reliability Demonstration Testing Design Based on Reliability Allocation of Environmental Stresses
+AU  - Li, Peng
+AU  - Li, Chuanri
+AU  - Dang, Wei
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - https://doi.org/10.1002/qre.2115
+DO  - https://doi.org/10.1002/qre.2115
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual. Reliab. Engng. Int.
+SP  - 1425
+EP  - 1435
+VL  - 33
+IS  - 7
+KW  - accelerated testing
+KW  - RDT
+KW  - PoF
+KW  - AHP
+KW  - SSI model
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - https://doi.org/10.1002/qre.2115
+UR  - https://doi.org/10.1002/qre.2115
+Y2  - 2020/11/10
+N2  - The traditional reliability demonstration testing based on statistical method requires a large number of samples and long testing time, failing to satisfy the demand for short cycle and low cost. This paper proposes a new accelerated approach for determining reliability target of each environment stress, accelerated test profile, and comprehensive acceleration factor for multi-failure mode product to conduct assembly level accelerated demonstration testing under multiple stresses and levels. By decomposing the product from four levels, namely function, structure, mechanism, and stress, the products' weaknesses can be identified. The main failure modes and sensitive environmental stresses are determined based on environmental profile and FMMEA. In this design, the reliability is apportioned to each actual environmental stress by AHP. And the SSI model is used to establish accelerated stress profile. The overall acceleration factor can be derived from the model of assembly level accelerated testing. Combined with a statistical plan, the accelerated reliability demonstration testing plan and test profile is built. A case example is presented to illustrate the effectiveness of the proposed approach. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment of Consumer Behavior Towards Environmental Responsibility: A Structural Equations Modeling Approach
+AU  - Pawaskar, Uttam Shankar
+AU  - Raut, Rakesh D
+AU  - Gardas, Bhaskar B
+Y1  - 2018/05/01
+PY  - 2018
+DA  - 2018/05/01
+N1  - https://doi.org/10.1002/bse.2020
+DO  - https://doi.org/10.1002/bse.2020
+T2  - Business Strategy and the Environment
+JF  - Business Strategy and the Environment
+JO  - Business Strategy and the Environment
+JA  - Bus. Strat. Env.
+SP  - 560
+EP  - 571
+VL  - 27
+IS  - 4
+KW  - customer behavior
+KW  - environmental management systems
+KW  - environmental responsibility
+KW  - India
+KW  - structural equation modeling
+KW  - sustainability
+PB  - John Wiley & Sons, Ltd
+SN  - 0964-4733
+M3  - https://doi.org/10.1002/bse.2020
+UR  - https://doi.org/10.1002/bse.2020
+Y2  - 2020/11/10
+N2  - Abstract This paper analyses the factors impacting consumer environmental responsibility using a structural equation modeling approach. Consumer environmental responsibility is the intention of a person to act towards remediation of environmental problems not as an individual user with economic interests but as a responsible citizen having concerns about the social and environmental wellbeing of society. Therefore, awareness of environmental problems and knowledge of remedial alternatives will help individuals to pursue their chosen action and bolster a genuine desire to act and determine the measures for alleviation of environmental challenges. The four dimensions of an environmentally responsible consumer ? opinion and beliefs, willingness, awareness, and an ability to act ? are analysed. During the analysis, the dimension of ?ability to move? is found to be critical, because it has a direct influence on the capacity of the consumer to act. This research is intended to guide policy- and decision-makers of regulatory bodies in understanding consumer behavior towards improving environmental performance index. It also helps organizational managers to make their supply chains green, and competitive, which in turn improves brand image and overall organizational performance. Copyright ? 2017 John Wiley & Sons, Ltd and ERP Environment
+ER  - 
+
+TY  - JOUR
+T1  - Communication inside Risk Assessment and Risk Management (COMRISK): Final report
+AU  - Andersson, Mats Gunnar
+AU  - Elving, Josefine
+AU  - Nordkvist, Erik
+AU  - Urdl, Marcus
+AU  - Engblom, Linda
+AU  - Mader, Anneluise
+AU  - Altmeyer, Sara
+AU  - Kowalczyk, Janine
+AU  - Lahrssen-Wiederholt, Monika
+AU  - Tuominen, Pirkko
+AU  - Joutsen, Suvi
+AU  - Suomi, Johanna
+AU  - Mikkelä, Antti
+AU  - Hinkka, Noora
+AU  - Siekkinen, Kirsi-Maarit
+AU  - der Fels-Klerx, H.J. van
+AU  - van den Borne, Bart
+AU  - Ali, Beshir
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.2903/sp.efsa.2020.EN-1891
+DO  - https://doi.org/10.2903/sp.efsa.2020.EN-1891
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 1891E
+VL  - 17
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 2397-8325
+M3  - https://doi.org/10.2903/sp.efsa.2020.EN-1891
+UR  - https://doi.org/10.2903/sp.efsa.2020.EN-1891
+Y2  - 2020/11/10
+N2  - A key feature of risk analysis is that risk assessment and risk management should be functionally separated. However, the usefulness of a risk assessment may be limited if the output is not designed to help with risk management decisions. The COMRISK project investigated the communication between risk assessors and risk managers. The overall goal of the project was to identify current practices and challenges in communication between risk assessors and risk managers during the risk analysis process, and thus increase and improve the understanding and the quality of the communication between them. Specific actions to achieve this aim included reviewing of historical food safety cases, analysing risk assessment requests, identifying communication guiding documents, including legislation and agreements, conducting semi-structured interviews with risk assessors and risk managers, and identifying tools for facilitating the communication between risk assessors and risk managers. It was concluded that the usefulness of a risk assessment is strongly dependent on well-defined and mutually recognised risk questions and that scarce or poor communication between risk assessors and risk managers is one of the major reasons when an output from risk assessment fails to support risk management. The communication between risk assessors and risk managers preceding the onset of the risk assessment, when the risk assessment requests with its risk questions are defined, is especially identified as one of the critical points to ensure a risk assessment that is fit for purpose. However, difficulties in understanding were also reported for the communication between risk assessors and risk managers during and after the risk assessment. Lack of communication is seldom a result of formal constraints or agreements nor can it be explained by a wish of the risk assessors or risk managers. Instead, perceived constraints or traditions appear to be possible underlying factors leading to scarce or poor communication between risk assessors and risk managers. It is essential that both risk assessors and risk managers acknowledge the crucial importance of communication between them while at the same time respect their different roles in a risk analysis.According to respondents, the best solution to facilitate the framing of the risk assessment questions isan open dialogue between risk assessors and risk managers to agree on the goal of the assessment and to build trust. Further, the interviewresults indicate that a formal systematic process may facilitate communication during the risk analysis. Where there is uncertainty, e.g due to data gaps or issues related to the methodology and models, it should be acknowledged and described properly by risk assessors to risk managers. Training of risk assessors and risk managers may improve the possibility of a timely and fit-for-purpose output.Such a training should give a deeper insight in the risk management process, give a better understanding of the risk managers role, and especially raise the awareness of the importance of the communication between risk assessors and risk managers.To improve the risk analysis process, it is also important that the risk assessor gets feedback regarding how risk assessments have met the needs of the risk managers.The present study also found that aspects of risk communication studied in this project are not extensively discussed in the guidance documents for risk analysis. More research is needed to identify the barriers for a fit for purpose communication.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying the Critical Success Factors and an Optimal Solution for Mobile Technology Adoption in Travel Agencies
+AU  - Lin, Sheng-Wei
+Y1  - 2017/03/01
+PY  - 2017
+DA  - 2017/03/01
+N1  - https://doi.org/10.1002/jtr.2092
+DO  - https://doi.org/10.1002/jtr.2092
+T2  - International Journal of Tourism Research
+JF  - International Journal of Tourism Research
+JO  - International Journal of Tourism Research
+JA  - Int. J. Tourism Res.
+SP  - 127
+EP  - 144
+VL  - 19
+IS  - 2
+KW  - travel agency
+KW  - mobile technology
+KW  - innovation diffusion theory
+KW  - critical success factors (CSFs)
+KW  - technology–organization–environment (TOE) framework
+KW  - cost–benefit framework
+PB  - John Wiley & Sons, Ltd
+SN  - 1099-2340
+M3  - https://doi.org/10.1002/jtr.2092
+UR  - https://doi.org/10.1002/jtr.2092
+Y2  - 2020/11/10
+N2  - Abstract To effectively use of mobile technologies, this study develops a multifaceted framework to analyze critical success factors and determine an optimal solution for mobile technology adoption by using hybrid multiple criteria decision-making methods. The results show that the most important and common critical success factors (CSFs) are top management support and consumer needs. Meanwhile, experienced adopters also addressed market trends and customer relationships, as well as prioritized the adoption of mobile websites, whereas potential adopters were concerned about organizational innovativeness and considered quick response (QR) codes as the most suitable mobile technology. Finally, some academic and managerial implications are offered at the end of the study. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Data collection for the identification of emerging risks related to food and feed
+AU  - European Food Safety Authority (EFSA)
+Y1  - 2011/08/01
+PY  - 2011
+DA  - 2011/08/01
+N1  - https://doi.org/10.2903/sp.efsa.2011.EN-185
+DO  - https://doi.org/10.2903/sp.efsa.2011.EN-185
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 185E
+VL  - 8
+IS  - 8
+KW  - Emerging risk
+KW  - food
+KW  - feed
+KW  - data collection
+KW  - data source
+KW  - indicator
+KW  - signal
+PB  - John Wiley & Sons, Ltd
+SN  - 2397-8325
+M3  - https://doi.org/10.2903/sp.efsa.2011.EN-185
+UR  - https://doi.org/10.2903/sp.efsa.2011.EN-185
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - Valuing Ecosystem Services in Semi-arid Rangelands through Stochastic Simulation
+AU  - Favretto, Nicola
+AU  - Luedeling, Eike
+AU  - Stringer, Lindsay C.
+AU  - Dougill, Andrew J.
+Y1  - 2017/01/01
+PY  - 2017
+DA  - 2017/01/01
+N1  - https://doi.org/10.1002/ldr.2590
+DO  - https://doi.org/10.1002/ldr.2590
+T2  - Land Degradation & Development
+JF  - Land Degradation & Development
+JO  - Land Degradation & Development
+JA  - Land Degrad. Develop.
+SP  - 65
+EP  - 73
+VL  - 28
+IS  - 1
+KW  - Monte Carlo simulation
+KW  - Botswana Kalahari
+KW  - economic valuation
+KW  - land degradation
+KW  - sustainable land management
+PB  - John Wiley & Sons, Ltd
+SN  - 1085-3278
+M3  - https://doi.org/10.1002/ldr.2590
+UR  - https://doi.org/10.1002/ldr.2590
+Y2  - 2020/11/10
+N2  - Abstract Ecosystem services and economic returns from semi-arid rangelands are threatened by land degradation. Policies to improve ecosystem service delivery often fail to consider uncertainty in economic returns gained through different land uses and management practices. We apply an analytical framework using stochastic simulation to estimate the range of potential monetary outcomes of rangeland ecosystem services under different land uses, including consideration of the uncertainty and variability of model parameters. We assess monetary and non-monetary dimensions, including those ecosystem services with uncertain and missing information, for communal rangelands, commercial ranches, game farms and Wildlife Management Areas in southern Kgalagadi District, Botswana. Public land uses (communal grazing areas and protected conservation land in Wildlife Management Areas) provide higher economic value than private land uses (commercial ranches and game farms), despite private land uses being more profitable in their returns from meat production. Communal rangelands and protected areas are important for a broader range of ecosystem services (cultural/spiritual services, recreation, firewood, construction material and wild food), which play a key role in sustaining the livelihoods of the largest share of society. The full range of ecosystem services should therefore be considered in economic assessments, while policies targeting sustainable land management should value and support their provision and utilisation. By forecasting the range of plausible ecosystem values of different rangeland land uses in monetary terms, our analysis provides policymakers with a tool to assess outcomes of land use and management decisions and policies. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Frameworks for innovation, collaboration, and change: Value creation wheel, design thinking, creative problem-solving, and lean
+AU  - Lages, Luis F.
+AU  - Ricard, Antonin
+AU  - Hemonnet-Goujot, Aurélie
+AU  - Guerin, Anne-Marie
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - https://doi.org/10.1002/jsc.2321
+DO  - https://doi.org/10.1002/jsc.2321
+T2  - Strategic Change
+JF  - Strategic Change
+JO  - Strategic Change
+JA  - Strategic Change
+SP  - 195
+EP  - 213
+VL  - 29
+IS  - 2
+PB  - John Wiley & Sons, Ltd
+SN  - 1086-1718
+M3  - https://doi.org/10.1002/jsc.2321
+UR  - https://doi.org/10.1002/jsc.2321
+Y2  - 2020/11/10
+N2  - Abstract The value creation wheel (VCW) is the decision-making meta-framework recommended to address innovation, collaboration, and change challenges in formal relationships. The VCW can integrate, complement, or be joined with other frameworks, tools, and theories to address the challenges of formal relationships. The VCW's ability to incorporate intra- and interorganizational insights emerging from internal and external stakeholders is especially useful in solving the challenges of collaborative arrangements. VCW solutions are often more realistic than Design Thinking, Creative Problem-Solving, and Lean because they accommodate the views of various stakeholders about ideas and filters, and because key decision makers must be involved in the main stages of the decision-making process.
+ER  - 
+
+TY  - JOUR
+T1  - DESERTIFICATION ASSESSMENT USING THE ANALYTIC HIERARCHY PROCESS AND GIS IN SOUTHEAST IRAN
+AU  - NEGARESH, HOSSEIN
+AU  - RAKHSHANI, ZEINAB
+AU  - FIROOZI, FATEMEH
+AU  - ALINIA, HADI
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - https://doi.org/10.1111/geoa.12120
+DO  - https://doi.org/10.1111/geoa.12120
+T2  - Geografiska Annaler: Series A, Physical Geography
+JF  - Geografiska Annaler: Series A, Physical Geography
+JO  - Geografiska Annaler: Series A, Physical Geography
+JA  - Geografiska Annaler: Series A, Physical Geography
+SP  - 1
+EP  - 14
+VL  - 98
+IS  - 1
+KW  - zoning
+KW  - natural disaster
+KW  - Sistan
+KW  - Baluchestan
+KW  - hazard
+PB  - John Wiley & Sons, Ltd
+SN  - 0435-3676
+M3  - https://doi.org/10.1111/geoa.12120
+UR  - https://doi.org/10.1111/geoa.12120
+Y2  - 2020/11/10
+N2  - ABSTRACT Studying the factors influencing desertification progress of a region and its resulting zoning can be effective in helping to reduce the damage of this phenomenon. This study attempted to investigate the factors influencing desertification progress; hence, it proceeded to zone Sistan and Baluchestan Province using three analytic hierarchy processes, Expert Choice software and a geographic information system. First, factors affecting desertification progress were checked and they were then used to determine the most important aspects in order of priority as follows: climatic elements (temperature, evaporation, wind, precipitation and humidity), morphology (topography and slope) and human factors (land cover). Then, a zoning map of desertification-prone lands was prepared. The results showed that, in terms of hazard progress of these lands, there were five desertification hazard regions in Sistan and Baluchestan Province with an area of about 187 502 km2 and high hazard regions covering approximately 29.2% of the province were located in the north of the province. High hazard regions with an approximate area of 3.20% of the total area of the province were mostly located in Saravan, Khash, and the surrounding areas; medium hazard regions with an approximate area of 19.6% were in Iranshahr and the southeastern part of the province; low hazard regions with an area of about 18.2% were in the southern parts of the province; and very low hazard regions with an approximate area of 12.7% were in Nikshahr and the southern parts of the province.
+ER  - 
+
+TY  - JOUR
+T1  - A Robust Framework for Multi-Response Surface Optimization Methodology
+AU  - Yadav, Om Prakash
+AU  - Thambidorai, Ganesh
+AU  - Nepal, Bimal
+AU  - Monplaisir, Leslie
+Y1  - 2014/03/01
+PY  - 2014
+DA  - 2014/03/01
+N1  - https://doi.org/10.1002/qre.1499
+DO  - https://doi.org/10.1002/qre.1499
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual. Reliab. Engng. Int.
+SP  - 301
+EP  - 311
+VL  - 30
+IS  - 2
+KW  - multi-response optimization
+KW  - design optimization
+KW  - correlated quality characteristics
+KW  - quality loss function
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - https://doi.org/10.1002/qre.1499
+UR  - https://doi.org/10.1002/qre.1499
+Y2  - 2020/11/10
+N2  - A robust multi-response optimization framework is proposed for simultaneously optimizing multiple conflicting quality characteristics. Unlike prior methods, the proposed approach is insensitive to subjective inputs like target specifications and improves optimization process for correlated responses. The effectiveness of the proposed approach is demonstrated and compared with existing methods considering two examples from the literature. The proposed method yields similar results consistently for different assigned target values demonstrating repeatability of the model, hence demonstrating insensitivity to assigned subjective target values. Furthermore, the study also considers multiple correlated design characteristics issue to achieve better trade-off during design optimization. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Modelling of Internet of Things units for estimating security-energy-performance relationships for quality of service and environment awareness
+AU  - Venckauskas, Algimantas
+AU  - Stuikys, Vytautas
+AU  - Damasevicius, Robertas
+AU  - Jusas, Nerijus
+Y1  - 2016/11/10
+PY  - 2016
+DA  - 2016/11/10
+N1  - https://doi.org/10.1002/sec.1537
+DO  - https://doi.org/10.1002/sec.1537
+T2  - Security and Communication Networks
+JF  - Security and Communication Networks
+JO  - Security and Communication Networks
+JA  - Security Comm. Networks
+SP  - 3324
+EP  - 3339
+VL  - 9
+IS  - 16
+KW  - Internet of Things
+KW  - quality of service
+KW  - security
+KW  - energy consumption
+KW  - feature-based model
+PB  - John Wiley & Sons, Ltd
+SN  - 1939-0114
+M3  - https://doi.org/10.1002/sec.1537
+UR  - https://doi.org/10.1002/sec.1537
+Y2  - 2020/11/10
+N2  - Abstract Complexity of Internet of Things (IoT) applications and difficulty to predict their behaviour in wireless communications make modelling of IoT units an important research topic. The IoT unit is considered here as the two-node IoT model that supports bi-directional wireless communications. There are many approaches to model security and energy awareness; however, little is known about the synergistic effect of those factors at the application level under the influence of environmental factors such as noise. The paper introduces a modelling framework to model the security-energy-environment issues as main attributes to allow defining quality of service (QoS) for the IoT-based applications. Among others, the healthcare ones are regarded as predominant now. We model IoT units using the feature-based modelling methodology adopted from the software engineering domain. The result of modelling is a set of feature models with valid configurations that describe the energy-security-environment-performance relationships and possible constraints to support various IoT applications. Having feature models, we can select a configuration that is best suited for a given IoT application with respect to QoS requirements. As feature models represent abstract relationships of domain factors, we need additionally to provide experiments to determine concrete values of modelled features. We describe the experimental system to measure energy consumption under the influencing factors. Both models (abstract and concrete) allow reasoning about QoS of the IoT applications. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - An opportunistic resource management model to overcome resource-constraint in the Internet of Things
+AU  - Safa, Nader Sohrabi
+AU  - Maple, Carsten
+AU  - Haghparast, Mahboobeh
+AU  - Watson, Tim
+AU  - Dianati, Mehrdad
+Y1  - 2019/04/25
+PY  - 2019
+DA  - 2019/04/25
+N1  - https://doi.org/10.1002/cpe.5014
+DO  - https://doi.org/10.1002/cpe.5014
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat Pract Exper
+SP  - e5014
+VL  - 31
+IS  - 8
+KW  - cloud
+KW  - Fog
+KW  - information security
+KW  - Internet of Things
+KW  - privacy
+KW  - resource
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.5014
+UR  - https://doi.org/10.1002/cpe.5014
+Y2  - 2020/11/10
+N2  - Summary Experts believe that the Internet of Things (IoT) is a new revolution in technology and has brought many advantages for our society. However, there are serious challenges in terms of information security and privacy protection. Smart objects usually do not have malware detection due to resource limitations and their intrusion detection work on a particular network. Low computation power, low bandwidth, low battery, storage, and memory contribute to a resource-constrained effect on information security and privacy protection in the domain of IoT. The capacity of fog and cloud computing such as efficient computing, data access, network and storage, supporting mobility, location awareness, heterogeneity, scalability, and low latency in secure communication positively influence information security and privacy protection in IoT. This study illustrates the positive effect of fog and cloud computing on the security of IoT systems and presents a decision-making model based on the object's characteristics such as computational power, storage, memory, energy consumption, bandwidth, packet delivery, hop-count, etc. This helps an IoT system choose the best nodes for creating the fog that we need in the IoT system. Our experiment shows that the proposed approach has less computational, communicational cost, and more productivity in compare with the situation that we choose the smart objects randomly to create a fog.
+ER  - 
+
+TY  - JOUR
+T1  - Data-Driven Assessment of the Association of Polymorphisms in 5-Fluorouracil Metabolism Genes with Outcome in Adjuvant Treatment of Colorectal Cancer
+AU  - Sarac, Sinan B.
+AU  - Rasmussen, Christian H.
+AU  - Afzal, Shoaib
+AU  - Thirstrup, Steffen
+AU  - Jensen, Søren A.
+AU  - Colding-Jørgensen, Morten
+AU  - Poulsen, Henrik E.
+AU  - Mosekilde, Erik
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - https://doi.org/10.1111/j.1742-7843.2012.00885.x
+DO  - https://doi.org/10.1111/j.1742-7843.2012.00885.x
+T2  - Basic & Clinical Pharmacology & Toxicology
+JF  - Basic & Clinical Pharmacology & Toxicology
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+SP  - 189
+EP  - 197
+VL  - 111
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 1742-7835
+M3  - https://doi.org/10.1111/j.1742-7843.2012.00885.x
+UR  - https://doi.org/10.1111/j.1742-7843.2012.00885.x
+Y2  - 2020/11/10
+N2  - Abstract A major challenge in the assessment of medicines, treatment options, etc., is to establish a framework for the comparison of risks and benefits of many different types and magnitudes, a framework that at the same time allows a clear distinction between the roles played by the statistical analyses of data and by judgements based on personal experience and expertise. The purpose of this study was to demonstrate how clinical data can be weighted, scored and presented by the use of an eight-step data-driven benefit?risk assessment method, where two genetic profiles are compared. Our aim was to present a comprehensive approach that is simple to apply, allows direct comparison of different types of risks and benefits, quantifies the clinical relevance of data and is tailored for the comparison of different options. We analysed a cohort of 302 patients with colorectal cancer treated with 5-Fluorouracil (5-FU). Endpoints were cure rate, survival rate, time-to-death (TTD), time-to-relapse (TTR) and main adverse drug reactions. Multifactor dimensionality reduction (MDR) was used to identify genetic interaction profiles associated with outcome. We have been able to demonstrate that a specific MDR-derived combination (the MDR-1 group) of dihydropyrimidine dehydrogenase and thymidylate synthase polymorphisms is associated with increased and clinically significant difference for cure and survival rates, TTD and probably also for TTR, which are seen as the most important endpoints. An inferior profile was observed for severe myocardial ischaemia. A probably inferior profile was seen for severe arthralgia/myalgia and severe infections. A clear superior profile was seen for severe mucositis/stomatitis. The proposed approach offers comprehensive, data-driven assessment that can facilitate decision processes, for example, in a clinical setting. It employs descriptive statistical methods to highlight the clinically relevant differences between options.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating the relationship between the course experience questionnaire and student satisfaction: A case from India
+AU  - Kaur, Sarbjeet
+AU  - Singh, Gurcharan
+AU  - Garg, Aashish
+Y1  - 2020/10/15
+PY  - 2020
+DA  - 2020/10/15
+N1  - https://doi.org/10.1002/pa.2471
+DO  - https://doi.org/10.1002/pa.2471
+T2  - Journal of Public Affairs
+JF  - Journal of Public Affairs
+JO  - Journal of Public Affairs
+JA  - J Public Affairs
+SP  - e2471
+VL  - n/a
+IS  - n/a
+PB  - John Wiley & Sons, Ltd
+SN  - 1472-3891
+M3  - https://doi.org/10.1002/pa.2471
+UR  - https://doi.org/10.1002/pa.2471
+Y2  - 2020/11/10
+N2  - Appraising and improving the quality of teaching is a central issue all over the world. Using the Course Experience Questionnaire (CEQ), the current study examined the relationship between teaching quality dimensions and student satisfaction. The study evaluates the post-graduate students' perception of teaching quality and its relation with overall student satisfaction in context to state public universities of Punjab, India. Data were collected from 348 post-graduate in management students. Confirmatory factor analysis was applied to evaluate the measurement model, and a further Structured Equation Model was applied to test the proposed research hypotheses. The results reveal that clear goals and standards, generic skills, and appropriate assessment have a direct impact on the overall student satisfaction, whereas appropriate workload and good teaching skills have an indirect effect on the overall satisfaction. The female structural model replicated the findings of the overall model and showed that generic skills and clear goals are more important in student satisfaction. In contrast, the male structural model was quite different; only appropriate assessment has a direct impact on student satisfaction. Several implications for the improvement of post-graduate management teaching quality and quality assurance in terms of lecture delivery and course planning in-state public universities of India were further discussed.
+ER  - 
+
+TY  - JOUR
+T1  - The 2010 American College of Rheumatology/European League Against Rheumatism classification criteria for rheumatoid arthritis: Phase 2 methodological report
+AU  - Neogi, Tuhina
+AU  - Aletaha, Daniel
+AU  - Silman, Alan J.
+AU  - Naden, Raymond L.
+AU  - Felson, David T.
+AU  - Aggarwal, Rohit
+AU  - Bingham III, Clifton O.
+AU  - Birnbaum, Neal S.
+AU  - Burmester, Gerd R.
+AU  - Bykerk, Vivian P.
+AU  - Cohen, Marc D.
+AU  - Combe, Bernard
+AU  - Costenbader, Karen H.
+AU  - Dougados, Maxime
+AU  - Emery, Paul
+AU  - Ferraccioli, Gianfranco
+AU  - Hazes, Johanna M. W.
+AU  - Hobbs, Kathryn
+AU  - Huizinga, Tom W. J.
+AU  - Kavanaugh, Arthur
+AU  - Kay, Jonathan
+AU  - Khanna, Dinesh
+AU  - Kvien, Tore K.
+AU  - Laing, Timothy
+AU  - Liao, Katherine
+AU  - Mease, Philip
+AU  - Ménard, Henri A.
+AU  - Moreland, Larry W.
+AU  - Nair, Raj
+AU  - Pincus, Theodore
+AU  - Ringold, Sarah
+AU  - Smolen, Josef S.
+AU  - Stanislawska-Biernat, Ewa
+AU  - Symmons, Deborah
+AU  - Tak, Paul P.
+AU  - Upchurch, Katherine S.
+AU  - Vencovský, Jiří
+AU  - Wolfe, Frederick
+AU  - Hawker, Gillian
+Y1  - 2010/09/01
+PY  - 2010
+DA  - 2010/09/01
+N1  - https://doi.org/10.1002/art.27580
+DO  - https://doi.org/10.1002/art.27580
+T2  - Arthritis & Rheumatism
+JF  - Arthritis & Rheumatism
+JO  - Arthritis & Rheumatism
+JA  - Arthritis & Rheumatism
+SP  - 2582
+EP  - 2591
+VL  - 62
+IS  - 9
+PB  - John Wiley & Sons, Ltd
+SN  - 0004-3591
+M3  - https://doi.org/10.1002/art.27580
+UR  - https://doi.org/10.1002/art.27580
+Y2  - 2020/11/10
+N2  - Abstract Objective The American College of Rheumatology and the European League Against Rheumatism have developed new classification criteria for rheumatoid arthritis (RA). The aim of Phase 2 of the development process was to achieve expert consensus on the clinical and laboratory variables that should contribute to the final criteria set. Methods Twenty-four expert RA clinicians (12 from Europe and 12 from North America) participated in Phase 2. A consensus-based decision analysis approach was used to identify factors (and their relative weights) that influence the probability of ?developing RA,? complemented by data from the Phase 1 study. Patient case scenarios were used to identify and reach consensus on factors important in determining the probability of RA development. Decision analytic software was used to derive the relative weights for each of the factors and their categories, using choice-based conjoint analysis. Results The expert panel agreed that the new classification criteria should be applied to individuals with undifferentiated inflammatory arthritis in whom at least 1 joint is deemed by an expert assessor to be swollen, indicating definite synovitis. In this clinical setting, they identified 4 additional criteria as being important: number of joints involved and site of involvement, serologic abnormality, acute-phase response, and duration of symptoms in the involved joints. These criteria were consistent with those identified in the Phase 1 data-driven approach. Conclusion The consensus-based, decision analysis approach used in Phase 2 complemented the Phase 1 efforts. The 4 criteria and their relative weights form the basis of the final criteria set.
+ER  - 
+
+TY  - JOUR
+T1  - Expanding the role of social science in conservation through an engagement with philosophy, methodology, and methods
+AU  - Moon, Katie
+AU  - Blackman, Deborah A.
+AU  - Adams, Vanessa M.
+AU  - Colvin, Rebecca M.
+AU  - Davila, Federico
+AU  - Evans, Megan C.
+AU  - Januchowski-Hartley, Stephanie R.
+AU  - Bennett, Nathan J.
+AU  - Dickinson, Helen
+AU  - Sandbrook, Chris
+AU  - Sherren, Kate
+AU  - St. John, Freya A. V.
+AU  - van Kerkhoff, Lorrae
+AU  - Wyborn, Carina
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - https://doi.org/10.1111/2041-210X.13126
+DO  - https://doi.org/10.1111/2041-210X.13126
+T2  - Methods in Ecology and Evolution
+JF  - Methods in Ecology and Evolution
+JO  - Methods in Ecology and Evolution
+JA  - Methods Ecol Evol
+SP  - 294
+EP  - 302
+VL  - 10
+IS  - 3
+KW  - conservation social science
+KW  - decision-making
+KW  - focus groups
+KW  - guideline
+KW  - interviews
+KW  - policymaking
+KW  - qualitative data
+KW  - surveys
+PB  - John Wiley & Sons, Ltd
+SN  - 2041-210X
+M3  - https://doi.org/10.1111/2041-210X.13126
+UR  - https://doi.org/10.1111/2041-210X.13126
+Y2  - 2020/11/10
+N2  - Abstract The Special Feature led by Sutherland, Dicks, Everard, and Geneletti (Methods Ecology and Evolution, 9, 7?9, 2018) sought to highlight the importance of ?qualitative methods? for conservation. The intention is welcome, and the collection makes many important contributions. Yet, the articles presented a limited perspective on the field, with a focus on objectivist and instrumental methods, omitting discussion of some broader philosophical and methodological considerations crucial to social science research. Consequently, the Special Feature risks narrowing the scope of social science research and, potentially, reducing its quality and usefulness. In this article, we seek to build on the strengths of the articles of the Special Feature by drawing in a discussion on social science research philosophy, methodology, and methods. We start with a brief discussion on the value of thinking about data as being qualitative (i.e., text, image, or numeric) or quantitative (i.e., numeric), not methods or research. Thinking about methods as qualitative can obscure many important aspects of research design by implying that ?qualitative methods? somehow embody a particular set of assumptions or principles. Researchers can bring similar, or very different, sets of assumptions to their research design, irrespective of whether they collect qualitative or quantitative data. We clarify broad concepts, including philosophy, methodology, and methods, explaining their role in social science research design. Doing so provides us with an opportunity to examine some of the terms used across the articles of the Special Feature (e.g., bias), revealing that they are used in ways that could be interpreted as being inconsistent with their use in a number of applications of social science. We provide worked examples of how social science research can be designed to collect qualitative data that not only understands decision-making processes, but also the unique social?ecological contexts in which it takes place. These examples demonstrate the importance of coherence between philosophy, methodology, and methods in research design, and the importance of reflexivity throughout the research process. We conclude with encouragement for conservation social scientists to explore a wider range of qualitative research approaches, providing guidance for the selection and application of social science methods for ecology and conservation.
+ER  - 
+
+TY  - JOUR
+T1  - Experiences and Attitudes Towards Evidence-Informed Policy-Making Among Research and Policy Stakeholders in the Canadian Agri-Food Public Health Sector
+AU  - Young, I.
+AU  - Gropp, K.
+AU  - Pintar, K.
+AU  - Waddell, L.
+AU  - Marshall, B.
+AU  - Thomas, K.
+AU  - McEwen, S.A.
+AU  - Rajić, A.
+Y1  - 2014/12/01
+PY  - 2014
+DA  - 2014/12/01
+N1  - https://doi.org/10.1111/zph.12108
+DO  - https://doi.org/10.1111/zph.12108
+T2  - Zoonoses and Public Health
+JF  - Zoonoses and Public Health
+JO  - Zoonoses and Public Health
+JA  - Zoonoses Public Health
+SP  - 581
+EP  - 589
+VL  - 61
+IS  - 8
+KW  - Agri-food public health
+KW  - evidence-informed policy-making
+KW  - knowledge transfer and exchange
+KW  - qualitative research
+PB  - John Wiley & Sons, Ltd
+SN  - 1863-1959
+M3  - https://doi.org/10.1111/zph.12108
+UR  - https://doi.org/10.1111/zph.12108
+Y2  - 2020/11/10
+N2  - Summary Policy-makers working at the interface of agri-food and public health often deal with complex and cross-cutting issues that have broad health impacts and socio-economic implications. They have a responsibility to ensure that policy-making based on these issues is accountable and informed by the best available scientific evidence. We conducted a qualitative descriptive study of agri-food public health policy-makers and research and policy analysts in Ontario, Canada, to understand their perspectives on how the policy-making process is currently informed by scientific evidence and how to facilitate this process. Five focus groups of 3?7 participants and five-one-to-one interviews were held in 2012 with participants from federal and provincial government departments and industry organizations in the agri-food public health sector. We conducted a thematic analysis of the focus group and interview transcripts to identify overarching themes. Participants indicated that the following six key principles are necessary to enable and demonstrate evidence-informed policy-making (EIPM) in this sector: (i) establish and clarify the policy objectives and context; (ii) support policy-making with credible scientific evidence from different sources; (iii) integrate scientific evidence with other diverse policy inputs (e.g. economics, local applicability and stakeholder interests); (iv) ensure that scientific evidence is communicated by research and policy stakeholders in relevant and user-friendly formats; (V) create and foster interdisciplinary relationships and networks across research and policy communities; and (VI) enhance organizational capacity and individual skills for EIPM. Ongoing and planned efforts in these areas, a supportive culture, and additional education and training in both research and policy realms are important to facilitate evidence-informed policy-making in this sector. Future research should explore these findings further in other countries and contexts.
+ER  - 
+
+TY  - JOUR
+T1  - Storytelling for sustainable development in rural communities: An alternative approach
+AU  - Lowery, Brennan
+AU  - Dagevos, John
+AU  - Chuenpagdee, Ratana
+AU  - Vodden, Kelly
+Y1  - 2020/09/02
+PY  - 2020
+DA  - 2020/09/02
+N1  - https://doi.org/10.1002/sd.2124
+DO  - https://doi.org/10.1002/sd.2124
+T2  - Sustainable Development
+JF  - Sustainable Development
+JO  - Sustainable Development
+JA  - Sustainable Development
+VL  - n/a
+IS  - n/a
+KW  - rural development
+KW  - stakeholder engagement
+KW  - storytelling
+KW  - sustainability indicators
+KW  - sustainable development
+PB  - John Wiley & Sons, Ltd
+SN  - 0968-0802
+M3  - https://doi.org/10.1002/sd.2124
+UR  - https://doi.org/10.1002/sd.2124
+Y2  - 2020/11/10
+N2  - Abstract Mainstream conceptualizations of sustainable development (SD) tend to focus on urban areas or the national or global scale?most recently through the Sustainable Development Goals. This focus often overlooks rural and natural resource-based communities, particularly those dependent on renewable resources like fisheries or forestry. Drawing from a comprehensive review, we propose an alternative approach for interpreting and measuring SD in these contexts. We integrate two seemingly contradictory approaches: sustainability indicators (SIs), whose evolution reflects competing views of the nature of knowledge and action in pursuit of SD, and the use of storytelling in policy and planning, highlighting how actors tell stories to garner support for proposed developments, influence public understanding, and mobilize stakeholders. Examining the opposing epistemologies often underlying these two approaches, we posit that they can be brought together through a transdisciplinary lens for sustainable rural development. We illustrate these potentials in Newfoundland and Labrador, a highly resource-based region in which rural communities are often characterized by deficiencies based narratives. In such contexts, storytelling can allow rural stakeholders to interpret SD while potentially enlisting SIs in telling their own sustainability stories.
+ER  - 
+
+TY  - JOUR
+T1  - Generation of a Core Set of Items to Develop Classification Criteria for Scleroderma Renal Crisis Using Consensus Methodology
+AU  - Butler, Emily-Ann
+AU  - Baron, Murray
+AU  - Fogo, Agnes B.
+AU  - Frech, Tracy
+AU  - Ghossein, Cybele
+AU  - Hachulla, Eric
+AU  - Hoa, Sabrina
+AU  - Johnson, Sindhu R.
+AU  - Khanna, Dinesh
+AU  - Mouthon, Luc
+AU  - Nikpour, Mandana
+AU  - Proudman, Susanna
+AU  - Steen, Virginia
+AU  - Stern, Edward
+AU  - Varga, John
+AU  - Denton, Christopher
+AU  - Hudson, Marie
+AU  - the Scleroderma Clinical Trials Consortium Scleroderma Renal Crisis Working Group
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1002/art.40809
+DO  - https://doi.org/10.1002/art.40809
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+SP  - 964
+EP  - 971
+VL  - 71
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 2326-5191
+M3  - https://doi.org/10.1002/art.40809
+UR  - https://doi.org/10.1002/art.40809
+Y2  - 2020/11/10
+N2  - Objective To generate a core set of items to develop classification criteria for scleroderma renal crisis (SRC) using consensus methodology. Methods An international, multidisciplinary panel of experts was invited to participate in a 3-round Delphi exercise developed using a survey based on items identified by a scoping review. In round 1, participants were asked to identify omissions and clarify ambiguities regarding the items in the survey. In round 2, participants were asked to rate the validity and feasibility of the items using Likert-type scales ranging from 1 to 9 (where 1 = very invalid/unfeasible, 5 = uncertain, and 9 = very valid/feasible). In round 3, participants reviewed the results and comments from round 2 and were asked to provide final ratings. Items rated as highly valid and feasible (median scores ≥7 for each) in round 3 were selected as the provisional core set of items. A consensus meeting using a nominal group technique was conducted to further reduce the core set of items. Results Ninety-nine experts from 16 countries participated in the Delphi exercise. Of the 31 items in the survey, consensus was achieved on 13, in the categories hypertension, renal insufficiency, proteinuria, and hemolysis. Eleven experts took part in the nominal group technique discussion, where consensus was achieved in 5 domains: blood pressure, acute kidney injury, microangiopathic hemolytic anemia, target organ dysfunction, and renal histopathology. Conclusion A core set of items that characterize SRC was identified using consensus methodology. This core set will be used in future data-driven phases of this project to develop classification criteria for SRC.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring factors affecting decision outcome and lead time in large-scale requirements engineering
+AU  - Wnuk, Krzysztof
+AU  - Kabbedijk, Jaap
+AU  - Brinkkemper, Sjaak
+AU  - Regnell, Björn
+AU  - Callele, David
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1002/smr.1721
+DO  - https://doi.org/10.1002/smr.1721
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J. Softw. Evol. and Proc.
+SP  - 647
+EP  - 673
+VL  - 27
+IS  - 9
+KW  - requirements engineering
+KW  - decision making
+KW  - market-driven requirements engineering
+KW  - software product lines
+PB  - John Wiley & Sons, Ltd
+SN  - 2047-7473
+M3  - https://doi.org/10.1002/smr.1721
+UR  - https://doi.org/10.1002/smr.1721
+Y2  - 2020/11/10
+N2  - Abstract Lead time, defined as the duration between the moment a request was filed and the moment the decision was made, is an important aspect of decision making in market-driven requirements engineering. Minimizing lead time allows software companies to focus their resources on the most profitable functionality and enables them to remain competitive within the quickly changing software market. Achieving and sustaining low decision lead time and the resulting high decision efficiency require a better understanding of factors that may affect both decision lead time and outcome. In order to identify possible factors, we conducted an exploratory two-stage case study that combines the statistical analysis of seven possible relationships among decision characteristics at a large company with a survey of industry participants. Our results show that the number of products affected by a decision increases the time needed to make a decision. Practitioners should take this aspect into consideration when planning for efficient decision making and possibly reducing the complexity of decisions. Our results also show that when a change request originates from an important customer, the request is more often accepted. The results provide input into the discussion of whether a large company should focus on only a few of its large customers and disregard its significantly larger group of small customers. The results provide valuable insights for researchers, who can use them to plan research of decision-making processes and methods, and for practitioners, who can use them to optimize their decision-making processes. In future work, we plan to investigate other decision characteristics, such as the number of stakeholders involved in the discussion about the potential change or the number of dependencies between software components. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating and selecting the biometrics in network security
+AU  - Liu, Che-Hung
+AU  - Wang, Jen-Sheng
+AU  - Peng, Chih-Chiang
+AU  - Shyu, Joseph Z.
+Y1  - 2015/03/25
+PY  - 2015
+DA  - 2015/03/25
+N1  - https://doi.org/10.1002/sec.1020
+DO  - https://doi.org/10.1002/sec.1020
+T2  - Security and Communication Networks
+JF  - Security and Communication Networks
+JO  - Security and Communication Networks
+JA  - Security Comm. Networks
+SP  - 727
+EP  - 739
+VL  - 8
+IS  - 5
+KW  - biometrics
+KW  - network security
+KW  - fuzzy analytic hierarchy process
+KW  - best non-fuzzy performance
+PB  - John Wiley & Sons, Ltd
+SN  - 1939-0114
+M3  - https://doi.org/10.1002/sec.1020
+UR  - https://doi.org/10.1002/sec.1020
+Y2  - 2020/11/10
+N2  - Abstract Since Apple merged with AuthenTec, a leading fingerprint recognition company, in 2012, biometrics has widely been considered to strengthen security and privacy in the network security field. Although biometrics has been applied in specific areas for decades, it has gradually proliferated in customer and mobile electronic products to enhance security and privacy. This study aims to evaluate biometrics through conventional technology assessment considerations combined with viewpoints on the specifics of biometric technologies and then to provide suggestions for selection. To conduct the biometric technology assessment, the fuzzy analytic hierarchy process and non-fuzzy best performance approaches are used. Although the outcomes first indicate that technology assessment should be the key object in selecting biometric technologies, that object is followed by biometric competence and key elements of biometrics. The outcomes also indicate that features of the target technologies should be considered when evaluating them. Additionally, fingerprint recognition, iris recognition, and face recognition are the preferred biometrics in evaluation and selection. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Prevention of Terrorism–An Assessment of Prior POM Work and Future Potentials
+AU  - Gupta, Sushil
+AU  - Starr, Martin K.
+AU  - Zanjirani Farahani, Reza
+AU  - Ghodsi, Mahsa Mahboob
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1111/poms.13192
+DO  - https://doi.org/10.1111/poms.13192
+T2  - Production and Operations Management
+JF  - Production and Operations Management
+JO  - Production and Operations Management
+JA  - Prod Oper Manag
+SP  - 1789
+EP  - 1815
+VL  - 29
+IS  - 7
+KW  - prevention
+KW  - terrorist attack
+KW  - disaster management
+KW  - humanitarian operations
+KW  - weapons of mass destruction
+KW  - disaster supply chains
+KW  - and Federal Emergency Management Agency
+PB  - John Wiley & Sons, Ltd
+SN  - 1059-1478
+M3  - https://doi.org/10.1111/poms.13192
+UR  - https://doi.org/10.1111/poms.13192
+Y2  - 2020/11/10
+N2  - In this study, we review POM-based research related to prevention of terrorism. According to the Federal Emergency Management Agency (FEMA) terrorist attacks have the potential to be prevented. Consequently, the focus of this study is on security enhancement and improving the resiliency of a nation to prevent terrorist attacks. Accordingly, we review articles from the 25 top journals, [following procedures developed by Gupta et al. (2016)], in the fields of Production and Operations Management, Operations Research, Management Science, and Supply Chain Management. In addition, we searched some selected journals in the fields of Information Sciences, Political Science, and Economics. This literature is organized and reviewed under the following seven core capabilities defined by the Department of Homeland Security (DHS): (1) Intelligence and Information Sharing, (2) Planning, (3) Interdiction and Disruption, (4) Screening, Search, and Detection, (5) Forensics and Attribution, (6) Public Information and Warning, and (7) Operational Coordination. We found that POM research on terrorism is primarily driven by the type of information that a defending country and a terrorist have about each other. Game theory is the main technique that is used in most research papers. Possible directions for future research are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Habitat suitability modeling for mink passage activity: A cautionary tale
+AU  - Martinig, April Robin
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - https://doi.org/10.1002/jwmg.21307
+DO  - https://doi.org/10.1002/jwmg.21307
+T2  - The Journal of Wildlife Management
+JF  - The Journal of Wildlife Management
+JO  - The Journal of Wildlife Management
+JA  - Jour. Wild. Mgmt.
+SP  - 1439
+EP  - 1448
+VL  - 81
+IS  - 8
+KW  - American mink
+KW  - animal movement
+KW  - Canada
+KW  - connectivity
+KW  - geographic information system (GIS)
+KW  - habitat suitability index (HSI)
+KW  - Neovison vison
+KW  - planning
+KW  - resource selection functions (RSF)
+KW  - wildlife passages
+PB  - John Wiley & Sons, Ltd
+SN  - 0022-541X
+M3  - https://doi.org/10.1002/jwmg.21307
+UR  - https://doi.org/10.1002/jwmg.21307
+Y2  - 2020/11/10
+N2  - ABSTRACT Many studies have evaluated wildlife passage effectiveness, but few have explored how accurately passage activity can be modeled. I created a habitat suitability index (HSI) model for American mink (Neovison vison) using a geographic information system with 17 wildlife passages located in Quebec, Canada as validation for the model. I addressed how well HSI modeling using constrained habitat data could determine mink passage activity and tested model sensitivity to different parameterizations. Uncertainty analysis revealed that the HSI model was sensitive to extreme changes in factor weights and scale. I used a generalized linear model to test how well the constrained HSI model explained the variability in passage activity (counts). For the HSI model (and all alternatives) the HSI scores were negatively associated with passage use. The predictive power of all models greatly improved after including aspects related to passage construction, with the pseudo-R2 increasing by 64?73%. These findings suggest that the constrained HSI models are a poor predicator of passage activity for mink, but wildlife passage characteristics are highly predictive. Transportation agencies would benefit from the ability to make informed planning decisions; however, greater care is required to determine passage suitability. The proper implementation of these tools requires knowledge of habitat preferences and how movement is influenced by the wildlife passages themselves. ? 2017 The Wildlife Society.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-objective optimization strategy based on desirability functions used for electrophoratic separation and quantification of rosiglitazone and glimepiride in plasma and formulations
+AU  - Hefnawy, Mohamed M.
+AU  - Sultan, Maha A.
+AU  - Al-Johar, Haya I.
+AU  - Kassem, Mohamed G.
+AU  - Aboul-Enein, Hassan Y.
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - https://doi.org/10.1002/dta.260
+DO  - https://doi.org/10.1002/dta.260
+T2  - Drug Testing and Analysis
+JF  - Drug Testing and Analysis
+JO  - Drug Testing and Analysis
+JA  - Drug Test Analysis
+SP  - 39
+EP  - 47
+VL  - 4
+IS  - 1
+KW  - multi-objective optimization
+KW  - desirability function
+KW  - capillary electrophoresis
+KW  - rosiglitazone and glimepiride
+PB  - John Wiley & Sons, Ltd
+SN  - 1942-7603
+M3  - https://doi.org/10.1002/dta.260
+UR  - https://doi.org/10.1002/dta.260
+Y2  - 2020/11/10
+N2  - Multiple response simultaneous optimization employing Derringer's desirability function was used for the development of a capillary electrophoresis method for the simultaneous determination of rosiglitazone (RSG) and glimepiride (GLM) in plasma and formulations. Twenty experiments, taking the two resolutions, the analysis time, and the capillary current as the responses with three important factors?buffer morality, volte and column temperature?were used to design mathematical models. The experimental responses were fitted into a second order polynomial and the six responses were simultaneously optimized to predict the optimum conditions for the effective separation of the studied compounds. The separation was carried out by using capillary zone electrophoresis (CZE) with a silica capillary column and diode array detector at 210 nm. The optimum assay conditions were 52 mmol l?1 phosphate buffer, pH 7, and voltage of 22 kV at 29 °C. The method showed good agreement between the experimental data and predictive value throughout the studied parameter space. The assay limit of detection was 0.02 µgml?1 and the effective working range at relative standard deviation (RSD) of ≤ 5% was 0.05?16 µgml?1 (r = 0.999) for both drugs. Analytical recoveries of the studied drugs from spiked plasma were 97.2?101.9 ± 0.31?3.0%. The precision of the assay was satisfactory; RSD was 1.07 and 1.14 for intra- and inter-assay precision, respectively. The proposed method has a great value in routine analysis of RSG and GLM for its therapeutic monitoring and pharmacokinetic studies. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 

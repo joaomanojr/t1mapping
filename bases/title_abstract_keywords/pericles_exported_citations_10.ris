@@ -1,0 +1,602 @@
+
+TY  - JOUR
+T1  - Using expert opinion to identify and determine the relative impact of threats to sea turtles in Mozambique
+AU  - Williams, Jessica L.
+AU  - Pierce, Simon J.
+AU  - Hamann, Mark
+AU  - Fuentes, Mariana M.P.B.
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1002/aqc.3160
+DO  - https://doi.org/10.1002/aqc.3160
+T2  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JF  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JO  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JA  - Aquatic Conserv: Mar Freshw Ecosyst
+SP  - 1936
+EP  - 1948
+VL  - 29
+IS  - 11
+KW  - coastal
+KW  - conservation evaluation
+KW  - endangered species
+KW  - fishing
+KW  - gap analysis
+KW  - ocean
+KW  - reptiles
+PB  - John Wiley & Sons, Ltd
+SN  - 1052-7613
+M3  - https://doi.org/10.1002/aqc.3160
+UR  - https://doi.org/10.1002/aqc.3160
+Y2  - 2020/11/10
+N2  - Abstract Although robust and consistent long-term datasets are lacking, it is commonly accepted that sea turtle populations face significant human threats while using Mozambique's coastal habitats. While multiple threats have been identified, their relative impact ? and thus the ability to prioritize limited conservation resources ? is poorly known. To obtain a better understanding of these threats, information from experts was elicited through a semi-structured survey using open and closed-ended questions. Experts in research, conservation and management of sea turtles were identified and asked to identify key threats and to complete pairwise comparison matrixes to determine the relative weight (w) of each threat (13 criterion, n = 24 questions). Weights for the perceived impact of threats were calculated from scores given in the pair-wise matrix using the analytic hierarchy process. Responses (n = 18) to open-ended survey questions were thematically coded and discussed according to common themes (e.g. extent of knowledge, limitations, conservation management tools) identified. Bycatch from commercial trawling (w = 13.65), artisanal fishing (w = 12.30) and hunting of nesting turtles (w = 11.33) were the top threats identified, in order of relative impact. While two of the three top threats are widely distributed and likely to be logistically and resource intensive to address, the top-scoring threat, ?bycatch from commercial trawling', is a clearly defined target for conservation intervention. Given a lack of baseline or published data, soliciting expert opinion was an efficient way to identify emergent threats, along with the success and limiting factors influencing sea turtle conservation in a developing nation. The methodology and technique implemented here are transferable. Expert surveys can provide valuable insights in locations with similar socio-economic environments and limited empirical data to help clarify the relative impact of various threats.
+ER  - 
+
+TY  - JOUR
+T1  - Portfolio Analysis of Layered Security Measures
+AU  - Chatterjee, Samrat
+AU  - Hora, Stephen C.
+AU  - Rosoff, Heather
+Y1  - 2015/03/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - https://doi.org/10.1111/risa.12303
+DO  - https://doi.org/10.1111/risa.12303
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 459
+EP  - 475
+VL  - 35
+IS  - 3
+KW  - Expert elicitation
+KW  - homeland security
+KW  - portfolio decision analysis
+KW  - probabilistic risk assessment
+KW  - systems analysis
+KW  - terrorism risk
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.12303
+UR  - https://doi.org/10.1111/risa.12303
+Y2  - 2020/11/10
+N2  - Layered defenses are necessary for protecting the public from terrorist attacks. Designing a system of such defensive measures requires consideration of the interaction of these countermeasures. In this article, we present an analysis of a layered security system within the lower Manhattan area. It shows how portfolios of security measures can be evaluated through portfolio decision analysis. Consideration is given to the total benefits and costs of the system. Portfolio diagrams are created that help communicate alternatives among stakeholders who have differing views on the tradeoffs between security and economic activity.
+ER  - 
+
+TY  - JOUR
+T1  - Combining Life Cycle Assessment with Data Science to Inform Portfolio-Level Value-Chain Engineering
+AU  - Meinrenken, Christoph J.
+AU  - Sauerhaft, Beth C.
+AU  - Garvan, Anthony N.
+AU  - Lackner, Klaus S.
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - https://doi.org/10.1111/jiec.12182
+DO  - https://doi.org/10.1111/jiec.12182
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+JA  - Journal of Industrial Ecology
+SP  - 641
+EP  - 651
+VL  - 18
+IS  - 5
+KW  - enterprise resource planning (ERP)
+KW  - industrial ecology
+KW  - key performance indicator (KPI)
+KW  - life cycle assessment (LCA)
+KW  - product design
+KW  - supply chain management
+PB  - John Wiley & Sons, Ltd
+SN  - 1088-1980
+M3  - https://doi.org/10.1111/jiec.12182
+UR  - https://doi.org/10.1111/jiec.12182
+Y2  - 2020/11/10
+N2  - Summary Life cycle assessment (LCA)-based analyses of company value chains can inspire profound modifications to products? design, material procurement, manufacturing, energy/water use, distribution, use, and disposal. However, such modifications often create trade-offs, improving some aspects while worsening others. How can firms decide whether or not to carry out such modifications? Or prioritize between different options to choose the one delivering the most competitive advantage? Typically, firms? metrics fall into two groups: (1) product-level metrics across the life cycle, including up- and downstream of facilities (e.g., product carbon footprints); and (2) facility-level metrics (e.g., plants? annual energy cost). Neither is sufficient for firm-wide cost-benefit analyses of modifications that affect multiple products and value-chain stages. Whereas facility-level metrics do not capture up- and downstream effects?where often most cost and environmental impacts originate?life cycle methodologies are currently not mature enough to be applied at the scale of entire product portfolios. We present a pilot system of key performance indicators (KPIs) that evaluate 3,337 products across 211 brands and five countries of PepsiCo, Inc. KPIs are firm-wide, annual figures (environmental, operational, and financial) across the value chain (cradle to grave) and can be determined at any level (single product, brands, or regions). Uncertainty analysis is included. In addition to KPIs for base cases, the system characterizes KPI impacts for any considered modifications (what-if scenarios). In a detailed case study, we present background about how and why PepsiCo used the system to evaluate all aspects of a strategic value-chain modification. For 7 of the 211 brands, this resulted in avoiding an 8% increase in greenhouse gas emissions and a 7% to 10% increase in procurement costs. It also saved PepsiCo an estimated ?200 years full-time equivalent employee time (or alternatively ?US$30 million in LCA consultant fees) had the LCAs of the 3,337 SKUs been carried out by traditional methods. This cost efficiency of the KPI system enables considering environmental impacts with more-traditional business metrics side by side. As a result, environmental impacts can be considered on a routine basis as part of integrated strategy and business planning. We discuss implementation considerations of the KPI methodology and future improvements.
+ER  - 
+
+TY  - JOUR
+T1  - Distributional Cost-Effectiveness Analysis of Health Care Programmes – A Methodological Case Study of the UK Bowel Cancer Screening Programme
+AU  - Asaria, Miqdad
+AU  - Griffin, Susan
+AU  - Cookson, Richard
+AU  - Whyte, Sophie
+AU  - Tappenden, Paul
+Y1  - 2015/06/01
+PY  - 2015
+DA  - 2015/06/01
+N1  - https://doi.org/10.1002/hec.3058
+DO  - https://doi.org/10.1002/hec.3058
+T2  - Health Economics
+JF  - Health Economics
+JO  - Health Economics
+JA  - Health Econ.
+SP  - 742
+EP  - 754
+VL  - 24
+IS  - 6
+KW  - health inequality
+KW  - equity
+KW  - cost-effectiveness analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 1057-9230
+M3  - https://doi.org/10.1002/hec.3058
+UR  - https://doi.org/10.1002/hec.3058
+Y2  - 2020/11/10
+N2  - Abstract This paper presents an application of a new methodological framework for undertaking distributional cost-effectiveness analysis to combine the objectives of maximising health and minimising unfair variation in health when evaluating population health interventions. The National Health Service bowel cancer screening programme introduced in 2006 is expected to improve population health on average and to worsen population health inequalities associated with deprivation and ethnicity ? a classic case of ?intervention-generated inequality?. We demonstrate the distributional cost-effectiveness analysis framework by examining two redesign options for the bowel cancer screening programme: (i) the introduction of an enhanced targeted reminder aimed at increasing screening uptake in deprived and ethnically diverse neighbourhoods and (ii) the introduction of a basic universal reminder aimed at increasing screening uptake across the whole population. Our analysis indicates that the universal reminder is the strategy that maximises population health, while the targeted reminder is the screening strategy that minimises unfair variation in health. The framework is used to demonstrate how these two objectives can be traded off against each other, and how alternative social value judgements influence the assessment of which strategy is best, including judgements about which dimensions of health variation are considered unfair and judgements about societal levels of inequality aversion. ? 2014 The Authors. Health Economics published by John Wiley & Sons Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Book Reviews
+AU  - Suter, Glenn
+Y1  - 2012/10/01
+PY  - 2012
+DA  - 2012/10/01
+N1  - https://doi.org/10.1002/ieam.1340
+DO  - https://doi.org/10.1002/ieam.1340
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 768
+EP  - 772
+VL  - 8
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 1551-3777
+M3  - https://doi.org/10.1002/ieam.1340
+UR  - https://doi.org/10.1002/ieam.1340
+Y2  - 2020/11/10
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive approach to problems of performance measurement
+AU  - Fisher, N. I.
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1111/rssa.12424
+DO  - https://doi.org/10.1111/rssa.12424
+T2  - Journal of the Royal Statistical Society: Series A (Statistics in Society)
+JF  - Journal of the Royal Statistical Society: Series A (Statistics in Society)
+JO  - Journal of the Royal Statistical Society: Series A (Statistics in Society)
+JA  - J. R. Stat. Soc. A
+SP  - 755
+EP  - 803
+VL  - 182
+IS  - 3
+KW  - Alignment
+KW  - Bibliometrics
+KW  - Customer value management
+KW  - Key performance indicators
+KW  - Performance indicators
+KW  - Performance measurement system
+KW  - Research quality
+KW  - Satisfaction surveys
+KW  - Stakeholder value
+KW  - Text mining
+KW  - Topic modelling
+KW  - Value surveys
+PB  - John Wiley & Sons, Ltd
+SN  - 0964-1998
+M3  - https://doi.org/10.1111/rssa.12424
+UR  - https://doi.org/10.1111/rssa.12424
+Y2  - 2020/11/10
+N2  - Summary The paper describes a comprehensive approach to problems of performance measurement that can be used to tackle a wide range of situations, including designing monthly board and leadership reports in enterprises, assessing research quality and monitoring the efficiency and effectiveness of government programmes. It provides a review of various methods for tackling these problems and outlines some current areas of research. Although technical statistical issues are buried somewhat below the surface, statistical thinking is very much part of the main line of argument, meaning that performance measurement should be an area attracting serious attention from statisticians.
+ER  - 
+
+TY  - JOUR
+T1  - Probabilistic linguistic information fusion: A survey on aggregation operators in terms of principles, definitions, classifications, applications, and challenges
+AU  - Mi, Xiaomei
+AU  - Liao, Huchang
+AU  - Wu, Xingli
+AU  - Xu, Zeshui
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - https://doi.org/10.1002/int.22216
+DO  - https://doi.org/10.1002/int.22216
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 529
+EP  - 556
+VL  - 35
+IS  - 3
+KW  - aggregation operator
+KW  - cognitive complex information
+KW  - information fusion
+KW  - probabilistic linguistic term set
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.22216
+UR  - https://doi.org/10.1002/int.22216
+Y2  - 2020/11/10
+N2  - Abstract The probabilistic linguistic term set is a flexible and efficient tool to represent the cognitive complex information of experts. It has attracted many scholars? attention since it was proposed. Information fusion over the cognitive complex information is a significant issue for decision-making problems. Over the past years, more than 40 aggregation operators have been proposed to fuse the probabilistic linguistic term sets. The aim of this paper is to survey the existing probabilistic linguistic aggregation operators from the perspectives of principles, definitions, classifications, and applications. To do so, first, we summarize the present normalization techniques and operations of probabilistic linguistic term sets. Afterward, this study classifies the existing probabilistic linguistic aggregation operators into 12 kinds. Then, the application areas of these probabilistic linguistic aggregation operators are outlined. Future research directions with interests are proposed to tackle present challenges.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring the social responsibility of European companies: a goal programming approach
+AU  - García-Martínez, Gabriel
+AU  - Guijarro, Francisco
+AU  - Poyatos, Juan A.
+Y1  - 2019/05/01
+PY  - 2019
+DA  - 2019/05/01
+N1  - https://doi.org/10.1111/itor.12438
+DO  - https://doi.org/10.1111/itor.12438
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+SP  - 1074
+EP  - 1095
+VL  - 26
+IS  - 3
+KW  - social behavior
+KW  - EIRIS, goal programming
+KW  - dimensionality reduction
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/itor.12438
+UR  - https://doi.org/10.1111/itor.12438
+Y2  - 2020/11/10
+N2  - Abstract Corporate social responsibility (CSR) can be measured by a number of different criteria, some of which are similar to each other, while others can be manifestly contrary to the general tendency. This means that some companies can obtain a good valuation in some criteria but a bad valuation in others, which makes it difficult to assess the company's overall CSR valuation. It is not easy to find a single measure that covers all aspects of corporate social performance. This paper aims to estimate multicriteria CSR performance through different models of goal programming and by taking into account all the dimensions that make up CSR. An illustrative example shows the result of applying these models to a database composed of 212 European companies, which enabled us to identify the most socially responsible group, regardless of the approach considered in the construction of the multicriteria performance. The results show that environmental and corporate governance dimensions are the most important elements in measuring this performance.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying outlier opinions in an online intelligent argumentation system
+AU  - Arvapally, Ravi S.
+AU  - Liu, Xiaoqing Frank
+AU  - Nah, Fiona Fui-Hoon
+AU  - Jiang, Wei
+Y1  - 2017/04/27
+PY  - 2017
+DA  - 2017/04/27
+N1  - https://doi.org/10.1002/cpe.4107
+DO  - https://doi.org/10.1002/cpe.4107
+T2  - Concurrency and Computation: Practice and Experience
+JF  - Concurrency and Computation: Practice and Experience
+JO  - Concurrency and Computation: Practice and Experience
+JA  - Concurrency Computat: Pract Exper
+SP  - e4107
+VL  - n/a
+IS  - n/a
+KW  - argumentation
+KW  - computer-supported collaborative work
+KW  - decision support
+KW  - human-centered computing
+KW  - outlier opinion detection
+PB  - John Wiley & Sons, Ltd
+SN  - 1532-0626
+M3  - https://doi.org/10.1002/cpe.4107
+UR  - https://doi.org/10.1002/cpe.4107
+Y2  - 2020/11/10
+N2  - Summary Online argumentation systems enable stakeholders to post their problems under consideration and solution alternatives and to exchange arguments over the alternatives posted in an argumentation tree. In an argumentation process, stakeholders have their own opinions, which very often contrast and conflict with opinions of others. Some of these opinions may be outliers with respect to the mean group opinion. This paper presents a method for identifying stakeholders with outlier opinions in an argumentation process. It detects outlier opinions on the basis of individual stakeholder's opinions, as well as collective opinions on them from other stakeholders. Decision makers and other participants in an argumentation process therefore have an opportunity to explore the outlier opinions within their groups from both individual and group perspectives. In a large argumentation tree, it is often difficult to identify stakeholders with outlier opinions manually. The system presented in this paper identifies them automatically. Experiments are presented to evaluate the proposed method. Their results show that the method detects outlier opinions in an online argumentation process effectively.
+ER  - 
+
+TY  - JOUR
+T1  - On the Optimal Spatial Design for Groundwater Level Monitoring Networks
+AU  - Ohmer, M.
+AU  - Liesch, T.
+AU  - Goldscheider, N.
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1029/2019WR025728
+DO  - https://doi.org/10.1029/2019WR025728
+T2  - Water Resources Research
+JF  - Water Resources Research
+JO  - Water Resources Research
+JA  - Water Resour. Res.
+SP  - 9454
+EP  - 9473
+VL  - 55
+IS  - 11
+KW  - groundwater level monitoring network
+KW  - sampling design
+KW  - low-discrepancy
+KW  - geostatistics
+KW  - spatial optimization
+PB  - John Wiley & Sons, Ltd
+SN  - 0043-1397
+M3  - https://doi.org/10.1029/2019WR025728
+UR  - https://doi.org/10.1029/2019WR025728
+Y2  - 2020/11/10
+N2  - Abstract Effective groundwater monitoring networks are important, as systematic data collected at observation wells provide a crucial understanding of the dynamics of hydrogeological systems as well as the basis for many other applications. This study investigates the influence of six groundwater level monitoring network (GLMN) sampling designs (random, grid, spatial coverage, and geostatistical) with varying densities on the accuracy of spatially interpolated groundwater surfaces. To obtain spatially continuous prediction errors (in contrast to point cross-validation errors), we used nine potentiometric groundwater surfaces from three regional MODFLOW groundwater flow models with different resolutions as a priori references. To assess the suitability of frequently-used cross-validation error statistics (MAE, RMSE, RMSSE, ASE, and NSE), we compared them with the actual prediction errors (APE). Additionally, we defined upper and lower thresholds for an appropriate spatial density of monitoring wells. Below the lower threshold, the observation density appears insufficient, and additional wells lead to a significant improvement of the results. Above the upper threshold, additional wells lead to only minor and inefficient improvements. According to the APE, systematic sampling lead to the best results but is often not suited for GLMN due to its nonprogressive characteristic. Geostatistical and spatial coverage sampling are considerable alternatives, which are in contrast progressive and allow evenly spaced and, in the case of spatial coverage sampling, yet reproducible coverage with accurate results. We found that the global cross-validation error statistics are not suitable to compare the performance of different sampling designs, although they allow rough conclusions about the quality of the GLMN.
+ER  - 
+
+TY  - JOUR
+T1  - A Risk–Benefit Assessment of Prasugrel, Clopidogrel, and Genotype-Guided Therapy in Patients Undergoing Percutaneous Coronary Intervention
+AU  - Guzauskas, G F
+AU  - Hughes, D A
+AU  - Bradley, S M
+AU  - Veenstra, D L
+Y1  - 2012/05/01
+PY  - 2012
+DA  - 2012/05/01
+N1  - https://doi.org/10.1038/clpt.2011.303
+DO  - https://doi.org/10.1038/clpt.2011.303
+T2  - Clinical Pharmacology & Therapeutics
+JF  - Clinical Pharmacology & Therapeutics
+JO  - Clinical Pharmacology & Therapeutics
+JA  - Clinical Pharmacology & Therapeutics
+SP  - 829
+EP  - 837
+VL  - 91
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0009-9236
+M3  - https://doi.org/10.1038/clpt.2011.303
+UR  - https://doi.org/10.1038/clpt.2011.303
+Y2  - 2020/11/10
+N2  - The objective of this study was to quantitatively evaluate the clinical benefits and harms of prasugrel, clopidogrel, and a CYP2C19 genotype-guided drug selection strategy for patients with acute coronary syndrome (ACS) and planned percutaneous coronary intervention (PCI). We used decision-analytic techniques to model the risks and benefits of alternative antiplatelet strategies. Sensitivity and scenario analyses were conducted to assess the uncertainty of the results. Prasugrel demonstrated little difference in net benefit as compared with clopidogrel (+0.02 quality-adjusted life-years (QALYs); 95% confidence range (CR), ?0.23 to 0.21). The genotype-guided strategy had a 93% probability of greater net benefit as compared with clopidogrel (+0.05 QALYs; 95% CR, ?0.02 to 0.11), and 66% probability of greater net benefit as compared with prasugrel (+0.03 QALYs; 95% CR, ?0.13 to 0.24). Prasugrel and clopidogrel differ in their risk?benefit profiles but appear to offer similar net benefit on average. Use of patient-specific factors such as CYP2C19 genotype offers promise for developing a personalized medicine approach to antiplatelet treatment regimens. Clinical Pharmacology  91 5, 829?837. doi:10.1038/clpt.2011.303
+ER  - 
+
+TY  - JOUR
+T1  - Performance optimization of pharmaceutical supply chain by a unique resilience engineering and fuzzy mathematical framework
+AU  - Salehi, Vahid
+AU  - Salehi, Razieh
+AU  - Mirzayi, Mahsa
+AU  - Akhavizadegan, Faezeh
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - https://doi.org/10.1002/hfm.20845
+DO  - https://doi.org/10.1002/hfm.20845
+T2  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JF  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JO  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JA  - Hum Factors Man
+SP  - 336
+EP  - 348
+VL  - 30
+IS  - 5
+KW  - data envelopment analysis
+KW  - fuzzy data envelopment analysis
+KW  - pharmaceutical supply chain
+KW  - resilience engineering
+KW  - statistical methods
+KW  - veterinary pharmaceutical industry
+PB  - John Wiley & Sons, Ltd
+SN  - 1090-8471
+M3  - https://doi.org/10.1002/hfm.20845
+UR  - https://doi.org/10.1002/hfm.20845
+Y2  - 2020/11/10
+N2  - Abstract Pharmaceutical supply chains (PSCs) are responsible for guaranteeing that the right people receive the right medication at the right time and in the right conditions. These responsibilities make PSC very complex and subsequently increase their vulnerability and disturbance probability. Resilience engineering (RE) can enable supply chain managers to cope with disruptions and to help them maintain their efficient performance. This study proposes a unique RE framework for performance optimization of the pharmaceutical sector in a veterinary organization. A standard questionnaire was used to collect the required data. Next, data envelopment analysis (DEA) and fuzzy data envelopment analysis (FDEA) approaches were employed to formulate the problem. Sensitivity analysis was performed based on the most appropriate model of DEA and FDEA. The results showed that redundancy was the most effective factor in enhancing efficiency in PSCs in the veterinary organization. This is one of the first studies that investigate the influence of resilience indicators on PSC through DEA/FDEA and statistical methods.
+ER  - 
+
+TY  - JOUR
+T1  - A robust framework for cloud-based software development outsourcing factors using analytical hierarchy process
+AU  - Akbar, Muhammad Azeem
+AU  - Khan, Arif Ali
+AU  - Mahmood, Sajjad
+AU  - Alsanad, Ahmed
+AU  - Gumaei, Abdu
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1002/smr.2275
+DO  - https://doi.org/10.1002/smr.2275
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2275
+VL  - n/a
+IS  - n/a
+KW  - cloud-based software development outsourcing (CSDO)
+KW  - success factors
+KW  - systematic literature review (SLR)
+KW  - analytical hierarchy process (AHP)
+PB  - John Wiley & Sons, Ltd
+SN  - 2047-7473
+M3  - https://doi.org/10.1002/smr.2275
+UR  - https://doi.org/10.1002/smr.2275
+Y2  - 2020/11/10
+N2  - Abstract Managing the cloud-based software development outsourcing (CSDO) activities across the geographically distributed development sites are much challenging. This study aims to identify the success factors (SFs) for CSDO and prioritize them based on their significance. To achieve this objective, we conducted a systematic literature review (SLR) and survey study with industrial and academic experts. Finally, we applied the analytical hierarchy process (AHP) to develop the framework based on the prioritization of the identified SFs. We believe that the findings of this study will assist the industry practitioners and researchers in developing effective strategies for the successful implementation of CSDO activities.
+ER  - 
+
+TY  - JOUR
+T1  - Incorporating patient preferences into drug development and regulatory decision making: Results from a quantitative pilot study with cancer patients, carers, and regulators
+AU  - Postmus, D
+AU  - Mavris, M
+AU  - Hillege, HL
+AU  - Salmonson, T
+AU  - Ryll, B
+AU  - Plate, A
+AU  - Moulon, I
+AU  - Eichler, H-G
+AU  - Bere, N
+AU  - Pignatti, F
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - https://doi.org/10.1002/cpt.332
+DO  - https://doi.org/10.1002/cpt.332
+T2  - Clinical Pharmacology & Therapeutics
+JF  - Clinical Pharmacology & Therapeutics
+JO  - Clinical Pharmacology & Therapeutics
+JA  - Clin. Pharmacol. Ther.
+SP  - 548
+EP  - 554
+VL  - 99
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0009-9236
+M3  - https://doi.org/10.1002/cpt.332
+UR  - https://doi.org/10.1002/cpt.332
+Y2  - 2020/11/10
+N2  - Currently, patient preference studies are not required to be included in marketing authorization applications to regulatory authorities, and the role and methodology for such studies have not been agreed upon. The European Medicines Agency (EMA) conducted a pilot study to gain experience on how the collection of individual preferences can inform the regulatory review. Using a short online questionnaire, ordinal statements regarding the desirability of different outcomes in the treatment of advanced cancer were elicited from 139 participants (98 regulators, 29 patient or carers, and 12 healthcare professionals). This was followed by face-to-face meetings to gather feedback and validate the individual responses. In this article we summarize the EMA pilot study and discuss the role of patient preference studies within the regulatory review. Based on the results, we conclude that our preference elicitation instrument was easy to implement and sufficiently precise to learn about the distribution of the participants' individual preferences.
+ER  - 
+
+TY  - JOUR
+T1  - Patients' satisfaction and public and private sectors' health care service quality in Pakistan: Application of grey decision analysis approaches
+AU  - Javed, Saad Ahmed
+AU  - Liu, Sifeng
+AU  - Mahmoudi, Amin
+AU  - Nawaz, Muhammad
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - https://doi.org/10.1002/hpm.2629
+DO  - https://doi.org/10.1002/hpm.2629
+T2  - The International Journal of Health Planning and Management
+JF  - The International Journal of Health Planning and Management
+JO  - The International Journal of Health Planning and Management
+JA  - Int J Health Plann Mgmt
+SP  - e168
+EP  - e182
+VL  - 34
+IS  - 1
+KW  - Grey Relational Analysis
+KW  - Healthcare quality
+KW  - patient satisfaction
+KW  - Second Synthetic Grey Incidence Analysis
+KW  - SERVQUAL
+PB  - John Wiley & Sons, Ltd
+SN  - 0749-6753
+M3  - https://doi.org/10.1002/hpm.2629
+UR  - https://doi.org/10.1002/hpm.2629
+Y2  - 2020/11/10
+N2  - Summary Purpose The study aims to evaluate the comprehensive relationship between patient satisfaction and five dimensions of health care service quality in Pakistani public/private health care sectors, using a novel grey relational analysis (GRA) models and the Hurwicz criteria of decision making under uncertainty. Design/methodology/approach Data were collected from private and public health care facilities of Pakistan through an improved SERVQUAL instrument. Deng's GRA, absolute GRA, and the second synthetic GRA models were applied to address the problem under study. Findings Grey relational analysis models revealed that reliability and responsiveness are most strongly predicting patient satisfaction in public and private health care sectors, respectively. The Hurwicz criteria showed that patients are more likely to be satisfied from private health care facilities. Limitations/implications Limitations of SERVQUAL model are also the limitations of the study; eg, the study suggests that because of the absence of ?cost,? which is a key quality indicator of Pakistani public sector health care facilities, the model was unable to comprehensively evaluate the health care situation in light of the observations of price-focused Pakistani patients. The study recommends tailoring of SERVQUAL model for the resource-scant and underdeveloped countries where people's evaluation of the quality of the hospitals is likely to be influenced by the price of services. Originality/value The study is a pioneer in health care evaluation of public and private sectors of Lahore and Rawalpindi while using GRA models, in general, and the second synthetic GRA model, in particular. It presents an alternative method to the statistical way of analyzing data by successfully demonstrating the use of grey methods, which can make reasonable decisions even through small samples.
+ER  - 
+
+TY  - JOUR
+T1  - Chaotropic chromatography method development for the determination of aripiprazole and its impurities following analytical quality by design principles
+AU  - Rmandić, Milena
+AU  - Malenović, Anħelija
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1002/jssc.201900985
+DO  - https://doi.org/10.1002/jssc.201900985
+T2  - Journal of Separation Science
+JF  - Journal of Separation Science
+JO  - Journal of Separation Science
+JA  - J. Sep. Sci.
+SP  - 3242
+EP  - 3250
+VL  - 43
+IS  - 16
+KW  - alias matrix approach
+KW  - analytical quality by design
+KW  - aripiprazole impurities
+KW  - chaotropic chromatography
+KW  - robustness testing
+PB  - John Wiley & Sons, Ltd
+SN  - 1615-9306
+M3  - https://doi.org/10.1002/jssc.201900985
+UR  - https://doi.org/10.1002/jssc.201900985
+Y2  - 2020/11/10
+N2  - Abstract In this paper, development of robust and reliable chaotropic chromatography method for the determination of aripiprazole and its impurities, following Analytical Quality by Design principles is presented. The efficient baseline separation and accurate determination of aripiprazole and its four impurities from tablets were set as Analytical Target Profile. In line with it, the influence of Critical Method Parameters (acetonitrile content, concentration of perchloric acid in water phase, and column temperature) on predefined Critical Method Attributes (separation of the critical pair of peaks, retention of the first and last eluting peak) was investigated with aid of the Central Composite Design. Further on Design Space, where Critical Method Parameters meet predefined acceptance limits with a high level of probability (π ≥ 85%), was computed as a result of performed Monte Carlo simulations. A normal operating conditions corresponding to 34% of acetonitrile, 66% of 42.5 mM perchloric acid, and column temperature at 35°C were selected from created Design Space. Robustness testing of the quantitative performances of the developed method was conducted combining Plackett?Burman design with alias matrix approach. Through the additional validation testing, reliability of the developed method for the use in the routine practice was completely confirmed.
+ER  - 
+
+TY  - JOUR
+T1  - An Expert System for Auditing Quality Management Systems in Construction
+AU  - Lee, Dong-Eun
+AU  - Lim, Tae-Kyung
+AU  - Arditi, David
+Y1  - 2011/11/01
+PY  - 2011
+DA  - 2011/11/01
+N1  - https://doi.org/10.1111/j.1467-8667.2011.00721.x
+DO  - https://doi.org/10.1111/j.1467-8667.2011.00721.x
+T2  - Computer-Aided Civil and Infrastructure Engineering
+JF  - Computer-Aided Civil and Infrastructure Engineering
+JO  - Computer-Aided Civil and Infrastructure Engineering
+SP  - 612
+EP  - 631
+VL  - 26
+IS  - 8
+PB  - John Wiley & Sons, Ltd
+SN  - 1093-9687
+M3  - https://doi.org/10.1111/j.1467-8667.2011.00721.x
+UR  - https://doi.org/10.1111/j.1467-8667.2011.00721.x
+Y2  - 2020/11/10
+N2  - Abstract:? This article introduces a system called Construction Quality Management Audit (CQMA) Expert that assesses the performance of a quality management system (QMS) implemented in a construction firm. CQMA Expert is programmed by using MATLAB's GUI components and its Fuzzy Logic Toolbox. CQMA Expert's rule base is constructed using information obtained from auditors of QMSs. CQMA Expert imports the quality requirements relative to the many quality management processes specified in ISO 9000, processes audit inputs, and generates consistent decisions relative to conformance to standards. It provides an interactive user interface for recording evidence collected during the audit and clearly states the reasons for the conclusions. It contributes to continuous quality improvement because (1) it enhances the maintenance of a QMS by quantifying its performance, (2) it assists with and facilitates the implementation of the duties of auditors in charge of assessing the performance of a QMS, (3) it simplifies the burdensome process involved in keeping track of the audit results of the many quality management processes investigated, and (4) it reduces the impact of the variability caused by the use of different auditors assessing different quality management processes. Case studies based on Section 4.11 of the ISO 9000 standard entitled ?Control of inspection, measuring and test equipment? are used to illustrate the system and verify its usability and validity.
+ER  - 
+
+TY  - JOUR
+T1  - Managing strategic intellectual property assets in the fuzzy front end of new product development process
+AU  - Cho, Yonghee
+AU  - Kirkewoog, Sema
+AU  - Daim, Tugrul U.
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - https://doi.org/10.1111/radm.12312
+DO  - https://doi.org/10.1111/radm.12312
+T2  - R&D Management
+JF  - R&D Management
+JO  - R&D Management
+JA  - R&D Management
+SP  - 354
+EP  - 374
+VL  - 48
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 0033-6807
+M3  - https://doi.org/10.1111/radm.12312
+UR  - https://doi.org/10.1111/radm.12312
+Y2  - 2020/11/10
+N2  - The strategic use of intellectual property (IP) is crucial for technology-based companies to gain competitive advantage. The recent transformation of the US patent system brings new challenges and opportunities in this arena. In this regard, this study attempts to identify techniques which can help with IP evaluation and selection in the fuzzy front end (FFE) of new product development (NPD) process. This study combines data collection methods such as mining the literature, conducting in-depth interviews, surveying questionnaires, and analyzing cases. This research serves as an analysis of modern literature and identifies a multicriteria weighted scoring model that can be employed to help with the patent decision process. The criterion to discern patent eligibility is a contended discussion. For this survey administration, 300 companies, as the targeted sample, were randomly selected to be reached from LexisNexis database. Consequently, this paper identifies the key decision criteria to incorporate into this model and obtains weights gathered from surveying IP professionals and R&D managers in US-based electronics manufacturing firms (SIC code: 36). This study proposes a structured approach to identify ideas that should be patented in the FFE of NPD process by way of an analysis of pertaining literature and case studies. The technique we present in this paper could be essential for many firms to achieve IP success as their strategic means. Moreover, this tool can help R&D managers not only speed up the FFE of NPD process but also make more informed and target-worthy decisions for IP filing.
+ER  - 
+
+TY  - JOUR
+T1  - Performance Measurement and Management Systems: A Perspective from Complexity Theory
+AU  - Okwir, Simon
+AU  - Nudurupati, Sai S.
+AU  - Ginieis, Matías
+AU  - Angelis, Jannis
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1111/ijmr.12184
+DO  - https://doi.org/10.1111/ijmr.12184
+T2  - International Journal of Management Reviews
+JF  - International Journal of Management Reviews
+JO  - International Journal of Management Reviews
+JA  - International Journal of Management Reviews
+SP  - 731
+EP  - 754
+VL  - 20
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 1460-8545
+M3  - https://doi.org/10.1111/ijmr.12184
+UR  - https://doi.org/10.1111/ijmr.12184
+Y2  - 2020/11/10
+N2  - Abstract Complexity negatively impacts the process of continually improving performance management systems (PMSs). The extant PMS literature considers complexity to be a result of the external environment rather than a user response to that environment. However, this paper argues that organizations generally face internal complexity when adopting PMSs. Introducing PMSs into an organization can have varied effects in those organizations based on the complexity of an organization's associated members and its interactions. This study aims to understand the emergence of complexities while implementing and using PMSs in organizations. From the complexity theory perspective, four system properties (ontological, teleological, genetic and functional) are used to understand complexity in PMSs. The paper builds on a systematic literature review consisting of 76 papers and analyses them in the light of exploring sources of complexity when implementing and using PMSs. From the outset, complexity is understood to be a result of the conflict between existing organizational practices and mechanisms and the organizational controls associated with PMSs. The key findings abstracted six sources of complexity in this study: role, task and procedural types of complexity associated with the social dimension, and methodological, analytical and technological types of complexity associated with the technical dimension. The study findings contribute to the current discussion regarding why PMSs typically lag and are not responsive and resilient in emerging contexts. While understanding and exploring all organizational controls that moderate a PMS is useful, organizations should construct the necessary capabilities, depending on their context and adapt to the changes associated with PMSs.
+ER  - 
+
+TY  - JOUR
+T1  - Thirty Years of the International Journal of Intelligent Systems: A Bibliometric Review
+AU  - Merigó, José M.
+AU  - Blanco-Mesa, Fabio
+AU  - Gil-Lafuente, Anna M.
+AU  - Yager, Ronald R.
+Y1  - 2017/05/01
+PY  - 2017
+DA  - 2017/05/01
+N1  - https://doi.org/10.1002/int.21859
+DO  - https://doi.org/10.1002/int.21859
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 526
+EP  - 554
+VL  - 32
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21859
+UR  - https://doi.org/10.1002/int.21859
+Y2  - 2020/11/10
+N2  - The International Journal of Intelligent Systems was created in 1986. Today, the journal is 30 years old. To celebrate this anniversary, this study develops a bibliometric review of all of the papers published in the journal between 1986 and 2015. The results are largely based on the Web of Science Core Collection, which classifies leading bibliographic material by using several indicators including total number of publications and citations, the h-index, cites per paper, and citing articles. The work also uses the VOS viewer software for visualizing the main results through bibliographic coupling and co-citation. The results show a general overview of leading trends that have influenced the journal in terms of highly cited papers, authors, journals, universities and countries.
+ER  - 

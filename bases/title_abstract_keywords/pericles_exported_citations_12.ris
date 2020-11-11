@@ -1,0 +1,667 @@
+
+TY  - JOUR
+T1  - Expanding the Reach of Participatory Risk Management: Testing an Online Decision-Aiding Framework for Informing Internally Consistent Choices
+AU  - Bessette, Douglas L.
+AU  - Campbell-Arvai, Victoria
+AU  - Arvai, Joseph
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - https://doi.org/10.1111/risa.12481
+DO  - https://doi.org/10.1111/risa.12481
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 992
+EP  - 1005
+VL  - 36
+IS  - 5
+KW  - Climate change
+KW  - decision aiding
+KW  - energy strategy
+KW  - internal consistency
+KW  - risk management
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.12481
+UR  - https://doi.org/10.1111/risa.12481
+Y2  - 2020/11/10
+N2  - This article presents research aimed at developing and testing an online, multistakeholder decision-aiding framework for informing multiattribute risk management choices associated with energy development and climate change. The framework was designed to provide necessary background information and facilitate internally consistent choices, or choices that are in line with users? prioritized objectives. In order to test different components of the decision-aiding framework, a six-part, 2 ? 2 ? 2 factorial experiment was conducted, yielding eight treatment scenarios. The three factors included: (1) whether or not users could construct their own alternatives; (2) the level of detail regarding the composition of alternatives users would evaluate; and (3) the way in which a final choice between users? own constructed (or highest-ranked) portfolio and an internally consistent portfolio was presented. Participants? self-reports revealed the framework was easy to use and providing an opportunity to develop one's own risk-management alternatives (Factor 1) led to the highest knowledge gains. Empirical measures showed the internal consistency of users? decisions across all treatments to be lower than expected and confirmed that providing information about alternatives? composition (Factor 2) resulted in the least internally consistent choices. At the same time, those users who did not develop their own alternatives and were not shown detailed information about the composition of alternatives believed their choices to be the most internally consistent. These results raise concerns about how the amount of information provided and the ability to construct alternatives may inversely affect users? real and perceived internal consistency.
+ER  - 
+
+TY  - JOUR
+T1  - Risk Assessment of Infrastructure System of Systems with Precursor Analysis
+AU  - Guo, Zhenyu
+AU  - Haimes, Yacov Y.
+Y1  - 2016/08/01
+PY  - 2016
+DA  - 2016/08/01
+N1  - https://doi.org/10.1111/risa.12559
+DO  - https://doi.org/10.1111/risa.12559
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1630
+EP  - 1643
+VL  - 36
+IS  - 8
+KW  - Infrastructure
+KW  - precursor; risk analysis; systems of systems
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.12559
+UR  - https://doi.org/10.1111/risa.12559
+Y2  - 2020/11/10
+N2  - Physical infrastructure systems are commonly composed of interconnected and interdependent subsystems, which in their essence constitute system of systems (S-o-S). System owners and policy researchers need tools to foresee potential emergent forced changes and to understand their impact so that effective risk management strategies can be developed. We develop a systemic framework for precursor analysis to support the design of an effective and efficient precursor monitoring and decision support system with the ability to (i) identify and prioritize indicators of evolving risks of system failure; and (ii) evaluate uncertainties in precursor analysis to support informed and rational decision making. This integrated precursor analysis framework is comprised of three processes: precursor identification, prioritization, and evaluation. We use an example of a highway bridge S-o-S to demonstrate the theories and methodologies of the framework. Bridge maintenance processes involve many interconnected and interdependent functional subsystems and decision-making entities and bridge failure can have broad social and economic consequences. The precursor analysis framework, which constitutes an essential part of risk analysis, examines the impact of various bridge inspection and maintenance scenarios. It enables policy researchers and analysts who are seeking a risk perspective on bridge infrastructure in a policy setting to develop more risk informed policies and create guidelines to efficiently allocate limited risk management resources and mitigate severe consequences resulting from bridge failures.
+ER  - 
+
+TY  - JOUR
+T1  - Dempster-Shafer theory applied to regulatory decision process for selecting safer alternatives to toxic chemicals in consumer products
+AU  - Park, Sung Jin
+AU  - Ogunseitan, Oladele A
+AU  - Lejano, Raul P
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - https://doi.org/10.1002/ieam.1460
+DO  - https://doi.org/10.1002/ieam.1460
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 12
+EP  - 21
+VL  - 10
+IS  - 1
+KW  - Bisphenol-A
+KW  - Consumer products
+KW  - Dempster-Shafer theory
+KW  - Green chemistry
+KW  - Regulatory Policy
+KW  - Risk assessment
+KW  - Risk perception
+KW  - Safer alternatives
+KW  - Scientific uncertainty
+KW  - Toxic chemicals
+PB  - John Wiley & Sons, Ltd
+SN  - 1551-3777
+M3  - https://doi.org/10.1002/ieam.1460
+UR  - https://doi.org/10.1002/ieam.1460
+Y2  - 2020/11/10
+N2  - ABSTRACT Regulatory agencies often face a dilemma when regulating chemicals in consumer products?namely, that of making decisions in the face of multiple, and sometimes conflicting, lines of evidence. We present an integrative approach for dealing with uncertainty and multiple pieces of evidence in toxics regulation. The integrative risk analytic framework is grounded in the Dempster?Shafer (D?S) theory that allows the analyst to combine multiple pieces of evidence and judgments from independent sources of information. We apply the integrative approach to the comparative risk assessment of bisphenol-A (BPA)-based polycarbonate and the functionally equivalent alternative, Eastman Tritan copolyester (ETC). Our results show that according to cumulative empirical evidence, the estimated probability of toxicity of BPA is 0.034, whereas the toxicity probability for ETC is 0.097. However, when we combine extant evidence with strength of confidence in the source (or expert judgment), we are guided by a richer interval measure, (Bel(t), Pl(t)). With the D?S derived measure, we arrive at various intervals for BPA, with the low-range estimate at (0.034, 0.250), and (0.097,0.688) for ETC. These new measures allow a reasonable basis for comparison and a justifiable procedure for decision making that takes advantage of multiple sources of evidence. Through the application of D?S theory to toxicity risk assessment, we show how a multiplicity of scientific evidence can be converted into a unified risk estimate, and how this information can be effectively used for comparative assessments to select potentially less toxic alternative chemicals. Integr Environ Assess Manag 2014;10:12?21. ? 2013 SETAC
+ER  - 
+
+TY  - JOUR
+T1  - Skype Synchronous Interaction Effectiveness in a Quantitative Management Science Course
+AU  - David Strang, Kenneth
+Y1  - 2012/01/01
+PY  - 2012
+DA  - 2012/01/01
+N1  - https://doi.org/10.1111/j.1540-4609.2011.00333.x
+DO  - https://doi.org/10.1111/j.1540-4609.2011.00333.x
+T2  - Decision Sciences Journal of Innovative Education
+JF  - Decision Sciences Journal of Innovative Education
+JO  - Decision Sciences Journal of Innovative Education
+SP  - 3
+EP  - 23
+VL  - 10
+IS  - 1
+KW  - Conversation Theory
+KW  - E-Learning Effectiveness
+KW  - Experiment
+KW  - Management Science Course
+KW  - MANCOVA
+KW  - Skype
+KW  - Synchronous Online Experiential Learning
+PB  - John Wiley & Sons, Ltd
+SN  - 1540-4595
+M3  - https://doi.org/10.1111/j.1540-4609.2011.00333.x
+UR  - https://doi.org/10.1111/j.1540-4609.2011.00333.x
+Y2  - 2020/11/10
+N2  - ABSTRACT An experiment compared asynchronous versus synchronous instruction in an online quantitative course. Mann-Whitley U-tests, correlation, analysis of variance, t tests, and multivariate analysis of covariance (MANCOVA) were utilized to test the hypothesis that more high-quality online experiential learning interactions would increase grade. Quasi-experimental controls included prior ability and demographic factors (gender, age). The control group used asynchronous discussion forums while the test group held synchronous sessions in Skype (chat, audio, and document sharing). A statistically significant MANCOVA model was created, using teaching method as a factor, and a count of online interactions (as a covariate), with assessment timing (as a blocking factor), to measure effect on grade.
+ER  - 
+
+TY  - JOUR
+T1  - A Discourse on the Incorporation of Organizational Factors into Probabilistic Risk Assessment: Key Questions and Categorical Review
+AU  - Pence, Justin
+AU  - Mohaghegh, Zahra
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1111/risa.13468
+DO  - https://doi.org/10.1111/risa.13468
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 1183
+EP  - 1211
+VL  - 40
+IS  - 6
+KW  - Human reliability analysis (HRA)
+KW  - organizational factors
+KW  - probabilistic risk assessment (PRA)
+KW  - probabilistic safety assessment (PSA)
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.13468
+UR  - https://doi.org/10.1111/risa.13468
+Y2  - 2020/11/10
+N2  - Abstract This article presents a discourse on the incorporation of organizational factors into probabilistic risk assessment (PRA)/probabilistic safety assessment (PSA), a topic of debate since the 1980s that has spurred discussions among industry, regulatory agencies, and the research community. The main contributions of this article include (1) identifying the four key open questions associated with this topic; (2) framing ongoing debates by considering differing perspectives around each question; (3) offering a categorical review of existing studies on this topic to justify the selection of each question and to analyze the challenges related to each perspective; and (4) highlighting the directions of research required to reach a final resolution for each question. The four key questions are: (I) How significant is the contribution of organizational factors to accidents and incidents? (II) How critical, with respect to improving risk assessment, is the explicit incorporation of organizational factors into PRA? (III) What theoretical bases are needed for explicit incorporation of organizational factors into PRA? (IV) What methodological bases are needed for the explicit incorporation of organizational factors into PRA? Questions I and II mainly analyze PRA literature from the nuclear domain. For Questions III and IV, a broader review and categorization is conducted of those existing cross-disciplinary studies that have evaluated the effects of organizational factors on safety (not solely PRA-based) to shed more light on future research needs.
+ER  - 
+
+TY  - JOUR
+T1  - iAggregator: Multidimensional relevance aggregation based on a fuzzy operator
+AU  - Moulahi, Bilel
+AU  - Tamine, Lynda
+AU  - Yahia, Sadok Ben
+Y1  - 2014/10/01
+PY  - 2014
+DA  - 2014/10/01
+N1  - https://doi.org/10.1002/asi.23094
+DO  - https://doi.org/10.1002/asi.23094
+T2  - Journal of the Association for Information Science and Technology
+JF  - Journal of the Association for Information Science and Technology
+JO  - Journal of the Association for Information Science and Technology
+JA  - J Assn Inf Sci Tec
+SP  - 2062
+EP  - 2083
+VL  - 65
+IS  - 10
+KW  - information retrieval
+PB  - John Wiley & Sons, Ltd
+SN  - 2330-1635
+M3  - https://doi.org/10.1002/asi.23094
+UR  - https://doi.org/10.1002/asi.23094
+Y2  - 2020/11/10
+N2  - Recently, an increasing number of information retrieval studies have triggered a resurgence of interest in redefining the algorithmic estimation of relevance, which implies a shift from topical to multidimensional relevance assessment. A key underlying aspect that emerged when addressing this concept is the aggregation of the relevance assessments related to each of the considered dimensions. The most commonly adopted forms of aggregation are based on classical weighted means and linear combination schemes to address this issue. Although some initiatives were recently proposed, none was concerned with considering the inherent dependencies and interactions existing among the relevance criteria, as is the case in many real-life applications. In this article, we present a new fuzzy-based operator, called iAggregator, for multidimensional relevance aggregation. Its main originality, beyond its ability to model interactions between different relevance criteria, lies in its generalization of many classical aggregation functions. To validate our proposal, we apply our operator within a tweet search task. Experiments using a standard benchmark, namely, Text REtrieval Conference Microblog, emphasize the relevance of our contribution when compared with traditional aggregation schemes. In addition, it outperforms state-of-the-art aggregation operators such as the Scoring and the And prioritized operators as well as some representative learning-to-rank algorithms.
+ER  - 
+
+TY  - JOUR
+T1  - An improved prioritization framework for selecting new finfish mariculture candidates for research and development in Indonesia
+AU  - Albasri, Hatim
+AU  - Sagala, Sophia L.
+AU  - Pratama, Indra
+AU  - Sammut, Jesmond
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1111/are.14492
+DO  - https://doi.org/10.1111/are.14492
+T2  - Aquaculture Research
+JF  - Aquaculture Research
+JO  - Aquaculture Research
+JA  - Aquac Res
+SP  - 1464
+EP  - 1479
+VL  - 51
+IS  - 4
+KW  - analytic hierarchy process
+KW  - aquaculture
+KW  - finfish
+KW  - Indonesia
+KW  - mariculture
+PB  - John Wiley & Sons, Ltd
+SN  - 1355-557X
+M3  - https://doi.org/10.1111/are.14492
+UR  - https://doi.org/10.1111/are.14492
+Y2  - 2020/11/10
+N2  - Abstract Aquaculture, particularly marine-based production, is one of the fastest growing industries in Indonesia. Indonesia's competitiveness in the trade of aquaculture products is constrained by a lack of research and development (R&D) of new aquaculture species candidates. Mariculture has the greatest potential due to Indonesia's vast marine resources and archipelagic geography. Although there are over 3,000 species of marine fish in Indonesia, only 14 species have been widely cultured, largely finfish. Production is dominated by shrimp, groupers and milkfish. Traditionally, candidate species for mariculture in Indonesia and elsewhere have often been selected on their market value before their biological suitability for culture has been established leading to partially successful R&D efforts or even failure. The present study developed a framework for selecting marine fish species to support mariculture R&D in Indonesia based on an improved analytic hierarchy process (AHP). The approach combined various quantitative and qualitative data and involved different R&D stakeholder groups in the selection process. Ten species that had not been previously researched for their aquaculture potential were identified. The modified approach addressed the interaction complexity of criteria and different preferences across the stakeholders. The involvement of different stakeholders in the selection process not only ensured acceptance of the selected species for further research, but also tested the validity and consistency of the method used in this study. The methodology has relevance for mariculture globally given that efficient candidate selection can help focus efforts and investment in mariculture R&D.
+ER  - 
+
+TY  - JOUR
+T1  - Review of recent trends in charging infrastructure planning for electric vehicles
+AU  - Deb, Sanchari
+AU  - Tammi, Kari
+AU  - Kalita, Karuna
+AU  - Mahanta, Pinakeswar
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1002/wene.306
+DO  - https://doi.org/10.1002/wene.306
+T2  - WIREs Energy and Environment
+JF  - WIREs Energy and Environment
+JO  - WIREs Energy and Environment
+JA  - WIREs Energy Environ
+SP  - e306
+VL  - 7
+IS  - 6
+KW  - charging station
+KW  - electric vehicle
+KW  - objective functions
+KW  - optimization
+KW  - planning
+PB  - John Wiley & Sons, Ltd
+SN  - 2041-8396
+M3  - https://doi.org/10.1002/wene.306
+UR  - https://doi.org/10.1002/wene.306
+Y2  - 2020/11/10
+N2  - The exhaustive nature of fossil fuels and environmental concerns associated with greenhouse gases are the major causes of the paradigm shift from conventional vehicles to electric vehicles (EVs). The electrification of the transportation sector and the increasing popularity of the EVs have driven scientists and researchers to delve into charging stations. Underdeveloped charging infrastructure, optimal placement of charging stations, and charge scheduling in the charging stations are the major concerns for the large-scale deployment of EVs. Even few questions related to EVs, such as the vehicle price and driving range, can be partially solved with a well-developed charging infrastructure. Existing old infrastructure may bring severe limitations in the realization of the optimal placement of charging stations as EVs have not existed when the road and grid infrastructure have been developed. For the past few years, the studies associated with the optimal placement and sizing of EV charging stations have drawn the consideration of the researchers. The researchers have used different approaches, objective functions, and applied different optimization algorithms while dealing with the problem of charging station placement. The complex and dynamic nature of the problem has led researchers to apply different optimization algorithms for the solution of the problem. In this particular review study, the research works bearing on the charging infrastructure planning for the EVs are considered. Thus, this review work will endow the research community with the latest developments and research findings in the paradigm of charging infrastructure planning for EVs. This article is categorized under: Energy Infrastructure > Systems and Infrastructure Energy and Urban Design > Systems and Infrastructure Energy and Transport > Science and Materials Energy Systems Analysis > Science and Materials
+ER  - 
+
+TY  - JOUR
+T1  - The 2019 American College of Rheumatology/European League Against Rheumatism Classification Criteria for IgG4-Related Disease
+AU  - Wallace, Zachary S.
+AU  - Naden, Ray P.
+AU  - Chari, Suresh
+AU  - Choi, Hyon
+AU  - Della-Torre, Emanuel
+AU  - Dicaire, Jean-Francois
+AU  - Hart, Phil A.
+AU  - Inoue, Dai
+AU  - Kawano, Mitsuhiro
+AU  - Khosroshahi, Arezou
+AU  - Kubota, Kensuke
+AU  - Lanzillotta, Marco
+AU  - Okazaki, Kazuichi
+AU  - Perugino, Cory A.
+AU  - Sharma, Amita
+AU  - Saeki, Takako
+AU  - Sekiguchi, Hiroshi
+AU  - Schleinitz, Nicolas
+AU  - Stone, James R.
+AU  - Takahashi, Naoki
+AU  - Umehara, Hisanori
+AU  - Webster, George
+AU  - Zen, Yoh
+AU  - Stone, John H.
+AU  - for the American College of Rheumatology/European League Against Rheumatism IgG4-Related Disease Classification Criteria Working Group
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1002/art.41120
+DO  - https://doi.org/10.1002/art.41120
+T2  - Arthritis & Rheumatology
+JF  - Arthritis & Rheumatology
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+SP  - 7
+EP  - 19
+VL  - 72
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 2326-5191
+M3  - https://doi.org/10.1002/art.41120
+UR  - https://doi.org/10.1002/art.41120
+Y2  - 2020/11/10
+N2  - Objective IgG4-related disease (IgG4-RD) can cause fibroinflammatory lesions in nearly any organ. Correlation among clinical, serologic, radiologic, and pathologic data is required for diagnosis. This work was undertaken to develop and validate an international set of classification criteria for IgG4-RD. Methods An international multispecialty group of 86 physicians was assembled by the American College of Rheumatology (ACR) and the European League Against Rheumatism (EULAR). Investigators used consensus exercises, existing literature, derivation and validation cohorts of 1,879 subjects (1,086 cases, 793 mimickers), and multicriterion decision analysis to identify, weight, and test potential classification criteria. Two independent validation cohorts were included. Results A 3-step classification process was developed. First, it must be demonstrated that a potential IgG4-RD case has involvement of at least 1 of 11 possible organs in a manner consistent with IgG4-RD. Second, exclusion criteria consisting of a total of 32 clinical, serologic, radiologic, and pathologic items must be applied; the presence of any of these criteria eliminates the patient from IgG4-RD classification. Third, 8 weighted inclusion criteria domains, addressing clinical findings, serologic results, radiology assessments, and pathology interpretations, are applied. In the first validation cohort, a threshold of 20 points had a specificity of 99.2% (95% confidence interval [95% CI] 97.2?99.8%) and a sensitivity of 85.5% (95% CI 81.9?88.5%). In the second, the specificity was 97.8% (95% CI 93.7?99.2%) and the sensitivity was 82.0% (95% CI 77.0?86.1%). The criteria were shown to have robust test characteristics over a wide range of thresholds. Conclusion ACR/EULAR classification criteria for IgG4-RD have been developed and validated in a large cohort of patients. These criteria demonstrate excellent test performance and should contribute substantially to future clinical, epidemiologic, and basic science investigations.
+ER  - 
+
+TY  - JOUR
+T1  - Applicability of a food chain analysis on aquaculture of Atlantic salmon to identify and monitor vulnerabilities and drivers of change for the identification of emerging risks
+AU  - Marvin, Hans
+AU  - Bouzembrak, Yamine
+AU  - van Asselt, Esther
+AU  - Meijer, Nathan
+AU  - Kleter, Gijs
+AU  - Lorentzen, Grete
+AU  - Johansen, Lill-Heidi
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.2903/sp.efsa.2019.EN-1619
+DO  - https://doi.org/10.2903/sp.efsa.2019.EN-1619
+T2  - EFSA Supporting Publications
+JF  - EFSA Supporting Publications
+JO  - EFSA Supporting Publications
+JA  - EFSA Supporting Publications
+SP  - 1619E
+VL  - 16
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 2397-8325
+M3  - https://doi.org/10.2903/sp.efsa.2019.EN-1619
+UR  - https://doi.org/10.2903/sp.efsa.2019.EN-1619
+Y2  - 2020/11/10
+N2  - The objective of Aquarius project was to test the applicability of a food chain analysis on Atlantic salmon farmed in Norway to identify and monitor vulnerabilities and drivers of change for the identification of emerging risks. To this end, a comprehensive literature review was conducted complemented with expert views collected by on-line questionnaires and in-depth interviews. This review provided an overview of the various stages in the supply chain from farm to consumer and the identification of i) existing and emerging human and animal health hazards, ii) vulnerabilities, iii) control measures, iv) drivers of change, and v) related indicators. Next step in the study was to i) complement the list of vulnerabilities followed by a prioritisation using focus group discussions and Failure Mode and Effect Analysis (FMEA) method and ii) link drivers of change acting upon the (prioritised) vulnerabilities and identification of associated indicators and data sources by means of a Delphi method. Based on the experiences obtained with the different methodologies during this project, the Aquarius team considers literature review, and a direct face-to-face interaction with experts (in-depth interviews, focus group discussions and FMEA in a workshop setting) as being most effective regarding output and effort. The comprehensive information collected formed the basis for the methodology to baseline key indicators of the selected vulnerabilities. The methodology proposed comprised a Bayesian Network (BN) that links data sources for indicators and drivers of change to the prioritised vulnerabilities and was demonstrated for salmon health. A Decision Support System (DSS) with such BN integrated was designed. The current BN and DSS could flag an increased exposure of known hazards that may occur due to changes in indicators but new hazards are not identified. The proposed methodology could be used instead to show trends in vulnerabilities, indicators, increased exposure of known hazards and for scenario studies.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring supplier performance in collaborative design: proposition of a framework
+AU  - Le Dain, Marie-Anne
+AU  - Calvi, Richard
+AU  - Cheriti, Sandra
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/01/01
+N1  - https://doi.org/10.1111/j.1467-9310.2010.00630.x
+DO  - https://doi.org/10.1111/j.1467-9310.2010.00630.x
+T2  - R&D Management
+JF  - R&D Management
+JO  - R&D Management
+SP  - 61
+EP  - 79
+VL  - 41
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0033-6807
+M3  - https://doi.org/10.1111/j.1467-9310.2010.00630.x
+UR  - https://doi.org/10.1111/j.1467-9310.2010.00630.x
+Y2  - 2020/11/10
+N2  - With the rapid increase of component outsourcing, suppliers play more important roles in New Product Development (NPD) projects. Previous research has shown that the selection of the appropriate supplier, as well as the choice of both the time and the degree of its involvement, have a major impact on NPD performance. However, the customer firms involved in this activity of collaborative design with suppliers express a need for methods and tools in order to effectively manage these particular relations. This paper presents a framework for the measurement of supplier's performance in the context of NPD projects. This framework has been supported by evidence from the literature and feedbacks from practitioners. It has been developed iteratively by application of an action research approach conducted within six industrial French companies. This development enabled the generation of a robust framework that allows: (a) identifying four main areas of performance expected by the customer in collaborative setting and (b) evaluating suppliers' development efforts throughout the NPD project with appropriate criteria for each stage of the project.
+ER  - 
+
+TY  - JOUR
+T1  - A long and winding road: 40 years of R&D Management
+AU  - Rigby, John
+Y1  - 2016/10/01
+PY  - 2016
+DA  - 2016/10/01
+N1  - https://doi.org/10.1111/radm.12214
+DO  - https://doi.org/10.1111/radm.12214
+T2  - R&D Management
+JF  - R&D Management
+JO  - R&D Management
+JA  - R&D Management
+SP  - 1062
+EP  - 1083
+VL  - 46
+IS  - S3
+PB  - John Wiley & Sons, Ltd
+SN  - 0033-6807
+M3  - https://doi.org/10.1111/radm.12214
+UR  - https://doi.org/10.1111/radm.12214
+Y2  - 2020/11/10
+N2  - Established in 1970, R&D Management is today one of the leading journals of the technology and innovation management (TIM) field that spans the business and management subject areas. It publishes innovative research with high academic interest. This paper reviews the journal's history and the major contributions of its first 40 years, examines its present position in the context of TIM literature, and then looks at the factors which might affect the journal in the future. Descriptive and nonparametric bibliometric methods are used to examine the historic performance of the journal and the field, its current position, and the factors shaping future development.
+ER  - 
+
+TY  - JOUR
+T1  - A frontier-based managerial approach for relative sustainability performance assessment of the world's airports
+AU  - Kucukvar, Murat
+AU  - Alawi, Khalel Ahmed
+AU  - Abdella, Galal M.
+AU  - Bulak, Muhammet Enis
+AU  - Onat, Nuri C.
+AU  - Bulu, Melih
+AU  - Yalçıntaş, Murat
+Y1  - 2020/09/10
+PY  - 2020
+DA  - 2020/09/10
+N1  - https://doi.org/10.1002/sd.2134
+DO  - https://doi.org/10.1002/sd.2134
+T2  - Sustainable Development
+JF  - Sustainable Development
+JO  - Sustainable Development
+JA  - Sustainable Development
+VL  - n/a
+IS  - n/a
+KW  - airports
+KW  - environmental policy
+KW  - frontier approach
+KW  - statistical analysis
+KW  - sustainability assessment
+KW  - sustainability reporting and benchmarking
+KW  - sustainable development
+PB  - John Wiley & Sons, Ltd
+SN  - 0968-0802
+M3  - https://doi.org/10.1002/sd.2134
+UR  - https://doi.org/10.1002/sd.2134
+Y2  - 2020/11/10
+N2  - Abstract The sustainability impact of air transportation has become crucial to communities. Airports around the world are forced to be transparent with the society and to declare their sustainability results. As the sustainability goals and objectives and due to its multi-dimension aspects that are needed to be decided of and subsequently improved, the decision has been taken, and the parameters have been selected due to its significance in this field. This research presents a managerial approach combining the optimization-based frontier approach with the Global Report Initiative's comprehensive sustainability database for selected 30 major international airports based on data availability. In this regard, eco-efficiency analysis is carried out with four different models using input-oriented modeling with multiple undesirable environmental inputs (energy, carbon, water, and waste) and desirable outputs (revenue, passenger and employment) to compare efficiency and sustainability levels of airports in different contexts. Finally, performance improvement targets of each environmental indicators are presented for the airports. These comparative models reveal different frontier airports, which provide the opportunity to analyze diversified reference points for the same decision-making unit. The presented statistical study has shown that San Francisco, Hong Kong, Hamad International Airport are the most efficient airports in terms of overall sustainability performance based on collected data and selected indicators. The authors also concluded that there is a discrepancy in sustainability data reporting between airports, and there is a need for collecting complete, consistent and real-time social, environmental, economic, and governance data, to better compare and evaluate the performance of each airport from a sustainability perspective.
+ER  - 
+
+TY  - JOUR
+T1  - Fish-Net: Probabilistic models for fishway planning, design and monitoring to support environmentally sustainable hydropower
+AU  - Wilkes, Martin
+AU  - Baumgartner, Lee
+AU  - Boys, Craig
+AU  - Silva, Luiz G M
+AU  - O'Connor, Justin
+AU  - Jones, Matthew
+AU  - Stuart, Ivor
+AU  - Habit, Evelyn
+AU  - Link, Oscar
+AU  - Webb, J Angus
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1111/faf.12282
+DO  - https://doi.org/10.1111/faf.12282
+T2  - Fish and Fisheries
+JF  - Fish and Fisheries
+JO  - Fish and Fisheries
+JA  - Fish Fish
+SP  - 677
+EP  - 697
+VL  - 19
+IS  - 4
+KW  - barotrauma
+KW  - blade strike
+KW  - fish passage
+KW  - fishway design
+KW  - hydropower
+KW  - nature-like bypass
+PB  - John Wiley & Sons, Ltd
+SN  - 1467-2960
+M3  - https://doi.org/10.1111/faf.12282
+UR  - https://doi.org/10.1111/faf.12282
+Y2  - 2020/11/10
+N2  - Abstract The construction of fishways for upstream and downstream connectivity is the preferred mitigation measure for hydropower dams and other riverine barriers. Yet empirical evidence for effective design criteria for many species is missing. We therefore assembled a group of international fishway designers and combined their knowledge with available empirical data using a formal expert elicitation protocol and Bayesian networks. The expert elicitation method we use minimizes biases typically associated with such approaches. Demonstrating our application with a case-study on the temperate Southern Hemisphere, we use the resulting probabilistic models to predict the following, given alternative design parameters: (i) the effectiveness of technical fishways for upstream movement of migratory fish; (ii) habitat quality in nature-like bypasses for resident fish; and (iii) rates of mortality during downstream passage of all fish through turbines and spillways. The Fish Passage Network (Fish-Net) predicts that fishways for native species could be near 0% or near 100% efficient depending on their design, suggesting great scope for adequate mitigation. Sensitivity analyses revealed the most important parameters as follows: (i) design of attraction and entrance features of technical fishways for upstream migration; (ii) habitat preferences of resident fish in nature-like bypasses; and (iii) susceptibility of fish to barotrauma and blade strike during turbine passage. Numerical modelling predicted that mortality rates of small-bodied fish (50?100 mm TL) due to blade strike may be higher for Kaplan than Francis turbines. Our findings can be used to support environmentally sustainable decisions in the planning, design and monitoring stages of hydropower development.
+ER  - 
+
+TY  - JOUR
+T1  - Requirement change management challenges in GSD: An analytical hierarchy process approach
+AU  - Akbar, Muhammad Azeem
+AU  - Khan, Arif Ali
+AU  - Khan, Abdul Wahid
+AU  - Mahmood, Sajjad
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1002/smr.2246
+DO  - https://doi.org/10.1002/smr.2246
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2246
+VL  - 32
+IS  - 7
+KW  - analytic hierarchy process (AHP)
+KW  - challenging factors
+KW  - global software development (GSD)
+KW  - requirements change management (RCM)
+PB  - John Wiley & Sons, Ltd
+SN  - 2047-7473
+M3  - https://doi.org/10.1002/smr.2246
+UR  - https://doi.org/10.1002/smr.2246
+Y2  - 2020/11/10
+N2  - Abstract Majority of software development firms are adopting the concepts of global software development (GSD) in order to develop high-quality and low-cost products. However, the requirements change management (RCM) becomes a significant challenge in the GSD environment because of the unavailability of proper RCM framework and taxonomy. The objective of this study is to develop a taxonomy of the challenging factors of the RCM process in GSD. The taxonomy is developed based on the results of the data collected during the survey study and the implementation of the analytical hierarchy process (AHP). Total 25 challenging factors are identified and mapped into four core categories, ie, ?organizational management,? ?team,? ?technology,? and ?process.? Moreover, the AHP analysis is performed to prioritize the challenging factors and their categories. The prioritization process highlight that ?process? is the most significant category of the RCM challenging factors. The taxonomy developed in this study provides a robust framework to tackle problems associated with RCM activities in GSD environment, which is significant to the success and progression of GSD firms.
+ER  - 
+
+TY  - JOUR
+T1  - An Alternative FMEA Method for Simple and Accurate Ranking of Failure Modes
+AU  - Bradley, James R.
+AU  - Guerrero, Héctor H.
+Y1  - 2011/08/01
+PY  - 2011
+DA  - 2011/08/01
+N1  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+DO  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+SP  - 743
+EP  - 771
+VL  - 42
+IS  - 3
+KW  - Collaborative Decision Making
+KW  - Group/Team Decision Making
+KW  - Multi-Criteria Decision Making Methods
+KW  - Organizational Decision Making
+KW  - Process Improvement
+KW  - Quality Management and Systems
+KW  - Systems/Process/Service Design
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+UR  - https://doi.org/10.1111/j.1540-5915.2011.00329.x
+Y2  - 2020/11/10
+N2  - ABSTRACT Failure modes and effects analysis (FMEA) is a methodology for prioritizing actions to mitigate the effects of failures in products and processes. Although originally used by product designers, FMEA is currently more widely used in industry in Six Sigma quality improvement efforts. Two prominent criticisms of the traditional application of FMEA are that the risk priority number (RPN) used to rank failure modes is an invalid measure according to measurement theory, and that the RPN does not weight the three decision criteria used in FMEA. Various methods have been proposed to mitigate these concerns, including many using fuzzy logic. We develop a new ranking method in this article using a data-elicitation technique. Furthermore, we develop an efficient means of eliciting data to reduce the effort associated with the new method. Subsequently, we conduct an experimental study to evaluate that proposed method against the traditional method using RPN and against an approach using fuzzy logic.
+ER  - 
+
+TY  - JOUR
+T1  - Guidance on the use of the weight of evidence approach in scientific assessments
+AU  - EFSA Scientific Committee
+AU  - Hardy, Anthony
+AU  - Benford, Diane
+AU  - Halldorsson, Thorhallur
+AU  - Jeger, Michael John
+AU  - Knutsen, Helle Katrine
+AU  - More, Simon
+AU  - Naegeli, Hanspeter
+AU  - Noteborn, Hubert
+AU  - Ockleford, Colin
+AU  - Ricci, Antonia
+AU  - Rychen, Guido
+AU  - Schlatter, Josef R
+AU  - Silano, Vittorio
+AU  - Solecki, Roland
+AU  - Turck, Dominique
+AU  - Benfenati, Emilio
+AU  - Chaudhry, Qasim Mohammad
+AU  - Craig, Peter
+AU  - Frampton, Geoff
+AU  - Greiner, Matthias
+AU  - Hart, Andrew
+AU  - Hogstrand, Christer
+AU  - Lambre, Claude
+AU  - Luttik, Robert
+AU  - Makowski, David
+AU  - Siani, Alfonso
+AU  - Wahlstroem, Helene
+AU  - Aguilera, Jaime
+AU  - Dorne, Jean-Lou
+AU  - Fernandez Dumont, Antonio
+AU  - Hempen, Michaela
+AU  - Valtueña Martínez, Silvia
+AU  - Martino, Laura
+AU  - Smeraldi, Camilla
+AU  - Terron, Andrea
+AU  - Georgiadis, Nikolaos
+AU  - Younes, Maged
+Y1  - 2017/08/01
+PY  - 2017
+DA  - 2017/08/01
+N1  - https://doi.org/10.2903/j.efsa.2017.4971
+DO  - https://doi.org/10.2903/j.efsa.2017.4971
+T2  - EFSA Journal
+JF  - EFSA Journal
+JO  - EFSA Journal
+JA  - EFSA Journal
+SP  - e04971
+VL  - 15
+IS  - 8
+KW  - risk assessment
+KW  - weight of evidence
+KW  - biological relevance
+KW  - uncertainty
+KW  - lines of evidence
+PB  - John Wiley & Sons, Ltd
+SN  - 1831-4732
+M3  - https://doi.org/10.2903/j.efsa.2017.4971
+UR  - https://doi.org/10.2903/j.efsa.2017.4971
+Y2  - 2020/11/10
+N2  - Abstract EFSA requested the Scientific Committee to develop a guidance document on the use of the weight of evidence approach in scientific assessments for use in all areas under EFSA's remit. The guidance document addresses the use of weight of evidence approaches in scientific assessments using both qualitative and quantitative approaches. Several case studies covering the various areas under EFSA's remit are annexed to the guidance document to illustrate the applicability of the proposed approach. Weight of evidence assessment is defined in this guidance as a process in which evidence is integrated to determine the relative support for possible answers to a question. This document considers the weight of evidence assessment as comprising three basic steps: (1) assembling the evidence into lines of evidence of similar type, (2) weighing the evidence, (3) integrating the evidence. The present document identifies reliability, relevance and consistency as three basic considerations for weighing evidence.
+ER  - 
+
+TY  - JOUR
+T1  - The Identity Management Value Model: A Design Science Approach to Assess Value Gaps on Social Media
+AU  - Syed, Romilla
+AU  - Dhillon, Gurpreet
+AU  - Merrick, Jason
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1111/deci.12335
+DO  - https://doi.org/10.1111/deci.12335
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 498
+EP  - 536
+VL  - 50
+IS  - 3
+KW  - Design science
+KW  - Identity management
+KW  - Multiple objectives decision analysis
+KW  - Online identity
+KW  - Social media
+KW  - Value-focused thinking
+KW  - Value gaps
+KW  - Value model
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/deci.12335
+UR  - https://doi.org/10.1111/deci.12335
+Y2  - 2020/11/10
+N2  - ABSTRACT Threats to the individual identity on social media are real and problematic. Yet, there is a paucity of research on online identity management. We posit that identity management on social media requires a value perspective to determine gaps between what social media users want from online identity management and what social media sites offer through their current security and privacy controls. Following the design science research paradigm, we present an Identity Management Value Model (IMVM). Based on multiple-objectives decision analysis technique, the value model explicates a hierarchy of fundamental identity management objectives and quantifies the achievement of objectives on a social media site. The emergent value scores and value gaps provide an understanding of how well a social media site manages users online identity. We demonstrate the application of the value model for Facebook and assess a set of measures to reduce the value gaps on Facebook. We conducted sensitivity analysis followed by deterministic analysis to evaluate the value model. The evaluation results indicate that the modeling outcome is robust to a range of individual values and preferences. By focusing on individual values, this study extends the research on values in the context of identity management on social media. Social media companies might find the model useful for instituting identity management measures. Individual users could use the model for strategizing about personal identity management. Our study also demonstrates the usefulness of a retrospective design approach, accounting for user values in a principled and comprehensive manner.
+ER  - 
+
+TY  - JOUR
+T1  - Review of ecological-based risk management approaches used at five Army Superfund sites
+AU  - Poucher, Sherri L
+AU  - Tracey, Gregory A
+AU  - Johnson, Mark S
+AU  - Haines, Laurie B
+Y1  - 2012/04/01
+PY  - 2012
+DA  - 2012/04/01
+N1  - https://doi.org/10.1002/ieam.1249
+DO  - https://doi.org/10.1002/ieam.1249
+T2  - Integrated Environmental Assessment and Management
+JF  - Integrated Environmental Assessment and Management
+JO  - Integrated Environmental Assessment and Management
+JA  - Integr Environ Assess Manag
+SP  - 246
+EP  - 261
+VL  - 8
+IS  - 2
+KW  - Risk management
+KW  - Ecological risk assessment
+KW  - CERCLA
+PB  - John Wiley & Sons, Ltd
+SN  - 1551-3777
+M3  - https://doi.org/10.1002/ieam.1249
+UR  - https://doi.org/10.1002/ieam.1249
+Y2  - 2020/11/10
+N2  - Abstract Factors used in environmental remedial decision making concerning ecological risk are not well understood or necessarily consistent. Recent Records of Decision (RODs) for Army CERCLA sites were reviewed to select case studies where remedial management occurred in response to ecological risks. Thirty-four Army RODs were evaluated representing decisions promulgated between 1996 and 2004. Five were selected based on assessments that remedial actions were clearly linked to concern for ecological receptors. The Ecological Risk Assessment (ERA) approach and the subsequent risk management process were reviewed for each site. The case studies demonstrated that the ERA findings, as well as critical management decisions regarding interpretation of identified ecological risks, were determinants of remedial action objectives. Decisions regarding the selection of remedial alternatives were based on a set of criteria prescribed by Superfund requirements and guidance. Remedial alternative evaluations require protection of human health and the environment, but protective conditions were determined using different methods at each site. Examining the remedial management process for the 5 case study sites revealed that uncertainty in the risk assessment and decisions regarding appropriate spatial scales for both risk assessment and remediation were important factors influencing remedial action decisions. The case reviews also revealed that levels of documentation were variable from site to site. In the future, more detailed documentation of decision criteria and the development of criteria that consider the resilience of the site will result in more technically defensible ecological risk management. Integr Environ Assess Manag 2012; 8: 246?261. ? 2011 SETAC
+ER  - 
+
+TY  - JOUR
+T1  - De-motivators for the adoption of agile methodologies for large-scale software development teams: An SLR from management perspective
+AU  - Faisal Abrar, Muhammad
+AU  - Sohail, M.
+AU  - Ali, Sikandar
+AU  - Faran Majeed, Muhammad
+AU  - Ali Shah, Ibrar
+AU  - Rashid, Nasir
+AU  - Ullah, Naimat
+Y1  - 2020/06/24
+PY  - 2020
+DA  - 2020/06/24
+N1  - https://doi.org/10.1002/smr.2268
+DO  - https://doi.org/10.1002/smr.2268
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2268
+VL  - n/a
+IS  - n/a
+KW  - agile software developement
+KW  - agile transformation
+KW  - de-motivators
+KW  - risk factors
+KW  - systematic literature review
+PB  - John Wiley & Sons, Ltd
+SN  - 2047-7473
+M3  - https://doi.org/10.1002/smr.2268
+UR  - https://doi.org/10.1002/smr.2268
+Y2  - 2020/11/10
+N2  - Abstract Most of the software development projects have traditionally been faced with severe problems in terms of quality, cost, and time. Researchers and practitioners have focused on agile software development methods (ASDMs) as an alternative to overcome these problems. Agile methods employ iterative development cycles, interspersed by user feedback. Agile methods were basically developed for small development teams. Scaling agile methods is a big issue from different perspectives. De-motivators play a key role in project management as it allows early identification and prompt management of threats that may arise during project execution. The objective of this paper is to identify the de-motivators while scaling agile at large, from management perspectives. We have adapted SLR and applied contrived search criteria derived from the research questions, followed by selecting the required research papers, data extraction, and data synthesis, which resulted in 15 de-motivators from 58 relevant papers. Some of the identified de-motivators are ?traditional organizational culture?, ?lack of agile experts?, ?reluctance to adopt?, and ?lack of management and commitment support?. The identified factors have been compared from various perspectives, such as continents, digital libraries, organization size, and so forth.
+ER  - 

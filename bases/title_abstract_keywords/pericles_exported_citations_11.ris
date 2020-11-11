@@ -1,0 +1,611 @@
+
+TY  - JOUR
+T1  - Dimensionality Reduction and Visualization of the Environmental Impacts of Domestic Appliances
+AU  - Gutiérrez, Ester
+AU  - Lozano, Sebastián
+AU  - Adenso-Díaz, Belarmino
+Y1  - 2010/12/01
+PY  - 2010
+DA  - 2010/12/01
+N1  - https://doi.org/10.1111/j.1530-9290.2010.00291.x
+DO  - https://doi.org/10.1111/j.1530-9290.2010.00291.x
+T2  - Journal of Industrial Ecology
+JF  - Journal of Industrial Ecology
+JO  - Journal of Industrial Ecology
+SP  - 878
+EP  - 889
+VL  - 14
+IS  - 6
+KW  - cluster analysis
+KW  - industrial ecology
+KW  - life cycle assessment (LCA)
+KW  - multidimensional scaling (MDS)
+KW  - principal-component analysis (PCA)
+KW  - waste electrical and electronic equipment (WEEE)
+PB  - John Wiley & Sons, Ltd
+SN  - 1088-1980
+M3  - https://doi.org/10.1111/j.1530-9290.2010.00291.x
+UR  - https://doi.org/10.1111/j.1530-9290.2010.00291.x
+Y2  - 2020/11/10
+N2  - Summary There is an increasing worldwide concern about the problem of dealing with the waste electrical and electronic equipment (WEEE), given the high volume of appliances that are disposed of every day. In this article, an environmental evaluation of WEEE is performed that combines life cycle assessment (LCA) methodology and multivariate statistical techniques. Because LCA handles a large number of data in its different phases, when one is trying to uncover the structure of large multidimensional data sets, multivariate statistical techniques can provide useful information. In particular, principal-component analysis and multidimensional scaling are two important dimension-reducing tools that have been shown to be of help in understanding this type of complex multivariate data set. In this article, we use a variable selection method that reduces the number of categories for which the environmental impacts have to be computed; this step is especially useful when the number of impact categories or the number of products or processes to benchmark increases. We provide a detailed illustration showing how we have used the proposed approach to analyze and interpret the environmental impacts of different domestic appliances.
+ER  - 
+
+TY  - JOUR
+T1  - Comparing the functional recognition of aesthetics, hydrology, and quality in urban stream restoration through the framework of environmental perception
+AU  - Hong, Chang-Yu
+AU  - Chang, Heejun
+AU  - Chung, Eun-Sung
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.1002/rra.3423
+DO  - https://doi.org/10.1002/rra.3423
+T2  - River Research and Applications
+JF  - River Research and Applications
+JO  - River Research and Applications
+JA  - River Res Applic
+SP  - 543
+EP  - 552
+VL  - 35
+IS  - 6
+KW  - AHP
+KW  - citizen survey
+KW  - environmental perception
+KW  - hierarchy multiple regression
+KW  - image-based survey
+KW  - social-ecological systems
+PB  - John Wiley & Sons, Ltd
+SN  - 1535-1459
+M3  - https://doi.org/10.1002/rra.3423
+UR  - https://doi.org/10.1002/rra.3423
+Y2  - 2020/11/10
+N2  - Abstract This study explores the application of a civic perception analysis in the context of stream restoration as a social-ecological system (SES). Analysing such a SES is useful for understanding correlations between civic interests and environmental conditions in river restoration. An analytic hierarchy process (AHP) analysis was used to quantify the demand for restoration objectives. Additionally, an image-based survey was used to precisely capture residents' perceptions of urban stream restoration by comparing aesthetic images, hydrologic functions, and environmental quality. Based on the AHP results, a hierarchical multiple regression was derived. A total of 181 participants responded to our survey, and the results were summarized by each subwatershed in the An'Yang watershed. The results demonstrated that the perceptions of residents who live in various environmental and regional conditions may manifoldly reflect their personal visual and aesthetic preferences by subwatershed. The upstream subwatershed values (SW1 = 7.86 and SW2 = 7.39) were higher than those in the downstream areas (SW5 = 5.28 and SW6 = 5.15). Consequently, this hierarchical multilevel model showed that individual environmental perception was highly associated with visual preference regarding stream restoration at the subwatershed level (p < 0.001). Urban environmental and spatial planners could use such information when restoring and designing waterfront spaces.
+ER  - 
+
+TY  - JOUR
+T1  - Operations Research in Healthcare: a survey
+AU  - Rais, Abdur
+AU  - Viana, Ana
+Y1  - 2011/01/01
+PY  - 2011
+DA  - 2011/01/01
+N1  - https://doi.org/10.1111/j.1475-3995.2010.00767.x
+DO  - https://doi.org/10.1111/j.1475-3995.2010.00767.x
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+SP  - 1
+EP  - 31
+VL  - 18
+IS  - 1
+KW  - healthcare
+KW  - operations research
+KW  - optimisation
+KW  - survey
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+M3  - https://doi.org/10.1111/j.1475-3995.2010.00767.x
+UR  - https://doi.org/10.1111/j.1475-3995.2010.00767.x
+Y2  - 2020/11/10
+N2  - Abstract Optimisation problems in Healthcare have received considerable attention for more than three decades. More recently, however, with decreasing birth rates in nearly all of the developed countries and increasing average longevity globally, optimisation issues in Healthcare have become noticeably important and attract keen interest from the Operations Research community. Over the years, attention has gradually expanded from resource allocation and strategic planning to include operational issues such as resource scheduling and treatment planning. This paper surveys several applications of Operations Research in the domain of Healthcare. In particular, the paper reviews key contributions addressing contemporary optimisation issues in this area. It highlights current research activities, focusing on a variety of optimisation problems as well as solution techniques used for solving the optimisation problems.
+ER  - 
+
+TY  - JOUR
+T1  - A New Approach to the Group Ranking Problem: Finding Consensus Ordered Segments from Users’ Preference Data
+AU  - Chen, Yen-Liang
+AU  - Cheng, Li-Chen
+AU  - Hsu, Weu-Yu
+Y1  - 2013/12/01
+PY  - 2013
+DA  - 2013/12/01
+N1  - https://doi.org/10.1111/deci.12048
+DO  - https://doi.org/10.1111/deci.12048
+T2  - Decision Sciences
+JF  - Decision Sciences
+JO  - Decision Sciences
+JA  - Decision Sciences
+SP  - 1091
+EP  - 1119
+VL  - 44
+IS  - 6
+KW  - Artificial Intelligence
+KW  - Cluster Analysis
+KW  - Collaborative Decision Models
+KW  - Group/Team Decision Making
+KW  - Group Decision Support
+PB  - John Wiley & Sons, Ltd
+SN  - 0011-7315
+M3  - https://doi.org/10.1111/deci.12048
+UR  - https://doi.org/10.1111/deci.12048
+Y2  - 2020/11/10
+N2  - ABSTRACT The group ranking problem involves constructing coherent aggregated results from users? preference data. The goal of most group ranking problems is to generate an ordered list of all items that represents the user consensus. There are, however, two weaknesses to this approach. First, a complete list of ranked items is always output even when there is no consensus or only a slight consensus. Second, due to similarity of performance, in many practical situations, it is very difficult to differentiate whether one item is really better than another within a set. These weaknesses have motivated us to apply the clustering concept to the group ranking problem, to output an ordered list of segments containing a set of similarly preferred items, called consensus ordered segments. The advantages of our approach are that (i) the list of segments is based on the users? consensuses, (ii) the items with similar preferences are grouped together in the same segment, and (iii) the relationships between items can be easily seen. An algorithm is developed to construct the consensus of the ordered segments from the users? total ranking data. Finally, the experimental results indicate that the proposed method is computationally efficient, and can effectively identify consensus ordered segments.
+ER  - 
+
+TY  - JOUR
+T1  - Application of multiple-response optimization methods for the ergonomic evaluation of carpet weaving knife
+AU  - Singh, Ashish Kumar
+AU  - Meena, Makkhan Lal
+AU  - Chaudhary, Himanshu
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1002/hfm.20785
+DO  - https://doi.org/10.1002/hfm.20785
+T2  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JF  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JO  - Human Factors and Ergonomics in Manufacturing & Service Industries
+JA  - Hum. Factors Man.
+SP  - 293
+EP  - 311
+VL  - 29
+IS  - 4
+KW  - carpet weaving
+KW  - design ergonomics
+KW  - electromyography
+KW  - goniometry
+KW  - maximum voluntary isometric contractions
+KW  - multiple-criteria decision-making
+KW  - Taguchi loss function
+KW  - technique for order of preference by similarity to ideal solution
+KW  - VIšekriterijumsko KOmpromisno Rangiranje
+KW  - weaving knife
+KW  - wrist posture
+PB  - John Wiley & Sons, Ltd
+SN  - 1090-8471
+M3  - https://doi.org/10.1002/hfm.20785
+UR  - https://doi.org/10.1002/hfm.20785
+Y2  - 2020/11/10
+N2  - Abstract The aim of this study is to evaluate several weaving knife configurations in response to multiple criteria?s for optimum design. Nine different knife combinations were tested over ten female weavers in a field experiment. Three levels of blade width and angular orientations were taken as the independent variables. Output response about goniometry and electromyography were taken as dependent variables. Multivariate analysis was carried out to estimate the effect of independent variables on output responses. To tackle the difficulty of knife selection with several output responses, three multicriteria optimization approaches have been compared. Multivariate analysis of variance results showed that the effect of both blade width and angle were significant at wrist angles. Also, the magnitude of effect size on both blade width and the angle was highest for the wrist angles. Despite the same weighing criteria, a slight difference was evident between the ranks from optimization methods. The higher blade widths and smaller angular orientations should be recommended for reduction of wrist deviation and muscle activity during weaving. The best possible combination of knife evaluated using multicriteria optimization was 25?mm???100°.
+ER  - 
+
+TY  - JOUR
+T1  - Survival and growth analysis of multipurpose trees, shrubs, and grasses used to rehabilitate badlands in the subhumid tropics
+AU  - Talema, Ayalew
+AU  - Poesen, Jean
+AU  - Muys, Bart
+AU  - Padro, Roc
+AU  - Dibaba, Hirko
+AU  - Diels, Jan
+Y1  - 2019/02/28
+PY  - 2019
+DA  - 2019/02/28
+N1  - https://doi.org/10.1002/ldr.3239
+DO  - https://doi.org/10.1002/ldr.3239
+T2  - Land Degradation & Development
+JF  - Land Degradation & Development
+JO  - Land Degradation & Development
+JA  - Land Degrad Dev
+SP  - 470
+EP  - 480
+VL  - 30
+IS  - 4
+KW  - badland
+KW  - farmyard manure
+KW  - grass
+KW  - gully
+KW  - rehabilitation
+PB  - John Wiley & Sons, Ltd
+SN  - 1085-3278
+M3  - https://doi.org/10.1002/ldr.3239
+UR  - https://doi.org/10.1002/ldr.3239
+Y2  - 2020/11/10
+N2  - Abstract Vegetation plays a vital role for sustainable rehabilitation of degraded lands such as badlands with active gully erosion. However, the establishment of plant species on badlands remains a long-lasting challenge in most regions, including the subhumid tropics. To address this challenge, 18 multipurpose plant species (six trees, three shrubs, and nine grasses), which were preselected from the regional species pool in Southwest Ethiopia, were planted in a badland and monitored from July 2011 to June 2014. The experiment had a split-plot design with farmyard manure (FYM) application as main plot and plant species as subplot factors repeated in three blocks. The study revealed that grasses were the most successful to survive and rehabilitate the gully within the monitoring period compared with trees and shrubs. The survival rate of the four most successful grass species, Chrysopogon zizanioides, Pennisetum macrourum, Pennisetum polystachion, and Pennisetum purpureum ranged from 61% to 90% with FYM application and from 20% to 85% without FYM, while most of the well-known indigenous and exotic trees and shrubs failed to survive. For the grass P. purpureum, shoot height, shoot, and root biomass were enhanced by 300%, 342%, and 578%, respectively, due to FYM application, with a remarkably higher response to FYM compared with all the other studied species. The overall results demonstrate that badlands can be effectively restored by using early successional species such as locally adapted and selected grasses before the plantation of trees and shrubs.
+ER  - 
+
+TY  - JOUR
+T1  - Analytic hierarchy process as an alternative for the selection of vocabularies for sensory characterization and consumer preference
+AU  - Ramírez-Rivera, Emmanuel de Jesús
+AU  - Morales-Carrera, Uriel Alejandro
+AU  - Limón-Rivera, Rogelio
+AU  - Castillo-Martínez, Susana Isabel
+AU  - Hernández-Salinas, Gregorio
+AU  - Ramírez-Sucre, Manuel Octavio
+AU  - Herrera-Corredor, José Andrés
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - https://doi.org/10.1111/joss.12547
+DO  - https://doi.org/10.1111/joss.12547
+T2  - Journal of Sensory Studies
+JF  - Journal of Sensory Studies
+JO  - Journal of Sensory Studies
+JA  - J Sens Stud
+SP  - e12547
+VL  - 35
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0887-8250
+M3  - https://doi.org/10.1111/joss.12547
+UR  - https://doi.org/10.1111/joss.12547
+Y2  - 2020/11/10
+N2  - Abstract The objective of the present study was to investigate the Analytic Hierarchy Process (AHP) technique as an alternative to the ISO standard 11035 for the sensory characterization and consumer preference of coffee through External Preference Mapping (PREFMAP). The methodological context consisted in the generation of the sensory vocabulary applying the techniques ISO standard 11035 using a trained panel and AHP using an expert panel. PREFMAP was then carried out to explain the preference of coffee consumers according to the vocabularies generated. The results showed that the sensory vocabulary using AHP was similar to that obtained with ISO standard 11035 and the judgments of the panel of experts were consistent. The PREFMAP'S explained in a similar way the preference of coffee consumers. The use of the AHP technique is a new, reliable, and easy-to-execute alternative for the selection of sensory vocabulary for characterization and explanation of consumer preference. Practical Applications The Analytic Hierarchy Process technique is a reliable alternative for the selection of sensory attributes. The attributes are evaluated by paired comparison and, by mathematical procedure, the weight (W) of each attribute and sensory dimension is obtained. Consistency indicators are also included to support and validate panel judgments. This new proposal can be easily implemented at an industrial and academic level for the development of different sensometric investigations that require characterizing and analyzing the preference of consumers of different foods.
+ER  - 
+
+TY  - JOUR
+T1  - Technological ecosystems in capability development: A case study in emerging technologies
+AU  - Ivanova, Ksenia
+AU  - Elsawah, Sondoss
+AU  - Fidock, Justin
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1002/sys.21535
+DO  - https://doi.org/10.1002/sys.21535
+T2  - Systems Engineering
+JF  - Systems Engineering
+JO  - Systems Engineering
+JA  - Syst Eng
+SP  - 423
+EP  - 435
+VL  - 23
+IS  - 4
+KW  - SEE01 Systems Thinking
+KW  - SEE17 Logistics and Supportability
+PB  - John Wiley & Sons, Ltd
+SN  - 1098-1241
+M3  - https://doi.org/10.1002/sys.21535
+UR  - https://doi.org/10.1002/sys.21535
+Y2  - 2020/11/10
+N2  - Abstract The concept of technological ecosystems has been increasingly applied across different domains but rarely in the area of capability development. This paper contributes to addressing this knowledge gap by demonstrating the potential value of applying the technological ecosystems perspective to support technology investment decisions. We present a practical step-by-step approach to show how this approach can be used in practice and illustrate it using two case studies in the military domain. Case A looks at emerging technologies in health support; and Case B is concerned with driverless vehicles in dangerous environments. In both instances, the concepts are developed via facilitated workshops and the technological ecosystem maps are derived by analyzing the enabling technological elements and the relationships between them. Subsequent analysis shows how the technological ecosystem framing assists in gaining a holistic picture of the potential impacts of technology adoption and how it can be used to reframe capability options in terms of technology groupings. Technological ecosystem analysis across the two cases is used to identify common capability enablers and multidomain capability enhancing elements. We discuss the types of components within the generated technological ecosystem maps and point to directions for future work enabled by technological ecosystem mapping in capability development.
+ER  - 
+
+TY  - JOUR
+T1  - Towards polypotent natural products: The Derringer desirability approach and nonparametric ranking for multicriteria evaluation of essential oils
+AU  - Andrić, Filip Lj.
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1002/cem.3050
+DO  - https://doi.org/10.1002/cem.3050
+T2  - Journal of Chemometrics
+JF  - Journal of Chemometrics
+JO  - Journal of Chemometrics
+JA  - Journal of Chemometrics
+SP  - e3050
+VL  - 32
+IS  - 10
+KW  - essential oils
+KW  - multiobjective optimization
+KW  - natural products
+KW  - polypotency
+KW  - sum of ranking differences
+PB  - John Wiley & Sons, Ltd
+SN  - 0886-9383
+M3  - https://doi.org/10.1002/cem.3050
+UR  - https://doi.org/10.1002/cem.3050
+Y2  - 2020/11/10
+N2  - Abstract Chemical complexity of natural products often results in their pharmacological polypotency. However, selecting a natural product with desirable activity profile is not a straightforward task, especially if optimization of one feature results in deterioration of other facets. Recently, in the field of multiobjective optimization, the sum of ranking differences (SRD) has emerged as a simple and statistically sound method for fusion of multiple criteria. However, the data pretreatment seems to strongly influence the ranking outcome, which may lead to ambiguous or even false interpretations. Therefore, in the present study, the data of 55 essential oils originated from different plant species and tested on multiple bacterial and fungal strains as well as 4 antioxidative assays were studied. Essential oils were ranked using the classical Deringer desirability approach, and results were compared with the SRD analysis of primary activity data as well as the previously row-wise standardized data, normalized data, and the data scaled to fit the preferences. Ultimately, the most promising candidate (polypotent) essential oils, as well as the most resilient and most sensitive bacterial and fungal strains, and antioxidative assays were identified. Data transformation based on the Deringer desirability approach, compared with the data that have not been previously transformed or those that transformed using a row-wise standardization or normalization to the unit length vector, seemed to be the crucial step providing the sound and meaningful SRD ranking.
+ER  - 
+
+TY  - JOUR
+T1  - Pythagorean Fuzzy LINMAP Method Based on the Entropy Theory for Railway Project Investment Decision Making
+AU  - Xue, Wenting
+AU  - Xu, Zeshui
+AU  - Zhang, Xiaolu
+AU  - Tian, Xiaoli
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - https://doi.org/10.1002/int.21941
+DO  - https://doi.org/10.1002/int.21941
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int. J. Intell. Syst.
+SP  - 93
+EP  - 125
+VL  - 33
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.21941
+UR  - https://doi.org/10.1002/int.21941
+Y2  - 2020/11/10
+N2  - Abstract The uncertainty and complexity of the decision-making environment and the subjectivity of the decision makers will lead to the inevitable errors of the decision-making data. A poor decision will be produced with those errors, whereas the linear programming technique for multidimensional analysis of preference (LINMAP) method can adjust such errors through constructing an optimal programming model based on the consistency of the decision-making information, and it has been applied widely in multiple attribute group decision making (MAGDM). Moreover, Pythagorean fuzzy information is useful to simulate the ambiguous and uncertain decision-making environment. Therefore, the LINMAP method under the Pythagorean fuzzy circumstance will be proposed in this paper to solve MAGDM problems. To measure the fuzziness and uncertainty of Pythagorean fuzzy set (PFS) and interval-valued PFS, Pythagorean fuzzy entropy (PFE) and interval-valued PFE (IVPFE) grounded on the similarity and hesitancy parts have been defined, respectively. Then, Pythagorean fuzzy LINMAP (PF LINMAP) methods are constructed on the basis of the PFE and IVPFE correspondingly. Under the given preference relations, the maximum consistency and the amount of knowledge can be realized by the proposed methods. After investigating the relevant indicator system, the decision-making problem concerning railway project investment has been solved through the proposed PF LINMAP method with PFE. Finally, the practicability and effectiveness of the PF LINMAP method has been verified via the comparative analysis with the existing methods.
+ER  - 
+
+TY  - JOUR
+T1  - A multicountry comparative survey about organizational resilience in anaesthesia
+AU  - Falegnami, Andrea
+AU  - Bilotta, Federico
+AU  - Pugliese, Francesco
+AU  - Costantino, Francesco
+AU  - Di Gravio, Giulio
+AU  - Tronci, Massimo
+AU  - Patriarca, Riccardo
+Y1  - 2018/12/01
+PY  - 2018
+DA  - 2018/12/01
+N1  - https://doi.org/10.1111/jep.13054
+DO  - https://doi.org/10.1111/jep.13054
+T2  - Journal of Evaluation in Clinical Practice
+JF  - Journal of Evaluation in Clinical Practice
+JO  - Journal of Evaluation in Clinical Practice
+JA  - J Eval Clin Pract
+SP  - 1347
+EP  - 1357
+VL  - 24
+IS  - 6
+KW  - AHP
+KW  - anaesthesia
+KW  - questionnaire
+KW  - RAG
+KW  - resilience
+PB  - John Wiley & Sons, Ltd
+SN  - 1356-1294
+M3  - https://doi.org/10.1111/jep.13054
+UR  - https://doi.org/10.1111/jep.13054
+Y2  - 2020/11/10
+N2  - Abstract Rationale, aims, and objectives The application of resilience in health care requires the shift from a cause-effect approach to a systemic approach, yet few tools have been developed to measure resilience potential in this specific context. This study tests a resilience assessment grid (RAG) questionnaire to measure the resilience of anaesthesiologists, with a cross-country survey. Method A study was conducted with an analytic hierarchy process (AHP) questionnaire containing 57 detailed questions; 16 nations and 172 respondents were involved in the study. The data were statistically analysed to identify insights from the questionnaire, main improvements for further assessment, and confirmation of the design of the questionnaire. The questionnaire reliability was assessed by Cronbach analysis. Weak items were identified by a detailed correlations analysis and through a weight-polarization matrix. Construct validity was confirmed by principal component analysis (PCA) and factor analysis (FA). Results The α level of Cronbach analysis is 0.910. PCA and FA confirmed the absence of underlying unexpected factors, with less than 8% from the first factor and a total of just 54% of variability explained by 17 factors. Suggestions for revising the questionnaire ensue from the analysis, with improvements for the questionnaire's significance. Conclusion The questionnaire shows the potential to assess proxy measures of resilience, even confirming the relevance of a structured weighting approach based on the AHP. The exemplar statistical cross-country analyses encourage the widespread use of a centralized resilience questionnaire to support standardized analyses and the diffusion of best practices among organizations.
+ER  - 
+
+TY  - JOUR
+T1  - Managing healthcare waste for sustainable environmental development: A hybrid decision approach
+AU  - Thakur, Vikas
+AU  - Mangla, Sachin Kumar
+AU  - Tiwari, Binita
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1002/bse.2625
+DO  - https://doi.org/10.1002/bse.2625
+T2  - Business Strategy and the Environment
+JF  - Business Strategy and the Environment
+JO  - Business Strategy and the Environment
+JA  - Bus Strat Env
+VL  - n/a
+IS  - n/a
+KW  - climate change
+KW  - community wellbeing
+KW  - decision making
+KW  - environmental pollution and emissions
+KW  - healthcare waste
+KW  - sustainable development
+PB  - John Wiley & Sons, Ltd
+SN  - 0964-4733
+M3  - https://doi.org/10.1002/bse.2625
+UR  - https://doi.org/10.1002/bse.2625
+Y2  - 2020/11/10
+N2  - Abstract Healthcare waste management (HCWM) has become the most concerned issue for hospitals to enhance their environmental performance while reducing the waste disposal costs. The present study aims to standardize the evaluation criteria for the stakeholders to ensure sustainable environmental development by safe disposal of infectious healthcare waste (HCW). The present study applied the fuzzy-Delphi method to scrutinize the criteria identified from the literature and experts' opinions and resulted in 20 subcriteria under the following six main dimensions: experience, relationship, environmental factors, technology and qualification, economic factors, and firm's capabilities. Further, this study proposed a hybrid approach based on analytic hierarchy process (AHP) and decision-making trial and evaluation laboratory (DEMATEL) under fuzzy environment to analyze the importance and interrelationships of these listed criteria. The study also showed that the experts have given approximately 70% weightage to three main criteria: firms' capabilities, economic factors, and technology and qualification. The implications of the study would help the healthcare administration and Pollution Control Boards to prepare check sheets for recording HCWM practices and, hence, contribute to sustainable environmental development in an efficient way. Understanding the prioritized cause-group criteria would further protect hospitals' environment from the spread of infection caused by the HCW in the long run.
+ER  - 
+
+TY  - JOUR
+T1  - Basic theory of line integrals under the q-rung orthopair fuzzy environment and their applications
+AU  - Shao, Yabin
+AU  - Zhuo, Junle
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1002/int.22238
+DO  - https://doi.org/10.1002/int.22238
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 1163
+EP  - 1199
+VL  - 35
+IS  - 7
+KW  - multiple attribute decision making
+KW  - nonstandard fuzzy set
+KW  - q-rung orthopair fuzzy aggregation operator
+KW  - q-rung orthopair fuzzy line integral
+PB  - John Wiley & Sons, Ltd
+SN  - 0884-8173
+M3  - https://doi.org/10.1002/int.22238
+UR  - https://doi.org/10.1002/int.22238
+Y2  - 2020/11/10
+N2  - Abstract In the process of decision making (DM), to have more freedom in expressing DM experts' belief about membership and nonmembership grade, Yager presented the q-rung orthopair fuzzy sets (q-ROFSs) as an extension of fuzzy sets. Recently, for aggregating discrete and continuous q-ROF information, many scholars provided various aggregation operators. However, there are still some kinds of continuous q-ROF information cannot be aggregated through existing aggregation operators. In this paper, we present two novel kinds of line integrals under the q-rung orthopair fuzzy environment (q-ROFE), which supply a wider range on method choice for multiple attribute decision making (MADM) concerning discrete or continuous q-ROF information. We first construct the first form of line integral under the q-ROFE and study their properties, we prove the specific condition mean valued theorem but negate the general condition for it. Besides, several inequalities with regard to it are also provided. After that, we give two characterization forms of the second form of line integral under the q-ROFE, we study the relationship between two kinds of line integrals. What is more important, we show the Green formula under q-ROFE, which connect the existing q-rung orthopair fuzzy integration theory. Afterward, we provide two kinds of aggregation operators on the basis of two line integrals, respectively. As their applications, we give two novel MADM methods based on two kinds of line integral aggregation operators. And some examples are shown to demonstrate the aggregation process of line integral operators. We not only stress their availabilities and superiorities on aggregating continuous q-ROF information, but also comparing with other existing aggregation methods for emphasizing the novel methods' abilities when deal with abnormal q-ROF information.
+ER  - 
+
+TY  - JOUR
+T1  - Private-sector partner selection for public-private partnership projects of electric vehicle charging infrastructure
+AU  - Zhang, Lihui
+AU  - Zhao, Zhenli
+AU  - Kan, Zhinan
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - https://doi.org/10.1002/ese3.367
+DO  - https://doi.org/10.1002/ese3.367
+T2  - Energy Science & Engineering
+JF  - Energy Science & Engineering
+JO  - Energy Science & Engineering
+JA  - Energy Sci Eng
+SP  - 1469
+EP  - 1484
+VL  - 7
+IS  - 5
+KW  - electric vehicle charging infrastructure
+KW  - private-sector partner selection
+KW  - public-private partnership
+KW  - VIKOR-based approach
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-0505
+M3  - https://doi.org/10.1002/ese3.367
+UR  - https://doi.org/10.1002/ese3.367
+Y2  - 2020/11/10
+N2  - Abstract Public-private partnership (PPP) models, which can mitigate the deflection of charging facilities, have been introduced for electric vehicle charging infrastructure (EVCI) projects. Private-sector partner selection is a significant step to ensure the success of EVCI-PPP projects, but it has been rarely studied. This paper therefore identifies selection criteria for private partners in EVCI-PPP projects and assesses the alternatives using an extended multicriteria operation and compromise solution (VIKOR) method. A partner selection indicator system is established through three development processes, and the factors are categorized into five factor packages: basic ability, management ability, performance of previous performance and credit performance, performance of projects, and sustainable development. These factors include 22 subcriteria. An extended VIKOR-based method incorporating an intuitionistic fuzzy set is developed to select an optimal private partner. A case study is used to verify the effectiveness and rationalization of the proposed approach. Three potential candidates, P1, P2, P3, are evaluated and ranked according to their evaluation scores, and the results show that P1 is the best partner solution. Relevant charging infrastructure project experience, technical level in charging facilities, and financing plan are the top three criteria for choosing appropriate partners for EVCI-PPP projects. This study provides a comprehensive evaluation framework for the government to select suitable private-sector partners to accelerate the sustainable development of charging facilities.
+ER  - 
+
+TY  - JOUR
+T1  - Measuring Six Sigma Project Effectiveness using Fuzzy Approach
+AU  - Ray, Sanjit
+AU  - Das, Prasun
+AU  - Bhattacharyay, B. K.
+AU  - Antony, Jiju
+Y1  - 2013/04/01
+PY  - 2013
+DA  - 2013/04/01
+N1  - https://doi.org/10.1002/qre.1391
+DO  - https://doi.org/10.1002/qre.1391
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual. Reliab. Engng. Int.
+SP  - 417
+EP  - 430
+VL  - 29
+IS  - 3
+KW  - Six Sigma
+KW  - fuzzy Logic
+KW  - linguistic variables
+KW  - project measurement system
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - https://doi.org/10.1002/qre.1391
+UR  - https://doi.org/10.1002/qre.1391
+Y2  - 2020/11/10
+N2  - Six Sigma methodology for process improvement is being used by industries to improve customer satisfaction, business results or both. The success of Six Sigma implementation can be measured by evaluating the effectiveness of the completed projects. The other objective of project effectiveness measurement scheme is to keep the team focused and motivated. A good measurement system should be able to measure and compare projects of various types and need, including benefits from the projects. The project effectiveness measurement scheme should include success factors like project selection, involvement of management, results achieved, conduct of the project and monitoring and review of the project. A Six Sigma project effectiveness evaluation system is generally based on the perception of people that can result in unreliable measurement. To overcome this deficiency, we used a fuzzy approach based on linguistic variables and fuzzy numbers for measuring the project effectiveness in this study by using the perception of management. Two methods for measuring effectiveness of selected sample projects are suggested. The outcome from this research would be helpful for the practicing industries to use this methodology for an unbiased evaluation of completed projects. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing wind farm siting to reduce power system impacts of wind variability
+AU  - Musselman, Amelia
+AU  - Thomas, Valerie M.
+AU  - Boland, Natashia
+AU  - Nazzal, Dima
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.1002/we.2328
+DO  - https://doi.org/10.1002/we.2328
+T2  - Wind Energy
+JF  - Wind Energy
+JO  - Wind Energy
+JA  - Wind Energy
+SP  - 894
+EP  - 907
+VL  - 22
+IS  - 7
+KW  - multiobjective optimization
+KW  - siting
+KW  - variability reduction
+PB  - John Wiley & Sons, Ltd
+SN  - 1095-4244
+M3  - https://doi.org/10.1002/we.2328
+UR  - https://doi.org/10.1002/we.2328
+Y2  - 2020/11/10
+N2  - Abstract We introduce and solve two variants of a biobjective optimization model to reduce the negative impact of wind variability on the power system by strategically locating wind farms. The first model variant considers average changes in wind power over time; the second captures extreme fluctuations in wind power. A complementary set of wind sites is selected with the aim of minimizing both residual demand and the variability in residual demand. Because exact optimization is computationally intensive, we develop two heuristics?forward and backward greedy algorithms?to find approximate solutions. The results are compared with the exact optimization results for a well-selected subset of the data as well as to the results from selecting sites based on average wind alone. The two models are solved using demand data and potential wind sites for the Southwest Power Pool. Though both objectives can be improved by adding more sites, for a fixed number of sites, minimizing residual demand and variability in residual demand are competing objectives. We find an approximate efficient frontier to compare trade-offs between the two objectives. We also vary the parameter in the heuristic that controls how the two objectives are prioritized. For the case study, the backward greedy algorithm is more effective at reducing the wind power variability than the forward greedy algorithm. Furthermore, using the backward algorithm for the full dataset is more effective than solving the exact optimization on a subset of the data when the results are evaluated using the full dataset.
+ER  - 
+
+TY  - JOUR
+T1  - Allocating provincial CO2 quotas for the Chinese national carbon program
+AU  - Jiang, Minxing
+AU  - Zhu, Bangzhu
+AU  - Chevallier, Julien
+AU  - Xie, Rui
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1111/1467-8489.12261
+DO  - https://doi.org/10.1111/1467-8489.12261
+T2  - Australian Journal of Agricultural and Resource Economics
+JF  - Australian Journal of Agricultural and Resource Economics
+JO  - Australian Journal of Agricultural and Resource Economics
+JA  - Aust J Agric Resour Econ
+SP  - 457
+EP  - 479
+VL  - 62
+IS  - 3
+KW  - Chinese national carbon program
+KW  - CO2 quota allocation
+KW  - interprovincial differences
+KW  - marginal abatement cost
+PB  - John Wiley & Sons, Ltd
+SN  - 1364-985X
+M3  - https://doi.org/10.1111/1467-8489.12261
+UR  - https://doi.org/10.1111/1467-8489.12261
+Y2  - 2020/11/10
+N2  - In order to improve the efficiency of climate change initiatives China launched its national carbon market in December 2017. Initial CO2 quota allocations are a matter of significant concern. How should we allocate CO2 emissions reduction responsibilities among Chinese provinces, assuming that provinces will not or cannot trade these responsibilities among themselves? In this paper, we allocate CO2 quota from the perspective of cost minimisation. First, we estimate the national CO2 marginal abatement cost (MAC) function and deduce the interprovincial MAC functions. Second, we build an allocation model with nonlinear programming for cost minimisation. Finally, we obtain the allocation results under the emissions reduction target by 2030. The results are as follows. (i) The national MAC was 134.3 Yuan/t (at the constant price of 1978) in 2011, with an overall upward trend from 1990 to 2011. (ii) The interprovincial MACs differ significantly and decline gradually from east to west. Hebei has the largest emissions reduction quota, and Shandong has the largest emissions quota by 2030. (iii) Compared with other criteria of per capita, gross domestic product (GDP), grandfathering and carbon intensity, the proposed approach is the most cost-effective in achieving the reduction target, with cost savings of 37.7, 34.5, 47.9 and 33.87 per cent, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - Threat intelligence platform for the energy sector
+AU  - Leszczyna, Rafał
+AU  - Wróbel, Michał R.
+Y1  - 2019/08/01
+PY  - 2019
+DA  - 2019/08/01
+N1  - https://doi.org/10.1002/spe.2705
+DO  - https://doi.org/10.1002/spe.2705
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 1225
+EP  - 1254
+VL  - 49
+IS  - 8
+KW  - critical infrastructures
+KW  - cybersecurity
+KW  - information sharing
+KW  - ISAC
+KW  - power systems
+KW  - situation awareness
+KW  - testing
+KW  - threat intelligence
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - https://doi.org/10.1002/spe.2705
+UR  - https://doi.org/10.1002/spe.2705
+Y2  - 2020/11/10
+N2  - Summary In recent years, critical infrastructures and power systems in particular have been subjected to sophisticated cyberthreats, including targeted attacks and advanced persistent threats. A promising response to this challenging situation is building up enhanced threat intelligence (TI) that interlinks information sharing and fine-grained situation awareness. In this paper, a framework that integrates all levels of TI, ie, strategic, tactical, operational, and technical, is presented. The platform implements the centralized model of information exchange with peer-to-peer interactions between partners as an option. Several supportive solutions were introduced, including anonymity mechanisms or data processing and correlation algorithms. A data model that enables communication of cyberincident information, both in natural language and machine-readable formats, was defined. Similarly, security requirements for critical components were devised. A pilot implementation of the platform was developed and deployed in the operational environment, which enabled practical evaluation of the design. Also, the security of the anonymity architecture was analyzed.
+ER  - 
+
+TY  - JOUR
+T1  - Time-aware service recommendation: Taxonomy, review, and challenges
+AU  - Mezni, Haithem
+AU  - Fayala, Mayssa
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1002/spe.2605
+DO  - https://doi.org/10.1002/spe.2605
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw Pract Exper
+SP  - 2080
+EP  - 2108
+VL  - 48
+IS  - 11
+KW  - service recommendation
+KW  - survey
+KW  - time information
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - https://doi.org/10.1002/spe.2605
+UR  - https://doi.org/10.1002/spe.2605
+Y2  - 2020/11/10
+N2  - Summary Nowadays, a huge number of available Web services offer the same functionalities and a high quality of service, which makes the selection of suitable services a difficult task. In such situation, the services must be differentiated by additional criteria such as users' ratings. To meet this goal, recommendation techniques become a natural choice to cope with the challenging task of optimal service selection and to help consumers satisfy their needs and preferences. However, most existing models on service recommendation are static, whereas in the real world, the perception and popularity of Web services may continually change, and users' preferences and habits also shift frequently. Time is becoming an increasingly important factor in recommender systems, since time effects influence users' preferences to a large extent. In addition, quality-of-service performance of Web services is strongly linked to the service status and network environments, which are variable against time. Recently, a wide range of service recommendation approaches, dealing with the time dimension in user modeling and recommendation strategies, have been proposed. Thus, the purpose of this survey is to present a comprehensive study and analysis of the state-of-the-art on time-aware service recommendation. We identify the techniques used in recommender systems to provide the best services. Moreover, we present a classification of time-aware recommender systems based on the target recommendation time, the type of relationship between users, and the type of feedback. Besides, we present a comparison between time-aware recommendation approaches, and we discuss their advantages and disadvantages. Finally, challenges and requirements of time-aware service recommendation as well as the future directions are identified according to the studied approaches.
+ER  - 
+
+TY  - JOUR
+T1  - A Systems Design Exploration Approach that Illuminates Tradespaces Using Statistical Experimental Designs
+AU  - MacCalman, Alex D.
+AU  - Beery, Paul T.
+AU  - Paulo, Eugene P.
+Y1  - 2016/09/01
+PY  - 2016
+DA  - 2016/09/01
+N1  - https://doi.org/10.1002/sys.21352
+DO  - https://doi.org/10.1002/sys.21352
+T2  - Systems Engineering
+JF  - Systems Engineering
+JO  - Systems Engineering
+JA  - Syst Eng
+SP  - 409
+EP  - 421
+VL  - 19
+IS  - 5
+KW  - simulation metamodeling
+KW  - tradespace exploration
+KW  - design of experiments
+PB  - John Wiley & Sons, Ltd
+SN  - 1098-1241
+M3  - https://doi.org/10.1002/sys.21352
+UR  - https://doi.org/10.1002/sys.21352
+Y2  - 2020/11/10
+N2  - ABSTRACT This paper describes an approach that leverages computer simulation models and statistical experimental designs for exploration studies during the early conceptual design of a system. We apply the approach to a naval ship design problem and demonstrate how we can illuminate trade decisions among multiple design decisions and evaluation measures using a dynamic dashboard. After performing experimental designs on a collection of simulation models, we can fit statistical models that act as surrogates to these simulations. These surrogate models allow us to explore a wider variety of system alternatives rather than fixating on a narrow set of alternatives. The purpose of the approach is to simultaneously explore the operational and physical domains using statistical surrogate models in order to illuminate trade decisions between the system's operational effectiveness and physical design considerations.
+ER  - 
