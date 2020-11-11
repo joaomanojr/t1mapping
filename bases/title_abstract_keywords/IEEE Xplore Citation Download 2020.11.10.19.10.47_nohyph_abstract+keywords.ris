@@ -1,0 +1,1966 @@
+TY  - CONF
+TI  - Investigating The Influential Factors On Firefighter Injuries Using Statistical Machine Learning
+T2  - 2018 International Conference on Machine Learning and Cybernetics (ICMLC)
+SP  - 422
+EP  - 427
+AU  - Z. Yang
+AU  - Y. Liu
+PY  - 2018
+DO  - 10.1109/ICMLC.2018.8527021
+JO  - 2018 International Conference on Machine Learning and Cybernetics (ICMLC)
+IS  - 
+SN  - 2160-1348
+VO  - 2
+VL  - 2
+JA  - 2018 International Conference on Machine Learning and Cybernetics (ICMLC)
+Y1  - 15-18 July 2018
+ER  - 
+
+TY  - CONF
+TI  - Reducing data dimensions for systems engineering and risk management of transportation corridors
+T2  - 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+SP  - 1152
+EP  - 1157
+AU  - J. H. Lambert
+AU  - J. Xu
+AU  - M. C. Hamilton
+AU  - Y. Bi
+AU  - D. K. Codeluppi
+AU  - N. K. Fu
+AU  - C. R. Magennis
+AU  - A. A. Powell
+AU  - S. D. Sisto
+PY  - 2014
+DO  - 10.1109/SMC.2014.6974069
+JO  - 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+IS  - 
+SN  - 1062-922X
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+Y1  - 5-8 Oct. 2014
+ER  - 
+
+TY  - JOUR
+TI  - Big Data Analytics for Event Detection in the IoT-Multicriteria Approach
+T2  - IEEE Internet of Things Journal
+SP  - 4418
+EP  - 4430
+AU  - J. Granat
+AU  - J. M. Batalla
+AU  - C. X. Mavromoustakis
+AU  - G. Mastorakis
+PY  - 2020
+DO  - 10.1109/JIOT.2019.2957320
+JO  - IEEE Internet of Things Journal
+IS  - 5
+SN  - 2327-4662
+VO  - 7
+VL  - 7
+JA  - IEEE Internet of Things Journal
+Y1  - May 2020
+ER  - 
+
+TY  - JOUR
+TI  - An Efficient Multiobjective Design Optimization Method for a PMSLM Based on an Extreme Learning Machine
+T2  - IEEE Transactions on Industrial Electronics
+SP  - 1001
+EP  - 1011
+AU  - J. Song
+AU  - F. Dong
+AU  - J. Zhao
+AU  - H. Wang
+AU  - Z. He
+AU  - L. Wang
+PY  - 2019
+DO  - 10.1109/TIE.2018.2835413
+JO  - IEEE Transactions on Industrial Electronics
+IS  - 2
+SN  - 1557-9948
+VO  - 66
+VL  - 66
+JA  - IEEE Transactions on Industrial Electronics
+Y1  - Feb. 2019
+ER  - 
+
+TY  - CONF
+TI  - A Machine Learning Framework for Multi-Objective Design Space Exploration and Optimization of Manycore Systems
+T2  - 2019 ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD)
+SP  - 1
+EP  - 6
+AU  - B. K. Joardar
+AU  - A. Deshwal
+AU  - J. R. Doppa
+AU  - P. P. Pande
+PY  - 2019
+DO  - 10.1109/MLCAD48534.2019.9142057
+JO  - 2019 ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD)
+Y1  - 3-4 Sept. 2019
+ER  - 
+
+TY  - CONF
+TI  - Uncertainty-Based Deep Learning Networks for Limited Data Wetland User Models
+T2  - 2018 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)
+SP  - 19
+EP  - 26
+AU  - A. Hoblitzell
+AU  - M. Babbar-Sebens
+AU  - S. Mukhopadhyay
+PY  - 2018
+DO  - 10.1109/AIVR.2018.00011
+JO  - 2018 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)
+Y1  - 10-12 Dec. 2018
+ER  - 
+
+TY  - CONF
+TI  - Selection and Optimization Model of Key Performance Indicators
+T2  - 2020 22nd International Conference on Advanced Communication Technology (ICACT)
+SP  - 190
+EP  - 196
+AU  - N. Purevsuren
+AU  - Z. Dashdorj
+AU  - T. Khujuu
+AU  - E. Norinpel
+PY  - 2020
+DO  - 10.23919/ICACT48636.2020.9061560
+JO  - 2020 22nd International Conference on Advanced Communication Technology (ICACT)
+IS  - 
+SN  - 1738-9445
+VO  - 
+VL  - 
+JA  - 2020 22nd International Conference on Advanced Communication Technology (ICACT)
+Y1  - 16-19 Feb. 2020
+ER  - 
+
+TY  - CONF
+TI  - Selecting appropriate cloud solution for managing big data projects using hybrid AHP-entropy based assessment
+T2  - 2016 International Conference on Innovation and Challenges in Cyber Security (ICICCS-INBUSH)
+SP  - 135
+EP  - 140
+AU  - N. Sachdeva
+AU  - P. K. Kapur
+AU  - G. Singh
+PY  - 2016
+DO  - 10.1109/ICICCS.2016.7542351
+JO  - 2016 International Conference on Innovation and Challenges in Cyber Security (ICICCS-INBUSH)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Innovation and Challenges in Cyber Security (ICICCS-INBUSH)
+Y1  - 3-5 Feb. 2016
+ER  - 
+
+TY  - CONF
+TI  - Efficient Top-k Skyline Computation in MapReduce
+T2  - 2015 12th Web Information System and Application Conference (WISA)
+SP  - 67
+EP  - 70
+AU  - B. Song
+AU  - A. Liu
+AU  - L. Ding
+PY  - 2015
+DO  - 10.1109/WISA.2015.57
+JO  - 2015 12th Web Information System and Application Conference (WISA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 12th Web Information System and Application Conference (WISA)
+Y1  - 11-13 Sept. 2015
+ER  - 
+
+TY  - CONF
+TI  - Multi-Objective Design Space Exploration for the Integration of Advanced Analytics in Cyber-Physical Production Systems
+T2  - 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+SP  - 1866
+EP  - 1873
+AU  - J. Bakakeu
+AU  - J. Fuchs
+AU  - T. Javied
+AU  - M. Brossog
+AU  - J. Franke
+AU  - H. Klos
+AU  - W. Eberlein
+AU  - S. Tolksdorf
+AU  - J. Peschke
+AU  - L. Jahn
+PY  - 2018
+DO  - 10.1109/IEEM.2018.8607483
+JO  - 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+IS  - 
+SN  - 2157-362X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+Y1  - 16-19 Dec. 2018
+ER  - 
+
+TY  - JOUR
+TI  - A Uniform Intelligent Prioritisation for Solving Diverse and Big Data Generated From Multiple Chronic Diseases Patients Based on Hybrid Decision-Making and Voting Method
+T2  - IEEE Access
+SP  - 91521
+EP  - 91530
+AU  - K. I. Mohammed
+AU  - J. Jaafar
+AU  - A. A. Zaidan
+AU  - O. S. Albahri
+AU  - B. B. Zaidan
+AU  - K. H. Abdulkareem
+AU  - A. N. Jasim
+AU  - A. H. Shareef
+AU  - M. J. Baqer
+AU  - A. S. Albahri
+AU  - M. A. Alsalem
+AU  - A. H. Alamoodi
+PY  - 2020
+DO  - 10.1109/ACCESS.2020.2994746
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+ER  - 
+
+TY  - JOUR
+TI  - SkyLens: Visual Analysis of Skyline on Multi-Dimensional Data
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 246
+EP  - 255
+AU  - X. Zhao
+AU  - Y. Wu
+AU  - W. Cui
+AU  - X. Du
+AU  - Y. Chen
+AU  - Y. Wang
+AU  - D. L. Lee
+AU  - H. Qu
+PY  - 2018
+DO  - 10.1109/TVCG.2017.2744738
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 1
+SN  - 1941-0506
+VO  - 24
+VL  - 24
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Jan. 2018
+ER  - 
+
+TY  - JOUR
+TI  - PaletteViz: A Visualization Method for Functional Understanding of High-Dimensional Pareto-Optimal Data-Sets to Aid Multi-Criteria Decision Making
+T2  - IEEE Computational Intelligence Magazine
+SP  - 36
+EP  - 48
+AU  - A. K. A. Talukder
+AU  - K. Deb
+PY  - 2020
+DO  - 10.1109/MCI.2020.2976184
+JO  - IEEE Computational Intelligence Magazine
+IS  - 2
+SN  - 1556-6048
+VO  - 15
+VL  - 15
+JA  - IEEE Computational Intelligence Magazine
+Y1  - May 2020
+ER  - 
+
+TY  - CONF
+TI  - A fuzzy multicriteria aggregation method for data analytics: Application to insider threat monitoring
+T2  - 2017 Joint 17th World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS)
+SP  - 1
+EP  - 6
+AU  - I. Palomares
+AU  - H. Kalutarage
+AU  - Y. Huang
+AU  - P. M. R. McCausland
+AU  - G. McWilliams
+PY  - 2017
+DO  - 10.1109/IFSA-SCIS.2017.8023360
+JO  - 2017 Joint 17th World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 Joint 17th World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS)
+Y1  - 27-30 June 2017
+ER  - 
+
+TY  - CONF
+TI  - Top-k Skyline Result Optimization Algorithm in MapReduce
+T2  - 2019 14th International Conference on Computer Science & Education (ICCSE)
+SP  - 466
+EP  - 471
+AU  - A. Liu
+PY  - 2019
+DO  - 10.1109/ICCSE.2019.8845361
+JO  - 2019 14th International Conference on Computer Science & Education (ICCSE)
+IS  - 
+SN  - 2473-9464
+VO  - 
+VL  - 
+JA  - 2019 14th International Conference on Computer Science & Education (ICCSE)
+Y1  - 19-21 Aug. 2019
+ER  - 
+
+TY  - JOUR
+TI  - Determination of Weights for Multiobjective Decision Making or Machine Learning
+T2  - IEEE Systems Journal
+SP  - 63
+EP  - 72
+AU  - P. Wang
+AU  - H. Zhu
+AU  - M. Wilamowska-Korsak
+AU  - Z. Bi
+AU  - L. Li
+PY  - 2014
+DO  - 10.1109/JSYST.2013.2265663
+JO  - IEEE Systems Journal
+IS  - 1
+SN  - 1937-9234
+VO  - 8
+VL  - 8
+JA  - IEEE Systems Journal
+Y1  - March 2014
+ER  - 
+
+TY  - CONF
+TI  - Managing Heterogeneous Data on a Big Data Platform: A Multi-criteria Decision Making Model for Data-Intensive Science
+T2  - 2020 IEEE International Conference on Big Data and Smart Computing (BigComp)
+SP  - 229
+EP  - 239
+AU  - G. Pal
+AU  - K. Atkinson
+AU  - G. Li
+PY  - 2020
+DO  - 10.1109/BigComp48618.2020.00-69
+JO  - 2020 IEEE International Conference on Big Data and Smart Computing (BigComp)
+IS  - 
+SN  - 2375-9356
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Big Data and Smart Computing (BigComp)
+Y1  - 19-22 Feb. 2020
+ER  - 
+
+TY  - CONF
+TI  - Mediclaim Fraud Detection and Management Using Predictive Analytics
+T2  - 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+SP  - 517
+EP  - 522
+AU  - M. R. Sumalatha
+AU  - M. Prabha
+PY  - 2019
+DO  - 10.1109/ICCIKE47802.2019.9004241
+JO  - 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+Y1  - 11-12 Dec. 2019
+ER  - 
+
+TY  - CONF
+TI  - A manager confidence oriented design scheme of control charts
+T2  - The Proceedings of 2011 9th International Conference on Reliability, Maintainability and Safety
+SP  - 1077
+EP  - 1081
+AU  - K. Mi
+AU  - Y. He
+AU  - C. Wu
+PY  - 2011
+DO  - 10.1109/ICRMS.2011.5979428
+JO  - The Proceedings of 2011 9th International Conference on Reliability, Maintainability and Safety
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The Proceedings of 2011 9th International Conference on Reliability, Maintainability and Safety
+Y1  - 12-15 June 2011
+ER  - 
+
+TY  - CONF
+TI  - Pipeline Defects Risk Assessment Using Machine Learning and Analytical Hierarchy Process
+T2  - 2018 International Conference on Applied Smart Systems (ICASS)
+SP  - 1
+EP  - 6
+AU  - A. Ouadah
+PY  - 2018
+DO  - 10.1109/ICASS.2018.8651970
+JO  - 2018 International Conference on Applied Smart Systems (ICASS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Applied Smart Systems (ICASS)
+Y1  - 24-25 Nov. 2018
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of Regression Splines: A Multi-criteria Decision Analysis Approach
+T2  - 2012 45th Hawaii International Conference on System Sciences
+SP  - 1444
+EP  - 1451
+AU  - K. Osei-Bryson
+PY  - 2012
+DO  - 10.1109/HICSS.2012.259
+JO  - 2012 45th Hawaii International Conference on System Sciences
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - 2012 45th Hawaii International Conference on System Sciences
+Y1  - 4-7 Jan. 2012
+ER  - 
+
+TY  - JOUR
+TI  - Multicriteria PM Motor Design Based on ANFIS Evaluation of EV Driving Cycle Efficiency
+T2  - IEEE Transactions on Transportation Electrification
+SP  - 525
+EP  - 535
+AU  - C. T. Krasopoulos
+AU  - M. E. Beniakar
+AU  - A. G. Kladas
+PY  - 2018
+DO  - 10.1109/TTE.2018.2810707
+JO  - IEEE Transactions on Transportation Electrification
+IS  - 2
+SN  - 2332-7782
+VO  - 4
+VL  - 4
+JA  - IEEE Transactions on Transportation Electrification
+Y1  - June 2018
+ER  - 
+
+TY  - CONF
+TI  - A Summary and Update of “Granular Computing and Data Mining for Ordered Data: The Dominance-Based Rough Set Approach”
+T2  - 2010 IEEE International Conference on Granular Computing
+SP  - 20
+EP  - 21
+AU  - S. Greco
+AU  - B. Matarazzo
+AU  - R. Slowiński
+PY  - 2010
+DO  - 10.1109/GrC.2010.120
+JO  - 2010 IEEE International Conference on Granular Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 IEEE International Conference on Granular Computing
+Y1  - 14-16 Aug. 2010
+ER  - 
+
+TY  - CONF
+TI  - Towards a Stratified Multi-Criteria Decision-Making in the Real-Time Data Processing
+T2  - 2019 International Conference on Virtual Reality and Visualization (ICVRV)
+SP  - 180
+EP  - 184
+AU  - M. J. Diván
+PY  - 2019
+DO  - 10.1109/ICVRV47840.2019.00042
+JO  - 2019 International Conference on Virtual Reality and Visualization (ICVRV)
+IS  - 
+SN  - 2375-141X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Virtual Reality and Visualization (ICVRV)
+Y1  - 18-19 Nov. 2019
+ER  - 
+
+TY  - CONF
+TI  - The design of digit recognition teaching experiment based on PCA and BP neural network
+T2  - The 27th Chinese Control and Decision Conference (2015 CCDC)
+SP  - 4132
+EP  - 4135
+AU  - P. Liu
+AU  - J. Guo
+AU  - Z. Yu
+AU  - H. Li
+AU  - Y. Xian
+PY  - 2015
+DO  - 10.1109/CCDC.2015.7162656
+JO  - The 27th Chinese Control and Decision Conference (2015 CCDC)
+IS  - 
+SN  - 1948-9447
+VO  - 
+VL  - 
+JA  - The 27th Chinese Control and Decision Conference (2015 CCDC)
+Y1  - 23-25 May 2015
+ER  - 
+
+TY  - CONF
+TI  - A meta-heuristic approach for developing PROAFTN with decision tree
+T2  - 2016 3rd MEC International Conference on Big Data and Smart City (ICBDSC)
+SP  - 1
+EP  - 7
+AU  - F. Al-Obeidat
+AU  - B. Shah
+AU  - A. M. Khattak
+AU  - A. Abbas
+PY  - 2016
+DO  - 10.1109/ICBDSC.2016.7460369
+JO  - 2016 3rd MEC International Conference on Big Data and Smart City (ICBDSC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 3rd MEC International Conference on Big Data and Smart City (ICBDSC)
+Y1  - 15-16 March 2016
+ER  - 
+
+TY  - CONF
+TI  - Risks-forcast@people-in-clouds: Big data-based clouds healthcare and risk forecasting based on subjective intelligence
+T2  - 2015 16th IEEE International Symposium on Computational Intelligence and Informatics (CINTI)
+SP  - 21
+EP  - 21
+AU  - H. Fujita
+PY  - 2015
+DO  - 10.1109/CINTI.2015.7382916
+JO  - 2015 16th IEEE International Symposium on Computational Intelligence and Informatics (CINTI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 16th IEEE International Symposium on Computational Intelligence and Informatics (CINTI)
+Y1  - 19-21 Nov. 2015
+ER  - 
+
+TY  - JOUR
+TI  - Multiobjective Deployment of Data Analysis Operations in Heterogeneous IoT Infrastructure
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 7014
+EP  - 7024
+AU  - D. N. Jha
+AU  - P. Michalák
+AU  - Z. Wen
+AU  - R. Ranjan
+AU  - P. Watson
+PY  - 2020
+DO  - 10.1109/TII.2019.2961676
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 11
+SN  - 1941-0050
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Nov. 2020
+ER  - 
+
+TY  - CONF
+TI  - A Conceptual Model to Evaluate Technology Implementations: A Home Care Case Study
+T2  - 2019 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+SP  - 74
+EP  - 78
+AU  - A. Hasselblad
+AU  - L. Olsson
+AU  - M. Blusi
+PY  - 2019
+DO  - 10.1109/IEEM44572.2019.8978745
+JO  - 2019 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+IS  - 
+SN  - 2157-362X
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+Y1  - 15-18 Dec. 2019
+ER  - 
+
+TY  - CONF
+TI  - A method for evaluating the situation of safety production based on DEA and AHP
+T2  - 2010 International Conference on Future Information Technology and Management Engineering
+SP  - 104
+EP  - 107
+AU  - Yushu Xie
+AU  - Bingxue Song
+AU  - Baoqian Dai
+AU  - Lingyun Wu
+AU  - Tong Wang
+PY  - 2010
+DO  - 10.1109/FITME.2010.5654810
+JO  - 2010 International Conference on Future Information Technology and Management Engineering
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - 2010 International Conference on Future Information Technology and Management Engineering
+Y1  - 9-10 Oct. 2010
+ER  - 
+
+TY  - CONF
+TI  - Ontological-based for supporting multi criteria decision-making
+T2  - 2010 2nd IEEE International Conference on Information Management and Engineering
+SP  - 214
+EP  - 217
+AU  - R. Mohemad
+AU  - N. M. M. Noor
+AU  - A. R. Hamdan
+AU  - Z. A. Othman
+PY  - 2010
+DO  - 10.1109/ICIME.2010.5477572
+JO  - 2010 2nd IEEE International Conference on Information Management and Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 2nd IEEE International Conference on Information Management and Engineering
+Y1  - 16-18 April 2010
+ER  - 
+
+TY  - CONF
+TI  - Supervised Machine Learning Approach for Effective Supplier Classification
+T2  - 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+SP  - 240
+EP  - 245
+AU  - R. Harikrishnakumar
+AU  - A. Dand
+AU  - S. Nannapaneni
+AU  - K. Krishnan
+PY  - 2019
+DO  - 10.1109/ICMLA.2019.00045
+JO  - 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+Y1  - 16-19 Dec. 2019
+ER  - 
+
+TY  - CONF
+TI  - DEA/AHP Two-Stage Evaluation Model of Vendor's Selection in Apparel Supply Chain
+T2  - 2010 International Conference on E-Product E-Service and E-Entertainment
+SP  - 1
+EP  - 4
+AU  - W. Wang
+AU  - T. Zhang
+AU  - Y. Wang
+AU  - X. Zhang
+AU  - Z. Yang
+PY  - 2010
+DO  - 10.1109/ICEEE.2010.5661582
+JO  - 2010 International Conference on E-Product E-Service and E-Entertainment
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on E-Product E-Service and E-Entertainment
+Y1  - 7-9 Nov. 2010
+ER  - 
+
+TY  - CONF
+TI  - A Novel Multi-Criteria Decision Data Analysis System for Energy Conservation in Civil Aviation
+T2  - 2017 International Conference on Green Informatics (ICGI)
+SP  - 169
+EP  - 174
+AU  - Y. Lin
+AU  - Z. Zhang
+AU  - J. Li
+AU  - S. Ye
+PY  - 2017
+DO  - 10.1109/ICGI.2017.51
+JO  - 2017 International Conference on Green Informatics (ICGI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Green Informatics (ICGI)
+Y1  - 15-17 Aug. 2017
+ER  - 
+
+TY  - CONF
+TI  - Multi-criteria decision making with skyline computation
+T2  - 2012 IEEE 13th International Conference on Information Reuse & Integration (IRI)
+SP  - 316
+EP  - 323
+AU  - W. Choi
+AU  - L. Liu
+AU  - B. Yu
+PY  - 2012
+DO  - 10.1109/IRI.2012.6303026
+JO  - 2012 IEEE 13th International Conference on Information Reuse & Integration (IRI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 IEEE 13th International Conference on Information Reuse & Integration (IRI)
+Y1  - 8-10 Aug. 2012
+ER  - 
+
+TY  - CONF
+TI  - A Hybrid Fuzzy Outranking Approach for Group Decision-Making under Uncertainty
+T2  - 2018 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)
+SP  - 596
+EP  - 600
+AU  - Z. Peng
+AU  - W. Luo
+AU  - A. Deng
+PY  - 2018
+DO  - 10.1109/ICITBS.2018.00156
+JO  - 2018 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)
+Y1  - 25-26 Jan. 2018
+ER  - 
+
+TY  - CONF
+TI  - Maintenance of Range Skyline Query
+T2  - 2020 IEEE International Conference on Knowledge Graph (ICKG)
+SP  - 615
+EP  - 620
+AU  - X. Li
+AU  - Y. Shi
+AU  - X. Zhou
+AU  - K. Li
+PY  - 2020
+DO  - 10.1109/ICBK50248.2020.00092
+JO  - 2020 IEEE International Conference on Knowledge Graph (ICKG)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Knowledge Graph (ICKG)
+Y1  - 9-11 Aug. 2020
+ER  - 
+
+TY  - CONF
+TI  - Simultaneous structure design optimization of multiple car models using the K computer
+T2  - 2017 IEEE Symposium Series on Computational Intelligence (SSCI)
+SP  - 1
+EP  - 4
+AU  - A. Oyama
+AU  - T. Kohira
+AU  - H. Kemmotsu
+AU  - T. Tatsukawa
+AU  - T. Watanabe
+PY  - 2017
+DO  - 10.1109/SSCI.2017.8285350
+JO  - 2017 IEEE Symposium Series on Computational Intelligence (SSCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE Symposium Series on Computational Intelligence (SSCI)
+Y1  - 27 Nov.-1 Dec. 2017
+ER  - 
+
+TY  - JOUR
+TI  - Skyline Preference Query Based on Massive and Incomplete Dataset
+T2  - IEEE Access
+SP  - 3183
+EP  - 3192
+AU  - Y. Wang
+AU  - Z. Shi
+AU  - J. Wang
+AU  - L. Sun
+AU  - B. Song
+PY  - 2017
+DO  - 10.1109/ACCESS.2016.2639558
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 5
+VL  - 5
+JA  - IEEE Access
+Y1  - 2017
+ER  - 
+
+TY  - CONF
+TI  - The Multi-Criteria Decision Making, a Tool for the Promotion of Technological Inter-Connected World through Digital Decision Making
+T2  - 2017 Portland International Conference on Management of Engineering and Technology (PICMET)
+SP  - 1
+EP  - 7
+AU  - J. F. Agwa-Ejon
+AU  - A. Mulaba-Bafubiandi
+AU  - J. H. Pretorius
+PY  - 2017
+DO  - 10.23919/PICMET.2017.8125301
+JO  - 2017 Portland International Conference on Management of Engineering and Technology (PICMET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 Portland International Conference on Management of Engineering and Technology (PICMET)
+Y1  - 9-13 July 2017
+ER  - 
+
+TY  - CONF
+TI  - Approach to integration SOLAP tools and multicriteria analysis for spatial decision support
+T2  - 2013 ACS International Conference on Computer Systems and Applications (AICCSA)
+SP  - 1
+EP  - 6
+AU  - H. Mohamed
+AU  - B. Omar
+AU  - T. Abdessadek
+AU  - A. Tarik
+PY  - 2013
+DO  - 10.1109/AICCSA.2013.6616469
+JO  - 2013 ACS International Conference on Computer Systems and Applications (AICCSA)
+IS  - 
+SN  - 2161-5330
+VO  - 
+VL  - 
+JA  - 2013 ACS International Conference on Computer Systems and Applications (AICCSA)
+Y1  - 27-30 May 2013
+ER  - 
+
+TY  - CONF
+TI  - An efficient method of computing the k-dominant skyline efficiently by partition value
+T2  - 2017 3rd International Conference on Information Management (ICIM)
+SP  - 416
+EP  - 420
+AU  - G. Lee
+AU  - Y. Lee
+PY  - 2017
+DO  - 10.1109/INFOMAN.2017.7950419
+JO  - 2017 3rd International Conference on Information Management (ICIM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 3rd International Conference on Information Management (ICIM)
+Y1  - 21-23 April 2017
+ER  - 
+
+TY  - CONF
+TI  - On evaluating the efficiency of similar therapeutic-effect drugs using multi-criteria decision-making approaches selection result
+T2  - The 40th International Conference on Computers & Indutrial Engineering
+SP  - 1
+EP  - 5
+AU  - N. Fang
+AU  - M. Yao
+AU  - T. Tseng
+PY  - 2010
+DO  - 10.1109/ICCIE.2010.5668177
+JO  - The 40th International Conference on Computers & Indutrial Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The 40th International Conference on Computers & Indutrial Engineering
+Y1  - 25-28 July 2010
+ER  - 
+
+TY  - CONF
+TI  - Cloud Task Scheduling Based on Swarm Intelligence and Machine Learning
+T2  - 2017 IEEE 5th International Conference on Future Internet of Things and Cloud (FiCloud)
+SP  - 272
+EP  - 279
+AU  - G. Rjoub
+AU  - J. Bentahar
+PY  - 2017
+DO  - 10.1109/FiCloud.2017.52
+JO  - 2017 IEEE 5th International Conference on Future Internet of Things and Cloud (FiCloud)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 5th International Conference on Future Internet of Things and Cloud (FiCloud)
+Y1  - 21-23 Aug. 2017
+ER  - 
+
+TY  - CONF
+TI  - National ecological environmental quality assessment based on multi-sources remote sensing data
+T2  - 2018 Fifth International Workshop on Earth Observation and Remote Sensing Applications (EORSA)
+SP  - 1
+EP  - 4
+AU  - K. Xu
+AU  - K. Tan
+AU  - Y. Chen
+PY  - 2018
+DO  - 10.1109/EORSA.2018.8598547
+JO  - 2018 Fifth International Workshop on Earth Observation and Remote Sensing Applications (EORSA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 Fifth International Workshop on Earth Observation and Remote Sensing Applications (EORSA)
+Y1  - 18-20 June 2018
+ER  - 
+
+TY  - CONF
+TI  - Robustness threshold methodology for multicriteria based ranking using imprecise data
+T2  - 2014 IEEE Symposium on Computational Intelligence in Multi-Criteria Decision-Making (MCDM)
+SP  - 1
+EP  - 8
+AU  - B. Rizzon
+AU  - S. Galichet
+AU  - V. Clivillé
+PY  - 2014
+DO  - 10.1109/MCDM.2014.7007181
+JO  - 2014 IEEE Symposium on Computational Intelligence in Multi-Criteria Decision-Making (MCDM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE Symposium on Computational Intelligence in Multi-Criteria Decision-Making (MCDM)
+Y1  - 9-12 Dec. 2014
+ER  - 
+
+TY  - JOUR
+TI  - Learning of a Decision-Maker’s Preference Zone With an Evolutionary Approach
+T2  - IEEE Transactions on Neural Networks and Learning Systems
+SP  - 670
+EP  - 682
+AU  - M. Aggarwal
+PY  - 2019
+DO  - 10.1109/TNNLS.2018.2847412
+JO  - IEEE Transactions on Neural Networks and Learning Systems
+IS  - 3
+SN  - 2162-2388
+VO  - 30
+VL  - 30
+JA  - IEEE Transactions on Neural Networks and Learning Systems
+Y1  - March 2019
+ER  - 
+
+TY  - CONF
+TI  - Proposing a Pareto-VIKOR Ranking Method for Enhancing Parallel Coordinates Visualization
+T2  - 2019 14th International Conference on Computer Science & Education (ICCSE)
+SP  - 895
+EP  - 902
+AU  - K. Aldwib
+AU  - A. A. Bidgoli
+AU  - S. Rahnamayan
+AU  - A. Ibrahim
+PY  - 2019
+DO  - 10.1109/ICCSE.2019.8845345
+JO  - 2019 14th International Conference on Computer Science & Education (ICCSE)
+IS  - 
+SN  - 2473-9464
+VO  - 
+VL  - 
+JA  - 2019 14th International Conference on Computer Science & Education (ICCSE)
+Y1  - 19-21 Aug. 2019
+ER  - 
+
+TY  - CONF
+TI  - Plenary Talks
+T2  - 2015 IEEE Symposium Series on Computational Intelligence
+SP  - lv
+EP  - lxxiii
+AU  - M. Dorigo
+AU  - Xin Yao
+AU  - P. Lisboa
+AU  - S. Lucas
+AU  - O. Scaillet
+AU  - B. Hammer
+AU  - R. Abercrombie
+AU  - Er Meng Joo
+AU  - E. Pesch
+AU  - T. Bossomaier
+AU  - J. Knowles
+AU  - J. Peters
+AU  - O. Malik
+AU  - L. Sekanina
+AU  - T. Cazenave
+AU  - R. Mikut
+AU  - Ke Tang
+AU  - A. Massa
+PY  - 2015
+DO  - 10.1109/SSCI.2015.8
+JO  - 2015 IEEE Symposium Series on Computational Intelligence
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Symposium Series on Computational Intelligence
+Y1  - 7-10 Dec. 2015
+ER  - 
+
+TY  - CONF
+TI  - Conceptual Multi-Level Hierarchy for Evaluation and Classification
+T2  - 2010 10th IEEE International Conference on Computer and Information Technology
+SP  - 1448
+EP  - 1455
+AU  - D. W. Choi
+AU  - J. G. Shin
+PY  - 2010
+DO  - 10.1109/CIT.2010.259
+JO  - 2010 10th IEEE International Conference on Computer and Information Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 10th IEEE International Conference on Computer and Information Technology
+Y1  - 29 June-1 July 2010
+ER  - 
+
+TY  - CONF
+TI  - Fuzzy Multicriteria Decision Analysis for Measurement of Document Content Reliability
+T2  - 2012 Fifth International Symposium on Computational Intelligence and Design
+SP  - 303
+EP  - 306
+AU  - C. W. Bong
+AU  - D. W. Holtby
+AU  - K. S. Ng
+PY  - 2012
+DO  - 10.1109/ISCID.2012.227
+JO  - 2012 Fifth International Symposium on Computational Intelligence and Design
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2012 Fifth International Symposium on Computational Intelligence and Design
+Y1  - 28-29 Oct. 2012
+ER  - 
+
+TY  - CONF
+TI  - Multivariate data analysis in hydroelectric system maintenance: A decision evaluation case study
+T2  - 2015 Annual IEEE Systems Conference (SysCon) Proceedings
+SP  - 365
+EP  - 372
+AU  - R. Wilson
+PY  - 2015
+DO  - 10.1109/SYSCON.2015.7116778
+JO  - 2015 Annual IEEE Systems Conference (SysCon) Proceedings
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 Annual IEEE Systems Conference (SysCon) Proceedings
+Y1  - 13-16 April 2015
+ER  - 
+
+TY  - CONF
+TI  - Multi-Objective Design of Compact Microwave Components with Data-Driven Surrogates and Pareto Front Decomposition
+T2  - 2018 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO)
+SP  - 1
+EP  - 4
+AU  - A. Bekasiewicz
+AU  - S. Koziel
+AU  - J. W. Bandler
+PY  - 2018
+DO  - 10.1109/NEMO.2018.8503121
+JO  - 2018 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO)
+Y1  - 8-10 Aug. 2018
+ER  - 
+
+TY  - CONF
+TI  - An adaptation of the GAIA visualization method for cartography
+T2  - 2011 IEEE Symposium on Computational Intelligence in Multicriteria Decision-Making (MDCM)
+SP  - 29
+EP  - 35
+AU  - K. Lidouh
+AU  - Y. De Smet
+AU  - E. Zimányi
+PY  - 2011
+DO  - 10.1109/SMDCM.2011.5949270
+JO  - 2011 IEEE Symposium on Computational Intelligence in Multicriteria Decision-Making (MDCM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE Symposium on Computational Intelligence in Multicriteria Decision-Making (MDCM)
+Y1  - 11-15 April 2011
+ER  - 
+
+TY  - CONF
+TI  - Determination of competency of programmers by classification and ranking using AHP
+T2  - 2015 IEEE International Conference on Electro/Information Technology (EIT)
+SP  - 194
+EP  - 200
+AU  - T. S. Somasundaram
+AU  - U. Kiruthika
+AU  - M. Gowsalya
+AU  - A. Hemalatha
+AU  - A. Philips
+PY  - 2015
+DO  - 10.1109/EIT.2015.7293340
+JO  - 2015 IEEE International Conference on Electro/Information Technology (EIT)
+IS  - 
+SN  - 2154-0373
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Electro/Information Technology (EIT)
+Y1  - 21-23 May 2015
+ER  - 
+
+TY  - CONF
+TI  - Ranking of machine learning algorithms based on the performance in classifying DDoS attacks
+T2  - 2015 IEEE Recent Advances in Intelligent Computational Systems (RAICS)
+SP  - 185
+EP  - 190
+AU  - R. R. Rejimol Robinson
+AU  - C. Thomas
+PY  - 2015
+DO  - 10.1109/RAICS.2015.7488411
+JO  - 2015 IEEE Recent Advances in Intelligent Computational Systems (RAICS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Recent Advances in Intelligent Computational Systems (RAICS)
+Y1  - 10-12 Dec. 2015
+ER  - 
+
+TY  - CONF
+TI  - An Evolutionary Machine Learning Approach Towards Less Conservative Robust Optimization
+T2  - 2019 IEEE Congress on Evolutionary Computation (CEC)
+SP  - 2990
+EP  - 2997
+AU  - P. D. Pantula
+AU  - K. Mitra
+PY  - 2019
+DO  - 10.1109/CEC.2019.8790094
+JO  - 2019 IEEE Congress on Evolutionary Computation (CEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE Congress on Evolutionary Computation (CEC)
+Y1  - 10-13 June 2019
+ER  - 
+
+TY  - CONF
+TI  - Demo: Bostonhood: A Multi-criteria Platform for Ranking City Neighborhoods
+T2  - 2018 IEEE International Conference on Smart Computing (SMARTCOMP)
+SP  - 288
+EP  - 290
+AU  - D. Kazepidou
+AU  - M. Rousi
+AU  - V. Gkatziaki
+AU  - A. Vakali
+PY  - 2018
+DO  - 10.1109/SMARTCOMP.2018.00060
+JO  - 2018 IEEE International Conference on Smart Computing (SMARTCOMP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Smart Computing (SMARTCOMP)
+Y1  - 18-20 June 2018
+ER  - 
+
+TY  - JOUR
+TI  - A Data Envelopment Analysis Method for Finding Robust and Cost-Efficient Schedules in Multimode Projects
+T2  - IEEE Transactions on Engineering Management
+SP  - 414
+EP  - 429
+AU  - K. W. Schmidt
+AU  - Ö. Hazır
+PY  - 2020
+DO  - 10.1109/TEM.2018.2888817
+JO  - IEEE Transactions on Engineering Management
+IS  - 2
+SN  - 1558-0040
+VO  - 67
+VL  - 67
+JA  - IEEE Transactions on Engineering Management
+Y1  - May 2020
+ER  - 
+
+TY  - JOUR
+TI  - TrustE-VC: Trustworthy Evaluation Framework for Industrial Connected Vehicles in the Cloud
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 6203
+EP  - 6213
+AU  - M. N. Aladwan
+AU  - F. M. Awaysheh
+AU  - S. Alawadi
+AU  - M. Alazab
+AU  - T. F. Pena
+AU  - J. C. Cabaleiro
+PY  - 2020
+DO  - 10.1109/TII.2020.2966288
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 9
+SN  - 1941-0050
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Sept. 2020
+ER  - 
+
+TY  - CONF
+TI  - Multiobjective Decision Analysis with Probability Management for Systems Engineering Trade-off Analysis
+T2  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+SP  - 1527
+EP  - 1536
+AU  - A. MacCalman
+AU  - G. S. Parnell
+PY  - 2016
+DO  - 10.1109/HICSS.2016.193
+JO  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+IS  - 
+SN  - 1530-1605
+VO  - 
+VL  - 
+JA  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+Y1  - 5-8 Jan. 2016
+ER  - 
+
+TY  - CONF
+TI  - Plenary Talks
+T2  - 2016 Joint 8th International Conference on Soft Computing and Intelligent Systems (SCIS) and 17th International Symposium on Advanced Intelligent Systems (ISIS)
+SP  - xxvi
+EP  - xxix
+AU  - M. Grabisch
+AU  - S. G. Kong
+AU  - K. Iwano
+AU  - P. Sinčák
+PY  - 2016
+DO  - 10.1109/SCIS-ISIS.2016.0009
+JO  - 2016 Joint 8th International Conference on Soft Computing and Intelligent Systems (SCIS) and 17th International Symposium on Advanced Intelligent Systems (ISIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 Joint 8th International Conference on Soft Computing and Intelligent Systems (SCIS) and 17th International Symposium on Advanced Intelligent Systems (ISIS)
+Y1  - 25-28 Aug. 2016
+ER  - 
+
+TY  - CONF
+TI  - Feature selection for facilitation of evolutionary multi-objective design optimization: Application to IPM motor design problems
+T2  - 2016 IEEE Conference on Electromagnetic Field Computation (CEFC)
+SP  - 1
+EP  - 1
+AU  - A. Salimi
+AU  - D. A. Lowther
+PY  - 2016
+DO  - 10.1109/CEFC.2016.7816205
+JO  - 2016 IEEE Conference on Electromagnetic Field Computation (CEFC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Conference on Electromagnetic Field Computation (CEFC)
+Y1  - 13-16 Nov. 2016
+ER  - 
+
+TY  - CONF
+TI  - Multicriteria decision making with fuzziness and criteria interdependence in cloud service selection
+T2  - 2014 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+SP  - 1929
+EP  - 1936
+AU  - S. Le
+AU  - H. Dong
+AU  - F. K. Hussain
+AU  - O. K. Hussain
+AU  - J. Ma
+AU  - Y. Zhang
+PY  - 2014
+DO  - 10.1109/FUZZ-IEEE.2014.6891892
+JO  - 2014 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+IS  - 
+SN  - 1098-7584
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
+Y1  - 6-11 July 2014
+ER  - 
+
+TY  - CONF
+TI  - Analysis of GAIA-PROMETHEE visualization using a psychophysiological tool
+T2  - 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)
+SP  - 1524
+EP  - 1529
+AU  - J. M. S. Gonçalves
+AU  - S. d. F. D. Daher
+AU  - D. C. Morais
+PY  - 2019
+DO  - 10.1109/SMC.2019.8914427
+JO  - 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)
+IS  - 
+SN  - 2577-1655
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)
+Y1  - 6-9 Oct. 2019
+ER  - 
+
+TY  - CONF
+TI  - Multiobjective design of evolutionary hybrid neural networks
+T2  - The 17th International Conference on Automation and Computing
+SP  - 195
+EP  - 200
+AU  - L. Ferariu
+AU  - B. Burlacu
+PY  - 2011
+DO  - 
+JO  - The 17th International Conference on Automation and Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The 17th International Conference on Automation and Computing
+Y1  - 10-10 Sept. 2011
+ER  - 
+
+TY  - CONF
+TI  - Event log-based fraud rating using interval type-2 fuzzy sets in fuzzy AHP
+T2  - 2016 IEEE Region 10 Conference (TENCON)
+SP  - 1965
+EP  - 1968
+AU  - E. S. Pane
+AU  - A. D. Wibawa
+AU  - M. H. Purnomo
+PY  - 2016
+DO  - 10.1109/TENCON.2016.7848366
+JO  - 2016 IEEE Region 10 Conference (TENCON)
+IS  - 
+SN  - 2159-3450
+VO  - 
+VL  - 
+JA  - 2016 IEEE Region 10 Conference (TENCON)
+Y1  - 22-25 Nov. 2016
+ER  - 
+
+TY  - CONF
+TI  - Finding k-dominant Skyline cube based on sharing-strategy
+T2  - 2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery
+SP  - 1694
+EP  - 1698
+AU  - L. Dong
+AU  - X. Cui
+AU  - Zhen-fu Wang
+AU  - Shu-wei Cheng
+PY  - 2010
+DO  - 10.1109/FSKD.2010.5569387
+JO  - 2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery
+IS  - 
+SN  - 
+VO  - 4
+VL  - 4
+JA  - 2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery
+Y1  - 10-12 Aug. 2010
+ER  - 
+
+TY  - CONF
+TI  - A multi-objective decision support mechanism for reverse auction
+T2  - 2014 9th International Conference on Computer Science & Education
+SP  - 431
+EP  - 434
+AU  - Dong-Her Shih
+AU  - Ming-Hung Shih
+AU  - Po-Yuan Shih
+PY  - 2014
+DO  - 10.1109/ICCSE.2014.6926498
+JO  - 2014 9th International Conference on Computer Science & Education
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 9th International Conference on Computer Science & Education
+Y1  - 22-24 Aug. 2014
+ER  - 
+
+TY  - JOUR
+TI  - Pymoo: Multi-Objective Optimization in Python
+T2  - IEEE Access
+SP  - 89497
+EP  - 89509
+AU  - J. Blank
+AU  - K. Deb
+PY  - 2020
+DO  - 10.1109/ACCESS.2020.2990567
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+ER  - 
+
+TY  - CONF
+TI  - An ordered weighted operator approach towards web usage mining
+T2  - 2014 International Conference on Computer and Communication Technology (ICCCT)
+SP  - 73
+EP  - 78
+AU  - S. Kohli
+AU  - A. Gupta
+PY  - 2014
+DO  - 10.1109/ICCCT.2014.7001472
+JO  - 2014 International Conference on Computer and Communication Technology (ICCCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference on Computer and Communication Technology (ICCCT)
+Y1  - 26-28 Sept. 2014
+ER  - 
+
+TY  - CONF
+TI  - Parameters Weighting in Elderly Monitoring Based on Multi-Criteria Methods
+T2  - 2019 22nd International Conference on Control Systems and Computer Science (CSCS)
+SP  - 131
+EP  - 135
+AU  - C. Dobre
+AU  - C. Z. Radulescu
+AU  - L. Bajenaru
+PY  - 2019
+DO  - 10.1109/CSCS.2019.00030
+JO  - 2019 22nd International Conference on Control Systems and Computer Science (CSCS)
+IS  - 
+SN  - 2379-0482
+VO  - 
+VL  - 
+JA  - 2019 22nd International Conference on Control Systems and Computer Science (CSCS)
+Y1  - 28-30 May 2019
+ER  - 
+
+TY  - CONF
+TI  - Multi-criteria decision support system for RES evaluation
+T2  - 2018 IEEE 12th International Conference on Application of Information and Communication Technologies (AICT)
+SP  - 1
+EP  - 6
+AU  - R. Mukhamediev
+AU  - R. Mustakayev
+AU  - K. Yakunin
+AU  - S. Kiseleva
+AU  - V. Gopejenko
+PY  - 2018
+DO  - 10.1109/ICAICT.2018.8747031
+JO  - 2018 IEEE 12th International Conference on Application of Information and Communication Technologies (AICT)
+IS  - 
+SN  - 2472-8586
+VO  - 
+VL  - 
+JA  - 2018 IEEE 12th International Conference on Application of Information and Communication Technologies (AICT)
+Y1  - 17-19 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - A DSL-MCDA Model for Energy Consumption-Aware in Cloud Computing
+T2  - 2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)
+SP  - 168
+EP  - 173
+AU  - K. Saidi
+AU  - O. Hioual
+AU  - A. Siam
+PY  - 2019
+DO  - 10.1109/IINTEC48298.2019.9112111
+JO  - 2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)
+Y1  - 20-22 Dec. 2019
+ER  - 
+
+TY  - CONF
+TI  - Correlation Based Multi-Criteria Feature Weighting for Identification of Top-k Investors and Companies
+T2  - 2019 9th International Conference on Advances in Computing and Communication (ICACC)
+SP  - 271
+EP  - 277
+AU  - P. Kanwar
+AU  - R. Mehta
+AU  - B. Tidke
+PY  - 2019
+DO  - 10.1109/ICACC48162.2019.8986183
+JO  - 2019 9th International Conference on Advances in Computing and Communication (ICACC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 9th International Conference on Advances in Computing and Communication (ICACC)
+Y1  - 6-8 Nov. 2019
+ER  - 
+
+TY  - JOUR
+TI  - Tradespace analysis of GNSS Space Segment Architectures
+T2  - IEEE Transactions on Aerospace and Electronic Systems
+SP  - 1
+EP  - 1
+AU  - F. Pereira
+AU  - D. Selva
+PY  - 2020
+DO  - 10.1109/TAES.2020.3010666
+JO  - IEEE Transactions on Aerospace and Electronic Systems
+IS  - 
+SN  - 1557-9603
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Aerospace and Electronic Systems
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - A multi-criteria decision making approach for recommending a product using sentiment analysis
+T2  - 2018 12th International Conference on Research Challenges in Information Science (RCIS)
+SP  - 1
+EP  - 6
+AU  - G. Kumar
+PY  - 2018
+DO  - 10.1109/RCIS.2018.8406679
+JO  - 2018 12th International Conference on Research Challenges in Information Science (RCIS)
+IS  - 
+SN  - 2151-1357
+VO  - 
+VL  - 
+JA  - 2018 12th International Conference on Research Challenges in Information Science (RCIS)
+Y1  - 29-31 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Data envelopment analysis-based multi-criteria decision making for part orientation selection in fused deposition modeling
+T2  - 2017 4th International Conference on Industrial Engineering and Applications (ICIEA)
+SP  - 81
+EP  - 85
+AU  - K. Ransikarbum
+AU  - N. Kim
+PY  - 2017
+DO  - 10.1109/IEA.2017.7939183
+JO  - 2017 4th International Conference on Industrial Engineering and Applications (ICIEA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 4th International Conference on Industrial Engineering and Applications (ICIEA)
+Y1  - 21-23 April 2017
+ER  - 
+
+TY  - CONF
+TI  - A hyper-heuristic multi-criteria decision support system for eco-efficient product life cycle
+T2  - 5th International Conference on Responsive Manufacturing - Green Manufacturing (ICRM 2010)
+SP  - 201
+EP  - 205
+AU  - J. R. Woodward
+AU  - N. Gindy
+PY  - 2010
+DO  - 10.1049/cp.2010.0436
+JO  - 5th International Conference on Responsive Manufacturing - Green Manufacturing (ICRM 2010)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 5th International Conference on Responsive Manufacturing - Green Manufacturing (ICRM 2010)
+Y1  - 11-13 Jan. 2010
+ER  - 
+
+TY  - CONF
+TI  - Computer network routing configuration based on intelligent algorithm
+T2  - 2017 Sixth International Conference on Future Generation Communication Technologies (FGCT)
+SP  - 1
+EP  - 4
+AU  - J. Wang
+PY  - 2017
+DO  - 10.1109/FGCT.2017.8103736
+JO  - 2017 Sixth International Conference on Future Generation Communication Technologies (FGCT)
+IS  - 
+SN  - 2377-2638
+VO  - 
+VL  - 
+JA  - 2017 Sixth International Conference on Future Generation Communication Technologies (FGCT)
+Y1  - 21-23 Aug. 2017
+ER  - 
+
+TY  - JOUR
+TI  - A New and Efficient Intelligent Collaboration Scheme for Fashion Design
+T2  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+SP  - 463
+EP  - 475
+AU  - Y. Yu
+AU  - T. Choi
+AU  - C. Hui
+AU  - T. Ho
+PY  - 2011
+DO  - 10.1109/TSMCA.2010.2089514
+JO  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+IS  - 3
+SN  - 1558-2426
+VO  - 41
+VL  - 41
+JA  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+Y1  - May 2011
+ER  - 
+
+TY  - CONF
+TI  - A novel Tolerant Skyline Operator for decision support
+T2  - 2012 IEEE International Conference on Granular Computing
+SP  - 26
+EP  - 31
+AU  - J. Chai
+AU  - J. N. K. Liu
+AU  - D. Gao
+AU  - J. Xu
+PY  - 2012
+DO  - 10.1109/GrC.2012.6468562
+JO  - 2012 IEEE International Conference on Granular Computing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Conference on Granular Computing
+Y1  - 11-13 Aug. 2012
+ER  - 
+
+TY  - CONF
+TI  - VMODEX: A visualization tool for multi-objective Design Space Exploration
+T2  - 2010 International Conference on Field-Programmable Technology
+SP  - 357
+EP  - 360
+AU  - T. Taghavi
+AU  - A. D. Pimentel
+PY  - 2010
+DO  - 10.1109/FPT.2010.5681428
+JO  - 2010 International Conference on Field-Programmable Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Field-Programmable Technology
+Y1  - 8-10 Dec. 2010
+ER  - 
+
+TY  - CONF
+TI  - An Effective Model to Support Uncertain Skyline Cubes
+T2  - 2010 International Conference on Management and Service Science
+SP  - 1
+EP  - 4
+AU  - Z. Huang
+AU  - Y. Xiang
+AU  - B. Zhang
+AU  - D. Wang
+PY  - 2010
+DO  - 10.1109/ICMSS.2010.5576983
+JO  - 2010 International Conference on Management and Service Science
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Management and Service Science
+Y1  - 24-26 Aug. 2010
+ER  - 
+
+TY  - JOUR
+TI  - A Multi-Criteria 2-Tuple Linguistic Group Decision-Making Method Based on TODIM for Cholecystitis Treatments Selection
+T2  - IEEE Access
+SP  - 127967
+EP  - 127986
+AU  - L. Xie
+AU  - J. He
+AU  - P. Cheng
+AU  - R. Xiao
+AU  - X. Zhou
+PY  - 2019
+DO  - 10.1109/ACCESS.2019.2939211
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 7
+VL  - 7
+JA  - IEEE Access
+Y1  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Multiobjective Antenna Design By Means of Sequential Domain Patching
+T2  - IEEE Antennas and Wireless Propagation Letters
+SP  - 1089
+EP  - 1092
+AU  - S. Koziel
+AU  - A. Bekasiewicz
+PY  - 2016
+DO  - 10.1109/LAWP.2015.2493240
+JO  - IEEE Antennas and Wireless Propagation Letters
+IS  - 
+SN  - 1548-5757
+VO  - 15
+VL  - 15
+JA  - IEEE Antennas and Wireless Propagation Letters
+Y1  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 611
+EP  - 620
+AU  - S. Pajer
+AU  - M. Streit
+AU  - T. Torsney-Weir
+AU  - F. Spechtenhauser
+AU  - T. Möller
+AU  - H. Piringer
+PY  - 2017
+DO  - 10.1109/TVCG.2016.2598589
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 1
+SN  - 1941-0506
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Jan. 2017
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Method for Industrial Site Selection: The Macro-Location Analysis
+T2  - IEEE Systems Journal
+SP  - 2971
+EP  - 2980
+AU  - A. Rikalovic
+AU  - I. Cosic
+AU  - R. D. Labati
+AU  - V. Piuri
+PY  - 2017
+DO  - 10.1109/JSYST.2015.2444471
+JO  - IEEE Systems Journal
+IS  - 4
+SN  - 1937-9234
+VO  - 11
+VL  - 11
+JA  - IEEE Systems Journal
+Y1  - Dec. 2017
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Multi-criteria Classifier Selection for Illegal Tapping Detection in Oil Pipelines
+T2  - 2020 International Joint Conference on Neural Networks (IJCNN)
+SP  - 1
+EP  - 8
+AU  - V. H. A. Ribeiro
+AU  - P. H. Domingues
+AU  - P. R. Cavalin
+AU  - G. Reynoso-Meza
+AU  - H. V. H. Ayala
+AU  - L. F. A. Azevedo
+PY  - 2020
+DO  - 10.1109/IJCNN48605.2020.9206602
+JO  - 2020 International Joint Conference on Neural Networks (IJCNN)
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2020 International Joint Conference on Neural Networks (IJCNN)
+Y1  - 19-24 July 2020
+ER  - 
+
+TY  - CONF
+TI  - Privacy-Preserving Skyline Queries in LBS
+T2  - 2010 International Conference on Machine Vision and Human-machine Interface
+SP  - 499
+EP  - 504
+AU  - Z. Qiao
+AU  - J. Gu
+AU  - X. Lin
+AU  - J. Chen
+PY  - 2010
+DO  - 10.1109/MVHI.2010.205
+JO  - 2010 International Conference on Machine Vision and Human-machine Interface
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Machine Vision and Human-machine Interface
+Y1  - 24-25 April 2010
+ER  - 
+
+TY  - JOUR
+TI  - A Food Recommender System Considering Nutritional Information and User Preferences
+T2  - IEEE Access
+SP  - 96695
+EP  - 96711
+AU  - R. Yera Toledo
+AU  - A. A. Alzahrani
+AU  - L. Martínez
+PY  - 2019
+DO  - 10.1109/ACCESS.2019.2929413
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 7
+VL  - 7
+JA  - IEEE Access
+Y1  - 2019
+ER  - 
+
+TY  - CONF
+TI  - Performance of distributed clustering with weighted optimization algorithm for MANET Cognitive Radio
+T2  - 2015 International Conference on Military Communications and Information Systems (ICMCIS)
+SP  - 1
+EP  - 5
+AU  - W. Bednarczyk
+AU  - P. Gajewski
+PY  - 2015
+DO  - 10.1109/ICMCIS.2015.7158707
+JO  - 2015 International Conference on Military Communications and Information Systems (ICMCIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Military Communications and Information Systems (ICMCIS)
+Y1  - 18-19 May 2015
+ER  - 
+
+TY  - JOUR
+TI  - A Novel Neutrosophic Data Analytic Hierarchy Process for Multi-Criteria Decision Making Method: A Case Study in Kuala Lumpur Stock Exchange
+T2  - IEEE Access
+SP  - 53687
+EP  - 53697
+AU  - D. Jun Yi Tey
+AU  - Y. Fei Gan
+AU  - G. Selvachandran
+AU  - S. Gai Quek
+AU  - F. Smarandache
+AU  - L. Hoang Son
+AU  - M. Abdel-Basset
+AU  - H. Viet Long
+PY  - 2019
+DO  - 10.1109/ACCESS.2019.2912913
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 7
+VL  - 7
+JA  - IEEE Access
+Y1  - 2019
+ER  - 
+
+TY  - CONF
+TI  - Lexicon Based and Multi-Criteria Decision Making (MCDM) Approach for Detecting Emotions from Arabic Microblog Text
+T2  - 2015 First International Conference on Arabic Computational Linguistics (ACLing)
+SP  - 100
+EP  - 105
+AU  - A. M. Abd Al-Aziz
+AU  - M. Gheith
+AU  - A. S. Eldin
+PY  - 2015
+DO  - 10.1109/ACLing.2015.21
+JO  - 2015 First International Conference on Arabic Computational Linguistics (ACLing)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 First International Conference on Arabic Computational Linguistics (ACLing)
+Y1  - 17-20 April 2015
+ER  - 
+
+TY  - CONF
+TI  - WS-S Evaluation Based on User Preferences and Ranking Mechanism
+T2  - 2013 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery
+SP  - 298
+EP  - 301
+AU  - C. Ma
+AU  - Y. Duan
+AU  - X. Ju
+AU  - F. Xu
+PY  - 2013
+DO  - 10.1109/CyberC.2013.58
+JO  - 2013 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery
+Y1  - 10-12 Oct. 2013
+ER  - 
+
+TY  - CONF
+TI  - VM Placement Algorithms for Hierarchical Cloud Infrastructure
+T2  - 2014 IEEE 6th International Conference on Cloud Computing Technology and Science
+SP  - 656
+EP  - 659
+AU  - M. H. Kabir
+AU  - G. C. Shoja
+AU  - S. Ganti
+PY  - 2014
+DO  - 10.1109/CloudCom.2014.53
+JO  - 2014 IEEE 6th International Conference on Cloud Computing Technology and Science
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE 6th International Conference on Cloud Computing Technology and Science
+Y1  - 15-18 Dec. 2014
+ER  - 
+
+TY  - CONF
+TI  - Towards efficient implementation of solar plants: A priority analysis through multi-criteria decision approach
+T2  - 2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)
+SP  - 1
+EP  - 5
+AU  - F. Fazelpour
+AU  - E. Roohi
+AU  - A. Tajeddin
+PY  - 2017
+DO  - 10.1109/EEEIC.2017.7977480
+JO  - 2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)
+Y1  - 6-9 June 2017
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of communication and computation efficient algorithms for distributed skyline queries
+T2  - 2013 International Conference on Information Communication and Embedded Systems (ICICES)
+SP  - 201
+EP  - 206
+AU  - T. Sunitha
+AU  - L. Indu
+PY  - 2013
+DO  - 10.1109/ICICES.2013.6508265
+JO  - 2013 International Conference on Information Communication and Embedded Systems (ICICES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 International Conference on Information Communication and Embedded Systems (ICICES)
+Y1  - 21-22 Feb. 2013
+ER  - 
+
+TY  - CONF
+TI  - Requirement-based prioritization system in multi-user IoT
+T2  - 2015 IEEE 2nd World Forum on Internet of Things (WF-IoT)
+SP  - 122
+EP  - 127
+AU  - S. Choochotkaew
+AU  - H. Yamaguchi
+AU  - T. Higashino
+AU  - M. Shibuya
+PY  - 2015
+DO  - 10.1109/WF-IoT.2015.7389038
+JO  - 2015 IEEE 2nd World Forum on Internet of Things (WF-IoT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 2nd World Forum on Internet of Things (WF-IoT)
+Y1  - 14-16 Dec. 2015
+ER  - 
+
+TY  - JOUR
+TI  - Improving the Dynamic Clustering of Hyperspectral Data Based on the Integration of Swarm Optimization and Decision Analysis
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+SP  - 2161
+EP  - 2173
+AU  - A. A. Naeini
+AU  - S. Homayouni
+AU  - M. Saadatseresht
+PY  - 2014
+DO  - 10.1109/JSTARS.2014.2307579
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IS  - 6
+SN  - 2151-1535
+VO  - 7
+VL  - 7
+JA  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Y1  - June 2014
+ER  - 
+
+
