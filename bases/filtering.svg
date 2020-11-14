@@ -27,14 +27,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="221.34472"
-     inkscape:cy="501.02919"
+     inkscape:cy="643.88633"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
+     inkscape:window-height="708"
      inkscape:window-x="0"
-     inkscape:window-y="132"
+     inkscape:window-y="457"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -228,14 +228,14 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 33.072917,172.64584 35.71875,0"
+       d="m 33.072917,172.64584 51.59375,0"
        id="path4628"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path4630"
-       d="m 33.072917,188.52084 35.71875,0"
+       d="m 33.072917,188.52084 51.59375,0"
        style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <text
@@ -429,7 +429,7 @@
          x="76.021233"
          y="176.63197"
          style="font-size:3.52777767px;line-height:0.60000002;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan894">944</tspan></text>
+         id="tspan894">146</tspan></text>
     <text
        id="text900"
        y="192.60132"
@@ -442,7 +442,7 @@
          style="font-size:3.52777767px;line-height:0.60000002;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="192.60132"
          x="75.820786"
-         sodipodi:role="line">479</tspan></text>
+         sodipodi:role="line">64</tspan></text>
     <text
        inkscape:transform-center-y="-9.8889725"
        inkscape:transform-center-x="-0.26726953"
@@ -455,6 +455,6 @@
          x="77.157127"
          y="208.43704"
          style="font-size:3.52777767px;line-height:0.60000002;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan902">2503</tspan></text>
+         id="tspan902">1290</tspan></text>
   </g>
 </svg>
