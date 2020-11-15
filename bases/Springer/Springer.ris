@@ -1,403 +1,43 @@
 TY  - JOUR
-T1  - Developing and evaluating a proposed health security framework in IoT using fuzzy analytic network process method
-A1  - Haghparast, Mohammad Bagher
-A1  - Berehlia, Sasan
-A1  - Akbari, Mona
-A1  - Sayadi, Ali
+T1  - Using grey relational analysis and grey integrated multi-objective strategy to evaluate the risk factors of falling of aboriginal elders in Taiwan
+A1  - Huang, Hsiao Ching
+A1  - Tsai, Tsai Fu
+A1  - Subeq, Yi Maun
 Y1  - 2020///
-KW  - Analytic network process (ANP)
-KW  - Cloud services
-KW  - Fuzzy ANP
-KW  - Health Internet of Things
-KW  - Internet of Things (IoT)
-KW  - Privacy
-KW  - Security framework
-JF  - Journal of Ambient Intelligence and Humanized Computing
-DO  - 10.1007/s12652-020-02472-3
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089784090&doi=10.1007%2Fs12652-020-02472-3&partnerID=40&md5=2da81b077330218b941550d7cc45c140
-N1  - Export Date: 5 November 2020
-N2  - Internet of Things (IoT) played a significant role in Healthcare. One of the major challenges in IoT health is security. For this reason, regarding the past studies, there is a lack of a comprehensive security framework that encompasses all layers of IoT. This article offers a security framework with four layers of sensor, network, service, and application. These layers help to develop security mechanisms within the proposed framework by providing security solutions. Also, security improvement has been influenced by the Multi Criteria Decision Making (MCDM) technique. To evaluate this framework, a conceptual model was defined with six critical criteria including security, network, services, interoperability, privacy, and reliability. The validity and reliability of this conceptual model were analyzed using SPSS 24 and AMOS 18. After proving the important criteria in the proposed model, we used the MCDM process of fuzzy analytic network process to prioritize the important criteria. The evaluation results of the conceptual model in the proposed framework, after analyzing the routes, show the validity of the proposed criteria. Therefore, in this model, 8 out of 12 communication routes between the criteria have a positive and significant relationship and 4 routes do not. The results of prioritizing important criteria in the research model, using analytic network process method, show that the network criterion, and authentication and validation sub-criteria have the highest priority among the proposed criteria. Thus, it can be decided that security solutions in the network layer and authentication and validation sub-criteria help to develop the proposed security framework.
-ER  - 
-TY  - JOUR
-T1  - MCDA-based deliberation to value health states: Lessons learned from a pilot study
-A1  - Gansen, Fabia
-A1  - Klinger, Julian
-A1  - Rogowski, Wolf
-Y1  - 2019///
-KW  - Deliberation
-KW  - Germany
-KW  - Health state valuation
-KW  - MACBETH
-KW  - MCDA
-KW  - SF-6D
-JF  - Health and Quality of Life Outcomes
-VL  - 17
-IS  - 1
-DO  - 10.1186/s12955-019-1189-7
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068507026&doi=10.1186%2Fs12955-019-1189-7&partnerID=40&md5=70eae7d4a0c5f50ae082653877c8165f
-N1  - Cited By :5
-
-Export Date: 5 November 2020
-N2  - Background: Health economists have shown a growing interest in deliberation and multi-criteria decision analysis (MCDA) as possible pathways to transparently integrate value judgments in cost-utility analyses. In line with these developments, this study piloted a consensus process to derive a German value set for the Short-Form Six-Dimension (SF-6D). In a conference setting, a group was tasked to deliberate on scores and weights for the SF-6D from the perspective of a self-determined and independent life. Methods: The one-day consensus conference was based on a deliberative process in combination with the MCDA method MACBETH (Measuring Attractiveness by a Categorical Based Evaluation Technique). According to MACBETH, participants were asked to qualitatively rate pairwise comparisons of SF-6D health states. The scoring within each dimension was conducted in parallel group sessions. Final agreement on the scores as well as weights for the SF-6D dimensions were derived in a subsequent plenary assembly. Results were analyzed using the software M-MACBETH and qualitative content analysis. Results: A total of 34 participants were recruited. While each of the 6 small groups presented a consented score, the plenary assembly reached consensus on all dimensions apart from pain. Concerning dimension weights, some participants favored prioritizing pain and mental health. Others disputed that trade-offs between dimensions and thus assigning weights were not acceptable in a context where this may involve withholding care from someone. As a consequence, no consensus on a value set was reached. Participants identified the group size of the plenary session and the applied weighting procedure as main obstacles to the process. Conclusions: This pilot study presents a consensus-based approach for valuing health-related quality of life. However, further research is needed on deliberative processes that yield quantifiable results. Future conferences should explore smaller group sizes, longer durations of the deliberative process and alternatives to the additive value function applied in MACBETH.
-ER  - 
-TY  - JOUR
-T1  - Sports decision-making model based on data mining and neural network
-A1  - Yuan, Chunmei
-A1  - Yang, Yikun
-A1  - Liu, Yang
-Y1  - 2020///
-KW  - Data mining
-KW  - Machine learning
-KW  - Neural network
-KW  - Sports decision-making
-JF  - Neural Computing and Applications
-DO  - 10.1007/s00521-020-05445-x
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094189451&doi=10.1007%2Fs00521-020-05445-x&partnerID=40&md5=0a91a5e9c066ea9aebed94edde983d69
-N1  - Export Date: 5 November 2020
-N2  - The sports decision-making system is affected by many factors, and the sports decision-making system itself is a complex decision-making system, including multiple micro-systems. In order to construct a more scientific sports decision-making model, this paper builds a sports decision-making model based on data mining and neural network based on data mining technology and neural network algorithms. Moreover, based on the analysis of system theory, stakeholder theory and multi-objective decision-making theory, this paper provides a theoretical basis for the study of multi-objective decision-making problems in sports events. In addition, this paper discusses the starting point of decision-making and the scope of research from the basic concepts of sports decision-making and analyzes the multi-objective decision-making system of sports decision-making. At the same time, on this basis, this paper designs a multi-objective decision-making model for sports events, and finally conducts empirical research based on the designed model. Through empirical analysis and simulation research, it can be known that the combined model constructed in this paper performs well and has certain practical effects.
-ER  - 
-TY  - JOUR
-T1  - Fuzzy Multi-Objective Simulation-Optimization of Stepped Spillways Considering Flood Uncertainty
-A1  - Ghorbani Mooselu, Mehrdad
-A1  - Nikoo, Mohammad Reza
-A1  - Bakhtiari Rayani, Nooshin
-A1  - Izady, Azizallah
-Y1  - 2019///
-KW  - Fuzzy transformation method (FTM)
-KW  - Multi-criteria decision making
-KW  - Non-dominated sorting genetic algorithm II (NSGA-I
-KW  - PROMETHEE
-KW  - Stepped spillway, TOPSIS
-JF  - Water Resources Management
-VL  - 33
-IS  - 7
-SP  - 2261
-EP  - 2275
-DO  - 10.1007/s11269-019-02263-2
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066399194&doi=10.1007%2Fs11269-019-02263-2&partnerID=40&md5=5266725d31855d0331ce0cb62c75d948
-N1  - Cited By :2
-
-Export Date: 5 November 2020
-N2  - The design of stepped spillways is a multi-objective optimization problem in which the uncertainty of parameters plays a key role in the stepped spillways’ design. A Fuzzy Transformation Method (FTM), as a first attempt, was employed to address the uncertainty through a multi-objective optimization of the stepped spillway. The proposed methodology comprises two parts. A numerical model is developed by FLOW3D® and the Multi-Layer Perceptron artificial neural network (MLP-ANN) meta-model was trained and validated to substitute the numerical model. Then, the meta-model is coupled with a multi-objective optimization model to find the optimal design scenarios in each α-cut level. Finally, two multi-criteria decision-making (MCDM) models are applied to achieve the lower and upper bounds of optimum solutions. The application of proposed methodology in Jarreh dam, Iran, shows its capability in satisfying the objectives and also addressing the uncertainty in stepped spillways’ design.
-ER  - 
-TY  - JOUR
-T1  - Qualitative Judgement of Research Impact: Domain Taxonomy as a Fundamental Framework for Judgement of the Quality of Research
-A1  - Murtagh, Fionn
-A1  - Orlov, Michael
-A1  - Mirkin, Boris
-Y1  - 2018///
-KW  - Multicriteria decision making
-KW  - Rank aggregation
-KW  - Research impact
-KW  - Scientometrics
-KW  - Semantic analysis
-KW  - Stratification
-KW  - Taxonomy
-JF  - Journal of Classification
-VL  - 35
-IS  - 1
-SP  - 5
-EP  - 28
-DO  - 10.1007/s00357-018-9247-0
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044271156&doi=10.1007%2Fs00357-018-9247-0&partnerID=40&md5=0a68071553e2b8d9ae9bee73f6db46cc
-N1  - Cited By :6
-
-Export Date: 5 November 2020
-N2  - The appeal of metric evaluation of research impact has attracted considerable interest in recent times. Although the public at large and administrative bodies are much interested in the idea, scientists and other researchers are much more cautious, insisting that metrics are but an auxiliary instrument to the qualitative peer-based judgement. The goal of this article is to propose availing of such a well positioned construct as domain taxonomy as a tool for directly assessing the scope and quality of research. We first show how taxonomies can be used to analyze the scope and perspectives of a set of research projects or papers. Then we proceed to define a research team or researcher’s rank by those nodes in the hierarchy that have been created or significantly transformed by the results of the researcher. An experimental test of the approach in the data analysis domain is described. Although the concept of taxonomy seems rather simplistic to describe all the richness of a research domain, its changes and use can be made transparent and subject to open discussions.
-ER  - 
-TY  - JOUR
-T1  - Multi-objective design of post-tensioned concrete road bridges using artificial neural networks
-A1  - García-Segura, Tatiana
-A1  - Yepes, Víctor
-A1  - Frangopol, Dan M.
-Y1  - 2017///
-KW  - Artificial neural networks
-KW  - Durability
-KW  - Multi-objective harmony search
-KW  - Post-tensioned concrete bridges
-KW  - Safety
-JF  - Structural and Multidisciplinary Optimization
-VL  - 56
-IS  - 1
-SP  - 139
-EP  - 150
-DO  - 10.1007/s00158-017-1653-0
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011880110&doi=10.1007%2Fs00158-017-1653-0&partnerID=40&md5=b3285f7a33f4e3de9c9b01031f68e4de
-N1  - Cited By :24
-
-Export Date: 5 November 2020
-N2  - In order to minimize the total expected cost, bridges have to be designed for safety and durability. This paper considers the cost, the safety, and the corrosion initiation time to design post-tensioned concrete box-girder road bridges. The deck is modeled by finite elements based on problem variables such as the cross-section geometry, the concrete grade, and the reinforcing and post-tensioning steel. An integrated multi-objective harmony search with artificial neural networks (ANNs) is proposed to reduce the high computing time required for the finite-element analysis and the increment in conflicting objectives. ANNs are trained through the results of previous bridge performance evaluations. Then, ANNs are used to evaluate the constraints and provide a direction towards the Pareto front. Finally, exact methods actualize and improve the Pareto set. The results show that the harmony search parameters should be progressively changed in a diversification-intensification strategy. This methodology provides trade-off solutions that are the cheapest ones for the safety and durability levels considered. Therefore, it is possible to choose an alternative that can be easily adjusted to each need.
-ER  - 
-TY  - JOUR
-T1  - Kinematic Viscosity Prediction of Nanolubricants Employed in Heavy Earth Moving Machinery Using Machine Learning Techniques
-A1  - Sharma, Gaurav
-A1  - Kotia, Ankit
-A1  - Ghosh, Subrata Kumar
-A1  - Rana, Prashant Singh
-A1  - Bawa, Seema
-A1  - Ali, Mohamed Kamal Ahmed
-Y1  - 2020///
-KW  - Heavy earth moving machinery
-KW  - Kinematic viscosity
-KW  - Machine learning techniques
-KW  - Nanolubricants
-KW  - Nanoparticles
-JF  - International Journal of Precision Engineering and Manufacturing
-VL  - 21
-IS  - 10
-SP  - 1921
-EP  - 1932
-DO  - 10.1007/s12541-020-00379-9
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088789657&doi=10.1007%2Fs12541-020-00379-9&partnerID=40&md5=15c8c369c29f229a3cc65d1ef9da45ea
-N1  - Export Date: 5 November 2020
-N2  - Recent researchers widely used nanoparticle additives for improving thermal and rheological properties of machine lubricant. In present study the effect of Al2O3 and CeO2 nanoparticles on transmission oil (SAE30), hydraulic oil (HYDREX100) and gear oil (EP90) of heavy earth moving machinery is investigated. Nano-lubricant samples are prepared in 0.01–4% nanoparticle volume fraction range. Four machine learning techniques namely decision tree (DT), random forest (RF), generalized linear models and neural network (NN) have been used to predict the kinematic viscosity for Al2O3 and CeO2 nanolubricants. Further, multi-criteria decision-making technique named technique for order of preference by similarity to ideal solution have been used to find the best predictive method in each category of the nanolubricants. DT, RF and NN methods are found to be most accurate in kinematic viscosity prediction of transmission oil (R2 = 0.861), hydraulic oil (R2 = 0.971) and gear oil (R2 = 0.973), respectively.
-ER  - 
-TY  - JOUR
-T1  - Introducing a New Supply Chain Management Concept by Hybridizing TOPSIS, IoT and Cloud Computing
-A1  - Chakraborty, Biswanath
-A1  - Das, Santanu
-Y1  - 2020///
-KW  - Agile SCM
-KW  - Amazon effect
-KW  - Consumers’ preference
-KW  - De-coupling
-KW  - Functional silos
-KW  - IoT
-KW  - RFID
-KW  - SCM
-KW  - Supply chain
-KW  - TOPSIS
-JF  - Journal of The Institution of Engineers (India): Series C
-DO  - 10.1007/s40032-020-00619-x
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091689158&doi=10.1007%2Fs40032-020-00619-x&partnerID=40&md5=ef143eaf00d93822d0b081ba8275d3e1
-N1  - Export Date: 5 November 2020
-N2  - Supply Chain Management (SCM) is becoming more complex day by day. Functional silos on demand and supply fronts of products are required to be addressed to implement the de-coupling point in preferences of consumers involved in a supply chain for optimization of operational efficiency, and nowadays, it has become a challenge. Again, ‘Amazon Effect’ has forced others to reset their strategies for optimizing their effectiveness. For the optimization of operational efficiency, three technologies have been used in the present work. TOPSIS, one of the Multi-Criteria Decision Making (MCDM) Techniques, has been applied to provide preferences of consumers of different criteria against different attributes (products). For tracking the products on transit, Radio Frequency IDentification (RFID) method can be employed in SCM to collect and share data of event(s) or ‘Things’ for a broad range through the Internet of Things (IoT) application. Finally, Cloud Computing has been proposed to be applied for managing Big Data that will be generated during this entire process of SCM. The optimization method of a quick or agile SCM based on TOPSIS, IoT and Cloud Computing is discussed in detail in this work to benefit industries.
-ER  - 
-TY  - JOUR
-T1  - Framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model
-A1  - Muruganantham, A.
-A1  - Gandhi, G. Meera
-Y1  - 2020///
-KW  - Centrality measures
-KW  - MAE
-KW  - RMSE
-KW  - Social media analytics
-KW  - Spreading size
-KW  - Twitter data set
+KW  - Aboriginal elders
+KW  - Fall risk factors
+KW  - Grey multi-objective decision making
+KW  - Grey relational analysis
+KW  - Mixed-method study
 PB  - Springer
-JF  - Multimedia Tools and Applications
-VL  - 79
-IS  - 5-6
-SP  - 3913
-EP  - 3927
-DO  - 10.1007/s11042-019-7470-2
-UR  - https://link.springer.com/article/10.1007/s11042-019-7470-2
+JF  - Soft Computing
+VL  - 24
+IS  - 11
+SP  - 8097
+EP  - 8112
+DO  - 10.1007/s00500-019-04178-x
+UR  - https://link.springer.com/article/10.1007/s00500-019-04178-x
 N1  - Cited By (since 2020): 3
-N2  - The Social, Mobile, Analytics and Cloud (SMAC) explosion in recent times changed the way the customers look at and collaborate businesses through large world of data or information, often described as “Big Data”. With over 1590 million active users, social media such as Facebook, Twitter, WhatsApp, Instagram, LinkedIn etc. send or receive messages or post or access new content every day. Businesses or enterprises understand and extract useful insights from social media platform and transforming it into useful information or knowledge along with their enterprise business data for strategic decision making. A framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model is proposed for social media data and our comprehensive study on large-scale twitter dataset experiment explains how MCDM (TOPSIS) method outperforms against the standard centrality methods using predicted Spreading Size. Two well-known metrics such as MAE (Mean Absolute Error), and RMSE (Root Mean Square Error) are applied to measure prediction accuracy of our MCDM based method against standard methods. TOPSIS (MCDM based) experiences least error accuracy of 9% in MAE and 16% in RMSE than the standard methods to prove that the proposed approach works better than the standard methods.
+N2  - Aboriginal elders falls have been a widely discussed topic; however, factors such as emotional and physical functions, and social and cultural backgrounds are lacking. Most studies focusing on fall correlations concentrate on medical institutions or non-tribal community areas. Few studies focus on falling of elders in mountainous areas. Applying grey relational and multi-objective decision making to predict the prevalence of falls and associated risk factors for aboriginal elders is the purpose of this study. We targeted the Atayal and Tsuo aboriginal elders in central Taiwan, involving 160 members settled in mountainous townships in Taiwan. For this research study, the components are as follows: The grey theory predicts and evaluates the commonly used fall risk assessment tools, that is, quantative questionaires include: (1) focused history: medication history and Brief Symptom Rating Scale questionnaire, BSRS-5; (2) functional Assessment: ADL (Barthel Index) and IADL; (3) prevention of falls health beliefs; and (4) prevention of falls self-efficacy. With qualitative and in-depth interviews, 18 tribal elders, 55 years and above, were interviewed: 9 from the Atayal and 9 from the Tsou. Based on the Nvivo 12.0 data analysis software, this study concluded that the most predictable fall risk assessment tool is Downton Fall Risk Index (weighting: 0.8657), followed by BSR-5 (weighting: 0.5701), prevention of falls health beliefs (weighting: 0.448), Barthel scale (weighting: 0.4296), IADL (weighting: 0.1661), prevention of falls self-efficacy (weighting: 0.1391) and medical history (weighting: 0.0615). Further, qualitative results indicated that the issue of health inequalities under the influence of ethnic culture, including physical and disease characteristics, tend to be more than the proportion of heart and hypertension diseases, healthy behaviors such as unbalanced diet, cultural beliefs in gender division of labor and ethnic communication barriers and lack of cultural adaptability care resources. The risky tribal environment of mountainous areas is a major factor that leads to falls. The results provide an accurate assessment tool suitable for Taiwanese aboriginal elders’ falls for future medical policy making and fall prevention intervention in cultural safety.
 ER  - 
 TY  - JOUR
-T1  - A data-driven quantitative assessment model for taxi industry: the scope of business ecosystem’s health
-A1  - Zhang, Yong
-A1  - Zhong, Miner
-A1  - Jiang, Yunjian
-Y1  - 2017///
-KW  - Business ecosystem
-KW  - Combine evaluation
-KW  - Health degree
-KW  - Quantitative analysis
-KW  - Taxi industry
-JF  - European Transport Research Review
-VL  - 9
-IS  - 2
-DO  - 10.1007/s12544-017-0241-0
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018398143&doi=10.1007%2Fs12544-017-0241-0&partnerID=40&md5=b0e77f79068b2957f54b447fb780879b
-N1  - Cited By :1
-
-Export Date: 5 November 2020
-N2  - Introduction: The taxi industry has boomed over the years, both in street-hail and dispatch market. However, few studies focus on comprehensive perspectives, which make decisions such as implementing regulative or incentive policies difficult. As an economic community working in the value-oriented process, the taxi industry requires a holistic performance evaluation to determine how to adapt strategies to survive and grow. Methods: This paper proposed the concept “Taxi Industry Health degree” based on the theory of Business Ecosystem and the evaluation of its health. A four-layer criteria set is developed from aspects of robustness, productivity and sustainability, and weights are determined through Analytic Hierarchy Process. Results: A synthetic evaluating model combining Fuzzy Comprehensive Evaluation and Artificial Neural Network is used to maintain the goal of multi-criteria decision-making. With the GPS and Taximeter dataset of taxicabs in the whole taxi industry in Wuxi, the model is applied to empirical studies. Conclusions: This paper provides sensibility analysis on not only the company’s order volatility, revenue growth and utilization of resources, but also influence on citizen’s welfare, energy consumption and environmental pollution, which enables practical regulations and policies within taxi industry.
-ER  - 
-TY  - JOUR
-T1  - An approach for composing predictive models from disparate knowledge sources in smart manufacturing environments
-A1  - Kim, Duck Bong
-Y1  - 2019///
-KW  - Additive manufacturing
-KW  - Compositionality
-KW  - Data analytics
-KW  - Decision making
-KW  - Smart manufacturing
-JF  - Journal of Intelligent Manufacturing
-VL  - 30
-IS  - 4
-SP  - 1999
-EP  - 2012
-DO  - 10.1007/s10845-017-1366-7
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031926326&doi=10.1007%2Fs10845-017-1366-7&partnerID=40&md5=985cec1c544db2c9a14e381d7fdf94e5
-N1  - Cited By :6
-
-Export Date: 5 November 2020
-N2  - This paper describes an approach that can compose predictive models from disparate knowledge sources in smart manufacturing environments. The capability to compose disparate models of individual manufacturing components with disparate knowledge sources is necessary in manufacturing industry, because this capability enables us to understand, monitor, analyze, optimize, and control the performance of the system made up of those components. It is based on the assumption that the component models and component sources used in any particular composition can be represented using the same collection of system ‘viewpoints’. With this assumption, creating this integrated collection is much easier than it would be. This composition capability provides the foundation for the ability to predict the performance of the system from the performances of its components—called compositionality. Compositionality is the key to solve decision-making/optimization problems related to that system-level prediction. For those problems, compositionality can be achieved using a three-tiered, abstraction architecture. The feasibility of this approach is demonstrated in an example in which a multi-criteria decision making method is used to determine the optimal process parameters in an additive manufacturing process.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria intuitionistic fuzzy group decision analysis with TOPSIS method for selecting appropriate cloud solution to manage big data projects
-A1  - Sachdeva, Nitin
-A1  - Singh, Ompal
-A1  - Kapur, P. K.
-A1  - Galar, Diego
-Y1  - 2016///
-KW  - Big data
-KW  - Cloud computing
-KW  - Intuitionistic fuzzy set (IFS)
-KW  - Multi criteria decision making (MCDM)
-KW  - TOPSIS
-JF  - International Journal of Systems Assurance Engineering and Management
-VL  - 7
-IS  - 3
-SP  - 316
-EP  - 324
-DO  - 10.1007/s13198-016-0455-x
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983035394&doi=10.1007%2Fs13198-016-0455-x&partnerID=40&md5=03bb3e7fc0d281f7e99fbf76345f93b4
-N1  - Cited By :9
-
-Export Date: 5 November 2020
-N2  - Today technology that learns from data to forecast future behavior of individuals, organizations, government and country as a whole, is playing a crucial role in the advancement of human race. In fact, the strategic advantage most of the companies today strive for are use of new available technologies like cloud computing and big data. However, today’s dynamic business environment poses severe challenges in front of companies as to how to make use of the power of big data with the technical flexibility that cloud computing provides? Therefore, evaluating, ranking and selecting the most appropriate cloud solution to manage big data project is a complex concern which required multi criteria decision environment. In this paper we propose a hybrid TOPSIS method combined with intuitionistic fuzzy set to select appropriate cloud solution to manage big data projects in group decision making environment. In order to collate individual opinions of decision makers for rating the importance of various criteria and alternatives, we employed intuitionistic fuzzy weighted averaging operator. Lastly sensitivity analysis is performed so as to evaluate the impact of criteria weights on final ranking of alternatives.
-ER  - 
-TY  - JOUR
-T1  - Multi Criteria Decision Making in Financial Risk Management with a Multi-objective Genetic Algorithm
-A1  - Srinivasan, Sujatha
-A1  - Kamalakannan, T.
-Y1  - 2018///
-KW  - Big data
-KW  - Business analytics
-KW  - Business intelligence
-KW  - Credit risk
-KW  - Enterprise risk management
-JF  - Computational Economics
-VL  - 52
-IS  - 2
-SP  - 443
-EP  - 457
-DO  - 10.1007/s10614-017-9683-7
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018440020&doi=10.1007%2Fs10614-017-9683-7&partnerID=40&md5=68dab08ccebe53d3642f9ef3f94cd99b
-N1  - Cited By :6
-
-Export Date: 5 November 2020
-N2  - A huge amount of data is being collected and stored by financial institutions like banks during their operations. These data contain the most important facts about the institutions and its customers. A good and efficient data analytics system can find patterns in this huge data source that can be used in actionable knowledge creation. Actionable knowledge is the knowledge that can be put to decision making and take some positive action towards better performance of organizations. This actionable knowledge is termed Business Intelligence by data scientists. Business Intelligence and Analytics is the process of applying data mining techniques to organizational or corporate data to discover patterns. Business Intelligence and Business Analytics are emerging as important and essential fields both for data scientists and organizations. Risk analysis, fraud detection, customer retention, customer satisfaction analysis and actuarial analysis are some of the areas of application of business intelligence and analytics. Credit risk analysis is an important part of a successful financial institution particularly in the banking sector. The current study takes this risk analysis in financial institutions and reviews the state of the art in using data analytics or data mining techniques for financial risk analysis. The analysis of risk from financial data depends on several factors that are both objective and subjective. Hence it is a multi-criteria decision problem. The study also proposes a multi-objective genetic algorithm (MOGA) for analyzing financial data for risk analysis and prediction. The proposed MOGA is different from other evolutionary systems in that a memory component to hold the rules is added to the system while other systems in the literature are memory less. The algorithm is applied to bench mark data sets for predicting the decision on credit card and credit applications. The preliminary results are encouraging and show light towards better decision making in reducing risks.
-ER  - 
-TY  - JOUR
-T1  - Machine learning based decision support systems (DSS) for heart disease diagnosis: a review
-A1  - Safdar, Saima
-A1  - Zafar, Saad
-A1  - Zafar, Nadeem
-A1  - Khan, Naurin Farooq
-Y1  - 2018///
-KW  - Clinical
-KW  - Decision support systems
-KW  - Heart diseases
-KW  - Machine learning
-JF  - Artificial Intelligence Review
-VL  - 50
-IS  - 4
-SP  - 597
-EP  - 623
-DO  - 10.1007/s10462-017-9552-8
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016028050&doi=10.1007%2Fs10462-017-9552-8&partnerID=40&md5=9d0cddfba7f43cd206a3d911c8a1c0a3
-N1  - Cited By :16
-
-Export Date: 5 November 2020
-N2  - The current review contributes with an extensive overview of decision support systems in diagnosing heart diseases in clinical settings. The investigators independently screened and abstracted studies related to heart diseases-based clinical decision support system (DSS) published until 8-June-2015 in PubMed, CINAHL and Cochrane Library. The data extracted from the twenty full-text articles that met the inclusion criteria was classified under the following fields; heart diseases, methods for data sets formation, machine learning algorithms, machine learning-based DSS, comparator types, outcome evaluation and clinical implications of the reported DSS. Out of total of 331 studies 20 met the inclusion criteria. Most of the studies relate to ischemic heart diseases with neural network being the most common machine learning (ML) technique. Among the ML techniques, ANN classifies myocardial infarction with 97% and myocardial perfusion scintigraphy with 87.5% accuracy, CART classifies heart failure with 87.6%, neural network ensembles classifies heart valve with 97.4%, support vector machine classifies arrhythmia screening with 95.6%, logistic regression classifies acute coronary syndrome with 72%, artificial immune recognition system classifies coronary artery disease with 92.5% and genetic algorithms and multi-criteria decision analysis classifies chest-pain patients with 91% accuracy respectively. There were 55% studies that validated the results in clinical settings while 25% validated the results through experimental setups. Rest of the studies (20%) did not report the applicability and feasibility of their methods in clinical settings. The study categorizes the ML techniques according to their performance in diagnosing various heart diseases. It categorizes, compares and evaluates the comparator based on physician’s performance, gold standards, other ML techniques, different models of same ML technique and studies with no comparison. It also investigates the current, future and no clinical implications. In addition, trends of machine learning techniques and algorithms used in the diagnosis of heart diseases along with the identification of research gaps are reported in this study. The reported results suggest reliable interpretations and detailed graphical self-explanatory representations by DSS. The study reveals the need for establishment of non-ambiguous real-time clinical data for proper training of DSS before it can be used in clinical settings. The future research directions of the ML-based DSS is mostly directed towards development of generalized systems that can decide on clinical measurements which are easily accessible and assessable in real-time.
-ER  - 
-TY  - JOUR
-T1  - Multi-objective Decision in Machine Learning
-A1  - de Medeiros, Talles Henrique
-A1  - Rocha, Honovan Paz
-A1  - Torres, Frank Sill
-A1  - Takahashi, Ricardo Hiroshi Caldeira
-A1  - Braga, Antônio Pádua
-Y1  - 2017///
-KW  - Classification
-KW  - Decision-making
-KW  - Machine learning
-KW  - Multi-objective optimization
-JF  - Journal of Control, Automation and Electrical Systems
-VL  - 28
-IS  - 2
-SP  - 217
-EP  - 227
-DO  - 10.1007/s40313-016-0295-6
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014862668&doi=10.1007%2Fs40313-016-0295-6&partnerID=40&md5=648804e246d696c63301d0787ee6819b
-N1  - Cited By :4
-
-Export Date: 5 November 2020
-N2  - This work presents a novel approach for decision-making for multi-objective binary classification problems. The purpose of the decision process is to select within a set of Pareto-optimal solutions, one model that minimizes the structural risk (generalization error). This new approach utilizes a kind of prior knowledge that, if available, allows the selection of a model that better represents the problem in question. Prior knowledge about the imprecisions of the collected data enables the identification of the region of equivalent solutions within the set of Pareto-optimal solutions. Results for binary classification problems with sets of synthetic and real data indicate equal or better performance in terms of decision efficiency compared to similar approaches.
-ER  - 
-TY  - JOUR
-T1  - A decision support methodology for integrated machining process and operation plans for sustainability and productivity assessment
-A1  - Hatim, Qais Y.
-A1  - Saldana, Christopher
-A1  - Shao, Guodong
-A1  - Kim, Duck Bong
-A1  - Morris, K. C.
-A1  - Witherell, Paul
-A1  - Rachuri, Sudarsan
-A1  - Kumara, Soundar
+T1  - VNE strategy based on chaos hybrid flower pollination algorithm considering multi-criteria decision making
+A1  - Zhang, Peiying
+A1  - Liu, Fanglin
+A1  - Aujla, Gagangeet Singh
+A1  - Vashisht, Sahil
 Y1  - 2020///
-KW  - Artificial intelligence
-KW  - Data analytics
-KW  - Manufacturing
-KW  - Sustainability
-JF  - International Journal of Advanced Manufacturing Technology
-VL  - 107
-IS  - 7-8
-SP  - 3207
-EP  - 3230
-DO  - 10.1007/s00170-019-04268-y
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083764438&doi=10.1007%2Fs00170-019-04268-y&partnerID=40&md5=d25394fc5fc73c52d39ec0af17689316
-N1  - Export Date: 5 November 2020
-N2  - This paper presents a systematic methodology to enable environmental sustainability and productivity performance assessment for integrated process and operation plans at the machine cell level of a manufacturing system. This approach determines optimal process and operation plans from a range of possible alternatives that satisfy the objectives and constraints. The methodology provides a systematic procedure to highlight parameters that have significant impact on both sustainability and productivity performance metrics. We developed models and applied them to analyze manufacturing life cycle scenarios for collecting and categorizing key concepts towards building a material information model for sustainability. Integration of process and operation plans allows globalized assessment of sustainability and productivity, while development of a multi-criteria decision-making method leads to optimization of process planning activities based on the impact of conflicting sustainability and productivity metrics. A case study is detailed to demonstrate the sustainability-focused methodology, wherein integrated simulation and optimization techniques are used to support analysis of candidate scenarios and selection of preferred alternatives from a finite set of alternate process and operation plans. A discrete event simulation tool is used to model evolution of sustainability metrics (e.g., energy consumption) and productivity metrics (e.g., production time, cost) of a shop floor. The outcomes of this work include determination of optimized feature sequence plans which optimize various key performance indicators depending on stakeholder interest based on time, sustainability and production cost.
-ER  - 
-TY  - JOUR
-T1  - Mining and prioritization of association rules for big data: multi-criteria decision analysis approach
-A1  - Ait-Mlouk, Addi
-A1  - Agouti, Tarik
-A1  - Gharnati, Fatima
-Y1  - 2017///
-KW  - Apache Spark
-KW  - Association rules
-KW  - Big data
-KW  - Data mining
-KW  - Multi-criteria decision analysis
-KW  - PFP-growth
-KW  - Road accident
-JF  - Journal of Big Data
-VL  - 4
-IS  - 1
-DO  - 10.1186/s40537-017-0105-4
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036543658&doi=10.1186%2Fs40537-017-0105-4&partnerID=40&md5=60821a7a768a70b00693deb4f02b7729
-N1  - Cited By :10
-
-Export Date: 5 November 2020
-N2  - Data mining techniques and extracting patterns from large datasets play a vital role in knowledge discovery. Most of the decision makers encounter a large number of decision rules resulted from association rules mining. Moreover, the volume of datasets brings a new challenge to extract patterns such as the cost of computing and inefficiency to achieve the relevant rules. To overcome these challenges, this paper aims to build a learning model based on FP-growth and Apache Spark framework to process and to extract relevant association rules. We also integrate the multi-criteria decision analysis to prioritize the extracted rules by taking into account the decision makers subjective judgment. We believe that this approach would be a useful model to follow, particularly for decision makers who are suffering from conflicts between extracted rules, and difficulties of building only the most interesting rules. Experimental results on road accidents analysis show that the proposed approach can be efficiently achieved more association rules with a higher accuracy rate and improve the response time of the proposed algorithm. The results make clear that the proposed approach performs well and can provide useful information that could help the decision makers to improve road safety.
-ER  - 
-TY  - JOUR
-T1  - An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query
-A1  - Xie, Min
-A1  - Wong, Raymond Chi Wing
-A1  - Lall, Ashwin
-Y1  - 2020///
-KW  - Data analysis
-KW  - Multi-criteria decision making
-KW  - Query processing
-KW  - Regret minimization
+KW  - BP neural network
+KW  - Chaos optimization strategy
+KW  - Flower pollination algorithm
+KW  - Genetic algorithm
+KW  - Virtual network embedding
 PB  - Springer
-JF  - VLDB Journal
-VL  - 29
-IS  - 1
-SP  - 147
-EP  - 175
-DO  - 10.1007/s00778-019-00570-z
-UR  - https://link.springer.com/article/10.1007/s00778-019-00570-z
-N1  - Cited By (since 2020): 4
-N2  - When faced with a database containing millions of tuples, a user may be only interested in a (typically much) smaller representative subset. Recently, a query called the regret minimization query was proposed toward this purpose to create such a subset for users. Specifically, this query finds a set of tuples that minimizes the user regret (measured by how far the user’s favorite tuple in the selected set is from his/her favorite tuple in the whole database). The regret minimization query was shown to be very useful in bridging the best worlds between two existing well-known queries, top-k queries and skyline queries: Like top-k queries, the total number of tuples returned in this new query is controllable, and like skyline queries, this new query does not require a user to specify any preference function. Thus, it has attracted a lot of attention from researchers in the database community. Various methods were proposed for regret minimization. However, despite the abundant research effort, there is no systematic comparison among the existing methods. This paper surveys this interesting and evolving research topic by broadly reviewing and comparing the state-of-the-art methods for regret minimization. Moreover, we study different variants of the regret minimization query that has garnered considerable attention in recent years and present some interesting problems that have not yet been addressed in the literature. We implemented 12 state-of-the-art methods published in top-tier venues such as SIGMOD and VLDB from 2010 to 2018 for obtaining regret minimization sets and give an experimental comparison under various parameter settings on both synthetic and real datasets. Our evaluation shows that the optimal choice of methods for regret minimization depends on the application demands. This paper provides an empirical guideline for making such a decision.
+JF  - Neural Computing and Applications
+DO  - 10.1007/s00521-020-04827-5
+UR  - https://link.springer.com/content/pdf/10.1007/s00521-020-04827-5.pdf
+N1  - Cited By (since 2020): 1
+N2  - With the development of science and technology and the need for multi-criteria decision making (MCDM), the optimization problem to be solved becomes extremely complex. The theoretically accurate and optimal solutions are often difficult to obtain. Therefore, meta-heuristic algorithms based on multi-point search have received extensive attention. The flower pollination algorithm (FPA) is a new swarm intelligence meta-heuristic algorithm, which can effectively control the balance between global search and local search through a handover probability, and gradually attracts the attention of researchers. However, the algorithm still has problems that are common to optimization algorithms. For example, the global search operation guided by the optimal solution is easy to lead the algorithm into local optimum, and the vector-guided search process is not suitable for solving some problems in discrete space. Moreover, the algorithm does not consider dynamic multi-criteria decision problems well. Aiming at these problems, the design strategy of hybrid flower pollination algorithm for virtual network embedding problem is discussed. Combining the advantages of the genetic algorithm and FPA, the algorithm is optimized for the characteristics of discrete optimization problems. The cross-operation is used to replace the cross-pollination operation to complete the global search and replace the mutation operation with self-pollination operation to enhance the ability of local search. Moreover, a life cycle mechanism is introduced as a complement to the traditional fitness-based selection strategy to avoid premature convergence. A chaos optimization strategy is introduced to replace the random sequence-guided crossover process to strengthen the global search capability and reduce the probability of producing invalid individuals. In addition, a two-layer BP neural network is introduced to replace the traditional objective function to strengthen the dynamic MCDM ability. Simulation results show that the proposed method has good performance in link load balancing, revenue–cost ratio, VN requests acceptance ratio, mapping average quotation, average time delay, average packet loss rate, and the average running time of the algorithm.
 ER  - 
 TY  - CHAP
 T1  - Context-Dependent Feedback Prioritisation in Exploratory Learning Revisited
@@ -422,43 +62,65 @@ UR  - http://link.springer.com/10.1007/978-3-642-22362-4_6
 N2  - The open nature of exploratory learning leads to situations when feedback is needed to address several conceptual difficulties. Not all, however, can be addressed at the same time, as this would lead to cognitive overload and confuse the learner rather than help him/her. To this end, we propose a personalised context-dependent feedback prioritisation mechanism based on Analytic Hierarchy Process (AHP) and Neural Networks (NN). AHP is used to define feedback prioritisation as a multi-criteria decision-making problem, while NN is used to model the relation between the criteria and the order in which the conceptual difficulties should be addressed. When used alone, AHP needs a large amount of data from experts to cover all possible combinations of the criteria, while the AHP-NN synergy leads to a general model that outputs results for any such combination. This work was developed and tested in an exploratory learning environment for mathematical generalisation called eXpresser. © 2011 Springer-Verlag.
 ER  - 
 TY  - JOUR
-T1  - VNE strategy based on chaos hybrid flower pollination algorithm considering multi-criteria decision making
-A1  - Zhang, Peiying
-A1  - Liu, Fanglin
-A1  - Aujla, Gagangeet Singh
-A1  - Vashisht, Sahil
+T1  - An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query
+A1  - Xie, Min
+A1  - Wong, Raymond Chi Wing
+A1  - Lall, Ashwin
 Y1  - 2020///
-KW  - BP neural network
-KW  - Chaos optimization strategy
-KW  - Flower pollination algorithm
-KW  - Genetic algorithm
-KW  - Virtual network embedding
+KW  - Data analysis
+KW  - Multi-criteria decision making
+KW  - Query processing
+KW  - Regret minimization
 PB  - Springer
-JF  - Neural Computing and Applications
-DO  - 10.1007/s00521-020-04827-5
-UR  - https://link.springer.com/content/pdf/10.1007/s00521-020-04827-5.pdf
-N1  - Cited By (since 2020): 1
-N2  - With the development of science and technology and the need for multi-criteria decision making (MCDM), the optimization problem to be solved becomes extremely complex. The theoretically accurate and optimal solutions are often difficult to obtain. Therefore, meta-heuristic algorithms based on multi-point search have received extensive attention. The flower pollination algorithm (FPA) is a new swarm intelligence meta-heuristic algorithm, which can effectively control the balance between global search and local search through a handover probability, and gradually attracts the attention of researchers. However, the algorithm still has problems that are common to optimization algorithms. For example, the global search operation guided by the optimal solution is easy to lead the algorithm into local optimum, and the vector-guided search process is not suitable for solving some problems in discrete space. Moreover, the algorithm does not consider dynamic multi-criteria decision problems well. Aiming at these problems, the design strategy of hybrid flower pollination algorithm for virtual network embedding problem is discussed. Combining the advantages of the genetic algorithm and FPA, the algorithm is optimized for the characteristics of discrete optimization problems. The cross-operation is used to replace the cross-pollination operation to complete the global search and replace the mutation operation with self-pollination operation to enhance the ability of local search. Moreover, a life cycle mechanism is introduced as a complement to the traditional fitness-based selection strategy to avoid premature convergence. A chaos optimization strategy is introduced to replace the random sequence-guided crossover process to strengthen the global search capability and reduce the probability of producing invalid individuals. In addition, a two-layer BP neural network is introduced to replace the traditional objective function to strengthen the dynamic MCDM ability. Simulation results show that the proposed method has good performance in link load balancing, revenue–cost ratio, VN requests acceptance ratio, mapping average quotation, average time delay, average packet loss rate, and the average running time of the algorithm.
+JF  - VLDB Journal
+VL  - 29
+IS  - 1
+SP  - 147
+EP  - 175
+DO  - 10.1007/s00778-019-00570-z
+UR  - https://link.springer.com/article/10.1007/s00778-019-00570-z
+N1  - Cited By (since 2020): 4
+N2  - When faced with a database containing millions of tuples, a user may be only interested in a (typically much) smaller representative subset. Recently, a query called the regret minimization query was proposed toward this purpose to create such a subset for users. Specifically, this query finds a set of tuples that minimizes the user regret (measured by how far the user’s favorite tuple in the selected set is from his/her favorite tuple in the whole database). The regret minimization query was shown to be very useful in bridging the best worlds between two existing well-known queries, top-k queries and skyline queries: Like top-k queries, the total number of tuples returned in this new query is controllable, and like skyline queries, this new query does not require a user to specify any preference function. Thus, it has attracted a lot of attention from researchers in the database community. Various methods were proposed for regret minimization. However, despite the abundant research effort, there is no systematic comparison among the existing methods. This paper surveys this interesting and evolving research topic by broadly reviewing and comparing the state-of-the-art methods for regret minimization. Moreover, we study different variants of the regret minimization query that has garnered considerable attention in recent years and present some interesting problems that have not yet been addressed in the literature. We implemented 12 state-of-the-art methods published in top-tier venues such as SIGMOD and VLDB from 2010 to 2018 for obtaining regret minimization sets and give an experimental comparison under various parameter settings on both synthetic and real datasets. Our evaluation shows that the optimal choice of methods for regret minimization depends on the application demands. This paper provides an empirical guideline for making such a decision.
 ER  - 
 TY  - JOUR
-T1  - Using grey relational analysis and grey integrated multi-objective strategy to evaluate the risk factors of falling of aboriginal elders in Taiwan
-A1  - Huang, Hsiao Ching
-A1  - Tsai, Tsai Fu
-A1  - Subeq, Yi Maun
+T1  - Framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model
+A1  - Muruganantham, A.
+A1  - Gandhi, G. Meera
 Y1  - 2020///
-KW  - Aboriginal elders
-KW  - Fall risk factors
-KW  - Grey multi-objective decision making
-KW  - Grey relational analysis
-KW  - Mixed-method study
+KW  - Centrality measures
+KW  - MAE
+KW  - RMSE
+KW  - Social media analytics
+KW  - Spreading size
+KW  - Twitter data set
 PB  - Springer
-JF  - Soft Computing
-VL  - 24
-IS  - 11
-SP  - 8097
-EP  - 8112
-DO  - 10.1007/s00500-019-04178-x
-UR  - https://link.springer.com/article/10.1007/s00500-019-04178-x
+JF  - Multimedia Tools and Applications
+VL  - 79
+IS  - 5-6
+SP  - 3913
+EP  - 3927
+DO  - 10.1007/s11042-019-7470-2
+UR  - https://link.springer.com/article/10.1007/s11042-019-7470-2
 N1  - Cited By (since 2020): 3
-N2  - Aboriginal elders falls have been a widely discussed topic; however, factors such as emotional and physical functions, and social and cultural backgrounds are lacking. Most studies focusing on fall correlations concentrate on medical institutions or non-tribal community areas. Few studies focus on falling of elders in mountainous areas. Applying grey relational and multi-objective decision making to predict the prevalence of falls and associated risk factors for aboriginal elders is the purpose of this study. We targeted the Atayal and Tsuo aboriginal elders in central Taiwan, involving 160 members settled in mountainous townships in Taiwan. For this research study, the components are as follows: The grey theory predicts and evaluates the commonly used fall risk assessment tools, that is, quantative questionaires include: (1) focused history: medication history and Brief Symptom Rating Scale questionnaire, BSRS-5; (2) functional Assessment: ADL (Barthel Index) and IADL; (3) prevention of falls health beliefs; and (4) prevention of falls self-efficacy. With qualitative and in-depth interviews, 18 tribal elders, 55 years and above, were interviewed: 9 from the Atayal and 9 from the Tsou. Based on the Nvivo 12.0 data analysis software, this study concluded that the most predictable fall risk assessment tool is Downton Fall Risk Index (weighting: 0.8657), followed by BSR-5 (weighting: 0.5701), prevention of falls health beliefs (weighting: 0.448), Barthel scale (weighting: 0.4296), IADL (weighting: 0.1661), prevention of falls self-efficacy (weighting: 0.1391) and medical history (weighting: 0.0615). Further, qualitative results indicated that the issue of health inequalities under the influence of ethnic culture, including physical and disease characteristics, tend to be more than the proportion of heart and hypertension diseases, healthy behaviors such as unbalanced diet, cultural beliefs in gender division of labor and ethnic communication barriers and lack of cultural adaptability care resources. The risky tribal environment of mountainous areas is a major factor that leads to falls. The results provide an accurate assessment tool suitable for Taiwanese aboriginal elders’ falls for future medical policy making and fall prevention intervention in cultural safety.
+N2  - The Social, Mobile, Analytics and Cloud (SMAC) explosion in recent times changed the way the customers look at and collaborate businesses through large world of data or information, often described as “Big Data”. With over 1590 million active users, social media such as Facebook, Twitter, WhatsApp, Instagram, LinkedIn etc. send or receive messages or post or access new content every day. Businesses or enterprises understand and extract useful insights from social media platform and transforming it into useful information or knowledge along with their enterprise business data for strategic decision making. A framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model is proposed for social media data and our comprehensive study on large-scale twitter dataset experiment explains how MCDM (TOPSIS) method outperforms against the standard centrality methods using predicted Spreading Size. Two well-known metrics such as MAE (Mean Absolute Error), and RMSE (Root Mean Square Error) are applied to measure prediction accuracy of our MCDM based method against standard methods. TOPSIS (MCDM based) experiences least error accuracy of 9% in MAE and 16% in RMSE than the standard methods to prove that the proposed approach works better than the standard methods.
+ER  - 
+TY  - JOUR
+T1  - Developing and evaluating a proposed health security framework in IoT using fuzzy analytic network process method
+A1  - Haghparast, Mohammad Bagher
+A1  - Berehlia, Sasan
+A1  - Akbari, Mona
+A1  - Sayadi, Ali
+Y1  - 2020///
+KW  - Analytic network process (ANP)
+KW  - Cloud services
+KW  - Fuzzy ANP
+KW  - Health Internet of Things
+KW  - Internet of Things (IoT)
+KW  - Privacy
+KW  - Security framework
+JF  - Journal of Ambient Intelligence and Humanized Computing
+DO  - 10.1007/s12652-020-02472-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089784090&doi=10.1007%2Fs12652-020-02472-3&partnerID=40&md5=2da81b077330218b941550d7cc45c140
+N1  - Export Date: 5 November 2020
+N2  - Internet of Things (IoT) played a significant role in Healthcare. One of the major challenges in IoT health is security. For this reason, regarding the past studies, there is a lack of a comprehensive security framework that encompasses all layers of IoT. This article offers a security framework with four layers of sensor, network, service, and application. These layers help to develop security mechanisms within the proposed framework by providing security solutions. Also, security improvement has been influenced by the Multi Criteria Decision Making (MCDM) technique. To evaluate this framework, a conceptual model was defined with six critical criteria including security, network, services, interoperability, privacy, and reliability. The validity and reliability of this conceptual model were analyzed using SPSS 24 and AMOS 18. After proving the important criteria in the proposed model, we used the MCDM process of fuzzy analytic network process to prioritize the important criteria. The evaluation results of the conceptual model in the proposed framework, after analyzing the routes, show the validity of the proposed criteria. Therefore, in this model, 8 out of 12 communication routes between the criteria have a positive and significant relationship and 4 routes do not. The results of prioritizing important criteria in the research model, using analytic network process method, show that the network criterion, and authentication and validation sub-criteria have the highest priority among the proposed criteria. Thus, it can be decided that security solutions in the network layer and authentication and validation sub-criteria help to develop the proposed security framework.
 ER  - 
