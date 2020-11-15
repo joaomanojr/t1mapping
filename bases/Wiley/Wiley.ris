@@ -1,129 +1,9 @@
 TY  - JOUR
-T1  - SU-E-J-04: A Data-Driven, Response-Based, Multi-Criteria Decision Support System for Personalized Lung Radiation Treatment Planning
-A1  - Luo, Y
-A1  - McShan, D
-A1  - Schipper, M
-A1  - Matuszak, M
-A1  - Kong, F
-A1  - Ten Haken, R
-Y1  - 2014/06//
-KW  - Cancer
-KW  - Data analysis
-KW  - Data mining
-KW  - Dosimetry
-KW  - Information integration
-KW  - Lungs
-KW  - Radiation treatment
-PB  - John Wiley & Sons, Ltd
-JF  - Medical Physics
-VL  - 41
-IS  - 6Part6
-SP  - 155
-EP  - 155
-DO  - https://doi.org/10.1118/1.4888055
-UR  - https://doi.org/10.1118/1.4888055
-N1  - https://doi.org/10.1118/1.4888055
-N2  - Purpose: To develop a decision support tool to predict a patient's potential overall survival (OS) and radiation induced toxicity (RIT) based on clinical factors and responses during the course of radiotherapy, and suggest appropriate radiation dose adjustments to improve therapeutic effect. Methods: Important relationships between a patient's basic information and their clinical features before and during the radiation treatment are identified from historical clinical data by using statistical learning and data mining approaches. During each treatment period, a data analysis (DA) module predicts radiotherapy features such as time to local progression (TTLP), time to distant metastases (TTDM), radiation toxicity to different organs, etc., under possible future treatment plans based on patient specifics or responses. An information fusion (IF) module estimates intervals for a patient's OS and the probabilities of RIT from a treatment plan by integrating the outcomes of module DA. A decision making (DM) module calculates ?satisfaction? with the predicted radiation outcome based on trade-offs between OS and RIT, and finds the best treatment plan for the next time period via multi-criteria optimization. Results: Using physical and biological data from 130 lung cancer patients as our test bed, we were able to train and implement the 3 modules of our decision support tool. Examples demonstrate how it can help predict a new patient's potential OS and RIT with different radiation dose plans along with how these combinations change with dose, thus presenting a range of satisfaction/utility for use in individualized decision support. Conclusion: Although the decision support tool is currently developed from a small patient sample size, it shows the potential for the improvement of each patient's satisfaction in personalized radiation therapy. The radiation treatment outcome prediction and decision making model needs to be evaluated with more patients and demonstrated for use in radiation treatments for other cancers. P01-CA59827;R01CA142840
-ER  - 
-TY  - JOUR
-T1  - Multi-objective optimization of lithium-ion battery pack casing for electric vehicles: Key role of materials design and their influence
-A1  - Zhang, Yihui
-A1  - Chen, Siqi
-A1  - Shahin, M E
-A1  - Niu, Xiaodong
-A1  - Gao, Liang
-A1  - Chin, C M M
-A1  - Bao, Nengsheng
-A1  - Wang, Chin-Tsan
-A1  - Garg, Akhil
-A1  - Goyal, Ankit
-Y1  - 2020/10//
-KW  - battery pack casing
-KW  - electric vehicle
-KW  - mechanical performance
-KW  - multi-objective optimization
-KW  - resonance
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Energy Research
-VL  - 44
-IS  - 12
-SP  - 9414
-EP  - 9437
-DO  - https://doi.org/10.1002/er.4965
-UR  - https://doi.org/10.1002/er.4965
-N1  - https://doi.org/10.1002/er.4965
-N2  - Summary The battery box is the structure that comprises the battery cells and its casing. It is designed to fix and protect the battery module. During the actual driving, there exists stress and resonance on a battery pack and its outer casing due to external vibration and shock. The safety of an electric vehicle largely depends on the mechanical characteristics of its battery pack. Besides, a lighter weight electric vehicle has a longer driving range, which makes it much more popular in vehicle market. In this paper, a comprehensive design procedure based on multi-objective optimization and experiments is applied to compare the maximum equivalent stress and resonance frequency on a battery pack casing with different materials (DC01 steel, aluminum 6061, copper C22000, and carbon nanotube [CNT]) under bumpy road, sharp turns, and sudden braking conditions to obtain the best material. Moreover, CNT is proved to be the best material considering all the performance standards. Response surface optimization design method is adopted to get an optimal design of the battery pack casing. Optimization results conclude that the maximum equivalent stress can be reduced from 3.9243 to 3.2363 MPa, and the six-order resonance frequency can be increased from 722.65 to 788.71 Hz. Experiments are carried to validate the mechanical performance of the optimal design; the deviation between the simulation and experimental results is within the tolerance.
-ER  - 
-TY  - JOUR
-T1  - Towards polypotent natural products: The Derringer desirability approach and nonparametric ranking for multicriteria evaluation of essential oils
-A1  - Andrić, Filip Lj.
-Y1  - 2018/10//
-KW  - essential oils
-KW  - multiobjective optimization
-KW  - natural products
-KW  - polypotency
-KW  - sum of ranking differences
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Chemometrics
-VL  - 32
-IS  - 10
-SP  - e3050
-EP  - e3050
-DO  - https://doi.org/10.1002/cem.3050
-UR  - https://doi.org/10.1002/cem.3050
-N1  - https://doi.org/10.1002/cem.3050
-N2  - Abstract Chemical complexity of natural products often results in their pharmacological polypotency. However, selecting a natural product with desirable activity profile is not a straightforward task, especially if optimization of one feature results in deterioration of other facets. Recently, in the field of multiobjective optimization, the sum of ranking differences (SRD) has emerged as a simple and statistically sound method for fusion of multiple criteria. However, the data pretreatment seems to strongly influence the ranking outcome, which may lead to ambiguous or even false interpretations. Therefore, in the present study, the data of 55 essential oils originated from different plant species and tested on multiple bacterial and fungal strains as well as 4 antioxidative assays were studied. Essential oils were ranked using the classical Deringer desirability approach, and results were compared with the SRD analysis of primary activity data as well as the previously row-wise standardized data, normalized data, and the data scaled to fit the preferences. Ultimately, the most promising candidate (polypotent) essential oils, as well as the most resilient and most sensitive bacterial and fungal strains, and antioxidative assays were identified. Data transformation based on the Deringer desirability approach, compared with the data that have not been previously transformed or those that transformed using a row-wise standardization or normalization to the unit length vector, seemed to be the crucial step providing the sound and meaningful SRD ranking.
-ER  - 
-TY  - JOUR
-T1  - NeuroEvolution of Augmenting Topologies for predicting financial distress: A multicriteria decision analysis
-A1  - Belhaj Slimene, Senda
-A1  - Mamoghli, Chokri
-Y1  - 2019/09//
-KW  - adaptive boosting
-KW  - bankruptcy prediction
-KW  - credit scoring
-KW  - decision trees
-KW  - finance decision making
-KW  - multicriteria analysis
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 26
-IS  - 5-6
-SP  - 320
-EP  - 328
-DO  - https://doi.org/10.1002/mcda.1669
-UR  - https://doi.org/10.1002/mcda.1669
-N1  - https://doi.org/10.1002/mcda.1669
-N2  - Abstract This paper introduces a novel approach based on NeuroEvolution of Augmenting Topologies to early predict financial distress of Tunisian companies using an important number of inputs. Our sample covers the period of the Jasmin Revolution that led to an increase of the number of bankruptcies, making early previsions even more difficult. Furthermore, we aim to identify the factors that explain financial distress as our approach does not need a process of preselection. All the financial ratios will be used as inputs for the model, and only the ratios with the highest threshold value will remain in the final classifier. To test the accuracy of our model, we will compute a linear discriminant analysis to compare the previsions of the two approaches. Results show that our approach outperforms the traditional one.
-ER  - 
-TY  - JOUR
-T1  - The Expert Perspective in Treatment of Functional Gastrointestinal Conditions: A Multi-Criteria Decision Analysis Using AHP and BWS
-A1  - Mühlbacher, Axel C
-A1  - Kaczynski, Anika
-Y1  - 2016/05//
-KW  - analytic hierarchy process (AHP)
-KW  - best–worst scaling (BWS)
-KW  - experts priorities
-KW  - gastrointestinal disorders
-KW  - item-response system
-KW  - multi criteria decision making
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 23
-IS  - 3-4
-SP  - 112
-EP  - 125
-DO  - https://doi.org/10.1002/mcda.1562
-UR  - https://doi.org/10.1002/mcda.1562
-N1  - https://doi.org/10.1002/mcda.1562
-N2  - Abstract Objectives The aim of this study was to identify and weight the expert's relevant decision criteria with regard to drug treatment of functional dyspepsia and motility disorders. Attributes such as onset of action, reduction of symptoms and side effects were to be examined in order to test their relevance to healthcare decision makers. Moreover, the objective was to verify the extent to which the analytic hierarchy process (AHP) and best?worst scaling (BWS) are suitable for use in context of an expert panel. Method In order to identify patient-relevant therapy characteristics, a literature search and qualitative interviews were conducted. On this basis, a questionnaire was developed using multi-criteria decision analysis. By means of the AHP and BWS, the study elicited the experts' priorities as regards the various aspects of treatments and gastrointestinal symptoms. The data collection from experts in gastroenterology was performed in real time within a group discussion using an item-response system. Results As a result of the interviews, seven characteristics and 10 symptoms were established. A total of N?=?20 experts took part in the survey. The following criteria were shown to be the most relevant in the AHP: ?reduction of abdominal cramps? (w: 0.302), ?reduction of epigastric pain? (w: 0.250) and ?time to onset of action? (w: 0.117). In the BWS, it was shown that the gastrointestinal symptoms ?vomiting? (sqrt(b/w): 0.118), ?abdominal cramps? (sqrt(b/w): 0.157) and ?epigastric pain? (sqrt(b/w): 0.356) were the most significant. Discussion The methods represent a suitable and scientifically transparent approach for the elicitation of experts' priorities. Using AHP, it was possible to ascertain the most important aspects of drug treatment and to correlate positive and negative characteristics. The BWS showed which gastrointestinal symptoms had the least and most pronounced negative impact on patient well-being from expert perspective. The item-response system served as a valuable instrument to collect data based on a group discussion. Copyright ? 2016 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
 T1  - Sensitivity analysis and multiobjective design optimization of flux switching permanent magnet motor using MLP-ANN modeling and NSGA-II algorithm
 A1  - Mahmouditabar, Farshid
 A1  - Vahedi, Abolfazl
-A1  - Mosavi, Mohammad R
-A1  - Bafghi, Mohammad H B
+A1  - Mosavi, Mohammad R.
+A1  - Bafghi, Mohammad H.B.
 Y1  - 2020/09//
 KW  - DOE
 KW  - FEM
@@ -137,416 +17,219 @@ VL  - 30
 IS  - 9
 SP  - e12511
 EP  - e12511
-DO  - https://doi.org/10.1002/2050-7038.12511
+DO  - 10.1002/2050-7038.12511
 UR  - https://doi.org/10.1002/2050-7038.12511
 N1  - https://doi.org/10.1002/2050-7038.12511
-N2  - Summary The flux switching permanent magnet (FSPM) motor is relatively a new topology of the permanent magnet (PM) motors, which both PM and armature winding are placed at the stator. This feature leads to more robust design, better heat dissipation, and a proper option for a wide range of industrial applications. The critical part of the development of FSPM motor is the design optimization of the structure to improve the electromagnetic performance of the motor. In this article, first to reduce the computation time and required memory of the optimization procedure, the multiobjective sensitivity analysis based on design of experiment is performed to specify the most effective parameters on the objectives. Then, the initial samples data of the optimization procedure is obtained by 2D finite element method (FEM) model of the FSPM motor, which is validated by the prototype of the motor. Furthermore, based on FEM results the multilayers perceptron artificial neural network for the approximation of relation between design variables and objectives is implemented. Finally, using the nondominated sorting genetic algorithm-II, the optimization procedure of the FSPM motor is done. The accuracy of the presented optimization procedure is validated by a comparison of the initial prototype and final design of the motor.
+N2  - The flux switching permanent magnet (FSPM) motor is relatively a new topology of the permanent magnet (PM) motors, which both PM and armature winding are placed at the stator. This feature leads to more robust design, better heat dissipation, and a proper option for a wide range of industrial applications. The critical part of the development of FSPM motor is the design optimization of the structure to improve the electromagnetic performance of the motor. In this article, first to reduce the computation time and required memory of the optimization procedure, the multiobjective sensitivity analysis based on design of experiment is performed to specify the most effective parameters on the objectives. Then, the initial samples data of the optimization procedure is obtained by 2D finite element method (FEM) model of the FSPM motor, which is validated by the prototype of the motor. Furthermore, based on FEM results the multilayers perceptron artificial neural network for the approximation of relation between design variables and objectives is implemented. Finally, using the nondominated sorting genetic algorithm-II, the optimization procedure of the FSPM motor is done. The accuracy of the presented optimization procedure is validated by a comparison of the initial prototype and final design of the motor.
 ER  - 
 TY  - JOUR
-T1  - Approaches to Pythagorean Fuzzy Stochastic Multi-criteria Decision Making Based on Prospect Theory and Regret Theory with New Distance Measure and Score Function
-A1  - Peng, Xindong
-A1  - Dai, Jingguo
-Y1  - 2017/11//
+T1  - Alternative approach for learning and improving the MCDA method PROAFTN
+A1  - Al-Obeidat, Feras
+A1  - Belacel, Nabil
+Y1  - 2011/05//
 PB  - John Wiley & Sons, Ltd
 JF  - International Journal of Intelligent Systems
-VL  - 32
-IS  - 11
-SP  - 1187
-EP  - 1214
-DO  - https://doi.org/10.1002/int.21896
-UR  - https://doi.org/10.1002/int.21896
-N1  - https://doi.org/10.1002/int.21896
-N2  - Abstract In this paper, we initiate a new axiomatic definition of Pythagorean fuzzy distance measure, which is expressed by Pythagorean fuzzy number that will reduce the information loss and remain more original information. Then, the objective weights of various criteria are determined via grey system theory. Combining objective weights with subjective weights, we present the combined weights, which can reflect both the subjective considerations of the decision maker and the objective information. Meanwhile, a novel score function is proposed. Later, we present two algorithms to solve stochastic multicriteria decision making problem, which takes prospect preference and regret aversion of decision makers into consideration in the decision process. Finally, the effectiveness and feasibility of approach is demonstrated by a numerical example.
-ER  - 
-TY  - JOUR
-T1  - Linguistic Discriminative Aggregation in Multicriteria Decision Making
-A1  - Aggarwal, Manish
-Y1  - 2016/06//
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Intelligent Systems
-VL  - 31
-IS  - 6
-SP  - 529
-EP  - 555
-DO  - https://doi.org/10.1002/int.21793
-UR  - https://doi.org/10.1002/int.21793
-N1  - https://doi.org/10.1002/int.21793
-N2  - Several new aggregation operators are proposed in the context of multicriteria decision making (MCDM) in the linguistic domain. The proposed operators first infer the discrimination index, based on the extent of variability in the various linguistic evaluations against a criterion. This value is then utilized in the actual aggregation step to discriminate among the alternatives. Besides, the proposed operators also take into account the a priori weights associated with the criteria. The proposed concepts are illustrated through an example in group MCDM.
-ER  - 
-TY  - JOUR
-T1  - Multiobjective optimization strategy based on desirability functions used for the microemulsion liquid chromatographic separation and quantification of norfloxacin and tinidazole in plasma and formulations
-A1  - Abou-Taleb, Noura Hemdan
-A1  - El-Wasseef, Dalia Rashad
-A1  - El-Sherbiny, Dina Tawfik
-A1  - El-Ashry, Saadia Mohamed
-Y1  - 2015/03//
-KW  - Derringer's desirability function
-KW  - Fractional factorial design
-KW  - Microemulsion liquid chromatography
-KW  - Norfloxacin
-KW  - Tinidazole
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Separation Science
-VL  - 38
-IS  - 6
-SP  - 901
-EP  - 908
-DO  - https://doi.org/10.1002/jssc.201401203
-UR  - https://doi.org/10.1002/jssc.201401203
-N1  - https://doi.org/10.1002/jssc.201401203
-N2  - The aim of the present study was to optimize a microemulsion liquid chromatography method for the simultaneous determination of norfloxacin and tinidazole binary mixture using a chemometric protocol. Optimization experiments were conducted through a process of screening and optimization. A 27-4 fractional factorial design was used as screening design. While the location of optimum conditions was established by applying Derringer's desirability function. The optimal mobile phase composition was predicted to be: 3.5% w/v SDS, 10.03% v/v 1-propanol, 0.5% v/v 1-octanol, and 0.3% triethylamine in 0.02 M phosphoric acid at pH 6.5. The mobile phase was delivered isocratically at a flow rate of 1 mL/min with UV detection at 290 nm. Tinidazole and norfloxacin were eluted with retention times of 1.8 and 5.8 min, respectively. The calibration plots displayed good linear relationships in the concentration ranges of 0.5?50 and 0.75?75 ?g/mL for norfloxacin and tinidazole, respectively. The method was successfully applied for determination of both drugs in pharmaceutical dosage forms and real human plasma. Where the accuracy was proved by the low values of % error and high values of recovery, also the relative standard deviation for the results did not exceed 1.5%, proving the precision of the method.
-ER  - 
-TY  - JOUR
-T1  - Accelerated multiobjective design of miniaturized microwave components by means of nested kriging surrogates
-A1  - Pietrenko-Dabrowska, Anna
-A1  - Koziel, Slawomir
-Y1  - 2020/04//
-KW  - EM-driven design
-KW  - microwave design
-KW  - miniaturized components
-KW  - multiobjective optimization
-KW  - nested kriging
-KW  - surrogate modeling
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of RF and Microwave Computer-Aided Engineering
-VL  - 30
-IS  - 4
-SP  - e22124
-EP  - e22124
-DO  - https://doi.org/10.1002/mmce.22124
-UR  - https://doi.org/10.1002/mmce.22124
-N1  - https://doi.org/10.1002/mmce.22124
-N2  - Abstract Design of microwave components is an inherently multiobjective task. Often, the objectives are at least partially conflicting and the designer has to work out a suitable compromise. In practice, generating the best possible trade-off designs requires multiobjective optimization, which is a computationally demanding task. If the structure of interest is evaluated through full-wave electromagnetic (EM) analysis, the employment of widely used population-based metaheuristics algorithms may become prohibitive in computational terms. This is a common situation for miniaturized components, where considerable cross-coupling effects make traditional representations (eg, network equivalents) grossly inaccurate. This article presents a framework for accelerated EM-driven multiobjective design of compact microwave devices. It adopts a recently reported nested kriging methodology to identify the parameter space region containing the Pareto front and to render a fast surrogate, subsequently used to find the first approximation of the Pareto set. The final trade-off designs are produced in a separate, surrogate-assisted refinement process. Our approach is demonstrated using a three-section impedance matching transformer designed for the best matching and the minimum footprint area. The Pareto set is generated at the cost of only a few hundred of high-fidelity EM simulations of the transformer circuit despite a large number of geometry parameters involved.
-ER  - 
-TY  - JOUR
-T1  - Finite-state model predictive control of NPC inverter using multi-criteria fuzzy decision-making
-A1  - Kumar, Vikas
-A1  - Gaur, Prerna
-A1  - Mittal, Alok Prakash
-Y1  - 2015/05//
-KW  - fuzzy decision functions
-KW  - multi-criteria decision-making and multi-objective
-KW  - neutral point clamped inverter
-KW  - predictive control
-PB  - John Wiley & Sons, Ltd
-JF  - International Transactions on Electrical Energy Systems
-VL  - 25
+VL  - 26
 IS  - 5
-SP  - 876
-EP  - 897
-DO  - https://doi.org/10.1002/etep.1880
-UR  - https://doi.org/10.1002/etep.1880
-N1  - https://doi.org/10.1002/etep.1880
-N2  - Summary In this paper, the multiple objectives optimization problem in a finite-state model predictive control (FS-MPC) is formulated using fuzzy multi-criteria decision-making. Conventionally, to optimize the multiple objectives in a FS-MPC, the aggregate objective function or a single cost function is constructed, which requires the weighting factor tuning to select the appropriate switching state. Determination of these weighting factors for a particular objective function is a complex and time-consuming task as no systematic procedure is available in literature. The main aim of this paper is to replace the time-consuming task of weighting factor tuning by a simple and systematic procedure, which relies on the relative importance of the individual objective functions. The relative importance of objective functions derived from the expert's knowledge and the desired control objectives is used for appropriate switching state selection. The method is validated with the help of simulation results of a neutral point clamped inverter for the multiple objectives viz. reference current tracking, capacitor voltage balance and switching frequency minimization. The result outcomes of the proposed methodology are compared with the conventional FS-MPC and space vector pulse width modulation based current control schemes. Copyright ? 2014 John Wiley & Sons, Ltd.
+SP  - 444
+EP  - 463
+DO  - 10.1002/int.20476
+UR  - https://doi.org/10.1002/int.20476
+N1  - https://doi.org/10.1002/int.20476
+N2  - The objectives of this paper are (1) to propose new techniques to learn and improve the multicriteria decision analysis (MCDA) method PROAFTN based on machine learning approaches and (2) to compare the performance of the developed methods with other well-known machine learning classification algorithms. The proposed learning methods consist of two stages: The first stage involves using the discretization techniques to obtain the required parameters for the PROAFTN method, and the second stage is the development of a new inductive approach to construct PROAFTN prototypes for classification. The comparative study is based on the generated classification accuracy of the algorithms on the data sets. For further robust analysis of the experiments, we used the Friedman statistical measure with the corresponding post hoc tests. The proposed approaches significantly improved the performance of the classification method PROAFTN. Based on the generated results on the same data sets, PROAFTN outperforms widely used classification algorithms. Furthermore, the method is simple, no preprocessing is required, and no loss of information during learning. © 2011 Wiley Periodicals, Inc.
 ER  - 
 TY  - JOUR
-T1  - An outranking method for multicriteria decision making with probabilistic hesitant information
-A1  - Li, Jian
-A1  - Chen, Qiongxia
-Y1  - 2020/06//
-KW  - ELECTRE
-KW  - Hausdorff distance
-KW  - multicriteria decision making
-KW  - outranking relation
-KW  - probabilistic hesitant fuzzy set
-PB  - John Wiley & Sons, Ltd
+T1  - Workforce/Population, Economy, Infrastructure, Geography, Hierarchy, and Time (WEIGHT): Reflections on the Plural Dimensions of Disaster Resilience
+A1  - Santos, Joost
+A1  - Yip, Christian
+A1  - Thekdi, Shital
+A1  - Pagsuyoin, Sheree
+Y1  - 2020///
+KW  - Disaster risk assessment
+KW  - disaster risk management
+KW  - engineering analytics
+KW  - resilience
+PB  - Wiley Online Library
+JF  - Risk Analysis
+VL  - 40
+IS  - 1
+SP  - 43
+EP  - 67
+DO  - 10.1111/risa.13186
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13186
+N1  - Cited By (since 2020): 4
+N2  - The concept of resilience and its relevance to disaster risk management has increasingly gained attention in recent years. It is common for risk and resilience studies to model system recovery by analyzing a single or aggregated measure of performance, such as economic output or system functionality. However, the history of past disasters and recent risk literature suggest that a single-dimension view of relevant systems is not only insufficient, but can compromise the ability to manage risk for these systems. In this article, we explore how multiple dimensions influence the ability for complex systems to function and effectively recover after a disaster. In particular, we compile evidence from the many competing resilience perspectives to identify the most critical resilience dimensions across several academic disciplines, applications, and disaster events. The findings demonstrate the need for a conceptual framework that decomposes resilience into six primary dimensions: workforce/population, economy, infrastructure, geography, hierarchy, and time (WEIGHT). These dimensions are not typically addressed holistically in the literature; often they are either modeled independently or in piecemeal combinations. The current research is the first to provide a comprehensive discussion of each resilience dimension and discuss how these dimensions can be integrated into a cohesive framework, suggesting that no single dimension is sufficient for a holistic analysis of a disaster risk management. Through this article, we also aim to spark discussions among researchers and policymakers to develop a multicriteria decision framework for evaluating the efficacy of resilience strategies. Furthermore, the WEIGHT dimensions may also be used to motivate the generation of new approaches for data analytics of resilience-related knowledge bases.
+ER  - 
+TY  - JOUR
+T1  - Development of optimal water supply plan using integrated fuzzy Delphi and fuzzy ELECTRE III methods—Case study of the Gamasiab basin
+A1  - Noori, Amir
+A1  - Bonakdari, Hossein
+A1  - Morovati, Khosro
+A1  - Gharabaghi, Bahram
+Y1  - 2020///
+KW  - basin
+KW  - fuzzy Delphi
+KW  - fuzzy ELECTRE III
+KW  - group decision-making
+KW  - optimal water supply
+KW  - water resources
+PB  - Wiley Online Library
 JF  - Expert Systems
 VL  - 37
-IS  - 3
-SP  - e12513
-EP  - e12513
-DO  - https://doi.org/10.1111/exsy.12513
-UR  - https://doi.org/10.1111/exsy.12513
-N1  - https://doi.org/10.1111/exsy.12513
-N2  - Abstract Defects of hesitant fuzzy set (HFS) manifest in actual decision-making process, so adding probabilities to the values in HFS is necessary. The probabilistic HFS (PHFS) is a useful tool to describe the uncertainty of elements in HFS by introducing occurrence probabilities. However, some important issues in PHFS utilization remain to be addressed. In this study, an outranking method for multicriteria decision making (MCDM) with probabilistic hesitant information is presented. First, the binary relations between two probabilistic hesitant fuzzy elements (PHFEs) are defined on the basis of the elimination and choice translating reality method. Some outranking relations between the alternatives are then introduced. Second, we provide a Hausdorff distance between two PHFEs. The main characteristic of the proposed Hausdorff distance is that it does not require the same length and arrangement of the PHFEs. Third, a maximizing Hausdorff distance deviation method is developed to obtain the evaluation criteria weights under a probabilistic hesitant fuzzy environment. Finally, an illustrative example in conjunction with comparative analysis is used to demonstrate that the proposed method is feasible for practical MCDM problems.
-ER  - 
-TY  - JOUR
-T1  - A web-based group decision support system for multicriteria problems
-A1  - Conceição, Luís
-A1  - Martinho, Diogo
-A1  - Andrade, Rui
-A1  - Carneiro, João
-A1  - Martins, Constantino
-A1  - Marreiros, Goreti
-A1  - Novais, Paulo
-Y1  - 2019/04//
-KW  - automatic negotiation
-KW  - group decision making
-KW  - group decision support systems
-KW  - multiagent systems
-PB  - John Wiley & Sons, Ltd
-JF  - Concurrency and Computation: Practice and Experience
-VL  - n/a
-IS  - n/a
-SP  - e5298
-EP  - e5298
-DO  - https://doi.org/10.1002/cpe.5298
-UR  - https://doi.org/10.1002/cpe.5298
-N1  - https://doi.org/10.1002/cpe.5298
-N2  - Summary One of the most important factors to determine the success of an organization is the quality of decisions made. Supporting a decision-making process is a complex task, mainly when decision-makers are dispersed. Group decision support systems (GDSSs) have been studied over the last decades with the goal of providing support to decision-makers; however, their acceptance by organizations has been difficult. This happens mostly due to usability problems, loss of interaction between decision-makers, and consequently, loss of information. In this work, we present a web-based GDSS developed to support groups of decision-makers, regardless of their geographic location. The system allows the creation of multicriteria problems and the configuration of the preferences, intentions, and interests of each decision-maker. The presented system uses a multiagent system to combine and process this information, using virtual agents that represent each decision-maker. We believe that, with this approach, we will proceed in the refinements of a successful GDSS to correctly support decision-makers while preserving the valuable intelligence and knowledge that can be generated in face-to-face meetings. Furthermore, the high level of usability that the system provides will contribute to an easier acceptance and adoption of this kind of systems.
-ER  - 
-TY  - JOUR
-T1  - Evaluation of aerobic/anaerobic industrial wastewater treatment processes: The application of multi-criteria decision analysis
-A1  - Saghafi, Sahar
-A1  - Ebrahimi, Atieh
-A1  - Mehrdadi, Naser
-A1  - Bidhendy, Gholamreza Nabi
-Y1  - 2019/09//
-KW  - Vikor method
-KW  - hybrid biological process
-KW  - industrial wastewater
-KW  - intergraded fixed-film activated sludge
-KW  - multi-criteria decision-making
-PB  - John Wiley & Sons, Ltd
-JF  - Environmental Progress & Sustainable Energy
-VL  - 38
 IS  - 5
-SP  - 13166
-EP  - 13166
-DO  - https://doi.org/10.1002/ep.13166
-UR  - https://doi.org/10.1002/ep.13166
-N1  - https://doi.org/10.1002/ep.13166
-N2  - Various technological methods are available for industrial wastewater treatment; from conventional to advanced treatment processes. Hence, it is a difficult task to select the most appropriate technology to treat industrial wastewater at a particular location. Many factors are involved in the decision-making process, including capital, operation, and maintenance costs, as well as land requirement. The present work reports the results of the application of multiple-attribute decision-making (MADM) tool to industrial wastewater treatment plants operated under a hybrid aerobic/anaerobic biological process. At the first step, nine industrial wastewater treatment plants were evaluated and ranked by eight criteria using the Vikor method. Among the selected criteria, land requirements, energy consumption, and excess sludge production had the most pronounced effect on the decision-making process. The results also indicated that the integration of upflow anaerobic fixed bed with intergraded fixed-film activated sludge process could be used as the most appropriate treatment technology with a Vikor index of one. The result can provide wastewater treatment professionals and water agencies with an effective tool to choose the most appropriate hybrid process for industrial wastewater treatment plants. ? 2019 American Institute of Chemical Engineers Environ Prog, 38:e13146, 2019
+DO  - 10.1111/exsy.12568
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12568
+N1  - Cited By (since 2020): 1
+N2  - This paper presents a novel method for the development of an optimal water supply plan showcased using data from the Gamasiab basin, located in Kermanshah province, Iran, concerning new dams that are being constructed in this semi-arid region. In this paper, a new group multi-criteria decision-making (MCDM) plan is proposed by combining two MCDM methods based on the fuzzy Delphi and fuzzy ELECTRE III methods that convert the experts' opinions to triangular fuzzy numbers based on the level of uncertainty associated with various quantitative and qualitative criteria. Considering the opinions of four non-stakeholder experts and data analysis using the fuzzy Delphi method, the criteria were evaluated. Then, by analysing the results using the fuzzy ELECTRE III method, the final ranking of scenarios is obtained. A sensitivity analysis was conducted to assess the effect of uncertainty on the performance of the decision-making system in scenarios ranking. The total expense, flood control, reservoir capacity and diversion and water transfer played a significant role in selecting the optimal scenario. Additionally, a hydrologic model was developed to evaluate the performance of the optimal scenario in terms of qualitative criteria. The data indicated that there was a good agreement between the results obtained from the hydrological model and the scenario ranking by the employed method. Altogether, a comparison of the proposed method with other MCDM methods, including fuzzy analytic hierarchy process and fuzzy technique for order preference by simulation of ideal solution, indicated that the results of the employed method matched more closely to the local experts' opinion.
 ER  - 
-TY  - CONF
-T1  - A heuristic approach to the multicriteria design of IaaS cloud infrastructures for Big Data applications
-A1  - Arostegi, María
-A1  - Torre-Bastida, Ana
-A1  - Bilbao, Miren Nekane
-A1  - Del Ser, Javier
-Y1  - 2018/10//
-KW  - Big Data
-KW  - Cloud Computing
-KW  - IaaS
-KW  - NSGA-II
-KW  - multiobjective heuristics
-PB  - Blackwell Publishing Ltd
-JF  - Expert Systems
-VL  - 35
+TY  - JOUR
+T1  - Equivalence analysis to support environmental safety assessment: Using nontarget organism count data from field trials with cisgenically modified potato
+A1  - van der Voet, Hilko
+A1  - Goedhart, Paul W.
+A1  - Lazebnik, Jenny
+A1  - Kessel, Geert J.T.
+A1  - Mullins, Ewen
+A1  - van Loon, Joop J.A.
+A1  - Arpaia, Salvatore
+Y1  - 2019/03//
+KW  - environmental risk assessment
+KW  - equivalence test
+KW  - hierarchical analysis
+KW  - limit of concern
+KW  - multicriteria decision analysis
+KW  - overdispersed Poisson
+PB  - John Wiley & Sons, Ltd
+JF  - Ecology and Evolution
+VL  - 9
 IS  - 5
-DO  - 10.1111/exsy.12259
-N2  - The rapid growth of new computing paradigms such as Cloud Computing and Big Data has unleashed great opportunities for companies to shift their business model towards a fully digital strategy. A major obstacle in this matter is the requirement of highly specialized ICT infrastructures that are expensive and difficult to manage. It is at this point that the IaaS (infrastructure as a service) model offers an efficient and cost-affordable solution to supply companies with their required computing resources. In the Big Data context, it is often a hard task to design an optimal IaaS solution that meets user requirements. In this context, we propose a methodology to optimize the definition of IaaS cloud models for hosting Big Data platforms, following a threefold criterion: cost, reliability, and computing capacity. Specifically, the proposed methodology hinges on evolutionary heuristics in order to find IaaS configurations in the cloud that optimally balance such objectives. We also define measures to quantify the aforementioned metrics over a Big Data platform hosted within an IaaS cloud model. The proposed method is validated by using real information from three IaaS providers and three Big Data platforms. The obtained results provide an insightful input for system managers when initially designing cloud infrastructures for Big Data applications.
+SP  - 2863
+EP  - 2882
+DO  - 10.1002/ece3.4964
+UR  - https://doi.org/10.1002/ece3.4964
+N1  - https://doi.org/10.1002/ece3.4964
+N2  - This paper considers the statistical analysis of entomological count data from field experiments with genetically modified (GM) plants. Such trials are carried out to assess environmental safety. Potential effects on nontarget organisms (NTOs), as indicators of biodiversity, are investigated. The European Food Safety Authority (EFSA) gives broad guidance on the environmental risk assessment (ERA) of GM plants. Field experiments must contain suitable comparator crops as a benchmark for the assessment of designated endpoints. In this paper, a detailed protocol is proposed to perform data analysis for the purpose of assessing environmental safety. The protocol includes the specification of a list of endpoints and their hierarchical relations, the specification of intended levels of data analysis, and the specification of provisional limits of concern to decide on the need for further investigation. The protocol emphasizes a graphical representation of estimates and confidence intervals for the ratio of mean abundances for the GM plant and its comparator crop. Interpretation relies mainly on equivalence testing in which confidence intervals are compared with the limits of concern. The proposed methodology is illustrated with entomological count data resulting from multiyear, multilocation field trials. A cisgenically modified potato line (with enhanced resistance to late blight disease) was compared to the original conventional potato variety in the Netherlands and Ireland in two successive years (2013, 2014). It is shown that the protocol encompasses alternative schemes for safety assessment resulting from different research questions and/or expert choices. Graphical displays of equivalence testing at several hierarchical levels and their interpretation are presented for one of these schemes. The proposed approaches should be of help in the ERA of GM or other novel plants.
 ER  - 
 TY  - JOUR
-T1  - Multi-Objective Molecular De Novo Design by Adaptive Fragment Prioritization
-A1  - Reutlinger, Michael
-A1  - Rodrigues, Tiago
-A1  - Schneider, Petra
-A1  - Schneider, Gisbert
-Y1  - 2014/04//
-KW  - GPCR
-KW  - computer-assisted drug design
-KW  - machine learning
-KW  - polypharmacology
-KW  - reductive amination
+T1  - Utilization of machine-learning algorithms for wind turbine site suitability modeling in Iowa, USA
+A1  - Petrov, Andrey N.
+A1  - Wessling, Jordan M.
+Y1  - 2015/04//
+KW  - machine-learning
+KW  - multicriteria decision making
+KW  - spatial modeling
+KW  - turbine site suitability
+KW  - wind energy
 PB  - John Wiley & Sons, Ltd
-JF  - Angewandte Chemie International Edition
-VL  - 53
-IS  - 16
-SP  - 4244
-EP  - 4248
-DO  - https://doi.org/10.1002/anie.201310864
-UR  - https://doi.org/10.1002/anie.201310864
-N1  - https://doi.org/10.1002/anie.201310864
-N2  - Abstract We present the development and application of a computational molecular de novo design method for obtaining bioactive compounds with desired on- and off-target binding. The approach translates the nature-inspired concept of ant colony optimization to combinatorial building block selection. By relying on publicly available structure?activity data, we developed a predictive quantitative polypharmacology model for 640 human drug targets. By taking reductive amination as an example of a privileged reaction, we obtained novel subtype-selective and multitarget-modulating dopamine D4 antagonists, as well as ligands selective for the sigma-1 receptor with accurately predicted affinities. The nanomolar potencies of the hits obtained, their high ligand efficiencies, and an overall success rate of 90?% demonstrate that this ligand-based computer-aided molecular design method may guide target-focused combinatorial chemistry.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria-based Plant Species Selection for Gully and Riverbank Stabilization in a Sub-humid Tropical Area
-A1  - Talema, Ayalew
-A1  - Poesen, Jean
-A1  - Muys, Bart
-A1  - Reubens, Bert
-A1  - Dibaba, Hirko
-A1  - Diels, Jan
-Y1  - 2017/07//
-KW  - multi-criteria
-KW  - plant
-KW  - root
-KW  - species
-KW  - stabilization
-PB  - John Wiley & Sons, Ltd
-JF  - Land Degradation & Development
-VL  - 28
-IS  - 5
-SP  - 1675
-EP  - 1686
-DO  - https://doi.org/10.1002/ldr.2699
-UR  - https://doi.org/10.1002/ldr.2699
-N1  - https://doi.org/10.1002/ldr.2699
-N2  - Abstract Selection of appropriate plant species for rehabilitation of degraded lands while fulfilling socio-economic interests of local communities is one of the decision-making challenges. This research was undertaken to select multipurpose trees, shrubs and grasses to stabilize degraded lands in the Gilgel Gibe catchment of Southwest Ethiopia, situated in the sub-humid tropics. Two multi-criteria decision analysis methods, analytical hierarchy process and simple multi-attribute rating technique, integrated in the excel-based multi-criteria tree selection tool, were used. Focus group discussions were held with experts and local communities to prioritize 40 plant species from a preselected regional pool of 129 species, using six criteria groups containing 47 individual criteria. Root characteristics of the top 9 ranked plants were studied for triangulating the multi-criteria decision analysis results. Both local communities and experts gave priority to indigenous trees over shrubs and grasses as the best five species for multipurpose use, whereas the top 5 species prioritized for riverbank stabilization contained both trees and grasses. In contrast, communities preferred indigenous trees, and experts selected grasses as the best five species for gully stabilization. The root system characterization revealed that the five top-ranked multipurpose species also have the required root characteristics for effectively reinforcing unstable slopes. However, communities prefer to plant Eucalyptus and Grevillea trees because of their short-term economic benefits although they understood the multipurpose value of indigenous plants. The trade-off between direct economic benefit and multipurpose benefits could be solved by awareness creation, incentives to communities and policy re-enforcement. Copyright ? 2017 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
-T1  - Defect prediction as a multiobjective optimization problem
-A1  - Canfora, Gerardo
-A1  - Lucia, Andrea De
-A1  - Penta, Massimiliano Di
-A1  - Oliveto, Rocco
-A1  - Panichella, Annibale
-A1  - Panichella, Sebastiano
-Y1  - 2015/06//
-KW  - cost-effectiveness
-KW  - cross-project defect prediction
-KW  - defect prediction
-KW  - multiobjective optimization
-PB  - John Wiley & Sons, Ltd
-JF  - Software Testing, Verification and Reliability
-VL  - 25
+JF  - Wind Energy
+VL  - 18
 IS  - 4
-SP  - 426
-EP  - 459
-DO  - https://doi.org/10.1002/stvr.1570
-UR  - https://doi.org/10.1002/stvr.1570
-N1  - https://doi.org/10.1002/stvr.1570
-N2  - SummaryIn this paper, we formalize the defect-prediction problem as a multiobjective optimization problem. Specifically, we propose an approach, coined as multiobjective defect predictor (MODEP), based on multiobjective forms of machine learning techniques?logistic regression and decision trees specifically?trained using a genetic algorithm. The multiobjective approach allows software engineers to choose predictors achieving a specific compromise between the number of likely defect-prone classes or the number of defects that the analysis would likely discover (effectiveness), and lines of code to be analysed/tested (which can be considered as a proxy of the cost of code inspection). Results of an empirical evaluation on 10 datasets from the PROMISE repository indicate the quantitative superiority of MODEP with respect to single-objective predictors, and with respect to trivial baseline ranking classes by size in ascending or descending order. Also, MODEP outperforms an alternative approach for cross-project prediction, based on local prediction upon clusters of similar classes. Copyright ? 2015?John Wiley & Sons, Ltd.
+SP  - 713
+EP  - 727
+DO  - 10.1002/we.1723
+UR  - https://doi.org/10.1002/we.1723
+N1  - https://doi.org/10.1002/we.1723
+N2  - Because of the current shift away from fossil fuels and toward renewable energy sources, it is necessary to plan for the installation of new infrastructure to meet the demand for clean energy. Traditional methods for determining wind turbine site suitability suffer from the selection of arbitrary criteria and model parameters by experts, which may lead to a degree of uncertainty in the models produced. An alternative empirically based methodology for building a wind turbine siting model for the state of Iowa is presented in the study. We employ 'ecological niche' principles traditionally utilized to model species allocation to develop a new multicriteria, spatially explicit framework for wind turbine placement. Using information on suitability conditions at existing turbine locations, we incorporate seven variables (wind speed, elevation, slope, land cover, distance of infrastructure and settlements, and population density) into two machine-learning algorithms [maximum entropy method (Maxent) and Genetic Algorithm for Rule Set Prediction (GARP)] to model suitable areas for installation of wind turbines. The performance of this method is tested at the statewide level and a six-county region in western Iowa. Maxent and GARP identified areas in the Northwest and North Central regions of Iowa as the optimum location for new wind turbines. Information on variable contributions from Maxent illuminates the relative importance of environmental variables and its scale-dependent nature. It also allows validating existing assumptions about the relationship between variables and wind turbine suitability. The resultant models demonstrate high levels of accuracy and suggest that the presented approach is a possible methodology for developing wind turbine siting applications.
 ER  - 
 TY  - JOUR
-T1  - Development of a Robust Multicriteria Classification Model for Monitoring the Postoperative Behaviour of Heart Patients
-A1  - Doumpos, Michael
-A1  - Xidonas, Panagiotis
-A1  - Xidonas, Sotirios
-A1  - Siskos, Yannis
-Y1  - 2016/01//
-KW  - disaggregation analysis
-KW  - health care
-KW  - multicriteria classification
-KW  - multiple criteria analysis
+T1  - Total ordering for intuitionistic fuzzy numbers
+A1  - Lakshmana Gomathi Nayagam, V.
+A1  - Jeevaraj, S.
+A1  - Geetha, Sivaraman
+Y1  - 2016/11//
+KW  - intuitionistic fuzzy interval number
+KW  - intuitionistic fuzzy number
+KW  - lexicography
+KW  - membership
+KW  - non-membership
+KW  - total ordering
+KW  - trapezoidal intuitionistic fuzzy number
+KW  - upper lower dense sequence
+KW  - vague and imprecise score functions
 PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 23
-IS  - 1-2
-SP  - 15
-EP  - 27
-DO  - https://doi.org/10.1002/mcda.1547
-UR  - https://doi.org/10.1002/mcda.1547
-N1  - https://doi.org/10.1002/mcda.1547
-N2  - Abstract Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia occurring in 2% of the general population, while the assuming projected incidence in 2050 will rise to 4.3%. This paper presents a multicriteria methodology for the development of a model for monitoring the post-operative behaviour of patients who have received treatment for AF. The model classifies the patients in seven categories according to their relapse risk, on the basis of seven criteria related to the AF type and pathology conditions, the treatment received by the patients and their medical history. The analysis is based on an extension of the UTilités Additives DIScriminantes (UTADIS) method, through the introduction of a two-stage model development procedure that minimizes the number and the magnitude of the misclassifications. The analysis is based on a sample of 116 patients who had pulmonary veins isolation in a Greek public hospital. The classification accuracy of the best fitted models scores between 71% and 84%. Copyright ? 2015 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
-T1  - Multicriteria decision making for sustainable development: A systematic review
-A1  - Kandakoglu, Ahmet
-A1  - Frini, Anissa
-A1  - Ben Amor, Sarah
-Y1  - 2019/09//
-KW  - multicriteria decision making or analysis (MCDM/A)
-KW  - sustainable development
-KW  - temporal evaluation
-KW  - uncertainty
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 26
-IS  - 5-6
-SP  - 202
-EP  - 251
-DO  - https://doi.org/10.1002/mcda.1682
-UR  - https://doi.org/10.1002/mcda.1682
-N1  - https://doi.org/10.1002/mcda.1682
-N2  - Abstract Making decisions by integrating social and environmental concerns beyond the financial dimension involves complex decision-making processes in which innovative approaches and best practices need to be implemented. Recently, the literature on decision-making related to sustainable development has grown rapidly, and multiple criteria decision making or analysis (MCDM/A) methods appear to be the most widely used approaches. The general objective of this paper is to provide a systematic review of the literature on the use of MCDM/A in a sustainable development context. We carefully analysed 343 papers dealing with decision-making in sustainable development contexts published in the last 7 years (2010-2017) using MCDM/A methods. Descriptive statistics were provided to highlight the main trends and gaps in the literature, and future research avenues were presented. The results show that although sustainable development strives to achieve a balance between the short and the long term, most articles surveyed did not investigate either the long-term perspective related to sustainable development or the unforeseen events that could impact future project evaluations. Indeed, the need for temporal MCDM/A methods under uncertainty emerges as an important research challenge. In addition, results show that the social dimension was the most frequently ignored dimension. In future research, decision-making processes should closely investigate social well-being and encourage the participation of stakeholders (including the communities affected). Finally, the recent research on sustainability is relatively easy to implement but may not lead to the desired outcome. Future research needs to develop methods that promote sustainability without being overly difficult to implement in practice.
-ER  - 
-TY  - JOUR
-T1  - Evaluating the quality of airport service using the fuzzy multi-criteria decision-making method: a case study of Taiwanese airports
-A1  - Chien-Chang, Chou
-Y1  - 2012/07//
-KW  - MCDM
-KW  - airport
-KW  - expert system
-KW  - fuzzy set
-KW  - service quality
-PB  - John Wiley & Sons, Ltd
-JF  - Expert Systems
-VL  - 29
-IS  - 3
-SP  - 246
-EP  - 260
-DO  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
-UR  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
-N1  - https://doi.org/10.1111/j.1468-0394.2010.00574.x
-N2  - Abstract In today's highly competitive air transportation environment, the quality of airport service is an important issue. In this paper, we present a fuzzy multi-criteria decision-making (MCDM) method for the evaluation of the quality of airport service. The data are collected from the passengers who depart from two international airports in Taiwan. The fuzzy MCDM model is defuzzied using the inverse function arithmetic representation method. The results show that the average quality of the Taoyuan International Airport service is better than that of the Kaohsiung International Airport service. This paper also analyses the quality of airport service using the fuzzy expert system to improve the performance of airport service. The analysis results show that the Kaohsiung International Airport and the Taoyuan International Airports' improvement efforts should be concentrated on seven and five specific service items, respectively. The findings of this paper are to help the decision-makers and the managers of airports improve the quality of airport service.
-ER  - 
-TY  - JOUR
-T1  - Selecting the most suitable classification algorithm for supporting assistive technology adoption for people with dementia: A multicriteria framework
-A1  - Ortiz-Barrios, Miguel
-A1  - Nugent, Chris
-A1  - Cleland, Ian
-A1  - Donnelly, Mark
-A1  - Verikas, Antanas
-Y1  - 2020/01//
-KW  - FAHP
-KW  - TOPSIS
-KW  - assistive technology
-KW  - classifier
-KW  - dementia
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 27
-IS  - 1-2
-SP  - 20
-EP  - 38
-DO  - https://doi.org/10.1002/mcda.1678
-UR  - https://doi.org/10.1002/mcda.1678
-N1  - https://doi.org/10.1002/mcda.1678
-N2  - Abstract The number of people with dementia (PwD) is increasing dramatically. PwD exhibit impairments of reasoning, memory, and thought that require some form of self-management intervention to support the completion of everyday activities while maintaining a level of independence. To address this need, efforts have been directed to the development of assistive technology solutions, which may provide an opportunity to alleviate the burden faced by the PwD and their carers. Nevertheless, uptake of such solutions has been limited. It is therefore necessary to use classifiers to discriminate between adopters and nonadopters of these technologies in order to avoid cost overruns and potential negative effects on quality of life. As multiple classification algorithms have been developed, choosing the most suitable classifier has become a critical step in technology adoption. To select the most appropriate classifier, a set of criteria from various domains need to be taken into account by decision makers. In addition, it is crucial to define the most appropriate multicriteria decision-making approach for the modelling of technology adoption. Considering the above-mentioned aspects, this paper presents the integration of a five-phase methodology based on the Fuzzy Analytic Hierarchy Process and the Technique for Order of Preference by Similarity to Ideal Solution to determine the most suitable classifier for supporting assistive technology adoption studies. Fuzzy Analytic Hierarchy Process is used to determine the relative weights of criteria and subcriteria under uncertainty and Technique for Order of Preference by Similarity to Ideal Solution is applied to rank the classifier alternatives. A case study considering a mobile-based self-management and reminding solution for PwD is described to validate the proposed approach. The results revealed that the best classifier was k-nearest-neighbour with a closeness coefficient of 0.804, and the most important criterion when selecting classifiers is scalability. The paper also discusses the strengths and weaknesses of each algorithm that should be addressed in future research.
-ER  - 
-TY  - JOUR
-T1  - A model-based process to improve robustness in Multicriteria Decision Aiding interventions
-A1  - Norese, Maria Franca
-Y1  - 2016/09//
-KW  - decision aiding
-KW  - interaction between analyst and decision system
-KW  - modelling
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 23
-IS  - 5-6
-SP  - 183
-EP  - 196
-DO  - https://doi.org/10.1002/mcda.1597
-UR  - https://doi.org/10.1002/mcda.1597
-N1  - https://doi.org/10.1002/mcda.1597
-N2  - Abstract A model-based process is a methodological approach that facilitates interventions in new and ill or not structured problem situations. It is oriented towards improving the robustness of the intervention and its results in an incremental definition of both the problem formulation and the model, in order to reduce the uncertainty that is not only associated with the model parameters but also with the model structure, and sometimes also with the problem formulation. The nature and results of this approach, which consider the interaction between an analyst and the actors of the decision system as the decision aiding core, are proposed in relation to some actual interventions.
-ER  - 
-TY  - JOUR
-T1  - Managing system obsolescence via multicriteria decision making
-A1  - Adetunji, Oluwatomi
-A1  - Bischoff, John
-A1  - Willy, Christopher J
-Y1  - 2018/07//
-KW  - AS02 government
-KW  - SEE11 decision analysis/management
-KW  - SEE17 logistics/supportability
-KW  - defense and security
-PB  - John Wiley & Sons, Ltd
-JF  - Systems Engineering
+JF  - Complexity
 VL  - 21
-IS  - 4
-SP  - 307
-EP  - 321
-DO  - https://doi.org/10.1002/sys.21436
-UR  - https://doi.org/10.1002/sys.21436
-N1  - https://doi.org/10.1002/sys.21436
-N2  - Abstract Obsolescence occurs when system elements become outdated, and it leads to operational, logistical, reliability, and cost implications. In the U.S. military, this problem is a result of the U.S. Department of Defense's (DoD) departure from Military Specification (MILSPEC) standards in 1994 and transition to the use of Commercial Off the Shelf products. Obsolescence costs the DoD more than $750 million annually. The current risk management tools for obsolescence are based on a quantitative approach that uses cost optimization, and expert judgment is not used as a critical criterion. A review of the literature has revealed that during the design phase of technological systems, there is limited knowledge and a lack of training associated with mitigating obsolescence, and multicriteria decision-making (MCDM) methods are not currently used to mitigate the risk of obsolescence. Thus, the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS, which is a MCDM method) and Monte Carlo simulations are proposed as the foundation for this work. This paper adds to the methodology by introducing an expert judgment criterion. A case study was conducted using military and civilian experts. Expert validation showed that the TOPSIS model successfully identified the best system for mitigating obsolescence. This model can be used by system designers and other decision makers to conduct trade studies in obsolescence management.
+IS  - S2
+SP  - 54
+EP  - 66
+DO  - 10.1002/cplx.21783
+UR  - https://doi.org/10.1002/cplx.21783
+N1  - https://doi.org/10.1002/cplx.21783
+N2  - Intuitionistic fuzzy set plays a vital role in decision making, data analysis, and artificial intelligence. Many decision-making problems consist of different types of datum, where fuzzy set theoretical approaches may fail to obtain the optimal decision. Numerous approaches for intuitionistic fuzzy decision-making problem have been introduced in the literature to overcome these short comings. But there is no single approach that can be used to solve all kinds of problems because of the partial ordering defined on the collection of intuitionistic fuzzy numbers (IFNs). Even though ranking of fuzzy numbers have been studied from early seventies in the last century, a total order on the entire class of fuzzy numbers has been introduced by Wang and Wang (Fuzzy Sets Syst 2014, 243, 131–141) only on 2014. A total order on the collection of all IFN is an open problem till today. In this article, a total order on the entire class of IFN using upper lower dense sequence in the interval [0, 1] is proposed and compared with existing techniques using illustrative examples, further an algorithm (which is problem independent) for solving any intuitionistic fuzzy multicriteria decision-making problem (Intuitionistic fuzzy MCDM) is introduced. This new total ordering on IFNs generalizes the total ordering defined in Wang and Wang () for fuzzy numbers. © 2016 Wiley Periodicals, Inc. Complexity 21: 54–66, 2016.
 ER  - 
 TY  - JOUR
-T1  - A multi-criteria decision-making approach for geometric matching of areal objects
-A1  - Kim, Jiyoung
-A1  - Yu, Kiyun
-A1  - Bang, Yoonsik
-Y1  - 2018/02//
+T1  - Sustainable personnel scheduling supported by an artificial neural network model in a natural gas combined cycle power plant
+A1  - Özder, Emir Hüseyin
+A1  - Özcan, Evrencan
+A1  - Eren, Tamer
+Y1  - 2020///
+KW  - analytic network process
+KW  - artificial neural network
+KW  - goal programming
+KW  - natural gas combined cycle power plant
+KW  - skill-based personnel scheduling
+PB  - Wiley Online Library
+JF  - International Journal of Energy Research
+VL  - 44
+IS  - 9
+SP  - 7525
+EP  - 7547
+DO  - 10.1002/er.5480
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/er.5480
+N1  - Cited By (since 2020): 2
+N2  - Despite the impact of personnel scheduling on the sustainability of production processes, it is a rarely studied problem in the electricity generation sector, whose main purpose is sustainable energy generation. From this point of view, personnel scheduling problem is handled in this study based on the impact of this problem, which focuses on fair and balanced job distribution according to the personnel qualifications, on the sustainable generation in the power plants. With its advantages such as ease of operation and maintenance, fast commissioning, lower greenhouse gas emissions compared to other fossil fuels and etc. one of the biggest Natural Gas Combined Cycle Power Plant (NGCCPP) in Turkey is chosen as application area. The main purpose of the study is to demonstrate the effect of fair, balanced and competency-based personnel scheduling on generation stoppages resulting from personnel planning in power plants, which have great importance in energy supply security of the countries. This study is the first in the literature in terms of three different aspects. Firstly, in the energy sector, it is different in that it is a personnel scheduling study that takes into consideration the job assignment of the personnel according to their abilities and minimizes costs. Secondly, the large size of the problem is different from that of previous studies in the literature. Finally, the number of personnel employed in this generation facility varies according to the season. At this point, the past generation data are analyzed using an Artificial Neural Network (ANN) method and an estimation is made, and personnel scheduling is performed in the light of this information. Consequently, the proposed multi-objective mathematical model supported with multi-criteria decision making and ANN, shutdown rate of the power plant due to operator error is reduced 67.3%, and personnel satisfaction level is increased from 42% to 89%as solution.
+ER  - 
+TY  - JOUR
+T1  - Multi-criteria manufacturability indices for ranking high-concentration monoclonal antibody formulations
+A1  - Yang, Yang
+A1  - Velayudhan, Ajoy
+A1  - Thornhill, Nina F.
+A1  - Farid, Suzanne S.
+Y1  - 2017/09//
+KW  - aggregation
+KW  - data mining
+KW  - developability assessment
+KW  - high-concentration mAb formulation
+KW  - manufacturability index
+KW  - viscosity
 PB  - John Wiley & Sons, Ltd
-JF  - Transactions in GIS
-VL  - 22
-IS  - 1
-SP  - 269
-EP  - 287
-DO  - https://doi.org/10.1111/tgis.12307
-UR  - https://doi.org/10.1111/tgis.12307
-N1  - https://doi.org/10.1111/tgis.12307
-N2  - Abstract We propose a method for geometric areal object matching based on multi-criteria decision making. To enable this method, we focused on determining the matched areal object pairs that have all relations, one-to-one relationships to many-to-many relationships, in different spatial data sets by fusing geometric criteria without user invention. First, we identified candidate corresponding areal object pairs with a graph-based approach in training data. Second, three matching criteria (areal hausdorff distance, intersection ratio, and turning function distance) were calculated in candidate corresponding pairs and these criteria were normalized. Third, the shape similarity was calculated by weighted linear combination using the normalized matching criteria (similarities) with the criteria importance through intercriteria correlation method. Fourth, a threshold (0.738) of the shape similarity estimated in the plot of precision versus recall versus all possible thresholds of training data was applied, and the matched pairs were determined and identified. Finally, we visually validated the detection of similar areal feature pairs and conducted statistical evaluation using precision, recall, and F-measure values from a confusion matrix. Their values were 0.905, 0.848, and 0.876, respectively. These results validate that the proposed classifier, which detects 87.6% of matched areal pairs, is highly accurate.
+JF  - Biotechnology and Bioengineering
+VL  - 114
+IS  - 9
+SP  - 2043
+EP  - 2056
+DO  - 10.1002/bit.26329
+UR  - https://doi.org/10.1002/bit.26329
+N1  - https://doi.org/10.1002/bit.26329
+N2  - The need for high-concentration formulations for subcutaneous delivery of therapeutic monoclonal antibodies (mAbs) can present manufacturability challenges for the final ultrafiltration/diafiltration (UF/DF) step. Viscosity levels and the propensity to aggregate are key considerations for high-concentration formulations. This work presents novel frameworks for deriving a set of manufacturability indices related to viscosity and thermostability to rank high-concentration mAb formulation conditions in terms of their ease of manufacture. This is illustrated by analyzing published high-throughput biophysical screening data that explores the influence of different formulation conditions (pH, ions, and excipients) on the solution viscosity and product thermostability. A decision tree classification method, CART (Classification and Regression Tree) is used to identify the critical formulation conditions that influence the viscosity and thermostability. In this work, three different multi-criteria data analysis frameworks were investigated to derive manufacturability indices from analysis of the stress maps and the process conditions experienced in the final UF/DF step. Polynomial regression techniques were used to transform the experimental data into a set of stress maps that show viscosity and thermostability as functions of the formulation conditions. A mathematical filtrate flux model was used to capture the time profiles of protein concentration and flux decay behavior during UF/DF. Multi-criteria decision-making analysis was used to identify the optimal formulation conditions that minimize the potential for both viscosity and aggregation issues during UF/DF. Biotechnol. Bioeng. 2017;114: 2043–2056. © 2017 The Authors. Biotechnology and Bioengineering Published by Wiley Perodicals, Inc.
+ER  - 
+TY  - JOUR
+T1  - Predicting Efficiency in Angolan Banks: A Two-Stage TOPSIS and Neural Networks Approach
+A1  - Wanke, Peter
+A1  - Barros, Carlos
+A1  - Macanda, Nkanga Pedro João
+Y1  - 2016/09//
+KW  - Angola
+KW  - Banks
+KW  - TOPSIS
+KW  - efficiency ranks
+KW  - neural networks
+KW  - two-stage
+PB  - John Wiley & Sons, Ltd
+JF  - South African Journal of Economics
+VL  - 84
+IS  - 3
+SP  - 461
+EP  - 483
+DO  - 10.1111/saje.12103
+UR  - https://doi.org/10.1111/saje.12103
+N1  - https://doi.org/10.1111/saje.12103
+N2  - This paper presents an efficiency assessment of the Angolan banks using Technique for Order Preference by Similarity to the Ideal Solution (TOPSIS). TOPSIS is a multi-criteria decision-making technique similar to data envelopment analysis, which ranks a finite set of units based on the minimisation of distance from an ideal point and the maximisation of distance from an anti-ideal point. In this research, TOPSIS is used first in a two-stage approach to assess the relative efficiency of Angolan banks using the most frequent indicators adopted by the literature. Then, in the second stage, neural networks are combined with TOPSIS results as part of an attempt to produce a model for banking performance with effective predictive ability. The results reveal that variables related to cost structure have a prominent negative impact on efficiency. Findings also indicate that the Angolan banking market would benefit from higher level of competition between institutions.
 ER  - 
 TY  - JOUR
 T1  - MCRiceRepGP: a framework for the identification of genes associated with sexual reproduction in rice
-A1  - Golicz, Agnieszka A
-A1  - Bhalla, Prem L
-A1  - Singh, Mohan B
+A1  - Golicz, Agnieszka A.
+A1  - Bhalla, Prem L.
+A1  - Singh, Mohan B.
 Y1  - 2018/10//
 KW  - Oryza sativa
 KW  - function prediction
@@ -555,35 +238,47 @@ KW  - machine learning
 KW  - reannotation
 KW  - sexual reproduction
 PB  - John Wiley & Sons, Ltd
-JF  - The Plant Journal
+JF  - Plant Journal
 VL  - 96
 IS  - 1
 SP  - 188
 EP  - 202
-DO  - https://doi.org/10.1111/tpj.14019
+DO  - 10.1111/tpj.14019
 UR  - https://doi.org/10.1111/tpj.14019
 N1  - https://doi.org/10.1111/tpj.14019
-N2  - Summary Rice is an important cereal crop, being a staple food for over half of the world's population, and sexual reproduction resulting in grain formation underpins global food security. However, despite considerable research efforts, many of the genes, especially long intergenic non-coding RNA (lincRNA) genes, involved in sexual reproduction in rice remain uncharacterized. With an increasing number of public resources becoming available, information from different sources can be combined to perform gene functional annotation. We report the development of MCRiceRepGP, a machine learning framework which integrates heterogeneous evidence and employs multicriteria decision analysis and machine learning to predict coding and lincRNA genes involved in sexual reproduction in rice. The rice genome was reannotated using deep-sequencing transcriptomic data from reproduction-associated tissue/cell types identifying previously unannotated putative protein-coding genes and lincRNAs. MCRiceRepGP was used for genome-wide discovery of sexual reproduction associated coding and lincRNA genes. The protein-coding and lincRNA genes identified have distinct expression profiles, with a large proportion of lincRNAs reaching maximum expression levels in the sperm cells. Some of the genes are potentially linked to male- and female-specific fertility and heat stress tolerance during the reproductive stage. MCRiceRepGP can be used in combination with other genome-wide studies, such as genome-wide association studies, giving greater confidence that the genes identified are associated with the biological process of interest. As more data, especially about mutant plant phenotypes, become available, the power of MCRiceRepGP will grow, providing researchers with a tool to identify candidate genes for future experiments. MCRiceRepGP is available as a web application (http://mcgplannotator.com/MCRiceRepGP/).
+N2  - Rice is an important cereal crop, being a staple food for over half of the world's population, and sexual reproduction resulting in grain formation underpins global food security. However, despite considerable research efforts, many of the genes, especially long intergenic non-coding RNA (lincRNA) genes, involved in sexual reproduction in rice remain uncharacterized. With an increasing number of public resources becoming available, information from different sources can be combined to perform gene functional annotation. We report the development of MCRiceRepGP, a machine learning framework which integrates heterogeneous evidence and employs multicriteria decision analysis and machine learning to predict coding and lincRNA genes involved in sexual reproduction in rice. The rice genome was reannotated using deep-sequencing transcriptomic data from reproduction-associated tissue/cell types identifying previously unannotated putative protein-coding genes and lincRNAs. MCRiceRepGP was used for genome-wide discovery of sexual reproduction associated coding and lincRNA genes. The protein-coding and lincRNA genes identified have distinct expression profiles, with a large proportion of lincRNAs reaching maximum expression levels in the sperm cells. Some of the genes are potentially linked to male- and female-specific fertility and heat stress tolerance during the reproductive stage. MCRiceRepGP can be used in combination with other genome-wide studies, such as genome-wide association studies, giving greater confidence that the genes identified are associated with the biological process of interest. As more data, especially about mutant plant phenotypes, become available, the power of MCRiceRepGP will grow, providing researchers with a tool to identify candidate genes for future experiments. MCRiceRepGP is available as a web application (http://mcgplannotator.com/MCRiceRepGP/).
 ER  - 
 TY  - JOUR
-T1  - Decision Support System and Multi-Criteria Decision Aid: A State of the Art and Perspectives
-A1  - Razmak, Jamil
-A1  - Aouni, Belaid
-Y1  - 2015/01//
-KW  - Decision Support System
-KW  - Multi-Criteria Decision Aid
-KW  - Multi-Objective Programming
-KW  - Typology
+T1  - Harvesting European knowledge on soil functions and land management using multi-criteria decision analysis
+A1  - Bampa, Francesca
+A1  - O'Sullivan, Lilian
+A1  - Madena, Kirsten
+A1  - Sandén, Taru
+A1  - Spiegel, Heide
+A1  - Henriksen, Christian Bugge
+A1  - Ghaley, Bhim Bahadur
+A1  - Jones, Arwyn
+A1  - Staes, Jan
+A1  - Sturel, Sylvain
+A1  - Trajanov, Aneta
+A1  - Creamer, Rachel E.
+A1  - Debeljak, Marko
+Y1  - 2019/03//
+KW  - DEX model
+KW  - farmers and multi-stakeholders
+KW  - locally relevant advice
+KW  - participatory research
+KW  - soil quality
 PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 22
-IS  - 1-2
-SP  - 101
-EP  - 117
-DO  - https://doi.org/10.1002/mcda.1530
-UR  - https://doi.org/10.1002/mcda.1530
-N1  - https://doi.org/10.1002/mcda.1530
-N2  - Abstract The aim of this paper is to highlight the role of the Decision Support System within the field of multi-criteria decision aid (MCDA). The MCDA tools have been incorporated into systems to create Multi-Criteria Decision Support Systems (MCDSSs). In our literature review, we noticed that more than 100 papers have been written over a 20-year period in which MCDSS was used as a decision-making tool. The present paper describes some real applications of MCDSS in different fields, harmoniously combined with decision-making methods such as analytic hierarchy process, Utility Additive, and Goal Programming. The present study proposes an integrative MCDSS evaluation through guidance on the tools most useful for a specific user with a particular decision problem. Copyright ? 2014 John Wiley & Sons, Ltd.
+JF  - Soil Use and Management
+VL  - 35
+IS  - 1
+SP  - 6
+EP  - 20
+DO  - 10.1111/sum.12506
+UR  - https://doi.org/10.1111/sum.12506
+N1  - https://doi.org/10.1111/sum.12506
+N2  - Soil and its ecosystem functions play a societal role in securing sustainable food production while safeguarding natural resources. A functional land management framework has been proposed to optimize the agro-environmental outputs from the land and specifically the supply and demand of soil functions such as (a) primary productivity, (b) carbon sequestration, (c) water purification and regulation, (d) biodiversity and (e) nutrient cycling, for which soil knowledge is essential. From the outset, the LANDMARK multi-actor research project integrates harvested knowledge from local, national and European stakeholders to develop such guidelines, creating a sense of ownership, trust and reciprocity of the outcomes. About 470 stakeholders from five European countries participated in 32 structured workshops covering multiple land uses in six climatic zones. The harmonized results include stakeholders’ priorities and concerns, perceptions on soil quality and functions, implementation of tools, management techniques, indicators and monitoring, activities and policies, knowledge gaps and ideas. Multi-criteria decision analysis was used for data analysis. Two qualitative models were developed using Decision EXpert methodology to evaluate “knowledge” and “needs”. Soil quality perceptions differed across workshops, depending on the stakeholder level and regionally established terminologies. Stakeholders had good inherent knowledge about soil functioning, but several gaps were identified. In terms of critical requirements, stakeholders defined high technical, activity and policy needs in (a) financial incentives, (b) credible information on improving more sustainable management practices, (c) locally relevant advice, (d) farmers’ discussion groups, (e) training programmes, (f) funding for applied research and monitoring, and (g) strengthening soil science in education.
 ER  - 
 TY  - JOUR
 T1  - Application of artificial intelligence algorithms on modeling of reflection phase characteristics of a nonuniform reflectarray element
@@ -600,770 +295,73 @@ VL  - 33
 IS  - 2
 SP  - e2689
 EP  - e2689
-DO  - https://doi.org/10.1002/jnm.2689
+DO  - 10.1002/jnm.2689
 UR  - https://doi.org/10.1002/jnm.2689
 N1  - https://doi.org/10.1002/jnm.2689
-N2  - Abstract Reflectarray antennas (RAs) have the ability to combine the advantages of both traditional parabolic reflector and phased array antennas without the need for feed network designs. Microstrip reflectarrays (MRAs) have the advantages of being small size, light weighted, easy to prototyped, high gain, low side-lobe level, and a predetermined radiation pattern. These can be achieved by precise calculation of reflection phase at each RA unit independently with a phase compensation proportional to the distance from the feed. The challenging problem is to have a fast and high accurate unit element to be used in multidimension, multiobjective design optimization. Herein, artificial intelligence algorithms (AIAs) have been used for prediction of reflection phase characterization of an X band MRA unit element with respect to the geometrical design parameters. Firstly, a nonuniform unit RA has been designed in 3D electromagnetic (EM) simulation tool for creating the training validation data sets. Then, the data sets are given to the different types of AIA regression models such as multilayer perceptron, symbolic regression, and convolutional neural network. From the results of the validation data set, it can be concluded that the proposed models have sufficient accuracy that can be used in a computationally efficient design optimization process of a large-scale RA design.
+N2  - Reflectarray antennas (RAs) have the ability to combine the advantages of both traditional parabolic reflector and phased array antennas without the need for feed network designs. Microstrip reflectarrays (MRAs) have the advantages of being small size, light weighted, easy to prototyped, high gain, low side-lobe level, and a predetermined radiation pattern. These can be achieved by precise calculation of reflection phase at each RA unit independently with a phase compensation proportional to the distance from the feed. The challenging problem is to have a fast and high accurate unit element to be used in multidimension, multiobjective design optimization. Herein, artificial intelligence algorithms (AIAs) have been used for prediction of reflection phase characterization of an X band MRA unit element with respect to the geometrical design parameters. Firstly, a nonuniform unit RA has been designed in 3D electromagnetic (EM) simulation tool for creating the training validation data sets. Then, the data sets are given to the different types of AIA regression models such as multilayer perceptron, symbolic regression, and convolutional neural network. From the results of the validation data set, it can be concluded that the proposed models have sufficient accuracy that can be used in a computationally efficient design optimization process of a large-scale RA design.
 ER  - 
 TY  - JOUR
-T1  - Multi-criteria manufacturability indices for ranking high-concentration monoclonal antibody formulations
-A1  - Yang, Yang
-A1  - Velayudhan, Ajoy
-A1  - Thornhill, Nina F
-A1  - Farid, Suzanne S
-Y1  - 2017/09//
-KW  - aggregation
-KW  - data mining
-KW  - developability assessment
-KW  - high-concentration mAb formulation
-KW  - manufacturability index
-KW  - viscosity
-PB  - John Wiley & Sons, Ltd
-JF  - Biotechnology and Bioengineering
-VL  - 114
-IS  - 9
-SP  - 2043
-EP  - 2056
-DO  - https://doi.org/10.1002/bit.26329
-UR  - https://doi.org/10.1002/bit.26329
-N1  - https://doi.org/10.1002/bit.26329
-N2  - ABSTRACT The need for high-concentration formulations for subcutaneous delivery of therapeutic monoclonal antibodies (mAbs) can present manufacturability challenges for the final ultrafiltration/diafiltration (UF/DF) step. Viscosity levels and the propensity to aggregate are key considerations for high-concentration formulations. This work presents novel frameworks for deriving a set of manufacturability indices related to viscosity and thermostability to rank high-concentration mAb formulation conditions in terms of their ease of manufacture. This is illustrated by analyzing published high-throughput biophysical screening data that explores the influence of different formulation conditions (pH, ions, and excipients) on the solution viscosity and product thermostability. A decision tree classification method, CART (Classification and Regression Tree) is used to identify the critical formulation conditions that influence the viscosity and thermostability. In this work, three different multi-criteria data analysis frameworks were investigated to derive manufacturability indices from analysis of the stress maps and the process conditions experienced in the final UF/DF step. Polynomial regression techniques were used to transform the experimental data into a set of stress maps that show viscosity and thermostability as functions of the formulation conditions. A mathematical filtrate flux model was used to capture the time profiles of protein concentration and flux decay behavior during UF/DF. Multi-criteria decision-making analysis was used to identify the optimal formulation conditions that minimize the potential for both viscosity and aggregation issues during UF/DF. Biotechnol. Bioeng. 2017;114: 2043?2056. ? 2017 The Authors. Biotechnology and Bioengineering Published by Wiley Perodicals, Inc.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria thermoeconomic and thermodynamic assessments of the desalination-integrated two-phase liquid-immersion data center cooling system
-A1  - Kanbur, Baris Burak
-A1  - Wu, Chenlong
-A1  - Duan, Fei
-Y1  - 2020/10//
-KW  - combined energy system
-KW  - data center cooling
-KW  - desalination
-KW  - multiobjective optimization
-KW  - thermodynamic analysis
-KW  - thermoeconomic assessment
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Energy Research
-VL  - 44
-IS  - 13
-SP  - 10453
-EP  - 10470
-DO  - https://doi.org/10.1002/er.5677
-UR  - https://doi.org/10.1002/er.5677
-N1  - https://doi.org/10.1002/er.5677
-N2  - Summary The waste heat management of the data center cooling systems has a significant share in the energy-efficient operations of the data centers. In this study, a new hybrid desalination-data center cooling system is proposed to reduce the cost drawback of the waste heat in the data center cooling operations. A two-phase liquid-immersion cooling unit is selected as the data center cooling method with the cooling load range of 0.7 to 1.5 kW. It is a promising solution thanks to the high heat flux removal performance but there is still a lack of research about waste heat management. The waste heat of the immersion cooling system is used to heat up the feed side of the desalination module. A direct contact membrane distillation system as preferred as the desalination module with the membrane area range of 5 to 75 cm2. The proposed hybrid system is investigated according to the thermodynamic, economic, and thermoeconomic aspects. The thermoeconomic assessment is done concerning the unique exergy-cost matrix of the original design. The maximum thermal and exergy efficiencies are found as 64.5% and 53.7%, respectively. The daily distilled water rate can reach 6.13?kg at the highest cooling load and membrane area. Compared to the stand-alone data center cooling operation, the hybrid system has higher capital and operation costs. The payback period is found 3.72?years that means the proposed system is economically feasible for real applications. Also, the levelized product cost of the hybrid design is calculated in the range of 2.69 to 5.33 SGD/h. In the multiobjective optimization study, the best trade-off point is decided at the cooling load of 1.1 kW whilst the membrane area varies between 5.12 and 5.19 cm2.
-ER  - 
-TY  - JOUR
-T1  - Multicriteria decision-making techniques for avoiding similar task scheduling conflict in cloud computing
-A1  - Nayak, Suvendu Chandan
-A1  - Parida, Sasmita
-A1  - Tripathy, Chitaranjan
-A1  - Pati, Bibudhendu
-A1  - Panigrahi, Chhabi Rani
-Y1  - 2020/09//
-KW  - AHP
-KW  - TOPSIS
-KW  - VIKOR
-KW  - cloud computing
-KW  - deadline-based task
-KW  - task scheduling
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Communication Systems
-VL  - 33
-IS  - 13
-SP  - e4126
-EP  - e4126
-DO  - https://doi.org/10.1002/dac.4126
-UR  - https://doi.org/10.1002/dac.4126
-N1  - https://doi.org/10.1002/dac.4126
-N2  - Summary An efficient task scheduling approach shows promising way to achieve better resource utilization in cloud computing. Various task scheduling approaches with optimization and decision-making techniques have been discussed up to now. These approaches ignored scheduling conflict among the similar tasks. The conflict often leads to miss the deadlines of the tasks. The work studies the implementation of the MCDM (multicriteria decision-making) techniques in backfilling algorithm to execute deadline-based tasks in cloud computing. In general, the tasks are selected as backfill tasks, whose role is to provide ideal resources to other tasks in the backfilling approach. The selection of the backfill task is challenging one, when there are similar tasks. It creates conflict in the scheduling. In cloud computing, the deadline-based tasks have multiple parameters such as arrival time, number of VMs (virtual machines), start time, duration of execution, and deadline. In this work, we present the deadline-based task scheduling algorithm as an MCDM problem and discuss the MCDM techniques: AHP (Analytical Hierarchy Process), VIKOR (VIseKriterijumska Optimizacija I Kompromisno Resenje), and TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) to avoid similar task scheduling conflicts. We simulate the backfilling algorithm along with three MCDM mechanisms to avoid scheduling conflicts among the similar tasks. The synthetic workloads are considered to study the performance of the proposed scheduling algorithm. The mechanism suggests an efficient VM allocation and its utilization for deadline-based tasks in the cloud environment.
-ER  - 
-TY  - JOUR
-T1  - Multi-objective optimization strategy based on desirability functions used for electrophoratic separation and quantification of rosiglitazone and glimepiride in plasma and formulations
-A1  - Hefnawy, Mohamed M
-A1  - Sultan, Maha A
-A1  - Al-Johar, Haya I
-A1  - Kassem, Mohamed G
-A1  - Aboul-Enein, Hassan Y
-Y1  - 2012/01//
-KW  - capillary electrophoresis
-KW  - desirability function
-KW  - multi-objective optimization
-KW  - rosiglitazone and glimepiride
-PB  - John Wiley & Sons, Ltd
-JF  - Drug Testing and Analysis
-VL  - 4
-IS  - 1
-SP  - 39
-EP  - 47
-DO  - https://doi.org/10.1002/dta.260
-UR  - https://doi.org/10.1002/dta.260
-N1  - https://doi.org/10.1002/dta.260
-N2  - Multiple response simultaneous optimization employing Derringer's desirability function was used for the development of a capillary electrophoresis method for the simultaneous determination of rosiglitazone (RSG) and glimepiride (GLM) in plasma and formulations. Twenty experiments, taking the two resolutions, the analysis time, and the capillary current as the responses with three important factors?buffer morality, volte and column temperature?were used to design mathematical models. The experimental responses were fitted into a second order polynomial and the six responses were simultaneously optimized to predict the optimum conditions for the effective separation of the studied compounds. The separation was carried out by using capillary zone electrophoresis (CZE) with a silica capillary column and diode array detector at 210 nm. The optimum assay conditions were 52 mmol l?1 phosphate buffer, pH 7, and voltage of 22 kV at 29 °C. The method showed good agreement between the experimental data and predictive value throughout the studied parameter space. The assay limit of detection was 0.02 µgml?1 and the effective working range at relative standard deviation (RSD) of ≤ 5% was 0.05?16 µgml?1 (r = 0.999) for both drugs. Analytical recoveries of the studied drugs from spiked plasma were 97.2?101.9 ± 0.31?3.0%. The precision of the assay was satisfactory; RSD was 1.07 and 1.14 for intra- and inter-assay precision, respectively. The proposed method has a great value in routine analysis of RSG and GLM for its therapeutic monitoring and pharmacokinetic studies. Copyright ? 2011 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
-T1  - Signed distance-based ORESTE for multicriteria group decision-making with multigranular unbalanced hesitant fuzzy linguistic information
-A1  - Tian, Zhang-peng
-A1  - Nie, Ru-xin
-A1  - Wang, Jian-qiang
-A1  - Zhang, Hong-yu
-Y1  - 2019/02//
-KW  - group consensus
-KW  - hesitant fuzzy linguistic term set
-KW  - multicriteria decision-making
-KW  - multigranular unbalanced linguistic term set
-KW  - outranking
-PB  - John Wiley & Sons, Ltd
-JF  - Expert Systems
-VL  - 36
-IS  - 1
-SP  - e12350
-EP  - e12350
-DO  - https://doi.org/10.1111/exsy.12350
-UR  - https://doi.org/10.1111/exsy.12350
-N1  - https://doi.org/10.1111/exsy.12350
-N2  - Abstract The objective of this study is to develop an integrated approach for solving multicriteria group decision-making problems with multigranular unbalanced hesitant fuzzy linguistic term sets (HFLTSs). Firstly, a signed distance-based transformation function is proposed to unify multigranular unbalanced hesitant fuzzy linguistic (HFL) assessments. Secondly, a mathematical programming model based on the maximum consensus is constructed to allocate decision-makers (DMs)' weights objectively. Thirdly, a new signed distance-based preference score function is defined to aggregate HFL assessments and determine the weak ranking of alternatives, and a novel preference, indifference, and incomparability test framework is constructed to identify the subtle relations among alternatives. On these bases, a signed distance-based ORESTE (Organísation, rangement et Synthèse de données relarionnelles, in French) method, in which knowledge regarding criterion values and weights are expressed as multigranular unbalanced HFLTSs, is developed to obtain the ranking of alternatives. Finally, an illustrative example, followed by sensitivity and comparative analyses, is presented to verify the feasibility and effectiveness of the proposed approach.
-ER  - 
-TY  - JOUR
-T1  - A multicriteria framework for inventory classification and control with application to intermittent demand
-A1  - Lolli, F
-A1  - Ishizaka, A
-A1  - Gamberini, R
-A1  - Rimini, B
-Y1  - 2017/09//
-KW  - AHP
-KW  - intermittent demand
-KW  - multicriteria inventory classification
-KW  - reorder policies
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 24
-IS  - 5-6
-SP  - 275
-EP  - 285
-DO  - https://doi.org/10.1002/mcda.1620
-UR  - https://doi.org/10.1002/mcda.1620
-N1  - https://doi.org/10.1002/mcda.1620
-N2  - Abstract Several papers have studied inventory classification in order to group items with a view to facilitating their management. The generated classes are then coupled with the specific reorder policies composing the overall inventory control system. However, the effectiveness of inventory classification and control system is strictly interrelated. That is to say, different classification approaches could show different performance if applied to a different set of reorder policies, and vice versa. Furthermore, when the cost structure is subjected to uncertainty, a pure cost-based analysis of the inventory control system could be corrupted. This paper presents a multicriteria framework for the concurrent selection of the item classification approach and the inventory control system through a discrete-event simulation approach. The key performance indicators provided by the simulator (i.e., average holding value, average number of backorders, and average number of emitted orders) are indicative of the multidimensional effectiveness of the adopted inventory control system when coupled with a specific classification approach. By this way, a multicriteria problem arises, where the alternatives are given by exhaustively coupling the item classes, which are generated by different classification approaches, with the reorder policies composing the inventory system. An analytical hierarchy process is then used for selecting the best alternative, as well as for evaluating the effect of the weights assigned to the key performance indicators through a sensitivity analysis. This approach has been validated in a real case study with a company operating in the field of electrical resistor manufacturing, with a view of facilitating the management of items showing intermittent demand.
-ER  - 
-TY  - JOUR
-T1  - Harvesting European knowledge on soil functions and land management using multi-criteria decision analysis
-A1  - Bampa, Francesca
-A1  - O'Sullivan, Lilian
-A1  - Madena, Kirsten
-A1  - Sandén, Taru
-A1  - Spiegel, Heide
-A1  - Henriksen, Christian Bugge
-A1  - Ghaley, Bhim Bahadur
-A1  - Jones, Arwyn
-A1  - Staes, Jan
-A1  - Sturel, Sylvain
-A1  - Trajanov, Aneta
-A1  - Creamer, Rachel E
-A1  - Debeljak, Marko
-Y1  - 2019/03//
-KW  - DEX model
-KW  - farmers and multi-stakeholders
-KW  - locally relevant advice
-KW  - participatory research
-KW  - soil quality
-PB  - John Wiley & Sons, Ltd
-JF  - Soil Use and Management
-VL  - 35
-IS  - 1
-SP  - 6
-EP  - 20
-DO  - https://doi.org/10.1111/sum.12506
-UR  - https://doi.org/10.1111/sum.12506
-N1  - https://doi.org/10.1111/sum.12506
-N2  - Abstract Soil and its ecosystem functions play a societal role in securing sustainable food production while safeguarding natural resources. A functional land management framework has been proposed to optimize the agro-environmental outputs from the land and specifically the supply and demand of soil functions such as (a) primary productivity, (b) carbon sequestration, (c) water purification and regulation, (d) biodiversity and (e) nutrient cycling, for which soil knowledge is essential. From the outset, the LANDMARK multi-actor research project integrates harvested knowledge from local, national and European stakeholders to develop such guidelines, creating a sense of ownership, trust and reciprocity of the outcomes. About 470 stakeholders from five European countries participated in 32 structured workshops covering multiple land uses in six climatic zones. The harmonized results include stakeholders? priorities and concerns, perceptions on soil quality and functions, implementation of tools, management techniques, indicators and monitoring, activities and policies, knowledge gaps and ideas. Multi-criteria decision analysis was used for data analysis. Two qualitative models were developed using Decision EXpert methodology to evaluate ?knowledge? and ?needs?. Soil quality perceptions differed across workshops, depending on the stakeholder level and regionally established terminologies. Stakeholders had good inherent knowledge about soil functioning, but several gaps were identified. In terms of critical requirements, stakeholders defined high technical, activity and policy needs in (a) financial incentives, (b) credible information on improving more sustainable management practices, (c) locally relevant advice, (d) farmers? discussion groups, (e) training programmes, (f) funding for applied research and monitoring, and (g) strengthening soil science in education.
-ER  - 
-TY  - JOUR
-T1  - Joint computation offloading and resource provisioning for edge-cloud computing environment: A machine learning-based approach
-A1  - Shahidinejad, Ali
-A1  - Ghobaei-Arani, Mostafa
-Y1  - 2020/12//
-KW  - edge computing
-KW  - learning automata
-KW  - long short-term memory
-KW  - offloading
-KW  - reinforcement learning
-KW  - resource provisioning
-PB  - John Wiley & Sons, Ltd
-JF  - Software: Practice and Experience
-VL  - 50
-IS  - 12
-SP  - 2212
-EP  - 2230
-DO  - https://doi.org/10.1002/spe.2888
-UR  - https://doi.org/10.1002/spe.2888
-N1  - https://doi.org/10.1002/spe.2888
-N2  - Summary In recent years, the usage of smart mobile applications to facilitate day-to-day activities in various domains for enhancing the quality of human life has increased widely. With rapid developments of smart mobile applications, the edge computing paradigm has emerged as a distributed computing solution to support serving these applications closer to mobile devices. Since the submitted workloads to the smart mobile applications changes over the time, decision making about offloading and edge server provisioning to handle the dynamic workloads of mobile applications is one of the challenging issues into the resource management scope. In this work, we utilized learning automata as a decision-maker to offload the incoming dynamic workloads into the edge or cloud servers. In addition, we propose an edge server provisioning approach using long short-term memory model to estimate the future workload and reinforcement learning technique to make an appropriate scaling decision. The simulation results obtained under real and synthetic workloads demonstrate that the proposed solution increases the CPU utilization and reduces the execution time and energy consumption, compared with the other algorithms.
-ER  - 
-TY  - JOUR
-T1  - Multicriteria ABC inventory classification using acceptability analysis
-A1  - Li, Zhi
-A1  - Wu, Xunbo
-A1  - Liu, Fan
-A1  - Fu, Yelin
-A1  - Chen, Ke
-Y1  - 2019/11//
-KW  - ABC inventory classification
-KW  - preference
-KW  - stochastic multicriteria acceptability analysis
-PB  - John Wiley & Sons, Ltd
-JF  - International Transactions in Operational Research
-VL  - 26
-IS  - 6
-SP  - 2494
-EP  - 2507
-DO  - https://doi.org/10.1111/itor.12412
-UR  - https://doi.org/10.1111/itor.12412
-N1  - https://doi.org/10.1111/itor.12412
-N2  - Abstract This paper introduces a new procedure for handling the multicriteria ABC inventory classification problem using stochastic multicriteria acceptability analysis. All possible preferences among the evaluation criteria have been considered. Due to the fact that even under certain preference, it is difficult to reach a group consensus on the exact weight values along with each criterion, we calculate preference-specific intervals under each preference and then formulate a stochastic decision-making problem. To tackle this problem, we consider different distribution functions of the intervals and then compute the holistic acceptability indices to classify stock-keeping units. The results derived from our method are compared to the previous results to show the robustness and superiority of our method.
-ER  - 
-TY  - JOUR
-T1  - Complex intuitionistic fuzzy power aggregation operators and their applications in multicriteria decision-making
-A1  - Rani, Dimple
-A1  - Garg, Harish
-Y1  - 2018/12//
-KW  - complex intuitionistic fuzzy set
-KW  - intuitionistic fuzzy set
-KW  - membership degrees
-KW  - multicriteria decision-making
-KW  - power aggregation operator
-PB  - John Wiley & Sons, Ltd
-JF  - Expert Systems
-VL  - 35
-IS  - 6
-SP  - e12325
-EP  - e12325
-DO  - https://doi.org/10.1111/exsy.12325
-UR  - https://doi.org/10.1111/exsy.12325
-N1  - https://doi.org/10.1111/exsy.12325
-N2  - Abstract The objective of this manuscript is to present some aggregation operators for aggregating the different complex intuitionistic fuzzy (CIF) sets by considering the dependency between the pairs of its membership degrees. In the existing studies of fuzzy and its extensions, the uncertainties present in the data are handled with the help of degrees of membership that are the subset of real numbers, which may lose some useful information and hence consequently affect the decision results. A modification to these, complex intuitionistic fuzzy set handles the uncertainties with the degrees whose ranges are extended from real subset to the complex subset with unit disc and hence handle the two-dimensional information in a single set. Thus, motivated by this, we developed some new power aggregation operators, namely, CIF power averaging, CIF weighted power averaging, CIF ordered weighted power averaging, CIF power geometric, CIF weighted power geometric, and CIF ordered weighted power geometric. Also, some of the desirable properties of these are investigated. Further, based on these operators, a multicriteria decision-making approach is presented under the CIF set environment. An illustrative example related to the selection of the best alternative(s) is considered to demonstrate the efficiency of the proposed approach and is validated it by comparing their results with the several existing approaches results.
-ER  - 
-TY  - JOUR
-T1  - Software obsolescence risk assessment approach using multicriteria decision-making
-A1  - Bowlds, Ted F
-A1  - Fossaceca, John M
-A1  - Iammartino, Ronald
-Y1  - 2018/09//
-KW  - analytic hierarchy process
-KW  - diminishing manufacturing sources and material sho
-KW  - multicriteria decision-making
-KW  - risk assessment
-KW  - software obsolescence
-PB  - John Wiley & Sons, Ltd
-JF  - Systems Engineering
-VL  - 21
-IS  - 5
-SP  - 455
-EP  - 465
-DO  - https://doi.org/10.1002/sys.21446
-UR  - https://doi.org/10.1002/sys.21446
-N1  - https://doi.org/10.1002/sys.21446
-N2  - Abstract System obsolescence issues are a routine occurrence, especially for systems with a high utilization of commercial electronic components or software applications with a long operational life. The extended length of a system's development can often result in obsolescence well before system production and fielding begins. Obsolescence affects individual electronic components and availability of materials, as well as access to experienced personnel, processes, and software. Legacy application software obsolescence is influenced by multiple factors. Included in these factors are hardware obsolescence, increased software maintenance, commercial off-the-shelf software obsolescence, growth in technical debt, growth in complexity, and a lack of embedded business rule documentation. These criteria influence subjective management decisions in the remediation of current or future obsolescence risk. A multicriteria decision-making (MCDM) approach is proposed to evaluate the impact of multiple obsolescence elements over the life cycle of a software application with consideration for the knowledge, preference, and subjectivity of experts to better inform the risk assessment and timing of future mitigation strategies. The resulting MCDM score provides a break point for a quantifiable increase in obsolescence risk.
-ER  - 
-TY  - JOUR
-T1  - Three steps multiobjective decision process for software release planning
-A1  - Del Águila, Isabel M
-A1  - Del Sagrado, José
-Y1  - 2016/09//
-KW  - computer-aided software engineering tools
-KW  - meta-heuristic algorithms
-KW  - requirements management
-KW  - requirements selection
-KW  - software project management
-PB  - John Wiley & Sons, Ltd
-JF  - Complexity
-VL  - 21
-IS  - S1
-SP  - 250
-EP  - 262
-DO  - https://doi.org/10.1002/cplx.21739
-UR  - https://doi.org/10.1002/cplx.21739
-N1  - https://doi.org/10.1002/cplx.21739
-N2  - This paper deals with how to determine which features should be included in the software to be developed. Metaheuristic techniques have been applied to this problem and can help software developers when they face contradictory goals. We show how the knowledge and experience of human experts can be enriched by these techniques, with the idea of obtaining a better requirements selection than that produced by expert judgment alone. This objective is achieved by embedding metaheuristics techniques into a requirements management tool that takes advantage of them during the execution of the development stages of any software development project. ? 2015 Wiley Periodicals, Inc. Complexity 21: 250?262, 2016
-ER  - 
-TY  - JOUR
-T1  - Multicriteria decision‐making taxonomy for DevOps challenging factors using analytical hierarchy process
-A1  - Khan, A A
-A1  - Shameem, M
-Y1  - 2020///
-PB  - Wiley Online Library
-JF  - Journal of Software: Evolution and …
-UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2263
-N1  - Cited By (since 2020): 1
-N2  - … The same data analysis approach has been adopted in other software engineering studies.37, 38. 3.3 Analytical hierarchy process. The identified challenging factors are prioritized using the AHP approach. AHP is a well‐known multicriteria decision approach developed by …
-ER  - 
-TY  - JOUR
-T1  - Alternative approach for learning and improving the MCDA method PROAFTN
-A1  - Al-Obeidat, Feras
-A1  - Belacel, Nabil
-Y1  - 2011/05//
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Intelligent Systems
-VL  - 26
-IS  - 5
-SP  - 444
-EP  - 463
-DO  - https://doi.org/10.1002/int.20476
-UR  - https://doi.org/10.1002/int.20476
-N1  - https://doi.org/10.1002/int.20476
-N2  - Abstract The objectives of this paper are (1) to propose new techniques to learn and improve the multicriteria decision analysis (MCDA) method PROAFTN based on machine learning approaches and (2) to compare the performance of the developed methods with other well-known machine learning classification algorithms. The proposed learning methods consist of two stages: The first stage involves using the discretization techniques to obtain the required parameters for the PROAFTN method, and the second stage is the development of a new inductive approach to construct PROAFTN prototypes for classification. The comparative study is based on the generated classification accuracy of the algorithms on the data sets. For further robust analysis of the experiments, we used the Friedman statistical measure with the corresponding post hoc tests. The proposed approaches significantly improved the performance of the classification method PROAFTN. Based on the generated results on the same data sets, PROAFTN outperforms widely used classification algorithms. Furthermore, the method is simple, no preprocessing is required, and no loss of information during learning. ? 2011 Wiley Periodicals, Inc.
-ER  - 
-TY  - JOUR
-T1  - Finding near-perfect parameters for hardware and code optimizations with automatic multi-objective design space explorations
-A1  - Jahr, Ralf
-A1  - Calborean, Horia
-A1  - Vintan, Lucian
-A1  - Ungerer, Theo
-Y1  - 2015/06//
-KW  - automatic design space exploration
-KW  - code optimization
-KW  - hardware complexity estimation
-KW  - multi-objective optimization
-PB  - John Wiley & Sons, Ltd
-JF  - Concurrency and Computation: Practice and Experience
-VL  - 27
-IS  - 9
-SP  - 2196
-EP  - 2214
-DO  - https://doi.org/10.1002/cpe.2975
-UR  - https://doi.org/10.1002/cpe.2975
-N1  - https://doi.org/10.1002/cpe.2975
-N2  - SummaryIn the design process of computer systems or processor architectures, typically many different parameters are exposed to configure, tune, and optimize every component of a system. For evaluations and before production, it is desirable to know the best setting for all parameters. Processing speed is no longer the only objective that needs to be optimized; power consumption, area, and so on have become very important. Thus, the best configurations have to be found in respect to multiple objectives. In this article, we use a multi-objective design space exploration tool called Framework for Automatic Design Space Exploration (FADSE) to automatically find near-optimal configurations in the vast design space of a processor architecture together with a tool for code optimizations and hence evaluate both automatically. As example, we use the Grid ALU Processor (GAP) and its postlink optimizer called GAPtimize, which can apply feedback-directed and platform-specific code optimizations. Our results show that FADSE is able to cope with both design spaces. Less than 25% of the maximal reasonable hardware effort for the scalable elements of the GAP is enough to achieve the processor's performance maximum. With a performance reduction tolerance of 10%, the necessary hardware complexity can be further reduced by about two-thirds. The found high-quality configurations are analyzed, exhibiting strong relationships between the parameters of the GAP, the distribution of complexity, and the total performance. These performance numbers can be improved by applying code optimizations concurrently to optimizing the hardware parameters. FADSE can find near-optimal configurations by effectively combining and selecting parameters for hardware and code optimizations in a short time. The maximum observed speedup is 15%. With the use of code optimizations, the maximum possible reduction of the hardware resources, while sustaining the same performance level, is 50%.Copyright ? 2012 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
-T1  - Comprehensive multi-objective model to remote sensing data processing task scheduling problem
-A1  - Xing, Lining
-A1  - Li, Wen
-A1  - He, Minfan
-A1  - Tan, Xu
-Y1  - 2017/12//
-KW  - ant colony optimization
-KW  - comprehensive model
-KW  - remote sensing data processing
-KW  - scheduling problem
-PB  - John Wiley & Sons, Ltd
-JF  - Concurrency and Computation: Practice and Experience
-VL  - 29
-IS  - 24
-SP  - e4248
-EP  - e4248
-DO  - https://doi.org/10.1002/cpe.4248
-UR  - https://doi.org/10.1002/cpe.4248
-N1  - https://doi.org/10.1002/cpe.4248
-N2  - Summary Scientific scheduling of limited resource plays an important role in the remote sensing data processing. The remote sensing data processing task scheduling is characterized as one novel comprehensive multi-objective model. In this proposed model, the remote sensing data processing task scheduling problem is divided into task dispensation and task scheduling sub-problem with hundreds of variables being considered in it. In order to effectively solve this problem, Bayes belief model is applied to generate the initial dispensation plan, and learnable ant colony optimization is proposed to solve task scheduling sub-problem. Experimental results suggest that the proposed comprehensive multi-objective model and its solving methods are feasible and efficient to remote sensing data processing task scheduling, and it also promotes processing centers interoperability among heterogeneous and dispersed processing center. The model and the method of this paper can provide a valuable reference for solving other complex scheduling problem.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria group decision-making method based on TODIM with probabilistic interval-valued hesitant fuzzy information
-A1  - Zhang, Guo
-A1  - Wang, Jian-qiang
-A1  - Wang, Tie-li
-Y1  - 2019/08//
-KW  - TODIM
-KW  - fuzzy analytic network process
-KW  - multi-criteria group decision making
-KW  - probabilistic interval-valued hesitant fuzzy set
-PB  - John Wiley & Sons, Ltd
-JF  - Expert Systems
-VL  - 36
-IS  - 4
-SP  - e12424
-EP  - e12424
-DO  - https://doi.org/10.1111/exsy.12424
-UR  - https://doi.org/10.1111/exsy.12424
-N1  - https://doi.org/10.1111/exsy.12424
-N2  - Abstract Probabilistic interval-valued hesitant fuzzy sets (PIV-HFSs) are suitable for aggregating information from different groups because the probabilistic information of all the groups can be included by using interval values. Moreover, decision makers (DMs) prefer to use interval values to provide evaluation information. Furthermore, the traditional multi-criteria group decision-making (MCGDM) approach has some limitations, such as obtaining the DMs' weights with inappropriate methods and neglecting the interactions amongst the criteria and the psychological characteristics of DMs. Motivated by these research background, the main contents of this study are as follows. First, PIV-HFSs are proposed, and the convex combination operation is extended into PIV-HFSs. Second, a hybrid MCGDM approach with PIV-HFSs is suggested that is based on the maximizing deviation method, fuzzy analytic network process (FANP) and TODIM (an acronym in Portuguese for interactive and multi-criteria decision-making model). Third, an evaluation case of health management centres based on the service-specific failure mode and effect analysis (FMEA) is considered. The results show that the most crucial secondary factor is frequency (0.35775) and that the most serious failure mode is the inaccurate check-in. The results demonstrate that the proposed model can evaluate service quality effectively and that it performs better than other methods.
-ER  - 
-TY  - JOUR
-T1  - Evaluation of Multicriteria Decision Analysis Algorithms in Food Safety: A Case Study on Emerging Zoonoses Prioritization
-A1  - Garre, Alberto
-A1  - Boué, Geraldine
-A1  - Fernández, Pablo S
-A1  - Membré, Jeanne-Marie
-A1  - Egea, Jose A
-Y1  - 2020/02//
-KW  - Food safety management
-KW  - MCDA
-KW  - prioritization
-KW  - risk ranking
-KW  - uncertainty
-PB  - John Wiley & Sons, Ltd
-JF  - Risk Analysis
-VL  - 40
-IS  - 2
-SP  - 336
-EP  - 351
-DO  - https://doi.org/10.1111/risa.13391
-UR  - https://doi.org/10.1111/risa.13391
-N1  - https://doi.org/10.1111/risa.13391
-N2  - Abstract Decision making in food safety is a complex process that involves several criteria of different nature like the expected reduction in the number of illnesses, the potential economic or health-related cost, or even the environmental impact of a given policy or intervention. Several multicriteria decision analysis (MCDA) algorithms are currently used, mostly individually, in food safety to rank different options in a multifactorial environment. However, the selection of the MCDA algorithm is a decision problem on its own because different methods calculate different rankings. The aim of this study was to compare the impact of different uncertainty sources on the rankings of MCDA problems in the context of food safety. For that purpose, a previously published data set on emerging zoonoses in the Netherlands was used to compare different MCDA algorithms: MMOORA, TOPSIS, VIKOR, WASPAS, and ELECTRE III. The rankings were calculated with and without considering uncertainty (using fuzzy sets), to assess the importance of this factor. The rankings obtained differed between algorithms, emphasizing that the selection of the MCDA method had a relevant impact in the rankings. Furthermore, considering uncertainty in the ranking had a high influence on the results. Both factors were more relevant than the weights associated with each criterion in this case study. A hierarchical clustering method was suggested to aggregate results obtained by the different algorithms. This complementary step seems to be a promising way to decrease extreme difference among algorithms and could provide a strong added value in the decision-making process.
-ER  - 
-TY  - JOUR
-T1  - Sequential quadratic programming and analytic hierarchy process for nonlinear multiobjective optimization of a hydropower network
-A1  - Moosavian, S Ali A
-A1  - Ghaffari, Ali
-A1  - Salimi, Amir
-Y1  - 2010/07//
-KW  - analytical hierarchy process
-KW  - multicriteria decision analysis
-KW  - multiobjective optimization
-KW  - sequential quadratic programming
-KW  - stochastic-weighted sum method
-PB  - John Wiley & Sons, Ltd
-JF  - Optimal Control Applications and Methods
-VL  - 31
-IS  - 4
-SP  - 351
-EP  - 364
-DO  - https://doi.org/10.1002/oca.909
-UR  - https://doi.org/10.1002/oca.909
-N1  - https://doi.org/10.1002/oca.909
-N2  - Abstract In this paper, an optimal annual scheduling for power generation (i.e. rule curves and volume of water releases) in serial or parallel hydropower plants is developed. Multiobjective programming and weighted sum method are used to convert a multiobjective problem to a single objective one. Furthermore, to obtain viable alternatives under existing uncertainty, some random weight vectors in the whole weighting space are generated and for each weight vector an optimal solution is found using sequential quadratic programming (SQP). Then, analytic hierarchy process (AHP) is used to select the best solution according to a given criterion, and determine the most preferred one. Besides, this method does not require choosing a priori preference for the objective function, thus making an ideal tool for handling complicated multiobjective models and easy to use with the aid of computer programs. Combination of multiobjective optimization and multicriteria decision analysis (MCDA) is an integrated methodology that is capable of dealing with complex water management problems. Various scenarios for dry, median, and wet years are assumed based on stochastic flows from external sources (e.g. flooding rivers, unexpected rains, etc.) coming into each reservoir, and turbine power generation is obtained from hill diagrams provided by the manufacturer. The application of this methodology is illustrated in a case study for optimal scheduling of Karoon River Basin, where the decision support system and optimization routines are implemented in MATLAB. The total energy productions for 10 optimized solutions under dry, median, and wet scenarios (generated from forty-year historical inflow records) are calculated, and specific water consumption for each reservoir is obtained in different months. This can significantly help decision makers to have an optimal and more intelligent management over energy productions in hydropower plants and associated thermal power plants. Copyright ? 2009 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
-T1  - The pandora of network slicing: A multicriteria analysis
-A1  - Rosa, Raphael Vicente
-A1  - Rothenberg, Christian Esteve
-Y1  - 2020/01//
-PB  - John Wiley & Sons, Ltd
-JF  - Transactions on Emerging Telecommunications Technologies
-VL  - 31
-IS  - 1
-SP  - e3651
-EP  - e3651
-DO  - https://doi.org/10.1002/ett.3651
-UR  - https://doi.org/10.1002/ett.3651
-N1  - https://doi.org/10.1002/ett.3651
-N2  - Abstract The evolving requirements of 5G communication business cases around vertical markets in addition to rich content multimedia cloud applications call for advances in enabling technologies and standardization to realize tailor-made end-to-end network services, an approach commonly referred to as network slicing. Different mappings between infrastructure capabilities and custom service requirements produce an overload of information that a network service provider must handle to rationalize possible slicing alternatives for a given business case. This article proposes a methodology exploring algorithms from multicriteria analysis (MCA) to digest a set of slicing criteria advantage points into a coherent set of slicing preferences. Through extensive experimental analysis, we reasoning about observed patterns in the slicing alternatives and discuss the utility of the proposed MCA process for the definition of classes of slices, slicing abstractions views, and recovery/scalability analysis. Altogether, the MCA methodology proposed in this article sheds light into candidate mechanisms to tackle the pandora behind the yet-to-be-understood issues and unanticipated trade-offs of alternative network slicing approaches. Contributions of this article include providing a prominent outlook towards different dimensioning angles of network slicing, scoping its criteria design, timing, and the quality of the criteria information.
-ER  - 
-TY  - JOUR
-T1  - Recent advances in rapid multiobjective optimization of expensive simulation models in microwave and antenna engineering by Pareto front exploration
-A1  - Koziel, Slawomir
-A1  - Bekasiewicz, Adrian
-Y1  - 2018/02//
-KW  - computational electromagnetics
-KW  - computer-aided design
-KW  - electromagnetic-simulation models
-KW  - multiobjective optimization
-KW  - response features
-KW  - simulation-driven design
-KW  - space mapping
-KW  - surrogate modeling
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of RF and Microwave Computer-Aided Engineering
-VL  - 28
-IS  - 2
-SP  - e21190
-EP  - e21190
-DO  - https://doi.org/10.1002/mmce.21190
-UR  - https://doi.org/10.1002/mmce.21190
-N1  - https://doi.org/10.1002/mmce.21190
-N2  - Abstract Practical engineering design problems are inherently multiobjective, that is, require simultaneous control of several (and often conflicting) criteria. In many situations, genuine multiobjective optimization is required to acquire comprehensive information about the system of interest. The most popular solution techniques are population-based metaheuristics, however, they are not practical for handling expensive electromagnetic (EM)-simulation models in microwave and antenna engineering. A workaround is to use auxiliary response surface approximation surrogates but it is challenging for higher-dimensional problems. Recently, a deterministic approach has been proposed for expedited multiobjective design optimization of expensive models in computational EMs. The method relies on variable-fidelity EM simulations, tracking the Pareto front geometry, as well as response correction. The algorithm sequentially generates Pareto-optimal designs using a series of constrained single-objective optimizations. The previously obtained design is used as a starting point for the next iteration. In this work, we review this technique and its modification based on space mapping surrogates. We also propose new variations exploiting adjoint sensitivities, as well as response features, which can be attractive depending on availability of derivatives or the characteristics of the system responses that need to be handled. We also discuss several case studies involving various antenna and microwave components.
-ER  - 
-TY  - JOUR
-T1  - Resource allocation through logistic regression and multicriteria decision making method in IoT fog computing
-A1  - Bashir, Hayat
-A1  - Lee, Seonah
-A1  - Kim, Kyong Hoon
-Y1  - 2019/12//
-PB  - John Wiley & Sons, Ltd
-JF  - Transactions on Emerging Telecommunications Technologies
-VL  - n/a
-IS  - n/a
-SP  - e3824
-EP  - e3824
-DO  - https://doi.org/10.1002/ett.3824
-UR  - https://doi.org/10.1002/ett.3824
-N1  - https://doi.org/10.1002/ett.3824
-N2  - Abstract Cloud computing has received a lot of attention from both researcher and developer in last decade due to its unique structure of providing services to the user. As the digitalization of world, heterogeneous devices, and with the emergence of Internet of Things (IoT), these IoT devices produce different type of data with distinct frequency, which require real-time and latency sensitive services. This provides great challenge to cloud computing framework. Fog computing is a new framework to accompaniment cloud platform and is proposed to extend services to the edge of the network. In fog computing, the entire user's tasks are offloaded to distributed fog nodes to the edge of network to avoid delay sensitivity. We select fog computing network dwell different set of fog nodes to provide required services to the users. Allocation of defined resource to the users in order to achieve optimal result is a big challenge. Therefore, we propose dynamic resource allocation strategy for cloud, fog node, and users. In the framework, we first formulate the ranks of fog node using TOPSIS to identify most suitable fog node for the incoming request. Simultaneously logistic regression calculates the load of individual fog node and updates the result to send back to the broker for next decision. Simulation results demonstrate that the proposed scheme undoubtedly improves the performance and give accuracy of 98.25%.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria decision analysis for flood risk on the Chenab River
-A1  - Hassan, Sher Shah
-A1  - Ajmal, Muhammad
-A1  - Khan, Aftab Ahmad
-A1  - Goheer, Muhammad Arif
-A1  - Khattak, Muhammad Shahzad
-A1  - Ali, Shaukat
-A1  - Ijaz, Muhammad
-A1  - Adnan, Muhammad
-Y1  - 2019/12//
-PB  - John Wiley & Sons, Ltd
-JF  - Weather
-VL  - 74
-IS  - S1
-SP  - S65
-EP  - S75
-DO  - https://doi.org/10.1002/wea.3490
-UR  - https://doi.org/10.1002/wea.3490
-N1  - https://doi.org/10.1002/wea.3490
-ER  - 
-TY  - JOUR
-T1  - A Multicriteria Outranking Modeling Approach for Credit Rating
+T1  - Which Cooperative Ownership Model Performs Better? A Financial-Decision Aid Approach
+A1  - Kalogeras, Nikos
+A1  - Pennings, Joost M.E.
+A1  - Benos, Theo
 A1  - Doumpos, Michael
-A1  - Zopounidis, Constantin
-Y1  - 2011/08//
-KW  - Financial Distress
-KW  - Multicriteria Decision-Making Methods
-KW  - Risk Management
+Y1  - 2013/01//
 PB  - John Wiley & Sons, Ltd
-JF  - Decision Sciences
-VL  - 42
-IS  - 3
-SP  - 721
-EP  - 742
-DO  - https://doi.org/10.1111/j.1540-5915.2011.00328.x
-UR  - https://doi.org/10.1111/j.1540-5915.2011.00328.x
-N1  - https://doi.org/10.1111/j.1540-5915.2011.00328.x
-N2  - ABSTRACT Rating models are widely used by credit institutions to obtain estimates for the probabilities of default for their clients (firms, organizations, individuals) and to assess the risk of credit portfolios. Several statistical and data mining methods are used to develop such models. In this article, the potential of an outranking multicriteria decision-aiding approach is explored. An evolutionary algorithm is used to fit a credit rating model on the basis of the ELimination Et Choix Traduisant la REalité trichotomique method. The methodology is applied to a large sample of Greek firms. The results indicate that outranking models are well suited to credit rating, providing good classification results and useful insight on the relative importance of the evaluation criteria.
-ER  - 
-TY  - JOUR
-T1  - 9.1.2 Two-stage Multi-objective Analysis in the Assignment of Federal Air Marshals
-A1  - Philie, Mathieu
-A1  - Kwinn Jr., Michael J
-A1  - Henderson, Steven J
-Y1  - 2014/07//
-PB  - John Wiley & Sons, Ltd
-JF  - INCOSE International Symposium
-VL  - 24
+JF  - Agribusiness
+VL  - 29
 IS  - 1
-SP  - 908
-EP  - 922
-DO  - https://doi.org/10.1002/j.2334-5837.2014.tb03189.x
-UR  - https://doi.org/10.1002/j.2334-5837.2014.tb03189.x
-N1  - https://doi.org/10.1002/j.2334-5837.2014.tb03189.x
-N2  - Abstract The United States Federal Air Marshal Service (FAMS) plays a critical role in ensuring safe travel aboard United States (US) air carriers. Federal Air Marshall agents, who operate out of field offices throughout the US, are assigned to accompany flights in order to deter and respond to hostile acts. In an era of limited resources, the FAMS is interested in optimally locating its field offices and agents to minimize the overall risk to the US air transportation system. This represents a highly constrained and complex optimization problem that resists standard techniques. In this paper, we demonstrate an approach that leverages the value-focused thinking to model risk and optimize risk mitigation. Our approach uses a novel two-stage approach to risk analysis that reduces the optimization burden and provides a solution to the FAMS.
+SP  - 80
+EP  - 95
+DO  - 10.1002/agr.21323
+UR  - https://doi.org/10.1002/agr.21323
+N1  - https://doi.org/10.1002/agr.21323
+N2  - In this article the financial/ownership structures of agribusiness cooperatives are analyzed to examine whether new cooperative models perform better than the more traditional ones. The assessment procedure introduces a new financial decision-aid approach, which is based on data-analysis techniques in combination with a preference ranking organization method of enrichment evaluations (PROMETHEE II). The application of this multicriteria decision-aid approach allows the rank ordering of cooperatives based on the most prominent financial ratios. The financial ratios were selected using principal component analysis. This analytical procedure reduces the dimensionality of large numbers of interrelated financial performance measures. We assess the financial success of Dutch agribusiness cooperatives for the period 1999-2010. Results show that there is no clear-cut evidence that cooperative models used to attract extra members' investments and/or outside equity perform better than the more traditional models. This suggests that ownership structure of cooperatives is not always a decisive factor for their financial success. © 2013 Wiley Periodicals, Inc.
 ER  - 
 TY  - JOUR
-T1  - Mobile ad hoc network broadcasting: A multi-criteria approach
-A1  - Barritt, Brian J
-A1  - Sheikh, Shaya
-A1  - Al-Najjar, Camelia
-A1  - Malakooti, Behnam
-Y1  - 2011/04//
-KW  - broadcasting
-KW  - mobile ad hoc networks
-KW  - multiple criteria
-KW  - reconfigurable
+T1  - Use of multicriteria decision analysis for assessing the benefit and risk of over-the-counter analgesics
+A1  - Moore, Andrew
+A1  - Crossley, Anne
+A1  - Ng, Bernard
+A1  - Phillips, Lawrence
+A1  - Sancak, Özgür
+A1  - Rainsford, K. D.
+Y1  - 2017/10//
+KW  - decision conferencing
+KW  - group judgements
+KW  - multicriteria decision analysis
+KW  - over-the-counter analgesics
+KW  - pain relief
 PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Communication Systems
-VL  - 24
-IS  - 4
-SP  - 438
-EP  - 460
-DO  - https://doi.org/10.1002/dac.1162
-UR  - https://doi.org/10.1002/dac.1162
-N1  - https://doi.org/10.1002/dac.1162
-N2  - Abstract Nodes in a computer network often require a copy of a message to be delivered to every node in the network. The network layer can provide such a service, referred to as network-wide broadcast routing or simply ?broadcasting?. Broadcasting has many applications, including its role as a service to many routing protocols. In a mobile ad hoc network (MANET), simplistic broadcast schemes (such as flooding) inundate the network with redundancy, contention, collision, and unnecessary use of energy resources. This can prevent broadcasts from achieving their primary objective of maximizing delivery ratio, while also considering secondary objectives, such as balancing energy resources or reducing the network's burden on congested or busy nodes. As a solution, we propose multiple-criteria broadcasting (MCB). In MCB, the source of each broadcast specifies the importance assigned to broadcast objectives. Network nodes use these priorities, along with local and neighbor knowledge of distributed factors, to broadcast in accordance with the objective priorities attributed to the message. Using ns2, the performance of MCB is evaluated and compared to that of other broadcast protocols. To present knowledge, MCB constitutes the first reconfigurable, multi-objective approach to broadcasting. Copyright ? 2010 John Wiley & Sons, Ltd.
+JF  - Journal of Pharmacy and Pharmacology
+VL  - 69
+IS  - 10
+SP  - 1364
+EP  - 1373
+DO  - 10.1111/jphp.12770
+UR  - https://doi.org/10.1111/jphp.12770
+N1  - https://doi.org/10.1111/jphp.12770
+N2  - Objectives: To test the ability of a multicriteria decision analysis (MCDA) model to incorporate disparate data sources of varying quality along with clinical judgement in a benefit–risk assessment of six well-known pain-relief drugs. Methods: Six over-the-counter (OTC) analgesics were evaluated against three favourable effects and eight unfavourable effects by seven experts who specialise in the relief of pain, two in a 2-day facilitated workshop whose input data and judgements were later peer-reviewed by five additional experts. Key findings: Ibuprofen salts and solubilised emerged with the best benefit–risk profile, followed by naproxen, ibuprofen acid, diclofenac, paracetamol and aspirin. Conclusions: Multicriteria decision analysis enabled participants to evaluate the OTC analgesics against a range of favourable and unfavourable effects in a group setting that enabled all issues to be openly aired and debated. The model was easily communicated and understood by the peer reviewers, so the model should be comprehensible to physicians, pharmacists and other health professionals.
 ER  - 
 TY  - JOUR
-T1  - Utilization of machine-learning algorithms for wind turbine site suitability modeling in Iowa, USA
-A1  - Petrov, Andrey N
-A1  - Wessling, Jordan M
-Y1  - 2015/04//
-KW  - machine-learning
-KW  - multicriteria decision making
-KW  - spatial modeling
-KW  - turbine site suitability
-KW  - wind energy
-PB  - John Wiley & Sons, Ltd
-JF  - Wind Energy
-VL  - 18
-IS  - 4
-SP  - 713
-EP  - 727
-DO  - https://doi.org/10.1002/we.1723
-UR  - https://doi.org/10.1002/we.1723
-N1  - https://doi.org/10.1002/we.1723
-N2  - Abstract Because of the current shift away from fossil fuels and toward renewable energy sources, it is necessary to plan for the installation of new infrastructure to meet the demand for clean energy. Traditional methods for determining wind turbine site suitability suffer from the selection of arbitrary criteria and model parameters by experts, which may lead to a degree of uncertainty in the models produced. An alternative empirically based methodology for building a wind turbine siting model for the state of Iowa is presented in the study. We employ ?ecological niche? principles traditionally utilized to model species allocation to develop a new multicriteria, spatially explicit framework for wind turbine placement. Using information on suitability conditions at existing turbine locations, we incorporate seven variables (wind speed, elevation, slope, land cover, distance of infrastructure and settlements, and population density) into two machine-learning algorithms [maximum entropy method (Maxent) and Genetic Algorithm for Rule Set Prediction (GARP)] to model suitable areas for installation of wind turbines. The performance of this method is tested at the statewide level and a six-county region in western Iowa. Maxent and GARP identified areas in the Northwest and North Central regions of Iowa as the optimum location for new wind turbines. Information on variable contributions from Maxent illuminates the relative importance of environmental variables and its scale-dependent nature. It also allows validating existing assumptions about the relationship between variables and wind turbine suitability. The resultant models demonstrate high levels of accuracy and suggest that the presented approach is a possible methodology for developing wind turbine siting applications. Copyright ? 2014 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
-T1  - Benefit-Risk Assessment of Statins (Lipid Lowering Agents): A Multi-Criteria Decision Analysis
-A1  - Wanishayakorn, Tanatape
-A1  - Ngorsuraches, Surachat
-Y1  - 2016/01//
-KW  - experts
-KW  - multi-criteria decision analysis
-KW  - multi-stakeholders
-KW  - patients
-KW  - policymakers
-KW  - statins
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - 23
-IS  - 1-2
-SP  - 28
-EP  - 39
-DO  - https://doi.org/10.1002/mcda.1554
-UR  - https://doi.org/10.1002/mcda.1554
-N1  - https://doi.org/10.1002/mcda.1554
-N2  - Abstract Background Benefit-risk assessment (BRA) concept has been increasingly used in drug evaluation, and multi-criteria decision analysis (MCDA) is one of the recommended BRA tools. The objective of this study was to assess benefits and risks of statins (lipid lowering agents) by MCDA, based on patient's, clinical expert's and policymaker's perspectives. Methods Benefit and risk criteria and levels of statins were identified from literatures and interviews of stakeholders. SWING weight technique, which asked stakeholders to choose the most preferred criterion if they change its level from minimum to maximum, was used to measure the weight of each criterion. There were six patients, six clinical experts and 10 policymaker groups. Each group had four members and was asked to discuss and make consensus for giving their importance scores to four benefit and risk criteria (stroke event reduction, myocardial infarction event reduction, myalgia and hepatotoxicity). The collected scores were used to calculate the criteria weights. The criterion weights were multiplied by each statin's criterion scores to calculate the total weighted score of each statin. Total weighted scores were used to rank the order of statins, which reflected the preference order of statins in each perspective. Results From four perspectives (patients, experts, policymakers and overall), the most and least important criteria were myocardial infarction reduction and myalgia, respectively. Patients and experts agreed on the order of importance for stroke reduction and hepatotoxicity, but policymakers had a different order. From expert, policymaker and overall perspectives, atorvastatin had the highest total weighted score, followed by simvastatin, fluvastatin, lovastatin, pravastatin and rosuvastatin. However, patient group agreed only with the orders of atorvastatin, fluvastatin, pravastatin and rosuvastatin. Conclusions Atorvastatin was the most preferred statin across all perspectives. This study presented the feasibility of applying MCDA in drug evaluation process and encouraged the engagement of multi-stakeholders in decision-making process. Copyright ? 2015 John Wiley & Sons, Ltd.
-ER  - 
-TY  - JOUR
-T1  - Creating a flexible business credit rating model using multicriteria decision analysis
-A1  - Katsimperis, Valentinos
-A1  - Andrikopoulos, Athanasios
-Y1  - 2020/10//
-KW  - AHP
-KW  - business rating
-KW  - ideal customer
-KW  - multicriteria analysis
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Multi-Criteria Decision Analysis
-VL  - n/a
-IS  - n/a
-DO  - https://doi.org/10.1002/mcda.1726
-UR  - https://doi.org/10.1002/mcda.1726
-N1  - https://doi.org/10.1002/mcda.1726
-N2  - Abstract To decide for the approval or rejection of a business loan application, banks are following a rating procedure. However, in many cases this procedure is not simply and properly structured. This may lead to unpleasant results so, for a long time, banks are struggling to find quite flexible and simple rating methods, widely applicable, easily comprehensible, and modifiable from their analysts. This study presents an empirical model of mass business rating with the use of multicriteria analysis (AHP method) and other techniques. Two main scenarios of a two-stage evaluation procedure will be analysed that demonstrate its flexibility, stability, and simplicity. The performance of this method is measured for both presented scenarios showing its capability. Furthermore, this method saves time and sources while ensuring the quality of the produced results. The outcome will be a list of rated businesses which, depending on the score they succeed in each of the two scenarios, will be approved or rejected for a business loan.
-ER  - 
-TY  - JOUR
-T1  - Internet of Things data analytics for parking availability prediction and guidance
-A1  - Atif, Y
-A1  - Kharrazi, S
-A1  - Jianguo, D
-A1  - ...
-Y1  - 2020///
-PB  - Wiley Online Library
-JF  - Transactions on …
-UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3862
-N1  - Cited By (since 2020): 1
-N2  - … 2.2 Multicriteria decision‐making … Continuous queuing‐theory approaches,15-17 as well machine‐learning approaches,18-21 including deep‐learning approaches,22 … Data analytics predictive models' accuracy relies on fed data, which may increase their effectiveness overtime …
-ER  - 
-TY  - JOUR
-T1  - Cloud broker proposal based on multicriteria decision-making and virtual infrastructure migration
-A1  - Rodrigues, Leonardo R
-A1  - Cardoso Jr., Euclides
-A1  - Alves Jr., Omir C
-A1  - Redígolo, Fernando F
-A1  - Pillon, Maurício A
-A1  - Miers, Charles C
-A1  - Koslovski, Guilherme P
-Y1  - 2019/09//
+T1  - A heuristic approach to the multicriteria design of IaaS cloud infrastructures for Big Data applications
+A1  - Arostegi, María
+A1  - Torre-Bastida, Ana
+A1  - Bilbao, Miren Nekane
+A1  - Del Ser, Javier
+Y1  - 2018/10//
+KW  - Big Data
+KW  - Cloud Computing
 KW  - IaaS
-KW  - broker
-KW  - container
-KW  - migration
-KW  - multicriteria
-KW  - network
-KW  - virtual infrastructure
-KW  - virtualization
-PB  - John Wiley & Sons, Ltd
-JF  - Software: Practice and Experience
-VL  - 49
-IS  - 9
-SP  - 1331
-EP  - 1351
-DO  - https://doi.org/10.1002/spe.2723
-UR  - https://doi.org/10.1002/spe.2723
-N1  - https://doi.org/10.1002/spe.2723
-N2  - Summary The adoption of infrastructure as a Service (IaaS) is a reality for academic, industrial, and governmental institutions. Cloud tenants request dynamically provisioned virtual infrastructures (VIs) tailored to their application requirements, detailing not only the virtual compute/storage resources but also the network components, topology, and services. The creation of a large number of cloud providers came along with the widespread use of VIs. The selection of an appropriate provider is a challenging task due to the diversity of the IaaS market and formally is a multicriteria analysis (NP-hard). Notwithstanding the provider selection complexity, the mobility of VI-hosted applications is limited due to the optimization anchors introduced by providers. Although the existing IaaS cloud brokers can indicate a hosting provider, they lack on conceptual and technical skills to migrate a VI and all its internal components between providers. This work enhances the state-of-the-art on IaaS cloud brokerage by proposing virtual infrastructure multicriteria allocation and migration?based broker (VIMAM), which performs a multicriteria analysis of providers and VI migration. VIMAM is driven by an analytic hierarchy process (AHP) to select an IaaS provider, offering a set of predefined weighting schemas to represent distinct tenant perspectives. Moreover, to migrate a VI, VIMAM takes into account the virtual machines, containers, switches, and other topology elements. In addition to discussing the AHP ranking weights and frequency of providers selection, the experimental analysis details the implementation of an OpenStack and Docker?based prototype for VI migration.
-ER  - 
-TY  - JOUR
-T1  - Selecting optimal mixtures of natural sweeteners for carbonated soft drinks through multi-objective decision modeling and sensory validation
-A1  - Acevedo, Waldo
-A1  - Capitaine, Chloé
-A1  - Rodríguez, Ricardo
-A1  - Araya-Durán, Ingrid
-A1  - González-Nilo, Fernando
-A1  - Pérez-Correa, José R
-A1  - Agosin, Eduardo
-Y1  - 2018/12//
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Sensory Studies
-VL  - 33
-IS  - 6
-SP  - e12466
-EP  - e12466
-DO  - https://doi.org/10.1111/joss.12466
-UR  - https://doi.org/10.1111/joss.12466
-N1  - https://doi.org/10.1111/joss.12466
-N2  - Abstract The objective of this study was to develop a methodology to optimize mixtures of natural, noncaloric sweeteners?with the highest sweetness and the lowest bitterness?for carbonated soft drinks. To this end, and with the aid of a trained sensory panel, we first determined the most suitable mixtures of tagatose, sucrose, and stevia in a soft drink matrix, using a three-component simplex lattice mixture design. Then, we developed a multi-objective thermodynamically-based decision model to this purpose. Results indicate that both, sucrose and tagatose, were able to reduce stevia's bitterness. However, an increase of bitterness intensity was found above 0.23?g/L of stevia (sucrose equivalency or SE?>5). Both, sensory analysis and multi-objective decision modeling identified similar optimal mixtures, corresponding to 23?39?g/L sucrose, 0.19?0.34?g/L stevia, and 34?42?g/L tagatose, depending on the desired sweetness/bitterness balance. Within this constrained area, a reduction of almost 60% of sucrose can be achieved in both approaches, keeping bitterness intensity low. Practical applications Current demand of low-calorie beverages has significantly raised as a result of consumer concerns on the negative effects of refined sugars present in carbonated soft drinks. Consequently, natural sweeteners, and their mixtures, are being increasingly used for these product developments. This study provides a methodology to optimize mixtures of natural, noncaloric sweeteners for preparing carbonated soft drinks with the lowest possible caloric content, while maintaining the tastiness?high sweetness and low bitterness?of full caloric ones, containing the bulk sweetener tagatose and the high-intensity sweetener stevia.
-ER  - 
-TY  - JOUR
-T1  - Data-driven multi-objective optimization via grid compatible simplex technique and desirability approach for challenging high throughput chromatography applications
-A1  - Konstantinidis, Spyridon
-A1  - Welsh, John P
-A1  - Titchener-Hooker, Nigel J
-A1  - Roush, David J
-A1  - Velayudhan, Ajoy
-Y1  - 2018/11//
-KW  - Pareto front
-KW  - Simplex optimization
-KW  - chromatography
-KW  - design of experiments
-KW  - desirability
-KW  - high throughput bioprocess development
-KW  - multi-objective optimization
-PB  - American Chemical Society (ACS)
-JF  - Biotechnology Progress
-VL  - 34
-IS  - 6
-SP  - 1393
-EP  - 1406
-DO  - https://doi.org/10.1002/btpr.2673
-UR  - https://doi.org/10.1002/btpr.2673
-N1  - https://doi.org/10.1002/btpr.2673
-N2  - Recently, a grid compatible Simplex variant has been demonstrated to identify optima consistently and rapidly in challenging high throughput (HT) applications in early bioprocess development. Here, this method is extended by deploying it to multi-objective optimization problems. Three HT chromatography case studies are presented, each posing challenging early development situations and including three responses which were amalgamated by the adoption of the desirability approach. The suitability of a design of experiments (DoE) methodology per case study, using regression analysis in addition to the desirability approach, was evaluated for a large number of weights and in the presence of stringent and lenient performance requirements. Despite the adoption of high-order models, this approach had low success in identification of the optimal conditions. For the deployment of the Simplex approach, the deterministic specification of the weights of the merged responses was avoided by including them as inputs in the formulated multi-objective optimization problem, facilitating this way the decision making process. This, and the ability of the Simplex method to locate optima, rendered the presented approach highly successful in delivering rapidly operating conditions, which belonged to the Pareto set and offered a superior and balanced performance across all outputs compared to alternatives. Moreover, its performance was relatively independent of the starting conditions and required sub-minute computations despite its higher order mathematical functionality compared to DoE techniques. These evidences support the suitability of the grid compatible Simplex method for early bioprocess development studies involving complex data trends over multiple responses. ? 2018 The Authors Biotechnology Progress published by Wiley Periodicals, Inc. on behalf of American Institute of Chemical Engineers Biotechnol. Prog., 34:1393?1406, 2018
-ER  - 
-TY  - JOUR
-T1  - Multi-objective reservoir operation under emergency condition: Abbaspour reservoir case study with non-functional spillways
-A1  - Akbari, M
-A1  - Afshar, A
-A1  - Mousavi, S J
-Y1  - 2014/12//
-KW  - Emergency condition
-KW  - flood risk management
-KW  - multi-objective reservoir operation
-KW  - real time forecasting
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Flood Risk Management
-VL  - 7
-IS  - 4
-SP  - 374
-EP  - 384
-DO  - https://doi.org/10.1111/jfr3.12061
-UR  - https://doi.org/10.1111/jfr3.12061
-N1  - https://doi.org/10.1111/jfr3.12061
-N2  - Abstract The main objective of this study is to present a simulation-optimization approach methodology for short-term operation of multi-objective reservoirs during emergency conditions where risk of flooding and overflow from damaged spillways is significant. The paper considers flood risk management through enhancing dam safety as well as long-term objectives of the reservoir for hydropower generation and irrigation water supply simultaneously. In particular, real-time operation of Abbaspour reservoir during an emergency condition is considered where all flood discharging facilities are out of order for repairing the damaged parts. The proposed methodology combines a short-term and a long-term operation strategies to minimize risk of overflow for any possible incoming floods while preserving the long-term objectives of the reservoir. An efficient daily flow forecasting scheme provides the inflow data for the short-term (daily) operation strategy in a deterministic environment which follows the long-term operation policy. A multi-objective stochastic dynamic programming model addresses the long-term operation policy by solving the weekly operation model. The outcomes of the model application to the case study have illustrated its capabilities in developing a compromise between the risk of dam overflow and its long-term objectives.
-ER  - 
-TY  - JOUR
-T1  - Orderings based on the banks set: Some new scoring methods for multicriteria decision making
-A1  - Moser, Scott
-Y1  - 2015/05//
-KW  - Banks set
-KW  - collective choice
-KW  - multicriteria decision making
-KW  - ranking
-KW  - tournament
-PB  - John Wiley & Sons, Ltd
-JF  - Complexity
-VL  - 20
+KW  - NSGA-II
+KW  - multiobjective heuristics
+PB  - Blackwell Publishing Ltd
+JF  - Expert Systems
+VL  - 35
 IS  - 5
-SP  - 63
-EP  - 76
-DO  - https://doi.org/10.1002/cplx.21527
-UR  - https://doi.org/10.1002/cplx.21527
-N1  - https://doi.org/10.1002/cplx.21527
-N2  - This article introduces new methods for ranking alternatives in multicriteria decision making situations. Each is based on the normative position that the strength of an alternative is inversely related to the number of alternatives that could prevent it from being chosen. The scores discriminate among elements of the Banks set (Banks, Soc Choice Welfare, 1985, 1, 295?306). The new scoring methods are compared to traditional scoring methods and related to the amount of intransitivity (specifically, the size of the top-cycle) of aggregated preference. The new scores are shown to measure important aspects of alternatives not captured by extant scoring methods and are illustrated in collective choice settings. ? 2014 Wiley Periodicals, Inc. Complexity 20: 63?76, 2015
-ER  - 
-TY  - JOUR
-T1  - A GIS-based multi-criteria seismic vulnerability assessment using the integration of granular computing rule extraction and artificial neural networks
-A1  - Sheikhian, Hossein
-A1  - Delavar, Mahmoud Reza
-A1  - Stein, Alfred
-Y1  - 2017/12//
-PB  - John Wiley & Sons, Ltd
-JF  - Transactions in GIS
-VL  - 21
-IS  - 6
-SP  - 1237
-EP  - 1259
-DO  - https://doi.org/10.1111/tgis.12274
-UR  - https://doi.org/10.1111/tgis.12274
-N1  - https://doi.org/10.1111/tgis.12274
-N2  - Abstract This study proposes multi-criteria group decision-making to address seismic physical vulnerability assessment. Granular computing rule extraction is combined with a feed forward artificial neural network to form a classifier capable of training a neural network on the basis of the rules provided by granular computing. It provides a transparent structure despite the traditional multi-layer neural networks. It also allows the classifier to be applied on a set of rules for each incoming pattern. Drawbacks of original granular computing (GrC) are covered, where some input patterns remained unclassified. The study was applied to classify seismic vulnerability of the statistical units of the city of Tehran, Iran. Slope, seismic intensity, height and age of the buildings were effective parameters. Experts ranked 150 randomly selected sample statistical units with respect to their degree of seismic physical vulnerability. Inconsistency of the experts' judgments was investigated using the induced ordered weighted averaging (IOWA) operator. Fifty-five classification rules were extracted on which a neural network was based. An overall accuracy of 88%, ??=?0.85 and R2?=?0.89 was achieved. A comparison with previously implemented methodologies proved the proposed method to be the most accurate solution to the seismic physical vulnerability of Tehran.
+SP  - e12259
+EP  - e12259
+DO  - 10.1111/exsy.12259
+UR  - http://doi.wiley.com/10.1111/exsy.12259
+N2  - The rapid growth of new computing paradigms such as Cloud Computing and Big Data has unleashed great opportunities for companies to shift their business model towards a fully digital strategy. A major obstacle in this matter is the requirement of highly specialized ICT infrastructures that are expensive and difficult to manage. It is at this point that the IaaS (infrastructure as a service) model offers an efficient and cost-affordable solution to supply companies with their required computing resources. In the Big Data context, it is often a hard task to design an optimal IaaS solution that meets user requirements. In this context, we propose a methodology to optimize the definition of IaaS cloud models for hosting Big Data platforms, following a threefold criterion: cost, reliability, and computing capacity. Specifically, the proposed methodology hinges on evolutionary heuristics in order to find IaaS configurations in the cloud that optimally balance such objectives. We also define measures to quantify the aforementioned metrics over a Big Data platform hosted within an IaaS cloud model. The proposed method is validated by using real information from three IaaS providers and three Big Data platforms. The obtained results provide an insightful input for system managers when initially designing cloud infrastructures for Big Data applications.
 ER  - 

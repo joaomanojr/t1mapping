@@ -1,670 +1,73 @@
 TY  - JOUR
-T1  - A Fuzzified Multicriteria Outranking Method for Water Framework Directive Implementation in a Heavily Modified Urban Lake (Pamvotis, Greece)
-A1  - Latinopoulos, Mike SpiliotisLambros PanagiotouIfigenia KagalouDionissis
+T1  - Developing and evaluating a proposed health security framework in IoT using fuzzy analytic network process method
+A1  - Haghparast, Mohammad Bagher
+A1  - Berehlia, Sasan
+A1  - Akbari, Mona
+A1  - Sayadi, Ali
 Y1  - 2020///
-JF  - Water Resources Management
-VL  - 34.0
-IS  - 14
-DO  - 10.1007/s11269-020-02624-2
-UR  - http://link.springer.com/article/10.1007/s11269-020-02624-2
+KW  - Analytic network process (ANP)
+KW  - Cloud services
+KW  - Fuzzy ANP
+KW  - Health Internet of Things
+KW  - Internet of Things (IoT)
+KW  - Privacy
+KW  - Security framework
+JF  - Journal of Ambient Intelligence and Humanized Computing
+DO  - 10.1007/s12652-020-02472-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089784090&doi=10.1007%2Fs12652-020-02472-3&partnerID=40&md5=2da81b077330218b941550d7cc45c140
+N1  - Export Date: 5 November 2020
+N2  - Internet of Things (IoT) played a significant role in Healthcare. One of the major challenges in IoT health is security. For this reason, regarding the past studies, there is a lack of a comprehensive security framework that encompasses all layers of IoT. This article offers a security framework with four layers of sensor, network, service, and application. These layers help to develop security mechanisms within the proposed framework by providing security solutions. Also, security improvement has been influenced by the Multi Criteria Decision Making (MCDM) technique. To evaluate this framework, a conceptual model was defined with six critical criteria including security, network, services, interoperability, privacy, and reliability. The validity and reliability of this conceptual model were analyzed using SPSS 24 and AMOS 18. After proving the important criteria in the proposed model, we used the MCDM process of fuzzy analytic network process to prioritize the important criteria. The evaluation results of the conceptual model in the proposed framework, after analyzing the routes, show the validity of the proposed criteria. Therefore, in this model, 8 out of 12 communication routes between the criteria have a positive and significant relationship and 4 routes do not. The results of prioritizing important criteria in the research model, using analytic network process method, show that the network criterion, and authentication and validation sub-criteria have the highest priority among the proposed criteria. Thus, it can be decided that security solutions in the network layer and authentication and validation sub-criteria help to develop the proposed security framework.
 ER  - 
 TY  - JOUR
-T1  - A fuzzy multi-criteria evaluation method for designing fashion oriented industrial products
-A1  - Delmotte, X ZengY. ZhuL. KoehlM. CamargoC. FonteixF.
-Y1  - 2010///
-JF  - Soft Computing
-VL  - 14.0
-IS  - 12
-DO  - 10.1007/s00500-009-0496-z
-UR  - http://link.springer.com/article/10.1007/s00500-009-0496-z
-ER  - 
-TY  - JOUR
-T1  - A Fuzzy Multi-Criteria Group Decision-Making Model Based on Weighted Borda Scoring Method for Watershed Ecological Risk Management: a Case Study of Three Gorges Reservoir Area of China
-A1  - Guanchun, Hao FanghuaChen
-Y1  - 2010///
-JF  - Water Resources Management
-VL  - 24.0
-IS  - 10
-DO  - 10.1007/s11269-009-9544-9
-UR  - http://link.springer.com/article/10.1007/s11269-009-9544-9
-ER  - 
-TY  - JOUR
-T1  - A Fuzzy Multi-objective Mathematical Programming Model for Project Management Decisions Considering Quality and Contractual Reward and Penalty Costs in a Project Network
-A1  - Patoghi, S M HashemiS. M MousaviA.
-Y1  - 2020///
-JF  - Arabian Journal for Science and Engineering
-DO  - 10.1007/s13369-020-04800-3
-UR  - http://link.springer.com/article/10.1007/s13369-020-04800-3
-ER  - 
-TY  - JOUR
-T1  - A Fuzzy Multicriteria Categorization of Water Scarcity in Complex Water Resources Systems
-A1  - Garrote, Mike SpiliotisFrancisco Martín-CarrascoLuis
-Y1  - 2015///
-JF  - Water Resources Management
-VL  - 29.0
-IS  - 2
-DO  - 10.1007/s11269-014-0792-y
-UR  - http://link.springer.com/article/10.1007/s11269-014-0792-y
-ER  - 
-TY  - JOUR
-T1  - A GIS-based flood susceptibility assessment and its mapping in Iran: a comparison between frequency ratio and weights-of-evidence bivariate statistical models with multi-criteria decision-making technique
-A1  - Pourghasemi, Khabat KhosraviEbrahim NohaniEdris MaroufiniaHamid Reza
-Y1  - 2016///
-JF  - Natural Hazards
-VL  - 83.0
-IS  - 2
-DO  - 10.1007/s11069-016-2357-2
-UR  - http://link.springer.com/article/10.1007/s11069-016-2357-2
-ER  - 
-TY  - JOUR
-T1  - A linguistic intuitionistic multi-criteria decision-making method based on the Frank Heronian mean operator and its application in evaluating coal mine safety
-A1  - Cheng, Hong-gang PengJian-qiang WangPeng-fei
-Y1  - 2018///
-JF  - International Journal of Machine Learning and Cybernetics
-VL  - 9.0
-IS  - 6
-DO  - 10.1007/s13042-016-0630-z
-UR  - http://link.springer.com/article/10.1007/s13042-016-0630-z
-ER  - 
-TY  - JOUR
-T1  - A macro-evolutionary multi-objective immune algorithm with application to optimal allocation of water resources in Dongjiang River basins, South China
-A1  - Wang, Dedi LiuShenglian GuoXiaohong ChenQuanxi ShaoQihua RanXingyuan SongZhaoli
-Y1  - 2012///
-JF  - Stochastic Environmental Research and Risk Assessment
-VL  - 26.0
-IS  - 4
-DO  - 10.1007/s00477-011-0505-5
-UR  - http://link.springer.com/article/10.1007/s00477-011-0505-5
-ER  - 
-TY  - JOUR
-T1  - A memetic algorithm for a multi-objective obnoxious waste location-routing problem: a case study
-A1  - Farahani, Nasrin AsgariMohsen RajabiMasoumeh JamshidiMaryam KhatamiReza Zanjirani
-Y1  - 2017///
-JF  - Annals of Operations Research
-VL  - 250.0
-IS  - 2
-DO  - 10.1007/s10479-016-2248-7
-UR  - http://link.springer.com/article/10.1007/s10479-016-2248-7
-ER  - 
-TY  - JOUR
-T1  - A modified ant colony optimization algorithm for multi-objective assembly line balancing
-A1  - Ai, Yu-guang ZhongBo
-Y1  - 2017///
-JF  - Soft Computing
-VL  - 21.0
-IS  - 22
-DO  - 10.1007/s00500-016-2240-9
-UR  - http://link.springer.com/article/10.1007/s00500-016-2240-9
-ER  - 
-TY  - JOUR
-T1  - A multi-criteria decision support for optimal instrumentation in scoliosis spine surgery
-A1  - Büchler, Marcelo Elias de OliveiraCarol-Claudius HaslerGuoyan ZhengDaniel StuderJacques SchneiderPhilippe
-Y1  - 2012///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 45.0
-IS  - 6
-DO  - 10.1007/s00158-011-0732-x
-UR  - http://link.springer.com/article/10.1007/s00158-011-0732-x
-ER  - 
-TY  - JOUR
-T1  - A multi-objective decision-making process of supplier selection and order allocation for multi-period scheduling in an electronic market
-A1  - Mahdavi-Amiri, Hamed FazlollahtabarIraj MahdaviMinoo Talebi AshooriSomayeh KavianiNezam
-Y1  - 2011///
-JF  - The International Journal of Advanced Manufacturing Technology
-VL  - 52.0
-IS  - 9 - 12
-DO  - 10.1007/s00170-010-2800-6
-UR  - http://link.springer.com/article/10.1007/s00170-010-2800-6
-ER  - 
-TY  - JOUR
-T1  - A multi-objective optimization evolutionary algorithm incorporating preference information based on fuzzy logic
-A1  - Hu, Xiaoning ShenYu GuoQingwei ChenWeili
-Y1  - 2010///
-JF  - Computational Optimization and Applications
-VL  - 46.0
-IS  - 1
-DO  - 10.1007/s10589-008-9189-2
-UR  - http://link.springer.com/article/10.1007/s10589-008-9189-2
-ER  - 
-TY  - JOUR
-T1  - A multicriteria decision making approach applied to improving maintenance policies in healthcare organizations
-A1  - Gómez, María Carmen CarneroAndrés
-Y1  - 2016///
-JF  - BMC Medical Informatics and Decision Making
-VL  - 16.0
-IS  - 1
-DO  - 10.1186/s12911-016-0282-7
-UR  - http://link.springer.com/article/10.1186/s12911-016-0282-7
-ER  - 
-TY  - JOUR
-T1  - A multicriteria decision support tool for modelling bank credit ratings
-A1  - Tasiou, Chrysovalantis GaganisPanagiota PapadimitriMenelaos
-Y1  - 2020///
-JF  - Annals of Operations Research
-DO  - 10.1007/s10479-020-03516-9
-UR  - http://link.springer.com/article/10.1007/s10479-020-03516-9
-ER  - 
-TY  - JOUR
-T1  - A mutation operator based on a Pareto ranking for multi-objective evolutionary algorithms
-A1  - Alberto, P M MateoI.
-Y1  - 2012///
-JF  - Journal of Heuristics
-VL  - 18.0
-IS  - 1
-DO  - 10.1007/s10732-011-9156-4
-UR  - http://link.springer.com/article/10.1007/s10732-011-9156-4
-ER  - 
-TY  - JOUR
-T1  - A new multi-objective ant colony algorithm for solving the disassembly line balancing problem
-A1  - Gao, Li-Ping DingYi-Xiong FengJian-Rong TanYi-Cong
-Y1  - 2010///
-JF  - The International Journal of Advanced Manufacturing Technology
-VL  - 48.0
-IS  - 5 - 8
-DO  - 10.1007/s00170-009-2303-5
-UR  - http://link.springer.com/article/10.1007/s00170-009-2303-5
-ER  - 
-TY  - JOUR
-T1  - A new preference disaggregation method for clustering problem: DISclustering
-A1  - Esmaelian, M
-A1  - Shahmoradi, H
-A1  - Nemati, F
-Y1  - 2020///
-PB  - Springer
-JF  - Soft Computing
-UR  - https://link.springer.com/article/10.1007/s00500-019-04210-0
-N2  - … Living in a world full of data, the need for data analysis and management is … Preference disaggregation technique is a group of multi criteria decision aid (MCDA) methods witch have been … with 18 clustering algorithms on 17 datasets of UCI machine learning repository datasets …
-ER  - 
-TY  - JOUR
-T1  - A novel multi-objective optimization algorithm based on artificial algae for multi-objective engineering design problems
-A1  - Savsani, Mohamed A TawhidVimal
-Y1  - 2018///
-JF  - Applied Intelligence
-VL  - 48.0
-IS  - 10
-DO  - 10.1007/s10489-018-1170-x
-UR  - http://link.springer.com/article/10.1007/s10489-018-1170-x
-ER  - 
-TY  - JOUR
-T1  - A Novel Parallel Cellular Automata Algorithm for Multi-Objective Reservoir Operation Optimization
-A1  - Hajiabadi, Mohammad Hadi AfsharR.
-Y1  - 2018///
-JF  - Water Resources Management
-VL  - 32.0
-IS  - 2
-DO  - 10.1007/s11269-017-1839-7
-UR  - http://link.springer.com/article/10.1007/s11269-017-1839-7
-ER  - 
-TY  - JOUR
-T1  - A review of cost–benefit analysis and multicriteria decision analysis from the perspective of sustainable transport in project evaluation
-A1  - Lavoie, Francis Marleau DonaisIrène Abi-ZeidE. Owen D WaygoodRoxane
+T1  - MCDA-based deliberation to value health states: Lessons learned from a pilot study
+A1  - Gansen, Fabia
+A1  - Klinger, Julian
+A1  - Rogowski, Wolf
 Y1  - 2019///
-JF  - EURO Journal on Decision Processes
-VL  - 7.0
-IS  - 3 - 4
-DO  - 10.1007/s40070-019-00098-1
-UR  - http://link.springer.com/article/10.1007/s40070-019-00098-1
-ER  - 
-TY  - JOUR
-T1  - A robust time delay auto-regressive exogenous fuzzy inference system for real-time estimation of catalyst temperature over engines coldstart operation: a multiobjective implementation scenario
-A1  - Azad, Ahmad MozaffariNasser L
-Y1  - 2016///
-JF  - International Journal of Dynamics and Control
-VL  - 4.0
-IS  - 1
-DO  - 10.1007/s40435-014-0133-2
-UR  - http://link.springer.com/article/10.1007/s40435-014-0133-2
-ER  - 
-TY  - JOUR
-T1  - A SMARTS-Choquet’s approach for multicriteria decision aid applied to the innovation indexes in sustainability dimensions
-A1  - Caiado, Marcela do Carmo SilvaGilson Brito Alves LimaCarlos Francisco Simões GomesLuis Alberto Duncan RangelRodrigo Goyannes Gusmão
-Y1  - 2019///
-JF  - Soft Computing
-VL  - 23.0
-IS  - 16
-DO  - 10.1007/s00500-018-3353-0
-UR  - http://link.springer.com/article/10.1007/s00500-018-3353-0
-ER  - 
-TY  - JOUR
-T1  - A synergetic immune clonal selection algorithm based multi-objective optimization method for carbon fiber drawing process
-A1  - Hao, Jiajia ChenYongsheng DingYaochu JinKuangrong
-Y1  - 2013///
-JF  - Fibers and Polymers
-VL  - 14.0
-IS  - 10
-DO  - 10.1007/s12221-013-1722-y
-UR  - http://link.springer.com/article/10.1007/s12221-013-1722-y
-ER  - 
-TY  - JOUR
-T1  - A systematic literature review of multicriteria recommender systems
-A1  - Morisio, Diego MontiGiuseppe RizzoMaurizio
-Y1  - 2020///
-JF  - Artificial Intelligence Review
-DO  - 10.1007/s10462-020-09851-4
-UR  - http://link.springer.com/article/10.1007/s10462-020-09851-4
-ER  - 
-TY  - JOUR
-T1  - A tutorial on multiobjective optimization: fundamentals and evolutionary methods
-A1  - Emmerich, Michael T.M.
-A1  - Deutz, André H.
-Y1  - 2018///
-KW  - Decomposition-based MOEAs
-KW  - Indicator-based MOEAs
-KW  - Multiobjective evolutionary algorithms
-KW  - Multiobjective optimization
-KW  - Pareto-based MOEAs
-KW  - Performance assessment
-JF  - Natural Computing
+KW  - Deliberation
+KW  - Germany
+KW  - Health state valuation
+KW  - MACBETH
+KW  - MCDA
+KW  - SF-6D
+JF  - Health and Quality of Life Outcomes
 VL  - 17
-IS  - 3
-SP  - 585
-EP  - 609
-SN  - 0123456789
-DO  - 10.1007/s11047-018-9685-y
-N1  - boa sdefinições de a priori e posteriori methods.
-Também tem o interactive
-N2  - In almost no other field of computer science, the idea of using bio-inspired search paradigms has been so useful as in solving multiobjective optimization problems. The idea of using a population of search agents that collectively approximate the Pareto front resonates well with processes in natural evolution, immune systems, and swarm intelligence. Methods such as NSGA-II, SPEA2, SMS-EMOA, MOPSO, and MOEA/D became standard solvers when it comes to solving multiobjective optimization problems. This tutorial will review some of the most important fundamentals in multiobjective optimization and then introduce representative algorithms, illustrate their working principles, and discuss their application scope. In addition, the tutorial will discuss statistical performance assessment. Finally, it highlights recent important trends and closely related research fields. The tutorial is intended for readers, who want to acquire basic knowledge on the mathematical foundations of multiobjective optimization and state-of-the-art methods in evolutionary multiobjective optimization. The aim is to provide a starting point for researching in this active area, and it should also help the advanced reader to identify open research topics.
-ER  - 
-TY  - JOUR
-T1  - Adaptive trade-off strategy for bargaining-based multi-objective SLA establishment under varying cloud workload
-A1  - Choi, Seokho SonDong-Jae KangSeyoung Phillip HuhWon-Young KimWan
-Y1  - 2016///
-JF  - The Journal of Supercomputing
-VL  - 72.0
-IS  - 4
-DO  - 10.1007/s11227-016-1686-y
-UR  - http://link.springer.com/article/10.1007/s11227-016-1686-y
-ER  - 
-TY  - JOUR
-T1  - Aerodynamic Shape Optimization in Aeronautics: A Fast and Effective Multi-Objective Approach
-A1  - Benini, Claudio Comis Da RoncoRita PonzaErnesto
-Y1  - 2014///
-JF  - Archives of Computational Methods in Engineering
-VL  - 21.0
-IS  - 3
-DO  - 10.1007/s11831-014-9123-y
-UR  - http://link.springer.com/article/10.1007/s11831-014-9123-y
-ER  - 
-TY  - JOUR
-T1  - An approach for solving fully fuzzy multi-objective linear fractional optimization problems
-A1  - Obaidat, Rubi AryaPitam SinghSaru KumariMohammad S
-Y1  - 2020///
-JF  - Soft Computing
-VL  - 24.0
-IS  - 12
-DO  - 10.1007/s00500-019-04442-0
-UR  - http://link.springer.com/article/10.1007/s00500-019-04442-0
-ER  - 
-TY  - JOUR
-T1  - An efficient evolutionary multi-objective framework for MEMS design optimisation: validation, comparison and analysis
-A1  - Moniri, Michael FarnsworthElhadj BenkhelifaAshutosh TiwariMeiling ZhuMansour
-Y1  - 2011///
-JF  - Memetic Computing
-VL  - 3.0
-IS  - 3
-DO  - 10.1007/s12293-011-0067-6
-UR  - http://link.springer.com/article/10.1007/s12293-011-0067-6
-ER  - 
-TY  - JOUR
-T1  - An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query
-A1  - Xie, M
-A1  - Wong, R C W
-A1  - Lall, A
-Y1  - 2020///
-PB  - Springer
-JF  - The VLDB Journal
-UR  - https://link.springer.com/article/10.1007/s00778-019-00570-z
-N1  - Cited By (since 2020): 4
-N2  - … Such operators can be regarded as multi-criteria decision-making tools … Depending on whether the utility function is provided to the database system, different operators were proposed toward multi-criteria decision making …
-ER  - 
-TY  - JOUR
-T1  - An improved approach for association rule mining using a multi-criteria decision support system: a case study in road safety
-A1  - Agouti, Addi Ait-MloukFatima GharnatiTarik
-Y1  - 2017///
-JF  - European Transport Research Review
-VL  - 9.0
-IS  - 3
-DO  - 10.1007/s12544-017-0257-5
-UR  - http://link.springer.com/article/10.1007/s12544-017-0257-5
-ER  - 
-TY  - JOUR
-T1  - An integer multi-objective optimization model and an enhanced non-dominated sorting genetic algorithm for contraflow scheduling problem
-A1  - 楼颖燕, Pei-heng Li 李沛恒Ying-yan Lou
-Y1  - 2015///
-JF  - Journal of Central South University
-VL  - 22.0
-IS  - 6
-DO  - 10.1007/s11771-015-2766-5
-UR  - http://link.springer.com/article/10.1007/s11771-015-2766-5
-ER  - 
-TY  - JOUR
-T1  - An integrated data-mining and multi-criteria decision-making approach for hazard-based object ranking with a focus on landslides and floods
-A1  - Darabi, Ghasem MirzaeiAdel SoltaniMilad SoltaniMorad
-Y1  - 2018///
-JF  - Environmental Earth Sciences
-VL  - 77.0
-IS  - 16
-DO  - 10.1007/s12665-018-7762-2
-UR  - http://link.springer.com/article/10.1007/s12665-018-7762-2
-ER  - 
-TY  - JOUR
-T1  - An integrated method for evaluating and predicting long-term operation safety of concrete dams considering lag effect
-A1  - Li, M
-A1  - Si, W
-A1  - Ren, Q
-A1  - Song, L
-A1  - Liu, H
-Y1  - 2020///
-PB  - Springer
-JF  - Engineering with Computers
-UR  - https://link.springer.com/content/pdf/10.1007/s00366-020-00956-6.pdf
-N2  - … TOPSIS is an effective multi-objective decision-making method, which is rarely used in … Real-world historical data combined with powerful machine learning algorithms have been successfully … Among them, neural networks have great advantages in solving complex nonlin- ear …
-ER  - 
-TY  - JOUR
-T1  - An intelligent multi-criteria optimization method for quick and market-oriented textile material design
-A1  - Koehl, Xiaoguang DengXianyi ZengPhilippe VromanLudovic
-Y1  - 2011///
-JF  - Journal of Global Optimization
-VL  - 51.0
-IS  - 2
-DO  - 10.1007/s10898-010-9606-9
-UR  - http://link.springer.com/article/10.1007/s10898-010-9606-9
-ER  - 
-TY  - JOUR
-T1  - An online variable-fidelity optimization approach for multi-objective design optimization
-A1  - Xie, Leshi ShuPing JiangQi ZhouTingli
-Y1  - 2019///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 60.0
-IS  - 3
-DO  - 10.1007/s00158-019-02256-0
-UR  - http://link.springer.com/article/10.1007/s00158-019-02256-0
-ER  - 
-TY  - JOUR
-T1  - Application of a Hybrid Taguchi-Genetic Algorithm to the Multiobjective Design Optimization of Yagi–Uda Antennas
-A1  - Recioui, Abdelmadjid
-Y1  - 2013///
-JF  - Wireless Personal Communications
-VL  - 71.0
-IS  - 2
-DO  - 10.1007/s11277-012-0882-1
-UR  - http://link.springer.com/article/10.1007/s11277-012-0882-1
-ER  - 
-TY  - JOUR
-T1  - Applying fuzzy multi-criteria decision-making model to ecotour plan selection
-A1  - Pan, Chi-Shiun LaiHong-Long LeeYen-Chih
-Y1  - 2013///
-JF  - Quality & Quantity
-VL  - 47.0
-IS  - 2
-DO  - 10.1007/s11135-011-9589-8
-UR  - http://link.springer.com/article/10.1007/s11135-011-9589-8
-ER  - 
-TY  - JOUR
-T1  - Assessing barriers and solutions for Yemen energy crisis to adopt green and sustainable practices: a fuzzy multi-criteria analysis
-A1  - Abbas, Ahmed Abdulwali Mohammed Haidar Al AsbahiZhiGeng FangZaheer Ahmed ChandioMehran Khan TunioJaved AhmedMajed
-Y1  - 2020///
-JF  - Environmental Science and Pollution Research
-VL  - 27.0
-IS  - 29
-DO  - 10.1007/s11356-020-09700-5
-UR  - http://link.springer.com/article/10.1007/s11356-020-09700-5
-ER  - 
-TY  - JOUR
-T1  - Assessing Euro 2020 Strategy Using Multi-criteria Decision Making Methods: VIKOR and TOPSIS
-A1  - Kocak, Hasan TureSeyyide DoganDeniz
-Y1  - 2019///
-JF  - Social Indicators Research
-VL  - 142.0
-IS  - 2
-DO  - 10.1007/s11205-018-1938-8
-UR  - http://link.springer.com/article/10.1007/s11205-018-1938-8
-ER  - 
-TY  - JOUR
-T1  - Assessing the social sustainable supply chain indicators using an integrated fuzzy multi-criteria decision-making methods: a case study of Turkey
-A1  - Bulkan, Abdullah YıldızbaşıCihat ÖztürkDeniz EfendioğluSerol
-Y1  - 2020///
-JF  - Environment, Development and Sustainability
-DO  - 10.1007/s10668-020-00774-2
-UR  - http://link.springer.com/article/10.1007/s10668-020-00774-2
-ER  - 
-TY  - JOUR
-T1  - Book review “Modelling and Simulations for Tourism and Hospitality: An Introduction”
-A1  - Mich, L
-Y1  - 2020///
-PB  - Springer
-JF  - Information Technology & Tourism
-UR  - https://link.springer.com/content/pdf/10.1007/s40558-020-00178-y.pdf
-N2  - … Quantitative and qualitative aspects have to be used properly. Challenges such as big data, and in turn different kinds of data analysis (the book lists 17 … The choice of a modelling technique is therefore a multi-criteria decision-making problem …
-ER  - 
-TY  - JOUR
-T1  - Can a Multi-Criteria Methodology Fit with Non-Profit Institutions’ Decision-Making? An Application in a Spanish Non-Profit Association
-A1  - Farré-Perdiguer, Mercè Sala-RiosTeresa Torres-SoléMariona
-Y1  - 2020///
-JF  - International Review on Public and Nonprofit Marketing
-VL  - 17.0
-IS  - 3
-DO  - 10.1007/s12208-020-00249-0
-UR  - http://link.springer.com/article/10.1007/s12208-020-00249-0
-ER  - 
-TY  - JOUR
-T1  - CFD simulation and Pareto-based multi-objective shape optimization of the centrifugal pump inducer applying GMDH neural network, modified NSGA-II, and TOPSIS
-A1  - Zare, Mohammad Hassan ShojaeefardSeyed Ehsan HosseiniJavad
-Y1  - 2019///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 60.0
-IS  - 4
-DO  - 10.1007/s00158-019-02280-0
-UR  - http://link.springer.com/article/10.1007/s00158-019-02280-0
-ER  - 
-TY  - JOUR
-T1  - Cloud service selection based on QoS-aware logistics
-A1  - Ran, W
-A1  - Liu, H
-Y1  - 2020///
-PB  - Springer
-JF  - Soft Computing
-UR  - https://link.springer.com/article/10.1007/s00500-019-04196-9
-N2  - … a novel classification technique and maximizes the performance of Big Data classification using … Methods commonly used to solve such multiobjective decision problems currently include the analytic … Using these large amounts of data analysis and expert advice, and setting the …
-ER  - 
-TY  - JOUR
-T1  - Contractor selection for renovation of cultural heritage buildings by PROMETHEE method
-A1  - Morkunaite, Zydrune
-A1  - Podvezko, Valentinas
-A1  - Zavadskas, Edmundas Kazimieras
-A1  - Bausys, Romualdas
-Y1  - 2019///
-KW  - Building renovation
-KW  - Contractor selection
-KW  - Cultural heritage
-KW  - Multi-criteria decision making (MCDM)
-JF  - Archives of Civil and Mechanical Engineering
-VL  - 19
-IS  - 4
-SP  - 1056
-EP  - 1071
-DO  - https://doi.org/10.1016/j.acme.2019.05.008
-UR  - http://www.sciencedirect.com/science/article/pii/S1644966519300639
-N2  - Cultural heritage buildings have architectural, historical and cultural values creating one of the most dominant features, which is related to the local identity. Its preservation requires consideration, liability, know-how, know-why and experienced employee. Cultural heritage buildings’ performance is complicated work, therefore selecting a contractor for heritage buildings’ protection and restoration is a difficult assignment. The improper contractor's choice could activate cost overruns, lag, conflicts, declines, imperfect performance or added expenditure for project administration and accomplishment. This paper submits the quantitative and qualitative criteria setting for selecting heritage's contractor. The Analytic Hierarchy Process technique is applied to decide important criteria and to get the weighting for each criterion. The PROMETHEE (Preference Ranking Organisation Method for Enrichment Evaluation) technique is applied for the selection of the most efficient cultural heritage contractor's alternative.
-ER  - 
-TY  - JOUR
-T1  - Covering based multigranulation fuzzy rough sets and corresponding applications
-A1  - Zhan, J
-A1  - Zhang, X
-A1  - Yao, Y
-Y1  - 2020///
-PB  - Springer
-JF  - Artificial Intelligence Review
-UR  - https://link.springer.com/article/10.1007/s10462-019-09690-y
-N1  - Cited By (since 2020): 17
-N2  - … b)]. These general rough set models provide very useful and flexible means to data analysis … an important role in soft computing, data mining, information systems, machine learning, and so on … fuzzy rough sets and, in particular, the applications in multi-criteria decision-making …
-ER  - 
-TY  - JOUR
-T1  - Creating a road map for industry 4.0 by using an integrated fuzzy multicriteria decision-making methodology
-A1  - Özkan, İhsan KayaMelike ErdoğanAli KaraşanBetül
-Y1  - 2020///
-JF  - Soft Computing
-DO  - 10.1007/s00500-020-05041-0
-UR  - http://link.springer.com/article/10.1007/s00500-020-05041-0
-ER  - 
-TY  - JOUR
-T1  - Criticality analysis of spare parts management: a multi-criteria classification regarding a cross-plant central warehouse strategy
-A1  - Lanza, J StollR. KopfJ. SchneiderG.
-Y1  - 2015///
-JF  - Production Engineering
-VL  - 9.0
-IS  - 2
-DO  - 10.1007/s11740-015-0602-2
-UR  - http://link.springer.com/article/10.1007/s11740-015-0602-2
-ER  - 
-TY  - JOUR
-T1  - Data mining combined to the multicriteria decision analysis for the improvement of road safety: case of France
-A1  - Zenkouar, Fatima Zahra El MazouriMohammed Chaouki AbounaimaKhalid
-Y1  - 2019///
-JF  - Journal of Big Data
-VL  - 6.0
 IS  - 1
-DO  - 10.1186/s40537-018-0165-0
-UR  - http://link.springer.com/article/10.1186/s40537-018-0165-0
+DO  - 10.1186/s12955-019-1189-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068507026&doi=10.1186%2Fs12955-019-1189-7&partnerID=40&md5=70eae7d4a0c5f50ae082653877c8165f
+N1  - Cited By :5
+
+Export Date: 5 November 2020
+N2  - Background: Health economists have shown a growing interest in deliberation and multi-criteria decision analysis (MCDA) as possible pathways to transparently integrate value judgments in cost-utility analyses. In line with these developments, this study piloted a consensus process to derive a German value set for the Short-Form Six-Dimension (SF-6D). In a conference setting, a group was tasked to deliberate on scores and weights for the SF-6D from the perspective of a self-determined and independent life. Methods: The one-day consensus conference was based on a deliberative process in combination with the MCDA method MACBETH (Measuring Attractiveness by a Categorical Based Evaluation Technique). According to MACBETH, participants were asked to qualitatively rate pairwise comparisons of SF-6D health states. The scoring within each dimension was conducted in parallel group sessions. Final agreement on the scores as well as weights for the SF-6D dimensions were derived in a subsequent plenary assembly. Results were analyzed using the software M-MACBETH and qualitative content analysis. Results: A total of 34 participants were recruited. While each of the 6 small groups presented a consented score, the plenary assembly reached consensus on all dimensions apart from pain. Concerning dimension weights, some participants favored prioritizing pain and mental health. Others disputed that trade-offs between dimensions and thus assigning weights were not acceptable in a context where this may involve withholding care from someone. As a consequence, no consensus on a value set was reached. Participants identified the group size of the plenary session and the applied weighting procedure as main obstacles to the process. Conclusions: This pilot study presents a consensus-based approach for valuing health-related quality of life. However, further research is needed on deliberative processes that yield quantifiable results. Future conferences should explore smaller group sizes, longer durations of the deliberative process and alternatives to the additive value function applied in MACBETH.
 ER  - 
 TY  - JOUR
-T1  - Decision support system based on genetic algorithm and multi-criteria satisfaction analysis (MUSA) method for measuring job satisfaction
-A1  - Rebai, Ismahene AouadniAbdelwaheb
-Y1  - 2017///
-JF  - Annals of Operations Research
-VL  - 256.0
-IS  - 1
-DO  - 10.1007/s10479-016-2154-z
-UR  - http://link.springer.com/article/10.1007/s10479-016-2154-z
-ER  - 
-TY  - PDF
-T1  - Deep learning: emerging trends, applications and research challenges.
-A1  - Chen, M Y
-A1  - Chiang, H S
-A1  - Lughofer, E
-A1  - Egrioglu, E
+T1  - Sports decision-making model based on data mining and neural network
+A1  - Yuan, Chunmei
+A1  - Yang, Yikun
+A1  - Liu, Yang
 Y1  - 2020///
-PB  - Springer
-JF  - Soft Comput.
-UR  - https://link.springer.com/content/pdf/10.1007/s00500-020-04939-z.pdf
-N1  - Cited By (since 2020): 1
-N2  - … (2019a, b, c) used the grey relational and multi-objective decision- making methods … https:// doi.org/10.1007/s00500-019-04153-6 Gao S, Zhou C (2019) Differential privacy data publishing in the big data platform of precise poverty … intelligence and machine learning techniques …
-ER  - 
-TY  - JOUR
-T1  - Deep Q-network-based multi-criteria decision-making framework for virtual simulation environment
-A1  - Cho, Hyeonjun JangShujia HaoPhuong Minh ChuPradip Kumar SharmaYunsick SungKyungeun
-Y1  - 2020///
+KW  - Data mining
+KW  - Machine learning
+KW  - Neural network
+KW  - Sports decision-making
 JF  - Neural Computing and Applications
-DO  - 10.1007/s00521-020-04918-3
-UR  - http://link.springer.com/article/10.1007/s00521-020-04918-3
-ER  - 
-TY  - JOUR
-T1  - Development of simulation-based AHP-DPSO algorithm for generating multi-criteria production–distribution plan
-A1  - Parameswaran, P Ashoka VarthananN. MuruganG. Mohan KumarS.
-Y1  - 2012///
-JF  - The International Journal of Advanced Manufacturing Technology
-VL  - 60.0
-IS  - 1 - 4
-DO  - 10.1007/s00170-011-3606-x
-UR  - http://link.springer.com/article/10.1007/s00170-011-3606-x
-ER  - 
-TY  - JOUR
-T1  - Dynamic deployment of virtual machines in cloud computing using multi-objective optimization
-A1  - Yu, Bo XuZhiping PengFangxiong XiaoAntonio Marcel GatesJian-Ping
-Y1  - 2015///
-JF  - Soft Computing
-VL  - 19.0
-IS  - 8
-DO  - 10.1007/s00500-014-1406-6
-UR  - http://link.springer.com/article/10.1007/s00500-014-1406-6
-ER  - 
-TY  - JOUR
-T1  - Embedding carbon impact assessment in multi-criteria supplier segmentation using ELECTRE TRI-rC
-A1  - Tavasszy, Jafar RezaeiMiłosz KadzińskiChrysoula VanaLori
-Y1  - 2017///
-JF  - Annals of Operations Research
-DO  - 10.1007/s10479-017-2454-y
-UR  - http://link.springer.com/article/10.1007/s10479-017-2454-y
-ER  - 
-TY  - JOUR
-T1  - Enhanced multi-criteria recommender system based on fuzzy Bayesian approach
-A1  - Dwivedi, Vibhor KantTanisha JhalaniPragya
-Y1  - 2018///
-JF  - Multimedia Tools and Applications
-VL  - 77.0
-IS  - 10
-DO  - 10.1007/s11042-017-4924-2
-UR  - http://link.springer.com/article/10.1007/s11042-017-4924-2
-ER  - 
-TY  - JOUR
-T1  - Enhancement of the Dynamic Computation-Offloading Service Selection Framework in Mobile Cloud Environment
-A1  - Nagasundari, S
-A1  - Ravimaran, S
-A1  - Uma, G V
-Y1  - 2020///
-PB  - Springer
-JF  - Wireless Personal …
-UR  - https://link.springer.com/content/pdf/10.1007/s11277-019-07023-4.pdf
-N2  - … Towards an efficient federated cloud service selec- tion to support workflow big data requirements … 44–48). IEEE. 9. Lee, S., & Seo, KK (2016). A hybrid multi-criteria decision-making model for a cloud service selec- tion problem using BSC, fuzzy Delphi method and fuzzy AHP …
-ER  - 
-TY  - JOUR
-T1  - Extending the multi-criteria decision making method DEX with numeric attributes, value distributions and relational models
-A1  - Bohanec, Nejc TrdinMarko
-Y1  - 2018///
-JF  - Central European Journal of Operations Research
-VL  - 26.0
-IS  - 1
-DO  - 10.1007/s10100-017-0468-9
-UR  - http://link.springer.com/article/10.1007/s10100-017-0468-9
-ER  - 
-TY  - JOUR
-T1  - Forest fire risk assessment-an integrated approach based on multicriteria evaluation
-A1  - Monavari, Elham GoleijiSeyed Mohsen HosseiniNematollah KhorasaniSeyed Masoud
-Y1  - 2017///
-JF  - Environmental Monitoring and Assessment
-VL  - 189.0
-IS  - 12
-DO  - 10.1007/s10661-017-6225-7
-UR  - http://link.springer.com/article/10.1007/s10661-017-6225-7
-ER  - 
-TY  - JOUR
-T1  - Framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) Model
-A1  - Muruganantham, A
-A1  - Gandhi, G M
-Y1  - 2020///
-PB  - Springer
-JF  - Multimedia Tools and Applications
-UR  - https://link.springer.com/article/10.1007/s11042-019-7470-2
-N1  - Cited By (since 2020): 3
-N2  - … the way the customers look at and collaborate businesses through large world of data or information, often described as “Big Data” … A framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model is proposed for social media data and our …
-ER  - 
-TY  - JOUR
-T1  - Fuzzy based multi-criteria vertical handover decision modeling in heterogeneous wireless networks
-A1  - Ahmad, Murad KhanAwais AhmadShehzad KhalidSyed Hassan AhmedSohail JabbarJamil
-Y1  - 2017///
-JF  - Multimedia Tools and Applications
-VL  - 76.0
-IS  - 23
-DO  - 10.1007/s11042-016-4330-1
-UR  - http://link.springer.com/article/10.1007/s11042-016-4330-1
-ER  - 
-TY  - JOUR
-T1  - Fuzzy multi-objective optimization for closed loop logistics network design in bread-producing industries
-A1  - Mirakhorli, Abbas
-Y1  - 2014///
-JF  - The International Journal of Advanced Manufacturing Technology
-VL  - 70.0
-IS  - 1 - 4
-DO  - 10.1007/s00170-013-5264-7
-UR  - http://link.springer.com/article/10.1007/s00170-013-5264-7
+DO  - 10.1007/s00521-020-05445-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094189451&doi=10.1007%2Fs00521-020-05445-x&partnerID=40&md5=0a91a5e9c066ea9aebed94edde983d69
+N1  - Export Date: 5 November 2020
+N2  - The sports decision-making system is affected by many factors, and the sports decision-making system itself is a complex decision-making system, including multiple micro-systems. In order to construct a more scientific sports decision-making model, this paper builds a sports decision-making model based on data mining and neural network based on data mining technology and neural network algorithms. Moreover, based on the analysis of system theory, stakeholder theory and multi-objective decision-making theory, this paper provides a theoretical basis for the study of multi-objective decision-making problems in sports events. In addition, this paper discusses the starting point of decision-making and the scope of research from the basic concepts of sports decision-making and analyzes the multi-objective decision-making system of sports decision-making. At the same time, on this basis, this paper designs a multi-objective decision-making model for sports events, and finally conducts empirical research based on the designed model. Through empirical analysis and simulation research, it can be known that the combined model constructed in this paper performs well and has certain practical effects.
 ER  - 
 TY  - JOUR
 T1  - Fuzzy Multi-Objective Simulation-Optimization of Stepped Spillways Considering Flood Uncertainty
-A1  - Ghorbani Mooselu, M
-A1  - Nikoo, M R
-A1  - Bakhtiari Rayani, N
-A1  - Izady, A
+A1  - Ghorbani Mooselu, Mehrdad
+A1  - Nikoo, Mohammad Reza
+A1  - Bakhtiari Rayani, Nooshin
+A1  - Izady, Azizallah
 Y1  - 2019///
+KW  - Fuzzy transformation method (FTM)
+KW  - Multi-criteria decision making
+KW  - Non-dominated sorting genetic algorithm II (NSGA-I
+KW  - PROMETHEE
+KW  - Stepped spillway, TOPSIS
 JF  - Water Resources Management
 VL  - 33
 IS  - 7
@@ -675,339 +78,44 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066399194&doi=10.100
 N1  - Cited By :2
 
 Export Date: 5 November 2020
+N2  - The design of stepped spillways is a multi-objective optimization problem in which the uncertainty of parameters plays a key role in the stepped spillways’ design. A Fuzzy Transformation Method (FTM), as a first attempt, was employed to address the uncertainty through a multi-objective optimization of the stepped spillway. The proposed methodology comprises two parts. A numerical model is developed by FLOW3D® and the Multi-Layer Perceptron artificial neural network (MLP-ANN) meta-model was trained and validated to substitute the numerical model. Then, the meta-model is coupled with a multi-objective optimization model to find the optimal design scenarios in each α-cut level. Finally, two multi-criteria decision-making (MCDM) models are applied to achieve the lower and upper bounds of optimum solutions. The application of proposed methodology in Jarreh dam, Iran, shows its capability in satisfying the objectives and also addressing the uncertainty in stepped spillways’ design.
 ER  - 
 TY  - JOUR
-T1  - Genetic algorithm-based multi-criteria project portfolio selection
-A1  - Lai, Lean YuShouyang WangFenghua WenKin Keung
-Y1  - 2012///
-JF  - Annals of Operations Research
-VL  - 197.0
-IS  - 1
-DO  - 10.1007/s10479-010-0819-6
-UR  - http://link.springer.com/article/10.1007/s10479-010-0819-6
-ER  - 
-TY  - JOUR
-T1  - Green supplier selection of electric vehicle charging based on Choquet integral and type-2 fuzzy uncertainty
-A1  - Wu, Y
-A1  - Xu, C
-A1  - Huang, Y
-A1  - Li, X
-Y1  - 2020///
-PB  - Springer
-JF  - Soft Computing
-UR  - https://link.springer.com/article/10.1007/s00500-019-04147-4
-N1  - Cited By (since 2020): 2
-N2  - … the trade-offs become more numerous. Hence, the EVCF green supplier selection is a complicated issue, which can be considered as a kind of multi-criteria decision-making (MCDM) problem. MCDM is a well-known branch …
-ER  - 
-TY  - JOUR
-T1  - Grey stochastic multi-criteria decision-making based on regret theory and TOPSIS
-A1  - Zhang, Huan ZhouJian-qiang WangHong-yu
-Y1  - 2017///
-JF  - International Journal of Machine Learning and Cybernetics
-VL  - 8.0
-IS  - 2
-DO  - 10.1007/s13042-015-0459-x
-UR  - http://link.springer.com/article/10.1007/s13042-015-0459-x
-ER  - 
-TY  - JOUR
-T1  - Hierarchical WSN protocol with fuzzy multi-criteria clustering and bio-inspired energy-efficient routing (FMCB-ER)
-A1  - Saxena, Deepak MehtaSharad
-Y1  - 2020///
-JF  - Multimedia Tools and Applications
-DO  - 10.1007/s11042-020-09633-8
-UR  - http://link.springer.com/article/10.1007/s11042-020-09633-8
-ER  - 
-TY  - JOUR
-T1  - Human Development Index Based on ELECTRE TRI-C Multicriteria Method: An Application in the City of Recife
-A1  - Mota, Débora Viana e Sousa PereiraCaroline Maria de Miranda
-Y1  - 2016///
-JF  - Social Indicators Research
-VL  - 125.0
-IS  - 1
-DO  - 10.1007/s11205-014-0836-y
-UR  - http://link.springer.com/article/10.1007/s11205-014-0836-y
-ER  - 
-TY  - JOUR
-T1  - Hybrid NSGA-II based decision-making in fuzzy multi-objective reliability optimization problem
-A1  - Yadav, Hemant KumarShiv Prasad
-Y1  - 2019///
-JF  - SN Applied Sciences
-VL  - 1.0
-IS  - 11
-DO  - 10.1007/s42452-019-1512-2
-UR  - http://link.springer.com/article/10.1007/s42452-019-1512-2
-ER  - 
-TY  - JOUR
-T1  - Impact of policies favouring organic inputs on small farms in Karnataka, India: a multicriteria approach
-A1  - Francis, Seema PurushothamanSheetal PatilIerene
-Y1  - 2012///
-JF  - Environment, Development and Sustainability
-VL  - 14.0
-IS  - 4
-DO  - 10.1007/s10668-012-9340-1
-UR  - http://link.springer.com/article/10.1007/s10668-012-9340-1
-ER  - 
-TY  - JOUR
-T1  - Interactive preferences in multiobjective ant colony optimisation for assembly line balancing
-A1  - Bautista, Manuel ChicaÓscar CordónSergio DamasJoaquín
-Y1  - 2015///
-JF  - Soft Computing
-VL  - 19.0
-IS  - 10
-DO  - 10.1007/s00500-014-1451-1
-UR  - http://link.springer.com/article/10.1007/s00500-014-1451-1
-ER  - 
-TY  - JOUR
-T1  - Interval neutrosophic hesitant fuzzy Einstein Choquet integral operator for multicriteria decision making
-A1  - Davvaz, Pankaj KakatiSurajit BorkotokeySaifur RahmanBijan
-Y1  - 2020///
-JF  - Artificial Intelligence Review
-VL  - 53.0
-IS  - 3
-DO  - 10.1007/s10462-019-09730-7
-UR  - http://link.springer.com/article/10.1007/s10462-019-09730-7
-ER  - 
-TY  - JOUR
-T1  - Intuitionistic Fuzzy Multi Criteria Decision Making Approach to Crime Linkage Using Resemblance Function
-A1  - Talukdar, Soumendra GoalaPalash DuttaPranjal
-Y1  - 2019///
-JF  - International Journal of Applied and Computational Mathematics
-VL  - 5.0
-IS  - 4
-DO  - 10.1007/s40819-019-0695-y
-UR  - http://link.springer.com/article/10.1007/s40819-019-0695-y
-ER  - 
-TY  - JOUR
-T1  - Intuitionistic fuzzy multi-stage multi-objective fixed-charge solid transportation problem in a green supply chain
-A1  - Yu, Sudipta MidyaSankar Kumar RoyVincent F
-Y1  - 2020///
-JF  - International Journal of Machine Learning and Cybernetics
-DO  - 10.1007/s13042-020-01197-1
-UR  - http://link.springer.com/article/10.1007/s13042-020-01197-1
-ER  - 
-TY  - JOUR
-T1  - KG2Rec: LSH-CF recommendation method based on knowledge graph for cloud services
-A1  - Huang, W
-A1  - Li, Q
-A1  - Meng, S
-JF  - Springer
-UR  - https://link.springer.com/content/pdf/10.1007/s11276-020-02387-z.pdf
-N2  - … It will consume too much time in similarity calculation, especially in big data processing … Niaraki and Kim [26] constructs the ontology knowledge base based on the user model and the context model, and use multi-criteria decision-making to extend the user-cen- tric route …
-ER  - 
-TY  - JOUR
-T1  - Landslide susceptibility mapping using multi-criteria evaluation techniques in Chittagong Metropolitan Area, Bangladesh
-A1  - Ahmed, Bayes
-Y1  - 2015///
-JF  - Landslides
-VL  - 12.0
-IS  - 6
-DO  - 10.1007/s10346-014-0521-x
-UR  - http://link.springer.com/article/10.1007/s10346-014-0521-x
-ER  - 
-TY  - JOUR
-T1  - MCDMSR: multicriteria decision making selection/replacement based on agility strategy for real optimization problems
-A1  - Liu, HongGuang ZhangRui WangHuaJian LiuHan LuoYuanan
-Y1  - 2019///
-JF  - Applied Intelligence
-VL  - 49.0
-IS  - 8
-DO  - 10.1007/s10489-019-01414-7
-UR  - http://link.springer.com/article/10.1007/s10489-019-01414-7
-ER  - 
-TY  - JOUR
-T1  - Metaheuristic search techniques for multi-objective and stochastic problems: a history of the inventions of Walter J. Gutjahr in the past 22 years
-A1  - Maniezzo, Karl F DoernerVittorio
+T1  - Qualitative Judgement of Research Impact: Domain Taxonomy as a Fundamental Framework for Judgement of the Quality of Research
+A1  - Murtagh, Fionn
+A1  - Orlov, Michael
+A1  - Mirkin, Boris
 Y1  - 2018///
-JF  - Central European Journal of Operations Research
-VL  - 26.0
-IS  - 2
-DO  - 10.1007/s10100-018-0522-2
-UR  - http://link.springer.com/article/10.1007/s10100-018-0522-2
-ER  - 
-TY  - JOUR
-T1  - Metaheuristics-based Multi-objective Design of Global Robust Optimal Sliding Mode Control of Discrete Uncertain Systems
-A1  - Siarry, Wafa BoukadidaAnouar BenamorHassani MessaoudPatrick
-Y1  - 2019///
-JF  - International Journal of Control, Automation and Systems
-VL  - 17.0
-IS  - 6
-DO  - 10.1007/s12555-018-0486-y
-UR  - http://link.springer.com/article/10.1007/s12555-018-0486-y
-ER  - 
-TY  - JOUR
-T1  - Mining and prioritization of association rules for big data: multi-criteria decision analysis approach
-A1  - Ait-Mlouk, A
-A1  - Agouti, T
-A1  - Gharnati, F
-Y1  - 2017///
-JF  - Journal of Big Data
-VL  - 4
+KW  - Multicriteria decision making
+KW  - Rank aggregation
+KW  - Research impact
+KW  - Scientometrics
+KW  - Semantic analysis
+KW  - Stratification
+KW  - Taxonomy
+JF  - Journal of Classification
+VL  - 35
 IS  - 1
-DO  - 10.1186/s40537-017-0105-4
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036543658&doi=10.1186%2Fs40537-017-0105-4&partnerID=40&md5=60821a7a768a70b00693deb4f02b7729
-N1  - Cited By :10
-
-Export Date: 5 November 2020
-ER  - 
-TY  - JOUR
-T1  - MODM: multi-objective diffusion model for dynamic social networks using evolutionary algorithm
-A1  - Lee, Iram FatimaMuhammad FahimYoung-Koo LeeSungyoung
-Y1  - 2013///
-JF  - The Journal of Supercomputing
-VL  - 66.0
-IS  - 2
-DO  - 10.1007/s11227-013-0947-2
-UR  - http://link.springer.com/article/10.1007/s11227-013-0947-2
-ER  - 
-TY  - JOUR
-T1  - Multi Criteria Decision Making in Financial Risk Management with a Multi-objective Genetic Algorithm
-A1  - Srinivasan, S
-A1  - Kamalakannan, T
-Y1  - 2018///
-JF  - Computational Economics
-VL  - 52
-IS  - 2
-SP  - 443
-EP  - 457
-DO  - 10.1007/s10614-017-9683-7
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018440020&doi=10.1007%2Fs10614-017-9683-7&partnerID=40&md5=68dab08ccebe53d3642f9ef3f94cd99b
+SP  - 5
+EP  - 28
+DO  - 10.1007/s00357-018-9247-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044271156&doi=10.1007%2Fs00357-018-9247-0&partnerID=40&md5=0a68071553e2b8d9ae9bee73f6db46cc
 N1  - Cited By :6
 
 Export Date: 5 November 2020
-ER  - 
-TY  - JOUR
-T1  - Multi-Criteria Analysis of Grid Expansion Concepts on the Low Voltage Level
-A1  - Geldermann, Tobias LühnGerrit SchlömerGenoveva SchmidtmannBianca LehdeJohannes SchmiesingProf. Dr. Lutz HofmannProf. Dr. Jutta
-Y1  - 2014///
-JF  - Zeitschrift für Energiewirtschaft
-VL  - 38.0
-IS  - 3
-DO  - 10.1007/s12398-014-0134-z
-UR  - http://link.springer.com/article/10.1007/s12398-014-0134-z
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria Decision Analysis: A Strategic Planning Tool for Water Loss Management
-A1  - Vairavamoorthy, Harrison E MutikangaSaroj K SharmaKalanithy
-Y1  - 2011///
-JF  - Water Resources Management
-VL  - 25.0
-IS  - 14
-DO  - 10.1007/s11269-011-9896-9
-UR  - http://link.springer.com/article/10.1007/s11269-011-9896-9
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria decision making for choosing socially responsible investment within a behavioral portfolio theory framework: a new way of investing into a crisis environment
-A1  - Bilbao-Terol, Amelia Bilbao-TerolMar Arenas-ParraVerónica Cañal-FernándezCelia
-Y1  - 2016///
-JF  - Annals of Operations Research
-VL  - 247.0
-IS  - 2
-DO  - 10.1007/s10479-015-1947-9
-UR  - http://link.springer.com/article/10.1007/s10479-015-1947-9
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria decision-making based on generalized prioritized aggregation operators under simplified neutrosophic uncertain linguistic environment
-A1  - Wang, Zhang-peng TianJing WangHong-yu ZhangJian-qiang
-Y1  - 2018///
-JF  - International Journal of Machine Learning and Cybernetics
-VL  - 9.0
-IS  - 3
-DO  - 10.1007/s13042-016-0552-9
-UR  - http://link.springer.com/article/10.1007/s13042-016-0552-9
-ER  - 
-TY  - JOUR
-T1  - Multi-Criteria Decision-Making Method Based on Distance Measure and Choquet Integral for Linguistic Z-Numbers
-A1  - Zhang, Jian-qiang WangYong-xi CaoHong-yu
-Y1  - 2017///
-JF  - Cognitive Computation
-VL  - 9.0
-IS  - 6
-DO  - 10.1007/s12559-017-9493-1
-UR  - http://link.springer.com/article/10.1007/s12559-017-9493-1
-ER  - 
-TY  - JOUR
-T1  - Multi-Criteria Evaluation of Small-Scale Sprinkler Irrigation Systems Using Grey Relational Analysis
-A1  - Dwomoh, Qin TuHong LiXinkun WangChao ChenYin LuoFrank Agyen
-Y1  - 2014///
-JF  - Water Resources Management
-VL  - 28.0
-IS  - 13
-DO  - 10.1007/s11269-014-0765-1
-UR  - http://link.springer.com/article/10.1007/s11269-014-0765-1
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria intuitionistic fuzzy group decision analysis with TOPSIS method for selecting appropriate cloud solution to manage big data projects
-A1  - Sachdeva, N
-A1  - Singh, O
-A1  - Kapur, P K
-A1  - Galar, D
-Y1  - 2016///
-JF  - International Journal of Systems Assurance Engineering and Management
-VL  - 7
-IS  - 3
-SP  - 316
-EP  - 324
-DO  - 10.1007/s13198-016-0455-x
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983035394&doi=10.1007%2Fs13198-016-0455-x&partnerID=40&md5=03bb3e7fc0d281f7e99fbf76345f93b4
-N1  - Cited By :9
-
-Export Date: 5 November 2020
-ER  - 
-TY  - JOUR
-T1  - Multi-Criteria Reverse Engineering for Food: Genesis and Ongoing Advances
-A1  - Tonda, R ThomopoulosC. BaudritN. BoukhelifaR. BoutrouP. BucheE. GuichardV. GuillardE. LuttonP. S MiradeA. NdiayeN. PerrotF. TaillandierT. Thomas-DanguinA.
-Y1  - 2019///
-JF  - Food Engineering Reviews
-VL  - 11.0
-IS  - 1
-DO  - 10.1007/s12393-018-9186-x
-UR  - http://link.springer.com/article/10.1007/s12393-018-9186-x
-ER  - 
-TY  - JOUR
-T1  - Multi-disciplinary multi-objective design optimization of sounding rocket fins
-A1  - Saroha, Pankaj PriyadarshiMofeez AlamKamal
-Y1  - 2014///
-JF  - International Journal of Advances in Engineering Sciences and Applied Mathematics
-VL  - 6.0
-IS  - 3 - 4
-DO  - 10.1007/s12572-015-0121-6
-UR  - http://link.springer.com/article/10.1007/s12572-015-0121-6
-ER  - 
-TY  - JOUR
-T1  - Multi-objective approach for robot motion planning in search tasks
-A1  - Guimarães, Kossar JeddisaraviReza Javanmard AlitappehLuciano C A PimentaFrederico G
-Y1  - 2016///
-JF  - Applied Intelligence
-VL  - 45.0
-IS  - 2
-DO  - 10.1007/s10489-015-0754-y
-UR  - http://link.springer.com/article/10.1007/s10489-015-0754-y
-ER  - 
-TY  - JOUR
-T1  - Multi-objective Decision in Machine Learning
-A1  - de Medeiros, T H
-A1  - Rocha, H P
-A1  - Torres, F S
-A1  - Takahashi, R H C
-A1  - Braga, A P
-Y1  - 2017///
-JF  - Journal of Control, Automation and Electrical Systems
-VL  - 28
-IS  - 2
-SP  - 217
-EP  - 227
-DO  - 10.1007/s40313-016-0295-6
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014862668&doi=10.1007%2Fs40313-016-0295-6&partnerID=40&md5=648804e246d696c63301d0787ee6819b
-N1  - Cited By :4
-
-Export Date: 5 November 2020
+N2  - The appeal of metric evaluation of research impact has attracted considerable interest in recent times. Although the public at large and administrative bodies are much interested in the idea, scientists and other researchers are much more cautious, insisting that metrics are but an auxiliary instrument to the qualitative peer-based judgement. The goal of this article is to propose availing of such a well positioned construct as domain taxonomy as a tool for directly assessing the scope and quality of research. We first show how taxonomies can be used to analyze the scope and perspectives of a set of research projects or papers. Then we proceed to define a research team or researcher’s rank by those nodes in the hierarchy that have been created or significantly transformed by the results of the researcher. An experimental test of the approach in the data analysis domain is described. Although the concept of taxonomy seems rather simplistic to describe all the richness of a research domain, its changes and use can be made transparent and subject to open discussions.
 ER  - 
 TY  - JOUR
 T1  - Multi-objective design of post-tensioned concrete road bridges using artificial neural networks
-A1  - García-Segura, T
-A1  - Yepes, V
-A1  - Frangopol, D M
+A1  - García-Segura, Tatiana
+A1  - Yepes, Víctor
+A1  - Frangopol, Dan M.
 Y1  - 2017///
+KW  - Artificial neural networks
+KW  - Durability
+KW  - Multi-objective harmony search
+KW  - Post-tensioned concrete bridges
+KW  - Safety
 JF  - Structural and Multidisciplinary Optimization
 VL  - 56
 IS  - 1
@@ -1018,514 +126,339 @@ UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011880110&doi=10.100
 N1  - Cited By :24
 
 Export Date: 5 November 2020
+N2  - In order to minimize the total expected cost, bridges have to be designed for safety and durability. This paper considers the cost, the safety, and the corrosion initiation time to design post-tensioned concrete box-girder road bridges. The deck is modeled by finite elements based on problem variables such as the cross-section geometry, the concrete grade, and the reinforcing and post-tensioning steel. An integrated multi-objective harmony search with artificial neural networks (ANNs) is proposed to reduce the high computing time required for the finite-element analysis and the increment in conflicting objectives. ANNs are trained through the results of previous bridge performance evaluations. Then, ANNs are used to evaluate the constraints and provide a direction towards the Pareto front. Finally, exact methods actualize and improve the Pareto set. The results show that the harmony search parameters should be progressively changed in a diversification-intensification strategy. This methodology provides trade-off solutions that are the cheapest ones for the safety and durability levels considered. Therefore, it is possible to choose an alternative that can be easily adjusted to each need.
 ER  - 
 TY  - JOUR
-T1  - Multi-objective hybrid flow shop scheduling with variable discrete production speed levels and time-of-use energy prices
-A1  - Shen, Sven SchulzUdo BuscherLiji
+T1  - Kinematic Viscosity Prediction of Nanolubricants Employed in Heavy Earth Moving Machinery Using Machine Learning Techniques
+A1  - Sharma, Gaurav
+A1  - Kotia, Ankit
+A1  - Ghosh, Subrata Kumar
+A1  - Rana, Prashant Singh
+A1  - Bawa, Seema
+A1  - Ali, Mohamed Kamal Ahmed
 Y1  - 2020///
-JF  - Journal of Business Economics
-VL  - 90.0
-IS  - 9
-DO  - 10.1007/s11573-020-00971-5
-UR  - http://link.springer.com/article/10.1007/s11573-020-00971-5
-ER  - 
-TY  - JOUR
-T1  - Multi-objective integrated acyclic crew rostering and vehicle assignment problem in public bus transportation
-A1  - Tulazoğlu, F Zeynep SargutCaner AltuntaşDilek Cetin
-Y1  - 2017///
-JF  - OR Spectrum
-VL  - 39.0
-IS  - 4
-DO  - 10.1007/s00291-017-0485-z
-UR  - http://link.springer.com/article/10.1007/s00291-017-0485-z
-ER  - 
-TY  - JOUR
-T1  - Multi-objective lightweight and crashworthiness optimization for the side structure of an automobile body
-A1  - Tian, Feng XiongDengfeng WangShuming ChenQiang GaoShudong
-Y1  - 2018///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 58.0
-IS  - 4
-DO  - 10.1007/s00158-018-1986-3
-UR  - http://link.springer.com/article/10.1007/s00158-018-1986-3
-ER  - 
-TY  - JOUR
-T1  - Multi-objective multi-item fixed-charge solid transportation problem under twofold uncertainty
-A1  - Weber, Sankar Kumar RoySudipta MidyaGerhard-Wilhelm
-Y1  - 2019///
-JF  - Neural Computing and Applications
-VL  - 31.0
-IS  - 12
-DO  - 10.1007/s00521-019-04431-2
-UR  - http://link.springer.com/article/10.1007/s00521-019-04431-2
-ER  - 
-TY  - JOUR
-T1  - Multi-objective optimization by learning automata
-A1  - Wu, H L LiaoQ. H
-Y1  - 2013///
-JF  - Journal of Global Optimization
-VL  - 55.0
-IS  - 2
-DO  - 10.1007/s10898-012-9973-5
-UR  - http://link.springer.com/article/10.1007/s10898-012-9973-5
-ER  - 
-TY  - JOUR
-T1  - Multi-objective optimization modelling for analysing sustainable development goals of Nigeria: Agenda 2030
-A1  - Ahmed, Umar Muhammad ModibboIrfan AliAquil
-Y1  - 2020///
-JF  - Environment, Development and Sustainability
-DO  - 10.1007/s10668-020-01022-3
-UR  - http://link.springer.com/article/10.1007/s10668-020-01022-3
-ER  - 
-TY  - JOUR
-T1  - Multi-objective optimization of the basic and single-stage Organic Rankine Cycles utilizing a low-grade heat source
-A1  - Turgut, Mert Sinan TurgutOguz Emrah
-Y1  - 2019///
-JF  - Heat and Mass Transfer
-VL  - 55.0
-IS  - 2
-DO  - 10.1007/s00231-018-2425-0
-UR  - http://link.springer.com/article/10.1007/s00231-018-2425-0
-ER  - 
-TY  - JOUR
-T1  - Multi-objective optimization problem under fuzzy rule constraints using particle swarm optimization
-A1  - Dutta, Debjani ChakrabortyDebashree GuhaBapi
-Y1  - 2016///
-JF  - Soft Computing
-VL  - 20.0
-IS  - 6
-DO  - 10.1007/s00500-015-1639-z
-UR  - http://link.springer.com/article/10.1007/s00500-015-1639-z
-ER  - 
-TY  - JOUR
-T1  - Multi-objective reliability-based optimization for cooling channel of a UHSS hot-stamping die
-A1  - Xiong, Hui XieWei ChengHangyan WangShan FuWende LiWei
-Y1  - 2018///
-JF  - The International Journal of Advanced Manufacturing Technology
-VL  - 97.0
-IS  - 9 - 12
-DO  - 10.1007/s00170-018-2065-z
-UR  - http://link.springer.com/article/10.1007/s00170-018-2065-z
-ER  - 
-TY  - JOUR
-T1  - Multi-objective robust design optimization of a novel NPR energy absorption structure for vehicles front ends to enhance pedestrian lower leg protection
-A1  - Wang, Guan ZhouWanzhong ZhaoQiqi LiWenquan ShenChunyan
-Y1  - 2017///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 56.0
-IS  - 5
-DO  - 10.1007/s00158-017-1754-9
-UR  - http://link.springer.com/article/10.1007/s00158-017-1754-9
-ER  - 
-TY  - JOUR
-T1  - Multi-objective sizing and topology optimization of truss structures using genetic programming based on a new adaptive mutant operator
-A1  - Nariman-zadeh, Hirad AssimiAli JamaliNader
-Y1  - 2019///
-JF  - Neural Computing and Applications
-VL  - 31.0
+KW  - Heavy earth moving machinery
+KW  - Kinematic viscosity
+KW  - Machine learning techniques
+KW  - Nanolubricants
+KW  - Nanoparticles
+JF  - International Journal of Precision Engineering and Manufacturing
+VL  - 21
 IS  - 10
-DO  - 10.1007/s00521-018-3401-9
-UR  - http://link.springer.com/article/10.1007/s00521-018-3401-9
+SP  - 1921
+EP  - 1932
+DO  - 10.1007/s12541-020-00379-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088789657&doi=10.1007%2Fs12541-020-00379-9&partnerID=40&md5=15c8c369c29f229a3cc65d1ef9da45ea
+N1  - Export Date: 5 November 2020
+N2  - Recent researchers widely used nanoparticle additives for improving thermal and rheological properties of machine lubricant. In present study the effect of Al2O3 and CeO2 nanoparticles on transmission oil (SAE30), hydraulic oil (HYDREX100) and gear oil (EP90) of heavy earth moving machinery is investigated. Nano-lubricant samples are prepared in 0.01–4% nanoparticle volume fraction range. Four machine learning techniques namely decision tree (DT), random forest (RF), generalized linear models and neural network (NN) have been used to predict the kinematic viscosity for Al2O3 and CeO2 nanolubricants. Further, multi-criteria decision-making technique named technique for order of preference by similarity to ideal solution have been used to find the best predictive method in each category of the nanolubricants. DT, RF and NN methods are found to be most accurate in kinematic viscosity prediction of transmission oil (R2 = 0.861), hydraulic oil (R2 = 0.971) and gear oil (R2 = 0.973), respectively.
 ER  - 
 TY  - JOUR
-T1  - Multi-view refactoring of class and activity diagrams using a multi-objective evolutionary algorithm
-A1  - Deb, Usman MansoorMarouane KessentiniManuel WimmerKalyanmoy
-Y1  - 2017///
-JF  - Software Quality Journal
-VL  - 25.0
-IS  - 2
-DO  - 10.1007/s11219-015-9284-4
-UR  - http://link.springer.com/article/10.1007/s11219-015-9284-4
-ER  - 
-TY  - JOUR
-T1  - Multicriteria decision systems for financial problems
-A1  - Doumpos, Constantin ZopounidisMichael
-Y1  - 2013///
-JF  - TOP
-VL  - 21.0
-IS  - 2
-DO  - 10.1007/s11750-013-0279-7
-UR  - http://link.springer.com/article/10.1007/s11750-013-0279-7
-ER  - 
-TY  - JOUR
-T1  - Multicriteria, multi-user scheduling in grids with advance reservation
-A1  - Weglarz, Krzysztof KurowskiAriel OleksiakJan
-Y1  - 2010///
-JF  - Journal of Scheduling
-VL  - 13.0
-IS  - 5
-DO  - 10.1007/s10951-009-0142-8
-UR  - http://link.springer.com/article/10.1007/s10951-009-0142-8
-ER  - 
-TY  - JOUR
-T1  - Multiobjective optimization of mechanical properties based on the composition of adhesives
-A1  - Silva, Rosa M M PaivaCarlos A C AntónioLucas F M da
-Y1  - 2017///
-JF  - International Journal of Mechanics and Materials in Design
-VL  - 13.0
-IS  - 1
-DO  - 10.1007/s10999-015-9313-2
-UR  - http://link.springer.com/article/10.1007/s10999-015-9313-2
-ER  - 
-TY  - JOUR
-T1  - Multiobjective reliability-based optimization for crashworthy structures coupled with metal forming process
-A1  - Li, Guangyong SunHuile ZhangRuoyu WangXiaojiang LvQing
-Y1  - 2017///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 56.0
-IS  - 6
-DO  - 10.1007/s00158-017-1825-y
-UR  - http://link.springer.com/article/10.1007/s00158-017-1825-y
-ER  - 
-TY  - JOUR
-T1  - NAUTILUS Navigator: free search interactive multiobjective optimization without trading-off
-A1  - Ojalehto, Ana B RuizFrancisco RuizKaisa MiettinenLaura Delgado-AntequeraVesa
-Y1  - 2019///
-JF  - Journal of Global Optimization
-VL  - 74.0
-IS  - 2
-DO  - 10.1007/s10898-019-00765-2
-UR  - http://link.springer.com/article/10.1007/s10898-019-00765-2
-ER  - 
-TY  - JOUR
-T1  - Net earthquake hazard and elements at risk (NEaR) map creation for city of Istanbul via spatial multi-criteria decision analysis
-A1  - Erden, Himmet KaramanTuran
-Y1  - 2014///
-JF  - Natural Hazards
-VL  - 73.0
-IS  - 2
-DO  - 10.1007/s11069-014-1099-2
-UR  - http://link.springer.com/article/10.1007/s11069-014-1099-2
-ER  - 
-TY  - JOUR
-T1  - New multi-criteria LNN WASPAS model for evaluating the work of advisors in the transport of hazardous goods
-A1  - Tomić, Dragan PamučarSiniša SremacŽeljko StevićGoran ĆirovićDejan
-Y1  - 2019///
-JF  - Neural Computing and Applications
-VL  - 31.0
-IS  - 9
-DO  - 10.1007/s00521-018-03997-7
-UR  - http://link.springer.com/article/10.1007/s00521-018-03997-7
-ER  - 
-TY  - JOUR
-T1  - On the end-of-life state oriented multi-objective disassembly line balancing problem
-A1  - Cai, Lixia ZhuZeqiang ZhangYi WangNing
+T1  - Introducing a New Supply Chain Management Concept by Hybridizing TOPSIS, IoT and Cloud Computing
+A1  - Chakraborty, Biswanath
+A1  - Das, Santanu
 Y1  - 2020///
-JF  - Journal of Intelligent Manufacturing
-VL  - 31.0
-IS  - 6
-DO  - 10.1007/s10845-019-01519-3
-UR  - http://link.springer.com/article/10.1007/s10845-019-01519-3
+KW  - Agile SCM
+KW  - Amazon effect
+KW  - Consumers’ preference
+KW  - De-coupling
+KW  - Functional silos
+KW  - IoT
+KW  - RFID
+KW  - SCM
+KW  - Supply chain
+KW  - TOPSIS
+JF  - Journal of The Institution of Engineers (India): Series C
+DO  - 10.1007/s40032-020-00619-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091689158&doi=10.1007%2Fs40032-020-00619-x&partnerID=40&md5=ef143eaf00d93822d0b081ba8275d3e1
+N1  - Export Date: 5 November 2020
+N2  - Supply Chain Management (SCM) is becoming more complex day by day. Functional silos on demand and supply fronts of products are required to be addressed to implement the de-coupling point in preferences of consumers involved in a supply chain for optimization of operational efficiency, and nowadays, it has become a challenge. Again, ‘Amazon Effect’ has forced others to reset their strategies for optimizing their effectiveness. For the optimization of operational efficiency, three technologies have been used in the present work. TOPSIS, one of the Multi-Criteria Decision Making (MCDM) Techniques, has been applied to provide preferences of consumers of different criteria against different attributes (products). For tracking the products on transit, Radio Frequency IDentification (RFID) method can be employed in SCM to collect and share data of event(s) or ‘Things’ for a broad range through the Internet of Things (IoT) application. Finally, Cloud Computing has been proposed to be applied for managing Big Data that will be generated during this entire process of SCM. The optimization method of a quick or agile SCM based on TOPSIS, IoT and Cloud Computing is discussed in detail in this work to benefit industries.
 ER  - 
 TY  - JOUR
-T1  - Optimization of abrasive waterjet machining using multi-objective cuckoo search algorithm
-A1  - Sawhney, Zhengrong QiangXiaojin MiaoMeiping WuRapinder
-Y1  - 2018///
-JF  - The International Journal of Advanced Manufacturing Technology
-VL  - 99.0
-IS  - 5 - 8
-DO  - 10.1007/s00170-018-2549-x
-UR  - http://link.springer.com/article/10.1007/s00170-018-2549-x
-ER  - 
-TY  - JOUR
-T1  - Optimum design of pultrusion process via evolutionary multi-objective optimization
-A1  - Deb, Cem C TutumIsmet BaranKalyanmoy
-Y1  - 2014///
-JF  - The International Journal of Advanced Manufacturing Technology
-VL  - 72.0
-IS  - 9 - 12
-DO  - 10.1007/s00170-014-5726-6
-UR  - http://link.springer.com/article/10.1007/s00170-014-5726-6
-ER  - 
-TY  - JOUR
-T1  - Parallelized multiobjective efficient global optimization algorithm and its applications
-A1  - Li, Guangyong SunYe TianRuoyu WangJianguang FangQing
+T1  - Framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model
+A1  - Muruganantham, A.
+A1  - Gandhi, G. Meera
 Y1  - 2020///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 61.0
-IS  - 2
-DO  - 10.1007/s00158-019-02417-1
-UR  - http://link.springer.com/article/10.1007/s00158-019-02417-1
-ER  - 
-TY  - JOUR
-T1  - Pareto-based multi-objective optimization for classification in data mining
-A1  - Bhuyan, Narendra Kumar KamilaLambodar JenaHemanta Kumar
-Y1  - 2016///
-JF  - Cluster Computing
-VL  - 19.0
-IS  - 4
-DO  - 10.1007/s10586-016-0643-0
-UR  - http://link.springer.com/article/10.1007/s10586-016-0643-0
-ER  - 
-TY  - JOUR
-T1  - Participatory, Multi-Criteria Evaluation Methods as a Means to Increase the Legitimacy and Sustainability of Land Use Planning Processes. The Case of the Chaco Region in Salta, Argentina
-A1  - Volante, Lucas SeghezzoCristian VenenciaE. Catalina BuliubasichMartín A IribarnegarayJosé N
-Y1  - 2017///
-JF  - Environmental Management
-VL  - 59.0
-IS  - 2
-DO  - 10.1007/s00267-016-0779-y
-UR  - http://link.springer.com/article/10.1007/s00267-016-0779-y
-ER  - 
-TY  - JOUR
-T1  - Performance evaluation of municipal services with fuzzy multi‑criteria decision making approaches: a case study from Turkey
-A1  - Ozdogan, S
-A1  - Yildizbasi, A
-A1  - Rouyendegh, B D
-JF  - Springer
-UR  - https://link.springer.com/content/pdf/10.1007/s42452-020-2843-8.pdf
-N2  - … Amalnick et al. [10] have applied multi-criteria decision-making methods to … Boutkhoum et al. [12] proposed a hybrid decision-making methodology based on FAHP and FTOPSIS to evaluate, sort and select the most suitable cloud solutions to host and manage big data projects …
-ER  - 
-TY  - JOUR
-T1  - Performance evaluation of SMEs towards Industry 4.0 using fuzzy group decision making methods
-A1  - Yıldızbaşı, A
-A1  - Ünlü, V
-Y1  - 2020///
+KW  - Centrality measures
+KW  - MAE
+KW  - RMSE
+KW  - Social media analytics
+KW  - Spreading size
+KW  - Twitter data set
 PB  - Springer
-JF  - SN Applied Sciences
-UR  - https://link.springer.com/article/10.1007/s42452-020-2085-9
-N2  - … By using Big Data source, the amount to be produced and the raw material needs can be … Studies have been made for the solution of the multi-objective decision-making problem and methods … Multi-Criteria Decision Making (MCDM) techniques were first developed in 1960 [25] …
-ER  - 
-TY  - JOUR
-T1  - Pythagorean fuzzy MULTIMOORA method based on distance measure and score function: its application in multicriteria decision making process
-A1  - Xu, Chao HuangMingwei LinZeshui
-Y1  - 2020///
-JF  - Knowledge and Information Systems
-VL  - 62.0
-IS  - 11
-DO  - 10.1007/s10115-020-01491-y
-UR  - http://link.springer.com/article/10.1007/s10115-020-01491-y
-ER  - 
-TY  - JOUR
-T1  - Questions guiding the choice of a multicriteria decision aiding method
-A1  - Słowiński, Bernard RoyRoman
-Y1  - 2013///
-JF  - EURO Journal on Decision Processes
-VL  - 1.0
-IS  - 1 - 2
-DO  - 10.1007/s40070-013-0004-7
-UR  - http://link.springer.com/article/10.1007/s40070-013-0004-7
-ER  - 
-TY  - JOUR
-T1  - Ranking cloud render farm services for a multi criteria recommender system
-A1  - Banu, J Ruby AnnetteAisha
-Y1  - 2018///
-JF  - Sādhanā
-VL  - 44.0
-IS  - 1
-DO  - 10.1007/s12046-018-0981-0
-UR  - http://link.springer.com/article/10.1007/s12046-018-0981-0
-ER  - 
-TY  - JOUR
-T1  - Ranking-based MCDM models in financial management applications: analysis and emerging challenges
-A1  - Marqués, A I
-A1  - García, V
-A1  - Sánchez, J S
-JF  - Springer
-UR  - https://link.springer.com/content/pdf/10.1007/s13748-020-00207-1.pdf
-N1  - Cited By (since 0000): 1
-N2  - … by the foundations of operations research (eg, multi-criteria decision-making methods, mathematical programming) and computational intelligence (eg, neural networks, support vector … determination of alternatives [9,27]: (i) the multi-objective decision-making approach …
-ER  - 
-TY  - JOUR
-T1  - Reasons for wind turbine generator failures: a multi-criteria approach for sustainable power production
-A1  - Gowda, Rajakumar D GowdarM. C Mallikarjune
-Y1  - 2016///
-JF  - Renewables: Wind, Water, and Solar
-VL  - 3.0
-IS  - 1
-DO  - 10.1186/s40807-016-0029-1
-UR  - http://link.springer.com/article/10.1186/s40807-016-0029-1
-ER  - 
-TY  - JOUR
-T1  - Selection of initial designs for multi-objective optimization using classification and regression tree
-A1  - Zhu, Lei ShiYan FuRen-Jye YangBo-Ping WangPing
-Y1  - 2013///
-JF  - Structural and Multidisciplinary Optimization
-VL  - 48.0
-IS  - 6
-DO  - 10.1007/s00158-013-0947-0
-UR  - http://link.springer.com/article/10.1007/s00158-013-0947-0
-ER  - 
-TY  - JOUR
-T1  - Service selection using fuzzy multi-criteria decision making: a comprehensive review
-A1  - Khezri, Mohammad MasdariHemn
-Y1  - 2020///
-JF  - Journal of Ambient Intelligence and Humanized Computing
-DO  - 10.1007/s12652-020-02441-w
-UR  - http://link.springer.com/article/10.1007/s12652-020-02441-w
-ER  - 
-TY  - JOUR
-T1  - Service Selection Using Multi-criteria Decision Making: A Comprehensive Overview
-A1  - Khezri, Mehdi HosseinzadehHawkar Kamaran HamaMarwan Yassin GhafourMohammad MasdariOmed Hassan AhmedHemn
-Y1  - 2020///
-JF  - Journal of Network and Systems Management
-VL  - 28.0
-IS  - 4
-DO  - 10.1007/s10922-020-09553-w
-UR  - http://link.springer.com/article/10.1007/s10922-020-09553-w
-ER  - 
-TY  - JOUR
-T1  - Simulation of multicriteria data
-A1  - Rolland, Jairo CugliariAntoine
-Y1  - 2018///
-JF  - EURO Journal on Decision Processes
-VL  - 6.0
-IS  - 1 - 2
-DO  - 10.1007/s40070-017-0069-9
-UR  - http://link.springer.com/article/10.1007/s40070-017-0069-9
-ER  - 
-TY  - JOUR
-T1  - Smart additive manufacturing: current artificial intelligence-enabled methods and future perspectives
-A1  - Wang, Y
-A1  - Zheng, P
-A1  - Peng, T
-A1  - Yang, H
-A1  - Zou, J
-Y1  - 2020///
-PB  - Springer
-JF  - Science China Technological …
-UR  - https://link.springer.com/content/pdf/10.1007/s11431-020-1581-2.pdf
-N1  - Cited By (since 2020): 1
-N2  - … Therefore, multi-criteria decision making (MCDM) methods are widely adopted to help users make rational decisions … Image processing is one of the most popular areas in machine learning and has … The framework was the focus, and efficient utilization of big data has not been …
-ER  - 
-TY  - JOUR
-T1  - Smart recovery decision-making of used industrial equipment for sustainable manufacturing: belt lifter case study
-A1  - Meng, K
-A1  - Qian, X
-A1  - Lou, P
-A1  - Zhang, J
-Y1  - 2020///
-PB  - Springer
-JF  - Journal of Intelligent Manufacturing
-UR  - https://link.springer.com/article/10.1007/s10845-018-1439-2
-N1  - Cited By (since 2020): 6
-N2  - … Literature review. Most researches focused on the product-level recovery decision problem. A variety of Multi-Criteria Decision-Making (MCDM) approaches have been developed to assess the comprehensive reusability or remanufacturability of EOL products (Bufardi et al …
-ER  - 
-TY  - JOUR
-T1  - Solid waste collection system selection for smart cities based on a type-2 fuzzy multi-criteria decision technique
-A1  - Kaya, Murside TopalogluFerhat YarkinTolga
-Y1  - 2018///
-JF  - Soft Computing
-VL  - 22.0
-IS  - 15
-DO  - 10.1007/s00500-018-3232-8
-UR  - http://link.springer.com/article/10.1007/s00500-018-3232-8
-ER  - 
-TY  - JOUR
-T1  - Some hybrid weighted aggregation operators under neutrosophic set environment and their applications to multicriteria decision-making
-A1  - GargNancy, Harish
-Y1  - 2018///
-JF  - Applied Intelligence
-VL  - 48.0
-IS  - 12
-DO  - 10.1007/s10489-018-1244-9
-UR  - http://link.springer.com/article/10.1007/s10489-018-1244-9
-ER  - 
-TY  - JOUR
-T1  - Some Picture Fuzzy Aggregation Operators and Their Applications to Multicriteria Decision-Making
-A1  - Garg, Harish
-Y1  - 2017///
-JF  - Arabian Journal for Science and Engineering
-VL  - 42.0
-IS  - 12
-DO  - 10.1007/s13369-017-2625-9
-UR  - http://link.springer.com/article/10.1007/s13369-017-2625-9
-ER  - 
-TY  - JOUR
-T1  - Supporting Multicriteria Group Decisions with MACBETH Tools: Selection of Sustainable Brownfield Redevelopment Actions
-A1  - Matos, Ricardo J G MateusJoão C Bana e CostaPedro Verga
-Y1  - 2017///
-JF  - Group Decision and Negotiation
-VL  - 26.0
-IS  - 3
-DO  - 10.1007/s10726-016-9501-y
-UR  - http://link.springer.com/article/10.1007/s10726-016-9501-y
-ER  - 
-TY  - JOUR
-T1  - Sustainable solid waste management system using multi-objective decision-making model: a method for maximizing social acceptance in Hoi An city, Vietnam
-A1  - Nguyen, Giang Minh HoangTakeshi FujiwaraToan Song Pham PhuLuong Duc
-Y1  - 2019///
-JF  - Environmental Science and Pollution Research
-VL  - 26.0
-IS  - 33
-DO  - 10.1007/s11356-018-3498-5
-UR  - http://link.springer.com/article/10.1007/s11356-018-3498-5
-ER  - 
-TY  - JOUR
-T1  - Targeting solutions in Bayesian multi-objective optimization: sequential and batch versions
-A1  - Herbert, David GaudrieRodolphe Le RicheVictor PichenyBenoît EnauxVincent
-Y1  - 2020///
-JF  - Annals of Mathematics and Artificial Intelligence
-VL  - 88.0
-IS  - 1 - 3
-DO  - 10.1007/s10472-019-09644-8
-UR  - http://link.springer.com/article/10.1007/s10472-019-09644-8
-ER  - 
-TY  - JOUR
-T1  - Technique for order performance by similarity to ideal solution for solving complex situations in multi-criteria optimization of the tracking channels of GPS baseband telecommunication receivers
-A1  - Sali, F M JumaahA. A ZaidanB. B ZaidanR. BahbibiM. Y QahtanA.
-Y1  - 2018///
-JF  - Telecommunication Systems
-VL  - 68.0
-IS  - 3
-DO  - 10.1007/s11235-017-0401-5
-UR  - http://link.springer.com/article/10.1007/s11235-017-0401-5
-ER  - 
-TY  - JOUR
-T1  - Uncertainty-Based Multi-Objective Decision Making with Hierarchical Reliability Analysis Under Water Resources and Environmental Constraints
-A1  - Guo, Feifei DongYong LiuHan SuZhongyao LiangRui ZouHuaicheng
-Y1  - 2016///
-JF  - Water Resources Management
-VL  - 30.0
-IS  - 2
-DO  - 10.1007/s11269-015-1192-7
-UR  - http://link.springer.com/article/10.1007/s11269-015-1192-7
-ER  - 
-TY  - JOUR
-T1  - Urban construction land suitability evaluation based on improved multi-criteria evaluation based on GIS (MCE-GIS): Case of New Hefei City, China
-A1  - Ma, Xiaorui ZhangChuanglin FangZhenbo WangHaitao
-Y1  - 2013///
-JF  - Chinese Geographical Science
-VL  - 23.0
-IS  - 6
-DO  - 10.1007/s11769-013-0609-6
-UR  - http://link.springer.com/article/10.1007/s11769-013-0609-6
-ER  - 
-TY  - JOUR
-T1  - Using grey relational analysis and grey integrated multi-objective strategy to evaluate the risk factors of falling of aboriginal elders in Taiwan
-A1  - Huang, H C
-A1  - Tsai, T F
-A1  - Subeq, Y M
-Y1  - 2020///
-PB  - Springer
-JF  - Soft Computing
-UR  - https://link.springer.com/article/10.1007/s00500-019-04178-x
+JF  - Multimedia Tools and Applications
+VL  - 79
+IS  - 5-6
+SP  - 3913
+EP  - 3927
+DO  - 10.1007/s11042-019-7470-2
+UR  - https://link.springer.com/article/10.1007/s11042-019-7470-2
 N1  - Cited By (since 2020): 3
-N2  - … sequence are sorted objectively and without deviation, and the result of multi-objective decision making is … The NUDIST Vivo 12.0 software for data analysis is used to extract the cultural … similarity, is used in many areas such as decision-making, machine-learning, data mining …
+N2  - The Social, Mobile, Analytics and Cloud (SMAC) explosion in recent times changed the way the customers look at and collaborate businesses through large world of data or information, often described as “Big Data”. With over 1590 million active users, social media such as Facebook, Twitter, WhatsApp, Instagram, LinkedIn etc. send or receive messages or post or access new content every day. Businesses or enterprises understand and extract useful insights from social media platform and transforming it into useful information or knowledge along with their enterprise business data for strategic decision making. A framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model is proposed for social media data and our comprehensive study on large-scale twitter dataset experiment explains how MCDM (TOPSIS) method outperforms against the standard centrality methods using predicted Spreading Size. Two well-known metrics such as MAE (Mean Absolute Error), and RMSE (Root Mean Square Error) are applied to measure prediction accuracy of our MCDM based method against standard methods. TOPSIS (MCDM based) experiences least error accuracy of 9% in MAE and 16% in RMSE than the standard methods to prove that the proposed approach works better than the standard methods.
 ER  - 
 TY  - JOUR
-T1  - Video trajectory analysis using unsupervised clustering and multi-criteria ranking
-A1  - Sekh, A A
-A1  - Dogra, D P
-A1  - Kar, S
-A1  - Roy, P P
+T1  - A data-driven quantitative assessment model for taxi industry: the scope of business ecosystem’s health
+A1  - Zhang, Yong
+A1  - Zhong, Miner
+A1  - Jiang, Yunjian
+Y1  - 2017///
+KW  - Business ecosystem
+KW  - Combine evaluation
+KW  - Health degree
+KW  - Quantitative analysis
+KW  - Taxi industry
+JF  - European Transport Research Review
+VL  - 9
+IS  - 2
+DO  - 10.1007/s12544-017-0241-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018398143&doi=10.1007%2Fs12544-017-0241-0&partnerID=40&md5=b0e77f79068b2957f54b447fb780879b
+N1  - Cited By :1
+
+Export Date: 5 November 2020
+N2  - Introduction: The taxi industry has boomed over the years, both in street-hail and dispatch market. However, few studies focus on comprehensive perspectives, which make decisions such as implementing regulative or incentive policies difficult. As an economic community working in the value-oriented process, the taxi industry requires a holistic performance evaluation to determine how to adapt strategies to survive and grow. Methods: This paper proposed the concept “Taxi Industry Health degree” based on the theory of Business Ecosystem and the evaluation of its health. A four-layer criteria set is developed from aspects of robustness, productivity and sustainability, and weights are determined through Analytic Hierarchy Process. Results: A synthetic evaluating model combining Fuzzy Comprehensive Evaluation and Artificial Neural Network is used to maintain the goal of multi-criteria decision-making. With the GPS and Taximeter dataset of taxicabs in the whole taxi industry in Wuxi, the model is applied to empirical studies. Conclusions: This paper provides sensibility analysis on not only the company’s order volatility, revenue growth and utilization of resources, but also influence on citizen’s welfare, energy consumption and environmental pollution, which enables practical regulations and policies within taxi industry.
+ER  - 
+TY  - JOUR
+T1  - An approach for composing predictive models from disparate knowledge sources in smart manufacturing environments
+A1  - Kim, Duck Bong
+Y1  - 2019///
+KW  - Additive manufacturing
+KW  - Compositionality
+KW  - Data analytics
+KW  - Decision making
+KW  - Smart manufacturing
+JF  - Journal of Intelligent Manufacturing
+VL  - 30
+IS  - 4
+SP  - 1999
+EP  - 2012
+DO  - 10.1007/s10845-017-1366-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031926326&doi=10.1007%2Fs10845-017-1366-7&partnerID=40&md5=985cec1c544db2c9a14e381d7fdf94e5
+N1  - Cited By :6
+
+Export Date: 5 November 2020
+N2  - This paper describes an approach that can compose predictive models from disparate knowledge sources in smart manufacturing environments. The capability to compose disparate models of individual manufacturing components with disparate knowledge sources is necessary in manufacturing industry, because this capability enables us to understand, monitor, analyze, optimize, and control the performance of the system made up of those components. It is based on the assumption that the component models and component sources used in any particular composition can be represented using the same collection of system ‘viewpoints’. With this assumption, creating this integrated collection is much easier than it would be. This composition capability provides the foundation for the ability to predict the performance of the system from the performances of its components—called compositionality. Compositionality is the key to solve decision-making/optimization problems related to that system-level prediction. For those problems, compositionality can be achieved using a three-tiered, abstraction architecture. The feasibility of this approach is demonstrated in an example in which a multi-criteria decision making method is used to determine the optimal process parameters in an additive manufacturing process.
+ER  - 
+TY  - JOUR
+T1  - Multi-criteria intuitionistic fuzzy group decision analysis with TOPSIS method for selecting appropriate cloud solution to manage big data projects
+A1  - Sachdeva, Nitin
+A1  - Singh, Ompal
+A1  - Kapur, P. K.
+A1  - Galar, Diego
+Y1  - 2016///
+KW  - Big data
+KW  - Cloud computing
+KW  - Intuitionistic fuzzy set (IFS)
+KW  - Multi criteria decision making (MCDM)
+KW  - TOPSIS
+JF  - International Journal of Systems Assurance Engineering and Management
+VL  - 7
+IS  - 3
+SP  - 316
+EP  - 324
+DO  - 10.1007/s13198-016-0455-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983035394&doi=10.1007%2Fs13198-016-0455-x&partnerID=40&md5=03bb3e7fc0d281f7e99fbf76345f93b4
+N1  - Cited By :9
+
+Export Date: 5 November 2020
+N2  - Today technology that learns from data to forecast future behavior of individuals, organizations, government and country as a whole, is playing a crucial role in the advancement of human race. In fact, the strategic advantage most of the companies today strive for are use of new available technologies like cloud computing and big data. However, today’s dynamic business environment poses severe challenges in front of companies as to how to make use of the power of big data with the technical flexibility that cloud computing provides? Therefore, evaluating, ranking and selecting the most appropriate cloud solution to manage big data project is a complex concern which required multi criteria decision environment. In this paper we propose a hybrid TOPSIS method combined with intuitionistic fuzzy set to select appropriate cloud solution to manage big data projects in group decision making environment. In order to collate individual opinions of decision makers for rating the importance of various criteria and alternatives, we employed intuitionistic fuzzy weighted averaging operator. Lastly sensitivity analysis is performed so as to evaluate the impact of criteria weights on final ranking of alternatives.
+ER  - 
+TY  - JOUR
+T1  - Multi Criteria Decision Making in Financial Risk Management with a Multi-objective Genetic Algorithm
+A1  - Srinivasan, Sujatha
+A1  - Kamalakannan, T.
+Y1  - 2018///
+KW  - Big data
+KW  - Business analytics
+KW  - Business intelligence
+KW  - Credit risk
+KW  - Enterprise risk management
+JF  - Computational Economics
+VL  - 52
+IS  - 2
+SP  - 443
+EP  - 457
+DO  - 10.1007/s10614-017-9683-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018440020&doi=10.1007%2Fs10614-017-9683-7&partnerID=40&md5=68dab08ccebe53d3642f9ef3f94cd99b
+N1  - Cited By :6
+
+Export Date: 5 November 2020
+N2  - A huge amount of data is being collected and stored by financial institutions like banks during their operations. These data contain the most important facts about the institutions and its customers. A good and efficient data analytics system can find patterns in this huge data source that can be used in actionable knowledge creation. Actionable knowledge is the knowledge that can be put to decision making and take some positive action towards better performance of organizations. This actionable knowledge is termed Business Intelligence by data scientists. Business Intelligence and Analytics is the process of applying data mining techniques to organizational or corporate data to discover patterns. Business Intelligence and Business Analytics are emerging as important and essential fields both for data scientists and organizations. Risk analysis, fraud detection, customer retention, customer satisfaction analysis and actuarial analysis are some of the areas of application of business intelligence and analytics. Credit risk analysis is an important part of a successful financial institution particularly in the banking sector. The current study takes this risk analysis in financial institutions and reviews the state of the art in using data analytics or data mining techniques for financial risk analysis. The analysis of risk from financial data depends on several factors that are both objective and subjective. Hence it is a multi-criteria decision problem. The study also proposes a multi-objective genetic algorithm (MOGA) for analyzing financial data for risk analysis and prediction. The proposed MOGA is different from other evolutionary systems in that a memory component to hold the rules is added to the system while other systems in the literature are memory less. The algorithm is applied to bench mark data sets for predicting the decision on credit card and credit applications. The preliminary results are encouraging and show light towards better decision making in reducing risks.
+ER  - 
+TY  - JOUR
+T1  - Machine learning based decision support systems (DSS) for heart disease diagnosis: a review
+A1  - Safdar, Saima
+A1  - Zafar, Saad
+A1  - Zafar, Nadeem
+A1  - Khan, Naurin Farooq
+Y1  - 2018///
+KW  - Clinical
+KW  - Decision support systems
+KW  - Heart diseases
+KW  - Machine learning
+JF  - Artificial Intelligence Review
+VL  - 50
+IS  - 4
+SP  - 597
+EP  - 623
+DO  - 10.1007/s10462-017-9552-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016028050&doi=10.1007%2Fs10462-017-9552-8&partnerID=40&md5=9d0cddfba7f43cd206a3d911c8a1c0a3
+N1  - Cited By :16
+
+Export Date: 5 November 2020
+N2  - The current review contributes with an extensive overview of decision support systems in diagnosing heart diseases in clinical settings. The investigators independently screened and abstracted studies related to heart diseases-based clinical decision support system (DSS) published until 8-June-2015 in PubMed, CINAHL and Cochrane Library. The data extracted from the twenty full-text articles that met the inclusion criteria was classified under the following fields; heart diseases, methods for data sets formation, machine learning algorithms, machine learning-based DSS, comparator types, outcome evaluation and clinical implications of the reported DSS. Out of total of 331 studies 20 met the inclusion criteria. Most of the studies relate to ischemic heart diseases with neural network being the most common machine learning (ML) technique. Among the ML techniques, ANN classifies myocardial infarction with 97% and myocardial perfusion scintigraphy with 87.5% accuracy, CART classifies heart failure with 87.6%, neural network ensembles classifies heart valve with 97.4%, support vector machine classifies arrhythmia screening with 95.6%, logistic regression classifies acute coronary syndrome with 72%, artificial immune recognition system classifies coronary artery disease with 92.5% and genetic algorithms and multi-criteria decision analysis classifies chest-pain patients with 91% accuracy respectively. There were 55% studies that validated the results in clinical settings while 25% validated the results through experimental setups. Rest of the studies (20%) did not report the applicability and feasibility of their methods in clinical settings. The study categorizes the ML techniques according to their performance in diagnosing various heart diseases. It categorizes, compares and evaluates the comparator based on physician’s performance, gold standards, other ML techniques, different models of same ML technique and studies with no comparison. It also investigates the current, future and no clinical implications. In addition, trends of machine learning techniques and algorithms used in the diagnosis of heart diseases along with the identification of research gaps are reported in this study. The reported results suggest reliable interpretations and detailed graphical self-explanatory representations by DSS. The study reveals the need for establishment of non-ambiguous real-time clinical data for proper training of DSS before it can be used in clinical settings. The future research directions of the ML-based DSS is mostly directed towards development of generalized systems that can decide on clinical measurements which are easily accessible and assessable in real-time.
+ER  - 
+TY  - JOUR
+T1  - Multi-objective Decision in Machine Learning
+A1  - de Medeiros, Talles Henrique
+A1  - Rocha, Honovan Paz
+A1  - Torres, Frank Sill
+A1  - Takahashi, Ricardo Hiroshi Caldeira
+A1  - Braga, Antônio Pádua
+Y1  - 2017///
+KW  - Classification
+KW  - Decision-making
+KW  - Machine learning
+KW  - Multi-objective optimization
+JF  - Journal of Control, Automation and Electrical Systems
+VL  - 28
+IS  - 2
+SP  - 217
+EP  - 227
+DO  - 10.1007/s40313-016-0295-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014862668&doi=10.1007%2Fs40313-016-0295-6&partnerID=40&md5=648804e246d696c63301d0787ee6819b
+N1  - Cited By :4
+
+Export Date: 5 November 2020
+N2  - This work presents a novel approach for decision-making for multi-objective binary classification problems. The purpose of the decision process is to select within a set of Pareto-optimal solutions, one model that minimizes the structural risk (generalization error). This new approach utilizes a kind of prior knowledge that, if available, allows the selection of a model that better represents the problem in question. Prior knowledge about the imprecisions of the collected data enables the identification of the region of equivalent solutions within the set of Pareto-optimal solutions. Results for binary classification problems with sets of synthetic and real data indicate equal or better performance in terms of decision efficiency compared to similar approaches.
+ER  - 
+TY  - JOUR
+T1  - A decision support methodology for integrated machining process and operation plans for sustainability and productivity assessment
+A1  - Hatim, Qais Y.
+A1  - Saldana, Christopher
+A1  - Shao, Guodong
+A1  - Kim, Duck Bong
+A1  - Morris, K. C.
+A1  - Witherell, Paul
+A1  - Rachuri, Sudarsan
+A1  - Kumara, Soundar
 Y1  - 2020///
+KW  - Artificial intelligence
+KW  - Data analytics
+KW  - Manufacturing
+KW  - Sustainability
+JF  - International Journal of Advanced Manufacturing Technology
+VL  - 107
+IS  - 7-8
+SP  - 3207
+EP  - 3230
+DO  - 10.1007/s00170-019-04268-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083764438&doi=10.1007%2Fs00170-019-04268-y&partnerID=40&md5=d25394fc5fc73c52d39ec0af17689316
+N1  - Export Date: 5 November 2020
+N2  - This paper presents a systematic methodology to enable environmental sustainability and productivity performance assessment for integrated process and operation plans at the machine cell level of a manufacturing system. This approach determines optimal process and operation plans from a range of possible alternatives that satisfy the objectives and constraints. The methodology provides a systematic procedure to highlight parameters that have significant impact on both sustainability and productivity performance metrics. We developed models and applied them to analyze manufacturing life cycle scenarios for collecting and categorizing key concepts towards building a material information model for sustainability. Integration of process and operation plans allows globalized assessment of sustainability and productivity, while development of a multi-criteria decision-making method leads to optimization of process planning activities based on the impact of conflicting sustainability and productivity metrics. A case study is detailed to demonstrate the sustainability-focused methodology, wherein integrated simulation and optimization techniques are used to support analysis of candidate scenarios and selection of preferred alternatives from a finite set of alternate process and operation plans. A discrete event simulation tool is used to model evolution of sustainability metrics (e.g., energy consumption) and productivity metrics (e.g., production time, cost) of a shop floor. The outcomes of this work include determination of optimized feature sequence plans which optimize various key performance indicators depending on stakeholder interest based on time, sustainability and production cost.
+ER  - 
+TY  - JOUR
+T1  - Mining and prioritization of association rules for big data: multi-criteria decision analysis approach
+A1  - Ait-Mlouk, Addi
+A1  - Agouti, Tarik
+A1  - Gharnati, Fatima
+Y1  - 2017///
+KW  - Apache Spark
+KW  - Association rules
+KW  - Big data
+KW  - Data mining
+KW  - Multi-criteria decision analysis
+KW  - PFP-growth
+KW  - Road accident
+JF  - Journal of Big Data
+VL  - 4
+IS  - 1
+DO  - 10.1186/s40537-017-0105-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036543658&doi=10.1186%2Fs40537-017-0105-4&partnerID=40&md5=60821a7a768a70b00693deb4f02b7729
+N1  - Cited By :10
+
+Export Date: 5 November 2020
+N2  - Data mining techniques and extracting patterns from large datasets play a vital role in knowledge discovery. Most of the decision makers encounter a large number of decision rules resulted from association rules mining. Moreover, the volume of datasets brings a new challenge to extract patterns such as the cost of computing and inefficiency to achieve the relevant rules. To overcome these challenges, this paper aims to build a learning model based on FP-growth and Apache Spark framework to process and to extract relevant association rules. We also integrate the multi-criteria decision analysis to prioritize the extracted rules by taking into account the decision makers subjective judgment. We believe that this approach would be a useful model to follow, particularly for decision makers who are suffering from conflicts between extracted rules, and difficulties of building only the most interesting rules. Experimental results on road accidents analysis show that the proposed approach can be efficiently achieved more association rules with a higher accuracy rate and improve the response time of the proposed algorithm. The results make clear that the proposed approach performs well and can provide useful information that could help the decision makers to improve road safety.
+ER  - 
+TY  - JOUR
+T1  - An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query
+A1  - Xie, Min
+A1  - Wong, Raymond Chi Wing
+A1  - Lall, Ashwin
+Y1  - 2020///
+KW  - Data analysis
+KW  - Multi-criteria decision making
+KW  - Query processing
+KW  - Regret minimization
 PB  - Springer
-JF  - SOFT COMPUTING
-UR  - https://link.springer.com/content/pdf/10.1007/s00500-020-04967-9.pdf
-N1  - Cited By (since 2020): 1
-N2  - … In various applications, deep learning-guided supervised systems are used to track and identify unusual … Next, the clusters are fused using multi-criteria decision making and trajectories are ranked accordingly … It uses a set of known or unknown patterns to train neural networks …
+JF  - VLDB Journal
+VL  - 29
+IS  - 1
+SP  - 147
+EP  - 175
+DO  - 10.1007/s00778-019-00570-z
+UR  - https://link.springer.com/article/10.1007/s00778-019-00570-z
+N1  - Cited By (since 2020): 4
+N2  - When faced with a database containing millions of tuples, a user may be only interested in a (typically much) smaller representative subset. Recently, a query called the regret minimization query was proposed toward this purpose to create such a subset for users. Specifically, this query finds a set of tuples that minimizes the user regret (measured by how far the user’s favorite tuple in the selected set is from his/her favorite tuple in the whole database). The regret minimization query was shown to be very useful in bridging the best worlds between two existing well-known queries, top-k queries and skyline queries: Like top-k queries, the total number of tuples returned in this new query is controllable, and like skyline queries, this new query does not require a user to specify any preference function. Thus, it has attracted a lot of attention from researchers in the database community. Various methods were proposed for regret minimization. However, despite the abundant research effort, there is no systematic comparison among the existing methods. This paper surveys this interesting and evolving research topic by broadly reviewing and comparing the state-of-the-art methods for regret minimization. Moreover, we study different variants of the regret minimization query that has garnered considerable attention in recent years and present some interesting problems that have not yet been addressed in the literature. We implemented 12 state-of-the-art methods published in top-tier venues such as SIGMOD and VLDB from 2010 to 2018 for obtaining regret minimization sets and give an experimental comparison under various parameter settings on both synthetic and real datasets. Our evaluation shows that the optimal choice of methods for regret minimization depends on the application demands. This paper provides an empirical guideline for making such a decision.
+ER  - 
+TY  - CHAP
+T1  - Context-Dependent Feedback Prioritisation in Exploratory Learning Revisited
+A1  - Cocea, Mihaela
+A1  - Magoulas, George D.
+Y1  - 2011///
+KW  - analytic hierarchy process
+KW  - context-dependent personalised feedback
+KW  - exploratory learning
+KW  - feedback prioritisation
+KW  - neural networks
+PB  - Springer-Verlag
+JF  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 6787 LNCS
+T3  - UMAP'11
+SP  - 62
+EP  - 74
+CY  - Berlin, Heidelberg
+SN  - 9783642223617
+DO  - 10.1007/978-3-642-22362-4_6
+UR  - http://link.springer.com/10.1007/978-3-642-22362-4_6
+N2  - The open nature of exploratory learning leads to situations when feedback is needed to address several conceptual difficulties. Not all, however, can be addressed at the same time, as this would lead to cognitive overload and confuse the learner rather than help him/her. To this end, we propose a personalised context-dependent feedback prioritisation mechanism based on Analytic Hierarchy Process (AHP) and Neural Networks (NN). AHP is used to define feedback prioritisation as a multi-criteria decision-making problem, while NN is used to model the relation between the criteria and the order in which the conceptual difficulties should be addressed. When used alone, AHP needs a large amount of data from experts to cover all possible combinations of the criteria, while the AHP-NN synergy leads to a general model that outputs results for any such combination. This work was developed and tested in an exploratory learning environment for mathematical generalisation called eXpresser. © 2011 Springer-Verlag.
 ER  - 
 TY  - JOUR
 T1  - VNE strategy based on chaos hybrid flower pollination algorithm considering multi-criteria decision making
-A1  - Zhang, P
-A1  - Liu, F
-A1  - Aujla, G S
-A1  - Vashisht, S
+A1  - Zhang, Peiying
+A1  - Liu, Fanglin
+A1  - Aujla, Gagangeet Singh
+A1  - Vashisht, Sahil
 Y1  - 2020///
+KW  - BP neural network
+KW  - Chaos optimization strategy
+KW  - Flower pollination algorithm
+KW  - Genetic algorithm
+KW  - Virtual network embedding
 PB  - Springer
 JF  - Neural Computing and Applications
+DO  - 10.1007/s00521-020-04827-5
 UR  - https://link.springer.com/content/pdf/10.1007/s00521-020-04827-5.pdf
 N1  - Cited By (since 2020): 1
-N2  - … development of multiple technologies such as Internet of Things, big data, cloud computing … In view of these problems, a new VNE strategy considering dynamic multi-criteria decision making is … Because machine learning is a better choice for solving complex fitting problems than …
+N2  - With the development of science and technology and the need for multi-criteria decision making (MCDM), the optimization problem to be solved becomes extremely complex. The theoretically accurate and optimal solutions are often difficult to obtain. Therefore, meta-heuristic algorithms based on multi-point search have received extensive attention. The flower pollination algorithm (FPA) is a new swarm intelligence meta-heuristic algorithm, which can effectively control the balance between global search and local search through a handover probability, and gradually attracts the attention of researchers. However, the algorithm still has problems that are common to optimization algorithms. For example, the global search operation guided by the optimal solution is easy to lead the algorithm into local optimum, and the vector-guided search process is not suitable for solving some problems in discrete space. Moreover, the algorithm does not consider dynamic multi-criteria decision problems well. Aiming at these problems, the design strategy of hybrid flower pollination algorithm for virtual network embedding problem is discussed. Combining the advantages of the genetic algorithm and FPA, the algorithm is optimized for the characteristics of discrete optimization problems. The cross-operation is used to replace the cross-pollination operation to complete the global search and replace the mutation operation with self-pollination operation to enhance the ability of local search. Moreover, a life cycle mechanism is introduced as a complement to the traditional fitness-based selection strategy to avoid premature convergence. A chaos optimization strategy is introduced to replace the random sequence-guided crossover process to strengthen the global search capability and reduce the probability of producing invalid individuals. In addition, a two-layer BP neural network is introduced to replace the traditional objective function to strengthen the dynamic MCDM ability. Simulation results show that the proposed method has good performance in link load balancing, revenue–cost ratio, VN requests acceptance ratio, mapping average quotation, average time delay, average packet loss rate, and the average running time of the algorithm.
+ER  - 
+TY  - JOUR
+T1  - Using grey relational analysis and grey integrated multi-objective strategy to evaluate the risk factors of falling of aboriginal elders in Taiwan
+A1  - Huang, Hsiao Ching
+A1  - Tsai, Tsai Fu
+A1  - Subeq, Yi Maun
+Y1  - 2020///
+KW  - Aboriginal elders
+KW  - Fall risk factors
+KW  - Grey multi-objective decision making
+KW  - Grey relational analysis
+KW  - Mixed-method study
+PB  - Springer
+JF  - Soft Computing
+VL  - 24
+IS  - 11
+SP  - 8097
+EP  - 8112
+DO  - 10.1007/s00500-019-04178-x
+UR  - https://link.springer.com/article/10.1007/s00500-019-04178-x
+N1  - Cited By (since 2020): 3
+N2  - Aboriginal elders falls have been a widely discussed topic; however, factors such as emotional and physical functions, and social and cultural backgrounds are lacking. Most studies focusing on fall correlations concentrate on medical institutions or non-tribal community areas. Few studies focus on falling of elders in mountainous areas. Applying grey relational and multi-objective decision making to predict the prevalence of falls and associated risk factors for aboriginal elders is the purpose of this study. We targeted the Atayal and Tsuo aboriginal elders in central Taiwan, involving 160 members settled in mountainous townships in Taiwan. For this research study, the components are as follows: The grey theory predicts and evaluates the commonly used fall risk assessment tools, that is, quantative questionaires include: (1) focused history: medication history and Brief Symptom Rating Scale questionnaire, BSRS-5; (2) functional Assessment: ADL (Barthel Index) and IADL; (3) prevention of falls health beliefs; and (4) prevention of falls self-efficacy. With qualitative and in-depth interviews, 18 tribal elders, 55 years and above, were interviewed: 9 from the Atayal and 9 from the Tsou. Based on the Nvivo 12.0 data analysis software, this study concluded that the most predictable fall risk assessment tool is Downton Fall Risk Index (weighting: 0.8657), followed by BSR-5 (weighting: 0.5701), prevention of falls health beliefs (weighting: 0.448), Barthel scale (weighting: 0.4296), IADL (weighting: 0.1661), prevention of falls self-efficacy (weighting: 0.1391) and medical history (weighting: 0.0615). Further, qualitative results indicated that the issue of health inequalities under the influence of ethnic culture, including physical and disease characteristics, tend to be more than the proportion of heart and hypertension diseases, healthy behaviors such as unbalanced diet, cultural beliefs in gender division of labor and ethnic communication barriers and lack of cultural adaptability care resources. The risky tribal environment of mountainous areas is a major factor that leads to falls. The results provide an accurate assessment tool suitable for Taiwanese aboriginal elders’ falls for future medical policy making and fall prevention intervention in cultural safety.
 ER  - 
