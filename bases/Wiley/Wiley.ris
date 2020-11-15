@@ -39,77 +39,6 @@ N1  - https://doi.org/10.1002/int.20476
 N2  - The objectives of this paper are (1) to propose new techniques to learn and improve the multicriteria decision analysis (MCDA) method PROAFTN based on machine learning approaches and (2) to compare the performance of the developed methods with other well-known machine learning classification algorithms. The proposed learning methods consist of two stages: The first stage involves using the discretization techniques to obtain the required parameters for the PROAFTN method, and the second stage is the development of a new inductive approach to construct PROAFTN prototypes for classification. The comparative study is based on the generated classification accuracy of the algorithms on the data sets. For further robust analysis of the experiments, we used the Friedman statistical measure with the corresponding post hoc tests. The proposed approaches significantly improved the performance of the classification method PROAFTN. Based on the generated results on the same data sets, PROAFTN outperforms widely used classification algorithms. Furthermore, the method is simple, no preprocessing is required, and no loss of information during learning. © 2011 Wiley Periodicals, Inc.
 ER  - 
 TY  - JOUR
-T1  - Workforce/Population, Economy, Infrastructure, Geography, Hierarchy, and Time (WEIGHT): Reflections on the Plural Dimensions of Disaster Resilience
-A1  - Santos, Joost
-A1  - Yip, Christian
-A1  - Thekdi, Shital
-A1  - Pagsuyoin, Sheree
-Y1  - 2020///
-KW  - Disaster risk assessment
-KW  - disaster risk management
-KW  - engineering analytics
-KW  - resilience
-PB  - Wiley Online Library
-JF  - Risk Analysis
-VL  - 40
-IS  - 1
-SP  - 43
-EP  - 67
-DO  - 10.1111/risa.13186
-UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13186
-N1  - Cited By (since 2020): 4
-N2  - The concept of resilience and its relevance to disaster risk management has increasingly gained attention in recent years. It is common for risk and resilience studies to model system recovery by analyzing a single or aggregated measure of performance, such as economic output or system functionality. However, the history of past disasters and recent risk literature suggest that a single-dimension view of relevant systems is not only insufficient, but can compromise the ability to manage risk for these systems. In this article, we explore how multiple dimensions influence the ability for complex systems to function and effectively recover after a disaster. In particular, we compile evidence from the many competing resilience perspectives to identify the most critical resilience dimensions across several academic disciplines, applications, and disaster events. The findings demonstrate the need for a conceptual framework that decomposes resilience into six primary dimensions: workforce/population, economy, infrastructure, geography, hierarchy, and time (WEIGHT). These dimensions are not typically addressed holistically in the literature; often they are either modeled independently or in piecemeal combinations. The current research is the first to provide a comprehensive discussion of each resilience dimension and discuss how these dimensions can be integrated into a cohesive framework, suggesting that no single dimension is sufficient for a holistic analysis of a disaster risk management. Through this article, we also aim to spark discussions among researchers and policymakers to develop a multicriteria decision framework for evaluating the efficacy of resilience strategies. Furthermore, the WEIGHT dimensions may also be used to motivate the generation of new approaches for data analytics of resilience-related knowledge bases.
-ER  - 
-TY  - JOUR
-T1  - Development of optimal water supply plan using integrated fuzzy Delphi and fuzzy ELECTRE III methods—Case study of the Gamasiab basin
-A1  - Noori, Amir
-A1  - Bonakdari, Hossein
-A1  - Morovati, Khosro
-A1  - Gharabaghi, Bahram
-Y1  - 2020///
-KW  - basin
-KW  - fuzzy Delphi
-KW  - fuzzy ELECTRE III
-KW  - group decision-making
-KW  - optimal water supply
-KW  - water resources
-PB  - Wiley Online Library
-JF  - Expert Systems
-VL  - 37
-IS  - 5
-DO  - 10.1111/exsy.12568
-UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12568
-N1  - Cited By (since 2020): 1
-N2  - This paper presents a novel method for the development of an optimal water supply plan showcased using data from the Gamasiab basin, located in Kermanshah province, Iran, concerning new dams that are being constructed in this semi-arid region. In this paper, a new group multi-criteria decision-making (MCDM) plan is proposed by combining two MCDM methods based on the fuzzy Delphi and fuzzy ELECTRE III methods that convert the experts' opinions to triangular fuzzy numbers based on the level of uncertainty associated with various quantitative and qualitative criteria. Considering the opinions of four non-stakeholder experts and data analysis using the fuzzy Delphi method, the criteria were evaluated. Then, by analysing the results using the fuzzy ELECTRE III method, the final ranking of scenarios is obtained. A sensitivity analysis was conducted to assess the effect of uncertainty on the performance of the decision-making system in scenarios ranking. The total expense, flood control, reservoir capacity and diversion and water transfer played a significant role in selecting the optimal scenario. Additionally, a hydrologic model was developed to evaluate the performance of the optimal scenario in terms of qualitative criteria. The data indicated that there was a good agreement between the results obtained from the hydrological model and the scenario ranking by the employed method. Altogether, a comparison of the proposed method with other MCDM methods, including fuzzy analytic hierarchy process and fuzzy technique for order preference by simulation of ideal solution, indicated that the results of the employed method matched more closely to the local experts' opinion.
-ER  - 
-TY  - JOUR
-T1  - Equivalence analysis to support environmental safety assessment: Using nontarget organism count data from field trials with cisgenically modified potato
-A1  - van der Voet, Hilko
-A1  - Goedhart, Paul W.
-A1  - Lazebnik, Jenny
-A1  - Kessel, Geert J.T.
-A1  - Mullins, Ewen
-A1  - van Loon, Joop J.A.
-A1  - Arpaia, Salvatore
-Y1  - 2019/03//
-KW  - environmental risk assessment
-KW  - equivalence test
-KW  - hierarchical analysis
-KW  - limit of concern
-KW  - multicriteria decision analysis
-KW  - overdispersed Poisson
-PB  - John Wiley & Sons, Ltd
-JF  - Ecology and Evolution
-VL  - 9
-IS  - 5
-SP  - 2863
-EP  - 2882
-DO  - 10.1002/ece3.4964
-UR  - https://doi.org/10.1002/ece3.4964
-N1  - https://doi.org/10.1002/ece3.4964
-N2  - This paper considers the statistical analysis of entomological count data from field experiments with genetically modified (GM) plants. Such trials are carried out to assess environmental safety. Potential effects on nontarget organisms (NTOs), as indicators of biodiversity, are investigated. The European Food Safety Authority (EFSA) gives broad guidance on the environmental risk assessment (ERA) of GM plants. Field experiments must contain suitable comparator crops as a benchmark for the assessment of designated endpoints. In this paper, a detailed protocol is proposed to perform data analysis for the purpose of assessing environmental safety. The protocol includes the specification of a list of endpoints and their hierarchical relations, the specification of intended levels of data analysis, and the specification of provisional limits of concern to decide on the need for further investigation. The protocol emphasizes a graphical representation of estimates and confidence intervals for the ratio of mean abundances for the GM plant and its comparator crop. Interpretation relies mainly on equivalence testing in which confidence intervals are compared with the limits of concern. The proposed methodology is illustrated with entomological count data resulting from multiyear, multilocation field trials. A cisgenically modified potato line (with enhanced resistance to late blight disease) was compared to the original conventional potato variety in the Netherlands and Ireland in two successive years (2013, 2014). It is shown that the protocol encompasses alternative schemes for safety assessment resulting from different research questions and/or expert choices. Graphical displays of equivalence testing at several hierarchical levels and their interpretation are presented for one of these schemes. The proposed approaches should be of help in the ERA of GM or other novel plants.
-ER  - 
-TY  - JOUR
 T1  - Utilization of machine-learning algorithms for wind turbine site suitability modeling in Iowa, USA
 A1  - Petrov, Andrey N.
 A1  - Wessling, Jordan M.
@@ -129,54 +58,6 @@ DO  - 10.1002/we.1723
 UR  - https://doi.org/10.1002/we.1723
 N1  - https://doi.org/10.1002/we.1723
 N2  - Because of the current shift away from fossil fuels and toward renewable energy sources, it is necessary to plan for the installation of new infrastructure to meet the demand for clean energy. Traditional methods for determining wind turbine site suitability suffer from the selection of arbitrary criteria and model parameters by experts, which may lead to a degree of uncertainty in the models produced. An alternative empirically based methodology for building a wind turbine siting model for the state of Iowa is presented in the study. We employ 'ecological niche' principles traditionally utilized to model species allocation to develop a new multicriteria, spatially explicit framework for wind turbine placement. Using information on suitability conditions at existing turbine locations, we incorporate seven variables (wind speed, elevation, slope, land cover, distance of infrastructure and settlements, and population density) into two machine-learning algorithms [maximum entropy method (Maxent) and Genetic Algorithm for Rule Set Prediction (GARP)] to model suitable areas for installation of wind turbines. The performance of this method is tested at the statewide level and a six-county region in western Iowa. Maxent and GARP identified areas in the Northwest and North Central regions of Iowa as the optimum location for new wind turbines. Information on variable contributions from Maxent illuminates the relative importance of environmental variables and its scale-dependent nature. It also allows validating existing assumptions about the relationship between variables and wind turbine suitability. The resultant models demonstrate high levels of accuracy and suggest that the presented approach is a possible methodology for developing wind turbine siting applications.
-ER  - 
-TY  - JOUR
-T1  - Total ordering for intuitionistic fuzzy numbers
-A1  - Lakshmana Gomathi Nayagam, V.
-A1  - Jeevaraj, S.
-A1  - Geetha, Sivaraman
-Y1  - 2016/11//
-KW  - intuitionistic fuzzy interval number
-KW  - intuitionistic fuzzy number
-KW  - lexicography
-KW  - membership
-KW  - non-membership
-KW  - total ordering
-KW  - trapezoidal intuitionistic fuzzy number
-KW  - upper lower dense sequence
-KW  - vague and imprecise score functions
-PB  - John Wiley & Sons, Ltd
-JF  - Complexity
-VL  - 21
-IS  - S2
-SP  - 54
-EP  - 66
-DO  - 10.1002/cplx.21783
-UR  - https://doi.org/10.1002/cplx.21783
-N1  - https://doi.org/10.1002/cplx.21783
-N2  - Intuitionistic fuzzy set plays a vital role in decision making, data analysis, and artificial intelligence. Many decision-making problems consist of different types of datum, where fuzzy set theoretical approaches may fail to obtain the optimal decision. Numerous approaches for intuitionistic fuzzy decision-making problem have been introduced in the literature to overcome these short comings. But there is no single approach that can be used to solve all kinds of problems because of the partial ordering defined on the collection of intuitionistic fuzzy numbers (IFNs). Even though ranking of fuzzy numbers have been studied from early seventies in the last century, a total order on the entire class of fuzzy numbers has been introduced by Wang and Wang (Fuzzy Sets Syst 2014, 243, 131–141) only on 2014. A total order on the collection of all IFN is an open problem till today. In this article, a total order on the entire class of IFN using upper lower dense sequence in the interval [0, 1] is proposed and compared with existing techniques using illustrative examples, further an algorithm (which is problem independent) for solving any intuitionistic fuzzy multicriteria decision-making problem (Intuitionistic fuzzy MCDM) is introduced. This new total ordering on IFNs generalizes the total ordering defined in Wang and Wang () for fuzzy numbers. © 2016 Wiley Periodicals, Inc. Complexity 21: 54–66, 2016.
-ER  - 
-TY  - JOUR
-T1  - Sustainable personnel scheduling supported by an artificial neural network model in a natural gas combined cycle power plant
-A1  - Özder, Emir Hüseyin
-A1  - Özcan, Evrencan
-A1  - Eren, Tamer
-Y1  - 2020///
-KW  - analytic network process
-KW  - artificial neural network
-KW  - goal programming
-KW  - natural gas combined cycle power plant
-KW  - skill-based personnel scheduling
-PB  - Wiley Online Library
-JF  - International Journal of Energy Research
-VL  - 44
-IS  - 9
-SP  - 7525
-EP  - 7547
-DO  - 10.1002/er.5480
-UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/er.5480
-N1  - Cited By (since 2020): 2
-N2  - Despite the impact of personnel scheduling on the sustainability of production processes, it is a rarely studied problem in the electricity generation sector, whose main purpose is sustainable energy generation. From this point of view, personnel scheduling problem is handled in this study based on the impact of this problem, which focuses on fair and balanced job distribution according to the personnel qualifications, on the sustainable generation in the power plants. With its advantages such as ease of operation and maintenance, fast commissioning, lower greenhouse gas emissions compared to other fossil fuels and etc. one of the biggest Natural Gas Combined Cycle Power Plant (NGCCPP) in Turkey is chosen as application area. The main purpose of the study is to demonstrate the effect of fair, balanced and competency-based personnel scheduling on generation stoppages resulting from personnel planning in power plants, which have great importance in energy supply security of the countries. This study is the first in the literature in terms of three different aspects. Firstly, in the energy sector, it is different in that it is a personnel scheduling study that takes into consideration the job assignment of the personnel according to their abilities and minimizes costs. Secondly, the large size of the problem is different from that of previous studies in the literature. Finally, the number of personnel employed in this generation facility varies according to the season. At this point, the past generation data are analyzed using an Artificial Neural Network (ANN) method and an estimation is made, and personnel scheduling is performed in the light of this information. Consequently, the proposed multi-objective mathematical model supported with multi-criteria decision making and ANN, shutdown rate of the power plant due to operator error is reduced 67.3%, and personnel satisfaction level is increased from 42% to 89%as solution.
 ER  - 
 TY  - JOUR
 T1  - Multi-criteria manufacturability indices for ranking high-concentration monoclonal antibody formulations
@@ -201,29 +82,6 @@ DO  - 10.1002/bit.26329
 UR  - https://doi.org/10.1002/bit.26329
 N1  - https://doi.org/10.1002/bit.26329
 N2  - The need for high-concentration formulations for subcutaneous delivery of therapeutic monoclonal antibodies (mAbs) can present manufacturability challenges for the final ultrafiltration/diafiltration (UF/DF) step. Viscosity levels and the propensity to aggregate are key considerations for high-concentration formulations. This work presents novel frameworks for deriving a set of manufacturability indices related to viscosity and thermostability to rank high-concentration mAb formulation conditions in terms of their ease of manufacture. This is illustrated by analyzing published high-throughput biophysical screening data that explores the influence of different formulation conditions (pH, ions, and excipients) on the solution viscosity and product thermostability. A decision tree classification method, CART (Classification and Regression Tree) is used to identify the critical formulation conditions that influence the viscosity and thermostability. In this work, three different multi-criteria data analysis frameworks were investigated to derive manufacturability indices from analysis of the stress maps and the process conditions experienced in the final UF/DF step. Polynomial regression techniques were used to transform the experimental data into a set of stress maps that show viscosity and thermostability as functions of the formulation conditions. A mathematical filtrate flux model was used to capture the time profiles of protein concentration and flux decay behavior during UF/DF. Multi-criteria decision-making analysis was used to identify the optimal formulation conditions that minimize the potential for both viscosity and aggregation issues during UF/DF. Biotechnol. Bioeng. 2017;114: 2043–2056. © 2017 The Authors. Biotechnology and Bioengineering Published by Wiley Perodicals, Inc.
-ER  - 
-TY  - JOUR
-T1  - Predicting Efficiency in Angolan Banks: A Two-Stage TOPSIS and Neural Networks Approach
-A1  - Wanke, Peter
-A1  - Barros, Carlos
-A1  - Macanda, Nkanga Pedro João
-Y1  - 2016/09//
-KW  - Angola
-KW  - Banks
-KW  - TOPSIS
-KW  - efficiency ranks
-KW  - neural networks
-KW  - two-stage
-PB  - John Wiley & Sons, Ltd
-JF  - South African Journal of Economics
-VL  - 84
-IS  - 3
-SP  - 461
-EP  - 483
-DO  - 10.1111/saje.12103
-UR  - https://doi.org/10.1111/saje.12103
-N1  - https://doi.org/10.1111/saje.12103
-N2  - This paper presents an efficiency assessment of the Angolan banks using Technique for Order Preference by Similarity to the Ideal Solution (TOPSIS). TOPSIS is a multi-criteria decision-making technique similar to data envelopment analysis, which ranks a finite set of units based on the minimisation of distance from an ideal point and the maximisation of distance from an anti-ideal point. In this research, TOPSIS is used first in a two-stage approach to assess the relative efficiency of Angolan banks using the most frequent indicators adopted by the literature. Then, in the second stage, neural networks are combined with TOPSIS results as part of an attempt to produce a model for banking performance with effective predictive ability. The results reveal that variables related to cost structure have a prominent negative impact on efficiency. Findings also indicate that the Angolan banking market would benefit from higher level of competition between institutions.
 ER  - 
 TY  - JOUR
 T1  - MCRiceRepGP: a framework for the identification of genes associated with sexual reproduction in rice
@@ -299,49 +157,6 @@ DO  - 10.1002/jnm.2689
 UR  - https://doi.org/10.1002/jnm.2689
 N1  - https://doi.org/10.1002/jnm.2689
 N2  - Reflectarray antennas (RAs) have the ability to combine the advantages of both traditional parabolic reflector and phased array antennas without the need for feed network designs. Microstrip reflectarrays (MRAs) have the advantages of being small size, light weighted, easy to prototyped, high gain, low side-lobe level, and a predetermined radiation pattern. These can be achieved by precise calculation of reflection phase at each RA unit independently with a phase compensation proportional to the distance from the feed. The challenging problem is to have a fast and high accurate unit element to be used in multidimension, multiobjective design optimization. Herein, artificial intelligence algorithms (AIAs) have been used for prediction of reflection phase characterization of an X band MRA unit element with respect to the geometrical design parameters. Firstly, a nonuniform unit RA has been designed in 3D electromagnetic (EM) simulation tool for creating the training validation data sets. Then, the data sets are given to the different types of AIA regression models such as multilayer perceptron, symbolic regression, and convolutional neural network. From the results of the validation data set, it can be concluded that the proposed models have sufficient accuracy that can be used in a computationally efficient design optimization process of a large-scale RA design.
-ER  - 
-TY  - JOUR
-T1  - Which Cooperative Ownership Model Performs Better? A Financial-Decision Aid Approach
-A1  - Kalogeras, Nikos
-A1  - Pennings, Joost M.E.
-A1  - Benos, Theo
-A1  - Doumpos, Michael
-Y1  - 2013/01//
-PB  - John Wiley & Sons, Ltd
-JF  - Agribusiness
-VL  - 29
-IS  - 1
-SP  - 80
-EP  - 95
-DO  - 10.1002/agr.21323
-UR  - https://doi.org/10.1002/agr.21323
-N1  - https://doi.org/10.1002/agr.21323
-N2  - In this article the financial/ownership structures of agribusiness cooperatives are analyzed to examine whether new cooperative models perform better than the more traditional ones. The assessment procedure introduces a new financial decision-aid approach, which is based on data-analysis techniques in combination with a preference ranking organization method of enrichment evaluations (PROMETHEE II). The application of this multicriteria decision-aid approach allows the rank ordering of cooperatives based on the most prominent financial ratios. The financial ratios were selected using principal component analysis. This analytical procedure reduces the dimensionality of large numbers of interrelated financial performance measures. We assess the financial success of Dutch agribusiness cooperatives for the period 1999-2010. Results show that there is no clear-cut evidence that cooperative models used to attract extra members' investments and/or outside equity perform better than the more traditional models. This suggests that ownership structure of cooperatives is not always a decisive factor for their financial success. © 2013 Wiley Periodicals, Inc.
-ER  - 
-TY  - JOUR
-T1  - Use of multicriteria decision analysis for assessing the benefit and risk of over-the-counter analgesics
-A1  - Moore, Andrew
-A1  - Crossley, Anne
-A1  - Ng, Bernard
-A1  - Phillips, Lawrence
-A1  - Sancak, Özgür
-A1  - Rainsford, K. D.
-Y1  - 2017/10//
-KW  - decision conferencing
-KW  - group judgements
-KW  - multicriteria decision analysis
-KW  - over-the-counter analgesics
-KW  - pain relief
-PB  - John Wiley & Sons, Ltd
-JF  - Journal of Pharmacy and Pharmacology
-VL  - 69
-IS  - 10
-SP  - 1364
-EP  - 1373
-DO  - 10.1111/jphp.12770
-UR  - https://doi.org/10.1111/jphp.12770
-N1  - https://doi.org/10.1111/jphp.12770
-N2  - Objectives: To test the ability of a multicriteria decision analysis (MCDA) model to incorporate disparate data sources of varying quality along with clinical judgement in a benefit–risk assessment of six well-known pain-relief drugs. Methods: Six over-the-counter (OTC) analgesics were evaluated against three favourable effects and eight unfavourable effects by seven experts who specialise in the relief of pain, two in a 2-day facilitated workshop whose input data and judgements were later peer-reviewed by five additional experts. Key findings: Ibuprofen salts and solubilised emerged with the best benefit–risk profile, followed by naproxen, ibuprofen acid, diclofenac, paracetamol and aspirin. Conclusions: Multicriteria decision analysis enabled participants to evaluate the OTC analgesics against a range of favourable and unfavourable effects in a group setting that enabled all issues to be openly aired and debated. The model was easily communicated and understood by the peer reviewers, so the model should be comprehensible to physicians, pharmacists and other health professionals.
 ER  - 
 TY  - JOUR
 T1  - A heuristic approach to the multicriteria design of IaaS cloud infrastructures for Big Data applications

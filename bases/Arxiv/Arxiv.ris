@@ -1,0 +1,47 @@
+TY  - JOUR
+T1  - A multi-objective deep reinforcement learning framework
+A1  - Nguyen, Thanh Thi
+A1  - Nguyen, Ngoc Duy
+A1  - Vamplew, Peter
+A1  - Nahavandi, Saeid
+A1  - Dazeley, Richard
+A1  - Lim, Chee Peng
+Y1  - 2020/03//
+KW  - Deep learning
+KW  - Multi-objective
+KW  - Multi-policy
+KW  - Reinforcement learning
+KW  - Single-policy
+PB  - Elsevier Ltd
+JF  - Engineering Applications of Artificial Intelligence
+VL  - 96
+DO  - 10.1016/j.engappai.2020.103915
+UR  - http://arxiv.org/abs/1803.02965
+UR  - http://dx.doi.org/10.1016/j.engappai.2020.103915
+L1  - file:///home/joaomano/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Nguyen et al. - 2018 - A Multi-Objective Deep Reinforcement Learning Framework.pdf
+N2  - This paper introduces a new scalable multi-objective deep reinforcement learning (MODRL) framework based on deep Q-networks. We develop a high-performance MODRL framework that supports both single-policy and multi-policy strategies, as well as both linear and non-linear approaches to action selection. The experimental results on two benchmark problems (two-objective deep sea treasure environment and three-objective Mountain Car problem) indicate that the proposed framework is able to find the Pareto-optimal solutions effectively. The proposed framework is generic and highly modularized, which allows the integration of different deep reinforcement learning algorithms in different complex problem domains. This therefore overcomes many disadvantages involved with standard multi-objective reinforcement learning methods in the current literature. The proposed framework acts as a testbed platform that accelerates the development of MODRL for solving increasingly complicated multi-objective problems.
+ER  - 
+TY  - JOUR
+T1  - Using Logical Specifications of Objectives in Multi-Objective Reinforcement Learning
+A1  - Nottingham, Kolby
+A1  - Balakrishnan, Anand
+A1  - Deshmukh, Jyotirmoy
+A1  - Christopherson, Connor
+A1  - Greaves, Joshua
+A1  - Wingate, David
+Y1  - 2019/10//
+UR  - http://arxiv.org/abs/1910.01723
+L1  - file:///home/joaomano/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Nottingham et al. - 2019 - Using Logical Specifications of Objectives in Multi-Objective Reinforcement Learning.pdf
+N2  - In the multi-objective reinforcement learning (MORL) paradigm, the relative importance of each environment objective is often unknown prior to training, so agents must learn to specialize their behavior to optimize different combinations of environment objectives that are specified post-training. These are typically linear combinations, so the agent is effectively parameterized by a weight vector that describes how to balance competing environment objectives. However, many real world behaviors require non-linear combinations of objectives. Additionally, the conversion between desired behavior and weightings is often unclear. In this work, we explore the use of a language based on propositional logic with quantitative semantics--in place of weight vectors--for specifying non-linear behaviors in an interpretable way. We use a recurrent encoder to encode logical combinations of objectives, and train a MORL agent to generalize over these encodings. We test our agent in several environments with various objectives and show that our agent can generalize to many never-before-seen specifications with performance comparable to single policy baseline agents. We also demonstrate our agent's ability to generate meaningful policies when presented with novel specifications and quickly specialize to novel specifications.
+ER  - 
+TY  - RPRT
+T1  - Multi-Objective Deep Reinforcement Learning
+A1  - Mossalam, Hossam
+A1  - Assael, Yannis M.
+A1  - Roijers, Diederik M.
+A1  - Whiteson, Shimon
+Y1  - 2016/10//
+UR  - http://arxiv.org/abs/1610.02707
+L1  - file:///home/joaomano/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Mossalam et al. - 2016 - Multi-Objective Deep Reinforcement Learning.pdf
+N2  - We propose Deep Optimistic Linear Support Learning (DOL) to solve high-dimensional multi-objective decision problems where the relative importances of the objectives are not known a priori. Using features from the high-dimensional inputs, DOL computes the convex coverage set containing all potential optimal solutions of the convex combinations of the objectives. To our knowledge, this is the first time that deep reinforcement learning has succeeded in learning multi-objective policies. In addition, we provide a testbed with two experiments to be used as a benchmark for deep multi-objective reinforcement learning.
+ER  - 

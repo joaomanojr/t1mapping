@@ -63,7 +63,7 @@ all_base_hits=0
 printf "Filtered bases\n" $all_year_hits
 printf -- "----------------------------------------\n"
 
-for base in ACM IEEE ScienceDirect Scopus Springer Wiley
+for base in ACM Arxiv Jair IEEE ScienceDirect Scopus Springer Wiley
 do
 	# account $base hits
 	cd ${base}

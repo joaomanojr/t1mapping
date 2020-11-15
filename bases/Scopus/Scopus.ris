@@ -900,3 +900,48 @@ DO  - 10.2991/ijcis.d.200121.001
 UR  - https://www.atlantis-press.com/journals/ijcis/125932625
 N2  - Coreference resolution has been an active field of research in the past several decades and plays a vital role in many areas such as information extraction, document summarization, machine translation, and question answering systems. This paper presents a new coreference resolution approach by incorporating RoBERTa embedding with a neural multi-criteria decision making (MCDM) method. The proposed model does not use any syntactic and dependency parser. Mentions were extracted from the text with an unhand engineered mention detector and features were extracted from a deep neural network. Next, the problem is modeled in the form of effective parameters of the performance such as error rate reduction and enhances the F1 by Kohonen MCDM neural network. The weights assigned to the features represent their importance and suggests the best reference for a mention where such weights are computed using a fuzzy weighting method. Comparing to state-of-the-art coreference resolution models, the simulation results show significant improvements for the proposed approach on different datasets in terms of precision and recall and achieving marginal improvements on the following datasets: English CoNLL-2012 shared task (+3.1 F1), Yahoo’s news site (+6.6 F1), and English Gigaword (+7.04).
 ER  - 
+TY  - JOUR
+T1  - Towards the selection of best neural network system for intrusion detection
+A1  - Ahmad, Iftikhar
+A1  - Abdullah, Azween
+A1  - Alghamdi, Abdullah
+Y1  - 2010///
+KW  - Analytic hierarchy process (AHP)
+KW  - Intrusion detection system (IDS)
+KW  - Multi-criteria decision making (MCDM)
+KW  - Neural networks (NN)
+JF  - International Journal of Physical Sciences
+VL  - 5
+IS  - 12
+SP  - 1830
+EP  - 1839
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78951473333&partnerID=40&md5=bad8e038852020023d8f22fd8fff7a6f
+N1  - Cited By :11
+
+Export Date: 5 November 2020
+N2  - Currently, network security is a critical issue because a single attack can inflict catastrophic damages to computers and network systems. Various intrusion detection approaches are available to adhere to this severe issue, but the dilemma is, which one is more suitable. Being motivated by this situation, in this paper, we evaluate and compare different neural networks (NNs). The current work presents an evaluation of different neural networks such as Self-organizing map (SOM), Adaptive Resonance Theory (ART), Online Backpropagation (OBPROP), Resilient Backpropagation (RPROP) and Support Vector Machine (SVM) towards intrusion detection mechanisms using Multi-criteria Decision Making (MCDM) technique. The results indicate that in terms of performance, supervised NNs are better, while unsupervised NNs are better regarding training overhead and aptitude towards handling varied and coordinated intrusion. Consequently, the combined, that is, hybrid approach of NNs is the optimal solution in the area of intrusion detection. The outcome of this work may help and guide the security implementers in two possible ways, either by using the results directly obtained in this paper or by extracting the results using other similar mechanism, but on different intrusion detection systems or approaches. © 2010 Academic Journals.
+ER  - 
+TY  - JOUR
+T1  - Modelling human decision behaviour with preference learning
+A1  - Aggarwal, Manish
+A1  - Tehrani, Ali Fallah
+Y1  - 2019///
+KW  - Attitudinal character
+KW  - Attitudinal choquet integral
+KW  - Compensative
+KW  - Decision analysis
+KW  - Human aggregation
+KW  - Interactive criteria
+KW  - Multicriteria decision making
+JF  - INFORMS Journal on Computing
+VL  - 31
+IS  - 2
+SP  - 318
+EP  - 334
+DO  - 10.1287/ijoc.2018.0823
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066959333&doi=10.1287%2Fijoc.2018.0823&partnerID=40&md5=ecc338d5defa29f0284e13f18641bee3
+N1  - Cited By :8
+
+Export Date: 5 November 2020
+N2  - Preferences provide a means for specifying the desires of a decision maker (DM) in a declarative way. In this paper, based on a DM’s pairwise preferences, we infer the DM’s unique decision model. We capture (a) the attitudinal character, (b) relative criteria importance, and (c) the criteria interaction, all of which are specific to the DM. We make use of the preference-learning (PL) technique to induce predictive preference models from empirical data. Because PL is emerging as a new subfield of machine learning, we could use standard machine-learning methods to accomplish our learning objective. We consider the DM’s exemplary preference information in the form of pairwise comparisons between alternatives as the training information. The DM’s decision model is captured in terms of (a), (b), and (c), through the parameters of an attitudinal Choquet integral operator. The proposed learning approach is validated through an experimental study on 16 standard data sets. The superiority of the proposed method in terms of predictive accuracy and easier interpretability is shown both theoretically as well as empirically.
+ER  - 
