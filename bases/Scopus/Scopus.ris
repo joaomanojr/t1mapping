@@ -1,306 +1,3 @@
-TY  - SER
-T1  - Use of MCDM and AI Techniques for Mechanization of In-Service Inspection Planning Process
-A1  - Seneviratne, A. M.N.D.B.
-A1  - Ratnayake, R. M.Chandima
-Y1  - 2014///
-KW  - AI techniques
-KW  - Aging O&G P&PFs
-KW  - In-service inspection planning
-KW  - Inspection programs
-KW  - MCDM techniques
-JF  - IFIP Advances in Information and Communication Technology
-VL  - 440
-IS  - PART 3
-SP  - 264
-EP  - 271
-SN  - 9783662447321
-DO  - 10.1007/978-3-662-44733-8_33
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906930942&doi=10.1007%2F978-3-662-44733-8_33&partnerID=40&md5=b6418bcc25decce9ab424d71784c3ca7
-N1  - Export Date: 5 November 2020
-N2  - The in-service inspection planning process for topside piping equipment of aging oil and gas (O&G) production and process facilities (P&PFs) involves personnel with different kinds of expertise, experience, and knowledge as well as a vast amount of data and information. To simplify the inspection planning process and increase the quality of an inspection program, various industrial organizations as well as researchers have been developing numerous techniques in an isolated fashion to address the challenges pertaining to different activities involved in the inspection planning process. In order to mechanize the overall inspection process, suitable techniques need to be identified for the different activities carried out in a generic inspection planning process. This manuscript discusses the potential use of multi-criteria decision analysis (MCDM) and artificial intelligence (AI) techniques. It also provides evidence about the suitability of AI techniques in relation to fuzzy logic and artificial neural networks for the mechanization of the inspection planning process in a dynamic manner. © IFIP International Federation for Information Processing 2014.
-ER  - 
-TY  - JOUR
-T1  - Multi-objective Decision in Machine Learning
-A1  - de Medeiros, Talles Henrique
-A1  - Rocha, Honovan Paz
-A1  - Torres, Frank Sill
-A1  - Takahashi, Ricardo Hiroshi Caldeira
-A1  - Braga, Antônio Pádua
-Y1  - 2017///
-KW  - Classification
-KW  - Decision-making
-KW  - Machine learning
-KW  - Multi-objective optimization
-JF  - Journal of Control, Automation and Electrical Systems
-VL  - 28
-IS  - 2
-SP  - 217
-EP  - 227
-DO  - 10.1007/s40313-016-0295-6
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014862668&doi=10.1007%2Fs40313-016-0295-6&partnerID=40&md5=648804e246d696c63301d0787ee6819b
-N1  - Cited By :4
-
-Export Date: 5 November 2020
-N2  - This work presents a novel approach for decision-making for multi-objective binary classification problems. The purpose of the decision process is to select within a set of Pareto-optimal solutions, one model that minimizes the structural risk (generalization error). This new approach utilizes a kind of prior knowledge that, if available, allows the selection of a model that better represents the problem in question. Prior knowledge about the imprecisions of the collected data enables the identification of the region of equivalent solutions within the set of Pareto-optimal solutions. Results for binary classification problems with sets of synthetic and real data indicate equal or better performance in terms of decision efficiency compared to similar approaches.
-ER  - 
-TY  - JOUR
-T1  - WNN-EDAS: A Wavelet Neural Network Based Multi-criteria Decision-Making Approach for Cloud Service Selection
-A1  - Gireesha, O.
-A1  - Somu, Nivethitha
-A1  - Raman, M. R.Gauthama
-A1  - Reddy, Mandi Sushmanth
-A1  - Kirthivasan, Kannan
-A1  - Sriram, V. Shankar
-Y1  - 2020///
-KW  - Cloud service ranking
-KW  - EDAS
-KW  - Rank reversal
-KW  - Spearman’s rank correlation coefficient
-KW  - Trustworthy cloud service providers
-KW  - WNN
-PB  - Springer
-JF  - Advances in Intelligent Systems and Computing
-VL  - 999
-SP  - 853
-EP  - 865
-SN  - 9789811390418
-DO  - 10.1007/978-981-13-9042-5_73
-UR  - https://link.springer.com/chapter/10.1007/978-981-13-9042-5_73
-N1  - Cited By (since 2020): 3
-N2  - The omnipresence of the cloud-based applications and the exponential growth of the cloud services at different dimensions make the selection of user requirement compliant and trustworthy cloud service provider, a challenging task. Multi-Criteria Decision-Making (MCDM) approaches have their significance in solving cloud service selection problem since they evaluate the alternatives (cloud service providers) based on the intrinsic relationships among the criteria (QoS parameters). However, the assignment of appropriate weights to the criteria has a high impact on the accuracy of the service ranking and the performance of the MCDM methods. Hence, this paper presents a Wavelet Neural Network—Evaluation based on Distance from Average Solution (WNN-EDAS), a novel MCDM approach for the identification of suitable and trustworthy cloud service providers. WNN-EDAS employs WNN to calculate appropriate weights for each criterion and EDAS to rank the cloud service providers. The experiments were carried out on Cloud Armor, a real-world trust feedback dataset to demonstrate the accuracy, robustness, and feasibility of WNN-EDAS over the state-of-the-art MCDM approaches in terms of sensitivity analysis and rank reversal.
-ER  - 
-TY  - CONF
-T1  - Application of surrogate modeling to multi-objective optimization for residential retrofit design
-A1  - Aijazi, Arfa N.
-A1  - Glicksman, Leon R.
-Y1  - 2019///
-JF  - Simulation Series
-VL  - 51
-IS  - 8
-SP  - 37
-EP  - 43
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081619978&partnerID=40&md5=0f0d9daaf5a4a62b95759c965bee7665
-N1  - Export Date: 5 November 2020
-N2  - This project combines surrogate modeling, a supervised machine learning technique, to bypass whole building energy simulations to enable multi-objective design optimization. We applied this method to identify Pareto optimal retrofit designs that are energy and cost effective for three residential apartments in Lisbon, Portugal. As part of our validation of this approach, we compared the surrogate model error for these Pareto optimal designs to the error in the rest of the design space when compared to a detailed energy simulation. Surrogate model error is higher towards the minimum and maximum energy consumption within the Pareto optimal designs compared to the rest of the design space. We also find that in the Pareto optimal set some design variable values are near their minimum or maximum value, which could be driving higher surrogate model error. We propose that future research should retrain the surrogate model after identifying design variable values of interest from an initial optimization run.
-ER  - 
-TY  - JOUR
-T1  - An approach for the prioritization of wind energy production farms
-A1  - Sagbas, Aysun
-Y1  - 2013///
-KW  - Artificial neural network
-KW  - Fuzzy analytical hierarchy process
-KW  - Wind energy
-JF  - Energy Education Science and Technology Part A: Energy Science and Research
-VL  - 31
-IS  - 3
-SP  - 1329
-EP  - 1340
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892427309&partnerID=40&md5=63334334a52c9180711268b29741fa81
-N1  - Export Date: 5 November 2020
-N2  - In this paper, a hierarchical decision making framework based on multi-criteria decision making approach is presented to prioritize the wind energy production farms located in Mediterranean sea region of Turkey. Some criteria such as economic, technical, and environmental are considered for the evaluation model. In addition, an artificial neural network (ANN) model based on back propagation neural network (BPN) is also used to assess the alternative sites for wind energy generation. A comparison between proposed approaches is made to select the most appropriate wind energy production farm. It is found that the results obtained from ANN model and fuzzy analytical hierarchy process (FAHP) approach are similar. Moreover, Anamur district is the best area among the alternatives for establishing wind turbines in Mediterranean sea region of Turkey. The originality of the paper comes from the application of the proposed FAHP approach to the selection of the best wind energy production site and the comparison with ANN. © Sila Science.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria decision making based architecture selection for single-hidden layer feedforward neural networks
-A1  - Wang, Ran
-A1  - Xie, Haoran
-A1  - Feng, Jiqiang
-A1  - Wang, Fu Lee
-A1  - Xu, Chen
-Y1  - 2019///
-KW  - Architecture selection
-KW  - Extreme learning machine
-KW  - Localized generalization error model
-KW  - Multi-criteria decision making
-JF  - International Journal of Machine Learning and Cybernetics
-VL  - 10
-IS  - 4
-SP  - 655
-EP  - 666
-DO  - 10.1007/s13042-017-0746-9
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046580924&doi=10.1007%2Fs13042-017-0746-9&partnerID=40&md5=ae8d2fe531b9417b40ac63b6da701163
-N1  - Cited By :4
-
-Export Date: 5 November 2020
-N2  - Architecture selection is a fundamental problem in artificial neural networks, which could be treated as a decision making process that evaluates, ranks, and makes choices from a set of network structures. Traditional methods evaluate a network structure by designing a criterion based on a validation model or an error bound model. On one hand, the time complexity of a validation model is usually high; on the other hand, different validation models or error bound models may lead to different (even conflicting) results, which post challenges to the traditional single criterion-based architecture selection methods. In the area of decision making, many problems employed multiple criteria since the performance is better than using a single criterion. In this paper, we propose a multi-criteria decision making based architecture selection algorithm for single-hidden layer feedforward neural networks trained by extreme learning machine. Two criteria are incorporated into the selection process, i.e., training accuracy and the Q-value estimated by the localized generalization error model. The training accuracy reflects the capability of the model on correctly categorizing the known samples, and the Q-value estimated by localized generalization error model reflects the size of the neighbourhood of training samples in which the model can predict unseen samples with confidence. By achieving a trade-off between these two criteria, a new architecture selection algorithm is proposed. Experimental comparisons demonstrate the feasibility and effectiveness of the proposed method.
-ER  - 
-TY  - CONF
-T1  - Sustainability-driven structural design using artificial intelligence
-A1  - Mathern, Alexandre
-A1  - Ek, Kristine
-A1  - Rempling, Rasmus
-Y1  - 2019///
-KW  - Artificial intelligence
-KW  - Construction
-KW  - Life cycle sustainability assessment
-KW  - Multi‐criteria decision analysis
-KW  - Set‐based design
-KW  - Structural design optimization
-KW  - Sustainability
-JF  - 20th Congress of IABSE, New York City 2019: The Evolving Metropolis - Report
-SP  - 1058
-EP  - 1065
-SN  - 9783857481659
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074448887&partnerID=40&md5=0156788c5e6046b74519eb07b419e420
-N1  - Cited By :1
-
-Export Date: 5 November 2020
-N2  - The construction industry is responsible for a large share of the global environmental impact. The need for addressing sustainability and increased competition calls for the development of innovative design methods that include sustainability in a transparent way. The aim of this work is to propose a framework to use machine learning and artificial intelligence (AI) for structural design optimization based on sustainability and buildability criteria. AI opens up new possibilities to optimize and assess structures early in the planning and design stages. In that way, it is possible to decrease the negative and enhance the positive environmental, economic and social impacts and create a more time‐ and cost‐effective design process. The work is meant to serve as a first step toward the development of AI‐based methods in the construction industry, which can bring digitalization in the construction industry to a new level and create new services and business models.
-ER  - 
-TY  - SER
-T1  - A model for a human decision-maker in a polymer extrusion process
-A1  - Pedro, Luciana Rocha
-A1  - Takahashi, Ricardo Hiroshi Caldeira
-A1  - Gaspar-Cunha, Antònio
-Y1  - 2015///
-KW  - Human decision-maker
-KW  - Multi-criteria decision analysis
-KW  - Multiobjective optimization
-KW  - Polymer extrusion process
-KW  - Utility function
-JF  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
-VL  - 9019
-SP  - 358
-EP  - 372
-SN  - 9783319158914
-DO  - 10.1007/978-3-319-15892-1_24
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84925339423&doi=10.1007%2F978-3-319-15892-1_24&partnerID=40&md5=73684de91a873eebf0ee546d69026adf
-N1  - Export Date: 5 November 2020
-N2  - The NN-DM is a method developed to find a mathematical model that represents the Decision-Maker (DM) by employing an artificial neural network (NN) in situations in which the preferences can be represented by a utility function. This paper presents further developments to the NN-DM method to find a model in a polymer extrusion process. The form of the DM’s interaction, the domain assignment, the ranking process, and the performance assessment are adapted to a real context of a multi-objective optimization problem followed by a design decision. The DM is then requested to fill a matrix expressing his preferences considering pairwise comparisons expressing ordinal relations only. Two multi-objective optimization problems are tested, each one with three estimates of different Pareto-optimal fronts. The adapted NN-DM method is able to provide a model which sorts the available solutions from the best to the worst according to the DM’s preferences.
-ER  - 
-TY  - JOUR
-T1  - Hybrid model combined fuzzy multi-objective decision making with feed forward neural network (F-MODM-FFNN) for very short-term load forecasting based on weather data
-A1  - Yundra, Eppy
-A1  - Kartini, Unit Three
-A1  - Wardani, Laili Ika
-A1  - Ardianto, Dwi
-Y1  - 2020///
-KW  - Forecasting
-KW  - Fuzzy-multi objective decision making-feed forward
-KW  - Hybrid
-KW  - Load
-KW  - Modelling
-KW  - Thermal generation
-KW  - Weather
-JF  - International Journal of Intelligent Engineering and Systems
-VL  - 13
-IS  - 4
-SP  - 182
-EP  - 195
-DO  - 10.22266/IJIES2020.0831.16
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089504542&doi=10.22266%2FIJIES2020.0831.16&partnerID=40&md5=e043170b9738c77d167444724700f257
-N1  - Export Date: 5 November 2020
-N2  - This research paper proposes a new hybrid methodology for very short-term load forecasting of hourly or designed to predict load for 1 hour ahead. The proposed hybrid methodology is based on weather data especially for optimizing the operation of power generating electricity from thermal generation. This hybrid modelling is a combination of the Fuzzy-Multi-Objective Decision-Making and feed-forward-Neural Network method. The novelty of this hybrid model is taking into account the weather and meteorology data. The first hybrid model implements Fuzzy-Multi Objective Decision Making as an input data pre-processing technique before the feed-forward Neural Network model. The error statistical indicators of the Fuzzy-Multi Objective Decision Making-Feed Forward Neural Network) model for mean square error is the mean value error 0.001 and root mean square error is mean value error 0.2. Note that the highest root means square error was 4.43 MW and the mean square error was 837.8 MW during the sixteen periods.
-ER  - 
-TY  - JOUR
-T1  - Application of Different artificial neural networks retention models for multi-criteria decision-making optimization in gradient ion chromatography
-A1  - Bolanča, Tomislav
-A1  - Cerjan-Stefanović, Štefica
-A1  - Luša, Melita
-A1  - Ukić, Šime
-A1  - Rogošić, Marko
-Y1  - 2010///
-KW  - Artificial neural networks
-KW  - Ion chromatography
-KW  - Multi-criteria decision-making
-JF  - Separation Science and Technology
-VL  - 45
-IS  - 2
-SP  - 236
-EP  - 243
-DO  - 10.1080/01496390903417958
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77949358348&doi=10.1080%2F01496390903417958&partnerID=40&md5=3e28dc4b81ccdcbc7787f02528c0a766
-N1  - Cited By :6
-
-Export Date: 5 November 2020
-N2  - In this work, the principles of multi-criteria decision-making were used to develop an efficient optimization strategy in gradient elution ion chromatographic analysis. Two different artificial neural network retention models (multi-layer perceptron and radial basis function), three different separation criterion functions (chromatography response function, separation factor product and normalized retention difference product), and four different robustness criterion functions (CR1-CR4) were examined. The shape of the calculated separation vs the robustness response surface was used as principal criterion. Analysis time and minimum separation of adjacent peaks were additional criteria. The results showed that the radial basis artificial neural network retention model in combination with normalized retention difference product separation criterion function and CR3 robustness criterion function provided the optimal gradient ion chromatographic analysis. © Taylor & Francis Group, LLC.
-ER  - 
-TY  - JOUR
-T1  - Flash-flood susceptibility assessment using multi-criteria decision making and machine learning supported by remote sensing and GIS techniques
-A1  - Costache, Romulus
-A1  - Pham, Quoc Bao
-A1  - Sharifi, Ehsan
-A1  - Linh, Nguyen Thi Thuy
-A1  - Abba, S. I.
-A1  - Vojtek, Matej
-A1  - Vojteková, Jana
-A1  - Nhi, Pham Thi Thao
-A1  - Khoi, Dao Nguyen
-Y1  - 2020///
-KW  - Analytical hierarchy process
-KW  - Flash-flood potential index
-KW  - K-Nearest Neighbor
-KW  - K-Star
-KW  - Machine learning
-KW  - Prahova river catchment
-PB  - mdpi.com
-JF  - Remote Sensing
-VL  - 12
-IS  - 1
-DO  - 10.3390/RS12010106
-UR  - https://www.mdpi.com/2072-4292/12/1/106
-N1  - Cited By (since 2020): 16
-N2  - Concerning the significant increase in the negative effects of flash-floods worldwide, the main goal of this research is to evaluate the power of the Analytical Hierarchy Process (AHP), fi (kNN), K-Star (KS) algorithms and their ensembles in flash-flood susceptibility mapping. To train the two stand-alone models and their ensembles, for the first stage, the areas affected in the past by torrential phenomena are identified using remote sensing techniques. Approximately 70% of these areas are used as a training data set along with 10 flash-flood predictors. It should be remarked that the remote sensing techniques play a crucial role in obtaining eight out of 10 flash-flood conditioning factors. The predictive capability of predictors is evaluated through the Information Gain Ratio (IGR) method. As expected, the slope angle results in the factor with the highest predictive capability. The application of the AHP model implies the construction of ten pair-wise comparison matrices for calculating the normalized weights of each flash-flood predictor. The computed weights are used as input data in kNN-AHP and KS-AHP ensemble models for calculating the Flash-Flood Potential Index (FFPI). The FFPI also is determined through kNN and KS stand-alone models. The performance of the models is evaluated using statistical metrics (i.e., sensitivity, specificity and accuracy) while the validation of the results is done by constructing the Receiver Operating Characteristics (ROC) Curve and Area Under Curve (AUC) values and by calculating the density of torrential pixels within FFPI classes. Overall, the best performance is obtained by the kNN-AHP ensemble model.
-ER  - 
-TY  - JOUR
-T1  - Mining and prioritization of association rules for big data: multi-criteria decision analysis approach
-A1  - Ait-Mlouk, Addi
-A1  - Agouti, Tarik
-A1  - Gharnati, Fatima
-Y1  - 2017///
-KW  - Apache Spark
-KW  - Association rules
-KW  - Big data
-KW  - Data mining
-KW  - Multi-criteria decision analysis
-KW  - PFP-growth
-KW  - Road accident
-JF  - Journal of Big Data
-VL  - 4
-IS  - 1
-DO  - 10.1186/s40537-017-0105-4
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036543658&doi=10.1186%2Fs40537-017-0105-4&partnerID=40&md5=60821a7a768a70b00693deb4f02b7729
-N1  - Cited By :10
-
-Export Date: 5 November 2020
-N2  - Data mining techniques and extracting patterns from large datasets play a vital role in knowledge discovery. Most of the decision makers encounter a large number of decision rules resulted from association rules mining. Moreover, the volume of datasets brings a new challenge to extract patterns such as the cost of computing and inefficiency to achieve the relevant rules. To overcome these challenges, this paper aims to build a learning model based on FP-growth and Apache Spark framework to process and to extract relevant association rules. We also integrate the multi-criteria decision analysis to prioritize the extracted rules by taking into account the decision makers subjective judgment. We believe that this approach would be a useful model to follow, particularly for decision makers who are suffering from conflicts between extracted rules, and difficulties of building only the most interesting rules. Experimental results on road accidents analysis show that the proposed approach can be efficiently achieved more association rules with a higher accuracy rate and improve the response time of the proposed algorithm. The results make clear that the proposed approach performs well and can provide useful information that could help the decision makers to improve road safety.
-ER  - 
-TY  - CONF
-T1  - Research on AHP decision algorithms based on BP algorithm
-A1  - Ma, Ning
-A1  - Guan, Jianhe
-Y1  - 2017///
-KW  - AHP
-KW  - BP algorithm
-KW  - Decision making
-KW  - hybrid algorithm
-JF  - AIP Conference Proceedings
-VL  - 1890
-SN  - 9780735415683
-DO  - 10.1063/1.5005288
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031110083&doi=10.1063%2F1.5005288&partnerID=40&md5=0ce76b268c29c6863be350e00e2041ac
-N1  - Export Date: 5 November 2020
-N2  - Decision making is the thinking activity that people choose or judge, and scientific decision-making has always been a hot issue in the field of research. Analytic Hierarchy Process (AHP) is a simple and practical multi-criteria and multi-objective decision-making method that combines quantitative and qualitative and can show and calculate the subjective judgment in digital form. In the process of decision analysis using AHP method, the rationality of the two-dimensional judgment matrix has a great influence on the decision result. However, in dealing with the real problem, the judgment matrix produced by the two-dimensional comparison is often inconsistent, that is, it does not meet the consistency requirements. BP neural network algorithm is an adaptive nonlinear dynamic system. It has powerful collective computing ability and learning ability. It can perfect the data by constantly modifying the weights and thresholds of the network to achieve the goal of minimizing the mean square error. In this paper, the BP algorithm is used to deal with the consistency of the two-dimensional judgment matrix of the AHP.
-ER  - 
-TY  - CONF
-T1  - Comparative Analysis of Intrusion Detection Approaches
-A1  - Ahmad, Iftikhar
-A1  - Abdullah, Azween B.
-A1  - Alghamdi, Abdullah S.
-Y1  - 2010///
-KW  - Artificial Neural Network (ANN)
-KW  - Detection Rate (DR)
-KW  - Intrusion Detection Approaches (IDAS)
-KW  - Intrusion Detection System (IDS)
-KW  - Multi-Criteria Decesion Making (MCDM)
-PB  - IEEE
-JF  - 2010 12th International Conference on Computer Modelling and Simulation
-SP  - 586
-EP  - 591
-SN  - 978-1-4244-6614-6
-DO  - 10.1109/UKSIM.2010.112
-UR  - https://ieeexplore.ieee.org/document/5481346
-N2  - Information security is a serious issue especially in present age because a solo attack may cause a big harm in computer and network systems. Several intrusion detection approaches exist to tackle this critical issue but the problem is which one is more suitable in the field of intrusion. Further, these approaches are used in intrusion detection systems. Therefore, in this paper, we evaluated them so that a suitable approach may be advised to intrusion detection systems. This work describes the concepts, tool and methodology being used for evaluation analysis of different intrusion detection approaches using multi-criteria decision making technique. Moreover, conclusion on results is made and direction for future works is presented. © 2010 IEEE.
-ER  - 
 TY  - JOUR
 T1  - Fuzzy Multi-Objective Simulation-Optimization of Stepped Spillways Considering Flood Uncertainty
 A1  - Ghorbani Mooselu, Mehrdad
@@ -366,6 +63,27 @@ N1  - Cited By :3
 
 Export Date: 5 November 2020
 N2  - The growing needs of emerging applications has posed significant challenges for the design of optimized manycore systems. Network-on-Chip (NoC) enables the integration of a large number of processing elements (PEs) in a single die. To design optimized manycore systems, we need to establish suitable trade-offs among multiple objectives including power, performance, and thermal. Therefore, we consider multi-objective design space exploration (MO-DSE) problems arising in the design of NoC-enabled manycore systems: placement of PEs and communication links to optimize two or more objectives (e.g., latency, energy, and throughput). Existing algorithms to solve MO-DSE problems suffer from scalability and accuracy challenges as size of the design space and the number of objectives grow. In this paper, we propose a novel framework referred as Multi-Objective Optimistic Search (MOOS) that performs adaptive design space exploration using a data-driven model to improve the speed and accuracy of multi-objective design optimization process. We apply MOOS to design both 3D heterogeneous and homogeneous manycore systems using Rodinia, PARSEC, and SPLASH2 benchmark suites. We demonstrate that MOOS improves the speed of finding solutions compared to state-of-the-art methods by up to 13X while uncovering designs that are up to 20% better in terms of NoC. The optimized 3D manycore systems improve the EDP up to 38% when compared to 3D mesh-based designs optimized for the placement of PEs.
+ER  - 
+TY  - JOUR
+T1  - Towards the selection of best neural network system for intrusion detection
+A1  - Ahmad, Iftikhar
+A1  - Abdullah, Azween
+A1  - Alghamdi, Abdullah
+Y1  - 2010///
+KW  - Analytic hierarchy process (AHP)
+KW  - Intrusion detection system (IDS)
+KW  - Multi-criteria decision making (MCDM)
+KW  - Neural networks (NN)
+JF  - International Journal of Physical Sciences
+VL  - 5
+IS  - 12
+SP  - 1830
+EP  - 1839
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78951473333&partnerID=40&md5=bad8e038852020023d8f22fd8fff7a6f
+N1  - Cited By :11
+
+Export Date: 5 November 2020
+N2  - Currently, network security is a critical issue because a single attack can inflict catastrophic damages to computers and network systems. Various intrusion detection approaches are available to adhere to this severe issue, but the dilemma is, which one is more suitable. Being motivated by this situation, in this paper, we evaluate and compare different neural networks (NNs). The current work presents an evaluation of different neural networks such as Self-organizing map (SOM), Adaptive Resonance Theory (ART), Online Backpropagation (OBPROP), Resilient Backpropagation (RPROP) and Support Vector Machine (SVM) towards intrusion detection mechanisms using Multi-criteria Decision Making (MCDM) technique. The results indicate that in terms of performance, supervised NNs are better, while unsupervised NNs are better regarding training overhead and aptitude towards handling varied and coordinated intrusion. Consequently, the combined, that is, hybrid approach of NNs is the optimal solution in the area of intrusion detection. The outcome of this work may help and guide the security implementers in two possible ways, either by using the results directly obtained in this paper or by extracting the results using other similar mechanism, but on different intrusion detection systems or approaches. © 2010 Academic Journals.
 ER  - 
 TY  - CONF
 T1  - Quantitative workflow based on NN for weighting criteria in landfill suitability mapping
@@ -731,6 +449,30 @@ Export Date: 5 November 2020
 N2  - Clustering is one of the most important tasks in exploratory data analysis. One of the simplest and the most widely used clustering algorithm is K-means which was proposed in 1955. K-means algorithm is conceptually simple and easy to implement. This is evidenced by hundreds of publications over the last 50 years that extend k-means in various ways. Unfortunately, because of its nature, this algorithm is very sensitive to the initial placement of the cluster centres. In order to address this problem, many initialisation methods (IMs) have been proposed. In this thesis, we first provide a historical overview of these methods. Then we present two new non-random initialisation methods for k-means algorithm. Finally, we analyse the experimental results using real datasets and then the performance of IMs is evaluated by TOPSIS multi-criteria decision-making method. Finally, we prove that not only famous k-means IMs often have poor performance but also there are in fact strong alternative approaches.
 ER  - 
 TY  - JOUR
+T1  - Modelling human decision behaviour with preference learning
+A1  - Aggarwal, Manish
+A1  - Tehrani, Ali Fallah
+Y1  - 2019///
+KW  - Attitudinal character
+KW  - Attitudinal choquet integral
+KW  - Compensative
+KW  - Decision analysis
+KW  - Human aggregation
+KW  - Interactive criteria
+KW  - Multicriteria decision making
+JF  - INFORMS Journal on Computing
+VL  - 31
+IS  - 2
+SP  - 318
+EP  - 334
+DO  - 10.1287/ijoc.2018.0823
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066959333&doi=10.1287%2Fijoc.2018.0823&partnerID=40&md5=ecc338d5defa29f0284e13f18641bee3
+N1  - Cited By :8
+
+Export Date: 5 November 2020
+N2  - Preferences provide a means for specifying the desires of a decision maker (DM) in a declarative way. In this paper, based on a DM’s pairwise preferences, we infer the DM’s unique decision model. We capture (a) the attitudinal character, (b) relative criteria importance, and (c) the criteria interaction, all of which are specific to the DM. We make use of the preference-learning (PL) technique to induce predictive preference models from empirical data. Because PL is emerging as a new subfield of machine learning, we could use standard machine-learning methods to accomplish our learning objective. We consider the DM’s exemplary preference information in the form of pairwise comparisons between alternatives as the training information. The DM’s decision model is captured in terms of (a), (b), and (c), through the parameters of an attitudinal Choquet integral operator. The proposed learning approach is validated through an experimental study on 16 standard data sets. The superiority of the proposed method in terms of predictive accuracy and easier interpretability is shown both theoretically as well as empirically.
+ER  - 
+TY  - JOUR
 T1  - Multi criteria decision making technique for machine learning algorithms: Iterative and non-iterative algorithms
 A1  - Haseena, S.
 A1  - Blessa Binolin Pepsi, M.
@@ -900,48 +642,206 @@ DO  - 10.2991/ijcis.d.200121.001
 UR  - https://www.atlantis-press.com/journals/ijcis/125932625
 N2  - Coreference resolution has been an active field of research in the past several decades and plays a vital role in many areas such as information extraction, document summarization, machine translation, and question answering systems. This paper presents a new coreference resolution approach by incorporating RoBERTa embedding with a neural multi-criteria decision making (MCDM) method. The proposed model does not use any syntactic and dependency parser. Mentions were extracted from the text with an unhand engineered mention detector and features were extracted from a deep neural network. Next, the problem is modeled in the form of effective parameters of the performance such as error rate reduction and enhances the F1 by Kohonen MCDM neural network. The weights assigned to the features represent their importance and suggests the best reference for a mention where such weights are computed using a fuzzy weighting method. Comparing to state-of-the-art coreference resolution models, the simulation results show significant improvements for the proposed approach on different datasets in terms of precision and recall and achieving marginal improvements on the following datasets: English CoNLL-2012 shared task (+3.1 F1), Yahoo’s news site (+6.6 F1), and English Gigaword (+7.04).
 ER  - 
-TY  - JOUR
-T1  - Towards the selection of best neural network system for intrusion detection
-A1  - Ahmad, Iftikhar
-A1  - Abdullah, Azween
-A1  - Alghamdi, Abdullah
-Y1  - 2010///
-KW  - Analytic hierarchy process (AHP)
-KW  - Intrusion detection system (IDS)
-KW  - Multi-criteria decision making (MCDM)
-KW  - Neural networks (NN)
-JF  - International Journal of Physical Sciences
-VL  - 5
-IS  - 12
-SP  - 1830
-EP  - 1839
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78951473333&partnerID=40&md5=bad8e038852020023d8f22fd8fff7a6f
-N1  - Cited By :11
-
-Export Date: 5 November 2020
-N2  - Currently, network security is a critical issue because a single attack can inflict catastrophic damages to computers and network systems. Various intrusion detection approaches are available to adhere to this severe issue, but the dilemma is, which one is more suitable. Being motivated by this situation, in this paper, we evaluate and compare different neural networks (NNs). The current work presents an evaluation of different neural networks such as Self-organizing map (SOM), Adaptive Resonance Theory (ART), Online Backpropagation (OBPROP), Resilient Backpropagation (RPROP) and Support Vector Machine (SVM) towards intrusion detection mechanisms using Multi-criteria Decision Making (MCDM) technique. The results indicate that in terms of performance, supervised NNs are better, while unsupervised NNs are better regarding training overhead and aptitude towards handling varied and coordinated intrusion. Consequently, the combined, that is, hybrid approach of NNs is the optimal solution in the area of intrusion detection. The outcome of this work may help and guide the security implementers in two possible ways, either by using the results directly obtained in this paper or by extracting the results using other similar mechanism, but on different intrusion detection systems or approaches. © 2010 Academic Journals.
+TY  - SER
+T1  - Use of MCDM and AI Techniques for Mechanization of In-Service Inspection Planning Process
+A1  - Seneviratne, A. M.N.D.B.
+A1  - Ratnayake, R. M.Chandima
+Y1  - 2014///
+KW  - AI techniques
+KW  - Aging O&G P&PFs
+KW  - In-service inspection planning
+KW  - Inspection programs
+KW  - MCDM techniques
+JF  - IFIP Advances in Information and Communication Technology
+VL  - 440
+IS  - PART 3
+SP  - 264
+EP  - 271
+SN  - 9783662447321
+DO  - 10.1007/978-3-662-44733-8_33
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906930942&doi=10.1007%2F978-3-662-44733-8_33&partnerID=40&md5=b6418bcc25decce9ab424d71784c3ca7
+N1  - Export Date: 5 November 2020
+N2  - The in-service inspection planning process for topside piping equipment of aging oil and gas (O&G) production and process facilities (P&PFs) involves personnel with different kinds of expertise, experience, and knowledge as well as a vast amount of data and information. To simplify the inspection planning process and increase the quality of an inspection program, various industrial organizations as well as researchers have been developing numerous techniques in an isolated fashion to address the challenges pertaining to different activities involved in the inspection planning process. In order to mechanize the overall inspection process, suitable techniques need to be identified for the different activities carried out in a generic inspection planning process. This manuscript discusses the potential use of multi-criteria decision analysis (MCDM) and artificial intelligence (AI) techniques. It also provides evidence about the suitability of AI techniques in relation to fuzzy logic and artificial neural networks for the mechanization of the inspection planning process in a dynamic manner. © IFIP International Federation for Information Processing 2014.
 ER  - 
 TY  - JOUR
-T1  - Modelling human decision behaviour with preference learning
-A1  - Aggarwal, Manish
-A1  - Tehrani, Ali Fallah
-Y1  - 2019///
-KW  - Attitudinal character
-KW  - Attitudinal choquet integral
-KW  - Compensative
-KW  - Decision analysis
-KW  - Human aggregation
-KW  - Interactive criteria
-KW  - Multicriteria decision making
-JF  - INFORMS Journal on Computing
-VL  - 31
+T1  - Multi-objective Decision in Machine Learning
+A1  - de Medeiros, Talles Henrique
+A1  - Rocha, Honovan Paz
+A1  - Torres, Frank Sill
+A1  - Takahashi, Ricardo Hiroshi Caldeira
+A1  - Braga, Antônio Pádua
+Y1  - 2017///
+KW  - Classification
+KW  - Decision-making
+KW  - Machine learning
+KW  - Multi-objective optimization
+JF  - Journal of Control, Automation and Electrical Systems
+VL  - 28
 IS  - 2
-SP  - 318
-EP  - 334
-DO  - 10.1287/ijoc.2018.0823
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066959333&doi=10.1287%2Fijoc.2018.0823&partnerID=40&md5=ecc338d5defa29f0284e13f18641bee3
-N1  - Cited By :8
+SP  - 217
+EP  - 227
+DO  - 10.1007/s40313-016-0295-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014862668&doi=10.1007%2Fs40313-016-0295-6&partnerID=40&md5=648804e246d696c63301d0787ee6819b
+N1  - Cited By :4
 
 Export Date: 5 November 2020
-N2  - Preferences provide a means for specifying the desires of a decision maker (DM) in a declarative way. In this paper, based on a DM’s pairwise preferences, we infer the DM’s unique decision model. We capture (a) the attitudinal character, (b) relative criteria importance, and (c) the criteria interaction, all of which are specific to the DM. We make use of the preference-learning (PL) technique to induce predictive preference models from empirical data. Because PL is emerging as a new subfield of machine learning, we could use standard machine-learning methods to accomplish our learning objective. We consider the DM’s exemplary preference information in the form of pairwise comparisons between alternatives as the training information. The DM’s decision model is captured in terms of (a), (b), and (c), through the parameters of an attitudinal Choquet integral operator. The proposed learning approach is validated through an experimental study on 16 standard data sets. The superiority of the proposed method in terms of predictive accuracy and easier interpretability is shown both theoretically as well as empirically.
+N2  - This work presents a novel approach for decision-making for multi-objective binary classification problems. The purpose of the decision process is to select within a set of Pareto-optimal solutions, one model that minimizes the structural risk (generalization error). This new approach utilizes a kind of prior knowledge that, if available, allows the selection of a model that better represents the problem in question. Prior knowledge about the imprecisions of the collected data enables the identification of the region of equivalent solutions within the set of Pareto-optimal solutions. Results for binary classification problems with sets of synthetic and real data indicate equal or better performance in terms of decision efficiency compared to similar approaches.
+ER  - 
+TY  - JOUR
+T1  - Multi-criteria decision making based architecture selection for single-hidden layer feedforward neural networks
+A1  - Wang, Ran
+A1  - Xie, Haoran
+A1  - Feng, Jiqiang
+A1  - Wang, Fu Lee
+A1  - Xu, Chen
+Y1  - 2019///
+KW  - Architecture selection
+KW  - Extreme learning machine
+KW  - Localized generalization error model
+KW  - Multi-criteria decision making
+JF  - International Journal of Machine Learning and Cybernetics
+VL  - 10
+IS  - 4
+SP  - 655
+EP  - 666
+DO  - 10.1007/s13042-017-0746-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046580924&doi=10.1007%2Fs13042-017-0746-9&partnerID=40&md5=ae8d2fe531b9417b40ac63b6da701163
+N1  - Cited By :4
+
+Export Date: 5 November 2020
+N2  - Architecture selection is a fundamental problem in artificial neural networks, which could be treated as a decision making process that evaluates, ranks, and makes choices from a set of network structures. Traditional methods evaluate a network structure by designing a criterion based on a validation model or an error bound model. On one hand, the time complexity of a validation model is usually high; on the other hand, different validation models or error bound models may lead to different (even conflicting) results, which post challenges to the traditional single criterion-based architecture selection methods. In the area of decision making, many problems employed multiple criteria since the performance is better than using a single criterion. In this paper, we propose a multi-criteria decision making based architecture selection algorithm for single-hidden layer feedforward neural networks trained by extreme learning machine. Two criteria are incorporated into the selection process, i.e., training accuracy and the Q-value estimated by the localized generalization error model. The training accuracy reflects the capability of the model on correctly categorizing the known samples, and the Q-value estimated by localized generalization error model reflects the size of the neighbourhood of training samples in which the model can predict unseen samples with confidence. By achieving a trade-off between these two criteria, a new architecture selection algorithm is proposed. Experimental comparisons demonstrate the feasibility and effectiveness of the proposed method.
+ER  - 
+TY  - JOUR
+T1  - Hybrid model combined fuzzy multi-objective decision making with feed forward neural network (F-MODM-FFNN) for very short-term load forecasting based on weather data
+A1  - Yundra, Eppy
+A1  - Kartini, Unit Three
+A1  - Wardani, Laili Ika
+A1  - Ardianto, Dwi
+Y1  - 2020///
+KW  - Forecasting
+KW  - Fuzzy-multi objective decision making-feed forward
+KW  - Hybrid
+KW  - Load
+KW  - Modelling
+KW  - Thermal generation
+KW  - Weather
+JF  - International Journal of Intelligent Engineering and Systems
+VL  - 13
+IS  - 4
+SP  - 182
+EP  - 195
+DO  - 10.22266/IJIES2020.0831.16
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089504542&doi=10.22266%2FIJIES2020.0831.16&partnerID=40&md5=e043170b9738c77d167444724700f257
+N1  - Export Date: 5 November 2020
+N2  - This research paper proposes a new hybrid methodology for very short-term load forecasting of hourly or designed to predict load for 1 hour ahead. The proposed hybrid methodology is based on weather data especially for optimizing the operation of power generating electricity from thermal generation. This hybrid modelling is a combination of the Fuzzy-Multi-Objective Decision-Making and feed-forward-Neural Network method. The novelty of this hybrid model is taking into account the weather and meteorology data. The first hybrid model implements Fuzzy-Multi Objective Decision Making as an input data pre-processing technique before the feed-forward Neural Network model. The error statistical indicators of the Fuzzy-Multi Objective Decision Making-Feed Forward Neural Network) model for mean square error is the mean value error 0.001 and root mean square error is mean value error 0.2. Note that the highest root means square error was 4.43 MW and the mean square error was 837.8 MW during the sixteen periods.
+ER  - 
+TY  - JOUR
+T1  - Application of Different artificial neural networks retention models for multi-criteria decision-making optimization in gradient ion chromatography
+A1  - Bolanča, Tomislav
+A1  - Cerjan-Stefanović, Štefica
+A1  - Luša, Melita
+A1  - Ukić, Šime
+A1  - Rogošić, Marko
+Y1  - 2010///
+KW  - Artificial neural networks
+KW  - Ion chromatography
+KW  - Multi-criteria decision-making
+JF  - Separation Science and Technology
+VL  - 45
+IS  - 2
+SP  - 236
+EP  - 243
+DO  - 10.1080/01496390903417958
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77949358348&doi=10.1080%2F01496390903417958&partnerID=40&md5=3e28dc4b81ccdcbc7787f02528c0a766
+N1  - Cited By :6
+
+Export Date: 5 November 2020
+N2  - In this work, the principles of multi-criteria decision-making were used to develop an efficient optimization strategy in gradient elution ion chromatographic analysis. Two different artificial neural network retention models (multi-layer perceptron and radial basis function), three different separation criterion functions (chromatography response function, separation factor product and normalized retention difference product), and four different robustness criterion functions (CR1-CR4) were examined. The shape of the calculated separation vs the robustness response surface was used as principal criterion. Analysis time and minimum separation of adjacent peaks were additional criteria. The results showed that the radial basis artificial neural network retention model in combination with normalized retention difference product separation criterion function and CR3 robustness criterion function provided the optimal gradient ion chromatographic analysis. © Taylor & Francis Group, LLC.
+ER  - 
+TY  - JOUR
+T1  - Flash-flood susceptibility assessment using multi-criteria decision making and machine learning supported by remote sensing and GIS techniques
+A1  - Costache, Romulus
+A1  - Pham, Quoc Bao
+A1  - Sharifi, Ehsan
+A1  - Linh, Nguyen Thi Thuy
+A1  - Abba, S. I.
+A1  - Vojtek, Matej
+A1  - Vojteková, Jana
+A1  - Nhi, Pham Thi Thao
+A1  - Khoi, Dao Nguyen
+Y1  - 2020///
+KW  - Analytical hierarchy process
+KW  - Flash-flood potential index
+KW  - K-Nearest Neighbor
+KW  - K-Star
+KW  - Machine learning
+KW  - Prahova river catchment
+PB  - mdpi.com
+JF  - Remote Sensing
+VL  - 12
+IS  - 1
+DO  - 10.3390/RS12010106
+UR  - https://www.mdpi.com/2072-4292/12/1/106
+N1  - Cited By (since 2020): 16
+N2  - Concerning the significant increase in the negative effects of flash-floods worldwide, the main goal of this research is to evaluate the power of the Analytical Hierarchy Process (AHP), fi (kNN), K-Star (KS) algorithms and their ensembles in flash-flood susceptibility mapping. To train the two stand-alone models and their ensembles, for the first stage, the areas affected in the past by torrential phenomena are identified using remote sensing techniques. Approximately 70% of these areas are used as a training data set along with 10 flash-flood predictors. It should be remarked that the remote sensing techniques play a crucial role in obtaining eight out of 10 flash-flood conditioning factors. The predictive capability of predictors is evaluated through the Information Gain Ratio (IGR) method. As expected, the slope angle results in the factor with the highest predictive capability. The application of the AHP model implies the construction of ten pair-wise comparison matrices for calculating the normalized weights of each flash-flood predictor. The computed weights are used as input data in kNN-AHP and KS-AHP ensemble models for calculating the Flash-Flood Potential Index (FFPI). The FFPI also is determined through kNN and KS stand-alone models. The performance of the models is evaluated using statistical metrics (i.e., sensitivity, specificity and accuracy) while the validation of the results is done by constructing the Receiver Operating Characteristics (ROC) Curve and Area Under Curve (AUC) values and by calculating the density of torrential pixels within FFPI classes. Overall, the best performance is obtained by the kNN-AHP ensemble model.
+ER  - 
+TY  - JOUR
+T1  - Mining and prioritization of association rules for big data: multi-criteria decision analysis approach
+A1  - Ait-Mlouk, Addi
+A1  - Agouti, Tarik
+A1  - Gharnati, Fatima
+Y1  - 2017///
+KW  - Apache Spark
+KW  - Association rules
+KW  - Big data
+KW  - Data mining
+KW  - Multi-criteria decision analysis
+KW  - PFP-growth
+KW  - Road accident
+JF  - Journal of Big Data
+VL  - 4
+IS  - 1
+DO  - 10.1186/s40537-017-0105-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036543658&doi=10.1186%2Fs40537-017-0105-4&partnerID=40&md5=60821a7a768a70b00693deb4f02b7729
+N1  - Cited By :10
+
+Export Date: 5 November 2020
+N2  - Data mining techniques and extracting patterns from large datasets play a vital role in knowledge discovery. Most of the decision makers encounter a large number of decision rules resulted from association rules mining. Moreover, the volume of datasets brings a new challenge to extract patterns such as the cost of computing and inefficiency to achieve the relevant rules. To overcome these challenges, this paper aims to build a learning model based on FP-growth and Apache Spark framework to process and to extract relevant association rules. We also integrate the multi-criteria decision analysis to prioritize the extracted rules by taking into account the decision makers subjective judgment. We believe that this approach would be a useful model to follow, particularly for decision makers who are suffering from conflicts between extracted rules, and difficulties of building only the most interesting rules. Experimental results on road accidents analysis show that the proposed approach can be efficiently achieved more association rules with a higher accuracy rate and improve the response time of the proposed algorithm. The results make clear that the proposed approach performs well and can provide useful information that could help the decision makers to improve road safety.
+ER  - 
+TY  - CONF
+T1  - Research on AHP decision algorithms based on BP algorithm
+A1  - Ma, Ning
+A1  - Guan, Jianhe
+Y1  - 2017///
+KW  - AHP
+KW  - BP algorithm
+KW  - Decision making
+KW  - hybrid algorithm
+JF  - AIP Conference Proceedings
+VL  - 1890
+SN  - 9780735415683
+DO  - 10.1063/1.5005288
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031110083&doi=10.1063%2F1.5005288&partnerID=40&md5=0ce76b268c29c6863be350e00e2041ac
+N1  - Export Date: 5 November 2020
+N2  - Decision making is the thinking activity that people choose or judge, and scientific decision-making has always been a hot issue in the field of research. Analytic Hierarchy Process (AHP) is a simple and practical multi-criteria and multi-objective decision-making method that combines quantitative and qualitative and can show and calculate the subjective judgment in digital form. In the process of decision analysis using AHP method, the rationality of the two-dimensional judgment matrix has a great influence on the decision result. However, in dealing with the real problem, the judgment matrix produced by the two-dimensional comparison is often inconsistent, that is, it does not meet the consistency requirements. BP neural network algorithm is an adaptive nonlinear dynamic system. It has powerful collective computing ability and learning ability. It can perfect the data by constantly modifying the weights and thresholds of the network to achieve the goal of minimizing the mean square error. In this paper, the BP algorithm is used to deal with the consistency of the two-dimensional judgment matrix of the AHP.
+ER  - 
+TY  - CONF
+T1  - Comparative Analysis of Intrusion Detection Approaches
+A1  - Ahmad, Iftikhar
+A1  - Abdullah, Azween B.
+A1  - Alghamdi, Abdullah S.
+Y1  - 2010///
+KW  - Artificial Neural Network (ANN)
+KW  - Detection Rate (DR)
+KW  - Intrusion Detection Approaches (IDAS)
+KW  - Intrusion Detection System (IDS)
+KW  - Multi-Criteria Decesion Making (MCDM)
+PB  - IEEE
+JF  - 2010 12th International Conference on Computer Modelling and Simulation
+SP  - 586
+EP  - 591
+SN  - 978-1-4244-6614-6
+DO  - 10.1109/UKSIM.2010.112
+UR  - https://ieeexplore.ieee.org/document/5481346
+N2  - Information security is a serious issue especially in present age because a solo attack may cause a big harm in computer and network systems. Several intrusion detection approaches exist to tackle this critical issue but the problem is which one is more suitable in the field of intrusion. Further, these approaches are used in intrusion detection systems. Therefore, in this paper, we evaluated them so that a suitable approach may be advised to intrusion detection systems. This work describes the concepts, tool and methodology being used for evaluation analysis of different intrusion detection approaches using multi-criteria decision making technique. Moreover, conclusion on results is made and direction for future works is presented. © 2010 IEEE.
 ER  - 
