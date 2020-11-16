@@ -1,4 +1,463 @@
 TY  - JOUR
+T1  - Neural network-based modelling of wind/solar farm siting: a case study of East-Azerbaijan
+A1  - Asadi, Meysam
+A1  - Pourhossein, Kazem
+Y1  - 2020///
+KW  - Wind/solar farm
+KW  - analytic hierarchy process (AHP)
+KW  - geographical information system (GIS)
+KW  - multi-layer perceptron (MLP)
+KW  - site selection
+JF  - International Journal of Sustainable Energy
+DO  - 10.1080/14786451.2020.1833881
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092780715&doi=10.1080%2F14786451.2020.1833881&partnerID=40&md5=1105f85111f92dd8aae2a5dc64dc454f
+N1  - Export Date: 5 November 2020
+N2  - The location of wind/solar power plants is a critical part of design process. Multi-criteria decision making (MCDM), the well-known procedure of site selection, suffers from the local-scoring property. This paper proposes a combined approach of MCDM and artificial neural networks (ANN) to alleviate this deficiency. Here, the weighting of site selection criteria has been performed using the analytic hierarchy process (AHP), and then a multi-layer perceptron (MLP) is used for implementing the global scoring capability. By using this procedure, adding any new alternative site location cannot affect the scores of the others. In other words, the proposed procedure is global-scale and robust. Scores derived by this procedure for two candidate sites can be interpreted as real differences in these sites.
+ER  - 
+TY  - JOUR
+T1  - Deep Q-network-based multi-criteria decision-making framework for virtual simulation environment
+A1  - Jang, Hyeonjun
+A1  - Hao, Shujia
+A1  - Chu, Phuong Minh
+A1  - Sharma, Pradip Kumar
+A1  - Sung, Yunsick
+A1  - Cho, Kyungeun
+Y1  - 2020///
+KW  - Behavior planning
+KW  - Big data
+KW  - Deep learning
+KW  - Motivation system
+KW  - Nature inspired algorithm
+PB  - Springer
+JF  - Neural Computing and Applications
+DO  - 10.1007/s00521-020-04918-3
+UR  - https://link.springer.com/content/pdf/10.1007/s00521-020-04918-3.pdf
+N2  - Deep learning improves the realistic expression of virtual simulations specifically to solve multi-criteria decision-making problems, which are generally rely on high-performance artificial intelligence. This study was inspired by the motivation theory and natural life observations. Recently, motivation-based control has been actively studied for realistic expression, but it presents various problems. For instance, it is hard to define the relation among multiple motivations and to select goals based on multiple motivations. Behaviors should generally be practiced to take into account motivations and goals. This paper proposes a deep Q-network (DQN)-based multi-criteria decision-making framework for virtual agents in real time to automatically select goals based on motivations in virtual simulation environments and to plan relevant behaviors to achieve those goals. All motivations are classified according to the five-level Maslow’s hierarchy of needs, and the virtual agents train a double DQN by big social data, select optimal goals depending on motivations, and perform behaviors relying on a predefined hierarchical task networks (HTNs). Compared to the state-of-the-art method, the proposed framework is efficient and reduced the average loss from 0.1239 to 0.0491 and increased accuracy from 63.24 to 80.15%. For behavioral performance using predefined HTNs, the number of methods has increased from 35 in the Q network to 1511 in the proposed framework, and the computation time of 10,000 behavior plans reduced from 0.118 to 0.1079 s.
+ER  - 
+TY  - CONF
+T1  - Comparative Analysis of Intrusion Detection Approaches
+A1  - Ahmad, Iftikhar
+A1  - Abdullah, Azween B.
+A1  - Alghamdi, Abdullah S.
+Y1  - 2010///
+KW  - Artificial Neural Network (ANN)
+KW  - Detection Rate (DR)
+KW  - Intrusion Detection Approaches (IDAS)
+KW  - Intrusion Detection System (IDS)
+KW  - Multi-Criteria Decesion Making (MCDM)
+PB  - IEEE
+JF  - 2010 12th International Conference on Computer Modelling and Simulation
+SP  - 586
+EP  - 591
+SN  - 978-1-4244-6614-6
+DO  - 10.1109/UKSIM.2010.112
+UR  - https://ieeexplore.ieee.org/document/5481346
+N2  - Information security is a serious issue especially in present age because a solo attack may cause a big harm in computer and network systems. Several intrusion detection approaches exist to tackle this critical issue but the problem is which one is more suitable in the field of intrusion. Further, these approaches are used in intrusion detection systems. Therefore, in this paper, we evaluated them so that a suitable approach may be advised to intrusion detection systems. This work describes the concepts, tool and methodology being used for evaluation analysis of different intrusion detection approaches using multi-criteria decision making technique. Moreover, conclusion on results is made and direction for future works is presented. © 2010 IEEE.
+ER  - 
+TY  - JOUR
+T1  - Fuzzy multi-attribute decision making for software defect detection model evaluation
+A1  - Lei, Yunjie
+A1  - Ma, Ying
+A1  - Chen, Shunyi
+A1  - Sun, Yu
+A1  - Wu, Keshou
+Y1  - 2020///
+KW  - Model evaluation
+KW  - Multi-objective decision making algorithm
+KW  - Software defect detection
+PB  - search.ebscohost.com
+JF  - International Journal of Performability Engineering
+VL  - 16
+IS  - 1
+SP  - 78
+EP  - 86
+DO  - 10.23940/ijpe.20.01.p9.7886
+UR  - http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=09731318&AN=141855945&h=xbCLdpCq0mr2YaPH97gtj4q1XfHD9gfVwVVqFAXXLEWFPOJIqk3NhL8bzqpZFGxubElkS7DhmeNA%2F0yV9idWBw%3D%3D&crl=c
+N2  - With the continuous expansion of the computer system application field, the complexity of software system is also improving. Software defect detection has gradually become an important research direction in the field of software engineering. At present, the mixed statistics and machine learning methods have been proved to be able to implement software defect detection models well. However, the evaluation index of the detection model is diverse and it is difficult to determine which model evaluation indicators are in line with the actual expectations. Aiming at this kind of problem, a software defect detection model evaluation method based on fuzzy multi-objective attribute decision making is proposed. First, extract the characteristics of software modules, use McCabe and Halstead software modules to measure attributes. Then select five common classification algorithms to establish software defect detection models, and obtain seven evaluation index values of each model. Further, based on fuzzy multi-objective attribute decision making method with fuzzy analytic hierarchy process (FAHP) to compare multiple objectives, and obtain the results of index determination. Finally, the fuzzy evaluation algorithm is used to convert the evaluation index of qualitative evaluation into quantitative evaluation to obtain the final decision evaluation value. The experimental results show the effectiveness and practicality of the method.
+ER  - 
+TY  - JOUR
+T1  - Kinematic Viscosity Prediction of Nanolubricants Employed in Heavy Earth Moving Machinery Using Machine Learning Techniques
+A1  - Sharma, Gaurav
+A1  - Kotia, Ankit
+A1  - Ghosh, Subrata Kumar
+A1  - Rana, Prashant Singh
+A1  - Bawa, Seema
+A1  - Ali, Mohamed Kamal Ahmed
+Y1  - 2020///
+KW  - Heavy earth moving machinery
+KW  - Kinematic viscosity
+KW  - Machine learning techniques
+KW  - Nanolubricants
+KW  - Nanoparticles
+JF  - International Journal of Precision Engineering and Manufacturing
+VL  - 21
+IS  - 10
+SP  - 1921
+EP  - 1932
+DO  - 10.1007/s12541-020-00379-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088789657&doi=10.1007%2Fs12541-020-00379-9&partnerID=40&md5=15c8c369c29f229a3cc65d1ef9da45ea
+N1  - Export Date: 5 November 2020
+N2  - Recent researchers widely used nanoparticle additives for improving thermal and rheological properties of machine lubricant. In present study the effect of Al2O3 and CeO2 nanoparticles on transmission oil (SAE30), hydraulic oil (HYDREX100) and gear oil (EP90) of heavy earth moving machinery is investigated. Nano-lubricant samples are prepared in 0.01–4% nanoparticle volume fraction range. Four machine learning techniques namely decision tree (DT), random forest (RF), generalized linear models and neural network (NN) have been used to predict the kinematic viscosity for Al2O3 and CeO2 nanolubricants. Further, multi-criteria decision-making technique named technique for order of preference by similarity to ideal solution have been used to find the best predictive method in each category of the nanolubricants. DT, RF and NN methods are found to be most accurate in kinematic viscosity prediction of transmission oil (R2 = 0.861), hydraulic oil (R2 = 0.971) and gear oil (R2 = 0.973), respectively.
+ER  - 
+TY  - JOUR
+T1  - Identification of drought in Dhalai river watershed using MCDM and ANN models
+A1  - Aher, Sainath
+A1  - Shinde, Sambhaji
+A1  - Guha, Shantamoy
+A1  - Majumder, Mrinmoy
+Y1  - 2017///
+KW  - Artificial neural network
+KW  - Drought identification
+KW  - Multi-criteria decision making
+JF  - Journal of Earth System Science
+VL  - 126
+IS  - 2
+DO  - 10.1007/s12040-017-0795-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015806061&doi=10.1007%2Fs12040-017-0795-1&partnerID=40&md5=fbae8148847b6646da0b5e96fa0392a5
+N1  - Cited By :8
+
+Export Date: 5 November 2020
+N2  - An innovative approach for drought identification is developed using Multi-Criteria Decision Making (MCDM) and Artificial Neural Network (ANN) models from surveyed drought parameter data around the Dhalai river watershed in Tripura hinterlands, India. Total eight drought parameters, i.e., precipitation, soil moisture, evapotranspiration, vegetation canopy, cropping pattern, temperature, cultivated land, and groundwater level were obtained from expert, literature and cultivator survey. Then, the Analytic Hierarchy Process (AHP) and Analytic Network Process (ANP) were used for weighting of parameters and Drought Index Identification (DII). Field data of weighted parameters in the meso scale Dhalai River watershed were collected and used to train the ANN model. The developed ANN model was used in the same watershed for identification of drought. Results indicate that the Limited-Memory Quasi-Newton algorithm was better than the commonly used training method. Results obtained from the ANN model shows the drought index developed from the study area ranges from 0.32 to 0.72. Overall analysis revealed that, with appropriate training, the ANN model can be used in the areas where the model is calibrated, or other areas where the range of input parameters is similar to the calibrated region for drought identification.
+ER  - 
+TY  - JOUR
+T1  - Multi-criteria decision making based architecture selection for single-hidden layer feedforward neural networks
+A1  - Wang, Ran
+A1  - Xie, Haoran
+A1  - Feng, Jiqiang
+A1  - Wang, Fu Lee
+A1  - Xu, Chen
+Y1  - 2019///
+KW  - Architecture selection
+KW  - Extreme learning machine
+KW  - Localized generalization error model
+KW  - Multi-criteria decision making
+JF  - International Journal of Machine Learning and Cybernetics
+VL  - 10
+IS  - 4
+SP  - 655
+EP  - 666
+DO  - 10.1007/s13042-017-0746-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046580924&doi=10.1007%2Fs13042-017-0746-9&partnerID=40&md5=ae8d2fe531b9417b40ac63b6da701163
+N1  - Cited By :4
+
+Export Date: 5 November 2020
+N2  - Architecture selection is a fundamental problem in artificial neural networks, which could be treated as a decision making process that evaluates, ranks, and makes choices from a set of network structures. Traditional methods evaluate a network structure by designing a criterion based on a validation model or an error bound model. On one hand, the time complexity of a validation model is usually high; on the other hand, different validation models or error bound models may lead to different (even conflicting) results, which post challenges to the traditional single criterion-based architecture selection methods. In the area of decision making, many problems employed multiple criteria since the performance is better than using a single criterion. In this paper, we propose a multi-criteria decision making based architecture selection algorithm for single-hidden layer feedforward neural networks trained by extreme learning machine. Two criteria are incorporated into the selection process, i.e., training accuracy and the Q-value estimated by the localized generalization error model. The training accuracy reflects the capability of the model on correctly categorizing the known samples, and the Q-value estimated by localized generalization error model reflects the size of the neighbourhood of training samples in which the model can predict unseen samples with confidence. By achieving a trade-off between these two criteria, a new architecture selection algorithm is proposed. Experimental comparisons demonstrate the feasibility and effectiveness of the proposed method.
+ER  - 
+TY  - JOUR
+T1  - Evaluation of recent advanced soft computing techniques for gully erosion susceptibility mapping: A comparative study
+A1  - Arabameri, Alireza
+A1  - Blaschke, Thomas
+A1  - Pradhan, Biswajeet
+A1  - Pourghasemi, Hamid Reza
+A1  - Tiefenbacher, John P.
+A1  - Bui, Dieu Tien
+Y1  - 2020///
+KW  - Ensemble
+KW  - GIS
+KW  - Gully erosion
+KW  - Hybrid model
+KW  - Iran
+KW  - Soft computing
+PB  - mdpi.com
+JF  - Sensors (Switzerland)
+VL  - 20
+IS  - 2
+DO  - 10.3390/s20020335
+UR  - https://www.mdpi.com/1424-8220/20/2/335
+N1  - Cited By (since 2020): 6
+N2  - Gully erosion is a problem; therefore, it must be predicted using highly accurate predictive models to avoid losses caused by gully development and to guarantee sustainable development. This research investigates the predictive performance of seven multiple-criteria decision-making (MCDM), statistical, and machine learning (ML)-based models and their ensembles for gully erosion susceptibility mapping (GESM). A case study of the Dasjard River watershed, Iran uses a database of 306 gully head cuts and 15 conditioning factors. The database was divided 70:30 to train and verify the models. Their performance was assessed with the area under prediction rate curve (AUPRC), the area under success rate curve (AUSRC), accuracy, and kappa. Results show that slope is key to gully formation. The maximum entropy (ME) ML model has the best performance (AUSRC = 0.947, AUPRC = 0.948, accuracy = 0.849 and kappa = 0.699). The second best is the random forest (RF) model (AUSRC = 0.965, AUPRC = 0.932, accuracy = 0.812 and kappa = 0.624). By contrast, the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) model was the least effective (AUSRC = 0.871, AUPRC = 0.867, accuracy = 0.758 and kappa = 0.516). RF increased the performance of statistical index (SI) and frequency ratio (FR) statistical models. Furthermore, the combination of a generalized linear model (GLM), and functional data analysis (FDA) improved their performances. The results demonstrate that a combination of geographic information systems (GIS) with remote sensing (RS)-based ML models can successfully map gully erosion susceptibility, particularly in low-income and developing regions. This method can aid the analyses and decisions of natural resources managers and local planners to reduce damages by focusing attention and resources on areas prone to the worst and most damaging gully erosion.
+ER  - 
+TY  - JOUR
+T1  - Multi-objective design of post-tensioned concrete road bridges using artificial neural networks
+A1  - García-Segura, Tatiana
+A1  - Yepes, Víctor
+A1  - Frangopol, Dan M.
+Y1  - 2017///
+KW  - Artificial neural networks
+KW  - Durability
+KW  - Multi-objective harmony search
+KW  - Post-tensioned concrete bridges
+KW  - Safety
+JF  - Structural and Multidisciplinary Optimization
+VL  - 56
+IS  - 1
+SP  - 139
+EP  - 150
+DO  - 10.1007/s00158-017-1653-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011880110&doi=10.1007%2Fs00158-017-1653-0&partnerID=40&md5=b3285f7a33f4e3de9c9b01031f68e4de
+N1  - Cited By :24
+
+Export Date: 5 November 2020
+N2  - In order to minimize the total expected cost, bridges have to be designed for safety and durability. This paper considers the cost, the safety, and the corrosion initiation time to design post-tensioned concrete box-girder road bridges. The deck is modeled by finite elements based on problem variables such as the cross-section geometry, the concrete grade, and the reinforcing and post-tensioning steel. An integrated multi-objective harmony search with artificial neural networks (ANNs) is proposed to reduce the high computing time required for the finite-element analysis and the increment in conflicting objectives. ANNs are trained through the results of previous bridge performance evaluations. Then, ANNs are used to evaluate the constraints and provide a direction towards the Pareto front. Finally, exact methods actualize and improve the Pareto set. The results show that the harmony search parameters should be progressively changed in a diversification-intensification strategy. This methodology provides trade-off solutions that are the cheapest ones for the safety and durability levels considered. Therefore, it is possible to choose an alternative that can be easily adjusted to each need.
+ER  - 
+TY  - JOUR
+T1  - Qualitative Judgement of Research Impact: Domain Taxonomy as a Fundamental Framework for Judgement of the Quality of Research
+A1  - Murtagh, Fionn
+A1  - Orlov, Michael
+A1  - Mirkin, Boris
+Y1  - 2018///
+KW  - Multicriteria decision making
+KW  - Rank aggregation
+KW  - Research impact
+KW  - Scientometrics
+KW  - Semantic analysis
+KW  - Stratification
+KW  - Taxonomy
+JF  - Journal of Classification
+VL  - 35
+IS  - 1
+SP  - 5
+EP  - 28
+DO  - 10.1007/s00357-018-9247-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044271156&doi=10.1007%2Fs00357-018-9247-0&partnerID=40&md5=0a68071553e2b8d9ae9bee73f6db46cc
+N1  - Cited By :6
+
+Export Date: 5 November 2020
+N2  - The appeal of metric evaluation of research impact has attracted considerable interest in recent times. Although the public at large and administrative bodies are much interested in the idea, scientists and other researchers are much more cautious, insisting that metrics are but an auxiliary instrument to the qualitative peer-based judgement. The goal of this article is to propose availing of such a well positioned construct as domain taxonomy as a tool for directly assessing the scope and quality of research. We first show how taxonomies can be used to analyze the scope and perspectives of a set of research projects or papers. Then we proceed to define a research team or researcher’s rank by those nodes in the hierarchy that have been created or significantly transformed by the results of the researcher. An experimental test of the approach in the data analysis domain is described. Although the concept of taxonomy seems rather simplistic to describe all the richness of a research domain, its changes and use can be made transparent and subject to open discussions.
+ER  - 
+TY  - JOUR
+T1  - Introducing a New Supply Chain Management Concept by Hybridizing TOPSIS, IoT and Cloud Computing
+A1  - Chakraborty, Biswanath
+A1  - Das, Santanu
+Y1  - 2020///
+KW  - Agile SCM
+KW  - Amazon effect
+KW  - Consumers’ preference
+KW  - De-coupling
+KW  - Functional silos
+KW  - IoT
+KW  - RFID
+KW  - SCM
+KW  - Supply chain
+KW  - TOPSIS
+JF  - Journal of The Institution of Engineers (India): Series C
+DO  - 10.1007/s40032-020-00619-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091689158&doi=10.1007%2Fs40032-020-00619-x&partnerID=40&md5=ef143eaf00d93822d0b081ba8275d3e1
+N1  - Export Date: 5 November 2020
+N2  - Supply Chain Management (SCM) is becoming more complex day by day. Functional silos on demand and supply fronts of products are required to be addressed to implement the de-coupling point in preferences of consumers involved in a supply chain for optimization of operational efficiency, and nowadays, it has become a challenge. Again, ‘Amazon Effect’ has forced others to reset their strategies for optimizing their effectiveness. For the optimization of operational efficiency, three technologies have been used in the present work. TOPSIS, one of the Multi-Criteria Decision Making (MCDM) Techniques, has been applied to provide preferences of consumers of different criteria against different attributes (products). For tracking the products on transit, Radio Frequency IDentification (RFID) method can be employed in SCM to collect and share data of event(s) or ‘Things’ for a broad range through the Internet of Things (IoT) application. Finally, Cloud Computing has been proposed to be applied for managing Big Data that will be generated during this entire process of SCM. The optimization method of a quick or agile SCM based on TOPSIS, IoT and Cloud Computing is discussed in detail in this work to benefit industries.
+ER  - 
+TY  - CONF
+T1  - Application of remote sensing and google earth engine for monitoring environmental degradation in the nilgiri biosphere reserve and its ecosystem of Western Ghats, India
+A1  - Abdul Rahaman, S.
+A1  - Venkatesh, R.
+Y1  - 2020///
+KW  - Entropy
+KW  - Environmental Degradation
+KW  - Google Earth Engine
+KW  - Nilgiri Biosphere Reserve
+KW  - Support Vector Machine
+KW  - and Random Forest Classifier
+JF  - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives
+VL  - 43
+IS  - B3
+SP  - 933
+EP  - 940
+DO  - 10.5194/isprs-archives-XLIII-B3-2020-933-2020
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091177606&doi=10.5194%2Fisprs-archives-XLIII-B3-2020-933-2020&partnerID=40&md5=0aa6ee229a358bb213473e608b1ee569
+N1  - Export Date: 5 November 2020
+N2  - Biosphere Reserves are archetypal parts of natural and cultural landscapes encompassing over large area of different ecosystem, it represents bio-geographic zones of an region. Globally, the areas of biosphere reserve is shrinking and exploiting due to the extreme climatic condition, natural calamities and anthropogenic activities, which leads to environmental and land degradation. In this paper Nilgiri Biosphere Reserve (NBSR) area has been selected and it represents a biodiversity-rich ecosystem in the Western Ghats and includes two of the ten biogeographical provinces of India. Amongst the most insubstantial ecosystems in the world, the Nilgiri Biosphere Reserve is bearing the substance of climate change evident in increasingly unpredictable rainfall and higher temperatures during recent years. The region was mostly unscathed till two centuries ago, but has witnessed large-scale destruction ever since. In this scenario, a need of application of remote sensing and advance machine learning techniques to monitor environmental degradation and its ecosystem in NBSR is more essential. The objective of the present study is to develop satellite image classification techniques that can reliably to map forest cover and land use, and provide the basis for long-term monitoring. Advanced image classification techniques on the cloud-based platform Google Earth Engine (GEE) for mapping vegetation and land use types, and analyse their spatial distributions. To restore degraded ecosystems to their natural conditions through proper management and conservation practices. In order to understand the nature of environmental degradation and its ecosystem in Nilgiri Biosphere Reserve; following thematic criteria's were grouped in to four major indicators such as Terrain Indicator (TI), Environmental Indicator (EI), Hydro-Meteorological Indicator (HMI) and Socio-Economic Indicator (SEI). The utilisation of remote sensing product of huge datasets and various data product in analysis and advanced machine learning algorithm through Google earth engine are indispensable. After extraction of all the thematic layers by using multi criteria decision and fuzzy linear member based weight and ranks were assigned and overlay in GIS environment at a common pixel size of 30 m. Based on the analysis the resultant layer has been classified into five environmental degraded classes i.e., very high, high, moderate, slight and no degradation. This study is help to identify the degradation and long term monitoring and suggest the appropriate conservation, management and policies, it is a time to implement and protect the Nilgiri biosphere reserves without hindering present stage of natural environment in a sustainable manner.
+ER  - 
+TY  - JOUR
+T1  - Flash-flood susceptibility assessment using multi-criteria decision making and machine learning supported by remote sensing and GIS techniques
+A1  - Costache, Romulus
+A1  - Pham, Quoc Bao
+A1  - Sharifi, Ehsan
+A1  - Linh, Nguyen Thi Thuy
+A1  - Abba, S. I.
+A1  - Vojtek, Matej
+A1  - Vojteková, Jana
+A1  - Nhi, Pham Thi Thao
+A1  - Khoi, Dao Nguyen
+Y1  - 2020///
+KW  - Analytical hierarchy process
+KW  - Flash-flood potential index
+KW  - K-Nearest Neighbor
+KW  - K-Star
+KW  - Machine learning
+KW  - Prahova river catchment
+PB  - mdpi.com
+JF  - Remote Sensing
+VL  - 12
+IS  - 1
+DO  - 10.3390/RS12010106
+UR  - https://www.mdpi.com/2072-4292/12/1/106
+N1  - Cited By (since 2020): 16
+N2  - Concerning the significant increase in the negative effects of flash-floods worldwide, the main goal of this research is to evaluate the power of the Analytical Hierarchy Process (AHP), fi (kNN), K-Star (KS) algorithms and their ensembles in flash-flood susceptibility mapping. To train the two stand-alone models and their ensembles, for the first stage, the areas affected in the past by torrential phenomena are identified using remote sensing techniques. Approximately 70% of these areas are used as a training data set along with 10 flash-flood predictors. It should be remarked that the remote sensing techniques play a crucial role in obtaining eight out of 10 flash-flood conditioning factors. The predictive capability of predictors is evaluated through the Information Gain Ratio (IGR) method. As expected, the slope angle results in the factor with the highest predictive capability. The application of the AHP model implies the construction of ten pair-wise comparison matrices for calculating the normalized weights of each flash-flood predictor. The computed weights are used as input data in kNN-AHP and KS-AHP ensemble models for calculating the Flash-Flood Potential Index (FFPI). The FFPI also is determined through kNN and KS stand-alone models. The performance of the models is evaluated using statistical metrics (i.e., sensitivity, specificity and accuracy) while the validation of the results is done by constructing the Receiver Operating Characteristics (ROC) Curve and Area Under Curve (AUC) values and by calculating the density of torrential pixels within FFPI classes. Overall, the best performance is obtained by the kNN-AHP ensemble model.
+ER  - 
+TY  - JOUR
+T1  - A multi-objective design optimization strategy as applied to pre-mixed pre-vaporized injection systems for low emission combustors
+A1  - Laraia, M.
+A1  - Manna, M.
+A1  - Colantuoni, S.
+A1  - Di Martino, P.
+Y1  - 2010///
+KW  - Design system
+KW  - Expert system
+KW  - GT combustion chambers
+KW  - LPP injection systems
+KW  - Multi-objective design optimization
+JF  - Combustion Theory and Modelling
+VL  - 14
+IS  - 2
+SP  - 203
+EP  - 233
+DO  - 10.1080/13647831003746187
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77954293149&doi=10.1080%2F13647831003746187&partnerID=40&md5=fc13f8c94c383f523b11e6d2d7a873b3
+N1  - Cited By :7
+
+Export Date: 5 November 2020
+N2  - This paper presents a multi-objective optimization procedure as applied to the design of the injection system of a Lean Pre-mixed Pre-vaporized combustion chamber. The optimizer drives an Artificial Neural Network in a repeated analysis scheme in order to simultaneously reduce NOX and CO pollutant emissions. The ANN is trained with a few three-dimensional high resolution reactive viscous flow simulations, carried out with a reliable and robust CFD code. Results, obtained in a four-dimensional state space, demonstrate the validity of the overall procedure with truly moderate computational costs. © 2010 Taylor & Francis.
+ER  - 
+TY  - JOUR
+T1  - Multi-criteria intuitionistic fuzzy group decision analysis with TOPSIS method for selecting appropriate cloud solution to manage big data projects
+A1  - Sachdeva, Nitin
+A1  - Singh, Ompal
+A1  - Kapur, P. K.
+A1  - Galar, Diego
+Y1  - 2016///
+KW  - Big data
+KW  - Cloud computing
+KW  - Intuitionistic fuzzy set (IFS)
+KW  - Multi criteria decision making (MCDM)
+KW  - TOPSIS
+JF  - International Journal of Systems Assurance Engineering and Management
+VL  - 7
+IS  - 3
+SP  - 316
+EP  - 324
+DO  - 10.1007/s13198-016-0455-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983035394&doi=10.1007%2Fs13198-016-0455-x&partnerID=40&md5=03bb3e7fc0d281f7e99fbf76345f93b4
+N1  - Cited By :9
+
+Export Date: 5 November 2020
+N2  - Today technology that learns from data to forecast future behavior of individuals, organizations, government and country as a whole, is playing a crucial role in the advancement of human race. In fact, the strategic advantage most of the companies today strive for are use of new available technologies like cloud computing and big data. However, today’s dynamic business environment poses severe challenges in front of companies as to how to make use of the power of big data with the technical flexibility that cloud computing provides? Therefore, evaluating, ranking and selecting the most appropriate cloud solution to manage big data project is a complex concern which required multi criteria decision environment. In this paper we propose a hybrid TOPSIS method combined with intuitionistic fuzzy set to select appropriate cloud solution to manage big data projects in group decision making environment. In order to collate individual opinions of decision makers for rating the importance of various criteria and alternatives, we employed intuitionistic fuzzy weighted averaging operator. Lastly sensitivity analysis is performed so as to evaluate the impact of criteria weights on final ranking of alternatives.
+ER  - 
+TY  - JOUR
+T1  - Multi criteria decision making technique for machine learning algorithms: Iterative and non-iterative algorithms
+A1  - Haseena, S.
+A1  - Blessa Binolin Pepsi, M.
+A1  - Saroja, S.
+Y1  - 2020///
+KW  - Data mining
+KW  - Iterative
+KW  - Machine learning
+KW  - Multi Criteria Decision Making
+KW  - Supervised
+KW  - Unsupervised
+JF  - International Journal of Scientific and Technology Research
+VL  - 9
+IS  - 1
+SP  - 2392
+EP  - 2403
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078924227&partnerID=40&md5=9a82946089891a0ad82d28ec1e28f2ec
+N1  - Export Date: 5 November 2020
+N2  - With increasing amount of data generated every day, there is a need to extract useful information from the data which is an important problem to be solved. Machine learning is a method that enables the computer system to have the intelligence by analyzing the data and building an automated analytical model. The algorithms in machine learning are broadly classified as either iterative or non-iterative algorithms. An optimization algorithm plays a key role in machine learning that is solved by iterative methods that are executed iteratively to generate optimum solution or till a satisfactory solution is obtained. A non-iterative algorithm is computationally faster than iterative algorithms as it does not require iteration or little iter ation to train the data. This paper makes an analysis of these iterative and non-iterative algorithms and performs comparison upon their respective advantages and drawbacks. These algorithms are compared based on various parameters such as time taken to build the model, correctly and wrongly classified instances, mean absolute error, root means square error, true positive, false positive, precision and recall are computed. Multi Criteria Decision Making method such as TOPSIS is used to improve the efficiency of the decision making process by suggesting best machine learning technique that improves classification.
+ER  - 
+TY  - JOUR
+T1  - Sports decision-making model based on data mining and neural network
+A1  - Yuan, Chunmei
+A1  - Yang, Yikun
+A1  - Liu, Yang
+Y1  - 2020///
+KW  - Data mining
+KW  - Machine learning
+KW  - Neural network
+KW  - Sports decision-making
+JF  - Neural Computing and Applications
+DO  - 10.1007/s00521-020-05445-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094189451&doi=10.1007%2Fs00521-020-05445-x&partnerID=40&md5=0a91a5e9c066ea9aebed94edde983d69
+N1  - Export Date: 5 November 2020
+N2  - The sports decision-making system is affected by many factors, and the sports decision-making system itself is a complex decision-making system, including multiple micro-systems. In order to construct a more scientific sports decision-making model, this paper builds a sports decision-making model based on data mining and neural network based on data mining technology and neural network algorithms. Moreover, based on the analysis of system theory, stakeholder theory and multi-objective decision-making theory, this paper provides a theoretical basis for the study of multi-objective decision-making problems in sports events. In addition, this paper discusses the starting point of decision-making and the scope of research from the basic concepts of sports decision-making and analyzes the multi-objective decision-making system of sports decision-making. At the same time, on this basis, this paper designs a multi-objective decision-making model for sports events, and finally conducts empirical research based on the designed model. Through empirical analysis and simulation research, it can be known that the combined model constructed in this paper performs well and has certain practical effects.
+ER  - 
+TY  - JOUR
+T1  - Modelling human decision behaviour with preference learning
+A1  - Aggarwal, Manish
+A1  - Tehrani, Ali Fallah
+Y1  - 2019///
+KW  - Attitudinal character
+KW  - Attitudinal choquet integral
+KW  - Compensative
+KW  - Decision analysis
+KW  - Human aggregation
+KW  - Interactive criteria
+KW  - Multicriteria decision making
+JF  - INFORMS Journal on Computing
+VL  - 31
+IS  - 2
+SP  - 318
+EP  - 334
+DO  - 10.1287/ijoc.2018.0823
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066959333&doi=10.1287%2Fijoc.2018.0823&partnerID=40&md5=ecc338d5defa29f0284e13f18641bee3
+N1  - Cited By :8
+
+Export Date: 5 November 2020
+N2  - Preferences provide a means for specifying the desires of a decision maker (DM) in a declarative way. In this paper, based on a DM’s pairwise preferences, we infer the DM’s unique decision model. We capture (a) the attitudinal character, (b) relative criteria importance, and (c) the criteria interaction, all of which are specific to the DM. We make use of the preference-learning (PL) technique to induce predictive preference models from empirical data. Because PL is emerging as a new subfield of machine learning, we could use standard machine-learning methods to accomplish our learning objective. We consider the DM’s exemplary preference information in the form of pairwise comparisons between alternatives as the training information. The DM’s decision model is captured in terms of (a), (b), and (c), through the parameters of an attitudinal Choquet integral operator. The proposed learning approach is validated through an experimental study on 16 standard data sets. The superiority of the proposed method in terms of predictive accuracy and easier interpretability is shown both theoretically as well as empirically.
+ER  - 
+TY  - JOUR
+T1  - A neural network approach for the development of modular product architectures
+A1  - Pandremenos, J.
+A1  - Chryssolouris, G.
+Y1  - 2011///
+KW  - DSM
+KW  - design
+KW  - neural networks
+JF  - International Journal of Computer Integrated Manufacturing
+VL  - 24
+IS  - 10
+SP  - 879
+EP  - 887
+DO  - 10.1080/0951192X.2011.602361
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80053396313&doi=10.1080%2F0951192X.2011.602361&partnerID=40&md5=d975e45c750d283f810e215788c4d1cb
+N1  - Cited By :39
+
+Export Date: 5 November 2020
+N2  - The clustering of a product's components into modules is an effective means of creating modular architectures. This article initially links the clustering efficiency with the interactions of a product's components, and interesting observations are extracted. A novel clustering method utilising neural network algorithms and design structure matrices (DSMs) is then introduced. The method is capable of reorganising the components of a product in clusters, in order for the interactions to be maximised inside and minimised outside the clusters. In addition, a multi-criteria decision-making approach is used, in order for the efficiency of the different clustering alternatives, derived by the network, to be evaluated. Finally, a case study is presented to demonstrate and assess the application of the method. The derived algorithmic clustering proved to be more efficient compared with the empirical one, and thus, it can be used by design engineers as an effective tool for the derivation of product clustering alternatives. © 2011 Taylor & Francis.
+ER  - 
+TY  - JOUR
+T1  - Moos: A multi-objective design space exploration and optimization framework for NoC enabled manycore systems
+A1  - Deshwal, Aryan
+A1  - Kanappan Jayakodi, Nitthilan
+A1  - Kumar Joardar, Biresh
+A1  - Rao Doppa, Janardhan
+A1  - Pratim Pande, Partha
+Y1  - 2019///
+KW  - Design optimization
+KW  - Machine learning
+KW  - Manycore systems
+KW  - Network-on-chip
+JF  - ACM Transactions on Embedded Computing Systems
+VL  - 18
+IS  - 5s
+DO  - 10.1145/3358206
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073065607&doi=10.1145%2F3358206&partnerID=40&md5=e7e68e44e66163848e319852f5a45216
+N1  - Cited By :3
+
+Export Date: 5 November 2020
+N2  - The growing needs of emerging applications has posed significant challenges for the design of optimized manycore systems. Network-on-Chip (NoC) enables the integration of a large number of processing elements (PEs) in a single die. To design optimized manycore systems, we need to establish suitable trade-offs among multiple objectives including power, performance, and thermal. Therefore, we consider multi-objective design space exploration (MO-DSE) problems arising in the design of NoC-enabled manycore systems: placement of PEs and communication links to optimize two or more objectives (e.g., latency, energy, and throughput). Existing algorithms to solve MO-DSE problems suffer from scalability and accuracy challenges as size of the design space and the number of objectives grow. In this paper, we propose a novel framework referred as Multi-Objective Optimistic Search (MOOS) that performs adaptive design space exploration using a data-driven model to improve the speed and accuracy of multi-objective design optimization process. We apply MOOS to design both 3D heterogeneous and homogeneous manycore systems using Rodinia, PARSEC, and SPLASH2 benchmark suites. We demonstrate that MOOS improves the speed of finding solutions compared to state-of-the-art methods by up to 13X while uncovering designs that are up to 20% better in terms of NoC. The optimized 3D manycore systems improve the EDP up to 38% when compared to 3D mesh-based designs optimized for the placement of PEs.
+ER  - 
+TY  - JOUR
+T1  - Multi Criteria Decision Making in Financial Risk Management with a Multi-objective Genetic Algorithm
+A1  - Srinivasan, Sujatha
+A1  - Kamalakannan, T.
+Y1  - 2018///
+KW  - Big data
+KW  - Business analytics
+KW  - Business intelligence
+KW  - Credit risk
+KW  - Enterprise risk management
+JF  - Computational Economics
+VL  - 52
+IS  - 2
+SP  - 443
+EP  - 457
+DO  - 10.1007/s10614-017-9683-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018440020&doi=10.1007%2Fs10614-017-9683-7&partnerID=40&md5=68dab08ccebe53d3642f9ef3f94cd99b
+N1  - Cited By :6
+
+Export Date: 5 November 2020
+N2  - A huge amount of data is being collected and stored by financial institutions like banks during their operations. These data contain the most important facts about the institutions and its customers. A good and efficient data analytics system can find patterns in this huge data source that can be used in actionable knowledge creation. Actionable knowledge is the knowledge that can be put to decision making and take some positive action towards better performance of organizations. This actionable knowledge is termed Business Intelligence by data scientists. Business Intelligence and Analytics is the process of applying data mining techniques to organizational or corporate data to discover patterns. Business Intelligence and Business Analytics are emerging as important and essential fields both for data scientists and organizations. Risk analysis, fraud detection, customer retention, customer satisfaction analysis and actuarial analysis are some of the areas of application of business intelligence and analytics. Credit risk analysis is an important part of a successful financial institution particularly in the banking sector. The current study takes this risk analysis in financial institutions and reviews the state of the art in using data analytics or data mining techniques for financial risk analysis. The analysis of risk from financial data depends on several factors that are both objective and subjective. Hence it is a multi-criteria decision problem. The study also proposes a multi-objective genetic algorithm (MOGA) for analyzing financial data for risk analysis and prediction. The proposed MOGA is different from other evolutionary systems in that a memory component to hold the rules is added to the system while other systems in the literature are memory less. The algorithm is applied to bench mark data sets for predicting the decision on credit card and credit applications. The preliminary results are encouraging and show light towards better decision making in reducing risks.
+ER  - 
+TY  - JOUR
 T1  - Fuzzy Multi-Objective Simulation-Optimization of Stepped Spillways Considering Flood Uncertainty
 A1  - Ghorbani Mooselu, Mehrdad
 A1  - Nikoo, Mohammad Reza
@@ -43,475 +502,95 @@ N1  - Export Date: 5 November 2020
 N2  - Multiple criteria decision aiding (MCDA) is a family of analytic approaches to depicting the rationale of human decisions. To better interpret the contributions of individual attributes to the decision maker, the conventional MCDA approaches assume that the attributes are monotonic and preference independence. However, the capacity in describing the decision maker's preferences is sacrificed as a result of model simplification. To meet the decision maker's demand for more accurate and interpretable decision models, we propose a novel hybrid method, namely Neural Network-based Multiple Criteria Decision Aiding (NN-MCDA), which combines MCDA model and machine learning to achieve better prediction performance while capturing the relationships between individual attributes and the prediction. NN-MCDA uses a linear component (in an additive form of a set of polynomial functions) to characterize such relationships through providing explicit non-monotonic marginal value functions, and a nonlinear component (in a standard multilayer perceptron form) to capture the implicit high-order interactions among attributes and their complex nonlinear transformations. We demonstrate the effectiveness of NN-MCDA with extensive simulation studies and three real-world datasets. The study sheds light on how to improve the prediction performance of MCDA models using machine learning techniques, and how to enhance the interpretability of machine learning models using MCDA approaches.
 ER  - 
 TY  - JOUR
-T1  - Moos: A multi-objective design space exploration and optimization framework for NoC enabled manycore systems
-A1  - Deshwal, Aryan
-A1  - Kanappan Jayakodi, Nitthilan
-A1  - Kumar Joardar, Biresh
-A1  - Rao Doppa, Janardhan
-A1  - Pratim Pande, Partha
-Y1  - 2019///
-KW  - Design optimization
-KW  - Machine learning
-KW  - Manycore systems
-KW  - Network-on-chip
-JF  - ACM Transactions on Embedded Computing Systems
-VL  - 18
-IS  - 5s
-DO  - 10.1145/3358206
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073065607&doi=10.1145%2F3358206&partnerID=40&md5=e7e68e44e66163848e319852f5a45216
-N1  - Cited By :3
-
-Export Date: 5 November 2020
-N2  - The growing needs of emerging applications has posed significant challenges for the design of optimized manycore systems. Network-on-Chip (NoC) enables the integration of a large number of processing elements (PEs) in a single die. To design optimized manycore systems, we need to establish suitable trade-offs among multiple objectives including power, performance, and thermal. Therefore, we consider multi-objective design space exploration (MO-DSE) problems arising in the design of NoC-enabled manycore systems: placement of PEs and communication links to optimize two or more objectives (e.g., latency, energy, and throughput). Existing algorithms to solve MO-DSE problems suffer from scalability and accuracy challenges as size of the design space and the number of objectives grow. In this paper, we propose a novel framework referred as Multi-Objective Optimistic Search (MOOS) that performs adaptive design space exploration using a data-driven model to improve the speed and accuracy of multi-objective design optimization process. We apply MOOS to design both 3D heterogeneous and homogeneous manycore systems using Rodinia, PARSEC, and SPLASH2 benchmark suites. We demonstrate that MOOS improves the speed of finding solutions compared to state-of-the-art methods by up to 13X while uncovering designs that are up to 20% better in terms of NoC. The optimized 3D manycore systems improve the EDP up to 38% when compared to 3D mesh-based designs optimized for the placement of PEs.
-ER  - 
-TY  - JOUR
-T1  - Towards the selection of best neural network system for intrusion detection
-A1  - Ahmad, Iftikhar
-A1  - Abdullah, Azween
-A1  - Alghamdi, Abdullah
-Y1  - 2010///
-KW  - Analytic hierarchy process (AHP)
-KW  - Intrusion detection system (IDS)
-KW  - Multi-criteria decision making (MCDM)
-KW  - Neural networks (NN)
-JF  - International Journal of Physical Sciences
-VL  - 5
-IS  - 12
-SP  - 1830
-EP  - 1839
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78951473333&partnerID=40&md5=bad8e038852020023d8f22fd8fff7a6f
-N1  - Cited By :11
-
-Export Date: 5 November 2020
-N2  - Currently, network security is a critical issue because a single attack can inflict catastrophic damages to computers and network systems. Various intrusion detection approaches are available to adhere to this severe issue, but the dilemma is, which one is more suitable. Being motivated by this situation, in this paper, we evaluate and compare different neural networks (NNs). The current work presents an evaluation of different neural networks such as Self-organizing map (SOM), Adaptive Resonance Theory (ART), Online Backpropagation (OBPROP), Resilient Backpropagation (RPROP) and Support Vector Machine (SVM) towards intrusion detection mechanisms using Multi-criteria Decision Making (MCDM) technique. The results indicate that in terms of performance, supervised NNs are better, while unsupervised NNs are better regarding training overhead and aptitude towards handling varied and coordinated intrusion. Consequently, the combined, that is, hybrid approach of NNs is the optimal solution in the area of intrusion detection. The outcome of this work may help and guide the security implementers in two possible ways, either by using the results directly obtained in this paper or by extracting the results using other similar mechanism, but on different intrusion detection systems or approaches. © 2010 Academic Journals.
-ER  - 
-TY  - CONF
-T1  - Quantitative workflow based on NN for weighting criteria in landfill suitability mapping
-A1  - Abujayyab, Sohaib K.M.
-A1  - Ahamad, Mohd Sanusi S.
-A1  - Yahya, Ahmad Shukri
-A1  - Ahmad, Siti Zubaidah
-A1  - Alkhasawneh, Mutasem Sh
-A1  - Aziz, Hamidi Abdul
+T1  - A data-driven quantitative assessment model for taxi industry: the scope of business ecosystem’s health
+A1  - Zhang, Yong
+A1  - Zhong, Miner
+A1  - Jiang, Yunjian
 Y1  - 2017///
-JF  - AIP Conference Proceedings
-VL  - 1892
-SN  - 9780735415744
-DO  - 10.1063/1.5005760
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037624216&doi=10.1063%2F1.5005760&partnerID=40&md5=59cab3f3cadcc2bd59659398e83df8fd
-N1  - Export Date: 5 November 2020
-N2  - Our study aims to introduce a new quantitative workflow that integrates neural networks (NNs) and multi criteria decision analysis (MCDA). Existing MCDA workflows reveal a number of drawbacks, because of the reliance on human knowledge in the weighting stage. Thus, new workflow presented to form suitability maps at the regional scale for solid waste planning based on NNs. A feed-forward neural network employed in the workflow. A total of 34 criteria were pre-processed to establish the input dataset for NN modelling. The final learned network used to acquire the weights of the criteria. Accuracies of 95.2% and 93.2% achieved for the training dataset and testing dataset, respectively. The workflow was found to be capable of reducing human interference to generate highly reliable maps. The proposed workflow reveals the applicability of NN in generating landfill suitability maps and the feasibility of integrating them with existing MCDA workflows.
-ER  - 
-TY  - JOUR
-T1  - Development of a closed-loop diagnosis system for reflow soldering using neural networks and support vector regression
-A1  - Tsai, Tsung Nan
-A1  - Tsai, Chiu Wen
-Y1  - 2014///
-KW  - Analytic hierarchy process
-KW  - Neural network
-KW  - Reflow soldering
-KW  - SMT
-KW  - Support vector regression
-JF  - International Journal of Industrial Engineering : Theory Applications and Practice
-VL  - 21
-IS  - 1
-SP  - 18
-EP  - 32
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84956972044&partnerID=40&md5=ddb2a039370a3ab0bcb64ef62b101e0d
-N1  - Cited By :3
-
-Export Date: 5 November 2020
-N2  - This study presents an industrial application of artificial neural network (ANN) and support vector regression (SVR) to diagnose control reflow soldering process in a closed-loop framework. Reflow soldering is the principal process for the fabrication of a variety of modern computer, communication, and consumer (3C) electronics products. It is important to achieve robust electrical connections without changing the mechanical and electronic characteristics of the components during reflow soldering process. In this study, a 38-4 experimental design was conducted to collect the structured process information. The experimental data was then used for data-training via the ANN and SVR techniques to investigate both the forward and backward relationships between the heating factors and the resultant reflow thermal profile (RTP) and so as to develop a closed-loop reflow soldering diagnosis system. The proposed system includes two modules: (1) a forward-flow module used to predict the output elements of the RTP and evaluate its performance based on ANN and a multi-criteria decision-making (MCDM) criterion; (2) a backward-flow module employed to ascertain the set of heating parameter combinations which best fulfill the production requirements of the expected throughput rate, product configuration, and the desired solderability. The efficiency and cost-effectiveness of this methodology were empirically evaluated and the results show the promising to improve soldering quality and productivity. Significance: The proposed closed-loop reflow soldering process diagnosis system can predict the output elements of a reflow temperature profile according to process inputs. This system is also able to ascertain the set of heating parameter combinations which best fulfill the production requirements and the desired solderability. The empirical evaluation demonstrates the efficiency and cost-effectiveness for the improvements of soldering quality and productivity.
-ER  - 
-TY  - JOUR
-T1  - Multi-objective design of post-tensioned concrete road bridges using artificial neural networks
-A1  - García-Segura, Tatiana
-A1  - Yepes, Víctor
-A1  - Frangopol, Dan M.
-Y1  - 2017///
-KW  - Artificial neural networks
-KW  - Durability
-KW  - Multi-objective harmony search
-KW  - Post-tensioned concrete bridges
-KW  - Safety
-JF  - Structural and Multidisciplinary Optimization
-VL  - 56
-IS  - 1
-SP  - 139
-EP  - 150
-DO  - 10.1007/s00158-017-1653-0
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011880110&doi=10.1007%2Fs00158-017-1653-0&partnerID=40&md5=b3285f7a33f4e3de9c9b01031f68e4de
-N1  - Cited By :24
-
-Export Date: 5 November 2020
-N2  - In order to minimize the total expected cost, bridges have to be designed for safety and durability. This paper considers the cost, the safety, and the corrosion initiation time to design post-tensioned concrete box-girder road bridges. The deck is modeled by finite elements based on problem variables such as the cross-section geometry, the concrete grade, and the reinforcing and post-tensioning steel. An integrated multi-objective harmony search with artificial neural networks (ANNs) is proposed to reduce the high computing time required for the finite-element analysis and the increment in conflicting objectives. ANNs are trained through the results of previous bridge performance evaluations. Then, ANNs are used to evaluate the constraints and provide a direction towards the Pareto front. Finally, exact methods actualize and improve the Pareto set. The results show that the harmony search parameters should be progressively changed in a diversification-intensification strategy. This methodology provides trade-off solutions that are the cheapest ones for the safety and durability levels considered. Therefore, it is possible to choose an alternative that can be easily adjusted to each need.
-ER  - 
-TY  - JOUR
-T1  - A multi-objective design optimization strategy as applied to pre-mixed pre-vaporized injection systems for low emission combustors
-A1  - Laraia, M.
-A1  - Manna, M.
-A1  - Colantuoni, S.
-A1  - Di Martino, P.
-Y1  - 2010///
-KW  - Design system
-KW  - Expert system
-KW  - GT combustion chambers
-KW  - LPP injection systems
-KW  - Multi-objective design optimization
-JF  - Combustion Theory and Modelling
-VL  - 14
-IS  - 2
-SP  - 203
-EP  - 233
-DO  - 10.1080/13647831003746187
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77954293149&doi=10.1080%2F13647831003746187&partnerID=40&md5=fc13f8c94c383f523b11e6d2d7a873b3
-N1  - Cited By :7
-
-Export Date: 5 November 2020
-N2  - This paper presents a multi-objective optimization procedure as applied to the design of the injection system of a Lean Pre-mixed Pre-vaporized combustion chamber. The optimizer drives an Artificial Neural Network in a repeated analysis scheme in order to simultaneously reduce NOX and CO pollutant emissions. The ANN is trained with a few three-dimensional high resolution reactive viscous flow simulations, carried out with a reliable and robust CFD code. Results, obtained in a four-dimensional state space, demonstrate the validity of the overall procedure with truly moderate computational costs. © 2010 Taylor & Francis.
-ER  - 
-TY  - JOUR
-T1  - A neural network approach for the development of modular product architectures
-A1  - Pandremenos, J.
-A1  - Chryssolouris, G.
-Y1  - 2011///
-KW  - DSM
-KW  - design
-KW  - neural networks
-JF  - International Journal of Computer Integrated Manufacturing
-VL  - 24
-IS  - 10
-SP  - 879
-EP  - 887
-DO  - 10.1080/0951192X.2011.602361
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80053396313&doi=10.1080%2F0951192X.2011.602361&partnerID=40&md5=d975e45c750d283f810e215788c4d1cb
-N1  - Cited By :39
-
-Export Date: 5 November 2020
-N2  - The clustering of a product's components into modules is an effective means of creating modular architectures. This article initially links the clustering efficiency with the interactions of a product's components, and interesting observations are extracted. A novel clustering method utilising neural network algorithms and design structure matrices (DSMs) is then introduced. The method is capable of reorganising the components of a product in clusters, in order for the interactions to be maximised inside and minimised outside the clusters. In addition, a multi-criteria decision-making approach is used, in order for the efficiency of the different clustering alternatives, derived by the network, to be evaluated. Finally, a case study is presented to demonstrate and assess the application of the method. The derived algorithmic clustering proved to be more efficient compared with the empirical one, and thus, it can be used by design engineers as an effective tool for the derivation of product clustering alternatives. © 2011 Taylor & Francis.
-ER  - 
-TY  - JOUR
-T1  - Evaluation of recent advanced soft computing techniques for gully erosion susceptibility mapping: A comparative study
-A1  - Arabameri, Alireza
-A1  - Blaschke, Thomas
-A1  - Pradhan, Biswajeet
-A1  - Pourghasemi, Hamid Reza
-A1  - Tiefenbacher, John P.
-A1  - Bui, Dieu Tien
-Y1  - 2020///
-KW  - Ensemble
-KW  - GIS
-KW  - Gully erosion
-KW  - Hybrid model
-KW  - Iran
-KW  - Soft computing
-PB  - mdpi.com
-JF  - Sensors (Switzerland)
-VL  - 20
-IS  - 2
-DO  - 10.3390/s20020335
-UR  - https://www.mdpi.com/1424-8220/20/2/335
-N1  - Cited By (since 2020): 6
-N2  - Gully erosion is a problem; therefore, it must be predicted using highly accurate predictive models to avoid losses caused by gully development and to guarantee sustainable development. This research investigates the predictive performance of seven multiple-criteria decision-making (MCDM), statistical, and machine learning (ML)-based models and their ensembles for gully erosion susceptibility mapping (GESM). A case study of the Dasjard River watershed, Iran uses a database of 306 gully head cuts and 15 conditioning factors. The database was divided 70:30 to train and verify the models. Their performance was assessed with the area under prediction rate curve (AUPRC), the area under success rate curve (AUSRC), accuracy, and kappa. Results show that slope is key to gully formation. The maximum entropy (ME) ML model has the best performance (AUSRC = 0.947, AUPRC = 0.948, accuracy = 0.849 and kappa = 0.699). The second best is the random forest (RF) model (AUSRC = 0.965, AUPRC = 0.932, accuracy = 0.812 and kappa = 0.624). By contrast, the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) model was the least effective (AUSRC = 0.871, AUPRC = 0.867, accuracy = 0.758 and kappa = 0.516). RF increased the performance of statistical index (SI) and frequency ratio (FR) statistical models. Furthermore, the combination of a generalized linear model (GLM), and functional data analysis (FDA) improved their performances. The results demonstrate that a combination of geographic information systems (GIS) with remote sensing (RS)-based ML models can successfully map gully erosion susceptibility, particularly in low-income and developing regions. This method can aid the analyses and decisions of natural resources managers and local planners to reduce damages by focusing attention and resources on areas prone to the worst and most damaging gully erosion.
-ER  - 
-TY  - JOUR
-T1  - Identification of drought in Dhalai river watershed using MCDM and ANN models
-A1  - Aher, Sainath
-A1  - Shinde, Sambhaji
-A1  - Guha, Shantamoy
-A1  - Majumder, Mrinmoy
-Y1  - 2017///
-KW  - Artificial neural network
-KW  - Drought identification
-KW  - Multi-criteria decision making
-JF  - Journal of Earth System Science
-VL  - 126
-IS  - 2
-DO  - 10.1007/s12040-017-0795-1
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015806061&doi=10.1007%2Fs12040-017-0795-1&partnerID=40&md5=fbae8148847b6646da0b5e96fa0392a5
-N1  - Cited By :8
-
-Export Date: 5 November 2020
-N2  - An innovative approach for drought identification is developed using Multi-Criteria Decision Making (MCDM) and Artificial Neural Network (ANN) models from surveyed drought parameter data around the Dhalai river watershed in Tripura hinterlands, India. Total eight drought parameters, i.e., precipitation, soil moisture, evapotranspiration, vegetation canopy, cropping pattern, temperature, cultivated land, and groundwater level were obtained from expert, literature and cultivator survey. Then, the Analytic Hierarchy Process (AHP) and Analytic Network Process (ANP) were used for weighting of parameters and Drought Index Identification (DII). Field data of weighted parameters in the meso scale Dhalai River watershed were collected and used to train the ANN model. The developed ANN model was used in the same watershed for identification of drought. Results indicate that the Limited-Memory Quasi-Newton algorithm was better than the commonly used training method. Results obtained from the ANN model shows the drought index developed from the study area ranges from 0.32 to 0.72. Overall analysis revealed that, with appropriate training, the ANN model can be used in the areas where the model is calibrated, or other areas where the range of input parameters is similar to the calibrated region for drought identification.
-ER  - 
-TY  - CONF
-T1  - Application of remote sensing and google earth engine for monitoring environmental degradation in the nilgiri biosphere reserve and its ecosystem of Western Ghats, India
-A1  - Abdul Rahaman, S.
-A1  - Venkatesh, R.
-Y1  - 2020///
-KW  - Entropy
-KW  - Environmental Degradation
-KW  - Google Earth Engine
-KW  - Nilgiri Biosphere Reserve
-KW  - Support Vector Machine
-KW  - and Random Forest Classifier
-JF  - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives
-VL  - 43
-IS  - B3
-SP  - 933
-EP  - 940
-DO  - 10.5194/isprs-archives-XLIII-B3-2020-933-2020
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091177606&doi=10.5194%2Fisprs-archives-XLIII-B3-2020-933-2020&partnerID=40&md5=0aa6ee229a358bb213473e608b1ee569
-N1  - Export Date: 5 November 2020
-N2  - Biosphere Reserves are archetypal parts of natural and cultural landscapes encompassing over large area of different ecosystem, it represents bio-geographic zones of an region. Globally, the areas of biosphere reserve is shrinking and exploiting due to the extreme climatic condition, natural calamities and anthropogenic activities, which leads to environmental and land degradation. In this paper Nilgiri Biosphere Reserve (NBSR) area has been selected and it represents a biodiversity-rich ecosystem in the Western Ghats and includes two of the ten biogeographical provinces of India. Amongst the most insubstantial ecosystems in the world, the Nilgiri Biosphere Reserve is bearing the substance of climate change evident in increasingly unpredictable rainfall and higher temperatures during recent years. The region was mostly unscathed till two centuries ago, but has witnessed large-scale destruction ever since. In this scenario, a need of application of remote sensing and advance machine learning techniques to monitor environmental degradation and its ecosystem in NBSR is more essential. The objective of the present study is to develop satellite image classification techniques that can reliably to map forest cover and land use, and provide the basis for long-term monitoring. Advanced image classification techniques on the cloud-based platform Google Earth Engine (GEE) for mapping vegetation and land use types, and analyse their spatial distributions. To restore degraded ecosystems to their natural conditions through proper management and conservation practices. In order to understand the nature of environmental degradation and its ecosystem in Nilgiri Biosphere Reserve; following thematic criteria's were grouped in to four major indicators such as Terrain Indicator (TI), Environmental Indicator (EI), Hydro-Meteorological Indicator (HMI) and Socio-Economic Indicator (SEI). The utilisation of remote sensing product of huge datasets and various data product in analysis and advanced machine learning algorithm through Google earth engine are indispensable. After extraction of all the thematic layers by using multi criteria decision and fuzzy linear member based weight and ranks were assigned and overlay in GIS environment at a common pixel size of 30 m. Based on the analysis the resultant layer has been classified into five environmental degraded classes i.e., very high, high, moderate, slight and no degradation. This study is help to identify the degradation and long term monitoring and suggest the appropriate conservation, management and policies, it is a time to implement and protect the Nilgiri biosphere reserves without hindering present stage of natural environment in a sustainable manner.
-ER  - 
-TY  - JOUR
-T1  - A Multi-Objective Agent-Based Control Approach with Application in Intelligent Traffic Signal System
-A1  - Jin, Junchen
-A1  - Ma, Xiaoliang
-Y1  - 2019///
-KW  - Agent-based system
-KW  - hybrid learning model
-KW  - intelligent control
-KW  - multi-objective reinforcement learning
-KW  - traffic signal control
-JF  - IEEE Transactions on Intelligent Transportation Systems
-VL  - 20
-IS  - 10
-SP  - 3900
-EP  - 3912
-DO  - 10.1109/TITS.2019.2906260
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077516849&doi=10.1109%2FTITS.2019.2906260&partnerID=40&md5=da7e4ed9b9fe4fe4692a67ef1c5d78f8
-N1  - Cited By :3
-
-Export Date: 5 November 2020
-N2  - Agent-based approaches have gained popularity in engineering applications, but its potential for advanced traffic controls has not been sufficiently explored. This paper presents a multi-agent framework that models traffic control instruments and their interactions with road traffic. A constrained Markov decision process (CMDP) model is used to represent agent decision making in the context of multi-objective policy goals, where the policy goal with the highest priority becomes the single optimization objective and the other goals are transformed as constraints. A reinforcement learning-based computational framework is developed for control applications. To implement the multi-objective decision model, a threshold lexicographic ordering method is introduced and integrated with the learning-based algorithm. Moreover, a two-stage hybrid framework is established to improve the learning efficiency of the model. While the proposed approach is potentially applicable for different road traffic operations, this paper applies the framework for traffic signal control in a network of Stockholm based on traffic simulation. The computational results show that the proposed control approach can handle a complex case of multiple policy requirements. Meanwhile, the agent-based intelligent control has shown superior performance when compared to other optimized signal control methods.
-ER  - 
-TY  - JOUR
-T1  - Intelligent vulnerability prediction of soil erosion hazard in semi-arid and humid region
-A1  - Agnihotri, Deepak
-A1  - Kumar, Tarun
-A1  - Jhariya, Dalchand
-Y1  - 2020///
-KW  - Geographic information system (GIS)
-KW  - Machine Learning
-KW  - Remote sensing
-KW  - Soil erosion hazard
-KW  - Watershed management
-PB  - Springer
-JF  - Environment, Development and Sustainability
-DO  - 10.1007/s10668-020-00685-2
-UR  - https://link.springer.com/content/pdf/10.1007/s10668-020-00685-2.pdf
-N1  - Cited By (since 2020): 1
-N2  - Soil erosion by water and other anthropogenic activities in the semi-arid and humid region is noticed as a major issue in the reduction in natural land by the loss of soil nutrients. The seven standard parameters were suggested in the literature for the assessment of soil erosion hazard, viz. soil loss, sediment yield, run-off potential, land capability class, drainage density, sediment transport index, and slope. In the present study, the combination of intelligent vulnerability prediction, multi-criteria decision-making, and geographic information system techniques provides an effective approach to identify the soil erosion hazard in the semi-arid and humid region. It makes this process more effective and efficient as the vulnerability of soil erosion hazard can be predicted by the proposed trained models for any locations that have the streamlined values of above seven parameters as suggested in this paper. The standard machine learning classifiers such as k-nearest neighbour, decision tree, random forest (RF), multinomial naive bays, adaptive boosting, and gradient adaptive boosting (GAB) have been applied on the spatial data set of “Pairi” river watershed found in “Chhattisgarh”, India. There are five categories of soil abrasion, viz. “very low”, “low”, “medium”, “high”, and “very high”, in this data set that represents an index of soil erosion hazard. The experimental results have given 91.5140% and 90.5525% accuracy using RF and GAB, respectively, whereas a much better log-loss measure, i.e. 0.27, is obtained by the GAB in comparison of 0.93 with RF. The results have been verified by visiting the ground truth locations.
-ER  - 
-TY  - JOUR
-T1  - Data-driven multiobjective decision-making in cash management
-A1  - Salas-Molina, Francisco
-A1  - Rodríguez-Aguilar, Juan A.
-Y1  - 2018///
-KW  - Cash management
-KW  - Integration
-KW  - Machine learning
-KW  - Multiobjective decision-making
-JF  - EURO Journal on Decision Processes
-VL  - 6
-IS  - 1-2
-SP  - 77
-EP  - 91
-DO  - 10.1007/s40070-017-0075-y
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062693338&doi=10.1007%2Fs40070-017-0075-y&partnerID=40&md5=a61695a1301791b1b6370bfb085e7ff7
-N1  - Cited By :1
-
-Export Date: 5 November 2020
-N2  - The volume and availability of business and finance data may continue to increase in the near future. However, the utility of such data is by no means straightforward due to a lack of integration between data-driven techniques and usual decision-making processes. This paper aims to integrate data with multiobjective decision-making in cash management by means of machine learning. To this end, we first consider cash flow forecasting as a data-driven procedure to be used as a key input to multiobjective cash management problem in which both cost and risk are goals to minimize. Next, we compute the forecasting premium, namely, how much value can be achieved in exchange of predictive accuracy. Finally, we provide cash managers with a general methodology to improve decision-making in cash management through the use of data and machine learning techniques. This methodology is based on a novel closed-loop procedure in which the estimated forecasting premium (if any) is used as a critical feedback information to find better forecasting models and, ultimately, better cost-risk results in cash management.
-ER  - 
-TY  - CONF
-T1  - MCDA- Inspired object and image recognition
-A1  - Schreyer, Boguslaw
-Y1  - 2015///
-JF  - 28th International Conference on Computer Applications in Industry and Engineering, CAINE 2015
-SP  - 155
-EP  - 158
-SN  - 9781510812284
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983655954&partnerID=40&md5=53c7b90a5d03220796d561371fd5dac1
-N1  - Export Date: 5 November 2020
-N2  - Multi-Criteria Decision Analysis (MCDA) is a decision-making process in which decision criteria are defined; weights are given to each criterion to reflect the relative importance of each criterion; evidence for the criteria are scored; and weighted preference scores are derived based on the criteria weights and criteria score.. A decision criterion is implemented as an element od image/object recognition. Unlike in a classical MCDA, the two modifications are implemented: a learning process supported by a user and weight adjustment performed similar to the Adaline and SOM artificial neural networks. A code has been developed and a method has been successfully implemented. As an application example both programs are recognizing a wide group of fruits and vegetables, where picture properties and physical properties have been used as recognition criteria.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria intuitionistic fuzzy group decision analysis with TOPSIS method for selecting appropriate cloud solution to manage big data projects
-A1  - Sachdeva, Nitin
-A1  - Singh, Ompal
-A1  - Kapur, P. K.
-A1  - Galar, Diego
-Y1  - 2016///
-KW  - Big data
-KW  - Cloud computing
-KW  - Intuitionistic fuzzy set (IFS)
-KW  - Multi criteria decision making (MCDM)
-KW  - TOPSIS
-JF  - International Journal of Systems Assurance Engineering and Management
-VL  - 7
-IS  - 3
-SP  - 316
-EP  - 324
-DO  - 10.1007/s13198-016-0455-x
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983035394&doi=10.1007%2Fs13198-016-0455-x&partnerID=40&md5=03bb3e7fc0d281f7e99fbf76345f93b4
-N1  - Cited By :9
-
-Export Date: 5 November 2020
-N2  - Today technology that learns from data to forecast future behavior of individuals, organizations, government and country as a whole, is playing a crucial role in the advancement of human race. In fact, the strategic advantage most of the companies today strive for are use of new available technologies like cloud computing and big data. However, today’s dynamic business environment poses severe challenges in front of companies as to how to make use of the power of big data with the technical flexibility that cloud computing provides? Therefore, evaluating, ranking and selecting the most appropriate cloud solution to manage big data project is a complex concern which required multi criteria decision environment. In this paper we propose a hybrid TOPSIS method combined with intuitionistic fuzzy set to select appropriate cloud solution to manage big data projects in group decision making environment. In order to collate individual opinions of decision makers for rating the importance of various criteria and alternatives, we employed intuitionistic fuzzy weighted averaging operator. Lastly sensitivity analysis is performed so as to evaluate the impact of criteria weights on final ranking of alternatives.
-ER  - 
-TY  - CONF
-T1  - Modeling multi-objectivization mechanism in multi-agent domain
-A1  - Nishi, Kousuke
-A1  - Arai, Sachiyo
-Y1  - 2019///
-KW  - dynamic weight
-KW  - multi-objective decision-making
-KW  - multi-objectivization
-KW  - reinforcement learning
-JF  - Proceedings - 2019 IEEE International Conference on Agents, ICA 2019
-SP  - 61
-EP  - 64
-SN  - 9781728140261
-DO  - 10.1109/AGENTS.2019.8929171
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077820595&doi=10.1109%2FAGENTS.2019.8929171&partnerID=40&md5=95c0ceeff6834562e96016c396da1cd3
-N1  - Export Date: 5 November 2020
-N2  - Many real-world tasks require making sequential decisions that involve multiple conflicting objectives. Furthermore, there exist multiple decision-makers, called multiagent, each of whom pursues its own profit. Thus, each agent should take into account the effect of other agents ' decisions to reach a point of compromise. For example, each agent decides with thought of other agents ' behavior in the decision of selecting the faster driving route to the destination, selecting a supermarket checkout line, and so on. For solving a sequential multi-objective decision problem, a multi-objective reinforcement learning (MORL) approach has been investigated.However, current research on MORL cannot deal with the multi-agent system where existing agents are influenced one another. Therefore, in this study, we expand the conventional multi-objective reinforcement learning by introducing the idea of multi-objectivization with dynamic weight setting of other decision-makers. In an experiment, our proposed model with dynamic weight can express the cooperative behaviors that seems to be considered other decision-makers in the multiagent environment.
-ER  - 
-TY  - JOUR
-T1  - Multi Criteria Decision Making in Financial Risk Management with a Multi-objective Genetic Algorithm
-A1  - Srinivasan, Sujatha
-A1  - Kamalakannan, T.
-Y1  - 2018///
-KW  - Big data
-KW  - Business analytics
-KW  - Business intelligence
-KW  - Credit risk
-KW  - Enterprise risk management
-JF  - Computational Economics
-VL  - 52
-IS  - 2
-SP  - 443
-EP  - 457
-DO  - 10.1007/s10614-017-9683-7
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018440020&doi=10.1007%2Fs10614-017-9683-7&partnerID=40&md5=68dab08ccebe53d3642f9ef3f94cd99b
-N1  - Cited By :6
-
-Export Date: 5 November 2020
-N2  - A huge amount of data is being collected and stored by financial institutions like banks during their operations. These data contain the most important facts about the institutions and its customers. A good and efficient data analytics system can find patterns in this huge data source that can be used in actionable knowledge creation. Actionable knowledge is the knowledge that can be put to decision making and take some positive action towards better performance of organizations. This actionable knowledge is termed Business Intelligence by data scientists. Business Intelligence and Analytics is the process of applying data mining techniques to organizational or corporate data to discover patterns. Business Intelligence and Business Analytics are emerging as important and essential fields both for data scientists and organizations. Risk analysis, fraud detection, customer retention, customer satisfaction analysis and actuarial analysis are some of the areas of application of business intelligence and analytics. Credit risk analysis is an important part of a successful financial institution particularly in the banking sector. The current study takes this risk analysis in financial institutions and reviews the state of the art in using data analytics or data mining techniques for financial risk analysis. The analysis of risk from financial data depends on several factors that are both objective and subjective. Hence it is a multi-criteria decision problem. The study also proposes a multi-objective genetic algorithm (MOGA) for analyzing financial data for risk analysis and prediction. The proposed MOGA is different from other evolutionary systems in that a memory component to hold the rules is added to the system while other systems in the literature are memory less. The algorithm is applied to bench mark data sets for predicting the decision on credit card and credit applications. The preliminary results are encouraging and show light towards better decision making in reducing risks.
-ER  - 
-TY  - JOUR
-T1  - Neural network-based modelling of wind/solar farm siting: a case study of East-Azerbaijan
-A1  - Asadi, Meysam
-A1  - Pourhossein, Kazem
-Y1  - 2020///
-KW  - Wind/solar farm
-KW  - analytic hierarchy process (AHP)
-KW  - geographical information system (GIS)
-KW  - multi-layer perceptron (MLP)
-KW  - site selection
-JF  - International Journal of Sustainable Energy
-DO  - 10.1080/14786451.2020.1833881
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092780715&doi=10.1080%2F14786451.2020.1833881&partnerID=40&md5=1105f85111f92dd8aae2a5dc64dc454f
-N1  - Export Date: 5 November 2020
-N2  - The location of wind/solar power plants is a critical part of design process. Multi-criteria decision making (MCDM), the well-known procedure of site selection, suffers from the local-scoring property. This paper proposes a combined approach of MCDM and artificial neural networks (ANN) to alleviate this deficiency. Here, the weighting of site selection criteria has been performed using the analytic hierarchy process (AHP), and then a multi-layer perceptron (MLP) is used for implementing the global scoring capability. By using this procedure, adding any new alternative site location cannot affect the scores of the others. In other words, the proposed procedure is global-scale and robust. Scores derived by this procedure for two candidate sites can be interpreted as real differences in these sites.
-ER  - 
-TY  - JOUR
-T1  - Predicting input voltages to adjust angle and velocity of robot joints using neural network, multi objective decision making analysis and fuzzy clustering
-A1  - Saryazdi, Mohammad Dehghani
-A1  - Mohammadi-Nodooshan, Alireza
-A1  - Dehghan, Damoon
-Y1  - 2016///
-KW  - Fuzzy clustering
-KW  - Multi objective decision making analysis
-KW  - Neural network
-KW  - Robot dynamics
-JF  - IIOAB Journal
-VL  - 7
-SP  - 539
-EP  - 544
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85020099657&partnerID=40&md5=88daee127533ebe94321954e6f216b60
-N1  - Export Date: 5 November 2020
-N2  - As the initial contribution, by employing a neural network, this paper proposes a model to regulate the input voltages of the robot Robuarm based on the desired angle and angular velocity values of its joints. Robuarm is a robot with three degrees of freedom in which each joint has a motor. The proposed model demonstrates an accuracy of 99.5 percent. As the second contribution, based on the policies of focusing on energy consumption reduction, focusing on joints optimal angular velocities and focusing on the optimum angles in joints movements, a hybrid efficient method to select the optimized robot movements is proposed. The proposed method is based on using multi-objective decision-making analysis and fuzzy clustering and finally employing the proposed neural network model to find the optimal solution.
-ER  - 
-TY  - JOUR
-T1  - A new initialisation method for k-means algorithm in the clustering problem: Data analysis
-A1  - Kazemi, Abolfazl
-A1  - Khodabandehlouie, Ghazaleh
-Y1  - 2018///
-KW  - Cluster centre initialisation
-KW  - Clustering
-KW  - Data analysis
-KW  - K-means algorithm
-KW  - Sum of squared error criterion
-JF  - International Journal of Data Analysis Techniques and Strategies
-VL  - 10
-IS  - 3
-SP  - 291
-EP  - 304
-DO  - 10.1504/IJDATS.2018.094127
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052281483&doi=10.1504%2FIJDATS.2018.094127&partnerID=40&md5=95c454fd27480915ef547c9a4da0aa00
-N1  - Cited By :1
-
-Export Date: 5 November 2020
-N2  - Clustering is one of the most important tasks in exploratory data analysis. One of the simplest and the most widely used clustering algorithm is K-means which was proposed in 1955. K-means algorithm is conceptually simple and easy to implement. This is evidenced by hundreds of publications over the last 50 years that extend k-means in various ways. Unfortunately, because of its nature, this algorithm is very sensitive to the initial placement of the cluster centres. In order to address this problem, many initialisation methods (IMs) have been proposed. In this thesis, we first provide a historical overview of these methods. Then we present two new non-random initialisation methods for k-means algorithm. Finally, we analyse the experimental results using real datasets and then the performance of IMs is evaluated by TOPSIS multi-criteria decision-making method. Finally, we prove that not only famous k-means IMs often have poor performance but also there are in fact strong alternative approaches.
-ER  - 
-TY  - JOUR
-T1  - Modelling human decision behaviour with preference learning
-A1  - Aggarwal, Manish
-A1  - Tehrani, Ali Fallah
-Y1  - 2019///
-KW  - Attitudinal character
-KW  - Attitudinal choquet integral
-KW  - Compensative
-KW  - Decision analysis
-KW  - Human aggregation
-KW  - Interactive criteria
-KW  - Multicriteria decision making
-JF  - INFORMS Journal on Computing
-VL  - 31
-IS  - 2
-SP  - 318
-EP  - 334
-DO  - 10.1287/ijoc.2018.0823
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066959333&doi=10.1287%2Fijoc.2018.0823&partnerID=40&md5=ecc338d5defa29f0284e13f18641bee3
-N1  - Cited By :8
-
-Export Date: 5 November 2020
-N2  - Preferences provide a means for specifying the desires of a decision maker (DM) in a declarative way. In this paper, based on a DM’s pairwise preferences, we infer the DM’s unique decision model. We capture (a) the attitudinal character, (b) relative criteria importance, and (c) the criteria interaction, all of which are specific to the DM. We make use of the preference-learning (PL) technique to induce predictive preference models from empirical data. Because PL is emerging as a new subfield of machine learning, we could use standard machine-learning methods to accomplish our learning objective. We consider the DM’s exemplary preference information in the form of pairwise comparisons between alternatives as the training information. The DM’s decision model is captured in terms of (a), (b), and (c), through the parameters of an attitudinal Choquet integral operator. The proposed learning approach is validated through an experimental study on 16 standard data sets. The superiority of the proposed method in terms of predictive accuracy and easier interpretability is shown both theoretically as well as empirically.
-ER  - 
-TY  - JOUR
-T1  - Multi criteria decision making technique for machine learning algorithms: Iterative and non-iterative algorithms
-A1  - Haseena, S.
-A1  - Blessa Binolin Pepsi, M.
-A1  - Saroja, S.
-Y1  - 2020///
-KW  - Data mining
-KW  - Iterative
-KW  - Machine learning
-KW  - Multi Criteria Decision Making
-KW  - Supervised
-KW  - Unsupervised
-JF  - International Journal of Scientific and Technology Research
+KW  - Business ecosystem
+KW  - Combine evaluation
+KW  - Health degree
+KW  - Quantitative analysis
+KW  - Taxi industry
+JF  - European Transport Research Review
 VL  - 9
-IS  - 1
-SP  - 2392
-EP  - 2403
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078924227&partnerID=40&md5=9a82946089891a0ad82d28ec1e28f2ec
-N1  - Export Date: 5 November 2020
-N2  - With increasing amount of data generated every day, there is a need to extract useful information from the data which is an important problem to be solved. Machine learning is a method that enables the computer system to have the intelligence by analyzing the data and building an automated analytical model. The algorithms in machine learning are broadly classified as either iterative or non-iterative algorithms. An optimization algorithm plays a key role in machine learning that is solved by iterative methods that are executed iteratively to generate optimum solution or till a satisfactory solution is obtained. A non-iterative algorithm is computationally faster than iterative algorithms as it does not require iteration or little iter ation to train the data. This paper makes an analysis of these iterative and non-iterative algorithms and performs comparison upon their respective advantages and drawbacks. These algorithms are compared based on various parameters such as time taken to build the model, correctly and wrongly classified instances, mean absolute error, root means square error, true positive, false positive, precision and recall are computed. Multi Criteria Decision Making method such as TOPSIS is used to improve the efficiency of the decision making process by suggesting best machine learning technique that improves classification.
+IS  - 2
+DO  - 10.1007/s12544-017-0241-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018398143&doi=10.1007%2Fs12544-017-0241-0&partnerID=40&md5=b0e77f79068b2957f54b447fb780879b
+N1  - Cited By :1
+
+Export Date: 5 November 2020
+N2  - Introduction: The taxi industry has boomed over the years, both in street-hail and dispatch market. However, few studies focus on comprehensive perspectives, which make decisions such as implementing regulative or incentive policies difficult. As an economic community working in the value-oriented process, the taxi industry requires a holistic performance evaluation to determine how to adapt strategies to survive and grow. Methods: This paper proposed the concept “Taxi Industry Health degree” based on the theory of Business Ecosystem and the evaluation of its health. A four-layer criteria set is developed from aspects of robustness, productivity and sustainability, and weights are determined through Analytic Hierarchy Process. Results: A synthetic evaluating model combining Fuzzy Comprehensive Evaluation and Artificial Neural Network is used to maintain the goal of multi-criteria decision-making. With the GPS and Taximeter dataset of taxicabs in the whole taxi industry in Wuxi, the model is applied to empirical studies. Conclusions: This paper provides sensibility analysis on not only the company’s order volatility, revenue growth and utilization of resources, but also influence on citizen’s welfare, energy consumption and environmental pollution, which enables practical regulations and policies within taxi industry.
 ER  - 
 TY  - JOUR
-T1  - Deep Q-network-based multi-criteria decision-making framework for virtual simulation environment
-A1  - Jang, Hyeonjun
-A1  - Hao, Shujia
-A1  - Chu, Phuong Minh
-A1  - Sharma, Pradip Kumar
-A1  - Sung, Yunsick
-A1  - Cho, Kyungeun
+T1  - MCDA-based deliberation to value health states: Lessons learned from a pilot study
+A1  - Gansen, Fabia
+A1  - Klinger, Julian
+A1  - Rogowski, Wolf
+Y1  - 2019///
+KW  - Deliberation
+KW  - Germany
+KW  - Health state valuation
+KW  - MACBETH
+KW  - MCDA
+KW  - SF-6D
+JF  - Health and Quality of Life Outcomes
+VL  - 17
+IS  - 1
+DO  - 10.1186/s12955-019-1189-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068507026&doi=10.1186%2Fs12955-019-1189-7&partnerID=40&md5=70eae7d4a0c5f50ae082653877c8165f
+N1  - Cited By :5
+
+Export Date: 5 November 2020
+N2  - Background: Health economists have shown a growing interest in deliberation and multi-criteria decision analysis (MCDA) as possible pathways to transparently integrate value judgments in cost-utility analyses. In line with these developments, this study piloted a consensus process to derive a German value set for the Short-Form Six-Dimension (SF-6D). In a conference setting, a group was tasked to deliberate on scores and weights for the SF-6D from the perspective of a self-determined and independent life. Methods: The one-day consensus conference was based on a deliberative process in combination with the MCDA method MACBETH (Measuring Attractiveness by a Categorical Based Evaluation Technique). According to MACBETH, participants were asked to qualitatively rate pairwise comparisons of SF-6D health states. The scoring within each dimension was conducted in parallel group sessions. Final agreement on the scores as well as weights for the SF-6D dimensions were derived in a subsequent plenary assembly. Results were analyzed using the software M-MACBETH and qualitative content analysis. Results: A total of 34 participants were recruited. While each of the 6 small groups presented a consented score, the plenary assembly reached consensus on all dimensions apart from pain. Concerning dimension weights, some participants favored prioritizing pain and mental health. Others disputed that trade-offs between dimensions and thus assigning weights were not acceptable in a context where this may involve withholding care from someone. As a consequence, no consensus on a value set was reached. Participants identified the group size of the plenary session and the applied weighting procedure as main obstacles to the process. Conclusions: This pilot study presents a consensus-based approach for valuing health-related quality of life. However, further research is needed on deliberative processes that yield quantifiable results. Future conferences should explore smaller group sizes, longer durations of the deliberative process and alternatives to the additive value function applied in MACBETH.
+ER  - 
+TY  - JOUR
+T1  - Hybrid model combined fuzzy multi-objective decision making with feed forward neural network (F-MODM-FFNN) for very short-term load forecasting based on weather data
+A1  - Yundra, Eppy
+A1  - Kartini, Unit Three
+A1  - Wardani, Laili Ika
+A1  - Ardianto, Dwi
 Y1  - 2020///
-KW  - Behavior planning
-KW  - Big data
-KW  - Deep learning
-KW  - Motivation system
-KW  - Nature inspired algorithm
-PB  - Springer
-JF  - Neural Computing and Applications
-DO  - 10.1007/s00521-020-04918-3
-UR  - https://link.springer.com/content/pdf/10.1007/s00521-020-04918-3.pdf
-N2  - Deep learning improves the realistic expression of virtual simulations specifically to solve multi-criteria decision-making problems, which are generally rely on high-performance artificial intelligence. This study was inspired by the motivation theory and natural life observations. Recently, motivation-based control has been actively studied for realistic expression, but it presents various problems. For instance, it is hard to define the relation among multiple motivations and to select goals based on multiple motivations. Behaviors should generally be practiced to take into account motivations and goals. This paper proposes a deep Q-network (DQN)-based multi-criteria decision-making framework for virtual agents in real time to automatically select goals based on motivations in virtual simulation environments and to plan relevant behaviors to achieve those goals. All motivations are classified according to the five-level Maslow’s hierarchy of needs, and the virtual agents train a double DQN by big social data, select optimal goals depending on motivations, and perform behaviors relying on a predefined hierarchical task networks (HTNs). Compared to the state-of-the-art method, the proposed framework is efficient and reduced the average loss from 0.1239 to 0.0491 and increased accuracy from 63.24 to 80.15%. For behavioral performance using predefined HTNs, the number of methods has increased from 35 in the Q network to 1511 in the proposed framework, and the computation time of 10,000 behavior plans reduced from 0.118 to 0.1079 s.
+KW  - Forecasting
+KW  - Fuzzy-multi objective decision making-feed forward
+KW  - Hybrid
+KW  - Load
+KW  - Modelling
+KW  - Thermal generation
+KW  - Weather
+JF  - International Journal of Intelligent Engineering and Systems
+VL  - 13
+IS  - 4
+SP  - 182
+EP  - 195
+DO  - 10.22266/IJIES2020.0831.16
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089504542&doi=10.22266%2FIJIES2020.0831.16&partnerID=40&md5=e043170b9738c77d167444724700f257
+N1  - Export Date: 5 November 2020
+N2  - This research paper proposes a new hybrid methodology for very short-term load forecasting of hourly or designed to predict load for 1 hour ahead. The proposed hybrid methodology is based on weather data especially for optimizing the operation of power generating electricity from thermal generation. This hybrid modelling is a combination of the Fuzzy-Multi-Objective Decision-Making and feed-forward-Neural Network method. The novelty of this hybrid model is taking into account the weather and meteorology data. The first hybrid model implements Fuzzy-Multi Objective Decision Making as an input data pre-processing technique before the feed-forward Neural Network model. The error statistical indicators of the Fuzzy-Multi Objective Decision Making-Feed Forward Neural Network) model for mean square error is the mean value error 0.001 and root mean square error is mean value error 0.2. Note that the highest root means square error was 4.43 MW and the mean square error was 837.8 MW during the sixteen periods.
+ER  - 
+TY  - JOUR
+T1  - Multi-objective Decision in Machine Learning
+A1  - de Medeiros, Talles Henrique
+A1  - Rocha, Honovan Paz
+A1  - Torres, Frank Sill
+A1  - Takahashi, Ricardo Hiroshi Caldeira
+A1  - Braga, Antônio Pádua
+Y1  - 2017///
+KW  - Classification
+KW  - Decision-making
+KW  - Machine learning
+KW  - Multi-objective optimization
+JF  - Journal of Control, Automation and Electrical Systems
+VL  - 28
+IS  - 2
+SP  - 217
+EP  - 227
+DO  - 10.1007/s40313-016-0295-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014862668&doi=10.1007%2Fs40313-016-0295-6&partnerID=40&md5=648804e246d696c63301d0787ee6819b
+N1  - Cited By :4
+
+Export Date: 5 November 2020
+N2  - This work presents a novel approach for decision-making for multi-objective binary classification problems. The purpose of the decision process is to select within a set of Pareto-optimal solutions, one model that minimizes the structural risk (generalization error). This new approach utilizes a kind of prior knowledge that, if available, allows the selection of a model that better represents the problem in question. Prior knowledge about the imprecisions of the collected data enables the identification of the region of equivalent solutions within the set of Pareto-optimal solutions. Results for binary classification problems with sets of synthetic and real data indicate equal or better performance in terms of decision efficiency compared to similar approaches.
 ER  - 
 TY  - PDF
 T1  - Intelligent forecasting in multi-criteria decision-making
@@ -540,6 +619,27 @@ N1  - Cited By (since 2020): 1
 N2  - In this paper, the subject of the research is the intelligent forecasting in multi-criteria decision-making, in particular, methods of prediction of time series: traditional models of autoregression, smoothing techniques and machine learning methods with the use of artificial neural networks and deep learning. Time series of Amazon share prices from the official sources over the past years serve as a base for exploration. The purpose of the work is to find out the parameters that influence the efficiency and accuracy of models for analysis and forecast the share prices. Such assessment is complicated and vital because various types of criteria, in particular, sales and profitability, market indexes, exchange rates and general trends, etc., usually influence the decision-making process. The methods of research include the consideration and analysis of prediction methods using specific metrics. The relevance of the topic assumes that the accurate prediction at the financial market may contribute to the financial benefits for companies, government and other players on stock exchanges. A comparative analysis of the considered forecasting methods was conducted. It allows choosing the most appropriate intellectual method for increasing the efficiency of a specific share price prediction. The further development of the subject of research includes ensemble-learning methods for neural networks, feature engineering, collecting a more extensive data set for forecasting.
 ER  - 
 TY  - JOUR
+T1  - Data-driven multiobjective decision-making in cash management
+A1  - Salas-Molina, Francisco
+A1  - Rodríguez-Aguilar, Juan A.
+Y1  - 2018///
+KW  - Cash management
+KW  - Integration
+KW  - Machine learning
+KW  - Multiobjective decision-making
+JF  - EURO Journal on Decision Processes
+VL  - 6
+IS  - 1-2
+SP  - 77
+EP  - 91
+DO  - 10.1007/s40070-017-0075-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062693338&doi=10.1007%2Fs40070-017-0075-y&partnerID=40&md5=a61695a1301791b1b6370bfb085e7ff7
+N1  - Cited By :1
+
+Export Date: 5 November 2020
+N2  - The volume and availability of business and finance data may continue to increase in the near future. However, the utility of such data is by no means straightforward due to a lack of integration between data-driven techniques and usual decision-making processes. This paper aims to integrate data with multiobjective decision-making in cash management by means of machine learning. To this end, we first consider cash flow forecasting as a data-driven procedure to be used as a key input to multiobjective cash management problem in which both cost and risk are goals to minimize. Next, we compute the forecasting premium, namely, how much value can be achieved in exchange of predictive accuracy. Finally, we provide cash managers with a general methodology to improve decision-making in cash management through the use of data and machine learning techniques. This methodology is based on a novel closed-loop procedure in which the estimated forecasting premium (if any) is used as a critical feedback information to find better forecasting models and, ultimately, better cost-risk results in cash management.
+ER  - 
+TY  - JOUR
 T1  - A multicriteria decision making approach for estimating the number of clusters in a data set
 A1  - Peng, Yi
 A1  - Zhang, Yong
@@ -555,71 +655,6 @@ N1  - Cited By :20
 
 Export Date: 5 November 2020
 N2  - Determining the number of clusters in a data set is an essential yet difficult step in cluster analysis. Since this task involves more than one criterion, it can be modeled as a multiple criteria decision making (MCDM) problem. This paper proposes a multiple criteria decision making (MCDM)-based approach to estimate the number of clusters for a given data set. In this approach, MCDM methods consider different numbers of clusters as alternatives and the outputs of any clustering algorithm on validity measures as criteria. The proposed method is examined by an experimental study using three MCDM methods, the well-known clustering algorithm-k-means, ten relative measures, and fifteen public-domain UCI machine learning data sets. The results show that MCDM methods work fairly well in estimating the number of clusters in the data and outperform the ten relative measures considered in the study. © 2012 Peng et al.
-ER  - 
-TY  - JOUR
-T1  - A neural-MCDM-based routing protocol for packet transmission in mobile ad hoc networks
-A1  - Gharajeh, Mohammad Samadi
-Y1  - 2018///
-KW  - MANET
-KW  - MCDM
-KW  - Mobile ad hoc network
-KW  - Multi-criteria decision-making
-KW  - Network lifetime
-KW  - Network traffic
-KW  - Neural network
-KW  - Packet delivery ratio
-KW  - Packet transmission
-KW  - Routing protocol
-KW  - Smart routing
-KW  - Wireless networking
-JF  - International Journal of Communication Networks and Distributed Systems
-VL  - 21
-IS  - 4
-SP  - 496
-EP  - 527
-DO  - 10.1504/IJCNDS.2018.095364
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054499071&doi=10.1504%2FIJCNDS.2018.095364&partnerID=40&md5=8e408911531e91e0300a98db014a487a
-N1  - Export Date: 5 November 2020
-N2  - This paper proposes a novel neural-MCDM-based routing protocol, called NMRouting, to transmit data packets in mobile ad hoc network (MANET). Data packets are transmitted through neighbouring nodes that have high success rates from among a list of available neighbours. A perceptron-based neural controller specifies a success rate for every neighbour based on remaining energy, occupied buffer, and mobility speed. A MCDM controller determines the number of paths based on packet priority rate, distance, and average mobility speed. An energy management model is suggested to conduct energy consumption of the nodes efficiently as well as three queue types - critical, reliability, and ordinary - are considered to guarantee network reliability. Besides, the paper presents UML diagrams to develop NMRouting in real applications. Simulation results show that the proposed protocol has a high performance in terms of packet delivery ratio, network lifetime, and network traffic, compared to DSR, AODV, DPG and QMRPRNS.
-ER  - 
-TY  - SER
-T1  - A two-stage multi-objective deep reinforcement learning framework
-A1  - Chen, Diqi
-A1  - Wang, Yizhou
-A1  - Gao, Wen
-Y1  - 2020///
-JF  - Frontiers in Artificial Intelligence and Applications
-VL  - 325
-SP  - 1063
-EP  - 1070
-SN  - 9781643681009
-DO  - 10.3233/FAIA200202
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090079565&doi=10.3233%2FFAIA200202&partnerID=40&md5=0966c608eb94e28e4b67cefd6e40121c
-N1  - Cited By :1
-
-Export Date: 5 November 2020
-N2  - In multi-objective decision making problems, multi-objective reinforcement learning (MORL) algorithms aim to approximate the Pareto frontier uniformly. A naive approach is to learn multiple policies by repeatedly running a single-objective reinforcement learning (RL) algorithm on scalarized rewards. The scalarization methods denote the preferences of objectives, which are different in each run. However, in this way, the model representation and computation are redundant. Furthermore, uniform preferences can not guarantee a uniformly approximated Pareto frontier. To address these problems and leverage the expressive power of deep neural networks, we propose a two-stage MORL framework integrating a multi-policy deep RL algorithm and an evolution strategy algorithm. Firstly, a multi-policy soft actor-critic algorithm is proposed to collaboratively learn multiple policies which are assigned with different scalarization weights. The lower layers of all policy networks are shared. The first-stage learning can be regarded as representation learning. Secondly, the multi-objective covariance matrix adaptation evolution strategy (MO-CMA-ES) is applied to fine-tune policy-independent parameters to approach a dense and uniform estimation of the Pareto frontier. Experimental results on two benchmarks (Deep Sea Treasure and Adaptive Streaming) show the superiority of the proposed method.
-ER  - 
-TY  - JOUR
-T1  - Fuzzy multi-attribute decision making for software defect detection model evaluation
-A1  - Lei, Yunjie
-A1  - Ma, Ying
-A1  - Chen, Shunyi
-A1  - Sun, Yu
-A1  - Wu, Keshou
-Y1  - 2020///
-KW  - Model evaluation
-KW  - Multi-objective decision making algorithm
-KW  - Software defect detection
-PB  - search.ebscohost.com
-JF  - International Journal of Performability Engineering
-VL  - 16
-IS  - 1
-SP  - 78
-EP  - 86
-DO  - 10.23940/ijpe.20.01.p9.7886
-UR  - http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=09731318&AN=141855945&h=xbCLdpCq0mr2YaPH97gtj4q1XfHD9gfVwVVqFAXXLEWFPOJIqk3NhL8bzqpZFGxubElkS7DhmeNA%2F0yV9idWBw%3D%3D&crl=c
-N2  - With the continuous expansion of the computer system application field, the complexity of software system is also improving. Software defect detection has gradually become an important research direction in the field of software engineering. At present, the mixed statistics and machine learning methods have been proved to be able to implement software defect detection models well. However, the evaluation index of the detection model is diverse and it is difficult to determine which model evaluation indicators are in line with the actual expectations. Aiming at this kind of problem, a software defect detection model evaluation method based on fuzzy multi-objective attribute decision making is proposed. First, extract the characteristics of software modules, use McCabe and Halstead software modules to measure attributes. Then select five common classification algorithms to establish software defect detection models, and obtain seven evaluation index values of each model. Further, based on fuzzy multi-objective attribute decision making method with fuzzy analytic hierarchy process (FAHP) to compare multiple objectives, and obtain the results of index determination. Finally, the fuzzy evaluation algorithm is used to convert the evaluation index of qualitative evaluation into quantitative evaluation to obtain the final decision evaluation value. The experimental results show the effectiveness and practicality of the method.
 ER  - 
 TY  - JOUR
 T1  - Coreference resolution using neural MCDM and fuzzy weighting technique
@@ -642,171 +677,28 @@ DO  - 10.2991/ijcis.d.200121.001
 UR  - https://www.atlantis-press.com/journals/ijcis/125932625
 N2  - Coreference resolution has been an active field of research in the past several decades and plays a vital role in many areas such as information extraction, document summarization, machine translation, and question answering systems. This paper presents a new coreference resolution approach by incorporating RoBERTa embedding with a neural multi-criteria decision making (MCDM) method. The proposed model does not use any syntactic and dependency parser. Mentions were extracted from the text with an unhand engineered mention detector and features were extracted from a deep neural network. Next, the problem is modeled in the form of effective parameters of the performance such as error rate reduction and enhances the F1 by Kohonen MCDM neural network. The weights assigned to the features represent their importance and suggests the best reference for a mention where such weights are computed using a fuzzy weighting method. Comparing to state-of-the-art coreference resolution models, the simulation results show significant improvements for the proposed approach on different datasets in terms of precision and recall and achieving marginal improvements on the following datasets: English CoNLL-2012 shared task (+3.1 F1), Yahoo’s news site (+6.6 F1), and English Gigaword (+7.04).
 ER  - 
-TY  - SER
-T1  - Use of MCDM and AI Techniques for Mechanization of In-Service Inspection Planning Process
-A1  - Seneviratne, A. M.N.D.B.
-A1  - Ratnayake, R. M.Chandima
-Y1  - 2014///
-KW  - AI techniques
-KW  - Aging O&G P&PFs
-KW  - In-service inspection planning
-KW  - Inspection programs
-KW  - MCDM techniques
-JF  - IFIP Advances in Information and Communication Technology
-VL  - 440
-IS  - PART 3
-SP  - 264
-EP  - 271
-SN  - 9783662447321
-DO  - 10.1007/978-3-662-44733-8_33
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906930942&doi=10.1007%2F978-3-662-44733-8_33&partnerID=40&md5=b6418bcc25decce9ab424d71784c3ca7
-N1  - Export Date: 5 November 2020
-N2  - The in-service inspection planning process for topside piping equipment of aging oil and gas (O&G) production and process facilities (P&PFs) involves personnel with different kinds of expertise, experience, and knowledge as well as a vast amount of data and information. To simplify the inspection planning process and increase the quality of an inspection program, various industrial organizations as well as researchers have been developing numerous techniques in an isolated fashion to address the challenges pertaining to different activities involved in the inspection planning process. In order to mechanize the overall inspection process, suitable techniques need to be identified for the different activities carried out in a generic inspection planning process. This manuscript discusses the potential use of multi-criteria decision analysis (MCDM) and artificial intelligence (AI) techniques. It also provides evidence about the suitability of AI techniques in relation to fuzzy logic and artificial neural networks for the mechanization of the inspection planning process in a dynamic manner. © IFIP International Federation for Information Processing 2014.
-ER  - 
 TY  - JOUR
-T1  - Multi-objective Decision in Machine Learning
-A1  - de Medeiros, Talles Henrique
-A1  - Rocha, Honovan Paz
-A1  - Torres, Frank Sill
-A1  - Takahashi, Ricardo Hiroshi Caldeira
-A1  - Braga, Antônio Pádua
-Y1  - 2017///
-KW  - Classification
-KW  - Decision-making
+T1  - Machine learning based decision support systems (DSS) for heart disease diagnosis: a review
+A1  - Safdar, Saima
+A1  - Zafar, Saad
+A1  - Zafar, Nadeem
+A1  - Khan, Naurin Farooq
+Y1  - 2018///
+KW  - Clinical
+KW  - Decision support systems
+KW  - Heart diseases
 KW  - Machine learning
-KW  - Multi-objective optimization
-JF  - Journal of Control, Automation and Electrical Systems
-VL  - 28
-IS  - 2
-SP  - 217
-EP  - 227
-DO  - 10.1007/s40313-016-0295-6
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014862668&doi=10.1007%2Fs40313-016-0295-6&partnerID=40&md5=648804e246d696c63301d0787ee6819b
-N1  - Cited By :4
-
-Export Date: 5 November 2020
-N2  - This work presents a novel approach for decision-making for multi-objective binary classification problems. The purpose of the decision process is to select within a set of Pareto-optimal solutions, one model that minimizes the structural risk (generalization error). This new approach utilizes a kind of prior knowledge that, if available, allows the selection of a model that better represents the problem in question. Prior knowledge about the imprecisions of the collected data enables the identification of the region of equivalent solutions within the set of Pareto-optimal solutions. Results for binary classification problems with sets of synthetic and real data indicate equal or better performance in terms of decision efficiency compared to similar approaches.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria decision making based architecture selection for single-hidden layer feedforward neural networks
-A1  - Wang, Ran
-A1  - Xie, Haoran
-A1  - Feng, Jiqiang
-A1  - Wang, Fu Lee
-A1  - Xu, Chen
-Y1  - 2019///
-KW  - Architecture selection
-KW  - Extreme learning machine
-KW  - Localized generalization error model
-KW  - Multi-criteria decision making
-JF  - International Journal of Machine Learning and Cybernetics
-VL  - 10
+JF  - Artificial Intelligence Review
+VL  - 50
 IS  - 4
-SP  - 655
-EP  - 666
-DO  - 10.1007/s13042-017-0746-9
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046580924&doi=10.1007%2Fs13042-017-0746-9&partnerID=40&md5=ae8d2fe531b9417b40ac63b6da701163
-N1  - Cited By :4
+SP  - 597
+EP  - 623
+DO  - 10.1007/s10462-017-9552-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016028050&doi=10.1007%2Fs10462-017-9552-8&partnerID=40&md5=9d0cddfba7f43cd206a3d911c8a1c0a3
+N1  - Cited By :16
 
 Export Date: 5 November 2020
-N2  - Architecture selection is a fundamental problem in artificial neural networks, which could be treated as a decision making process that evaluates, ranks, and makes choices from a set of network structures. Traditional methods evaluate a network structure by designing a criterion based on a validation model or an error bound model. On one hand, the time complexity of a validation model is usually high; on the other hand, different validation models or error bound models may lead to different (even conflicting) results, which post challenges to the traditional single criterion-based architecture selection methods. In the area of decision making, many problems employed multiple criteria since the performance is better than using a single criterion. In this paper, we propose a multi-criteria decision making based architecture selection algorithm for single-hidden layer feedforward neural networks trained by extreme learning machine. Two criteria are incorporated into the selection process, i.e., training accuracy and the Q-value estimated by the localized generalization error model. The training accuracy reflects the capability of the model on correctly categorizing the known samples, and the Q-value estimated by localized generalization error model reflects the size of the neighbourhood of training samples in which the model can predict unseen samples with confidence. By achieving a trade-off between these two criteria, a new architecture selection algorithm is proposed. Experimental comparisons demonstrate the feasibility and effectiveness of the proposed method.
-ER  - 
-TY  - JOUR
-T1  - Hybrid model combined fuzzy multi-objective decision making with feed forward neural network (F-MODM-FFNN) for very short-term load forecasting based on weather data
-A1  - Yundra, Eppy
-A1  - Kartini, Unit Three
-A1  - Wardani, Laili Ika
-A1  - Ardianto, Dwi
-Y1  - 2020///
-KW  - Forecasting
-KW  - Fuzzy-multi objective decision making-feed forward
-KW  - Hybrid
-KW  - Load
-KW  - Modelling
-KW  - Thermal generation
-KW  - Weather
-JF  - International Journal of Intelligent Engineering and Systems
-VL  - 13
-IS  - 4
-SP  - 182
-EP  - 195
-DO  - 10.22266/IJIES2020.0831.16
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089504542&doi=10.22266%2FIJIES2020.0831.16&partnerID=40&md5=e043170b9738c77d167444724700f257
-N1  - Export Date: 5 November 2020
-N2  - This research paper proposes a new hybrid methodology for very short-term load forecasting of hourly or designed to predict load for 1 hour ahead. The proposed hybrid methodology is based on weather data especially for optimizing the operation of power generating electricity from thermal generation. This hybrid modelling is a combination of the Fuzzy-Multi-Objective Decision-Making and feed-forward-Neural Network method. The novelty of this hybrid model is taking into account the weather and meteorology data. The first hybrid model implements Fuzzy-Multi Objective Decision Making as an input data pre-processing technique before the feed-forward Neural Network model. The error statistical indicators of the Fuzzy-Multi Objective Decision Making-Feed Forward Neural Network) model for mean square error is the mean value error 0.001 and root mean square error is mean value error 0.2. Note that the highest root means square error was 4.43 MW and the mean square error was 837.8 MW during the sixteen periods.
-ER  - 
-TY  - JOUR
-T1  - Application of Different artificial neural networks retention models for multi-criteria decision-making optimization in gradient ion chromatography
-A1  - Bolanča, Tomislav
-A1  - Cerjan-Stefanović, Štefica
-A1  - Luša, Melita
-A1  - Ukić, Šime
-A1  - Rogošić, Marko
-Y1  - 2010///
-KW  - Artificial neural networks
-KW  - Ion chromatography
-KW  - Multi-criteria decision-making
-JF  - Separation Science and Technology
-VL  - 45
-IS  - 2
-SP  - 236
-EP  - 243
-DO  - 10.1080/01496390903417958
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77949358348&doi=10.1080%2F01496390903417958&partnerID=40&md5=3e28dc4b81ccdcbc7787f02528c0a766
-N1  - Cited By :6
-
-Export Date: 5 November 2020
-N2  - In this work, the principles of multi-criteria decision-making were used to develop an efficient optimization strategy in gradient elution ion chromatographic analysis. Two different artificial neural network retention models (multi-layer perceptron and radial basis function), three different separation criterion functions (chromatography response function, separation factor product and normalized retention difference product), and four different robustness criterion functions (CR1-CR4) were examined. The shape of the calculated separation vs the robustness response surface was used as principal criterion. Analysis time and minimum separation of adjacent peaks were additional criteria. The results showed that the radial basis artificial neural network retention model in combination with normalized retention difference product separation criterion function and CR3 robustness criterion function provided the optimal gradient ion chromatographic analysis. © Taylor & Francis Group, LLC.
-ER  - 
-TY  - JOUR
-T1  - Flash-flood susceptibility assessment using multi-criteria decision making and machine learning supported by remote sensing and GIS techniques
-A1  - Costache, Romulus
-A1  - Pham, Quoc Bao
-A1  - Sharifi, Ehsan
-A1  - Linh, Nguyen Thi Thuy
-A1  - Abba, S. I.
-A1  - Vojtek, Matej
-A1  - Vojteková, Jana
-A1  - Nhi, Pham Thi Thao
-A1  - Khoi, Dao Nguyen
-Y1  - 2020///
-KW  - Analytical hierarchy process
-KW  - Flash-flood potential index
-KW  - K-Nearest Neighbor
-KW  - K-Star
-KW  - Machine learning
-KW  - Prahova river catchment
-PB  - mdpi.com
-JF  - Remote Sensing
-VL  - 12
-IS  - 1
-DO  - 10.3390/RS12010106
-UR  - https://www.mdpi.com/2072-4292/12/1/106
-N1  - Cited By (since 2020): 16
-N2  - Concerning the significant increase in the negative effects of flash-floods worldwide, the main goal of this research is to evaluate the power of the Analytical Hierarchy Process (AHP), fi (kNN), K-Star (KS) algorithms and their ensembles in flash-flood susceptibility mapping. To train the two stand-alone models and their ensembles, for the first stage, the areas affected in the past by torrential phenomena are identified using remote sensing techniques. Approximately 70% of these areas are used as a training data set along with 10 flash-flood predictors. It should be remarked that the remote sensing techniques play a crucial role in obtaining eight out of 10 flash-flood conditioning factors. The predictive capability of predictors is evaluated through the Information Gain Ratio (IGR) method. As expected, the slope angle results in the factor with the highest predictive capability. The application of the AHP model implies the construction of ten pair-wise comparison matrices for calculating the normalized weights of each flash-flood predictor. The computed weights are used as input data in kNN-AHP and KS-AHP ensemble models for calculating the Flash-Flood Potential Index (FFPI). The FFPI also is determined through kNN and KS stand-alone models. The performance of the models is evaluated using statistical metrics (i.e., sensitivity, specificity and accuracy) while the validation of the results is done by constructing the Receiver Operating Characteristics (ROC) Curve and Area Under Curve (AUC) values and by calculating the density of torrential pixels within FFPI classes. Overall, the best performance is obtained by the kNN-AHP ensemble model.
-ER  - 
-TY  - JOUR
-T1  - Mining and prioritization of association rules for big data: multi-criteria decision analysis approach
-A1  - Ait-Mlouk, Addi
-A1  - Agouti, Tarik
-A1  - Gharnati, Fatima
-Y1  - 2017///
-KW  - Apache Spark
-KW  - Association rules
-KW  - Big data
-KW  - Data mining
-KW  - Multi-criteria decision analysis
-KW  - PFP-growth
-KW  - Road accident
-JF  - Journal of Big Data
-VL  - 4
-IS  - 1
-DO  - 10.1186/s40537-017-0105-4
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036543658&doi=10.1186%2Fs40537-017-0105-4&partnerID=40&md5=60821a7a768a70b00693deb4f02b7729
-N1  - Cited By :10
-
-Export Date: 5 November 2020
-N2  - Data mining techniques and extracting patterns from large datasets play a vital role in knowledge discovery. Most of the decision makers encounter a large number of decision rules resulted from association rules mining. Moreover, the volume of datasets brings a new challenge to extract patterns such as the cost of computing and inefficiency to achieve the relevant rules. To overcome these challenges, this paper aims to build a learning model based on FP-growth and Apache Spark framework to process and to extract relevant association rules. We also integrate the multi-criteria decision analysis to prioritize the extracted rules by taking into account the decision makers subjective judgment. We believe that this approach would be a useful model to follow, particularly for decision makers who are suffering from conflicts between extracted rules, and difficulties of building only the most interesting rules. Experimental results on road accidents analysis show that the proposed approach can be efficiently achieved more association rules with a higher accuracy rate and improve the response time of the proposed algorithm. The results make clear that the proposed approach performs well and can provide useful information that could help the decision makers to improve road safety.
+N2  - The current review contributes with an extensive overview of decision support systems in diagnosing heart diseases in clinical settings. The investigators independently screened and abstracted studies related to heart diseases-based clinical decision support system (DSS) published until 8-June-2015 in PubMed, CINAHL and Cochrane Library. The data extracted from the twenty full-text articles that met the inclusion criteria was classified under the following fields; heart diseases, methods for data sets formation, machine learning algorithms, machine learning-based DSS, comparator types, outcome evaluation and clinical implications of the reported DSS. Out of total of 331 studies 20 met the inclusion criteria. Most of the studies relate to ischemic heart diseases with neural network being the most common machine learning (ML) technique. Among the ML techniques, ANN classifies myocardial infarction with 97% and myocardial perfusion scintigraphy with 87.5% accuracy, CART classifies heart failure with 87.6%, neural network ensembles classifies heart valve with 97.4%, support vector machine classifies arrhythmia screening with 95.6%, logistic regression classifies acute coronary syndrome with 72%, artificial immune recognition system classifies coronary artery disease with 92.5% and genetic algorithms and multi-criteria decision analysis classifies chest-pain patients with 91% accuracy respectively. There were 55% studies that validated the results in clinical settings while 25% validated the results through experimental setups. Rest of the studies (20%) did not report the applicability and feasibility of their methods in clinical settings. The study categorizes the ML techniques according to their performance in diagnosing various heart diseases. It categorizes, compares and evaluates the comparator based on physician’s performance, gold standards, other ML techniques, different models of same ML technique and studies with no comparison. It also investigates the current, future and no clinical implications. In addition, trends of machine learning techniques and algorithms used in the diagnosis of heart diseases along with the identification of research gaps are reported in this study. The reported results suggest reliable interpretations and detailed graphical self-explanatory representations by DSS. The study reveals the need for establishment of non-ambiguous real-time clinical data for proper training of DSS before it can be used in clinical settings. The future research directions of the ML-based DSS is mostly directed towards development of generalized systems that can decide on clinical measurements which are easily accessible and assessable in real-time.
 ER  - 
 TY  - CONF
 T1  - Research on AHP decision algorithms based on BP algorithm
@@ -824,24 +716,4 @@ DO  - 10.1063/1.5005288
 UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031110083&doi=10.1063%2F1.5005288&partnerID=40&md5=0ce76b268c29c6863be350e00e2041ac
 N1  - Export Date: 5 November 2020
 N2  - Decision making is the thinking activity that people choose or judge, and scientific decision-making has always been a hot issue in the field of research. Analytic Hierarchy Process (AHP) is a simple and practical multi-criteria and multi-objective decision-making method that combines quantitative and qualitative and can show and calculate the subjective judgment in digital form. In the process of decision analysis using AHP method, the rationality of the two-dimensional judgment matrix has a great influence on the decision result. However, in dealing with the real problem, the judgment matrix produced by the two-dimensional comparison is often inconsistent, that is, it does not meet the consistency requirements. BP neural network algorithm is an adaptive nonlinear dynamic system. It has powerful collective computing ability and learning ability. It can perfect the data by constantly modifying the weights and thresholds of the network to achieve the goal of minimizing the mean square error. In this paper, the BP algorithm is used to deal with the consistency of the two-dimensional judgment matrix of the AHP.
-ER  - 
-TY  - CONF
-T1  - Comparative Analysis of Intrusion Detection Approaches
-A1  - Ahmad, Iftikhar
-A1  - Abdullah, Azween B.
-A1  - Alghamdi, Abdullah S.
-Y1  - 2010///
-KW  - Artificial Neural Network (ANN)
-KW  - Detection Rate (DR)
-KW  - Intrusion Detection Approaches (IDAS)
-KW  - Intrusion Detection System (IDS)
-KW  - Multi-Criteria Decesion Making (MCDM)
-PB  - IEEE
-JF  - 2010 12th International Conference on Computer Modelling and Simulation
-SP  - 586
-EP  - 591
-SN  - 978-1-4244-6614-6
-DO  - 10.1109/UKSIM.2010.112
-UR  - https://ieeexplore.ieee.org/document/5481346
-N2  - Information security is a serious issue especially in present age because a solo attack may cause a big harm in computer and network systems. Several intrusion detection approaches exist to tackle this critical issue but the problem is which one is more suitable in the field of intrusion. Further, these approaches are used in intrusion detection systems. Therefore, in this paper, we evaluated them so that a suitable approach may be advised to intrusion detection systems. This work describes the concepts, tool and methodology being used for evaluation analysis of different intrusion detection approaches using multi-criteria decision making technique. Moreover, conclusion on results is made and direction for future works is presented. © 2010 IEEE.
 ER  - 

@@ -1,217 +1,4 @@
 TY  - JOUR
-T1  - Multi-objective design optimization of a rail HVAC CO2 cycle
-A1  - Luger, Christian
-A1  - Rieberer, René
-Y1  - 2018/08//
-KW  - Artificial neural networks
-KW  - Cycle transcritique au R744
-KW  - Dimensionnement du système
-KW  - Front de Pareto
-KW  - Genetic optimization
-KW  - Optimisation gènètique
-KW  - Pareto front
-KW  - Réseaux neuronaux artificiels
-KW  - System dimensioning
-KW  - Transcritical R744 cycle
-JF  - International Journal of Refrigeration
-VL  - 92
-SP  - 133
-EP  - 142
-DO  - 10.1016/j.ijrefrig.2018.05.033
-UR  - http://www.sciencedirect.com/science/article/pii/S0140700718301968
-UR  - https://linkinghub.elsevier.com/retrieve/pii/S0140700718301968
-N2  - In HVAC system design for passenger rail vehicles minimization of objectives on merchantability (initial costs), integration (equipment mass, volume), and operation (electric power demand, noise emissions) becomes increasingly important. Identification of appropriate process and component design parameters is a significant engineering challenge, particularly for emerging R744 (CO2) refrigerant cycles. In this work the sizes of the compressor, evaporator, gas cooler, cooler fan, and internal heat exchanger, plus the high pressure level and the cooler air flow rate of an R744 cycle were subject to multi-objective genetic optimization. Computationally inexpensive artificial neural networks were used as interface between different computation tools. As a result a set of Pareto-optimal R744 cycles was obtained to support the design engineer. For minimum volume and mass (153 l, 169 kg), total electric power demand was 9.2 kW. Vice-versa, minimum power demand (6.9 kW) yielded a large (272 l), heavy (198 kg), and expensive system.
-ER  - 
-TY  - JOUR
-T1  - Novel ensembles of COPRAS multi-criteria decision-making with logistic regression, boosted regression tree, and random forest for spatial prediction of gully erosion susceptibility
-A1  - Arabameri, Alireza
-A1  - Yamani, Mojtaba
-A1  - Pradhan, Biswajeet
-A1  - Melesse, Assefa
-A1  - Shirani, Kourosh
-A1  - Tien Bui, Dieu
-Y1  - 2019///
-KW  - COPRAS
-KW  - Ensemble
-KW  - GIS
-KW  - Gully erosion
-KW  - Machine learning
-KW  - Spatial modeling
-JF  - Science of the Total Environment
-VL  - 688
-SP  - 903
-EP  - 916
-DO  - 10.1016/j.scitotenv.2019.06.205
-UR  - http://www.sciencedirect.com/science/article/pii/S0048969719327767
-N2  - Gully erosion is considered as a severe environmental problem in many areas of the world which causes huge damages to agricultural lands and infrastructures (i.e. roads, buildings, and bridges); however, gully erosion modeling and prediction with high accuracy are still difficult due to the complex interactions of various factors. The objective of this research was to develop and introduce three new ensemble models, which were based on Complex Proportional Assessment of Alternatives (COPRAS), Logistic Regression (LR), Boosted Regression Tree (BRT), Random Forest (RF), and Frequency Ratio (FR) for spatial prediction of gully erosion with a case study at the Najafabad watershed (Iran). For this purpose, a total of 290 head-cut of gullies and 17 conditioning factors were collected and used to establish a geospatial database. Subsequently, FR was used to determine the spatial relationship between the conditioning factors and the head-cut of gullies, whereas RF, BRT, and LR were used to quantify the relative importance of these factors. In the next step, three ensemble gully erosion models, named COPRAS-FR-RF, COPRAS-FR-BRT, and COPRAS-FR-LR were developed and verified. The Success Rate Curve (SRC), and the Prediction Rate Curve (PRC) and their areas under the curves (AUC) were used to check the performance of the three proposed models. The result showed that Soil group, geomorphology, and drainage density factors played the key role on the occurrence of the gully erosion. All the three models have very high degree-of-fit and the prediction performance, the COPRAS-FR-RF model (AUC-SRC = 0.974 and AUC-PRC = 0.929), the COPRAS-FR-BRT model (AUC-SRC = 0.973 and AUC-PRC = 0.928), and the COPRAS-FR-LR model (AUC-SRC = 0.972 and AUC-PRC = 0.926); therefore, it is concluded that they are efficient and new powerful tools which could be used for predicting gully erosion in prone-areas.
-ER  - 
-TY  - JOUR
-T1  - Multi-Objective Model Selection for Unmanned Aerial Vehicles Automatic Target Recognition Systems
-A1  - Alves Ribeiro, Victor Henrique
-A1  - Reynoso-Meza, Gilberto
-A1  - dos Santos Coelho, Leandro
-Y1  - 2017///
-KW  - Artificial neural networks
-KW  - Classifiers
-KW  - Electromagnetic signals
-KW  - Genetic algorithms
-KW  - Multi-objective optimization
-KW  - Optimization
-KW  - Signal processing
-JF  - IFAC-PapersOnLine
-VL  - 50
-IS  - 1
-SP  - 11607
-EP  - 11612
-DO  - 10.1016/j.ifacol.2017.08.1652
-UR  - http://www.sciencedirect.com/science/article/pii/S2405896317322577
-N2  - Within unmanned aerial vehicles on-going research topics, automatic target recognition is acquiring relevance. This is due to the easiness with which it is possible to acquire such devices. In order to do this, signal processing and classification techniques could be adopted. Also, in order to improve the classification ratio, optimization techniques could be used. This subject is object of study for many researchers, but the authors worry about the lack of information while using single-objective optimization techniques. The proposed work comprises the application of multi-objective optimization design in order to create an automatic target recognition system to discriminate different types of unmanned aerial vehicles. In order to accomplish this, a K-band radar system is used to send and receive electromagnetic signals, which are then processed with feature extraction techniques, and finally, applied on an artificial neural network system. In order to improve the system's classification ratio, the classifier is defined as a multi-objective problem, and evolutionary multi-objective optimization techniques are applied. Finally, in order to select the best possible trade-off, the level diagrams multi-criteria decision making methodology is used to compare different solutions.
-ER  - 
-TY  - JOUR
-T1  - Accurate multi-criteria decision making methodology for recommending machine learning algorithm
-A1  - Ali, Rahman
-A1  - Lee, Sungyoung
-A1  - Chung, Tae Choong
-Y1  - 2017///
-KW  - Algorithm recommendation
-KW  - Algorithm selection
-KW  - Classification algorithms
-KW  - Classifiers recommendation
-KW  - Multi-criteria decision making
-KW  - Ranking classifiers
-KW  - TOPSIS
-JF  - Expert Systems with Applications
-VL  - 71
-SP  - 257
-EP  - 278
-DO  - 10.1016/j.eswa.2016.11.034
-UR  - http://www.sciencedirect.com/science/article/pii/S0957417416306698
-N2  - Objective Manual evaluation of machine learning algorithms and selection of a suitable classifier from the list of available candidate classifiers, is highly time consuming and challenging task. If the selection is not carefully and accurately done, the resulting classification model will not be able to produce the expected performance results. In this study, we present an accurate multi-criteria decision making methodology (AMD) which empirically evaluates and ranks classifiers’ and allow end users or experts to choose the top ranked classifier for their applications to learn and build classification models for them. Methods and material Existing classifiers performance analysis and recommendation methodologies lack (a) appropriate method for suitable evaluation criteria selection, (b) relative consistent weighting mechanism, (c) fitness assessment of the classifiers’ performances, and (d) satisfaction of various constraints during the analysis process. To assist machine learning practitioners in the selection of suitable classifier(s), AMD methodology is proposed that presents an expert group-based criteria selection method, relative consistent weighting scheme, a new ranking method, called optimum performance ranking criteria, based on multiple evaluation metrics, statistical significance and fitness assessment functions, and implicit and explicit constraints satisfaction at the time of analysis. For ranking the classifiers performance, the proposed ranking method integrates Wgt.Avg.F-score, CPUTimeTesting, CPUTimeTraining, and Consistency measures using the technique for order performance by similarity to ideal solution (TOPSIS). The final relative closeness score produced by TOPSIS, is ranked and the practitioners select the best performance (top-ranked) classifier for their problems in-hand. Findings Based on the extensive experiments performed on 15 publically available UCI and OpenML datasets using 35 classification algorithms from heterogeneous families of classifiers, an average Spearman's rank correlation coefficient of 0.98 is observed. Similarly, the AMD method has showed improved performance of 0.98 average Spearman's rank correlation coefficient as compared to 0.83 and 0.045 correlation coefficient of the state-of-the-art ranking methods, performance of algorithms (PAlg) and adjusted ratio of ratio (ARR). Conclusion and implication The evaluation, empirical analysis of results and comparison with state-of-the-art methods demonstrate the feasibility of AMD methodology, especially the selection and weighting of right evaluation criteria, accurate ranking and selection of optimum performance classifier(s) for the user's application's data in hand. AMD reduces expert's time and efforts and improves system performance by designing suitable classifier recommended by AMD methodology.
-ER  - 
-TY  - JOUR
-T1  - Neural network application for fuzzy multi-criteria decision making problems
-A1  - Golmohammadi, Davood
-Y1  - 2011///
-KW  - Decision making
-KW  - Fuzzy sets
-KW  - Neural networks
-JF  - International Journal of Production Economics
-VL  - 131
-IS  - 2
-SP  - 490
-EP  - 504
-DO  - 10.1016/j.ijpe.2011.01.015
-UR  - http://www.sciencedirect.com/science/article/pii/S0925527311000302
-N2  - In this paper, a fuzzy multi-criteria decision making model is presented based on a feed forward artificial neural network. This model is used to capture and represent the decision makers preferences. The topology of the neural network model is developed to train the model. The proposed model can use historical data and update the database information for alternatives over time for future decisions. Basically, multi-criteria decision making problems are formulated, and neural network is used to learn the relation among criteria and alternatives and rank the alternatives. We do not use any utility function for the modeling; however, a unique method is proposed for eliciting the information from decision makers. The proposed model is applicable for a wide variety of multi-attribute decision making problems and can be used for future ranking or selection without managers judgment effort. Simulation of the managers decisions is demonstrated in detail and the design and implementation of the model are illustrated by a case study. © 2010 Elsevier B.V. All rights reserved.
-ER  - 
-TY  - JOUR
-T1  - Integration of genetic algorithms and neural networks for the formation of the classifier of the hierarchical Choquet integral
-A1  - Chen, Chin Yi
-A1  - Huang, Jih Jeng
-Y1  - 2020///
-KW  - Fuzzy measure coefficients
-KW  - Genetic algorithms
-KW  - Hierarchical Choquet integral
-KW  - Neural network
-PB  - Elsevier
-JF  - Information Sciences
-VL  - 537
-SP  - 46
-EP  - 61
-DO  - 10.1016/j.ins.2020.05.063
-UR  - https://www.sciencedirect.com/science/article/pii/S0020025520304850
-N2  - The Choquet integral model is mainly applied to describe non-additive multi-criteria decision-making (MCDM) problems. This paper considers the Choquet integral as a classifier which deals with complicated high-dimensional data. Although previously conducted studies have investigated the problem of classification using the Choquet integral and provided corresponding models, these models usually need to estimate a large number of fuzzy measure coefficients, which are not suitable when considering real situations. Sugeno et al. proposed the hierarchical Choquet integral (HCI) model to overcome this problem. However, the HCI model requires partition information of the criteria, which often cannot be obtained practically. This paper proposes two HCI models—shallow and deep models—by employing genetic algorithms (GAs) and neural networks (NNs) to automatically construct the structure of the HCI. The results of numerical experiments show that the proposed model outperforms the existing Naïve Bayes, decision tree, and NN models.
-ER  - 
-TY  - JOUR
-T1  - Sleep EEG signal analysis based on correlation graph similarity coupled with an ensemble extreme machine learning algorithm
-A1  - Abdulla, Shahab
-A1  - Diykh, Mohammed
-A1  - Laft, Raid Luaibi
-A1  - Saleh, Khalid
-A1  - Deo, Ravinesh C.
-Y1  - 2019///
-KW  - Community detection
-KW  - Correlation coefficient
-KW  - EEG signal
-KW  - Ensemble model
-KW  - Sleep stages classification
-JF  - Expert Systems with Applications
-VL  - 138
-SP  - 112790
-EP  - 112790
-DO  - 10.1016/j.eswa.2019.07.007
-UR  - http://www.sciencedirect.com/science/article/pii/S0957417419304865
-N2  - Background: Sleep plays an essential role in repairing and healing human mental and physical health. Developing an efficient method for scoring electroencephalogram (EEG) sleep stages is expected to help medical specialists in the early diagnosis of sleep disorders. Method: In this paper, a novel technique is proposed for classifying sleep stages EEG signals using correlation graphs. First, each 30 s EEG segment is divided into a set of sub-segments. The dimensionality of each sub-segment is reduced by using a statistical model. Second, each EEG segment is transferred into a graph considering each sub-segment as a node in a graph, and a link between each pair of nodes is calculated based on their correlation coefficient. Graph's modularity is used as input features into an ensemble classifier. Results: Different community detection algorithm based correlation graph are investigated to discern the most effective features to reveal the differences between EEG sleep stages. A combination of various classification techniques: a least square vector machine (LS-SVM), k-means, Naïve Bayes, Fuzzy C-means, k-nearest, and logistic regression are tested using multi criteria decision making (MCDM) to design an ensemble classifier. Based on the results of the MCDM, the best four: LS-SVM, Naïve Bayes, logistic regression and k-nearest are integrated, to finally utilise as an ensemble classifier to categorise the graph's characteristics. The results obtained from the ensemble classifier are compared with those from the individual classifiers. The performance of the proposed method is compared with state of the art of sleep stages classification. The experimental results showed that the EEG sleep classification based on correlation graphs are able to achieve better recognition results than the existing state of the art techniques.
-ER  - 
-TY  - JOUR
-T1  - A comparative assessment of flood susceptibility modeling using Multi-Criteria Decision-Making Analysis and Machine Learning Methods
-A1  - Khosravi, Khabat
-A1  - Shahabi, Himan
-A1  - Pham, Binh Thai
-A1  - Adamowski, Jan
-A1  - Shirzadi, Ataollah
-A1  - Pradhan, Biswajeet
-A1  - Dou, Jie
-A1  - Ly, Hai Bang
-A1  - Gróf, Gyula
-A1  - Ho, Huu Loc
-A1  - Hong, Haoyuan
-A1  - Chapi, Kamran
-A1  - Prakash, Indra
-Y1  - 2019///
-KW  - China
-KW  - Flood susceptibility
-KW  - GIS
-KW  - Machine Learning
-KW  - Multi-Criteria Decision-Making
-JF  - Journal of Hydrology
-VL  - 573
-SP  - 311
-EP  - 323
-DO  - 10.1016/j.jhydrol.2019.03.073
-UR  - http://www.sciencedirect.com/science/article/pii/S0022169419303026
-N2  - Floods around the world are having devastating effects on human life and property. In this paper, three Multi-Criteria Decision-Making (MCDM) analysis techniques (VIKOR, TOPSIS and SAW), along with two machine learning methods (NBT and NB), were tested for their ability to model flood susceptibility in one of China's most flood-prone areas, the Ningdu Catchment. Twelve flood conditioning factors were used as input parameters: Normalized Difference Vegetation Index (NDVI), lithology, land use, distance from river, curvature, altitude, Stream Transport Index (STI), Topographic Wetness Index (TWI), Stream Power Index (SPI), soil type, slope and rainfall. The predictive capacity of the models was evaluated and validated using the Area Under the Receiver Operating Characteristic curve (AUC). While all models showed a strong flood prediction capability (AUC > 0.95), the NBT model performed best (AUC = 0.98), suggesting that, among the models studied, the NBT model is a promising tool for the assessment of flood-prone areas and can allow for proper planning and management of flood hazards.
-ER  - 
-TY  - JOUR
-T1  - Applying machine learning to AHP multicriteria decision making method to assets prioritization in the context of industrial maintenance 4.0
-A1  - Lima, Erick
-A1  - Gorski, Ewerton
-A1  - Loures, Eduardo F.R.
-A1  - Portela Santos, Eduardo A.
-A1  - Deschamps, Fernando
-Y1  - 2019///
-KW  - AHP
-KW  - ARA - Attribute Relevance Analysis algorithms
-KW  - Bayesian Networks
-KW  - Industrial Maintenance
-JF  - IFAC-PapersOnLine
-VL  - 52
-IS  - 13
-SP  - 2152
-EP  - 2157
-DO  - 10.1016/j.ifacol.2019.11.524
-UR  - http://www.sciencedirect.com/science/article/pii/S2405896319315083
-N2  - The increasing competition among industries has led to the emergence of numerous tools and methods to support decision making focused on assets maintenance in a company, since ensuring good maintenance is directly linked with greater reliability and uptime for equipment, reducing losses in production processes and consequently increasing profitability. This work aims to use Machine Learning (ML) algorithms - Bayesian Networks (BN) and attribute relevance analysis (ARA), implemented in the Weka® platform, to process a dataset of event logs failure of industrial machine components. The approach aims to use the conditional probability relations generated by the BN and the ranking of criteria relevance for the design of an AHP decision-making model within the scope of industrial maintenance to prioritize which components of a specific machine are more susceptible to failures. The proposed integration mechanism aims to bring greater reliability to the weights assigned to the criteria of the AHP model, and consequently, a more accurate decision support. The results showed that the AHP model generated from a Bayesian Network is consistent with the conditional probabilities estimated by the BN, giving robustness to the decision sphere in the context of industrial maintenance. This AHP model can serve as a basis to be complemented by qualitative analysis criteria according to the need of the individual specialist, allowing the construction of strategic maintenance action plans.
-ER  - 
-TY  - JOUR
-T1  - A semi-automated approach for structuring multi criteria decision problems
-A1  - Maier, Konradin
-A1  - Stix, Volker
-Y1  - 2013///
-KW  - Concept mapping
-KW  - Hierarchical decomposition
-KW  - Multiple criteria analysis
-KW  - Problem structuring
-JF  - European Journal of Operational Research
-VL  - 225
-IS  - 3
-SP  - 487
-EP  - 496
-DO  - 10.1016/j.ejor.2012.10.018
-UR  - http://www.sciencedirect.com/science/article/pii/S0377221712007643
-N2  - This article seeks to enhance multi criteria decision making by providing a scientific approach for decomposing and structuring decision problems. We propose a process, based on concept mapping, which integrates group creativity techniques, card sorting procedures, quantitative data analysis and algorithmic automatization to construct meaningful and complete hierarchies of criteria. The algorithmic aspect is covered by a newly proposed recursive cluster algorithm, which automatically generates hierarchies from card sorting data. Based on comparison with another basic algorithm and empirical engineered and real-case test data, we validate that our process efficiently produces reasonable hierarchies of descriptive elements like goal- or problem-criteria. © 2012 Elsevier B.V. All rights reserved.
-ER  - 
-TY  - JOUR
 T1  - GIS-based comparative assessment of flood susceptibility mapping using hybrid multi-criteria decision-making approach, naïve Bayes tree, bivariate statistics and logistic regression: A case of Topľa basin, Slovakia
 A1  - Ali, Sk Ajim
 A1  - Parvin, Farhana
@@ -275,23 +62,156 @@ UR  - http://www.sciencedirect.com/science/article/pii/S1568494619304442
 N2  - In the last few years, machine learning techniques have been successfully applied to solve engineering problems. However, owing to certain complexities found in real-world problems, such as class imbalance, classical learning algorithms may not reach a prescribed performance. There can be situations where a good result on different conflicting objectives is desirable, such as true positive and true negative ratios, or it is important to balance model's complexity and prediction score. To solve such issues, the application of multi-objective optimization design procedures can be used to analyze various trade-offs and build more robust machine learning models. Thus, the creation of ensembles of predictive models using such procedures is addressed in this work. First, a set of diverse predictive models is built by employing a multi-objective evolutionary algorithm. Next, a second multi-objective optimization step selects the previous models as ensemble members, resulting on several non-dominated solutions. A final multi-criteria decision making stage is applied to rank and visualize the resulting ensembles. To analyze the proposed methodology, two different experiments are conducted for binary classification. The first case study is a famous classification problem through which the proposed procedure is illustrated. The second one is a challenging real-world problem related to water quality monitoring, where the proposed procedure is compared to four classical ensemble learning algorithms. Results on this second experiment show that the proposed technique is able to create robust ensembles that can outperform other ensemble methods. Overall, the authors conclude that the proposed methodology for ensemble generation creates competitive models for real-world engineering problems.
 ER  - 
 TY  - JOUR
-T1  - An analysis of African airlines efficiency with two-stage TOPSIS and neural networks
-A1  - Barros, Carlos Pestana
-A1  - Wanke, Peter
-Y1  - 2015///
-KW  - Africa
-KW  - Airlines
-KW  - Efficiency ranks
+T1  - Neural network application for fuzzy multi-criteria decision making problems
+A1  - Golmohammadi, Davood
+Y1  - 2011///
+KW  - Decision making
+KW  - Fuzzy sets
 KW  - Neural networks
+JF  - International Journal of Production Economics
+VL  - 131
+IS  - 2
+SP  - 490
+EP  - 504
+DO  - 10.1016/j.ijpe.2011.01.015
+UR  - http://www.sciencedirect.com/science/article/pii/S0925527311000302
+N2  - In this paper, a fuzzy multi-criteria decision making model is presented based on a feed forward artificial neural network. This model is used to capture and represent the decision makers preferences. The topology of the neural network model is developed to train the model. The proposed model can use historical data and update the database information for alternatives over time for future decisions. Basically, multi-criteria decision making problems are formulated, and neural network is used to learn the relation among criteria and alternatives and rank the alternatives. We do not use any utility function for the modeling; however, a unique method is proposed for eliciting the information from decision makers. The proposed model is applicable for a wide variety of multi-attribute decision making problems and can be used for future ranking or selection without managers judgment effort. Simulation of the managers decisions is demonstrated in detail and the design and implementation of the model are illustrated by a case study. © 2010 Elsevier B.V. All rights reserved.
+ER  - 
+TY  - JOUR
+T1  - Applying machine learning to AHP multicriteria decision making method to assets prioritization in the context of industrial maintenance 4.0
+A1  - Lima, Erick
+A1  - Gorski, Ewerton
+A1  - Loures, Eduardo F.R.
+A1  - Portela Santos, Eduardo A.
+A1  - Deschamps, Fernando
+Y1  - 2019///
+KW  - AHP
+KW  - ARA - Attribute Relevance Analysis algorithms
+KW  - Bayesian Networks
+KW  - Industrial Maintenance
+JF  - IFAC-PapersOnLine
+VL  - 52
+IS  - 13
+SP  - 2152
+EP  - 2157
+DO  - 10.1016/j.ifacol.2019.11.524
+UR  - http://www.sciencedirect.com/science/article/pii/S2405896319315083
+N2  - The increasing competition among industries has led to the emergence of numerous tools and methods to support decision making focused on assets maintenance in a company, since ensuring good maintenance is directly linked with greater reliability and uptime for equipment, reducing losses in production processes and consequently increasing profitability. This work aims to use Machine Learning (ML) algorithms - Bayesian Networks (BN) and attribute relevance analysis (ARA), implemented in the Weka® platform, to process a dataset of event logs failure of industrial machine components. The approach aims to use the conditional probability relations generated by the BN and the ranking of criteria relevance for the design of an AHP decision-making model within the scope of industrial maintenance to prioritize which components of a specific machine are more susceptible to failures. The proposed integration mechanism aims to bring greater reliability to the weights assigned to the criteria of the AHP model, and consequently, a more accurate decision support. The results showed that the AHP model generated from a Bayesian Network is consistent with the conditional probabilities estimated by the BN, giving robustness to the decision sphere in the context of industrial maintenance. This AHP model can serve as a basis to be complemented by qualitative analysis criteria according to the need of the individual specialist, allowing the construction of strategic maintenance action plans.
+ER  - 
+TY  - JOUR
+T1  - Novel ensembles of COPRAS multi-criteria decision-making with logistic regression, boosted regression tree, and random forest for spatial prediction of gully erosion susceptibility
+A1  - Arabameri, Alireza
+A1  - Yamani, Mojtaba
+A1  - Pradhan, Biswajeet
+A1  - Melesse, Assefa
+A1  - Shirani, Kourosh
+A1  - Tien Bui, Dieu
+Y1  - 2019///
+KW  - COPRAS
+KW  - Ensemble
+KW  - GIS
+KW  - Gully erosion
+KW  - Machine learning
+KW  - Spatial modeling
+JF  - Science of the Total Environment
+VL  - 688
+SP  - 903
+EP  - 916
+DO  - 10.1016/j.scitotenv.2019.06.205
+UR  - http://www.sciencedirect.com/science/article/pii/S0048969719327767
+N2  - Gully erosion is considered as a severe environmental problem in many areas of the world which causes huge damages to agricultural lands and infrastructures (i.e. roads, buildings, and bridges); however, gully erosion modeling and prediction with high accuracy are still difficult due to the complex interactions of various factors. The objective of this research was to develop and introduce three new ensemble models, which were based on Complex Proportional Assessment of Alternatives (COPRAS), Logistic Regression (LR), Boosted Regression Tree (BRT), Random Forest (RF), and Frequency Ratio (FR) for spatial prediction of gully erosion with a case study at the Najafabad watershed (Iran). For this purpose, a total of 290 head-cut of gullies and 17 conditioning factors were collected and used to establish a geospatial database. Subsequently, FR was used to determine the spatial relationship between the conditioning factors and the head-cut of gullies, whereas RF, BRT, and LR were used to quantify the relative importance of these factors. In the next step, three ensemble gully erosion models, named COPRAS-FR-RF, COPRAS-FR-BRT, and COPRAS-FR-LR were developed and verified. The Success Rate Curve (SRC), and the Prediction Rate Curve (PRC) and their areas under the curves (AUC) were used to check the performance of the three proposed models. The result showed that Soil group, geomorphology, and drainage density factors played the key role on the occurrence of the gully erosion. All the three models have very high degree-of-fit and the prediction performance, the COPRAS-FR-RF model (AUC-SRC = 0.974 and AUC-PRC = 0.929), the COPRAS-FR-BRT model (AUC-SRC = 0.973 and AUC-PRC = 0.928), and the COPRAS-FR-LR model (AUC-SRC = 0.972 and AUC-PRC = 0.926); therefore, it is concluded that they are efficient and new powerful tools which could be used for predicting gully erosion in prone-areas.
+ER  - 
+TY  - JOUR
+T1  - A comparative assessment of flood susceptibility modeling using Multi-Criteria Decision-Making Analysis and Machine Learning Methods
+A1  - Khosravi, Khabat
+A1  - Shahabi, Himan
+A1  - Pham, Binh Thai
+A1  - Adamowski, Jan
+A1  - Shirzadi, Ataollah
+A1  - Pradhan, Biswajeet
+A1  - Dou, Jie
+A1  - Ly, Hai Bang
+A1  - Gróf, Gyula
+A1  - Ho, Huu Loc
+A1  - Hong, Haoyuan
+A1  - Chapi, Kamran
+A1  - Prakash, Indra
+Y1  - 2019///
+KW  - China
+KW  - Flood susceptibility
+KW  - GIS
+KW  - Machine Learning
+KW  - Multi-Criteria Decision-Making
+JF  - Journal of Hydrology
+VL  - 573
+SP  - 311
+EP  - 323
+DO  - 10.1016/j.jhydrol.2019.03.073
+UR  - http://www.sciencedirect.com/science/article/pii/S0022169419303026
+N2  - Floods around the world are having devastating effects on human life and property. In this paper, three Multi-Criteria Decision-Making (MCDM) analysis techniques (VIKOR, TOPSIS and SAW), along with two machine learning methods (NBT and NB), were tested for their ability to model flood susceptibility in one of China's most flood-prone areas, the Ningdu Catchment. Twelve flood conditioning factors were used as input parameters: Normalized Difference Vegetation Index (NDVI), lithology, land use, distance from river, curvature, altitude, Stream Transport Index (STI), Topographic Wetness Index (TWI), Stream Power Index (SPI), soil type, slope and rainfall. The predictive capacity of the models was evaluated and validated using the Area Under the Receiver Operating Characteristic curve (AUC). While all models showed a strong flood prediction capability (AUC > 0.95), the NBT model performed best (AUC = 0.98), suggesting that, among the models studied, the NBT model is a promising tool for the assessment of flood-prone areas and can allow for proper planning and management of flood hazards.
+ER  - 
+TY  - JOUR
+T1  - Multi-objective design optimization of a rail HVAC CO2 cycle
+A1  - Luger, Christian
+A1  - Rieberer, René
+Y1  - 2018/08//
+KW  - Artificial neural networks
+KW  - Cycle transcritique au R744
+KW  - Dimensionnement du système
+KW  - Front de Pareto
+KW  - Genetic optimization
+KW  - Optimisation gènètique
+KW  - Pareto front
+KW  - Réseaux neuronaux artificiels
+KW  - System dimensioning
+KW  - Transcritical R744 cycle
+JF  - International Journal of Refrigeration
+VL  - 92
+SP  - 133
+EP  - 142
+DO  - 10.1016/j.ijrefrig.2018.05.033
+UR  - http://www.sciencedirect.com/science/article/pii/S0140700718301968
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0140700718301968
+N2  - In HVAC system design for passenger rail vehicles minimization of objectives on merchantability (initial costs), integration (equipment mass, volume), and operation (electric power demand, noise emissions) becomes increasingly important. Identification of appropriate process and component design parameters is a significant engineering challenge, particularly for emerging R744 (CO2) refrigerant cycles. In this work the sizes of the compressor, evaporator, gas cooler, cooler fan, and internal heat exchanger, plus the high pressure level and the cooler air flow rate of an R744 cycle were subject to multi-objective genetic optimization. Computationally inexpensive artificial neural networks were used as interface between different computation tools. As a result a set of Pareto-optimal R744 cycles was obtained to support the design engineer. For minimum volume and mass (153 l, 169 kg), total electric power demand was 9.2 kW. Vice-versa, minimum power demand (6.9 kW) yielded a large (272 l), heavy (198 kg), and expensive system.
+ER  - 
+TY  - JOUR
+T1  - A semi-automated approach for structuring multi criteria decision problems
+A1  - Maier, Konradin
+A1  - Stix, Volker
+Y1  - 2013///
+KW  - Concept mapping
+KW  - Hierarchical decomposition
+KW  - Multiple criteria analysis
+KW  - Problem structuring
+JF  - European Journal of Operational Research
+VL  - 225
+IS  - 3
+SP  - 487
+EP  - 496
+DO  - 10.1016/j.ejor.2012.10.018
+UR  - http://www.sciencedirect.com/science/article/pii/S0377221712007643
+N2  - This article seeks to enhance multi criteria decision making by providing a scientific approach for decomposing and structuring decision problems. We propose a process, based on concept mapping, which integrates group creativity techniques, card sorting procedures, quantitative data analysis and algorithmic automatization to construct meaningful and complete hierarchies of criteria. The algorithmic aspect is covered by a newly proposed recursive cluster algorithm, which automatically generates hierarchies from card sorting data. Based on comparison with another basic algorithm and empirical engineered and real-case test data, we validate that our process efficiently produces reasonable hierarchies of descriptive elements like goal- or problem-criteria. © 2012 Elsevier B.V. All rights reserved.
+ER  - 
+TY  - JOUR
+T1  - Accurate multi-criteria decision making methodology for recommending machine learning algorithm
+A1  - Ali, Rahman
+A1  - Lee, Sungyoung
+A1  - Chung, Tae Choong
+Y1  - 2017///
+KW  - Algorithm recommendation
+KW  - Algorithm selection
+KW  - Classification algorithms
+KW  - Classifiers recommendation
+KW  - Multi-criteria decision making
+KW  - Ranking classifiers
 KW  - TOPSIS
-KW  - Two-stage
-JF  - Journal of Air Transport Management
-VL  - 44-45
-SP  - 90
-EP  - 102
-DO  - 10.1016/j.jairtraman.2015.03.002
-UR  - http://www.sciencedirect.com/science/article/pii/S0969699715000241
-N2  - This paper presents an efficiency assessment of African airlines, using the TOPSIS - Technique for Order Preference by Similarity to the Ideal Solution. TOPSIS is a multi-criteria decision making technique, which similar to DEA (Data Envelopment Analysis), ranks a finite set of units based on the minimisation of distance from an ideal point, and the maximisation of distance from an anti-ideal point. In this research, TOPSIS is used first in a two-stage approach, in order to assess the relative efficiency of African airlines using the most frequent indicators adopted by the literature on airlines. During the second stage, neural networks are combined with TOPSIS results, as part of an attempt to produce a model for airline performance which has effective predictive ability. The results reveal that network size-related variables - economies of scope, are the most important variables for explaining levels of efficiency in the African airline industry, although the impact of fleet mix and public ownership cannot be neglected.
+JF  - Expert Systems with Applications
+VL  - 71
+SP  - 257
+EP  - 278
+DO  - 10.1016/j.eswa.2016.11.034
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417416306698
+N2  - Objective Manual evaluation of machine learning algorithms and selection of a suitable classifier from the list of available candidate classifiers, is highly time consuming and challenging task. If the selection is not carefully and accurately done, the resulting classification model will not be able to produce the expected performance results. In this study, we present an accurate multi-criteria decision making methodology (AMD) which empirically evaluates and ranks classifiers’ and allow end users or experts to choose the top ranked classifier for their applications to learn and build classification models for them. Methods and material Existing classifiers performance analysis and recommendation methodologies lack (a) appropriate method for suitable evaluation criteria selection, (b) relative consistent weighting mechanism, (c) fitness assessment of the classifiers’ performances, and (d) satisfaction of various constraints during the analysis process. To assist machine learning practitioners in the selection of suitable classifier(s), AMD methodology is proposed that presents an expert group-based criteria selection method, relative consistent weighting scheme, a new ranking method, called optimum performance ranking criteria, based on multiple evaluation metrics, statistical significance and fitness assessment functions, and implicit and explicit constraints satisfaction at the time of analysis. For ranking the classifiers performance, the proposed ranking method integrates Wgt.Avg.F-score, CPUTimeTesting, CPUTimeTraining, and Consistency measures using the technique for order performance by similarity to ideal solution (TOPSIS). The final relative closeness score produced by TOPSIS, is ranked and the practitioners select the best performance (top-ranked) classifier for their problems in-hand. Findings Based on the extensive experiments performed on 15 publically available UCI and OpenML datasets using 35 classification algorithms from heterogeneous families of classifiers, an average Spearman's rank correlation coefficient of 0.98 is observed. Similarly, the AMD method has showed improved performance of 0.98 average Spearman's rank correlation coefficient as compared to 0.83 and 0.045 correlation coefficient of the state-of-the-art ranking methods, performance of algorithms (PAlg) and adjusted ratio of ratio (ARR). Conclusion and implication The evaluation, empirical analysis of results and comparison with state-of-the-art methods demonstrate the feasibility of AMD methodology, especially the selection and weighting of right evaluation criteria, accurate ranking and selection of optimum performance classifier(s) for the user's application's data in hand. AMD reduces expert's time and efforts and improves system performance by designing suitable classifier recommended by AMD methodology.
 ER  - 
 TY  - JOUR
 T1  - On learning of weights through preferences
@@ -310,6 +230,68 @@ EP  - 102
 DO  - 10.1016/j.ins.2015.05.034
 UR  - http://www.sciencedirect.com/science/article/pii/S002002551500393X
 N2  - Abstract We present a method to learn the criteria weights in multi-criteria decision making (MCDM) by applying emerging learning-to-rank machine learning techniques. Given the pairwise preferences by a decision maker (DM), we learn the weights that the DM attaches to the multiple criteria, characterizing each alternative. As the training information, our method requires the pairwise preferences of alternatives, as revealed by the DM. Once, the DM's decision model is learnt in terms of the criteria weights, it can be applied to predict his choices for any new set of alternatives. The empirical validation of the proposed approach is done on a collection of 12 standard datasets. The accuracy values are compared with those obtained for the state-of-the-art methods such as ranking-SVM and TOPSIS.
+ER  - 
+TY  - JOUR
+T1  - Sleep EEG signal analysis based on correlation graph similarity coupled with an ensemble extreme machine learning algorithm
+A1  - Abdulla, Shahab
+A1  - Diykh, Mohammed
+A1  - Laft, Raid Luaibi
+A1  - Saleh, Khalid
+A1  - Deo, Ravinesh C.
+Y1  - 2019///
+KW  - Community detection
+KW  - Correlation coefficient
+KW  - EEG signal
+KW  - Ensemble model
+KW  - Sleep stages classification
+JF  - Expert Systems with Applications
+VL  - 138
+SP  - 112790
+EP  - 112790
+DO  - 10.1016/j.eswa.2019.07.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417419304865
+N2  - Background: Sleep plays an essential role in repairing and healing human mental and physical health. Developing an efficient method for scoring electroencephalogram (EEG) sleep stages is expected to help medical specialists in the early diagnosis of sleep disorders. Method: In this paper, a novel technique is proposed for classifying sleep stages EEG signals using correlation graphs. First, each 30 s EEG segment is divided into a set of sub-segments. The dimensionality of each sub-segment is reduced by using a statistical model. Second, each EEG segment is transferred into a graph considering each sub-segment as a node in a graph, and a link between each pair of nodes is calculated based on their correlation coefficient. Graph's modularity is used as input features into an ensemble classifier. Results: Different community detection algorithm based correlation graph are investigated to discern the most effective features to reveal the differences between EEG sleep stages. A combination of various classification techniques: a least square vector machine (LS-SVM), k-means, Naïve Bayes, Fuzzy C-means, k-nearest, and logistic regression are tested using multi criteria decision making (MCDM) to design an ensemble classifier. Based on the results of the MCDM, the best four: LS-SVM, Naïve Bayes, logistic regression and k-nearest are integrated, to finally utilise as an ensemble classifier to categorise the graph's characteristics. The results obtained from the ensemble classifier are compared with those from the individual classifiers. The performance of the proposed method is compared with state of the art of sleep stages classification. The experimental results showed that the EEG sleep classification based on correlation graphs are able to achieve better recognition results than the existing state of the art techniques.
+ER  - 
+TY  - JOUR
+T1  - Multi-Objective Model Selection for Unmanned Aerial Vehicles Automatic Target Recognition Systems
+A1  - Alves Ribeiro, Victor Henrique
+A1  - Reynoso-Meza, Gilberto
+A1  - dos Santos Coelho, Leandro
+Y1  - 2017///
+KW  - Artificial neural networks
+KW  - Classifiers
+KW  - Electromagnetic signals
+KW  - Genetic algorithms
+KW  - Multi-objective optimization
+KW  - Optimization
+KW  - Signal processing
+JF  - IFAC-PapersOnLine
+VL  - 50
+IS  - 1
+SP  - 11607
+EP  - 11612
+DO  - 10.1016/j.ifacol.2017.08.1652
+UR  - http://www.sciencedirect.com/science/article/pii/S2405896317322577
+N2  - Within unmanned aerial vehicles on-going research topics, automatic target recognition is acquiring relevance. This is due to the easiness with which it is possible to acquire such devices. In order to do this, signal processing and classification techniques could be adopted. Also, in order to improve the classification ratio, optimization techniques could be used. This subject is object of study for many researchers, but the authors worry about the lack of information while using single-objective optimization techniques. The proposed work comprises the application of multi-objective optimization design in order to create an automatic target recognition system to discriminate different types of unmanned aerial vehicles. In order to accomplish this, a K-band radar system is used to send and receive electromagnetic signals, which are then processed with feature extraction techniques, and finally, applied on an artificial neural network system. In order to improve the system's classification ratio, the classifier is defined as a multi-objective problem, and evolutionary multi-objective optimization techniques are applied. Finally, in order to select the best possible trade-off, the level diagrams multi-criteria decision making methodology is used to compare different solutions.
+ER  - 
+TY  - JOUR
+T1  - An analysis of African airlines efficiency with two-stage TOPSIS and neural networks
+A1  - Barros, Carlos Pestana
+A1  - Wanke, Peter
+Y1  - 2015///
+KW  - Africa
+KW  - Airlines
+KW  - Efficiency ranks
+KW  - Neural networks
+KW  - TOPSIS
+KW  - Two-stage
+JF  - Journal of Air Transport Management
+VL  - 44-45
+SP  - 90
+EP  - 102
+DO  - 10.1016/j.jairtraman.2015.03.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0969699715000241
+N2  - This paper presents an efficiency assessment of African airlines, using the TOPSIS - Technique for Order Preference by Similarity to the Ideal Solution. TOPSIS is a multi-criteria decision making technique, which similar to DEA (Data Envelopment Analysis), ranks a finite set of units based on the minimisation of distance from an ideal point, and the maximisation of distance from an anti-ideal point. In this research, TOPSIS is used first in a two-stage approach, in order to assess the relative efficiency of African airlines using the most frequent indicators adopted by the literature on airlines. During the second stage, neural networks are combined with TOPSIS results, as part of an attempt to produce a model for airline performance which has effective predictive ability. The results reveal that network size-related variables - economies of scope, are the most important variables for explaining levels of efficiency in the African airline industry, although the impact of fleet mix and public ownership cannot be neglected.
 ER  - 
 TY  - JOUR
 T1  - Comparison and ranking of different modelling techniques for prediction of site index in Mediterranean mountain forests
@@ -334,4 +316,22 @@ EP  - 1130
 DO  - 10.1016/j.ecolmodel.2010.01.007
 UR  - http://www.sciencedirect.com/science/article/pii/S0304380010000463
 N2  - Forestry science has a long tradition of studying the relationship between stand productivity and abiotic and biotic site characteristics, such as climate, topography, soil and vegetation. Many of the early site quality modelling studies related site index to environmental variables using basic statistical methods such as linear regression. Because most ecological variables show a typical non-linear course and a non-constant variance distribution, a large fraction of the variation remained unexplained by these linear models. More recently, the development of more advanced non-parametric and machine learning methods provided opportunities to overcome these limitations. Nevertheless, these methods also have drawbacks. Due to their increasing complexity they are not only more difficult to implement and interpret, but also more vulnerable to overfitting. Especially in a context of regionalisation, this may prove to be problematic. Although many non-parametric and machine learning methods are increasingly used in applications related to forest site quality assessment, their predictive performance has only been assessed for a limited number of methods and ecosystems. In this study, five different modelling techniques are compared and evaluated, i.e. multiple linear regression (MLR), classification and regression trees (CART), boosted regression trees (BRT), generalized additive models (GAM), and artificial neural networks (ANN). Each method is used to model site index of homogeneous stands of three important tree species of the Taurus Mountains (Turkey): Pinus brutia, Pinus nigra and Cedrus libani. Site index is related to soil, vegetation and topographical variables, which are available for 167 sample plots covering all important environmental gradients in the research area. The five techniques are compared in a multi-criteria decision analysis in which different model performance measures, ecological interpretability and user-friendliness are considered as criteria. When combining these criteria, in most cases GAM is found to outperform all other techniques for modelling site index for the three species. BRT is a good alternative in case the ecological interpretability of the technique is of higher importance. When user-friendliness is more important MLR and CART are the preferred alternatives. Despite its good predictive performance, ANN is penalized for its complex, non-transparent models and big training effort. © 2010 Elsevier B.V. All rights reserved.
+ER  - 
+TY  - JOUR
+T1  - Integration of genetic algorithms and neural networks for the formation of the classifier of the hierarchical Choquet integral
+A1  - Chen, Chin Yi
+A1  - Huang, Jih Jeng
+Y1  - 2020///
+KW  - Fuzzy measure coefficients
+KW  - Genetic algorithms
+KW  - Hierarchical Choquet integral
+KW  - Neural network
+PB  - Elsevier
+JF  - Information Sciences
+VL  - 537
+SP  - 46
+EP  - 61
+DO  - 10.1016/j.ins.2020.05.063
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025520304850
+N2  - The Choquet integral model is mainly applied to describe non-additive multi-criteria decision-making (MCDM) problems. This paper considers the Choquet integral as a classifier which deals with complicated high-dimensional data. Although previously conducted studies have investigated the problem of classification using the Choquet integral and provided corresponding models, these models usually need to estimate a large number of fuzzy measure coefficients, which are not suitable when considering real situations. Sugeno et al. proposed the hierarchical Choquet integral (HCI) model to overcome this problem. However, the HCI model requires partition information of the criteria, which often cannot be obtained practically. This paper proposes two HCI models—shallow and deep models—by employing genetic algorithms (GAs) and neural networks (NNs) to automatically construct the structure of the HCI. The results of numerical experiments show that the proposed model outperforms the existing Naïve Bayes, decision tree, and NN models.
 ER  - 

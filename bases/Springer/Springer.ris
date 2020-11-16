@@ -1,43 +1,22 @@
 TY  - JOUR
-T1  - Using grey relational analysis and grey integrated multi-objective strategy to evaluate the risk factors of falling of aboriginal elders in Taiwan
-A1  - Huang, Hsiao Ching
-A1  - Tsai, Tsai Fu
-A1  - Subeq, Yi Maun
+T1  - Developing and evaluating a proposed health security framework in IoT using fuzzy analytic network process method
+A1  - Haghparast, Mohammad Bagher
+A1  - Berehlia, Sasan
+A1  - Akbari, Mona
+A1  - Sayadi, Ali
 Y1  - 2020///
-KW  - Aboriginal elders
-KW  - Fall risk factors
-KW  - Grey multi-objective decision making
-KW  - Grey relational analysis
-KW  - Mixed-method study
-PB  - Springer
-JF  - Soft Computing
-VL  - 24
-IS  - 11
-SP  - 8097
-EP  - 8112
-DO  - 10.1007/s00500-019-04178-x
-UR  - https://link.springer.com/article/10.1007/s00500-019-04178-x
-N1  - Cited By (since 2020): 3
-N2  - Aboriginal elders falls have been a widely discussed topic; however, factors such as emotional and physical functions, and social and cultural backgrounds are lacking. Most studies focusing on fall correlations concentrate on medical institutions or non-tribal community areas. Few studies focus on falling of elders in mountainous areas. Applying grey relational and multi-objective decision making to predict the prevalence of falls and associated risk factors for aboriginal elders is the purpose of this study. We targeted the Atayal and Tsuo aboriginal elders in central Taiwan, involving 160 members settled in mountainous townships in Taiwan. For this research study, the components are as follows: The grey theory predicts and evaluates the commonly used fall risk assessment tools, that is, quantative questionaires include: (1) focused history: medication history and Brief Symptom Rating Scale questionnaire, BSRS-5; (2) functional Assessment: ADL (Barthel Index) and IADL; (3) prevention of falls health beliefs; and (4) prevention of falls self-efficacy. With qualitative and in-depth interviews, 18 tribal elders, 55 years and above, were interviewed: 9 from the Atayal and 9 from the Tsou. Based on the Nvivo 12.0 data analysis software, this study concluded that the most predictable fall risk assessment tool is Downton Fall Risk Index (weighting: 0.8657), followed by BSR-5 (weighting: 0.5701), prevention of falls health beliefs (weighting: 0.448), Barthel scale (weighting: 0.4296), IADL (weighting: 0.1661), prevention of falls self-efficacy (weighting: 0.1391) and medical history (weighting: 0.0615). Further, qualitative results indicated that the issue of health inequalities under the influence of ethnic culture, including physical and disease characteristics, tend to be more than the proportion of heart and hypertension diseases, healthy behaviors such as unbalanced diet, cultural beliefs in gender division of labor and ethnic communication barriers and lack of cultural adaptability care resources. The risky tribal environment of mountainous areas is a major factor that leads to falls. The results provide an accurate assessment tool suitable for Taiwanese aboriginal elders’ falls for future medical policy making and fall prevention intervention in cultural safety.
-ER  - 
-TY  - JOUR
-T1  - VNE strategy based on chaos hybrid flower pollination algorithm considering multi-criteria decision making
-A1  - Zhang, Peiying
-A1  - Liu, Fanglin
-A1  - Aujla, Gagangeet Singh
-A1  - Vashisht, Sahil
-Y1  - 2020///
-KW  - BP neural network
-KW  - Chaos optimization strategy
-KW  - Flower pollination algorithm
-KW  - Genetic algorithm
-KW  - Virtual network embedding
-PB  - Springer
-JF  - Neural Computing and Applications
-DO  - 10.1007/s00521-020-04827-5
-UR  - https://link.springer.com/content/pdf/10.1007/s00521-020-04827-5.pdf
-N1  - Cited By (since 2020): 1
-N2  - With the development of science and technology and the need for multi-criteria decision making (MCDM), the optimization problem to be solved becomes extremely complex. The theoretically accurate and optimal solutions are often difficult to obtain. Therefore, meta-heuristic algorithms based on multi-point search have received extensive attention. The flower pollination algorithm (FPA) is a new swarm intelligence meta-heuristic algorithm, which can effectively control the balance between global search and local search through a handover probability, and gradually attracts the attention of researchers. However, the algorithm still has problems that are common to optimization algorithms. For example, the global search operation guided by the optimal solution is easy to lead the algorithm into local optimum, and the vector-guided search process is not suitable for solving some problems in discrete space. Moreover, the algorithm does not consider dynamic multi-criteria decision problems well. Aiming at these problems, the design strategy of hybrid flower pollination algorithm for virtual network embedding problem is discussed. Combining the advantages of the genetic algorithm and FPA, the algorithm is optimized for the characteristics of discrete optimization problems. The cross-operation is used to replace the cross-pollination operation to complete the global search and replace the mutation operation with self-pollination operation to enhance the ability of local search. Moreover, a life cycle mechanism is introduced as a complement to the traditional fitness-based selection strategy to avoid premature convergence. A chaos optimization strategy is introduced to replace the random sequence-guided crossover process to strengthen the global search capability and reduce the probability of producing invalid individuals. In addition, a two-layer BP neural network is introduced to replace the traditional objective function to strengthen the dynamic MCDM ability. Simulation results show that the proposed method has good performance in link load balancing, revenue–cost ratio, VN requests acceptance ratio, mapping average quotation, average time delay, average packet loss rate, and the average running time of the algorithm.
+KW  - Analytic network process (ANP)
+KW  - Cloud services
+KW  - Fuzzy ANP
+KW  - Health Internet of Things
+KW  - Internet of Things (IoT)
+KW  - Privacy
+KW  - Security framework
+JF  - Journal of Ambient Intelligence and Humanized Computing
+DO  - 10.1007/s12652-020-02472-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089784090&doi=10.1007%2Fs12652-020-02472-3&partnerID=40&md5=2da81b077330218b941550d7cc45c140
+N1  - Export Date: 5 November 2020
+N2  - Internet of Things (IoT) played a significant role in Healthcare. One of the major challenges in IoT health is security. For this reason, regarding the past studies, there is a lack of a comprehensive security framework that encompasses all layers of IoT. This article offers a security framework with four layers of sensor, network, service, and application. These layers help to develop security mechanisms within the proposed framework by providing security solutions. Also, security improvement has been influenced by the Multi Criteria Decision Making (MCDM) technique. To evaluate this framework, a conceptual model was defined with six critical criteria including security, network, services, interoperability, privacy, and reliability. The validity and reliability of this conceptual model were analyzed using SPSS 24 and AMOS 18. After proving the important criteria in the proposed model, we used the MCDM process of fuzzy analytic network process to prioritize the important criteria. The evaluation results of the conceptual model in the proposed framework, after analyzing the routes, show the validity of the proposed criteria. Therefore, in this model, 8 out of 12 communication routes between the criteria have a positive and significant relationship and 4 routes do not. The results of prioritizing important criteria in the research model, using analytic network process method, show that the network criterion, and authentication and validation sub-criteria have the highest priority among the proposed criteria. Thus, it can be decided that security solutions in the network layer and authentication and validation sub-criteria help to develop the proposed security framework.
 ER  - 
 TY  - CHAP
 T1  - Context-Dependent Feedback Prioritisation in Exploratory Learning Revisited
@@ -62,27 +41,6 @@ UR  - http://link.springer.com/10.1007/978-3-642-22362-4_6
 N2  - The open nature of exploratory learning leads to situations when feedback is needed to address several conceptual difficulties. Not all, however, can be addressed at the same time, as this would lead to cognitive overload and confuse the learner rather than help him/her. To this end, we propose a personalised context-dependent feedback prioritisation mechanism based on Analytic Hierarchy Process (AHP) and Neural Networks (NN). AHP is used to define feedback prioritisation as a multi-criteria decision-making problem, while NN is used to model the relation between the criteria and the order in which the conceptual difficulties should be addressed. When used alone, AHP needs a large amount of data from experts to cover all possible combinations of the criteria, while the AHP-NN synergy leads to a general model that outputs results for any such combination. This work was developed and tested in an exploratory learning environment for mathematical generalisation called eXpresser. © 2011 Springer-Verlag.
 ER  - 
 TY  - JOUR
-T1  - An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query
-A1  - Xie, Min
-A1  - Wong, Raymond Chi Wing
-A1  - Lall, Ashwin
-Y1  - 2020///
-KW  - Data analysis
-KW  - Multi-criteria decision making
-KW  - Query processing
-KW  - Regret minimization
-PB  - Springer
-JF  - VLDB Journal
-VL  - 29
-IS  - 1
-SP  - 147
-EP  - 175
-DO  - 10.1007/s00778-019-00570-z
-UR  - https://link.springer.com/article/10.1007/s00778-019-00570-z
-N1  - Cited By (since 2020): 4
-N2  - When faced with a database containing millions of tuples, a user may be only interested in a (typically much) smaller representative subset. Recently, a query called the regret minimization query was proposed toward this purpose to create such a subset for users. Specifically, this query finds a set of tuples that minimizes the user regret (measured by how far the user’s favorite tuple in the selected set is from his/her favorite tuple in the whole database). The regret minimization query was shown to be very useful in bridging the best worlds between two existing well-known queries, top-k queries and skyline queries: Like top-k queries, the total number of tuples returned in this new query is controllable, and like skyline queries, this new query does not require a user to specify any preference function. Thus, it has attracted a lot of attention from researchers in the database community. Various methods were proposed for regret minimization. However, despite the abundant research effort, there is no systematic comparison among the existing methods. This paper surveys this interesting and evolving research topic by broadly reviewing and comparing the state-of-the-art methods for regret minimization. Moreover, we study different variants of the regret minimization query that has garnered considerable attention in recent years and present some interesting problems that have not yet been addressed in the literature. We implemented 12 state-of-the-art methods published in top-tier venues such as SIGMOD and VLDB from 2010 to 2018 for obtaining regret minimization sets and give an experimental comparison under various parameter settings on both synthetic and real datasets. Our evaluation shows that the optimal choice of methods for regret minimization depends on the application demands. This paper provides an empirical guideline for making such a decision.
-ER  - 
-TY  - JOUR
 T1  - Framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model
 A1  - Muruganantham, A.
 A1  - Gandhi, G. Meera
@@ -105,22 +63,64 @@ N1  - Cited By (since 2020): 3
 N2  - The Social, Mobile, Analytics and Cloud (SMAC) explosion in recent times changed the way the customers look at and collaborate businesses through large world of data or information, often described as “Big Data”. With over 1590 million active users, social media such as Facebook, Twitter, WhatsApp, Instagram, LinkedIn etc. send or receive messages or post or access new content every day. Businesses or enterprises understand and extract useful insights from social media platform and transforming it into useful information or knowledge along with their enterprise business data for strategic decision making. A framework for Social Media Analytics based on Multi-Criteria Decision Making (MCDM) model is proposed for social media data and our comprehensive study on large-scale twitter dataset experiment explains how MCDM (TOPSIS) method outperforms against the standard centrality methods using predicted Spreading Size. Two well-known metrics such as MAE (Mean Absolute Error), and RMSE (Root Mean Square Error) are applied to measure prediction accuracy of our MCDM based method against standard methods. TOPSIS (MCDM based) experiences least error accuracy of 9% in MAE and 16% in RMSE than the standard methods to prove that the proposed approach works better than the standard methods.
 ER  - 
 TY  - JOUR
-T1  - Developing and evaluating a proposed health security framework in IoT using fuzzy analytic network process method
-A1  - Haghparast, Mohammad Bagher
-A1  - Berehlia, Sasan
-A1  - Akbari, Mona
-A1  - Sayadi, Ali
+T1  - VNE strategy based on chaos hybrid flower pollination algorithm considering multi-criteria decision making
+A1  - Zhang, Peiying
+A1  - Liu, Fanglin
+A1  - Aujla, Gagangeet Singh
+A1  - Vashisht, Sahil
 Y1  - 2020///
-KW  - Analytic network process (ANP)
-KW  - Cloud services
-KW  - Fuzzy ANP
-KW  - Health Internet of Things
-KW  - Internet of Things (IoT)
-KW  - Privacy
-KW  - Security framework
-JF  - Journal of Ambient Intelligence and Humanized Computing
-DO  - 10.1007/s12652-020-02472-3
-UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089784090&doi=10.1007%2Fs12652-020-02472-3&partnerID=40&md5=2da81b077330218b941550d7cc45c140
-N1  - Export Date: 5 November 2020
-N2  - Internet of Things (IoT) played a significant role in Healthcare. One of the major challenges in IoT health is security. For this reason, regarding the past studies, there is a lack of a comprehensive security framework that encompasses all layers of IoT. This article offers a security framework with four layers of sensor, network, service, and application. These layers help to develop security mechanisms within the proposed framework by providing security solutions. Also, security improvement has been influenced by the Multi Criteria Decision Making (MCDM) technique. To evaluate this framework, a conceptual model was defined with six critical criteria including security, network, services, interoperability, privacy, and reliability. The validity and reliability of this conceptual model were analyzed using SPSS 24 and AMOS 18. After proving the important criteria in the proposed model, we used the MCDM process of fuzzy analytic network process to prioritize the important criteria. The evaluation results of the conceptual model in the proposed framework, after analyzing the routes, show the validity of the proposed criteria. Therefore, in this model, 8 out of 12 communication routes between the criteria have a positive and significant relationship and 4 routes do not. The results of prioritizing important criteria in the research model, using analytic network process method, show that the network criterion, and authentication and validation sub-criteria have the highest priority among the proposed criteria. Thus, it can be decided that security solutions in the network layer and authentication and validation sub-criteria help to develop the proposed security framework.
+KW  - BP neural network
+KW  - Chaos optimization strategy
+KW  - Flower pollination algorithm
+KW  - Genetic algorithm
+KW  - Virtual network embedding
+PB  - Springer
+JF  - Neural Computing and Applications
+DO  - 10.1007/s00521-020-04827-5
+UR  - https://link.springer.com/content/pdf/10.1007/s00521-020-04827-5.pdf
+N1  - Cited By (since 2020): 1
+N2  - With the development of science and technology and the need for multi-criteria decision making (MCDM), the optimization problem to be solved becomes extremely complex. The theoretically accurate and optimal solutions are often difficult to obtain. Therefore, meta-heuristic algorithms based on multi-point search have received extensive attention. The flower pollination algorithm (FPA) is a new swarm intelligence meta-heuristic algorithm, which can effectively control the balance between global search and local search through a handover probability, and gradually attracts the attention of researchers. However, the algorithm still has problems that are common to optimization algorithms. For example, the global search operation guided by the optimal solution is easy to lead the algorithm into local optimum, and the vector-guided search process is not suitable for solving some problems in discrete space. Moreover, the algorithm does not consider dynamic multi-criteria decision problems well. Aiming at these problems, the design strategy of hybrid flower pollination algorithm for virtual network embedding problem is discussed. Combining the advantages of the genetic algorithm and FPA, the algorithm is optimized for the characteristics of discrete optimization problems. The cross-operation is used to replace the cross-pollination operation to complete the global search and replace the mutation operation with self-pollination operation to enhance the ability of local search. Moreover, a life cycle mechanism is introduced as a complement to the traditional fitness-based selection strategy to avoid premature convergence. A chaos optimization strategy is introduced to replace the random sequence-guided crossover process to strengthen the global search capability and reduce the probability of producing invalid individuals. In addition, a two-layer BP neural network is introduced to replace the traditional objective function to strengthen the dynamic MCDM ability. Simulation results show that the proposed method has good performance in link load balancing, revenue–cost ratio, VN requests acceptance ratio, mapping average quotation, average time delay, average packet loss rate, and the average running time of the algorithm.
+ER  - 
+TY  - JOUR
+T1  - An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query
+A1  - Xie, Min
+A1  - Wong, Raymond Chi Wing
+A1  - Lall, Ashwin
+Y1  - 2020///
+KW  - Data analysis
+KW  - Multi-criteria decision making
+KW  - Query processing
+KW  - Regret minimization
+PB  - Springer
+JF  - VLDB Journal
+VL  - 29
+IS  - 1
+SP  - 147
+EP  - 175
+DO  - 10.1007/s00778-019-00570-z
+UR  - https://link.springer.com/article/10.1007/s00778-019-00570-z
+N1  - Cited By (since 2020): 4
+N2  - When faced with a database containing millions of tuples, a user may be only interested in a (typically much) smaller representative subset. Recently, a query called the regret minimization query was proposed toward this purpose to create such a subset for users. Specifically, this query finds a set of tuples that minimizes the user regret (measured by how far the user’s favorite tuple in the selected set is from his/her favorite tuple in the whole database). The regret minimization query was shown to be very useful in bridging the best worlds between two existing well-known queries, top-k queries and skyline queries: Like top-k queries, the total number of tuples returned in this new query is controllable, and like skyline queries, this new query does not require a user to specify any preference function. Thus, it has attracted a lot of attention from researchers in the database community. Various methods were proposed for regret minimization. However, despite the abundant research effort, there is no systematic comparison among the existing methods. This paper surveys this interesting and evolving research topic by broadly reviewing and comparing the state-of-the-art methods for regret minimization. Moreover, we study different variants of the regret minimization query that has garnered considerable attention in recent years and present some interesting problems that have not yet been addressed in the literature. We implemented 12 state-of-the-art methods published in top-tier venues such as SIGMOD and VLDB from 2010 to 2018 for obtaining regret minimization sets and give an experimental comparison under various parameter settings on both synthetic and real datasets. Our evaluation shows that the optimal choice of methods for regret minimization depends on the application demands. This paper provides an empirical guideline for making such a decision.
+ER  - 
+TY  - JOUR
+T1  - Using grey relational analysis and grey integrated multi-objective strategy to evaluate the risk factors of falling of aboriginal elders in Taiwan
+A1  - Huang, Hsiao Ching
+A1  - Tsai, Tsai Fu
+A1  - Subeq, Yi Maun
+Y1  - 2020///
+KW  - Aboriginal elders
+KW  - Fall risk factors
+KW  - Grey multi-objective decision making
+KW  - Grey relational analysis
+KW  - Mixed-method study
+PB  - Springer
+JF  - Soft Computing
+VL  - 24
+IS  - 11
+SP  - 8097
+EP  - 8112
+DO  - 10.1007/s00500-019-04178-x
+UR  - https://link.springer.com/article/10.1007/s00500-019-04178-x
+N1  - Cited By (since 2020): 3
+N2  - Aboriginal elders falls have been a widely discussed topic; however, factors such as emotional and physical functions, and social and cultural backgrounds are lacking. Most studies focusing on fall correlations concentrate on medical institutions or non-tribal community areas. Few studies focus on falling of elders in mountainous areas. Applying grey relational and multi-objective decision making to predict the prevalence of falls and associated risk factors for aboriginal elders is the purpose of this study. We targeted the Atayal and Tsuo aboriginal elders in central Taiwan, involving 160 members settled in mountainous townships in Taiwan. For this research study, the components are as follows: The grey theory predicts and evaluates the commonly used fall risk assessment tools, that is, quantative questionaires include: (1) focused history: medication history and Brief Symptom Rating Scale questionnaire, BSRS-5; (2) functional Assessment: ADL (Barthel Index) and IADL; (3) prevention of falls health beliefs; and (4) prevention of falls self-efficacy. With qualitative and in-depth interviews, 18 tribal elders, 55 years and above, were interviewed: 9 from the Atayal and 9 from the Tsou. Based on the Nvivo 12.0 data analysis software, this study concluded that the most predictable fall risk assessment tool is Downton Fall Risk Index (weighting: 0.8657), followed by BSR-5 (weighting: 0.5701), prevention of falls health beliefs (weighting: 0.448), Barthel scale (weighting: 0.4296), IADL (weighting: 0.1661), prevention of falls self-efficacy (weighting: 0.1391) and medical history (weighting: 0.0615). Further, qualitative results indicated that the issue of health inequalities under the influence of ethnic culture, including physical and disease characteristics, tend to be more than the proportion of heart and hypertension diseases, healthy behaviors such as unbalanced diet, cultural beliefs in gender division of labor and ethnic communication barriers and lack of cultural adaptability care resources. The risky tribal environment of mountainous areas is a major factor that leads to falls. The results provide an accurate assessment tool suitable for Taiwanese aboriginal elders’ falls for future medical policy making and fall prevention intervention in cultural safety.
 ER  - 
