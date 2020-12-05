@@ -1,60 +1,138 @@
-TY  - CONF
-T1  - The design of digit recognition teaching experiment based on PCA and BP neural network
-A1  - Liu, Panpan
-A1  - Guo, Jianyi
-A1  - Yu, Zhengtao
-A1  - Li, Huafeng
-A1  - Xian, Yantuan
-Y1  - 2015/05//
-KW  - BP neural network
-KW  - Data analysis
-KW  - MATLAB
-KW  - Multi-objective
-KW  - PCA
-PB  - IEEE
-JF  - The 27th Chinese Control and Decision Conference (2015 CCDC)
-SP  - 4132
-EP  - 4135
-SN  - 978-1-4799-7017-9
-DO  - 10.1109/CCDC.2015.7162656
-UR  - http://ieeexplore.ieee.org/document/7162656/
-N2  - In order to resolve the comprehension difficulties of theory and implementation about multi-objective decision in 'Decision Analysis and Decision Support' course for postgraduates, digit recognition experiment is introduced into teaching practice. PCA method is used in the process of digit recognition, which is one of multi-objective decision methods. The digital recognition principles are firstly described based on PCA and BP neural network. Then, a teaching experimental scheme is given, and the algorithm's design and simulation can be carried in MATLAB. So that students can deeply understand and master the theoretical knowledge through the open experiment. It has been found that the experiment can effectively improve the students' practical ability and the understanding of the process of multi-objective decision.
+TY  - JOUR
+T1  - A Multi-Criteria 2-Tuple Linguistic Group Decision-Making Method Based on TODIM for Cholecystitis Treatments Selection
+A1  - Xie, Li
+A1  - He, Jiqun
+A1  - Cheng, Pengfei
+A1  - Xiao, Runsha
+A1  - Zhou, Xianghong
+Y1  - 2019///
+KW  - 2-Tuple linguistic
+KW  - Cholecystitis
+KW  - TODIM
+KW  - best-worst method (BWM)
+KW  - entropy weight method
+KW  - group decision-making (MCGDM)
+JF  - IEEE Access
+VL  - 7
+SP  - 127967
+EP  - 127986
+DO  - 10.1109/ACCESS.2019.2939211
+UR  - https://ieeexplore.ieee.org/document/8822928/
+N2  - Cholecystitis is a common disease with a high incidence, and attracts much attention. It not only harms human health, but also affects quality of work and life. Therefore, the choice of a suitable treatment is badly important for patients. In this paper, a novel selection model of treatments for cholecystitis based on hybrid multiple-criteria group decision-making (MCGDM), which is helpful to choose the most suitable treatment in the case of asymmetric information between doctors and patients. Subsequently, subjective and objective criteria are comprehensively taken into account in the index system of the selection model for cholecystitis, and combines 2-Tuple linguistic with quantitative data analysis. Besides, the evaluation information obtained from the patient's conditions, the treatment and the hospital's medical status, etc., including real numbers, interval numbers, and linguistic labels with multi-granularity, is more complete and real. And the 2-Tuple linguistic model is used to unify the non-homogeneous information, so the treatment selection is accurate and reliable. Simultaneously, for the unknown index and criteria weight, the improved entropy weight method and the BWM (best-worst-method) are utilized to figure out the index weight and criteria weight, respectively. Further, TODIM (an acronym in Portuguese for interactive and multi-criteria decision-making model) method based on the prospect theory is applied to solve the prioritization of cholecystitis treatments, and give full consideration to the decision maker of risk aversion. Eventually, an empirical study of treatment selection for cholecystitis is conducted. Sensitivity analysis and comparative analysis indicate that the proposed selection model of treatments for cholecystitis patients is reliable and effective.
 ER  - 
 TY  - CONF
-T1  - Discrete event simulation combined with multi-criteria decision analysis applied to steel plant logistics system planning
-A1  - Brito, Thiago Barros
-A1  - Dos Santos Silva, Rodolfo Celestino
-A1  - Botter, Rui Carlos
-A1  - Pereira, Newton Narciso
-A1  - Medina, Afonso Celso
-Y1  - 2010/12//
+T1  - A Novel Multi-Criteria Decision Data Analysis System for Energy Conservation in Civil Aviation
+A1  - Lin, Yangfei
+A1  - Zhang, Zhixiang
+A1  - Li, Jie
+A1  - Ye, Shaozhen
+Y1  - 2017/08//
+KW  - Airlines
+KW  - Flight fuel conservation
+KW  - Multi-criteria decision analysis
 PB  - IEEE
-JF  - Proceedings - Winter Simulation Conference
-SP  - 2126
-EP  - 2137
-SN  - 9781424498666
-DO  - 10.1109/WSC.2010.5678862
-UR  - http://ieeexplore.ieee.org/document/5678862/
-N2  - This paper aims the development and employment of a computational tool to support strategic decisions about the planning and sizing of the logistics and production elements of a steel plant (stockyards, transportation fleet, etc.). This tool corresponds to a hybrid software application able to analyze and evaluate the complex logistic problem proposed by combining the techniques of Discrete Event Simulation (DES) Modeling and Multiple Criteria Decision Analysis (MCDA). Also, are presented the proposed steel plant logistic system characteristics, as well as the methodologies applied to build the computational tool and to analyze the simulation results. The study concludes that the DES model combined with MCDA methodology is highly efficient regarding complex logistic systems major characteristics assessment. ©2010 IEEE.
+JF  - 2017 International Conference on Green Informatics (ICGI)
+SP  - 169
+EP  - 174
+SN  - 978-1-5386-2280-3
+DO  - 10.1109/ICGI.2017.51
+UR  - http://ieeexplore.ieee.org/document/8117101/
+N2  - In air transport, the growing demand in energy along with rising fuel costs is endangering civil aviations optimistic outlook, besides, concerns have focused more on addressing aviations impact on greenhouse gas emissions. Based on the analysis of the necessity of carrying out the work of energy saving, the paper analyzes the factors that have great influences on the energy economy from the multi-criteria point of view, establishes multi-criteria decision analysis model, and puts forward an analysis system for energy conservation in civil aviation which provides a theoretical basis for the administrators to work out energy-efficient solutions.
 ER  - 
 TY  - CONF
-T1  - A hybrid Analytical Hierarchical Process and Deep Neural Networks approach for classifying breast cancer
-A1  - Soliman, Taysir Hassan A.
-A1  - Mohamed, Randa
-A1  - Sewissy, Adel A.
-Y1  - 2017/12//
-KW  - Analytical Hierarchy Process
-KW  - Classification
-KW  - Deep Neural Network
+T1  - Using artificial neural networks and analytic hierarchy process for the supplier selection problem
+A1  - Kar, Arpan Kumar
+Y1  - 2013///
+KW  - Fuzzy Analytic Hierarchy Process
+KW  - Neural Networks
+KW  - Pattern Classification
+KW  - Supplier Selection
+JF  - 2013 IEEE International Conference on Signal Processing, Computing and Control, ISPCC 2013
+SP  - 1
+EP  - 6
+SN  - 9781467361903
+DO  - 10.1109/ISPCC.2013.6663449
+N2  - Pattern classification and its applications are classic domains of study in the area of artificial intelligence. In this study, we integrate neural networks and analytic hierarchy process for the purpose of pattern classification, and showcase the application for the supplier selection problem in the domain of procurement management. Pattern classification has been used for the purpose of supplier base rationalization. In this study, the criteria for decision making have been modeled using fuzzy logic, which further has been modeled as a multi-objective decision making process, by combining the two complementary approaches. The integrated approach drastically reduces the data points required for training and thus extends the applicability of the classifier in the supplier selection domain where the data points is not so high, as is required by classifiers. The proposed integrated approach has been further studied through a case study conducted on a multi-national firm and the results of the analysis have been discussed. © 2013 IEEE.
+ER  - 
+TY  - CONF
+T1  - Multiobjective design of evolutionary hybrid neural networks
+A1  - Ferariu, Lavinia
+A1  - Burlacu, Bogdan
+Y1  - 2011///
+KW  - genetic programming
+KW  - multiobjective optimization
+KW  - neural networks
+KW  - system identification
+JF  - Proceedings of 2011 17th International Conference on Automation and Computing, ICAC 2011
+SP  - 195
+EP  - 200
+SN  - 9781467300001
+UR  - https://ieeexplore.ieee.org/abstract/document/6084926
+N2  - The paper presents a new approach to data-driven modeling. The models are flexibly configured in compliance with the neural network formalism, by accepting partially interconnected structures and various types of global and local neurons within each hidden neural layer. A simultaneous selection of convenient model structure and parameters is performed, making use of multiobjective graph genetic programming. For an efficient assessment of individuals, the authors suggest a new Pareto-ranking strategy, which permits a progressive combination between search and decision, tailored to handle objectives of different priorities. The experiments carried out for the identification of an industrial system show the capacity of the proposed approach to automatically build simple and precise models, whilst dealing with noisy data and poor aprioric information. © 2011 CACSUK.
+ER  - 
+TY  - CONF
+T1  - Applying multi-criteria decision classifier in multi-class classification
+A1  - Chen, Chen Tung
+A1  - Pai, Ping Feng
+A1  - Hung, Wei Zhan
+Y1  - 2011/07//
+KW  - MCDM
+KW  - Multi-Class Classification
+KW  - Prediction
+PB  - IEEE
+JF  - Proceedings - 2011 8th International Conference on Fuzzy Systems and Knowledge Discovery, FSKD 2011
+VL  - 1
+SP  - 607
+EP  - 610
+SN  - 9781612841816
+DO  - 10.1109/FSKD.2011.6019535
+UR  - http://ieeexplore.ieee.org/document/6019535/
+N2  - Multi-criteria decision-making (MCDM) is one of the most widely used decision methodologies in the sciences, business, government and engineering fields. The goal of this research is to extend multi-criteria decision-making method to multi-class classification problem. Multi-criteria decision classifier (MCDC) is a new classifier and is proposed by this research for dealing with multi class classification problem. The application of MCDC is that it can consider as a weak classifier for adaboost classifier although the accurate rate of MCDC is worst than back-propagation neural network (BPNN). This study will make an example to implement and compare the proposed method with BPNN, KNN and Bayesian classifier. Finally, we will make a conclusion and future research. © 2011 IEEE.
+ER  - 
+TY  - JOUR
+T1  - An Efficient Multiobjective Design Optimization Method for a PMSLM Based on an Extreme Learning Machine
+A1  - Song, Juncai
+A1  - Dong, Fei
+A1  - Zhao, Jiwen
+A1  - Wang, Hui
+A1  - He, Zhongyan
+A1  - Wang, Lijun
+Y1  - 2019///
+KW  - Extreme learning machine (ELM)
+KW  - finite-element analysis (FEA)
+KW  - gray Wolf optimizer algorithm (GWOA)
+KW  - multiobjective design optimization
+KW  - permanent magnet synchronous linear motors (PMSLMs
+KW  - support vector machine (SVM)
+JF  - IEEE Transactions on Industrial Electronics
+VL  - 66
+IS  - 2
+SP  - 1001
+EP  - 1011
+DO  - 10.1109/TIE.2018.2835413
+UR  - https://ieeexplore.ieee.org/abstract/document/8357457/
+N2  - This paper focuses on the multiobjective design optimization of the permanent magnet synchronous linear motors (PMSLMs), which are applied to a high-precision laser engraving machine. A novel efficient multiobjective design optimization method for a PMSLM is proposed to achieve optimal performances as indicated by high average thrust, low thrust ripple, and low total harmonic distortion at different running speeds. First, based on the finite-element analysis (FEA) data, a regression machine learning algorithm, called an extreme learning machine (ELM), is introduced to solve the calculation modeling problem by mapping out the nonlinear and complex relationship between input structural factors and output motor performances. Comparative simulation experiments conducted using the traditional analytical modeling method and another machine learning modeling method, i.e., support vector machine, confirm the superiority of the ELM. Then, a new bionic intelligent optimization algorithm, called the gray wolf optimizer algorithm, is used to search the best optimization performances and structural parameters by performing iteration optimization calculation for multiobjective functions. Finally, FEA and prototype motor experiments prove the effectiveness and validity of the proposed method.
+ER  - 
+TY  - CONF
+T1  - A multi-criteria decision making approach for recommending a product using sentiment analysis
+A1  - Kumar, Gaurav
+Y1  - 2018/05//
+KW  - AHP
 KW  - Multi Criteria Decision Making
+KW  - Review Mining
+KW  - Sentiment Analysis
+KW  - Smartphone Evaluation
+KW  - TOPSIS
+KW  - WSM
 PB  - IEEE
-JF  - Proceedings of 2016 11th International Conference on Computer Engineering and Systems, ICCES 2016
-SP  - 212
-EP  - 219
-SN  - 9781509032679
-DO  - 10.1109/ICCES.2016.7822002
-UR  - http://ieeexplore.ieee.org/document/7822002/
-N2  - Data mining techniques and multi criteria decision making techniques have been used widely in many areas, such as customer relationship management, medicine, engineering, education, geographic information systems, and recommendation systems. The present study aims to design a hybrid approach based on Deep Neural Networks (DNNs) and multi criteria decision making. DNNs and multi criteria decision making techniques are integrated with Analytical Hierarchy Process (AHP) to improve classification accuracy and deal with large datasets. Three different breast cancer datasets are used for evaluating the performance of the proposed hybrid approach. In most cases, the hybrid approach of applying DNN Backpropagation with three hidden layers and AHP gives better accuracy rate 84.33%, precision 95.9%, recall 86.6%, and F-measure of 90.2% than using one hidden layer or applying DNN Backpropagation with three hidden layers without AHP. In addition, classical classification algorithm are also compared: J48, naïve bayes, and random tree, where they give less results than proposed approach.
+JF  - Proceedings - International Conference on Research Challenges in Information Science
+VL  - 2018-May
+SP  - 1
+EP  - 6
+SN  - 9781538665176
+DO  - 10.1109/RCIS.2018.8406679
+UR  - https://ieeexplore.ieee.org/document/8406679/
+N2  - Nowadays, online platform has become a modern means of shopping among people. The reviews of products by customers have been proliferating on the online platform for a while. Since a large number of reviews are available, invariably customers read reviews before buying the product. Majority of the reviews are lengthy and repetitive, some of them even have nothing to do with the product itself. Going through the reviews before making a decision has become a tedious task. Further, the product selection is a complex decision making problem where several criteria are involved in the decision making process. Researchers have used methods like machine learning and sentiment classification to analyze the review of customers to summarize them. However, review summarization does not suggest the best/worst product. This study aims to recommend the best product based on the opinions expressed in the customers' reviews. We analyze the reviews of customers from various online platforms and use effective multi criteria decision making approach to evaluate and recommend the best suitable product. Real-time dataset from Flipkart and Amazon are used to evaluate our system's performance. Different case studies have shown that our proposed method produces a promising result which can help the user in the decision making process.
 ER  - 
 TY  - JOUR
 T1  - Dynamic Multi-criteria Classifier Selection for Illegal Tapping Detection in Oil Pipelines
@@ -79,20 +157,69 @@ UR  - https://ieeexplore.ieee.org/abstract/document/9206602/
 N1  - Cited By (since 2020): 1
 N2  - Illegal tapping of fuel pipelines has recently become one of the most relevant safety problems faced by the industry. Hundreds of illegal interventions have been reported around the world, causing a significant number of deaths, relevant impacts on the environment, and capital loss. Therefore, it is important to develop systems that are able to detect such scenarios at an early stage, enabling a fast counteract. To this end, machine learning algorithms can train models on available data for detecting future issues. Most recently, ensemble learning and dynamic classifier selection (DCS) techniques have been achieving promising results in supervised learning tasks. Such models are usually trained based on a single criterion. However, it is desirable to take into account both the number of false positives (FP) and false negatives (FN) for the illegal tapping detection task, since they are conflicting and both lead to financial losses and/or accidents. Therefore, this work proposes a novel DCS technique based on multiple criteria, namely overall local class-specific accuracy (OLCA), which employs multi-criteria decision making for dynamically selecting the best classifier for a new sample given the local true positive and negative ratios. A numerical experiment is conducted for assessing the generalization performance of the proposed method in an oil pipeline, with the goal of detecting illegal taping using pressure transient signals. Results show that OLCA is able to reduce the number of both FP and FN when dynamically selecting the classifiers of a baseline Random Forest ensemble.
 ER  - 
+TY  - CONF
+T1  - A DSL-MCDA Model for Energy Consumption-Aware in Cloud Computing
+A1  - Saidi, Karima
+A1  - Hioual, Ouassila
+A1  - Siam, Abderrahim
+Y1  - 2019/12//
+KW  - Cloud Computing
+KW  - Deep Supervised Learning (DSL)
+KW  - Energy Consumption-Aware
+KW  - Multi-Criteria Decision Analysis (MCDA)
+KW  - Resource allocation
+PB  - IEEE
+JF  - 2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)
+SP  - 168
+EP  - 173
+SN  - 978-1-7281-5184-7
+DO  - 10.1109/IINTEC48298.2019.9112111
+UR  - https://ieeexplore.ieee.org/document/9112111/
+N2  - Cloud Computing environment provides an infinite number of resources to Cloud users with different utilities such as computing power, storage space, servers and applications. There are various issues in the cloud resource allocation area that still need to be solved. To address some of these issues, we propose in this paper the DSL-MCDA (Deep Supervised Learning - Multi Criteria Decision Analysis) Model for Energy Consumption-Aware in Cloud Computing as a proactive model of energy consumption-aware. The main goal of the proposed model is to reduce the energy consumption since virtual machines (VM) are dynamically consolidated to lesser number of physical machines (PMs) by selecting an optimal resource that satisfies the demands of cloud users, and this based on classification in deep supervised learning and multi-criteria decision analysis (MCDA) methods.
+ER  - 
 TY  - JOUR
-T1  - pymoo: Multi-objective Optimization in Python
-A1  - Blank, Julian
-A1  - Deb, Kalyanmoy
-Y1  - 2020///
-KW  - Customization
-KW  - Genetic Algorithm
-KW  - Multi-objective Optimization
-KW  - Python
-PB  - ieeexplore.ieee.org
-JF  - arXiv
-UR  - https://ieeexplore.ieee.org/abstract/document/9078759/
-N1  - Cited By (since 2020): 14
-N2  - Python has become the programming language of choice for research and industry projects related to data science, machine learning, and deep learning. Since optimization is an inherent part of these research fields, more optimization related frameworks have arisen in the past few years. Only a few of them support optimization of multiple conflicting objectives at a time, but do not provide comprehensive tools for a complete multi-objective optimization task. To address this issue, we have developed pymoo, a multi-objective optimization framework in Python. We provide a guide to getting started with our framework by demonstrating the implementation of an exemplary constrained multiobjective optimization scenario. Moreover, we give a high-level overview of the architecture of pymoo to show its capabilities followed by an explanation of each module and its corresponding sub-modules. The implementations in our framework are customizable and algorithms can be modified/extended by supplying custom operators. Moreover, a variety of single, multi and many-objective test problems are provided and gradients can be retrieved by automatic differentiation out of the box. Also, pymoo addresses practical needs, such as the parallelization of function evaluations, methods to visualize low and high-dimensional spaces, and tools for multi-criteria decision making. For more information about pymoo, readers are encouraged to visit: https://pymoo.org
+T1  - A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis
+A1  - Liu, Zeyi
+A1  - Xiao, Fuyuan
+A1  - Lin, Chin-Teng
+A1  - Kang, Byeong Ho
+A1  - Cao, Zehong
+Y1  - 2019///
+JF  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+SP  - 1
+EP  - 12
+DO  - 10.1109/TSMC.2019.2919243
+UR  - https://ieeexplore.ieee.org/document/8734878/
+N2  - Multicriteria decision analysis evaluates multiple conflicting criteria in decision making, but conflicting criteria are typical in evaluating options. As the existing ordering operations involved in multicriteria decision making cannot easily be implemented with intervals, we assume that scalar representative values with intervals can effectively avoid this issue. To deal with interval-valued criteria, we propose a generalized golden rule representative value approach, which involves the sigmoid function of backpropagation neural networks to tune parameters. Our approach considers the uncertainties and side effects of the interval variables to improve individual scalar representative values. Based on numerical examples, we address the effectiveness of the proposed approach, and we provide a specific application concerning multicriteria decision making with interval criteria satisfaction.
+ER  - 
+TY  - CONF
+T1  - The multi-criteria decision making, a tool for the promotion of technological inter-connected world through digital decision making
+A1  - Agwa-Ejon, J. F.
+A1  - Mulaba-Bafubiandi, A.
+A1  - Pretorius, J. H.
+Y1  - 2017///
+JF  - PICMET 2017 - Portland International Conference on Management of Engineering and Technology: Technology Management for the Interconnected World, Proceedings
+VL  - 2017-Janua
+SP  - 1
+EP  - 7
+SN  - 9781890843366
+DO  - 10.23919/PICMET.2017.8125301
+N2  - The world is dynamic and requires complex decisions to be made in-order to resolve the global challenges. One of the tools, which can be used to assist the analyst and expert decision makers, is the Multi-Criteria Decision Making (MCDM). The dramatic increase in computer power, both wired and wireless connectivity, and availability of big data has affected the way we make decisions. This paper explores how big data and other technological information may be used to influence the MCDM process. A multi-case study, based on complex decisions made, was used to identify the key indicators to access the level of improvements in accuracy and speed as a result of big data in MCDM process. The paper also examines the barriers to the successful adoption of big data in decision making and suggests reasons why decision makers should be encouraged to adopt the digital technologies in global decision processes. Recommendations were then made on how to best adopt the e-technology and cyber-infrastructure to the MCDM process. The paper concluded by indicating further areas of research and recommends that the users of big data should increase vigilance at all times.
+ER  - 
+TY  - CONF
+T1  - Risks-forcast at people-in-clouds: Big data-based clouds healthcare and risk forecasting based on subjective intelligence
+A1  - Fujita, Hamido
+Y1  - 2016///
+JF  - CINTI 2015 - 16th IEEE International Symposium on Computational Intelligence and Informatics, Proceedings
+SP  - 21
+EP  - 21
+SN  - 9781467385206
+DO  - 10.1109/CINTI.2015.7382916
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964931590&doi=10.1109%2FCINTI.2015.7382916&partnerID=40&md5=087270d2846ba836468fb683b2fec211
+N1  - From Duplicate 2 (Risks-forcast at people-in-clouds: Big data-based clouds healthcare and risk forecasting based on subjective intelligence - Fujita, Hamido)
+
+Export Date: 5 November 2020
+N2  - In decision making most approaches are taking into account objective criteria, however the subjective correlation among decision makers provided as preference utility is necessary to be presented to provide confidence preference additive among decision makers reducing ambiguity and produce better utility preferences measurement for subjective criteria among decision makers. Most models in Decision support systems are assuming criteria as independent. Therefore, these models are ranking alternatives based on objective data analysis. Also, different type of data (time series, linguistic values, interval data, etc.) imposes some difficulties to do decision making using classical multi criteria decision making models.
 ER  - 
 TY  - JOUR
 T1  - Benchmarking Methodology for Selection of Optimal COVID-19 Diagnostic Model Based on Entropy and TOPSIS Methods
@@ -130,160 +257,6 @@ N1  - Cited By (since 2020): 6
 N2  - Nowadays, coronavirus (COVID-19) is getting international attention due it considered as a life-threatened epidemic disease that hard to control the spread of infection around the world. Machine learning (ML) is one of intelligent technique that able to automatically predict the event with reasonable accuracy based on the experience and learning process. In the meantime, a rapid number of ML models have been proposed for predicate the cases of COVID-19. Thus, there is need for an evaluation and benchmarking of COVID-19 ML models which considered the main challenge of this study. Furthermore, there is no single study have addressed the problem of evaluation and benchmarking of COVID diagnosis models. However, this study proposed an intelligent methodology is to help the health organisations in the selection COVID-19 diagnosis system. The benchmarking and evaluation of diagnostic models for COVID-19 is not a trivial process. There are multiple criteria requires to evaluate and some of the criteria are conflicting with each other. Our study is formulated as a decision matrix (DM) that embedded mix of ten evaluation criteria and twelve diagnostic models for COVID-19. The multi-criteria decision-making (MCDM) method is employed to evaluate and benchmarking the different diagnostic models for COVID19 with respect to the evaluation criteria. An integrated MCDM method are proposed where TOPSIS applied for the benchmarking and ranking purpose while Entropy used to calculate the weights of criteria. The study results revealed that the benchmarking and selection problems associated with COVID19 diagnosis models can be effectively solved using the integration of Entropy and TOPSIS. The SVM (linear) classifier is selected as the best diagnosis model for COVID19 with the closeness coefficient value of 0.9899 for our case study data. Furthermore, the proposed methodology has solved the significant variance for each criterion in terms of ideal best and worst best value, beside issue when specific diagnosis models have same ideal best value.
 ER  - 
 TY  - CONF
-T1  - Multi-criteria assessment of a whole-of-government planning methodology using MYRIAD
-A1  - Lafond, Daniel
-A1  - Gagnon, Jean-Francois
-A1  - Tremblay, Sebastien
-A1  - Derbentseva, Natalia
-A1  - Lizotte, Michel
-Y1  - 2015/03//
-KW  - Collaborative understanding
-KW  - comprehensive approach
-KW  - multi-criteria decision making
-KW  - planning
-PB  - IEEE
-JF  - 2015 IEEE International Multi-Disciplinary Conference on Cognitive Methods in Situation Awareness and Decision
-SP  - 49
-EP  - 55
-SN  - 978-1-4799-8015-4
-DO  - 10.1109/COGSIMA.2015.7108174
-UR  - http://ieeexplore.ieee.org/document/7108174/
-N2  - The present work describes the application of a multi-criteria assessment tool called MYRIAD to the evaluation of a methodology that was developed to improve team understanding of a complex situation. The methodology aims to support a multi-disciplinary team working collaboratively on the development of a mission plan during an expeditionary stability operation. We conducted a case study assessing collaborative understanding and team performance while subject matter experts employed the methodology as a complement to the standard planning process. Results were analyzed using MYRIAD, a preference modeling system that allows combining disparate measures into a coherent assessment capturing several key logical relationships between metrics - ones that may not be modeled using the traditional weighted sum approach. MYRIAD was also used to perform a sensitivity analysis in order to derive from the preference model which aspects of the planning methodology would lead to the greatest overall improvement. Results helped identifying priority areas for future development.
-ER  - 
-TY  - JOUR
-T1  - A New and Efficient Intelligent Collaboration Scheme for Fashion Design
-A1  - Yu, Yong
-A1  - Choi, Tsan-Ming
-A1  - Hui, Chi-Leung
-A1  - Ho, Tin-Kin
-Y1  - 2011/05//
-KW  - Artificial neural network (ANN)
-KW  - design scheme
-KW  - fuzzy logic
-KW  - multicriteria decision making
-JF  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
-VL  - 41
-IS  - 3
-SP  - 463
-EP  - 475
-DO  - 10.1109/TSMCA.2010.2089514
-UR  - http://ieeexplore.ieee.org/document/5659914/
-N2  - Technology-mediated collaboration process has been extensively studied for over a decade. Most applications with collaboration concepts reported in the literature focus on enhancing efficiency and effectiveness of the decision-making processes in objective and well-structured workflows. However, relatively few previous studies have investigated the applications of collaboration schemes to problems with subjective and unstructured nature. In this paper, we explore a new intelligent collaboration scheme for fashion design which, by nature, relies heavily on human judgment and creativity. Techniques such as multicriteria decision making, fuzzy logic, and artificial neural network (ANN) models are employed. Industrial data sets are used for the analysis. Our experimental results suggest that the proposed scheme exhibits significant improvement over the traditional method in terms of the timecost effectiveness, and a company interview with design professionals has confirmed its effectiveness and significance. © 2006 IEEE.
-ER  - 
-TY  - CONF
-T1  - Predicting credit card holder churn in banks of China using data mining and MCDM
-A1  - Wang, Guoxun
-A1  - Liu, Liang
-A1  - Peng, Yi
-A1  - Nie, Guangli
-A1  - Kou, Gang
-A1  - Shi, Yong
-Y1  - 2010/08//
-KW  - Classification
-KW  - Credit card holder churn analysis
-KW  - Data mining
-KW  - MCDM
-KW  - PROMETHEE II
-KW  - TOPSIS
-PB  - IEEE
-JF  - Proceedings - 2010 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology - Workshops, WI-IAT 2010
-SP  - 215
-EP  - 218
-SN  - 9780769541914
-DO  - 10.1109/WI-IAT.2010.237
-UR  - http://ieeexplore.ieee.org/document/5615798/
-N2  - Nowadays, with increasingly intense competition in the market, major banks pay more attention on customer relationship management. A real-time and effective credit card holders' churn analysis is important and helpful for bankers to maintain credit card holders. In this research we apply 12 classification algorithms in a real-life credit card holders' behaviors dataset from a major commercial bank in China to construct a predictive churn model. Furthermore, a comparison is made between the predictive performance of classification algorithms based on Multi-Criteria Decision Making techniques such as PROMETHEE II and TOPSIS. The research results show that banks can choose the most appropriate classification algorithm/s for customer churn prediction for noisy credit card holders' behaviors data using MCDM. © 2010 IEEE.
-ER  - 
-TY  - JOUR
-T1  - An Efficient Multiobjective Design Optimization Method for a PMSLM Based on an Extreme Learning Machine
-A1  - Song, Juncai
-A1  - Dong, Fei
-A1  - Zhao, Jiwen
-A1  - Wang, Hui
-A1  - He, Zhongyan
-A1  - Wang, Lijun
-Y1  - 2019///
-KW  - Extreme learning machine (ELM)
-KW  - finite-element analysis (FEA)
-KW  - gray Wolf optimizer algorithm (GWOA)
-KW  - multiobjective design optimization
-KW  - permanent magnet synchronous linear motors (PMSLMs)
-KW  - support vector machine (SVM)
-JF  - IEEE Transactions on Industrial Electronics
-VL  - 66
-IS  - 2
-SP  - 1001
-EP  - 1011
-DO  - 10.1109/TIE.2018.2835413
-UR  - https://ieeexplore.ieee.org/abstract/document/8357457/
-N2  - This paper focuses on the multiobjective design optimization of the permanent magnet synchronous linear motors (PMSLMs), which are applied to a high-precision laser engraving machine. A novel efficient multiobjective design optimization method for a PMSLM is proposed to achieve optimal performances as indicated by high average thrust, low thrust ripple, and low total harmonic distortion at different running speeds. First, based on the finite-element analysis (FEA) data, a regression machine learning algorithm, called an extreme learning machine (ELM), is introduced to solve the calculation modeling problem by mapping out the nonlinear and complex relationship between input structural factors and output motor performances. Comparative simulation experiments conducted using the traditional analytical modeling method and another machine learning modeling method, i.e., support vector machine, confirm the superiority of the ELM. Then, a new bionic intelligent optimization algorithm, called the gray wolf optimizer algorithm, is used to search the best optimization performances and structural parameters by performing iteration optimization calculation for multiobjective functions. Finally, FEA and prototype motor experiments prove the effectiveness and validity of the proposed method.
-ER  - 
-TY  - CONF
-T1  - Multiobjective design of evolutionary hybrid neural networks
-A1  - Ferariu, Lavinia
-A1  - Burlacu, Bogdan
-Y1  - 2011///
-KW  - genetic programming
-KW  - multiobjective optimization
-KW  - neural networks
-KW  - system identification
-JF  - Proceedings of 2011 17th International Conference on Automation and Computing, ICAC 2011
-SP  - 195
-EP  - 200
-SN  - 9781467300001
-UR  - https://ieeexplore.ieee.org/abstract/document/6084926
-N2  - The paper presents a new approach to data-driven modeling. The models are flexibly configured in compliance with the neural network formalism, by accepting partially interconnected structures and various types of global and local neurons within each hidden neural layer. A simultaneous selection of convenient model structure and parameters is performed, making use of multiobjective graph genetic programming. For an efficient assessment of individuals, the authors suggest a new Pareto-ranking strategy, which permits a progressive combination between search and decision, tailored to handle objectives of different priorities. The experiments carried out for the identification of an industrial system show the capacity of the proposed approach to automatically build simple and precise models, whilst dealing with noisy data and poor aprioric information. © 2011 CACSUK.
-ER  - 
-TY  - CONF
-T1  - Using artificial neural networks and analytic hierarchy process for the supplier selection problem
-A1  - Kar, Arpan Kumar
-Y1  - 2013///
-KW  - Fuzzy Analytic Hierarchy Process
-KW  - Neural Networks
-KW  - Pattern Classification
-KW  - Supplier Selection
-JF  - 2013 IEEE International Conference on Signal Processing, Computing and Control, ISPCC 2013
-SP  - 1
-EP  - 6
-SN  - 9781467361903
-DO  - 10.1109/ISPCC.2013.6663449
-N2  - Pattern classification and its applications are classic domains of study in the area of artificial intelligence. In this study, we integrate neural networks and analytic hierarchy process for the purpose of pattern classification, and showcase the application for the supplier selection problem in the domain of procurement management. Pattern classification has been used for the purpose of supplier base rationalization. In this study, the criteria for decision making have been modeled using fuzzy logic, which further has been modeled as a multi-objective decision making process, by combining the two complementary approaches. The integrated approach drastically reduces the data points required for training and thus extends the applicability of the classifier in the supplier selection domain where the data points is not so high, as is required by classifiers. The proposed integrated approach has been further studied through a case study conducted on a multi-national firm and the results of the analysis have been discussed. © 2013 IEEE.
-ER  - 
-TY  - CONF
-T1  - Applying multi-criteria decision classifier in multi-class classification
-A1  - Chen, Chen Tung
-A1  - Pai, Ping Feng
-A1  - Hung, Wei Zhan
-Y1  - 2011/07//
-KW  - MCDM
-KW  - Multi-Class Classification
-KW  - Prediction
-PB  - IEEE
-JF  - Proceedings - 2011 8th International Conference on Fuzzy Systems and Knowledge Discovery, FSKD 2011
-VL  - 1
-SP  - 607
-EP  - 610
-SN  - 9781612841816
-DO  - 10.1109/FSKD.2011.6019535
-UR  - http://ieeexplore.ieee.org/document/6019535/
-N2  - Multi-criteria decision-making (MCDM) is one of the most widely used decision methodologies in the sciences, business, government and engineering fields. The goal of this research is to extend multi-criteria decision-making method to multi-class classification problem. Multi-criteria decision classifier (MCDC) is a new classifier and is proposed by this research for dealing with multi class classification problem. The application of MCDC is that it can consider as a weak classifier for adaboost classifier although the accurate rate of MCDC is worst than back-propagation neural network (BPNN). This study will make an example to implement and compare the proposed method with BPNN, KNN and Bayesian classifier. Finally, we will make a conclusion and future research. © 2011 IEEE.
-ER  - 
-TY  - JOUR
-T1  - A Generalized Golden Rule Representative Value for Multiple-Criteria Decision Analysis
-A1  - Liu, Zeyi
-A1  - Xiao, Fuyuan
-A1  - Lin, Chin-Teng
-A1  - Kang, Byeong Ho
-A1  - Cao, Zehong
-Y1  - 2019///
-JF  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
-SP  - 1
-EP  - 12
-DO  - 10.1109/TSMC.2019.2919243
-UR  - https://ieeexplore.ieee.org/document/8734878/
-N2  - Multicriteria decision analysis evaluates multiple conflicting criteria in decision making, but conflicting criteria are typical in evaluating options. As the existing ordering operations involved in multicriteria decision making cannot easily be implemented with intervals, we assume that scalar representative values with intervals can effectively avoid this issue. To deal with interval-valued criteria, we propose a generalized golden rule representative value approach, which involves the sigmoid function of backpropagation neural networks to tune parameters. Our approach considers the uncertainties and side effects of the interval variables to improve individual scalar representative values. Based on numerical examples, we address the effectiveness of the proposed approach, and we provide a specific application concerning multicriteria decision making with interval criteria satisfaction.
-ER  - 
-TY  - CONF
 T1  - Adaptive Nature-Inspired Fog Architecture
 A1  - Kimovski, Dragi
 A1  - Ijaz, Humaira
@@ -299,41 +272,18 @@ DO  - 10.1109/CFEC.2018.8358723
 UR  - https://ieeexplore.ieee.org/document/8358723/
 N2  - During the last decade, Cloud computing has efficiently exploited the economy of scale by providing low cost computational and storage resources over the Internet, eventually leading to consolidation of computing resources into large data centers. However, the nascent of the highly decentralized Internet of Things (IoT) technologies that cannot effectively utilize the centralized Cloud infrastructures pushes computing towards resource dispersion. Fog computing extends the Cloud paradigm by enabling dispersion of the computational and storage resources at the edge of the network in a close proximity to where the data is generated. In its essence, Fog computing facilitates the operation of the limited compute, storage and networking resources physically located close to the edge devices. However, the shared complexity of the Fog and the influence of the recent IoT trends moving towards deploying and interconnecting extremely large sets of pervasive devices and sensors, requires exploration of adaptive Fog architectural approaches capable of adapting and scaling in response to the unpredictable load patterns of the distributed IoT applications. In this paper we introduce a promising new nature- inspired Fog architecture, named SmartFog, capable of providing low decision making latency and adaptive resource management. By utilizing novel algorithms and techniques from the fields of multi- criteria decision making, graph theory and machine learning we model the Fog as a distributed intelligent processing system, therefore emulating the function of the human brain.
 ER  - 
-TY  - CONF
-T1  - Multicriteria clustering with weighted Tchebycheff distances for relational data
-A1  - Queiroz, Sergio
-A1  - De Carvalho, Francisco De A.T.
-A1  - Lechevallier, Yves
-Y1  - 2012/06//
-KW  - Clustering analysis
-KW  - multicriteria decision support
-KW  - relational data
-PB  - IEEE
-JF  - Proceedings of the International Joint Conference on Neural Networks
-SP  - 1
-EP  - 6
-SN  - 9781467314909
-DO  - 10.1109/IJCNN.2012.6252709
-UR  - http://ieeexplore.ieee.org/document/6252709/
-N2  - We present a new algorithm capable of partitioning sets of objects by taking simultaneously into account their relational descriptions given by multiple dissimilarity matrices. The algorithm uses a nonlinear aggregation criterion, weighted Tchebycheff distances, more appropriate than linear combinations (such as weighted averages) for the construction of compromise solutions. We obtain a partition of the set of objects, the prototype of each cluster and a weight vector that indicates the relevance of each criterion in each cluster. Since this is a clustering algorithm for relational data, it is compatible with any distance function used to measure the dissimilarity between objects. Some practical applications are shown, the good results obtained indicate the interest of the presented algorithm. © 2012 IEEE.
-ER  - 
-TY  - CONF
-T1  - A DSL-MCDA Model for Energy Consumption-Aware in Cloud Computing
-A1  - Saidi, Karima
-A1  - Hioual, Ouassila
-A1  - Siam, Abderrahim
-Y1  - 2019/12//
-KW  - Cloud Computing
-KW  - Deep Supervised Learning (DSL)
-KW  - Energy Consumption-Aware
-KW  - Multi-Criteria Decision Analysis (MCDA)
-KW  - Resource allocation
-PB  - IEEE
-JF  - 2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)
-SP  - 168
-EP  - 173
-SN  - 978-1-7281-5184-7
-DO  - 10.1109/IINTEC48298.2019.9112111
-UR  - https://ieeexplore.ieee.org/document/9112111/
-N2  - Cloud Computing environment provides an infinite number of resources to Cloud users with different utilities such as computing power, storage space, servers and applications. There are various issues in the cloud resource allocation area that still need to be solved. To address some of these issues, we propose in this paper the DSL-MCDA (Deep Supervised Learning - Multi Criteria Decision Analysis) Model for Energy Consumption-Aware in Cloud Computing as a proactive model of energy consumption-aware. The main goal of the proposed model is to reduce the energy consumption since virtual machines (VM) are dynamically consolidated to lesser number of physical machines (PMs) by selecting an optimal resource that satisfies the demands of cloud users, and this based on classification in deep supervised learning and multi-criteria decision analysis (MCDA) methods.
+TY  - JOUR
+T1  - pymoo: Multi-objective Optimization in Python
+A1  - Blank, Julian
+A1  - Deb, Kalyanmoy
+Y1  - 2020///
+KW  - Customization
+KW  - Genetic Algorithm
+KW  - Multi-objective Optimization
+KW  - Python
+PB  - ieeexplore.ieee.org
+JF  - arXiv
+UR  - https://ieeexplore.ieee.org/abstract/document/9078759/
+N1  - Cited By (since 2020): 14
+N2  - Python has become the programming language of choice for research and industry projects related to data science, machine learning, and deep learning. Since optimization is an inherent part of these research fields, more optimization related frameworks have arisen in the past few years. Only a few of them support optimization of multiple conflicting objectives at a time, but do not provide comprehensive tools for a complete multi-objective optimization task. To address this issue, we have developed pymoo, a multi-objective optimization framework in Python. We provide a guide to getting started with our framework by demonstrating the implementation of an exemplary constrained multiobjective optimization scenario. Moreover, we give a high-level overview of the architecture of pymoo to show its capabilities followed by an explanation of each module and its corresponding sub-modules. The implementations in our framework are customizable and algorithms can be modified/extended by supplying custom operators. Moreover, a variety of single, multi and many-objective test problems are provided and gradients can be retrieved by automatic differentiation out of the box. Also, pymoo addresses practical needs, such as the parallelization of function evaluations, methods to visualize low and high-dimensional spaces, and tools for multi-criteria decision making. For more information about pymoo, readers are encouraged to visit: https://pymoo.org
 ER  - 
