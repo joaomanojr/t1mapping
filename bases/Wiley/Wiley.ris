@@ -1,165 +1,4 @@
 TY  - JOUR
-T1  - Sensitivity analysis and multiobjective design optimization of flux switching permanent magnet motor using MLP-ANN modeling and NSGA-II algorithm
-A1  - Mahmouditabar, Farshid
-A1  - Vahedi, Abolfazl
-A1  - Mosavi, Mohammad R.
-A1  - Bafghi, Mohammad H.B.
-Y1  - 2020/09//
-KW  - DOE
-KW  - FEM
-KW  - FSPM motor
-KW  - MLP-ANN
-KW  - NSGA-II
-KW  - optimization
-PB  - John Wiley & Sons, Ltd
-JF  - International Transactions on Electrical Energy Systems
-VL  - 30
-IS  - 9
-SP  - e12511
-EP  - e12511
-DO  - 10.1002/2050-7038.12511
-UR  - https://doi.org/10.1002/2050-7038.12511
-N1  - https://doi.org/10.1002/2050-7038.12511
-N2  - The flux switching permanent magnet (FSPM) motor is relatively a new topology of the permanent magnet (PM) motors, which both PM and armature winding are placed at the stator. This feature leads to more robust design, better heat dissipation, and a proper option for a wide range of industrial applications. The critical part of the development of FSPM motor is the design optimization of the structure to improve the electromagnetic performance of the motor. In this article, first to reduce the computation time and required memory of the optimization procedure, the multiobjective sensitivity analysis based on design of experiment is performed to specify the most effective parameters on the objectives. Then, the initial samples data of the optimization procedure is obtained by 2D finite element method (FEM) model of the FSPM motor, which is validated by the prototype of the motor. Furthermore, based on FEM results the multilayers perceptron artificial neural network for the approximation of relation between design variables and objectives is implemented. Finally, using the nondominated sorting genetic algorithm-II, the optimization procedure of the FSPM motor is done. The accuracy of the presented optimization procedure is validated by a comparison of the initial prototype and final design of the motor.
-ER  - 
-TY  - JOUR
-T1  - Alternative approach for learning and improving the MCDA method PROAFTN
-A1  - Al-Obeidat, Feras
-A1  - Belacel, Nabil
-Y1  - 2011/05//
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Intelligent Systems
-VL  - 26
-IS  - 5
-SP  - 444
-EP  - 463
-DO  - 10.1002/int.20476
-UR  - https://doi.org/10.1002/int.20476
-N1  - https://doi.org/10.1002/int.20476
-N2  - The objectives of this paper are (1) to propose new techniques to learn and improve the multicriteria decision analysis (MCDA) method PROAFTN based on machine learning approaches and (2) to compare the performance of the developed methods with other well-known machine learning classification algorithms. The proposed learning methods consist of two stages: The first stage involves using the discretization techniques to obtain the required parameters for the PROAFTN method, and the second stage is the development of a new inductive approach to construct PROAFTN prototypes for classification. The comparative study is based on the generated classification accuracy of the algorithms on the data sets. For further robust analysis of the experiments, we used the Friedman statistical measure with the corresponding post hoc tests. The proposed approaches significantly improved the performance of the classification method PROAFTN. Based on the generated results on the same data sets, PROAFTN outperforms widely used classification algorithms. Furthermore, the method is simple, no preprocessing is required, and no loss of information during learning. © 2011 Wiley Periodicals, Inc.
-ER  - 
-TY  - JOUR
-T1  - Application of artificial intelligence algorithms on modeling of reflection phase characteristics of a nonuniform reflectarray element
-A1  - Mahouti, Peyman
-Y1  - 2020/03//
-KW  - convolutional neural network
-KW  - deep learning
-KW  - reflectarray antenna
-KW  - regression
-KW  - symbolic regression
-PB  - John Wiley & Sons, Ltd
-JF  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
-VL  - 33
-IS  - 2
-SP  - e2689
-EP  - e2689
-DO  - 10.1002/jnm.2689
-UR  - https://doi.org/10.1002/jnm.2689
-N1  - https://doi.org/10.1002/jnm.2689
-N2  - Reflectarray antennas (RAs) have the ability to combine the advantages of both traditional parabolic reflector and phased array antennas without the need for feed network designs. Microstrip reflectarrays (MRAs) have the advantages of being small size, light weighted, easy to prototyped, high gain, low side-lobe level, and a predetermined radiation pattern. These can be achieved by precise calculation of reflection phase at each RA unit independently with a phase compensation proportional to the distance from the feed. The challenging problem is to have a fast and high accurate unit element to be used in multidimension, multiobjective design optimization. Herein, artificial intelligence algorithms (AIAs) have been used for prediction of reflection phase characterization of an X band MRA unit element with respect to the geometrical design parameters. Firstly, a nonuniform unit RA has been designed in 3D electromagnetic (EM) simulation tool for creating the training validation data sets. Then, the data sets are given to the different types of AIA regression models such as multilayer perceptron, symbolic regression, and convolutional neural network. From the results of the validation data set, it can be concluded that the proposed models have sufficient accuracy that can be used in a computationally efficient design optimization process of a large-scale RA design.
-ER  - 
-TY  - JOUR
-T1  - A heuristic approach to the multicriteria design of IaaS cloud infrastructures for Big Data applications
-A1  - Arostegi, María
-A1  - Torre-Bastida, Ana
-A1  - Bilbao, Miren Nekane
-A1  - Del Ser, Javier
-Y1  - 2018/10//
-KW  - Big Data
-KW  - Cloud Computing
-KW  - IaaS
-KW  - NSGA-II
-KW  - multiobjective heuristics
-PB  - Blackwell Publishing Ltd
-JF  - Expert Systems
-VL  - 35
-IS  - 5
-SP  - e12259
-EP  - e12259
-DO  - 10.1111/exsy.12259
-UR  - http://doi.wiley.com/10.1111/exsy.12259
-N2  - The rapid growth of new computing paradigms such as Cloud Computing and Big Data has unleashed great opportunities for companies to shift their business model towards a fully digital strategy. A major obstacle in this matter is the requirement of highly specialized ICT infrastructures that are expensive and difficult to manage. It is at this point that the IaaS (infrastructure as a service) model offers an efficient and cost-affordable solution to supply companies with their required computing resources. In the Big Data context, it is often a hard task to design an optimal IaaS solution that meets user requirements. In this context, we propose a methodology to optimize the definition of IaaS cloud models for hosting Big Data platforms, following a threefold criterion: cost, reliability, and computing capacity. Specifically, the proposed methodology hinges on evolutionary heuristics in order to find IaaS configurations in the cloud that optimally balance such objectives. We also define measures to quantify the aforementioned metrics over a Big Data platform hosted within an IaaS cloud model. The proposed method is validated by using real information from three IaaS providers and three Big Data platforms. The obtained results provide an insightful input for system managers when initially designing cloud infrastructures for Big Data applications.
-ER  - 
-TY  - JOUR
-T1  - MCRiceRepGP: a framework for the identification of genes associated with sexual reproduction in rice
-A1  - Golicz, Agnieszka A.
-A1  - Bhalla, Prem L.
-A1  - Singh, Mohan B.
-Y1  - 2018/10//
-KW  - Oryza sativa
-KW  - function prediction
-KW  - lincRNA
-KW  - machine learning
-KW  - reannotation
-KW  - sexual reproduction
-PB  - John Wiley & Sons, Ltd
-JF  - Plant Journal
-VL  - 96
-IS  - 1
-SP  - 188
-EP  - 202
-DO  - 10.1111/tpj.14019
-UR  - https://doi.org/10.1111/tpj.14019
-N1  - https://doi.org/10.1111/tpj.14019
-N2  - Rice is an important cereal crop, being a staple food for over half of the world's population, and sexual reproduction resulting in grain formation underpins global food security. However, despite considerable research efforts, many of the genes, especially long intergenic non-coding RNA (lincRNA) genes, involved in sexual reproduction in rice remain uncharacterized. With an increasing number of public resources becoming available, information from different sources can be combined to perform gene functional annotation. We report the development of MCRiceRepGP, a machine learning framework which integrates heterogeneous evidence and employs multicriteria decision analysis and machine learning to predict coding and lincRNA genes involved in sexual reproduction in rice. The rice genome was reannotated using deep-sequencing transcriptomic data from reproduction-associated tissue/cell types identifying previously unannotated putative protein-coding genes and lincRNAs. MCRiceRepGP was used for genome-wide discovery of sexual reproduction associated coding and lincRNA genes. The protein-coding and lincRNA genes identified have distinct expression profiles, with a large proportion of lincRNAs reaching maximum expression levels in the sperm cells. Some of the genes are potentially linked to male- and female-specific fertility and heat stress tolerance during the reproductive stage. MCRiceRepGP can be used in combination with other genome-wide studies, such as genome-wide association studies, giving greater confidence that the genes identified are associated with the biological process of interest. As more data, especially about mutant plant phenotypes, become available, the power of MCRiceRepGP will grow, providing researchers with a tool to identify candidate genes for future experiments. MCRiceRepGP is available as a web application (http://mcgplannotator.com/MCRiceRepGP/).
-ER  - 
-TY  - JOUR
-T1  - Harvesting European knowledge on soil functions and land management using multi-criteria decision analysis
-A1  - Bampa, Francesca
-A1  - O'Sullivan, Lilian
-A1  - Madena, Kirsten
-A1  - Sandén, Taru
-A1  - Spiegel, Heide
-A1  - Henriksen, Christian Bugge
-A1  - Ghaley, Bhim Bahadur
-A1  - Jones, Arwyn
-A1  - Staes, Jan
-A1  - Sturel, Sylvain
-A1  - Trajanov, Aneta
-A1  - Creamer, Rachel E.
-A1  - Debeljak, Marko
-Y1  - 2019/03//
-KW  - DEX model
-KW  - farmers and multi-stakeholders
-KW  - locally relevant advice
-KW  - participatory research
-KW  - soil quality
-PB  - John Wiley & Sons, Ltd
-JF  - Soil Use and Management
-VL  - 35
-IS  - 1
-SP  - 6
-EP  - 20
-DO  - 10.1111/sum.12506
-UR  - https://doi.org/10.1111/sum.12506
-N1  - https://doi.org/10.1111/sum.12506
-N2  - Soil and its ecosystem functions play a societal role in securing sustainable food production while safeguarding natural resources. A functional land management framework has been proposed to optimize the agro-environmental outputs from the land and specifically the supply and demand of soil functions such as (a) primary productivity, (b) carbon sequestration, (c) water purification and regulation, (d) biodiversity and (e) nutrient cycling, for which soil knowledge is essential. From the outset, the LANDMARK multi-actor research project integrates harvested knowledge from local, national and European stakeholders to develop such guidelines, creating a sense of ownership, trust and reciprocity of the outcomes. About 470 stakeholders from five European countries participated in 32 structured workshops covering multiple land uses in six climatic zones. The harmonized results include stakeholders’ priorities and concerns, perceptions on soil quality and functions, implementation of tools, management techniques, indicators and monitoring, activities and policies, knowledge gaps and ideas. Multi-criteria decision analysis was used for data analysis. Two qualitative models were developed using Decision EXpert methodology to evaluate “knowledge” and “needs”. Soil quality perceptions differed across workshops, depending on the stakeholder level and regionally established terminologies. Stakeholders had good inherent knowledge about soil functioning, but several gaps were identified. In terms of critical requirements, stakeholders defined high technical, activity and policy needs in (a) financial incentives, (b) credible information on improving more sustainable management practices, (c) locally relevant advice, (d) farmers’ discussion groups, (e) training programmes, (f) funding for applied research and monitoring, and (g) strengthening soil science in education.
-ER  - 
-TY  - JOUR
-T1  - Multi-criteria manufacturability indices for ranking high-concentration monoclonal antibody formulations
-A1  - Yang, Yang
-A1  - Velayudhan, Ajoy
-A1  - Thornhill, Nina F.
-A1  - Farid, Suzanne S.
-Y1  - 2017/09//
-KW  - aggregation
-KW  - data mining
-KW  - developability assessment
-KW  - high-concentration mAb formulation
-KW  - manufacturability index
-KW  - viscosity
-PB  - John Wiley & Sons, Ltd
-JF  - Biotechnology and Bioengineering
-VL  - 114
-IS  - 9
-SP  - 2043
-EP  - 2056
-DO  - 10.1002/bit.26329
-UR  - https://doi.org/10.1002/bit.26329
-N1  - https://doi.org/10.1002/bit.26329
-N2  - The need for high-concentration formulations for subcutaneous delivery of therapeutic monoclonal antibodies (mAbs) can present manufacturability challenges for the final ultrafiltration/diafiltration (UF/DF) step. Viscosity levels and the propensity to aggregate are key considerations for high-concentration formulations. This work presents novel frameworks for deriving a set of manufacturability indices related to viscosity and thermostability to rank high-concentration mAb formulation conditions in terms of their ease of manufacture. This is illustrated by analyzing published high-throughput biophysical screening data that explores the influence of different formulation conditions (pH, ions, and excipients) on the solution viscosity and product thermostability. A decision tree classification method, CART (Classification and Regression Tree) is used to identify the critical formulation conditions that influence the viscosity and thermostability. In this work, three different multi-criteria data analysis frameworks were investigated to derive manufacturability indices from analysis of the stress maps and the process conditions experienced in the final UF/DF step. Polynomial regression techniques were used to transform the experimental data into a set of stress maps that show viscosity and thermostability as functions of the formulation conditions. A mathematical filtrate flux model was used to capture the time profiles of protein concentration and flux decay behavior during UF/DF. Multi-criteria decision-making analysis was used to identify the optimal formulation conditions that minimize the potential for both viscosity and aggregation issues during UF/DF. Biotechnol. Bioeng. 2017;114: 2043–2056. © 2017 The Authors. Biotechnology and Bioengineering Published by Wiley Perodicals, Inc.
-ER  - 
-TY  - JOUR
 T1  - Utilization of machine-learning algorithms for wind turbine site suitability modeling in Iowa, USA
 A1  - Petrov, Andrey N.
 A1  - Wessling, Jordan M.
@@ -179,4 +18,20 @@ DO  - 10.1002/we.1723
 UR  - https://doi.org/10.1002/we.1723
 N1  - https://doi.org/10.1002/we.1723
 N2  - Because of the current shift away from fossil fuels and toward renewable energy sources, it is necessary to plan for the installation of new infrastructure to meet the demand for clean energy. Traditional methods for determining wind turbine site suitability suffer from the selection of arbitrary criteria and model parameters by experts, which may lead to a degree of uncertainty in the models produced. An alternative empirically based methodology for building a wind turbine siting model for the state of Iowa is presented in the study. We employ 'ecological niche' principles traditionally utilized to model species allocation to develop a new multicriteria, spatially explicit framework for wind turbine placement. Using information on suitability conditions at existing turbine locations, we incorporate seven variables (wind speed, elevation, slope, land cover, distance of infrastructure and settlements, and population density) into two machine-learning algorithms [maximum entropy method (Maxent) and Genetic Algorithm for Rule Set Prediction (GARP)] to model suitable areas for installation of wind turbines. The performance of this method is tested at the statewide level and a six-county region in western Iowa. Maxent and GARP identified areas in the Northwest and North Central regions of Iowa as the optimum location for new wind turbines. Information on variable contributions from Maxent illuminates the relative importance of environmental variables and its scale-dependent nature. It also allows validating existing assumptions about the relationship between variables and wind turbine suitability. The resultant models demonstrate high levels of accuracy and suggest that the presented approach is a possible methodology for developing wind turbine siting applications.
+ER  - 
+TY  - JOUR
+T1  - Quantifier Guided Aggregation for the Veracity Assessment of Online Reviews
+A1  - Viviani, Marco
+A1  - Pasi, Gabriella
+Y1  - 2017/05//
+PB  - John Wiley & Sons, Ltd
+JF  - International Journal of Intelligent Systems
+VL  - 32
+IS  - 5
+SP  - 481
+EP  - 501
+DO  - 10.1002/int.21844
+UR  - https://doi.org/10.1002/int.21844
+N1  - https://doi.org/10.1002/int.21844
+N2  - The Social Web is characterized by a massive diffusion of unfiltered content, directly generated by users via the spread of different social media platforms. In this context, a challenging issue is to assess the veracity of the information generated within the sites of online reviews. To address this issue, a common practice in the literature is to select and analyze some veracity features associated with users and their reviews, by mostly applying machine learning techniques, to provide a classification in genuine and deceptive reviews. In this paper, we do not focus on the feature selection and user behavior analysis issues, but we concentrate on the aggregation process with respect to each single veracity feature. In most of the approaches based on machine learning techniques, the contribution of each feature in the classification process is not measurable by the user. For this reason, we propose a multicriteria decision making approach based both on the assessment of multiple criteria and the use of aggregation operators with the aim of obtaining a veracity score associated with each review. Based on this score, it is possible to detect fake reviews. The proposed model is evaluated on a Yelp data set by applying different aggregation schemes, and it is compared with well-known supervised machine learning techniques.
 ER  - 
